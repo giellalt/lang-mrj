@@ -56,7 +56,7 @@ $(tmp-dir)/$(GTLANG)-lex-xmlsrc.txt: $(LEXS)
 # This target will convert each individual xml file to lexc:
 $(OUT)/%.xml.txt: $(SRC)/%.xml $(SCRIPTS)/generate_lex-fileVM.xsl
 	@echo
-	@echo "*** Generating lexc files for Erzya: $(@F) ***"
+	@echo "*** Generating lexc files for Hill Mari: $(@F) ***"
 	@echo
 	@mkdir -p $(OUT)
 	$(JV) $(MF) $(XSL) $(EF) $(SCRIPTS)/generate_lex-fileVM.xsl \
@@ -65,7 +65,7 @@ $(OUT)/%.xml.txt: $(SRC)/%.xml $(SCRIPTS)/generate_lex-fileVM.xsl
 # Generate the lex files
 lexfiles: $(XMLS)
 	@echo
-	@echo "*** Generating lexc files for Erzya ***"
+	@echo "*** Generating lexc files for Hill Mari ***"
 	@echo "*** Files: $(XMLS) ***"
 	@echo
 	@mkdir -p $(OUT)
@@ -76,7 +76,7 @@ ifeq ($(VM), no)
 	$(JV) $(MF) $(XSL) $(EF) $(SCRIPTS)/generate_lex-file.xsl inDir=../src/working_files outDir=$(OUT)
 endif
 	@echo
-	@echo "*** generated all Erzya lexc files in $(OUT). ***"
+	@echo "*** generated all Hill Mari lexc files in $(OUT). ***"
 	@echo
 
 # Start the dict compilation process
