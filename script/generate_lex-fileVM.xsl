@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!--+
     | Generate lex files from XML (at the moment only for Komi)
-    | apply to Erzya
+    | apply to Hill Mari
     | NB: An XSLT-2.0-processor is needed!
     | Usage: java -Xmx2048m net.sf.saxon.Transform -it main XSLT_SCRIPT inFile="INPUT-FILE"
     | 
@@ -68,7 +68,7 @@
 		  <xsl:value-of select="normalize-space(../../../pos)"/>
 		</xsl:attribute>
 		<xsl:attribute name="cl">
-		  <xsl:value-of select="normalize-space(@erzContlex)"/>
+		  <xsl:value-of select="normalize-space(@mrjContlex)"/>
 		</xsl:attribute>
 		<xsl:attribute name="t">
 		  <xsl:value-of select="normalize-space(../../../e[1]/mg[1]/tg[@lang='eng']/t[1])"/>
