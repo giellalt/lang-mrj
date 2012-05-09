@@ -1,0 +1,1123 @@
+Multichar_Symbols
+
+!Development tag
++WORK
+
+ZERO
+%0
+
+! tags
++NCrd
++NOrd
++Dig1
++Dig2
++Dig3
++Dig4
++Rom !Roman numerals
+
+
+
+! tags
++Abs ! Absolutive
++Adj ! Adjective
++Attr ! Attribute
++Bahuvrihi
++Capitalizing
++Dem ! Demonstrative also what was called +SOD
++Def ! Definite
++Der ! Derivation +Deriv
++Det ! Determinative
++Dial
++DimKE ! Diminutive
++DimNE ! Diminutive
++Ellips ! Ellipsis
++Emphatic
+!!!+Indet ! Indeterminative
++Fin ! Finite
++Noun ! Noun
++NomGen ! Nominative and genitive functions
++NonNomSg ! applicable to 1sg and 3sg possession
+!+NoLV ! +NoVowX
++Obj ! Object
++Obliq !
+!+MVme !Main verb "mo" vs "me"
+!+OldOrth
++Poss !
++PossPX
+!+Pref
+!+Pres
+!+PretI
+!+PretII
+!+Prt !Participle >+Ptc
+!+Relat
++Short ! short pronouns ??
++Subj
++Telic ! Telic aspect
++Top ! Topic
+!+Transl ! Translative
++Verb ! Verb
++Voicing
+
+
+!!!!!!!!!!!
+
+
+
+!!!!!!!!!!
+
++CmpTest
+
++Err ! marking missing lexica
+!From xfst-Jack
++NCom +Inanim +Anim +Cnt +NPrp
++SurnameM +PatronymM +Familiar
++SurnameF 
++NoPredx
++Deict ! Deictic
++Exclusive ! ансяк
+
+
+
+! POS
++N +V +A 
++Adv
++Adv-Ideoph ! These are ideophonic descriptors used to modify the verb
+            ! вырк ливтясь '_flit_ and it flew off'
++AdA ! Ad-adjective
++Manner ! with reference to type of adverb
++CC ! coordinating conjunction
++CS ! subordinating conjunction
+ +Interj +Pcle +Clt +Po  
++Pron ! Pronoun
++Adn ! Adnominal !! This is not an NP head like +Pron
++Indef
++Refl ! In Erzya this would include 
++Intensive
++Intensifier ! уш
+ +Rel +Interr +Recipr
++Hum +NonHum 
++Ptc
++VGen
++ActDemPtc
+!! This has something to do with  verb stem tracking
+!  The three should be removed a little later if there
+!  is no reason to keep them
++V1 +V2 +V3
+
+
++Pers
++Imprt
+
+
++Qnt ! Quantifier
++Onom ! onomapoetic words
++Descr ! descriptive words
+
+! Quantifiers 
++Appr ! Approximative numeral кавто-колмо, колмошка 'two or three' 
+    ! NB! do not confuse with Komi case +Apr
+
++Num ! numeral
++Card
++Coll !Collective
++ZeroColl ! In combinations with the plural possessive marker the +Coll
+          ! morpheme нан is not always necessary
++Distr ! Distributive
++Iter ! Iterative form expressing number of times [myv: кавксть] [kpv: кыкысь]
++Ord
+
+! Verbal MSP
+! moods
++Ind +Imp +Cond +Opt 
++Des ! Ыксэль 'was about to; wanted to' 
++Conj ! Ындеря- (Derivational)
++Oblig ! modality: deontic/directive/obligative
+           !  андомс: андома , якамс: якама
++Delib ! +Sugg modality: deontic/directive/deliberative
+       ! I still need the right word for this андомс: андомсат
+
+
++NonPast ! In Erzya There is no morphological distinction between present and future
++Prs +Fut +Fut1 
++Prt1 +Prt2 +Prf
++PrfIpf +HstPrf +PluPrf +HstPluPrf
++Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3
++1Sg +2Sg +3Sg +1Pl +2Pl +3Pl
++1 +2 +3
++Inf
++Pos +Neg +ConNeg
+! Subject conjugation
++Sc1Sg +Sc2Sg +Sc3Sg +Sc1Pl +Sc2Pl +Sc3Pl
+! Object conjugation
++Oc1Sg +Oc2Sg +Oc3Sg +Oc1Pl +Oc2Pl +Oc3Pl
+
+
+! Used for predicate marking in Conjugation
++Pred
+
+! Nominal MSP
++Sg +Pl 
++Prop
++Sur ! Surname
++Mal
++Fem
++Patr ! Patronym
++Plc ! Place name
++Org ! name of organization
++Nom
+
+!!!! FUNCTIONS are all upper-case !!!!
++ACC +DAT +COM ! This marks a function not a morpheme
+
++Gen +Abl +Dat +Com 
+! The accusative is marked by the indefite nominative
+! The definite genitives
+! The possessum genitive where there is a morphological distinction
+! The indefinite genitive where context provides semantic definiteness
++Cmpl ! complement of postpostion
+      ! it will be noted that this complement
+      ! is not necessarily limited to postpositions, non-finites are also
+      ! possible. Generally the forms of +Acc and +Cmpl are identical
+      ! In some dialects and literature the form +Pl+Def.Pl.Nom 
+      ! also occurs with postpositions
+
++Ine +Ill 
++Ela +Tra 
++Abe 
++Loc
++Prl !Prolative "га/ка/ва"
++Voc ! Vocative
++Compar ! comparative as opposed to superlative
+
++Superl ! superlative
++ACR +ABBR
+
++Cmp ! first part of compound
+
+
++Px1Sg
++Px2Sg
++Px3Sg
++Px1Pl
++Px2Pl
++Px3Pl
+! the dat form does not indicate number of possessor
++Px3
+
+
++NoPoss
+
++Comp ! Case form -шка
+
+
++TempCx ! Case form -не
+
+!!Pair Verbs, Serial Verbs compounding
++SerialVerb
+
+! tags
++Der/ай ! vocative
++Der/кай ! vocative
+
+
++Instr
++Event
++Duration
+
+
+! These should be added below in derivation declarations
+!
+!
+!
+!!Then they should have indication of whether they are gerunds or participles!!
+!!
++Der/Овт !
++Der/Омс !
++Der/ОмО !
++Der/ОмстО
++Der/ОмсО
++Der/ОмдО
++Der/Омга
++Der/Ома
++Der/Омка
++Der/Ыця
++Der/Ы
++Der/Ый
++Ger !Gerund This is used with
++Der/Озь !Gerund 
+
+
++CLB +PUNCT +LEFT +RIGHT
+
+! Declaring noun derivations
++Der/пель
+
++Spat ! spatial
++Spat-1Arg ! This takes care of postpostions
++Spat-NoArg ! This takes care of adverbs
++Temp
++Temp-1Arg ! This takes care of postpostions
++Temp-NoArg ! This takes care of adverbs
+
++State ! position or state
+
+!Modifier without noun
++Der/MWN ! Modifier without Noun
++Der/Dem ! Speaker-Oriented Demonstrative
+
+!Declaring Indefinite Pronoun derivations
++Der/Гак
++Der/кой
++Der/та
++Der/таго
++Der/бути
++Der/Ыя ! +Indef  ковия, зярыя
+
+
+!Declaring Noun derivations
++Der/чи ! adjective-to-noun
+! the combinatory +Event preceding the NP-final noun
++Der/ОмА ! verb-to-noun
+
+!Declaring Deverbal derivations of verbs
++Der/кшнО
++Der/се
++Der/не
+
+
++Dim 
++Der/ке
++Der/ка
++Der/нЕ
++Der/Ыне
++Der/Ынька
++Der/Ынькине
+
++Der/Abe ! Adjective usage Maybe this is not necessary.
++Der/Comp
++Der/Gen
+! There portmanteau morphology
+! Noun-type
++Abe.NbAmb.Indef
++Abl.NbAmb.Indef
++Com.NbAmb.Indef
++Comp.NbAmb.Indef
++Dat.DefSg
++Dat.NbAmb.Indef
++Ela.NbAmb.Indef
++Gen.DefSg
++Gen.NbAmb.Indef
++Ill.NbAmb.Indef
++Ine.NbAmb.Indef
++Lat.NbAmb.Indef
++Nom.Def.Sg
++Nom.NbAmb.Indef
++Nom.Pl.Indef
++Nom.Sg.Indef
++Prl.NbAmb.Indef
++Temp.NbAmb.Indef
++Tra.NbAmb.Indef
+
+
+! Nominal stem vowel following vowel, word finally realized as "й"
+!И4
+
+! imperative suffix
+!К1
+
+! connegative suffix rendering consonant
+!К2
+
+! connegative suffix rendering vowel
+!К3
+
+А1 А2 Г1 Г2 Ь2 Т1 О1 Ы2 К1 К3 К4 У2 И2 TLoss KLoss VLoss WLoss %>
+%^Inf
+%^PATR
+%^FEM
+
+!These are used for variation некшнемс vs некшнэмс
++Stem/е
++Stem/э
+
+!Range limitations with regard to 4 classical sentence types:
+! Statement, Question,      Command, Exclamation
+! --"--    , +Rance/Interr, 
+! 
+
+!Use for limitation later
++Use/Sub/PhonDeriv ! Derivation is phonetic 
+                   ! but declension and conjugation morphologic
++Use/Sub/PhonInfl  ! Entire inflection is phonetic 1821, 1920-30 
++Use/Sub/PhonComb
++Use/Sub/Short
++Use/Sub/Dial ! Для не-литературного слова / форма / и.т.д.
+ ! This might actually make reference to dialect type or location
++Src/F ! Majority-language words that might be utilized in several languages 
+       ! Let's begin with nouns книга, учитель
+
+
+!!!! Flags used with serial verbs
+! INF = Infinitive
+@U.CONJ-INF.YES@
+@U.CONJ-INF.NO@
+
+! TX = tense
+@U.CONJ-TX.NONPAST@
+@U.CONJ-TX.PRET1@
+@U.CONJ-TX.PRET2@
+
+! MX = mood
+@U.CONJ-MX.IND@
+@U.CONJ-MX.IMP@
+@U.CONJ-MX.OPT@
+@U.CONJ-MX.DES@
+@U.CONJ-MX.CONJ@
+@U.CONJ-MX.COND@
+
+! CONNEG = negation
+@U.CONJ-CONNEG.YES@
+@U.CONJ-CONNEG.NO@
+
+! NX = number
+@U.CONJ-NX.PL@
+@U.CONJ-NX.SG@
+
+! POSS = possessive person
+@U.CONJ-POSS.1@
+@U.CONJ-POSS.2@
+@U.CONJ-POSS.3@
+@U.CONJ-POSS.2ACC@
+@U.CONJ-POSS.3ACC@
+
+! PX = person
+@U.CONJ-PX.1SG@
+@U.CONJ-PX.2SG@
+@U.CONJ-PX.3SG@
+@U.CONJ-PX.1PL@
+@U.CONJ-PX.2PL@
+@U.CONJ-PX.3PL@
+
+
+! Possessive indices
+
+
+@P.PossPx.1Sg@
+@P.PossPx.2Sg@
+@P.PossPx.3Sg@
+@P.PossPx.1Pl@
+@P.PossPx.2Pl@
+@P.PossPx.3Pl@
+
+
+@U.PossPx.1Sg@
+@U.PossPx.2Sg@
+@U.PossPx.3Sg@
+@U.PossPx.1Pl@
+@U.PossPx.2Pl@
+@U.PossPx.3Pl@
+
+@D.PossPx@
+@C.PossPx@
+
+@P.TNUM.SG@
+@P.TNUM.PL@
+@D.TNUM.SG@
+@D.TNUM.PL@
+@C.TNUM@
+
+@P.TPERS.1@
+@P.TPERS.2@
+@P.TPERS.3@
+@N.TPERS.1@
+@N.TPERS.2@
+@N.TPERS.3@
+@U.TPERS.1@
+@U.TPERS.2@
+@U.TPERS.3@
+@C.TPERS@
+
+!!Cases
+@N.CX.ILL@
+@N.CX.ELA@
+@N.CX.INE@
+@N.CX.LAT@
+@U.CX.ABL@
+@U.CX.ELA@
+@U.CX.ILL@
+@U.CX.INE@
+@U.CX.LAT@
+@U.CX.LOC@
+@U.CX.NOM@
+@U.CX.PRL@
+@U.CX.TRA@
+@C.CX@
+
+!!Dx number
+@P.DNUM.PL@
+@P.DNUM.SG@
+@U.DNUM.PL@
+@U.DNUM.SG@
+@C.DNUM@
+
+
+!!
+@P.NUM.SG@
+@P.NUM.PL@
+@D.NUM.SG@
+@D.NUM.PL@
+@C.NUM@
+
+
+
+! Removal
+@C.CONJ-INF@
+@C.CONJ-TX@
+@C.CONJ-MX@
+@C.CONJ-CONNEG@
+@C.CONJ-NX@
+@C.CONJ-PX@
+@C.CONJ-POSS@
+
+@C.KLOSS@
+@C.TLOSS@
+
+! Key lexicon
+
+! These are the lexica that are found in the bin/ directory,
+! generated by the Makefile from the dictionary
+
+LEXICON Root
+TESTINGTESTING ;
+!SUBSTANDARDS ; ! temporary solution
+
+! contlexes                             ! the file, where the contlex is located
+! ------------                          ! ---------------------------------------
+A ;                                     ! ../../tmp/out/A_mrj-lex.xml
+ADV ;                                   ! ../../tmp/out/ADV_mrj-lex.xml
+!AD-A ;                                  ! ../../tmp/out/AD-A_mrj-lex.xml
+Abbreviation ;                          ! abbr-mrj-lex.txt
+!ABBR ;                                 ! ../../tmp/out/ABBR_mrj-lex.xml           !2012-03-14
+Acronym ;                               ! acro-mrj-lex.txt
+!ACRON ;                                ! ../../tmp/out/ACRON_mrj-lex.xml 
+!BAHUVRIHI ;                             ! ../../tmp/out/BAHUVRIHI_mrj-lex.xml
+CONJ ;                                  ! ../../tmp/out/CONJ_mrj-lex.xml
+!DEM ;                                   ! ../../tmp/out/DEM_mrj-lex.xml !! Dem can be Adn or Pron
+!DV-N ;                                  ! ../../tmp/out/DV-N_mrj-lex.xml
+!IDIOM ;                                ! ../../tmp/out/IDIOM_mrj-lex.xml          !2012-03-14
+INTERJ ;                                ! ../../tmp/out/INTERJ_mrj-lex.xml
+!MANNER ;                                ! ../../tmp/out/MANNER_mrj-lex.xml
+N ;                                     ! ../../tmp/out/N_mrj-lex.xml
+                                        ! working_files/PHRASE-N_mrj-lex.xml
+                                        ! working_files/PHRASE-V_mrj-lex.xml
+PTC ;                                   ! ../../tmp/out/PTC_mrj-lex.xml !! 
+!N-DV ;                                 ! ../../tmp/out/N-DV_mrj-lex.xml           !2012-03-14
+!N-F ;                                  ! ../../tmp/out/N-F_mrj-lex.xml            !2012-03-14
+!No-e-element-N ;                       ! ../../tmp/out/No-e-element-N_mrj-lex.xml !2012-03-14
+!No-e-element-V ;                       ! ../../tmp/out/No-e-element-V_mrj-lex.xml !2012-03-14
+!QNT ;                                   ! ../../tmp/out/QNT_mrj-lex.xml
+NUM ;                                  ! ../../tmp/out/NUM_mrj-lex.xml            !2012-03-14
+!NUM-PREFIXES ;                         ! num-mrj-morph.txt                        !2012-03-14
+PCLE ;                                  ! ../../tmp/out/PCLE_mrj-lex.xml    ! particles
+!PART-ONOM ;                            ! ../../tmp/out/PART-ONOM_mrj-lex.xml      !2012-03-14
+!PERS ;                                  ! pronoun !pers-mrj-morph.txt
+                                        ! ../../tmp/out/PERS_mrj-lex.xml.txt
+POSTP ;                                 ! ../../tmp/out/POSTP_mrj-lex.xml.txt
+
+PRON ;                                  ! ../../tmp/out/PRON_mrj-lex.xml
+!PRON-INDEF ;                           ! ../../tmp/out/PRON-INDEF_mrj-lex.xml                           !2012-03-14
+!PRON-INTER ;                           ! ../../tmp/out/PRON-INTER_mrj-lex.xml                           !2012-03-14
+!PRON-NEG ;                             ! pron-mrj-morph.txt                                             !2012-03-14
+!PRON-QNT ;                             ! ../../tmp/out/PRON-QNT_mrj-lex.xml                             !2012-03-14
+!PRON-REFL ;                            ! ../../tmp/out/PRON-REFL_mrj-lex.xml                            !2012-03-14
+!PRON-REL ;                             ! pron-mrj-morph.txt                                             !2012-03-14
+PROP ;                                  ! ../../tmp/out/PROP_mrj-lex.xml
+!PROP-RUSSIAN-TOPONYMS ;                ! ../../tmp/out/PROPRUSSIAN-TOPONYMS_mrj-lex.xml                 !2012-03-14
+!PROP-RUSSIAN-MALE-SURNAMES-Derivable ; ! ../../tmp/out/PROP-RUSSIAN-MALE-SURNAMES-Derivable_mrj-lex.xml !2012-03-14
+!PROP-CYRILLIC-MALE-SURNAMES ;          ! ../../tmp/out/PROP-CYRILLIC-MALE-SURNAMES_mrj-lex.xml          !2012-03-14
+!PROP-RUSSIAN-MALE-NAMES-Derivable ;    ! ../../tmp/out/PROP-RUSSIAN-MALE-NAMES-Derivable_mrj-lex.xml    !2012-03-14
+!PROP-CYRILLIC-MALE-NAMES ;              ! ../../tmp/out/PROP-CYRILLIC-MALE-NAMES_mrj-lex.xml
+!PROP-CYRILLIC-FEMALE-NAMES ;            ! ../../tmp/out/PROP-CYRILLIC-MALE-NAMES_mrj-lex.xml
+Punctuation ;                           ! punct-mrj-lex.txt
+!SPAT ;                                  ! ../../tmp/out/SPAT_mrj-lex.xml.txt
+!TEMP ;                                  ! ../../tmp/out/TEMP_mrj-lex.xml.txt
+VB ;                                     ! ../../tmp/out/VB_mrj-lex.xml
+VB1 ;                                     ! ../../tmp/out/VB1_mrj-lex.xml
+VB2 ;                                     ! ../../tmp/out/VB2_mrj-lex.xml
+
+!VERBNEGATIVE ;                          ! verb-mrj-morph.txt
+
+
+
+
+! ======================================================= !
+! These lexica are for parts of speech without morphology !
+! ======================================================= !
+
+! Compounding
+
+LEXICON R
+%- N ;
+
+LEXICON BahuvTag-kal
++Bahuvrihi: Adj-od ;
+
+LEXICON BahuvTag-pango
++Bahuvrihi: Adj-nachko ;
+
+LEXICON BahuvTag-kudo
++Bahuvrihi: Adj-shumbra ;
+
+
+! ============ !
+! Interj lexica !
+! ============ !
+
+LEXICON InterjTag
++Interj: Clitic ;
+
+LEXICON Interj-Imp
++Interj+Imp+2Sg: ImpClitic ;
++Interj+Imp+2Pl:%>дО1 ImpClitic ;
+
+LEXICON FormulaicTag
++Interj+Formulaic: # ;
+
+LEXICON VocativeTag
++Interj+Voc: # ;
+
+! ============ !
+! Postp lexica !
+! ============ !
+
+LEXICON ejs-PO
+эйсэ+Po+Ill:эйс Clitic ;
+эйсэ+Po+Ine:эйсэ kudo-Conjugation ;
+эйсэ+Po+Ela:эйстэ kudo-Conjugation ;
+эйсэ+Po+Ill:эйз osh-SPAT-PossX ;
+эйсэ+Po+Ine:эйсэ kudo-SPAT-PossX ;
+эйсэ+Po+Ela:эйстэ kudo-SPAT-PossX ;
+
+LEXICON marto-PO
++Po+Abs: Clitic ;
++Po+COM: kudo-Possessives2 ; 
++Po+Der/MWN: kudo-N ;
+
+
+LEXICON kudo-PO-ILL
++Po+Ill:%>с Clitic ;
++Po+Ill:%>з osh-Possessives2 ;
+
+LEXICON vaksso-SPAT
+ malaso-SPAT ;
++Po+LV+Ela:%>О1стО1 kudo-Conjugation ;
++Po+LV+Ill:%>О1с Clitic ;
++Po+LV+Ine:%>О1сО1 kudo-Conjugation ;
+
+LEXICON jutkso-SPAT
++Po+Prl:%>Г2а kudo-SPAT-PossX ;
++Po+Prl:%>Г2а kudo-Conjugation ;
+ langso-SPAT ;
+
+LEXICON langso-SPAT
++Po+Ela:%>VLossстО1 kudo-Conjugation ;
++Po+Ill:%>VLossс Clitic ;
++Po+Ine:%>VLossсО1 kudo-Conjugation ;
++Po+Ela:%>VLossстО1 kudo-SPAT-PossX ;
++Po+Ill:%>О1з osh-SPAT-PossX ;
++Po+Ine:%>VLossсО1 kudo-SPAT-PossX ;
+
+LEXICON malaso-SPAT
++Ela:%>стО1 kudo-Conjugation ;
++Ill:%>с Clitic ;
++Ine:%>сО1 kudo-Conjugation ;
++Prl:%>Г2а kudo-Conjugation ;
++Po+Ela:%>стО1 kudo-SPAT-PossX ;
++Po+Ill:%>О1з osh-SPAT-PossX ;
++Po+Ine:%>сО1 kudo-SPAT-PossX ;
++Po+Prl:%>Г2а kudo-SPAT-PossX ;
+
+LEXICON ushoso-SPAT
++Spat+Ela:%>стО1 kudo-Conjugation ;
++Spat+Ill:%>с Clitic ;
++Spat+Ine:%>сО1 kudo-Conjugation ;
++Spat+Prl:%>Г2а kudo-Conjugation ;
+
+LEXICON kudo-SPAT-PossX
++Px1Sg:%>нЬ2 kal-Conjugation ;
++Px1Sg+Use/Sub/Dial:%>м kal-Conjugation ;
++Px2Sg:%>тЬ2 kit-Conjugation ;
++Px2Sg+Use/Sub/Dial:%>нтЬ2 kit-Conjugation ;
++Px3Sg:%>нзО1 kudo-Conjugation ;
++Px1Pl:%>нО1к lak-Conjugation ;
++Px2Pl:%>нк lak-Conjugation ;
++Px3Pl:%>ст kit-Conjugation ;
+
+LEXICON osh-SPAT-PossX
++Px1Sg:%>О1нЬ2 kal-Conjugation ;
++Px1Sg+Use/Sub/Dial:%>О1м kal-Conjugation ;
++Px2Sg:%>О1тЬ2 kit-Conjugation ;
++Px2Sg+Use/Sub/Dial:%>О1нтЬ2 kit-Conjugation ;
++Px3Sg:%>О1нзО1 kudo-Conjugation ;
++Px1Pl:%>О1нО1к lak-Conjugation ;
++Px2Pl:%>О1нк lak-Conjugation ;
++Px3Pl:%>О1ст kit-Conjugation ;
+
+
+
+! This contlex allows for relational word which, otherwise, are open 
+! to extensive declension
+LEXICON PostpTag
++Po: Clitic ;
+
+LEXICON Dat-1Arg
++Po+DAT: Clitic ;
+
+
+
+! ==================================== !
+! Lexica called End, whatever they are !
+! ==================================== !
+
+!LEXICON ABBR-IS_ADV
+!+ABBR: ADVTAG ;
+
+LEXICON Ad-ATag ! 
++AdA: # ;
+
+LEXICON AdvTag ! 
++Adv: Clitic ;
+
+LEXICON Adv-kudo ! Coping with stem structure
+ AdvTag ;
+
+LEXICON Adv_Phrase ! 
++Adv: # ;
+
+LEXICON Adv-Ideoph ! 
++Adv-Ideoph: Clitic ;
+! сорк, кальцк ; twang, thwang, bang
+
+LEXICON Adv-Ideoph-Ine ! 
++Adv-Ideoph+Ine: Clitic ;
+
+LEXICON Exclusive ! 
++Adv+Exclusive: Clitic ;
+
+LEXICON Adv-Ine ! 
++Ine: AdvTag ;
+
+LEXICON Adv-Tra ! 
++Tra: AdvTag ;
+
+LEXICON MannerTag ! 
++Adv+Manner: Clitic ;
+
+LEXICON Manner-Interr ! 
++Interr+Adv+Manner: Clitic ;
+
+LEXICON Pred2 !
++Pred2: Clitic ;
++Pred2+Der/MWN: kudo-N ;
+
+!! spatial adverbs 
+!! dependent and independent case marking 
+LEXICON Spat-NoArg
++Adv+Spat-NoArg: Clitic ;
+
+LEXICON Spat-Interr
++Interr+Spat: # ;
+
+LEXICON SpatTag
++Spat: Clitic ;
+
+LEXICON Spat-Ela
++Spat+Ela: Clitic ;
+
+LEXICON Spat-Ine
++Spat+Ine: Clitic ;
+
+LEXICON Spat-Lat
++Spat+Lat: Clitic ;
+
+LEXICON Spat-Prl
++Spat+Prl: Clitic ;
+
+!!Temporal tags with cases
+LEXICON TempTag
++Adv+Temp: Clitic ;
+
+!! This marking would indicate a word form that may be 
+!  construed as an adv as well as a adposition.
+LEXICON Temp-NoArg
++Adv+Temp: Clitic ;
+
+LEXICON Temp-Coll
++Coll+Adv+Temp: Clitic ;
+
+LEXICON Temp-Distr
++Distr+Adv+Temp: Clitic ;
+
+LEXICON Temp-Ela
++Ela+Adv+Temp: Clitic ;
+
+LEXICON Temp-Ill
++Ill+Adv+Temp: Clitic ;
+
+LEXICON Temp-Indef
++Adv+Temp+Indef: Clitic ;
+
+LEXICON Temp-Interr
++Adv+Temp+Interr: Clitic ;
+
+LEXICON Temp-Lat
++Lat+Adv+Temp: Clitic ;
+
+LEXICON Temp-ms
++Der/мс+Ill+Adv+Temp: Clitic ;
+
+LEXICON Temp-Pl
++Pl+Adv+Temp: Clitic ;
+
+LEXICON Temp-Prl
++Prl+Adv+Temp: Clitic ;
+
+LEXICON Temp-Temp
++Temp+Adv+Temp: Clitic ;
+
+LEXICON lak-N-Temp
++Adv+Temp: Clitic ;
++Adv+Temp+Der/MWN: lak-N ;
+
+LEXICON kit-N-Temp
++Adv+Temp: Clitic ;
++Adv+Temp+Der/MWN: kit-N ;
+
+LEXICON kudo-N-Temp
++Adv+Temp: Clitic ;
++Adv+Temp+Der/MWN: kudo-N ;
+
+LEXICON Temp-1Arg-Ela
++Po+Ela+Temp: Clitic ; !This will require Possessor Indices
+
+
+
+LEXICON Cc
++CC: # ;
+
+LEXICON Cs
++CS: # ;
+
+
+!LEXICON EndConj
+!+CC: # ;
+
+!!Let's remember that Particle is merely an expression of form
+!LEXICON PCLE
+!а+Pcle+Neg:а # ;
+!аволь+Pcle+Neg+Emphatic:аволь # ;
+!ай+Pcle+Neg+Emphatic:ай kal-N ;
+!апак+Pcle+Neg:апак lak-Tenses-Obl ;
+!седе+Pcle+Compar:седе # ;
+!сех+Pcle+Superl:сех # ;
+!сех+Pcle+Superl+Abl:сехте # ; ! This is a comparative construction
+!уш+Pcle+Intensifier:уш # ;
+
+LEXICON Pcle-Compar-Stnd
++Pcle+Compar: # ;
+
+LEXICON Pcle-Epist
++Pcle+Epist: # ;
+
+LEXICON Pcle-Neg-Contrast
++Pcle+Neg+Intensive: # ;
+
+LEXICON Pcle-Neg
++Pcle+Neg: # ;
+
+LEXICON Pcle-Superl
++Pcle+Superl: # ;
+
+LEXICON PcleTag
++Pcle: # ;
+
+
+!LEXICON EndPart
+!+Pcle: # ;
+
+!LEXICON EndInterj
+!+Interj: # ;
+
+LEXICON Interj
++Interj: # ;
+
+LEXICON N-Voc-Px1Sg
++N+Px1Sg+Interj+Voc: # ;
+
+!LEXICON EndNeg 
+!+CC+Neg: # ; ! ни
+
+!LEXICON EndQST
+!+Qst: # ;
+
+!LEXICON ONOM-End
+!+Onom: # ;
+
+!LEXICON DESCR-End
+!+Descr: # ;
+
+
+
+! ======= !
+! Clitics !
+! ======= !
+
+LEXICON lak-Clitic
++Use/Sub/Short+Clt/Гак:%>KLossГ1ак # ;
+ Clitic ;
+
+LEXICON Clitic
+            # ; 
++Clt/Гак:%>Г1ак # ;
+
+
+! List of spurious lexica
+! These should be fixed.
+
+
+! This lexicon would allow a loop whereby any full form
+! could be treated as a noun
+! E.G. мезеяк # 'anything'
+! E.G. мезеяк+ось # 'This _anything_ you are talking about'
+!LEXICON Encapsulate
+
+
+!LEXICON ADV-SUPERL
+!+Adv+Superl: # ;
+
+
+LEXICON TESTINGTESTING
+
+Ыджыд TESTCOMP ;
+син TESTCOMP ;
+официал TESTCOMP ;
+радиоактив TESTCOMP ;
+
+LEXICON TESTCOMP
+
++CmpTest: # ;
+
+
+!!!
+!formerly Spatials_4cx
+LEXICON alo-Spat
+ alo-Spat-NoArg ;
+ alo-Spat-1Arg ;
+
+LEXICON alo-Spat-NoArg
++Adv+Spat+OrthPhon+Loc+Der/це:%>це kudo-N2-Def-Declension ;
++Adv+Spat+Loc+Der/се:%>се kudo-N2-Def-Declension ;
++Adv+Spat+Der/кс:%>кс osh-N ;
++Adv+Spat+Lat:%>О1в Clitic ;
++Adv+Spat+Abl:%>дО1 Clitic ;
++Adv+Spat+Loc:%>О1 Clitic ;
++Adv+Spat+Prl:%>Г2а Clitic ;
++Adv+Spat+Loc+Indef+Der/MWN+N:%>О1 kudo-N2-Def-Declension ; 
++Adv+Spat+Prl+Indef+Der/MWN+N:%>Г2а kudo-N2-Def-Declension ;
+
+LEXICON alo-Spat-1Arg
++Po+Spat+Abl:%>дО1 kudo-Indef--Poss ;
++Po+Spat+Loc:%>О1 kudo-Indef--Poss ; 
++Po+Spat+Lat:%>О1 kudo-Possessive-Before-Clitic ;
++Po+Spat+Prl:%>Г2а kudo-Indef--Poss ;
++Po+Spat+OrthPhon+Loc+Der/це:%>це kudo-N2-Def-Declension ;
++Po+Spat+Loc+Der/се:%>се kudo-N2-Def-Declension ;
++Po+Spat+Der/кс:%>кс osh-N ;
++Po+Spat+Lat+Indef:%>О1в Clitic ;
++Po+Spat+Abl+Indef:%>дО1 kudo-N2-Def-Declension ;
++Po+Spat+Loc+Indef+Der/MWN+N:%>О1 kudo-N2-Def-Declension ; 
++Po+Spat+Prl+Indef+Der/MWN+N:%>Г2а kudo-N2-Def-Declension ;
+
+LEXICON alo-Spat-AdvN
+ alo-Spat-NoArg ;
+ kal-N ;
++N+Loc:%>О1 Clitic ;
+
+LEXICON alo-Spat-PoN
+ alo-Spat-1Arg ;
+ kal-N ;
++N+Loc:%>О1 Clitic ;
+
+LEXICON kovolo-Spat
++Interr+Spat+Lat+Indef:%>О1в Clitic ;
++Interr+Spat+Abl+Indef:%>дО1 kudo-N2-Def-Declension ;
++Interr+Spat+Loc+Indef+Der/MWN+N:%>О1 kudo-N2-Def-Declension ; 
++Interr+Spat+Prl+Indef+Der/MWN+N:%>Г2а kudo-N2-Def-Declension ;
++Interr+Spat+Abl:%>дО1 kudo-Indef--Poss ;
++Interr+Spat+Loc:%>О1 kudo-Indef--Poss ; 
++Interr+Spat+Prl:%>Г2а kudo-Indef--Poss ;
+
++Rel+Spat+Lat+Indef:%>О1в Clitic ;
++Rel+Spat+Abl+Indef:%>дО1 kudo-N2-Def-Declension ;
++Rel+Spat+Loc+Indef+Der/MWN+N:%>О1 kudo-N2-Def-Declension ; 
++Rel+Spat+Prl+Indef+Der/MWN+N:%>Г2а kudo-N2-Def-Declension ;
++Rel+Spat+Abl:%>дО1 kudo-Indef--Poss ;
++Rel+Spat+Loc:%>О1 kudo-Indef--Poss ; 
++Rel+Spat+Prl:%>Г2а kudo-Indef--Poss ;
+
+
+
+LEXICON Mezty
++Assoc+Pl+Nom:%>мезть Clitic ;
++Assoc+Dat:%>мезнень Clitic ;
++Assoc+Gen:%>мезень Clitic ;
++Assoc+Abl:%>мезде Clitic ;
++Assoc+Abe:%>мезевтеме Clitic ;
+!+Assoc:%>мезть Clitic
+
+
+ 
+LEXICON osh-Indef-DefSg-Poss
+ osh--DefSg- ;
+ osh-Indef--Poss ;
+
+LEXICON osh--DefSg-
++Sg+Def:%>О1нть Clitic ;
+
+LEXICON osh-Indef--Poss
++Indef: osh-Tenses-Obl ;
++Px1Sg:%>О1нЬ2 kal-Tenses-Obl ;
++Px2Sg:%>О1тЬ2 kit-Tenses-Obl ;
++Px3Sg:%>О1нзО1 kudo-Tenses-Obl ;
++Px1Pl:%>О1нО1к lak-Tenses-Obl ;
++Px2Pl:%>О1нк lak-Tenses-Obl ;
++Px3Pl:%>О1ст kit-Tenses-Obl ;
+
+LEXICON kudo-Indef-DefSg-Poss
+ kudo--DefSg- ;
+ kudo-Indef--Poss ;
+
+LEXICON kudo--DefSg-
++Sg+Def:%>О1нть Clitic ;
+
+LEXICON kudo-Indef--Poss
++Indef: kudo-Tenses-Obl ;
++Px1Sg:%>О1нЬ2 kal-Tenses-Obl ;
++Px2Sg:%>О1тЬ2 kit-Tenses-Obl ;
++Px3Sg:%>О1нзО1 kudo-Tenses-Obl ;
++Px1Pl:%>О1нО1к lak-Tenses-Obl ;
++Px2Pl:%>О1нк lak-Tenses-Obl ;
++Px3Pl:%>О1ст kit-Tenses-Obl ;
+
+
+
+
+! TODO: Integrate this in xml-files in working…
+
+!LEXICON SUBSTANDARDS 
+!коръя+Use/Sub:корья Noun1 ;
+
+!! +WORK Shows up then the following LEXICA are used.
+
+LEXICON V-ledems_ObjAll-WORK
++WORK: V-ledems_ObjAll ;
+
+LEXICON V-kadoms_ObjAll-WORK
++WORK: V-kadoms_ObjAll ;
+
+LEXICON V-nevtems_ObjAll-WORK
++WORK: V-nevtems_ObjAll ;
+
+LEXICON V-savtoms_ObjAll-WORK
++WORK: V-savtoms_ObjAll ;
+
+LEXICON V-kundams_ObjAll-WORK
++WORK: V-kundams_ObjAll ;
+
+LEXICON V-nekshnems_ObjAll-WORK
++WORK: V-nekshnems_ObjAll ;
+
+LEXICON V-nekshnems-WORK
++WORK: V-nekshnems ;
+
+LEXICON V-satoms_ObjAll-WORK
++WORK: V-satoms_ObjAll ;
+
+LEXICON V-ledems-WORK
++WORK: V-ledems ;
+
+LEXICON V-satoms-WORK
++WORK: V-satoms ;
+
+LEXICON V-letems-WORK
++WORK: V-letems ;
+
+LEXICON V-kadoms-WORK
++WORK: V-kadoms ;
+
+LEXICON V-jangavoms-WORK
++WORK: V-jangavoms ;
+
+LEXICON V-sajevems-WORK
++WORK: V-sajevems ;
+
+LEXICON V-nevtems-WORK
++WORK: V-nevtems ;
+
+LEXICON V-savtoms-WORK
++WORK: V-savtoms ;
+
+LEXICON V-kundams-WORK
++WORK: V-kundams ;
+
+LEXICON V-tejems-WORK
++WORK: V-tejems ;
+
+LEXICON vitj-Adj-WORK
++WORK: Adj-vitj ;
+
+LEXICON erek-Adj-WORK
++WORK: Adj-erek ;
+
+LEXICON od-Adj-WORK
++WORK: Adj-od ;
+
+LEXICON vanjks-Adj-WORK
++WORK: Adj-vanjks ;
+
+LEXICON nachko-Adj-WORK
++WORK: Adj-nachko ;
+
+LEXICON lembe-Adj-WORK
++WORK: Adj-lembe ;
+
+LEXICON shumbra-Adj-WORK
++WORK: Adj-shumbra ;
+
+LEXICON kal-N-WORK
++WORK: kal-N ;
+
+LEXICON kit-N-WORK
++WORK: kit-N ;
+
+LEXICON lak-N-WORK
++WORK: lak-N ;
+
+LEXICON osh-N-WORK
++WORK: osh-N ;
+
+LEXICON pango-N-WORK
++WORK: pango-N ;
+
+LEXICON tinge-N-WORK
++WORK: tinge-N ;
+
+LEXICON teshte-N-WORK
++WORK: teshte-N ;
+
+LEXICON kudo-N-WORK
++WORK: kudo-N ;
+
+
+
+
