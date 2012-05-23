@@ -1,0 +1,66 @@
+LEXICON VbTag
+#;
+
+LEXICON Vb1Tag
++V:%> INDPRS1SG-1 ;
++V:%> INDPRS2SG-1 ;
++V:%> INDPRS3SG-1 ;
++V:%> INDPRS1PL-1 ;
++V:%> INDPRS2PL-1 ;
++V:%> INDPRS3PL-1 ;
+
+
+LEXICON Vb2Tag
++V:%> INDPRS1SG-2 ;
++V:%> INDPRS2SG-2 ;
++V:%> INDPRS3SG-2 ;
++V:%> INDPRS1PL-2 ;
++V:%> INDPRS2PL-2 ;
++V:%> INDPRS3PL-2 ;
+
+!!!!!!!!!!!!!
+!! NONPAST !!
+!!!!!!!!!!!!!
+
+LEXICON INDPRS1SG-1
++Pred+Ind+Prs+1Sg:ам K ;
+
+LEXICON INDPRS2SG-1
++Pred+Ind+Prs+2Sg:ат K ;
+
+LEXICON INDPRS3SG-1
++Pred+Ind+Prs+3Sg:еш K ;
+
+LEXICON INDPRS1PL-1
++Pred+Ind+Prs+1Pl:ынӓ K ;
+
+LEXICON INDPRS2PL-1
++Pred+Ind+Prs+2Pl:ыдӓ K ;
+
+LEXICON INDPRS3PL-1
++Pred+Ind+Prs+3Pl:ыт K ;
+
+
+!!
+LEXICON INDPRS1SG-2
++Pred+Ind+Prs+1Sg:ем K ;
+
+LEXICON INDPRS2SG-2
++Pred+Ind+Prs+2Sg:ет K ;
+
+LEXICON INDPRS3SG-2
++Pred+Ind+Prs+3Sg:а K ;
+
+LEXICON INDPRS1PL-2
++Pred+Ind+Prs+1Pl:енӓ K ;
+
+LEXICON INDPRS2PL-2
++Pred+Ind+Prs+2Pl:едӓ K ;
+
+LEXICON INDPRS3PL-2
++Pred+Ind+Prs+3Pl:ат K ;
+
+!!!!!!!!!!!!!!!!
+!! PRETERIT 1 !!
+!!!!!!!!!!!!!!!!
+
