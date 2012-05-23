@@ -18,6 +18,7 @@ ZERO
 
 
 ! tags
++AdA ! ad-adjective
 +Abs ! Absolutive
 +Adj ! Adjective
 +Attr ! Attribute
@@ -510,7 +511,7 @@ INTERJ ;                                ! ../../tmp/out/INTERJ_mrj-lex.xml
 N ;                                     ! ../../tmp/out/N_mrj-lex.xml
                                         ! working_files/PHRASE-N_mrj-lex.xml
                                         ! working_files/PHRASE-V_mrj-lex.xml
-PTC ;                                   ! ../../tmp/out/PTC_mrj-lex.xml !! 
+!PTC ;                                   ! ../../tmp/out/PTC_mrj-lex.xml !! 
 !N-DV ;                                 ! ../../tmp/out/N-DV_mrj-lex.xml           !2012-03-14
 !N-F ;                                  ! ../../tmp/out/N-F_mrj-lex.xml            !2012-03-14
 !No-e-element-N ;                       ! ../../tmp/out/No-e-element-N_mrj-lex.xml !2012-03-14
@@ -591,6 +592,8 @@ LEXICON Ad-ATag !
 LEXICON AdvTag ! 
 +Adv: K ;
 
+LEXICON DescrTag
++Adv+Descr: K ;
 
 LEXICON SpatTag
 +Spat: K ;
@@ -609,6 +612,8 @@ LEXICON Cc
 LEXICON Cs
 +CS: # ;
 
+LEXICON ConjTag
++Conj: # ;
 
 LEXICON Pcle-Compar-Stnd
 +Pcle+Compar: # ;
