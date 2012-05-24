@@ -281,58 +281,15 @@ ZERO
 +Der/ОмА ! verb-to-noun
 
 !Declaring Deverbal derivations of verbs
-+Der/кшнО
-+Der/се
-+Der/не
+
 
 
 +Dim 
-+Der/ке
-+Der/ка
-+Der/нЕ
-+Der/Ыне
-+Der/Ынька
-+Der/Ынькине
 
-+Der/Abe ! Adjective usage Maybe this is not necessary.
-+Der/Comp
-+Der/Gen
-! There portmanteau morphology
-! Noun-type
-+Abe.NbAmb.Indef
-+Abl.NbAmb.Indef
-+Com.NbAmb.Indef
-+Comp.NbAmb.Indef
-+Dat.DefSg
-+Dat.NbAmb.Indef
-+Ela.NbAmb.Indef
-+Gen.DefSg
-+Gen.NbAmb.Indef
-+Ill.NbAmb.Indef
-+Ine.NbAmb.Indef
-+Lat.NbAmb.Indef
-+Nom.Def.Sg
-+Nom.NbAmb.Indef
-+Nom.Pl.Indef
-+Nom.Sg.Indef
-+Prl.NbAmb.Indef
-+Temp.NbAmb.Indef
-+Tra.NbAmb.Indef
+А1
+Ы1
+%>
 
-
-! Nominal stem vowel following vowel, word finally realized as "й"
-!И4
-
-! imperative suffix
-!К1
-
-! connegative suffix rendering consonant
-!К2
-
-! connegative suffix rendering vowel
-!К3
-
-А1 А2 Г1 Г2 Ь2 Т1 О1 Ы2 К1 К3 К4 У2 И2 TLoss KLoss VLoss WLoss %>
 %^Inf
 %^PATR
 %^FEM
@@ -341,19 +298,9 @@ ZERO
 +Stem/е
 +Stem/э
 
-!Range limitations with regard to 4 classical sentence types:
-! Statement, Question,      Command, Exclamation
-! --"--    , +Rance/Interr, 
-! 
 
 !Use for limitation later
-+Use/Sub/PhonDeriv ! Derivation is phonetic 
-                   ! but declension and conjugation morphologic
-+Use/Sub/PhonInfl  ! Entire inflection is phonetic 1821, 1920-30 
-+Use/Sub/PhonComb
-+Use/Sub/Short
-+Use/Sub/Dial ! Для не-литературного слова / форма / и.т.д.
- ! This might actually make reference to dialect type or location
++Use/Sub
 +Src/F ! Majority-language words that might be utilized in several languages 
        ! Let's begin with nouns книга, учитель
 

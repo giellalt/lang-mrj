@@ -23,14 +23,20 @@ clear stack
 
 echo << THE DEFININTIONS >>
 
-define CnsNotGlots [ б | в | г | д | ж | з 
+define Cns [ б | в | г | д | ж | з 
            | Б | В | Г | Д | Ж | З 
            | й | к | л | м | н | п | р | с | т | ф | х | ц 
            | Й | К | Л | М | Н | П | Р | С | Т | Ф | Х | Ц 
            | ч | ш | щ 
            | Ч | Ш | Щ ] ;
 
+define BackVws [ а | ы | ё | о | у | ю | я
+               | А | Ы | Ё | О | У | Ю | Я ] ;
 
+define FrontVws [ ӓ | э | е | и | ӹ | ӱ
+                | Ӓ | Э | Е | И | Ӹ | Ӱ ] ;
+
+define Vws [ BackVws | FrontVws ] ;
 
 
 define Dummy %> ;
@@ -42,40 +48,21 @@ define Dummy %> ;
 
 echo << THE RULES >>
 
+define RemoveStress [ • -> 0 || _ ] ;
 
-define VowelCorrelation [ А1 -> а || [ а | я ]  %> х _ ,,
-                          А1 -> а || [ Cns  %> | %> а ] х _ ,,
-                          А1 -> о || [ о | ё ]  %> х _ ,,
-                          А1 -> э || [ ы | э | е ]  %> х _ ] ;
+define VowelHarmonyAÄ [ А1 -> а || BackVws  %> л _ ,,
+                          А1 -> ӓ || FrontVws %> л _ ] ;
 
-define StemFinalYToE ы -> э || _ %> х э  ;
- !€ ты>хА1на:тэхэна
+define MorphInitialYToZero [ Ы1 -> 0 ||  [ Vws | Ы1 ] %>  _ ]   ;
 
-
-define mToV [ м -> в || _ ʼ %> [ Ы1 | ʼ | м ʼ ] ,, н -> д ||  м  ʼ %> _ ʼ ,, ʼ -> 0 || м  _ %> [ Ы1 | ʼ | м ʼ| н ʼ | х А1 ] ,, х -> г ||  м  ʼ %> _ А1 ,, А1 -> а ||  м  ʼ %> х _  ] ;
-
-define UnderlyingToGlottal [ С1 -> ˮ , Д1 -> ˮ || _  [ .#. | %> м н а] ,,
-                             Н1  -> ʼ , Ӈ1  -> ʼ || _   .#.   ] ;
- !€ мяД1:мяˮ
- !€ тохоС1:тохоˮ
- !€ таН1:таʼ
- !€ выӇ1:выʼ
+define MorphFinalYToE [ Ы1 -> ӹ || FrontVws %> [ ж | ш т | ш к ] _ ,,
+                      Ы1 -> ы || BackVws %> [ ж | ш т | ш к ] _ ]   ;
+ !€ ӓвӓ>жЫ1:ӓвӓжӹ
 
 define VowelPalatalization [ а -> я , у -> ю || й %> _ ] ;
 
 define jLoss й -> 0 || _ %> [ я | ю ] ;
 
-define GlottalNonNasalToZERO [ Д1 -> 0 , С1 ( ь ) -> 0 || _ %> [ х | н ] ,,
-                               н -> т || [ Д1 | С1 ( ь ) ] %> _ ,,
-                               д -> 0 || Д1 %> н _ ,,
-                               х -> к || Д1 %> _ ,,
-                               х -> к || С1 %> _ ] ;
-
-define GlottalNasalToHomNasal [ Н1 -> ӈ , Ӈ1  -> ӈ || _ %> х ,,
-                                Н1 -> н , Ӈ1  -> н || _ %> [ т | н ʼ ] ,,
-                                н -> д || [ м  | Н1 | Ӈ1 ] %> _ ʼ ,, 
-                                х -> г || Н1 %> _ ,,
-                                х -> г || Ӈ1 %> _ ] ;
 
 define DummyDeletion Dummy -> 0 ;
 
@@ -83,14 +70,12 @@ define DummyDeletion Dummy -> 0 ;
 
 read regex [
 
-    VowelCorrelation
-.o. StemFinalYToE
+    RemoveStress
+.o. VowelHarmonyAÄ
+.o. MorphInitialYToZero
+.o. MorphFinalYToE
 .o. VowelPalatalization
 .o. jLoss
-.o. GlottalNonNasalToZERO
-.o. GlottalNasalToHomNasal
-.o. mToV
-.o. UnderlyingToGlottal
 .o. DummyDeletion
 ] ;
 

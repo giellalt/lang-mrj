@@ -529,7 +529,7 @@
             <st mrjContlex="PronTag">кӱ</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Q_PERS</pos>
       <e>
          <mg>
             <m>
@@ -709,7 +709,7 @@
             <st mrjContlex="PronTag">ма</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>Q_PRON</pos>
       <e>
          <mg>
             <m>
@@ -1346,10 +1346,10 @@
       <lg>
          <l>тӹ•дӹ</l>
          <stg>
-            <st mrjContlex="PronTag">тӹ•дӹ</st>
+            <st mrjContlex="DemTag">тӹ•дӹ</st>
          </stg>
       </lg>
-      <pos>PRON</pos>
+      <pos>DEM</pos>
       <e>
          <mg>
             <m>
