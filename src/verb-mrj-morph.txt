@@ -1,7 +1,7 @@
 LEXICON VbTag
 #;
 
-LEXICON Vb1Tag
+LEXICON V-amTag
 +V:%> INDPRS1SG-1 ;
 +V:%> INDPRS2SG-1 ;
 +V:%> INDPRS3SG-1 ;
@@ -10,7 +10,7 @@ LEXICON Vb1Tag
 +V:%> INDPRS3PL-1 ;
 
 
-LEXICON Vb2Tag
+LEXICON V-emTag
 +V:%> INDPRS1SG-2 ;
 +V:%> INDPRS2SG-2 ;
 +V:%> INDPRS3SG-2 ;
@@ -29,7 +29,7 @@ LEXICON INDPRS2SG-1
 +Pred+Ind+Prs+2Sg:ат K ;
 
 LEXICON INDPRS3SG-1
-+Pred+Ind+Prs+3Sg:еш K ;
++Pred+Ind+Prs+3Sg:%>эш K ;
 
 LEXICON INDPRS1PL-1
 +Pred+Ind+Prs+1Pl:ынӓ K ;
