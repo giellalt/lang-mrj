@@ -22,14 +22,14 @@ LEXICON NOUN
 +N+Sg+Comp:%>лА1 K ; ! (like a village)
 +N+Sg+Ine:%>Ы1штЫ1 K ; ! (in a village)
 +N+Sg+Ine:%>Ы1штЫ1 Cx-then-Px ;
-+N+Sg+Ill:%>Ы1шкО1 K ; ! (to a village)
++N+Sg+Ill:%>Ы1шкЫ1 K ; ! (to a village)
 +N+Sg+Lat:%>О1ш K ; ! (into a village)
 !! Pl
 +N: Nb-GenAccComDatComp ;
 +N+Pl+Dat:%>влӓ%>лА1н Cx-then-Px ; !
 +N+Pl+Comp:%>влӓ%>лА1 Cx-then-Px ; !
 +N+Pl+Ine:%>влӓ%>Ы1штЫ1 Cx-then-Px ; !
-+N+Pl+Ill:%>влӓ%>Ы1шкО1 Cx-then-Px ; !
++N+Pl+Ill:%>влӓ%>Ы1шкЫ1 Cx-then-Px ; !
 +N+Pl+Lat:%>влӓ%>О1ш Cx-then-Px ; !
 
 !! Possessor Indices
@@ -69,7 +69,7 @@ LEXICON Nb-Cx-Px_Cx
 +Dat:%>лА1н Nb-Cx-Px_Px ; !
 +Comp:%>лА1 Nb-Cx-Px_Px ; !
 +Ine:%>Ы1штЫ1 Nb-Cx-Px_Px ; !
-+Ill:%>Ы1шкО1 Nb-Cx-Px_Px ; !
++Ill:%>Ы1шкЫ1 Nb-Cx-Px_Px ; !
 +Lat:%>О1ш Nb-Cx-Px_Px ; !
 
 LEXICON Nb-Cx-Px_Px
@@ -87,7 +87,7 @@ LEXICON Nb-Cx-Px_Px
 !!!!!!!!!!!!!!!!!!
 
 LEXICON PropTag
-#;
++Prop: # ;
 
 LEXICON ACRONDELIMITER ! Here we need some kind of vowel harmony
     PROP ;

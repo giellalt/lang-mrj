@@ -50,13 +50,17 @@ echo << THE RULES >>
 
 define RemoveStress [ • -> 0 || _ ] ;
 
-define VowelHarmonyAÄ [ А1 -> а || BackVws  %> л _ ,,
-                          А1 -> ӓ || FrontVws %> л _ ] ;
+define VowelHarmonyAÄ [ А1 -> а || BackVws  Cns* %> л _ ,,
+                        А1 -> а || BackVws  Cns* %> _ ш ,,
+                        А1 -> ӓ || FrontVws Cns* %> л _ ,,
+                        А1 -> ӓ || FrontVws Cns* %> _ ш  ] ;
 
 define MorphInitialYToZero [ Ы1 -> 0 ||  [ Vws | Ы1 ] %>  _ ]   ;
 
-define MorphFinalYToE [ Ы1 -> ӹ || FrontVws %> [ ж | ш т | ш к ] _ ,,
-                      Ы1 -> ы || BackVws %> [ ж | ш т | ш к ] _ ]   ;
+define MorphFinalYToE [ Ы1 -> ӹ || FrontVws Cns* %> ( Ы1 )[ ж | ш | ш т | ш к ] _ ,,
+                       Ы1 -> ы || BackVws Cns* %> ( Ы1 ) [ ж | ш | ш т | ш к ] _ ,,
+                       Ы1 -> ӹ || FrontVws Cns* %> _ [ ж | ш | ш т | ш к ] ,,
+                       Ы1 -> ы || BackVws Cns* %> _ [ ж | ш | ш т | ш к ]  ];
  !€ ӓвӓ>жЫ1:ӓвӓжӹ
 
 define VowelPalatalization [ а -> я , у -> ю || й %> _ ] ;
