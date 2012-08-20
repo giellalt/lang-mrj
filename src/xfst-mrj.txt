@@ -59,8 +59,8 @@ define MorphInitialYToZero [ Ы1 -> 0 ||  [ Vws | Ы1 ] %>  _ ]   ;
 
 define MorphFinalYToE [ Ы1 -> ӹ || FrontVws Cns* %> ( Ы1 )[ ж | ш | ш т | ш к ] _ ,,
                        Ы1 -> ы || BackVws Cns* %> ( Ы1 ) [ ж | ш | ш т | ш к ] _ ,,
-                       Ы1 -> ӹ || FrontVws Cns* %> _ [ ж | ш | ш т | ш к ] ,,
-                       Ы1 -> ы || BackVws Cns* %> _ [ ж | ш | ш т | ш к ]  ];
+                       Ы1 -> ӹ || FrontVws Cns* %> _ [ ж | ш | ш т | ш к | н ] ,,
+                       Ы1 -> ы || BackVws Cns* %> _ [ ж | ш | ш т | ш к | н ]  ];
  !€ ӓвӓ>жЫ1:ӓвӓжӹ
 
 define VowelPalatalization [ а -> я , у -> ю || й %> _ ] ;

@@ -8,6 +8,11 @@ LEXICON V-amTag
 +V:%> INDPRS1PL-am ;
 +V:%> INDPRS2PL-am ;
 +V:%> INDPRS3PL-am ;
+
++V:%> INDPRT1SG-am ;
++V:%> INDPRT2SG-am ;
++V:%> INDPRT3SG-am ;
+
 +V: INF ;
 
 
@@ -65,11 +70,14 @@ LEXICON INDPRS3PL-em
 !!!!!!!!!!!!!!!!
 !! PRETERIT 1 !!
 !!!!!!!!!!!!!!!!
-LEXICON INDPRT3SG-am
-+Pred+Ind+Prs+3Sg:%>ен K ; !
+LEXICON INDPRT1SG-am
++Pred+Ind+Prt+1Sg:Ы1нам K ; !
+
+LEXICON INDPRT2SG-am
++Pred+Ind+Prt+2Sg:Ы1нат K ; !
 
 LEXICON INDPRT3SG-am
-+Pred+Ind+Prs+3Sg:%>ен K ; !
++Pred+Ind+Prt+3Sg:Ы1н K ; !
 
 !!!!!!!!!!!!!!!!
 !! INFINITIVE !!

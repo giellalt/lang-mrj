@@ -1,5 +1,11 @@
 Multichar_Symbols
 
+!!!! Tags for POS
+!!  +N +A +Adv +V
+!!  +Pron +CS +CC +Po +Pr +Interj +Pcle +Num
+
+
+
 !Development tag
 +WORK
 
@@ -100,6 +106,7 @@ ZERO
 +Ptc
 +VGen
 +ActDemPtc
++Qst
 !! This has something to do with  verb stem tracking
 !  The three should be removed a little later if there
 !  is no reason to keep them
@@ -573,6 +580,9 @@ LEXICON Pcle-Neg-Contrast
 
 LEXICON Pcle-Neg
 +Pcle+Neg: # ;
+
+LEXICON Pcle-Qst
++Pcle+Qst: # ;
 
 LEXICON Pcle-Superl
 +Pcle+Superl: # ;
