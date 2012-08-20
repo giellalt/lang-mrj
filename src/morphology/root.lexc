@@ -108,20 +108,22 @@ Multichar_Symbols
 @P.NeedNoun.ON@  @D.NeedNoun.ON@  @C.NeedNoun@
 
 LEXICON Root
-!! The word forms in UNDEFINED language start from the lexeme roots of basic
+!! The word forms in Hill Mari start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
-0   Adjectives  ;
+!! The assumption is that xml files with names Pos_GTLANG-lex.xml will provide the source material for
+!! the initial lexc _LEXICON Pos_ entries
+0   Adjectives  ; 
 0   Adverbs  ;
 0   Conjunctions    ;
 0   Descriptives    ;
 0   Interjections    ;
 0   Nouns   ;
-0   Numerals    ;
 0   Particles    ;
 0   Postpositions    ;
-0   Prefixes    ;
+! 0   Prefixes    ; ! This might be used with indefinite pronouns
 0   Pronouns    ;
 0   Propernouns    ;
+0   Quantifiers    ;
 0   Verbs   ;
 
 
