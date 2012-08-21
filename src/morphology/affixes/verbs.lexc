@@ -2,8 +2,8 @@
 !! ---------------
 !! Hill Mari (Western Mari) verbs are inflected for (subject) person, tense and mood.
 
-LEXICON VbTag
-# ;
+LEXICON VAux
++V+Aux: # ;
 
 LEXICON V-amTag
 +V:%> INDPRS1SG-am ;
