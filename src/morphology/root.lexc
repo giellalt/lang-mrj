@@ -29,7 +29,12 @@ Multichar_Symbols
  +Pron +CS +CC +Adp +Po +Pr +Interj +Pcle +Num 
 
 !! The parts of speech are further split up into:
- +Prop +Pers +Dem +Interr +Refl +Recipr +Rel +Indef
+!!! Nouns
+  +Prop
+!!! Pronouns
+  +Pers +Dem +Interr +Refl +Recipr +Rel +Indef
+!!! Verbs
+  +Aux
 
 !! The Usage extents are marked using following tags:
  +Use/Sub   
