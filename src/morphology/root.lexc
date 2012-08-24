@@ -117,19 +117,19 @@ LEXICON Root
 !! word classes, or optionally from prefixes:
 !! The assumption is that xml files with names Pos_GTLANG-lex.xml will provide the source material for
 !! the initial lexc _LEXICON Pos_ entries
-0   Adjectives  ; 
-0   Adverbs  ;
-0   Conjunctions    ;
-0   Descriptives    ;
-0   Interjections    ;
-0   Nouns   ;
-0   Particles    ;
-0   Postpositions    ;
+0   adjectives  ; 
+0   adverbs  ;
+0   conjunctions    ;
+0   descriptives    ;
+0   interjections    ;
+0   nouns   ;
+0   particles    ;
+0   postpositions    ;
 ! 0   Prefixes    ; ! This might be used with indefinite pronouns
-0   Pronouns    ;
-0   Propernouns    ;
-0   Quantifiers    ;
-0   Verbs   ;
+0   pronouns    ;
+0   propernouns    ;
+0   quantifiers    ;
+0   verbs   ;
 
 
 ! vim: set ft=xfst-lexc:
