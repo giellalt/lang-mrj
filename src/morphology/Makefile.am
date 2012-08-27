@@ -18,48 +18,48 @@
 # Set this to name of lexc file containing Multichar_Symbols and LEXICON Root
 GT_LEXC_ROOT=root.lexc
 
-# Set this to names of all other source lexc files
+# Set this to the names of all other source lexc files
 GT_LEXC_SRCS=\
-			 stems/abbr.lexc \
-			 stems/acro.lexc \
-			 stems/punct.lexc \
-			 affixes/adjectives.lexc \
-			 affixes/clitics.lexc \
-			 affixes/nouns.lexc \
+			 stems/abbr.lexc          \
+			 stems/acro.lexc          \
+			 stems/numerals.lexc      \
+			 stems/prefixes.lexc      \
+			 stems/punct.lexc         \
+			 affixes/adjectives.lexc  \
+			 affixes/clitics.lexc     \
+			 affixes/nouns.lexc       \
 			 affixes/propernouns.lexc \
-			 affixes/verbs.lexc 
+			 affixes/verbs.lexc
 
 # Set this to the names of all generated lexc files, if any
 GENERATED_LEXC_SRCS=\
-			 stems/adjectives.lexc \
-			 stems/adverbs.lexc \
-			 stems/conjunctions.lexc \
-			 stems/descriptives.lexc \
-			 stems/interjections.lexc \
-			 stems/nouns.lexc \
-			 stems/particles.lexc \
-			 stems/postpositions.lexc \
-			 stems/pronouns.lexc \
-			 stems/propernouns.lexc \
-			 stems/quantifiers.lexc \
-			 stems/verbs.lexc 
-
+			stems/adjectives.lexc    \
+			stems/adverbs.lexc       \
+			stems/conjunctions.lexc  \
+			stems/descriptives.lexc  \
+			stems/interjections.lexc \
+			stems/nouns.lexc         \
+			stems/particles.lexc     \
+			stems/postpositions.lexc \
+			stems/pronouns.lexc      \
+			stems/propernouns.lexc   \
+			stems/quantifiers.lexc   \
+			stems/verbs.lexc
 
 # Set this to the names of all source xml files, if any
 GT_XML_SRCS=\
-			 stems/adjectives.xml \
-			 stems/adverbs.xml \
-			 stems/conjunctions.xml \
-			 stems/descriptives.xml \
-			 stems/interjections.xml \
-			 stems/nouns.xml \
-			 stems/particles.xml \
-			 stems/postpositions.xml \
-			 stems/pronouns.xml \
-			 stems/propernouns.xml \
-			 stems/quantifiers.xml \
-			 stems/verbs.xml 
-
+			stems/adjectives.xml    \
+			stems/adverbs.xml       \
+			stems/conjunctions.xml  \
+			stems/descriptives.xml  \
+			stems/interjections.xml \
+			stems/nouns.xml         \
+			stems/particles.xml     \
+			stems/postpositions.xml \
+			stems/pronouns.xml      \
+			stems/propernouns.xml   \
+			stems/quantifiers.xml   \
+			stems/verbs.xml
 
 include $(top_srcdir)/am-shared/lexc-include.am
 
