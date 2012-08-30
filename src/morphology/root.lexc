@@ -115,8 +115,8 @@ Multichar_Symbols
 LEXICON Root
 !! The word forms in Hill Mari start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
-!! The assumption is that xml files with names Pos_GTLANG-lex.xml will provide the source material for
-!! the initial lexc _LEXICON Pos_ entries
+!! The assumption is that xml files with names pos.xml will provide the source material for
+!! the initial pos.lexc _LEXICON Pos_ entries
 0   adjectives  ; 
 0   adverbs  ;
 0   conjunctions    ;
@@ -128,7 +128,7 @@ LEXICON Root
 ! 0   Prefixes    ; ! This might be used with indefinite pronouns
 0   pronouns    ;
 0   propernouns    ;
-0   quantifiers    ;
+0   quantifiers   ;
 0   verbs   ;
 
 
