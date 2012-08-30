@@ -1,0 +1,29 @@
+!! Pronouns
+!! ---------------
+!! Hill Mari (Western Mari) pronouns...
+
+LEXICON PronTag
++Pron: # ;
+
+LEXICON DemTag
++Dem+Adn: # ;
++Dem+Pron: Dem-Cx ;
+!! What are these тӹдӹмӓт, тӹдӹлӓнӓт
+
+LEXICON Dem-Cx
++Sg+Nom: K ;
++Sg+Gen:%>н K ;
++Sg+Acc:%>м K ;
++Sg+Dat:%>лА1н K ;
+
++Pl+Nom:%>влӓ K ;
++Pl+Gen:%>влӓ%>н K ;
++Pl+Acc:%>влӓ%>м K ;
++Pl+Dat:%>влӓ%>лА1н K ;
+
+
+
+
+
+! vim: set ft=xfst-lexc:
+
