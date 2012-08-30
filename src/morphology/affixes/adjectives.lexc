@@ -1,11 +1,15 @@
 !! Adjective inflection
 !! --------------------
-!! The UNDEFINED language adjectives compare.
+!! Hill Mari ?? adjectives compare.
 
-LEXICON Comparisons
-+A+pos:0        Cases   ;
-+A+cmp:er       Cases   ;
-+A+sup:est      Cases   ;
+!! LEXICON Comparisons
+!! +A+pos:0        Cases   ;
+!! +A+cmp:er       Cases   ;
+!! +A+sup:est      Cases   ;
+
+LEXICON AdjTag
++A: # ;
+
 
 ! vim: set ft=xfst-lexc:
 
