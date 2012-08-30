@@ -1,0 +1,93 @@
+
+! Compounding
+
+LEXICON R
+%- N ;
+
+
+! ============ !
+! Interj lexica !
+! ============ !
+
+LEXICON InterjTag
++Interj: K ;
+
+
+! ============ !
+! Postp lexica !
+! ============ !
+
+
+! This contlex allows for relational word which, otherwise, are open 
+! to extensive declension
+LEXICON PostpTag
++Po: K ;
+
+
+LEXICON Ad-ATag ! 
++AdA: # ;
+
+LEXICON AdvTag ! 
++Adv: K ;
+
+LEXICON DescrTag
++Adv+Descr: K ;
+
+LEXICON SpatTag
++Spat: K ;
+
+
+!!Temporal tags with cases
+LEXICON TempTag
++Adv+Temp: K ;
+
+
+
+
+LEXICON Cc
++CC: # ;
+
+LEXICON Cs
++CS: # ;
+
+LEXICON ConjTag
++Conj: # ;
+
+LEXICON Pcle-Compar-Stnd
++Pcle+Compar: # ;
+
+LEXICON Pcle-Epist
++Pcle+Epist: # ;
+
+LEXICON Pcle-Neg-Contrast
++Pcle+Neg+Intensive: # ;
+
+LEXICON Pcle-Neg
++Pcle+Neg: # ;
+
+LEXICON Pcle-Qst
++Pcle+Qst: # ;
+
+LEXICON Pcle-Superl
++Pcle+Superl: # ;
+
+LEXICON PcleTag
++Pcle: # ;
+
+
+LEXICON N-Voc-Px1Sg
++N+Px1Sg+Interj+Voc: # ;
+
+!LEXICON EndNeg 
+!+CC+Neg: # ; ! ни
+
+!LEXICON EndQST
+!+Qst: # ;
+
+!LEXICON ONOM-End
+!+Onom: # ;
+
+!LEXICON DESCR-End
+!+Descr: # ;
+
+! vim: set ft=xfst-lexc:
