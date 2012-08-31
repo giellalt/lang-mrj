@@ -4,13 +4,13 @@
 !! nouns, but with a colon (':') as separator.
 
 LEXICON PropTag
-+Prop: # ;
++N+Prop: NOUN ;
 
 LEXICON ACRONDELIMITER ! Here we need some kind of vowel harmony
-    PROP ;
-:%: PROP ;
-:%- PROP ;
-:%' PROP ;
+    PropTag ;
+:%: PropTag ;
+:%- PropTag ;
+:%' PropTag ;
 
 
 ! vim: set ft=xfst-lexc:
