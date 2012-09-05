@@ -1,8 +1,4 @@
-!! Verbs
-!! -----
-!! Verbs in UNDEFINED language are actions.
-
-LEXICON Verbs
+LEXICON verbs
 
 аваля•нылаш:аваляныл V-amTag  "" ;
 аварга•лаш:аваргал V-amTag  "" ;
@@ -1095,8 +1091,6 @@ LEXICON Verbs
 яра•лташ:яралт V-amTag  "" ;
 ярла•лташ:ярлалт V-amTag  "" ;
 ячырта•лтылаш:ячырталтыл V-amTag  "" ;
-
-
 аваля•наш:авалян V-emTag  "" ;
 аванси•руяш:авансируяш V-emTag  "" ;
 ава•раш:авар V-emTag  "" ;
@@ -3361,19 +3355,14 @@ LEXICON Verbs
 я•хныкташ:яхныкт V-emTag  "" ;
 ячыла•наш:ячылан V-emTag  "" ;
 ячырта•лташ:ячырталт V-emTag  "" ;
-
-
-а•геп:агеп VbTag  "" ;
-а•геш:агеш VbTag  "" ;
-а•гыл:агыл VbTag  "" ;
-а•гылеп:агылеп VbTag  "" ;
-а•да:ада VbTag  "" ;
-ак:ак VbTag  "" ;
-ам:ам VbTag  "" ;
-а•на:ана VbTag  "" ;
-и•дӓ:идӓ VbTag  "" ;
-ит:ит VbTag  "" ;
-итӹ:итӹ VbTag  "" ;
-
-
-! vim: set ft=xfst-lexc:
+а•геп:агеп VAux  "" ;
+а•геш:агеш VAux  "" ;
+а•гыл:агыл VAux  "" ;
+а•гылеп:агылеп VAux  "" ;
+а•да:ада VAux  "" ;
+ак:ак VAux  "" ;
+ам:ам VAux  "" ;
+а•на:ана VAux  "" ;
+и•дӓ:идӓ VAux  "" ;
+ит:ит VAux  "" ;
+итӹ:итӹ VAux  "" ;
