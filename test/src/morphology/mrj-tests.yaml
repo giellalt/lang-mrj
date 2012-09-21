@@ -1,10 +1,10 @@
 Config:
   hfst:
-    Gen: ../bin/mrj-gen.hfstol
-    Morph: ../bin/mrj.hfstol
+    Gen: ../../../src/generator.gt.hfst
+    Morph: ../../../src/analyser.gt.hfst
   xerox:
-    Gen: ../bin/imrj.fst
-    Morph: ../bin/mrj.fst
+    Gen: ../../../src/generator.gt.xfst
+    Morph: ../../../src/analyser.gt.xfst
     App: lookup
 
 Tests:
