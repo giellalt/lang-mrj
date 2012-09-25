@@ -1,0 +1,86 @@
+! This file is a script for the Xerox xfst interface.
+! It gives the morphophonological rules for Nenets.
+
+
+! In this file, testcases are marked as follows:
+
+! space exclmark euro space upper:lower
+! Please add tests for eventual new rules or problems
+
+! To test: in kt/mrj/src, do:
+! xfst -e "source xfst-mrj.txt"
+! invert net
+! save s
+! quit
+! cat xfst-mrj.txt | grep €|cut -d" " -f3|cut -d":" -f1|lookup s
+
+
+clear stack
+
+
+! Definition section !
+! ================== !
+
+echo << THE DEFININTIONS >>
+
+define Cns [ б | в | г | д | ж | з 
+           | Б | В | Г | Д | Ж | З 
+           | й | к | л | м | н | п | р | с | т | ф | х | ц 
+           | Й | К | Л | М | Н | П | Р | С | Т | Ф | Х | Ц 
+           | ч | ш | щ 
+           | Ч | Ш | Щ ] ;
+
+define BackVws [ а | ы | ё | о | у | ю | я
+               | А | Ы | Ё | О | У | Ю | Я ] ;
+
+define FrontVws [ ӓ | э | е | и | ӹ | ӱ
+                | Ӓ | Э | Е | И | Ӹ | Ӱ ] ;
+
+define Vws [ BackVws | FrontVws ] ;
+
+
+define Dummy %> ;
+
+
+
+! Rule section !
+! ============ !
+
+echo << THE RULES >>
+
+define RemoveStress [ • -> 0 || _ ] ;
+
+define VowelHarmonyAÄ [ А1 -> а || BackVws  Cns* %> л _ ,,
+                        А1 -> а || BackVws  Cns* %> _ ш ,,
+                        А1 -> ӓ || FrontVws Cns* %> л _ ,,
+                        А1 -> ӓ || FrontVws Cns* %> _ ш  ] ;
+
+define MorphInitialYToZero [ Ы1 -> 0 ||  [ Vws | Ы1 ] %>  _ ]   ;
+
+define MorphFinalYToE [ Ы1 -> ӹ || FrontVws Cns* %> ( Ы1 )[ ж | ш | ш т | ш к ] _ ,,
+                       Ы1 -> ы || BackVws Cns* %> ( Ы1 ) [ ж | ш | ш т | ш к ] _ ,,
+                       Ы1 -> ӹ || FrontVws Cns* %> _ [ ж | ш | ш т | ш к | н ] ,,
+                       Ы1 -> ы || BackVws Cns* %> _ [ ж | ш | ш т | ш к | н ]  ];
+ !€ ӓвӓ>жЫ1:ӓвӓжӹ
+
+define VowelPalatalization [ а -> я , у -> ю || й %> _ ] ;
+
+define jLoss й -> 0 || _ %> [ я | ю ] ;
+
+
+define DummyDeletion Dummy -> 0 ;
+
+
+
+read regex [
+
+    RemoveStress
+.o. VowelHarmonyAÄ
+.o. MorphInitialYToZero
+.o. MorphFinalYToE
+.o. VowelPalatalization
+.o. jLoss
+.o. DummyDeletion
+] ;
+
+
