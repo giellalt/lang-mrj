@@ -1,0 +1,17 @@
+!! Proper noun inflection
+!! ----------------------
+!! Hill Mari proper nouns inflect in the same cases as regular
+!! nouns, but with a colon (':') as separator.
+
+LEXICON PropTag
++N+Prop: NOUN ;
+
+LEXICON ACRONDELIMITER ! Here we need some kind of vowel harmony
+    PropTag ;
+:%: PropTag ;
+:%- PropTag ;
+:%' PropTag ;
+
+
+! vim: set ft=xfst-lexc:
+
