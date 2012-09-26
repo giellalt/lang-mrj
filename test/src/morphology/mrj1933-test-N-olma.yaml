@@ -1,0 +1,106 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator.gt.hfst
+    Morph: ../../../src/analyser.gt.hfst
+  xerox:
+    Gen: ../../../src/generator.gt.xfst
+    Morph: ../../../src/analyser.gt.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Noun - олма: # Noun '??'
+     олма+N+Sg+Nom: олма
+     олма+N+Sg+Gen: олман
+     олма+N+Sg+Dat: олмалан
+     олма+N+Sg+Acc: олмам
+     олма+N+Sg+Lat: олмаэш
+     олма+N+Sg+Ill: олмашкы
+     олма+N+Sg+Ine: олмашты
+     олма+N+Sg+Com: олмагэ
+     олма+N+Sg+Abe: олматэ
+     олма+N+Sg+Cmp: олмала
+     олма+N+Pl+Nom: олмавлӓ
+     олма+N+Pl+Gen: олмавлӓн
+     олма+N+Pl+Dat: олмавлӓлӓн
+     олма+N+Pl+Acc: олмавлӓм
+     олма+N+Pl+Lat: олмавлӓш
+     олма+N+Pl+Ill: олмавлӓшкӹ
+     олма+N+Pl+Ine: олмавлӓштӹ
+     олма+N+Pl+Com: олмавлӓге
+     олма+N+Pl+Abe: олмавлӓде
+     олма+N+Pl+Cmp: олмавлӓлӓ
+
+#олмат, олмаэт, олмаэтшӹ, 
+#олмажӹ, 
+###
+     олма+Orth/1933+N+Sg+PxSg1+Nom: олмаэм
+     олма+Orth/1933+N+Sg+PxSg1+Gen: олмаэмӹн
+     олма+Orth/1933+N+Sg+PxSg1+Dat: олмаэмлӓн
+     олма+Orth/1933+N+Sg+PxSg1+Acc: олмаэмӹм
+     олма+Orth/1933+N+Sg+PxSg1+Lat: олмаэшэм
+     олма+Orth/1933+N+Sg+PxSg1+Ill: олмашкэм
+     олма+Orth/1933+N+Sg+PxSg1+Ine: олмаштэм
+     олма+Orth/1933+N+Sg+PxSg1+Com: олмаэмгэ
+     олма+Orth/1933+N+Sg+PxSg1+Abe: олмаэмтэ
+     олма+Orth/1933+N+Sg+PxSg1+Cmp: олмаэмлӓ
+     олма+Orth/1933+N+Pl+PxSg1+Nom: олмавлӓэм
+     олма+Orth/1933+N+Pl+PxSg1+Gen: олмавлӓэмӹн
+     олма+Orth/1933+N+Pl+PxSg1+Dat: олмавлӓэмлӓн
+     олма+Orth/1933+N+Pl+PxSg1+Acc: олмавлӓэмӹм
+     олма+Orth/1933+N+Pl+PxSg1+Lat: олмавлӓэшэм
+     олма+Orth/1933+N+Pl+PxSg1+Ill: олмавлӓшкэм
+     олма+Orth/1933+N+Pl+PxSg1+Ine: олмавлӓштэм
+     олма+Orth/1933+N+Pl+PxSg1+Com: олмавлӓэмгэ
+     олма+Orth/1933+N+Pl+PxSg1+Abe: олмавлӓэмтэ
+     олма+Orth/1933+N+Pl+PxSg1+Cmp: олмавлӓэмлӓ
+
+###
+     олма+Orth/1933+N+Sg+PxSg2+Nom: олмаэт
+     олма+Orth/1933+N+Sg+PxSg2+Gen: олмаэдӹн
+     олма+Orth/1933+N+Sg+PxSg2+Dat: олмаэтлӓн
+     олма+Orth/1933+N+Sg+PxSg2+Acc: олмаэдӹм
+     олма+Orth/1933+N+Sg+PxSg2+Lat: олмаэшэт
+     олма+Orth/1933+N+Sg+PxSg2+Ill: олмашкэт
+     олма+Orth/1933+N+Sg+PxSg2+Ine: олмаштэт
+     олма+Orth/1933+N+Sg+PxSg2+Com: олмаэткэ
+     олма+Orth/1933+N+Sg+PxSg2+Abe: олмаэттэ
+     олма+Orth/1933+N+Sg+PxSg2+Cmp: олмаэтлӓ
+     олма+Orth/1933+N+Pl+PxSg2+Nom: олмавлӓэт
+     олма+Orth/1933+N+Pl+PxSg2+Gen: олмавлӓэдӹн
+     олма+Orth/1933+N+Pl+PxSg2+Dat: олмавлӓэтлӓн
+     олма+Orth/1933+N+Pl+PxSg2+Acc: олмавлӓэдӹм
+     олма+Orth/1933+N+Pl+PxSg2+Lat: олмавлӓэшэт
+     олма+Orth/1933+N+Pl+PxSg2+Ill: олмавлӓшкэт
+     олма+Orth/1933+N+Pl+PxSg2+Ine: олмавлӓштэт
+     олма+Orth/1933+N+Pl+PxSg2+Com: олмавлӓэткэ
+     олма+Orth/1933+N+Pl+PxSg2+Abe: олмавлӓэттэ
+     олма+Orth/1933+N+Pl+PxSg2+Cmp: олмавлӓэтлӓ
+###
+     олма+Orth/1933+N+Sg+PxSg3+Nom: олмажӹ
+     олма+Orth/1933+N+Sg+PxSg3+Gen: олмажӹн
+     олма+Orth/1933+N+Sg+PxSg3+Dat: олмажӹлӓн
+     олма+Orth/1933+N+Sg+PxSg3+Acc: олмажӹм
+     олма+Orth/1933+N+Sg+PxSg3+Lat: олмаэшӹжӹ
+     олма+Orth/1933+N+Sg+PxSg3+Ill: олмашкӹжӹ
+     олма+Orth/1933+N+Sg+PxSg3+Ine: олмаштӹжӹ
+     олма+Orth/1933+N+Sg+PxSg3+Com: олмажӹгэ
+     олма+Orth/1933+N+Sg+PxSg3+Abe: олмажӹтэ
+     олма+Orth/1933+N+Sg+PxSg3+Cmp: олмажӹлӓ
+     олма+Orth/1933+N+Pl+PxSg3+Nom: олмавлӓжӹ
+     олма+Orth/1933+N+Pl+PxSg3+Gen: олмавлӓӹн
+     олма+Orth/1933+N+Pl+PxSg3+Dat: олмавлӓжӹлӓн
+     олма+Orth/1933+N+Pl+PxSg3+Acc: олмавлӓэдӹм
+     олма+Orth/1933+N+Pl+PxSg3+Lat: олмавлӓэшӹжӹ
+     олма+Orth/1933+N+Pl+PxSg3+Ill: олмавлӓшкӹжӹ
+     олма+Orth/1933+N+Pl+PxSg3+Ine: олмавлӓштӹжӹ
+     олма+Orth/1933+N+Pl+PxSg3+Com: олмавлӓжӹгэ
+     олма+Orth/1933+N+Pl+PxSg3+Abe: олмавлӓжӹтэ
+     олма+Orth/1933+N+Pl+PxSg3+Cmp: олмавлӓжӹлӓ
+
+

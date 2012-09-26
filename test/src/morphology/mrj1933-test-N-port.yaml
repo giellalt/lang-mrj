@@ -1,0 +1,170 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator.gt.hfst
+    Morph: ../../../src/analyser.gt.hfst
+  xerox:
+    Gen: ../../../src/generator.gt.xfst
+    Morph: ../../../src/analyser.gt.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Noun - пӧрт: # Noun 'house'
+     пӧрт+N+Sg+Nom: пӧрт
+     пӧрт+N+Sg+Gen: пӧртӹн
+     пӧрт+N+Sg+Dat: пӧртлан
+     пӧрт+N+Sg+Acc: пӧртӹм
+     пӧрт+N+Sg+Lat: пӧртэш
+     пӧрт+N+Sg+Ill: пӧртӹшкӹ
+     пӧрт+N+Sg+Ine: пӧртӹштӹ
+     пӧрт+N+Sg+Com: пӧрткэ
+     пӧрт+N+Sg+Abe: пӧрттэ
+     пӧрт+N+Sg+Cmp: пӧртла
+     пӧрт+N+Pl+Nom: пӧртвлӓ
+     пӧрт+N+Pl+Gen: пӧртвлӓн
+     пӧрт+N+Pl+Dat: пӧртвлӓлӓн
+     пӧрт+N+Pl+Acc: пӧртвлӓм
+     пӧрт+N+Pl+Lat: пӧртвлӓш
+     пӧрт+N+Pl+Ill: пӧртвлӓшкӹ
+     пӧрт+N+Pl+Ine: пӧртвлӓштӹ
+     пӧрт+N+Pl+Com: пӧртвлӓге
+     пӧрт+N+Pl+Abe: пӧртвлӓде
+     пӧрт+N+Pl+Cmp: пӧртвлӓлӓ
+
+#пӧртт, пӧртэт, пӧртэтшӹ, 
+#пӧртжӹ, 
+###
+     пӧрт+Orth/1933+N+Sg+PxSg1+Nom: пӧртэм
+     пӧрт+Orth/1933+N+Sg+PxSg1+Gen: пӧртэмӹн
+     пӧрт+Orth/1933+N+Sg+PxSg1+Dat: пӧртэмлӓн
+     пӧрт+Orth/1933+N+Sg+PxSg1+Acc: пӧртэмӹм
+     пӧрт+Orth/1933+N+Sg+PxSg1+Lat: пӧртэшэм
+     пӧрт+Orth/1933+N+Sg+PxSg1+Ill: пӧртшкэм
+     пӧрт+Orth/1933+N+Sg+PxSg1+Ine: пӧртштэм
+     пӧрт+Orth/1933+N+Sg+PxSg1+Com: пӧртэмгэ
+     пӧрт+Orth/1933+N+Sg+PxSg1+Abe: пӧртэмтэ
+     пӧрт+Orth/1933+N+Sg+PxSg1+Cmp: пӧртэмлӓ
+     пӧрт+Orth/1933+N+Pl+PxSg1+Nom: пӧртвлӓэм
+     пӧрт+Orth/1933+N+Pl+PxSg1+Gen: пӧртвлӓэмӹн
+     пӧрт+Orth/1933+N+Pl+PxSg1+Dat: пӧртвлӓэмлӓн
+     пӧрт+Orth/1933+N+Pl+PxSg1+Acc: пӧртвлӓэмӹм
+     пӧрт+Orth/1933+N+Pl+PxSg1+Lat: пӧртвлӓэшэм
+     пӧрт+Orth/1933+N+Pl+PxSg1+Ill: пӧртвлӓшкэм
+     пӧрт+Orth/1933+N+Pl+PxSg1+Ine: пӧртвлӓштэм
+     пӧрт+Orth/1933+N+Pl+PxSg1+Com: пӧртвлӓэмгэ
+     пӧрт+Orth/1933+N+Pl+PxSg1+Abe: пӧртвлӓэмтэ
+     пӧрт+Orth/1933+N+Pl+PxSg1+Cmp: пӧртвлӓэмлӓ
+
+###
+     пӧрт+Orth/1933+N+Sg+PxSg2+Nom: пӧртэт
+     пӧрт+Orth/1933+N+Sg+PxSg2+Gen: пӧртэдӹн
+     пӧрт+Orth/1933+N+Sg+PxSg2+Dat: пӧртэтлӓн
+     пӧрт+Orth/1933+N+Sg+PxSg2+Acc: пӧртэдӹм
+     пӧрт+Orth/1933+N+Sg+PxSg2+Lat: пӧртэшэт
+     пӧрт+Orth/1933+N+Sg+PxSg2+Ill: пӧртшкэт
+     пӧрт+Orth/1933+N+Sg+PxSg2+Ine: пӧртштэт
+     пӧрт+Orth/1933+N+Sg+PxSg2+Com: пӧртэткэ
+     пӧрт+Orth/1933+N+Sg+PxSg2+Abe: пӧртэттэ
+     пӧрт+Orth/1933+N+Sg+PxSg2+Cmp: пӧртэтлӓ
+     пӧрт+Orth/1933+N+Pl+PxSg2+Nom: пӧртвлӓэт
+     пӧрт+Orth/1933+N+Pl+PxSg2+Gen: пӧртвлӓэдӹн
+     пӧрт+Orth/1933+N+Pl+PxSg2+Dat: пӧртвлӓэтлӓн
+     пӧрт+Orth/1933+N+Pl+PxSg2+Acc: пӧртвлӓэдӹм
+     пӧрт+Orth/1933+N+Pl+PxSg2+Lat: пӧртвлӓэшэт
+     пӧрт+Orth/1933+N+Pl+PxSg2+Ill: пӧртвлӓшкэт
+     пӧрт+Orth/1933+N+Pl+PxSg2+Ine: пӧртвлӓштэт
+     пӧрт+Orth/1933+N+Pl+PxSg2+Com: пӧртвлӓэткэ
+     пӧрт+Orth/1933+N+Pl+PxSg2+Abe: пӧртвлӓэттэ
+     пӧрт+Orth/1933+N+Pl+PxSg2+Cmp: пӧртвлӓэтлӓ
+###
+     пӧрт+Orth/1933+N+Sg+PxSg3+Nom: пӧртшӹ
+     пӧрт+Orth/1933+N+Sg+PxSg3+Gen: пӧртшӹн
+     пӧрт+Orth/1933+N+Sg+PxSg3+Dat: пӧртшӹлӓн
+     пӧрт+Orth/1933+N+Sg+PxSg3+Acc: пӧртшӹм
+     пӧрт+Orth/1933+N+Sg+PxSg3+Lat: пӧртэшӹжӹ
+     пӧрт+Orth/1933+N+Sg+PxSg3+Ill: пӧртшкӹжӹ
+     пӧрт+Orth/1933+N+Sg+PxSg3+Ine: пӧртштӹжӹ
+     пӧрт+Orth/1933+N+Sg+PxSg3+Com: пӧртшӹгэ
+     пӧрт+Orth/1933+N+Sg+PxSg3+Abe: пӧртшӹтэ
+     пӧрт+Orth/1933+N+Sg+PxSg3+Cmp: пӧртшӹлӓ
+     пӧрт+Orth/1933+N+Pl+PxSg3+Nom: пӧртвлӓжӹ
+     пӧрт+Orth/1933+N+Pl+PxSg3+Gen: пӧртвлӓӹн
+     пӧрт+Orth/1933+N+Pl+PxSg3+Dat: пӧртвлӓжӹлӓн
+     пӧрт+Orth/1933+N+Pl+PxSg3+Acc: пӧртвлӓэдӹм
+     пӧрт+Orth/1933+N+Pl+PxSg3+Lat: пӧртвлӓэшӹжӹ
+     пӧрт+Orth/1933+N+Pl+PxSg3+Ill: пӧртвлӓшкӹжӹ
+     пӧрт+Orth/1933+N+Pl+PxSg3+Ine: пӧртвлӓштӹжӹ
+     пӧрт+Orth/1933+N+Pl+PxSg3+Com: пӧртвлӓжӹгэ
+     пӧрт+Orth/1933+N+Pl+PxSg3+Abe: пӧртвлӓжӹтэ
+     пӧрт+Orth/1933+N+Pl+PxSg3+Cmp: пӧртвлӓжӹлӓ
+###
+     пӧрт+Orth/1933+N+Sg+PxPl1+Nom: пӧртна
+     пӧрт+Orth/1933+N+Sg+PxPl1+Gen: пӧртнан
+     пӧрт+Orth/1933+N+Sg+PxPl1+Dat: пӧртналан
+     пӧрт+Orth/1933+N+Sg+PxPl1+Acc: пӧртнам
+     пӧрт+Orth/1933+N+Sg+PxPl1+Lat: пӧртэшнӓ
+     пӧрт+Orth/1933+N+Sg+PxPl1+Ill: пӧртшкына
+     пӧрт+Orth/1933+N+Sg+PxPl1+Ine: пӧртштына
+     пӧрт+Orth/1933+N+Sg+PxPl1+Com: пӧртнагэ
+     пӧрт+Orth/1933+N+Sg+PxPl1+Abe: пӧртнатэ
+     пӧрт+Orth/1933+N+Sg+PxPl1+Cmp: пӧртнала
+     пӧрт+Orth/1933+N+Pl+PxPl1+Nom: пӧртвлӓнӓ
+     пӧрт+Orth/1933+N+Pl+PxPl1+Gen: пӧртвлӓнӓн
+     пӧрт+Orth/1933+N+Pl+PxPl1+Dat: пӧртвлӓнӓлӓн
+     пӧрт+Orth/1933+N+Pl+PxPl1+Acc: пӧртвлӓнӓм
+     пӧрт+Orth/1933+N+Pl+PxPl1+Lat: пӧртвлӓэшнӓ
+     пӧрт+Orth/1933+N+Pl+PxPl1+Ill: пӧртвлӓшкӹнӓ
+     пӧрт+Orth/1933+N+Pl+PxPl1+Ine: пӧртвлӓштӹнӓ
+     пӧрт+Orth/1933+N+Pl+PxPl1+Com: пӧртвлӓнӓгэ
+     пӧрт+Orth/1933+N+Pl+PxPl1+Abe: пӧртвлӓнӓтэ
+     пӧрт+Orth/1933+N+Pl+PxPl1+Cmp: пӧртвлӓнӓлӓ
+
+###
+     пӧрт+Orth/1933+N+Sg+PxPl2+Nom: пӧртда
+     пӧрт+Orth/1933+N+Sg+PxPl2+Gen: пӧртдан
+     пӧрт+Orth/1933+N+Sg+PxPl2+Dat: пӧртдалан
+     пӧрт+Orth/1933+N+Sg+PxPl2+Acc: пӧртдам
+     пӧрт+Orth/1933+N+Sg+PxPl2+Lat: пӧртэштӓ
+     пӧрт+Orth/1933+N+Sg+PxPl2+Ill: пӧртшкыда
+     пӧрт+Orth/1933+N+Sg+PxPl2+Ine: пӧртштыда
+     пӧрт+Orth/1933+N+Sg+PxPl2+Com: пӧртдагэ
+     пӧрт+Orth/1933+N+Sg+PxPl2+Abe: пӧртдатэ
+     пӧрт+Orth/1933+N+Sg+PxPl2+Cmp: пӧртдалӓ
+     пӧрт+Orth/1933+N+Pl+PxPl2+Nom: пӧртвлӓдӓ
+     пӧрт+Orth/1933+N+Pl+PxPl2+Gen: пӧртвлӓдӓн
+     пӧрт+Orth/1933+N+Pl+PxPl2+Dat: пӧртвлӓдӓлӓн
+     пӧрт+Orth/1933+N+Pl+PxPl2+Acc: пӧртвлӓдӓм
+     пӧрт+Orth/1933+N+Pl+PxPl2+Lat: пӧртвлӓэштӓ
+     пӧрт+Orth/1933+N+Pl+PxPl2+Ill: пӧртвлӓшкӹдӓ
+     пӧрт+Orth/1933+N+Pl+PxPl2+Ine: пӧртвлӓштӹдӓ
+     пӧрт+Orth/1933+N+Pl+PxPl2+Com: пӧртвлӓдӓгэ
+     пӧрт+Orth/1933+N+Pl+PxPl2+Abe: пӧртвлӓдӓтэ
+     пӧрт+Orth/1933+N+Pl+PxPl2+Cmp: пӧртвлӓдӓлӓ
+###
+     пӧрт+Orth/1933+N+Sg+PxPl3+Nom: пӧртшты
+     пӧрт+Orth/1933+N+Sg+PxPl3+Gen: пӧртштын
+     пӧрт+Orth/1933+N+Sg+PxPl3+Dat: пӧртштылӓн
+     пӧрт+Orth/1933+N+Sg+PxPl3+Acc: пӧртштым
+     пӧрт+Orth/1933+N+Sg+PxPl3+Lat: пӧртэшӹштӹ
+     пӧрт+Orth/1933+N+Sg+PxPl3+Ill: пӧртшкышты
+     пӧрт+Orth/1933+N+Sg+PxPl3+Ine: пӧртштышты
+     пӧрт+Orth/1933+N+Sg+PxPl3+Com: пӧртштыгэ
+     пӧрт+Orth/1933+N+Sg+PxPl3+Abe: пӧртштытэ
+     пӧрт+Orth/1933+N+Sg+PxPl3+Cmp: пӧртштыла
+     пӧрт+Orth/1933+N+Pl+PxPl3+Nom: пӧртвлӓштӹ
+     пӧрт+Orth/1933+N+Pl+PxPl3+Gen: пӧртвлӓштӹн
+     пӧрт+Orth/1933+N+Pl+PxPl3+Dat: пӧртвлӓштӹлӓн
+     пӧрт+Orth/1933+N+Pl+PxPl3+Acc: пӧртвлӓштӹм
+     пӧрт+Orth/1933+N+Pl+PxPl3+Lat: пӧртвлӓэшӹштӹ
+     пӧрт+Orth/1933+N+Pl+PxPl3+Ill: пӧртвлӓшкӹштӹ
+     пӧрт+Orth/1933+N+Pl+PxPl3+Ine: пӧртвлӓштӹштӹ
+     пӧрт+Orth/1933+N+Pl+PxPl3+Com: пӧртвлӓштӹгэ
+     пӧрт+Orth/1933+N+Pl+PxPl3+Abe: пӧртвлӓштӹтэ
+     пӧрт+Orth/1933+N+Pl+PxPl3+Cmp: пӧртвлӓштӹлӓ
+
+
