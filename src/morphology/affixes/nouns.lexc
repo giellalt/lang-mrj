@@ -10,17 +10,19 @@ LEXICON N-ӓвӓ
 
 LEXICON NOUN
 +N: Nb-Cx-Px_Nb ; !
-!!+N+Sg+Gen:%>Ы1н K ; ! 
-!!+N+Sg+Acc:%>Ы1м K ; !
-!!+N+Sg+Com:%>ге K ; ! (with a village)
++N+Sg+Gen:%>Ы1н K ; ! 
++N+Sg+Acc:%>Ы1м K ; !
++N+Sg+Com:%>ге K ; ! (with a village)
++Orth/1933+N+Sg+Com:%>гэ K ; ! (with a village)
 
-!!+N+Sg+Dat:%>лА1н K ; !
-!!+N+Sg+Comp:%>лА1 K ; ! (like a village)
++N+Sg+Dat:%>лА1н K ; !
++N+Sg+Comp:%>лА1 K ; ! (like a village)
 +N+Sg+Ine:%>Ы1штЫ1 K ; ! (in a village)
 +N+Sg+Ine:%>Ы1штЫ1 Cx-then-Px ;
 +N+Sg+Ill:%>Ы1шкЫ1 K ; ! (to a village)
 +N+Sg+Lat:%>Ы1ш K ; ! (into a village)
 +N+Sg+Abe:%>де K ; ! (without a village)
++Orth/1933+N+Sg+Abe:%>дэ K ; ! (without a village)
 !! Pl
 +N: Nb-GenAccComDatComp ;
 +N+Pl+Dat:%>влӓ%>лА1н Cx-then-Px ; !
