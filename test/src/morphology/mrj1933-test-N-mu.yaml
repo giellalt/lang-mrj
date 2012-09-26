@@ -1,0 +1,106 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator.gt.hfst
+    Morph: ../../../src/analyser.gt.hfst
+  xerox:
+    Gen: ../../../src/generator.gt.xfst
+    Morph: ../../../src/analyser.gt.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Noun - мӱ: # Noun '??'
+     мӱ+N+Sg+Nom: мӱ
+     мӱ+N+Sg+Gen: мӱн
+     мӱ+N+Sg+Dat: мӱлӓн
+     мӱ+N+Sg+Acc: мӱм
+     мӱ+N+Sg+Lat: мӱш
+     мӱ+N+Sg+Ill: мӱшкӹ
+     мӱ+N+Sg+Ine: мӱштӹ
+     мӱ+N+Sg+Com: мӱге
+     мӱ+N+Sg+Abe: мӱде
+     мӱ+N+Sg+Cmp: мӱлӓ
+     мӱ+N+Pl+Nom: мӱвлӓ
+     мӱ+N+Pl+Gen: мӱвлӓн
+     мӱ+N+Pl+Dat: мӱвлӓлӓн
+     мӱ+N+Pl+Acc: мӱвлӓм
+     мӱ+N+Pl+Lat: мӱвлӓш
+     мӱ+N+Pl+Ill: мӱвлӓшкӹ
+     мӱ+N+Pl+Ine: мӱвлӓштӹ
+     мӱ+N+Pl+Com: мӱвлӓге
+     мӱ+N+Pl+Abe: мӱвлӓде
+     мӱ+N+Pl+Cmp: мӱвлӓлӓ
+
+#мӱт, мӱэт, мӱэтшӹ, 
+#мӱжӹ, 
+###
+     мӱ+Orth/1933+N+Sg+PxSg1+Nom: мӱэм
+     мӱ+Orth/1933+N+Sg+PxSg1+Gen: мӱэмӹн
+     мӱ+Orth/1933+N+Sg+PxSg1+Dat: мӱэмлӓн
+     мӱ+Orth/1933+N+Sg+PxSg1+Acc: мӱэмӹм
+     мӱ+Orth/1933+N+Sg+PxSg1+Lat: мӱэшэм
+     мӱ+Orth/1933+N+Sg+PxSg1+Ill: мӱшкэм
+     мӱ+Orth/1933+N+Sg+PxSg1+Ine: мӱштэм
+     мӱ+Orth/1933+N+Sg+PxSg1+Com: мӱэмгэ
+     мӱ+Orth/1933+N+Sg+PxSg1+Abe: мӱэмтэ
+     мӱ+Orth/1933+N+Sg+PxSg1+Cmp: мӱэмлӓ
+     мӱ+Orth/1933+N+Pl+PxSg1+Nom: мӱвлӓэм
+     мӱ+Orth/1933+N+Pl+PxSg1+Gen: мӱвлӓэмӹн
+     мӱ+Orth/1933+N+Pl+PxSg1+Dat: мӱвлӓэмлӓн
+     мӱ+Orth/1933+N+Pl+PxSg1+Acc: мӱвлӓэмӹм
+     мӱ+Orth/1933+N+Pl+PxSg1+Lat: мӱвлӓэшэм
+     мӱ+Orth/1933+N+Pl+PxSg1+Ill: мӱвлӓшкэм
+     мӱ+Orth/1933+N+Pl+PxSg1+Ine: мӱвлӓштэм
+     мӱ+Orth/1933+N+Pl+PxSg1+Com: мӱвлӓэмгэ
+     мӱ+Orth/1933+N+Pl+PxSg1+Abe: мӱвлӓэмтэ
+     мӱ+Orth/1933+N+Pl+PxSg1+Cmp: мӱвлӓэмлӓ
+
+###
+     мӱ+Orth/1933+N+Sg+PxSg2+Nom: мӱэт
+     мӱ+Orth/1933+N+Sg+PxSg2+Gen: мӱэдӹн
+     мӱ+Orth/1933+N+Sg+PxSg2+Dat: мӱэтлӓн
+     мӱ+Orth/1933+N+Sg+PxSg2+Acc: мӱэдӹм
+     мӱ+Orth/1933+N+Sg+PxSg2+Lat: мӱэшэт
+     мӱ+Orth/1933+N+Sg+PxSg2+Ill: мӱшкэт
+     мӱ+Orth/1933+N+Sg+PxSg2+Ine: мӱштэт
+     мӱ+Orth/1933+N+Sg+PxSg2+Com: мӱэткэ
+     мӱ+Orth/1933+N+Sg+PxSg2+Abe: мӱэттэ
+     мӱ+Orth/1933+N+Sg+PxSg2+Cmp: мӱэтлӓ
+     мӱ+Orth/1933+N+Pl+PxSg2+Nom: мӱвлӓэт
+     мӱ+Orth/1933+N+Pl+PxSg2+Gen: мӱвлӓэдӹн
+     мӱ+Orth/1933+N+Pl+PxSg2+Dat: мӱвлӓэтлӓн
+     мӱ+Orth/1933+N+Pl+PxSg2+Acc: мӱвлӓэдӹм
+     мӱ+Orth/1933+N+Pl+PxSg2+Lat: мӱвлӓэшэт
+     мӱ+Orth/1933+N+Pl+PxSg2+Ill: мӱвлӓшкэт
+     мӱ+Orth/1933+N+Pl+PxSg2+Ine: мӱвлӓштэт
+     мӱ+Orth/1933+N+Pl+PxSg2+Com: мӱвлӓэткэ
+     мӱ+Orth/1933+N+Pl+PxSg2+Abe: мӱвлӓэттэ
+     мӱ+Orth/1933+N+Pl+PxSg2+Cmp: мӱвлӓэтлӓ
+###
+     мӱ+Orth/1933+N+Sg+PxSg3+Nom: мӱжӹ
+     мӱ+Orth/1933+N+Sg+PxSg3+Gen: мӱжӹн
+     мӱ+Orth/1933+N+Sg+PxSg3+Dat: мӱжӹлӓн
+     мӱ+Orth/1933+N+Sg+PxSg3+Acc: мӱжӹм
+     мӱ+Orth/1933+N+Sg+PxSg3+Lat: мӱэшӹжӹ
+     мӱ+Orth/1933+N+Sg+PxSg3+Ill: мӱшкӹжӹ
+     мӱ+Orth/1933+N+Sg+PxSg3+Ine: мӱштӹжӹ
+     мӱ+Orth/1933+N+Sg+PxSg3+Com: мӱжӹгэ
+     мӱ+Orth/1933+N+Sg+PxSg3+Abe: мӱжӹтэ
+     мӱ+Orth/1933+N+Sg+PxSg3+Cmp: мӱжӹлӓ
+     мӱ+Orth/1933+N+Pl+PxSg3+Nom: мӱвлӓжӹ
+     мӱ+Orth/1933+N+Pl+PxSg3+Gen: мӱвлӓӹн
+     мӱ+Orth/1933+N+Pl+PxSg3+Dat: мӱвлӓжӹлӓн
+     мӱ+Orth/1933+N+Pl+PxSg3+Acc: мӱвлӓэдӹм
+     мӱ+Orth/1933+N+Pl+PxSg3+Lat: мӱвлӓэшӹжӹ
+     мӱ+Orth/1933+N+Pl+PxSg3+Ill: мӱвлӓшкӹжӹ
+     мӱ+Orth/1933+N+Pl+PxSg3+Ine: мӱвлӓштӹжӹ
+     мӱ+Orth/1933+N+Pl+PxSg3+Com: мӱвлӓжӹгэ
+     мӱ+Orth/1933+N+Pl+PxSg3+Abe: мӱвлӓжӹтэ
+     мӱ+Orth/1933+N+Pl+PxSg3+Cmp: мӱвлӓжӹлӓ
+
+

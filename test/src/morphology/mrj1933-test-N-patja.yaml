@@ -1,0 +1,170 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator.gt.hfst
+    Morph: ../../../src/analyser.gt.hfst
+  xerox:
+    Gen: ../../../src/generator.gt.xfst
+    Morph: ../../../src/analyser.gt.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Noun - патьа: # Noun '??'
+     патьа+N+Sg+Nom: патьа
+     патьа+N+Sg+Gen: патьан
+     патьа+N+Sg+Dat: патьалан
+     патьа+N+Sg+Acc: патьам
+     патьа+N+Sg+Lat: патьаэш
+     патьа+N+Sg+Ill: патьашкы
+     патьа+N+Sg+Ine: патьашты
+     патьа+N+Sg+Com: патьагэ
+     патьа+N+Sg+Abe: патьатэ
+     патьа+N+Sg+Cmp: патьала
+     патьа+N+Pl+Nom: патьавлӓ
+     патьа+N+Pl+Gen: патьавлӓн
+     патьа+N+Pl+Dat: патьавлӓлӓн
+     патьа+N+Pl+Acc: патьавлӓм
+     патьа+N+Pl+Lat: патьавлӓш
+     патьа+N+Pl+Ill: патьавлӓшкӹ
+     патьа+N+Pl+Ine: патьавлӓштӹ
+     патьа+N+Pl+Com: патьавлӓге
+     патьа+N+Pl+Abe: патьавлӓде
+     патьа+N+Pl+Cmp: патьавлӓлӓ
+
+#патьат, патьаэт, патьаэтшӹ, 
+#патьажӹ, 
+###
+     патьа+Orth/1933+N+Sg+PxSg1+Nom: патьаэм
+     патьа+Orth/1933+N+Sg+PxSg1+Gen: патьаэмӹн
+     патьа+Orth/1933+N+Sg+PxSg1+Dat: патьаэмлӓн
+     патьа+Orth/1933+N+Sg+PxSg1+Acc: патьаэмӹм
+     патьа+Orth/1933+N+Sg+PxSg1+Lat: патьаэшэм
+     патьа+Orth/1933+N+Sg+PxSg1+Ill: патьашкэм
+     патьа+Orth/1933+N+Sg+PxSg1+Ine: патьаштэм
+     патьа+Orth/1933+N+Sg+PxSg1+Com: патьаэмгэ
+     патьа+Orth/1933+N+Sg+PxSg1+Abe: патьаэмтэ
+     патьа+Orth/1933+N+Sg+PxSg1+Cmp: патьаэмлӓ
+     патьа+Orth/1933+N+Pl+PxSg1+Nom: патьавлӓэм
+     патьа+Orth/1933+N+Pl+PxSg1+Gen: патьавлӓэмӹн
+     патьа+Orth/1933+N+Pl+PxSg1+Dat: патьавлӓэмлӓн
+     патьа+Orth/1933+N+Pl+PxSg1+Acc: патьавлӓэмӹм
+     патьа+Orth/1933+N+Pl+PxSg1+Lat: патьавлӓэшэм
+     патьа+Orth/1933+N+Pl+PxSg1+Ill: патьавлӓшкэм
+     патьа+Orth/1933+N+Pl+PxSg1+Ine: патьавлӓштэм
+     патьа+Orth/1933+N+Pl+PxSg1+Com: патьавлӓэмгэ
+     патьа+Orth/1933+N+Pl+PxSg1+Abe: патьавлӓэмтэ
+     патьа+Orth/1933+N+Pl+PxSg1+Cmp: патьавлӓэмлӓ
+
+###
+     патьа+Orth/1933+N+Sg+PxSg2+Nom: патьаэт
+     патьа+Orth/1933+N+Sg+PxSg2+Gen: патьаэдӹн
+     патьа+Orth/1933+N+Sg+PxSg2+Dat: патьаэтлӓн
+     патьа+Orth/1933+N+Sg+PxSg2+Acc: патьаэдӹм
+     патьа+Orth/1933+N+Sg+PxSg2+Lat: патьаэшэт
+     патьа+Orth/1933+N+Sg+PxSg2+Ill: патьашкэт
+     патьа+Orth/1933+N+Sg+PxSg2+Ine: патьаштэт
+     патьа+Orth/1933+N+Sg+PxSg2+Com: патьаэткэ
+     патьа+Orth/1933+N+Sg+PxSg2+Abe: патьаэттэ
+     патьа+Orth/1933+N+Sg+PxSg2+Cmp: патьаэтлӓ
+     патьа+Orth/1933+N+Pl+PxSg2+Nom: патьавлӓэт
+     патьа+Orth/1933+N+Pl+PxSg2+Gen: патьавлӓэдӹн
+     патьа+Orth/1933+N+Pl+PxSg2+Dat: патьавлӓэтлӓн
+     патьа+Orth/1933+N+Pl+PxSg2+Acc: патьавлӓэдӹм
+     патьа+Orth/1933+N+Pl+PxSg2+Lat: патьавлӓэшэт
+     патьа+Orth/1933+N+Pl+PxSg2+Ill: патьавлӓшкэт
+     патьа+Orth/1933+N+Pl+PxSg2+Ine: патьавлӓштэт
+     патьа+Orth/1933+N+Pl+PxSg2+Com: патьавлӓэткэ
+     патьа+Orth/1933+N+Pl+PxSg2+Abe: патьавлӓэттэ
+     патьа+Orth/1933+N+Pl+PxSg2+Cmp: патьавлӓэтлӓ
+###
+     патьа+Orth/1933+N+Sg+PxSg3+Nom: патьажӹ
+     патьа+Orth/1933+N+Sg+PxSg3+Gen: патьажӹн
+     патьа+Orth/1933+N+Sg+PxSg3+Dat: патьажӹлӓн
+     патьа+Orth/1933+N+Sg+PxSg3+Acc: патьажӹм
+     патьа+Orth/1933+N+Sg+PxSg3+Lat: патьаэшӹжӹ
+     патьа+Orth/1933+N+Sg+PxSg3+Ill: патьашкӹжӹ
+     патьа+Orth/1933+N+Sg+PxSg3+Ine: патьаштӹжӹ
+     патьа+Orth/1933+N+Sg+PxSg3+Com: патьажӹгэ
+     патьа+Orth/1933+N+Sg+PxSg3+Abe: патьажӹтэ
+     патьа+Orth/1933+N+Sg+PxSg3+Cmp: патьажӹлӓ
+     патьа+Orth/1933+N+Pl+PxSg3+Nom: патьавлӓжӹ
+     патьа+Orth/1933+N+Pl+PxSg3+Gen: патьавлӓӹн
+     патьа+Orth/1933+N+Pl+PxSg3+Dat: патьавлӓжӹлӓн
+     патьа+Orth/1933+N+Pl+PxSg3+Acc: патьавлӓэдӹм
+     патьа+Orth/1933+N+Pl+PxSg3+Lat: патьавлӓэшӹжӹ
+     патьа+Orth/1933+N+Pl+PxSg3+Ill: патьавлӓшкӹжӹ
+     патьа+Orth/1933+N+Pl+PxSg3+Ine: патьавлӓштӹжӹ
+     патьа+Orth/1933+N+Pl+PxSg3+Com: патьавлӓжӹгэ
+     патьа+Orth/1933+N+Pl+PxSg3+Abe: патьавлӓжӹтэ
+     патьа+Orth/1933+N+Pl+PxSg3+Cmp: патьавлӓжӹлӓ
+###
+     патьа+Orth/1933+N+Sg+PxPl1+Nom: патьана
+     патьа+Orth/1933+N+Sg+PxPl1+Gen: патьанан
+     патьа+Orth/1933+N+Sg+PxPl1+Dat: патьаналан
+     патьа+Orth/1933+N+Sg+PxPl1+Acc: патьанам
+     патьа+Orth/1933+N+Sg+PxPl1+Lat: патьаэшнӓ
+     патьа+Orth/1933+N+Sg+PxPl1+Ill: патьашкына
+     патьа+Orth/1933+N+Sg+PxPl1+Ine: патьаштына
+     патьа+Orth/1933+N+Sg+PxPl1+Com: патьанагэ
+     патьа+Orth/1933+N+Sg+PxPl1+Abe: патьанатэ
+     патьа+Orth/1933+N+Sg+PxPl1+Cmp: патьанала
+     патьа+Orth/1933+N+Pl+PxPl1+Nom: патьавлӓнӓ
+     патьа+Orth/1933+N+Pl+PxPl1+Gen: патьавлӓнӓн
+     патьа+Orth/1933+N+Pl+PxPl1+Dat: патьавлӓнӓлӓн
+     патьа+Orth/1933+N+Pl+PxPl1+Acc: патьавлӓнӓм
+     патьа+Orth/1933+N+Pl+PxPl1+Lat: патьавлӓэшнӓ
+     патьа+Orth/1933+N+Pl+PxPl1+Ill: патьавлӓшкӹнӓ
+     патьа+Orth/1933+N+Pl+PxPl1+Ine: патьавлӓштӹнӓ
+     патьа+Orth/1933+N+Pl+PxPl1+Com: патьавлӓнӓгэ
+     патьа+Orth/1933+N+Pl+PxPl1+Abe: патьавлӓнӓтэ
+     патьа+Orth/1933+N+Pl+PxPl1+Cmp: патьавлӓнӓлӓ
+
+###
+     патьа+Orth/1933+N+Sg+PxPl2+Nom: патьада
+     патьа+Orth/1933+N+Sg+PxPl2+Gen: патьадан
+     патьа+Orth/1933+N+Sg+PxPl2+Dat: патьадалан
+     патьа+Orth/1933+N+Sg+PxPl2+Acc: патьадам
+     патьа+Orth/1933+N+Sg+PxPl2+Lat: патьаэштӓ
+     патьа+Orth/1933+N+Sg+PxPl2+Ill: патьашкыда
+     патьа+Orth/1933+N+Sg+PxPl2+Ine: патьаштыда
+     патьа+Orth/1933+N+Sg+PxPl2+Com: патьадагэ
+     патьа+Orth/1933+N+Sg+PxPl2+Abe: патьадатэ
+     патьа+Orth/1933+N+Sg+PxPl2+Cmp: патьадалӓ
+     патьа+Orth/1933+N+Pl+PxPl2+Nom: патьавлӓдӓ
+     патьа+Orth/1933+N+Pl+PxPl2+Gen: патьавлӓдӓн
+     патьа+Orth/1933+N+Pl+PxPl2+Dat: патьавлӓдӓлӓн
+     патьа+Orth/1933+N+Pl+PxPl2+Acc: патьавлӓдӓм
+     патьа+Orth/1933+N+Pl+PxPl2+Lat: патьавлӓэштӓ
+     патьа+Orth/1933+N+Pl+PxPl2+Ill: патьавлӓшкӹдӓ
+     патьа+Orth/1933+N+Pl+PxPl2+Ine: патьавлӓштӹдӓ
+     патьа+Orth/1933+N+Pl+PxPl2+Com: патьавлӓдӓгэ
+     патьа+Orth/1933+N+Pl+PxPl2+Abe: патьавлӓдӓтэ
+     патьа+Orth/1933+N+Pl+PxPl2+Cmp: патьавлӓдӓлӓ
+###
+     патьа+Orth/1933+N+Sg+PxPl3+Nom: патьашты
+     патьа+Orth/1933+N+Sg+PxPl3+Gen: патьаштын
+     патьа+Orth/1933+N+Sg+PxPl3+Dat: патьаштылӓн
+     патьа+Orth/1933+N+Sg+PxPl3+Acc: патьаштым
+     патьа+Orth/1933+N+Sg+PxPl3+Lat: патьаэшӹштӹ
+     патьа+Orth/1933+N+Sg+PxPl3+Ill: патьашкышты
+     патьа+Orth/1933+N+Sg+PxPl3+Ine: патьаштышты
+     патьа+Orth/1933+N+Sg+PxPl3+Com: патьаштыгэ
+     патьа+Orth/1933+N+Sg+PxPl3+Abe: патьаштытэ
+     патьа+Orth/1933+N+Sg+PxPl3+Cmp: патьаштыла
+     патьа+Orth/1933+N+Pl+PxPl3+Nom: патьавлӓштӹ
+     патьа+Orth/1933+N+Pl+PxPl3+Gen: патьавлӓштӹн
+     патьа+Orth/1933+N+Pl+PxPl3+Dat: патьавлӓштӹлӓн
+     патьа+Orth/1933+N+Pl+PxPl3+Acc: патьавлӓштӹм
+     патьа+Orth/1933+N+Pl+PxPl3+Lat: патьавлӓэшӹштӹ
+     патьа+Orth/1933+N+Pl+PxPl3+Ill: патьавлӓшкӹштӹ
+     патьа+Orth/1933+N+Pl+PxPl3+Ine: патьавлӓштӹштӹ
+     патьа+Orth/1933+N+Pl+PxPl3+Com: патьавлӓштӹгэ
+     патьа+Orth/1933+N+Pl+PxPl3+Abe: патьавлӓштӹтэ
+     патьа+Orth/1933+N+Pl+PxPl3+Cmp: патьавлӓштӹлӓ
+
+
