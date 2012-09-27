@@ -139,5 +139,9 @@ LEXICON Root
 0   quantifiers   ;
 0   verbs   ;
 
+Abbreviation ;
+Acronym ;
+Punctuation ;
+wordToNumeral ;
 
 ! vim: set ft=xfst-lexc:
