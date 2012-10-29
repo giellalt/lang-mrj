@@ -112,6 +112,7 @@ Multichar_Symbols
 !! To represent phonologic variations in word forms we use the following
 !! symbols in the lexicon files:
  {aä} {oö} {uü}
+ Ы1 А1 
 
 !! And following triggers to control variation
  {front} {back}
@@ -142,6 +143,6 @@ LEXICON Root
 Abbreviation ;
 Acronym ;
 Punctuation ;
-wordToNumeral ;
+!wordToNumeral ;
 
 ! vim: set ft=xfst-lexc:
