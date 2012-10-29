@@ -17,9 +17,9 @@ LEXICON NOUN
 
 +Sg+Dat:%>лА1н K ; !
 +Sg+Comp:%>лА1 K ; ! (like a village)
-+Sg+Ine:%>Ы1штЫ1 K ; ! (in a village)
-+Sg+Ine:%>Ы1штЫ1 Cx-then-Px ;
-+Sg+Ill:%>Ы1шкЫ1 K ; ! (to a village)
++Sg+Ine:%>Ы1штЫ2 K ; ! (in a village)
++Sg+Ine:%>Ы1штЫ2 Cx-then-Px ;
++Sg+Ill:%>Ы1шкЫ2 K ; ! (to a village)
 +Sg+Lat:%>Ы1ш K ; ! (into a village)
 +Sg+Abe:%>де K ; ! (without a village)
 +Orth/1933+N+Sg+Abe:%>дэ K ; ! (without a village)
@@ -27,8 +27,8 @@ LEXICON NOUN
 : Nb-GenAccComDatComp ;
 +Pl+Dat:%>влӓ%>лА1н Cx-then-Px ; !
 +Pl+Comp:%>влӓ%>лА1 Cx-then-Px ; !
-+Pl+Ine:%>влӓ%>Ы1штЫ1 Cx-then-Px ; !
-+Pl+Ill:%>влӓ%>Ы1шкЫ1 Cx-then-Px ; !
++Pl+Ine:%>влӓ%>Ы1штЫ2 Cx-then-Px ; !
++Pl+Ill:%>влӓ%>Ы1шкЫ2 Cx-then-Px ; !
 +Pl+Lat:%>влӓ%>Ы1ш Cx-then-Px ; !
 +Pl+Com:%>влӓ%>ге Cx-then-Px ; !
 +Pl+Abe:%>влӓ%>де Cx-then-Px ; !
@@ -36,7 +36,7 @@ LEXICON NOUN
 !! Possessor Indices
 +Px1Sg:%>Ы1м Nb-GenAccComDatComp ;
 +Px2Sg:%>Ы1т Nb-GenAccComDatComp ;
-+Px3Sg:%>жЫ1 Nb-GenAccComDatComp ;
++Px3Sg:%>жЫ2 Nb-GenAccComDatComp ;
 +Px1Sg:%>Ы1нА1 Nb-GenAccComDatComp ;
 +Px2Sg:%>Ы1дА1 Nb-GenAccComDatComp ;
 +Px3Sg:%>Ы1шт Nb-GenAccComDatComp ;
@@ -52,8 +52,8 @@ LEXICON GenAccComDatComp
 +Comp:%>лА1 K ; ! (like a village)
 +Com:%>ге K ; ! (with a village)
 +Abe:%>де K ;
-+Ine:%>Ы1штЫ1 K ;
-+Ill:%>Ы1шкЫ1 K ;
++Ine:%>Ы1штЫ2 K ;
++Ill:%>Ы1шкЫ2 K ;
 +Lat:%>Ы1ш K ;
 
 
@@ -61,7 +61,7 @@ LEXICON GenAccComDatComp
 LEXICON Cx-then-Px
 +Px1Sg:%>Ы1м K ; ! ӓвӓм ӓвӓэм
 +Px2Sg:%>Ы1т K ;
-+Px3Sg:%>жЫ1 K ;
++Px3Sg:%>жЫ2 K ;
 +Px1Sg:%>Ы1нА1 K ;
 +Px2Sg:%>Ы1дА1 K ;
 +Px3Sg:%>Ы1шт K ;
@@ -74,8 +74,8 @@ LEXICON Nb-Cx-Px_Cx
 +Nom: Nb-Cx-Px_Px ;
 +Dat:%>лА1н Nb-Cx-Px_Px ; !
 +Comp:%>лА1 Nb-Cx-Px_Px ; !
-+Ine:%>Ы1штЫ1 Nb-Cx-Px_Px ; !
-+Ill:%>Ы1шкЫ1 Nb-Cx-Px_Px ; !
++Ine:%>Ы1штЫ2 Nb-Cx-Px_Px ; !
++Ill:%>Ы1шкЫ2 Nb-Cx-Px_Px ; !
 +Lat:%>Ы1ш Nb-Cx-Px_Px ; !
     
 LEXICON Nb-Cx-Px_Px
