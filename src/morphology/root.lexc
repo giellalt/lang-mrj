@@ -126,19 +126,19 @@ LEXICON Root
 !! word classes, or optionally from prefixes:
 !! The assumption is that xml files with names pos.xml will provide the source material for
 !! the initial pos.lexc _LEXICON Pos_ entries
-0   adjectives  ; 
-0   adverbs  ;
-0   conjunctions    ;
-0   descriptives    ;
-0   interjections    ;
-0   nouns   ;
-0   particles    ;
-0   postpositions    ;
-! 0   Prefixes    ; ! This might be used with indefinite pronouns
-0   pronouns    ;
-0   propernouns    ;
-0   quantifiers   ;
-0   verbs   ;
+   adjectives  ; 
+   adverbs  ;
+   conjunctions    ;
+   descriptives    ;
+   interjections    ;
+   nouns   ;
+   particles    ;
+   postpositions    ;
+!    Prefixes    ; ! This might be used with indefinite pronouns
+   pronouns    ;
+   propernouns    ;
+   quantifiers   ;
+   verbs   ;
 
 Abbreviation ;
 Acronym ;
