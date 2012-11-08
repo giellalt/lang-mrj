@@ -34,12 +34,12 @@ LEXICON NOUN
 +Pl+Abe:%>влӓ%>де Cx-then-Px ; !
 
 !! Possessor Indices
-+Px1Sg:%>Ы1м Nb-GenAccComDatComp ;
-+Px2Sg:%>Ы1т Nb-GenAccComDatComp ;
-+Px3Sg:%>жЫ2 Nb-GenAccComDatComp ;
-+Px1Sg:%>Ы1нА1 Nb-GenAccComDatComp ;
-+Px2Sg:%>Ы1дА1 Nb-GenAccComDatComp ;
-+Px3Sg:%>Ы1шт Nb-GenAccComDatComp ;
++PxSg1:%>Ы1м Nb-GenAccComDatComp ;
++PxSg2:%>Ы1т Nb-GenAccComDatComp ;
++PxSg3:%>жЫ2 Nb-GenAccComDatComp ;
++PxPl1:%>Ы1нА1 Nb-GenAccComDatComp ;
++PxPl2:%>Ы1дА1 Nb-GenAccComDatComp ;
++PxPl3:%>Ы1шт Nb-GenAccComDatComp ;
 
 LEXICON Nb-GenAccComDatComp
 +Pl:%>влӓ GenAccComDatComp ;
@@ -59,12 +59,12 @@ LEXICON GenAccComDatComp
 
 !!
 LEXICON Cx-then-Px
-+Px1Sg:%>Ы1м K ; ! ӓвӓм ӓвӓэм
-+Px2Sg:%>Ы1т K ;
-+Px3Sg:%>жЫ2 K ;
-+Px1Sg:%>Ы1нА1 K ;
-+Px2Sg:%>Ы1дА1 K ;
-+Px3Sg:%>Ы1шт K ;
++PxSg1:%>Ы1м K ; ! ӓвӓм ӓвӓэм
++PxSg2:%>Ы1т K ;
++PxSg3:%>жЫ2 K ;
++PxPl1:%>Ы1нА1 K ;
++PxPl2:%>Ы1дА1 K ;
++PxPl3:%>Ы1шт K ;
 
 LEXICON Nb-Cx-Px_Nb
 +Pl:%>влӓ Nb-Cx-Px_Cx ;
@@ -80,12 +80,12 @@ LEXICON Nb-Cx-Px_Cx
     
 LEXICON Nb-Cx-Px_Px
  K ; ! No possessor index
-+Px1Sg:%>Ы1м K ;
-+Px2Sg:%>Ы1т K ;
-+Px3Sg:%>жЫ1 K ;
-+Px1Sg:%>Ы1нА1 K ;
-+Px2Sg:%>Ы1да K ;
-+Px3Sg:%>Ы1шт K ;
++PxSg1:%>Ы1м K ;
++PxSg2:%>Ы1т K ;
++PxSg3:%>жЫ2 K ;
++PxPl1:%>Ы1нА1 K ;
++PxPl2:%>Ы1дА1 K ;
++PxPl3:%>Ы1шт K ;
 
 
 
