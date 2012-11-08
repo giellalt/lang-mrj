@@ -51,9 +51,9 @@ all =  Ltrs  %- ;
 
 Definitions
 
-LFC = :Ve \[ #: | :Vo ]*;
+LFC = [ :Ve | :VO | :ӹ | :Ӹ ] \[ #: | :Vo | ы | Ы ]* ;
 
-LBC = :Vo \[ #: | :Ve ]* ;
+LBC = [ :Vo | ы | Ы ] \[ #: | :VO | :Ve | :ӹ | :Ӹ ]* ;
 
 
 Rules
@@ -79,18 +79,23 @@ Rules
 "Onset vowel Ы1 realized in suffix"
   Ы1:ӹ <=> LFC [ Cns | й ] %>:0 _ ;
 
+"Affix mid or final front А1:ӓ"
+ А1:ӓ <=> LFC _ ;
+
+"Affix mid or final back А1:а"
+ А1:а <=> LBC _ ;
+
 "suffix-final vowel fronted "
  Ы2:ӹ <=> LFC _ ;
 
 !Work 2012-10-29!"suffix-final vowel loss after stem-final vowel"
 !Work 2012-10-29!  Ы2:0 <=> Vws %>:0 [ Ы1: ш [ т | к ] | ж: ] _ %>:0 [ л | г | Ы1: ш | ш | д | Е2: | А2: ] ;
 !Work 2012-10-29!           Cns %>:0 [ Ы1: ш [ т | к ] | ж: ] _ %>:0 [ е ш | А2: ] ;
-!Work 2012-10-29!
-!Work 2012-10-29!"suffix-final vowel realized after stem-final consonant"
-!Work 2012-10-29!  Ы2:ы <=>  Cns %>:0 [ ж: | д ы м ] _ %>:0 [ л | г | ш [ т | к ] | д | Ы1: ] ;
-!Work 2012-10-29!            Vws %>:0 [ ж | д ы м ] _ %>:0 Ы1: [ м | н ] ;
+
+"suffix-final vowel realized after stem-final consonant"
+ Ы2:ы <=>  LBC %>:0 [ ж: | д ы м ] _ [ #: | %>:0 [ л | г | ш [ т | к ] | д | Ы1: [ м | н ] ]] ;
 !Work 2012-10-29!!            %>:0  Ы1: ш [ т | к ]  _ %>:0 Ы1: ;
-!Work 2012-10-29!
+
 !Work 2012-10-29!"suffix-final vowel realized as -Round in word-final position"
 !Work 2012-10-29!  Ы2:е <=> :Ve [ Cns | й | :ы | :0 ]* %>:0 ( ( ж: [ Ы2:е | Ы2:ы | Ы2:0 ] %>:0 ) [ Ы1: | ы ] ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ #: | %- ] ;
 !Work 2012-10-29!           :Ve [ Cns | :ы | :0 ]* %>:0 [ ж: ] _ %> Ы1: ш [ #: | %- | %>:0 ] ;
