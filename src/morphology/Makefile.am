@@ -45,7 +45,8 @@ GENERATED_LEXC_SRCS=\
 			stems/pronouns.lexc      \
 			stems/propernouns.lexc   \
 			stems/quantifiers.lexc   \
-			stems/verbs.lexc
+			stems/verbs.lexc	
+
 
 # Set this to the names of all source xml files, if any
 GT_XML_SRCS=\
@@ -61,6 +62,7 @@ GT_XML_SRCS=\
 			stems/propernouns.xml   \
 			stems/quantifiers.xml   \
 			stems/verbs.xml
+
 
 include $(top_srcdir)/am-shared/lexc-include.am
 
