@@ -2,7 +2,7 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <entry exclude="fst">
+   <e exclude="fst">
       <lg>
          <l>выжа•лаш-нӓ•лӓш</l>
          <stg>
@@ -19,8 +19,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry exclude="fst">
+   </e>
+   <e exclude="fst">
       <lg>
          <l>йӹрӓ•лтӓш-попа•лташ</l>
          <stg>
@@ -37,8 +37,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry exclude="fst">
+   </e>
+   <e exclude="fst">
       <lg>
          <l>йӹ•рӓш-по•паш</l>
          <stg>
@@ -55,8 +55,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry exclude="fst">
+   </e>
+   <e exclude="fst">
       <lg>
          <l>йӹ•рӓш-шӹнзӓш</l>
          <stg>
@@ -73,8 +73,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry exclude="fst">
+   </e>
+   <e exclude="fst">
       <lg>
          <l>ка•чкаш-йӱ•ӓш</l>
          <stg>
@@ -91,8 +91,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry exclude="fst">
+   </e>
+   <e exclude="fst">
       <lg>
          <l>пу•кшаш-йӱ•ктӓш</l>
          <stg>
@@ -109,8 +109,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry exclude="fst">
+   </e>
+   <e exclude="fst">
       <lg>
          <l>у•таш-пӹ•тӓш</l>
          <stg>
@@ -127,8 +127,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry exclude="fst">
+   </e>
+   <e exclude="fst">
       <lg>
          <l>ӹ•лӓш-ко•лаш</l>
          <stg>
@@ -145,8 +145,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry exclude="fst">
+   </e>
+   <e exclude="fst">
       <lg>
          <l>ӹ•лӓш-шӱ•лӓш</l>
          <stg>
@@ -163,5 +163,5 @@
             <t/>
          </tg>
       </mg>
-   </entry>
+   </e>
 </r>
