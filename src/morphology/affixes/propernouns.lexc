@@ -54,6 +54,34 @@ LEXICON PropNameMaleDer-Ovich
 :овна Prop-PatrFem-kudo ;
  Prop-Mal-kal ;
 
+!!!!!!!!!!!!!!!!!!!!!!!!
+!! Female Given names !!
+!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Prop-Fem-kal
++N+Prop+Fem: NOUN ;
+
+LEXICON Prop-Fem-lak
++N+Prop+Fem: NOUN ;
+
+LEXICON Prop-Fem-kit
++N+Prop+Fem: NOUN ;
+
+LEXICON Prop-Fem-osh
++N+Prop+Fem: NOUN ;
+
+LEXICON Prop-Fem-teshte
+ Prop-Fem-pango ;
+
+LEXICON Prop-Fem-tinge
+ Prop-Fem-pango ;
+
+LEXICON Prop-Fem-pango
++N+Prop+Fem: NOUN ;
+
+LEXICON Prop-Fem-kudo
++N+Prop+Fem: NOUN ;
+
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! Russian type Surnames !!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -127,6 +155,9 @@ LEXICON PropSur-kudo
 +N+Prop+Sur: NOUN ;
 
 LEXICON Prop-Mal-kal
++N+Prop+Mal: NOUN ;
+
+LEXICON Prop-Mal-kudo
 +N+Prop+Mal: NOUN ;
 
 LEXICON Prop-PatrMal-osh
