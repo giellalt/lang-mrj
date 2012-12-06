@@ -8,6 +8,7 @@
          <stg>
             <st Contlex="NumTag">ик</st>
          </stg>
+         <stress>ик</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -25,10 +26,11 @@
    </e>
    <e>
       <lg>
-         <l>и•ктӹ</l>
+         <l>иктӹ</l>
          <stg>
             <st Contlex="NumTag">иктӹ</st>
          </stg>
+         <stress>и•ктӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -43,10 +45,11 @@
    </e>
    <e>
       <lg>
-         <l>и•ктӹт</l>
+         <l>иктӹт</l>
          <stg>
             <st Contlex="NumTag">иктӹт</st>
          </stg>
+         <stress>и•ктӹт</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -61,10 +64,11 @@
    </e>
    <e>
       <lg>
-         <l>вӹзӹ•мшӹ</l>
+         <l>вӹзӹмшӹ</l>
          <stg>
             <st Contlex="NumTag">вӹзӹмшӹ</st>
          </stg>
+         <stress>вӹзӹ•мшӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -79,10 +83,11 @@
    </e>
    <e>
       <lg>
-         <l>вӹ•зӹт</l>
+         <l>вӹзӹт</l>
          <stg>
             <st Contlex="NumTag">вӹзӹт</st>
          </stg>
+         <stress>вӹ•зӹт</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -101,6 +106,7 @@
          <stg>
             <st Contlex="NumTag">вӹц</st>
          </stg>
+         <stress>вӹц</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -115,10 +121,11 @@
    </e>
    <e>
       <lg>
-         <l>вӹ•цлӹ</l>
+         <l>вӹцлӹ</l>
          <stg>
             <st Contlex="NumTag">вӹцлӹ</st>
          </stg>
+         <stress>вӹ•цлӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -133,10 +140,11 @@
    </e>
    <e exclude="fst">
       <lg>
-         <l>вӹцлӹ•шӹ</l>
+         <l>вӹцлӹшӹ</l>
          <stg>
             <st Contlex="NumTag">вӹцлӹшӹ</st>
          </stg>
+         <stress>вӹцлӹ•шӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -151,10 +159,11 @@
    </e>
    <e>
       <lg>
-         <l>вӹцшӱ•дӹ</l>
+         <l>вӹцшӱдӹ</l>
          <stg>
             <st Contlex="NumTag">вӹцшӱдӹ</st>
          </stg>
+         <stress>вӹцшӱ•дӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -169,10 +178,11 @@
    </e>
    <e exclude="fst">
       <lg>
-         <l>вӹцшӱ•дӹшӹ</l>
+         <l>вӹцшӱдӹшӹ</l>
          <stg>
             <st Contlex="NumTag">вӹцшӱдӹшӹ</st>
          </stg>
+         <stress>вӹцшӱ•дӹшӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -191,6 +201,7 @@
          <stg>
             <st Contlex="NumTag">ик-кок</st>
          </stg>
+         <stress>ик-кок</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -205,10 +216,11 @@
    </e>
    <e>
       <lg>
-         <l>иктӓ•к-пелӓ•к</l>
+         <l>иктӓк-пелӓк</l>
          <stg>
             <st Contlex="NumTag">иктӓк-пелӓк</st>
          </stg>
+         <stress>иктӓ•к-пелӓ•к</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -223,10 +235,11 @@
    </e>
    <e>
       <lg>
-         <l>и•кшӹ</l>
+         <l>икшӹ</l>
          <stg>
             <st Contlex="NumTag">икшӹ</st>
          </stg>
+         <stress>и•кшӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -241,10 +254,11 @@
    </e>
    <e>
       <lg>
-         <l>кӓндӓ•кш</l>
+         <l>кӓндӓкш</l>
          <stg>
             <st Contlex="NumTag">кӓндӓкш</st>
          </stg>
+         <stress>кӓндӓ•кш</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -259,10 +273,11 @@
    </e>
    <e>
       <lg>
-         <l>кӓндӓ•кшлу</l>
+         <l>кӓндӓкшлу</l>
          <stg>
             <st Contlex="NumTag">кӓндӓкшлу</st>
          </stg>
+         <stress>кӓндӓ•кшлу</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -277,10 +292,11 @@
    </e>
    <e exclude="fst">
       <lg>
-         <l>кӓндӓкшлу•шы</l>
+         <l>кӓндӓкшлушы</l>
          <stg>
             <st Contlex="NumTag">кӓндӓкшлушы</st>
          </stg>
+         <stress>кӓндӓкшлу•шы</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -295,10 +311,11 @@
    </e>
    <e>
       <lg>
-         <l>кӓндӓкшшӱ•дӹ</l>
+         <l>кӓндӓкшшӱдӹ</l>
          <stg>
             <st Contlex="NumTag">кӓндӓкшшӱдӹ</st>
          </stg>
+         <stress>кӓндӓкшшӱ•дӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -313,10 +330,11 @@
    </e>
    <e>
       <lg>
-         <l>кӓндӓкшшӱ•дӹшӹ</l>
+         <l>кӓндӓкшшӱдӹшӹ</l>
          <stg>
             <st Contlex="NumTag">кӓндӓкшшӱдӹшӹ</st>
          </stg>
+         <stress>кӓндӓкшшӱ•дӹшӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -331,10 +349,11 @@
    </e>
    <e>
       <lg>
-         <l>кӓндӓ•кшӹ</l>
+         <l>кӓндӓкшӹ</l>
          <stg>
             <st Contlex="NumTag">кӓндӓкшӹ</st>
          </stg>
+         <stress>кӓндӓ•кшӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -349,10 +368,11 @@
    </e>
    <e>
       <lg>
-         <l>кӓндӓ•кшӹмшӹ</l>
+         <l>кӓндӓкшӹмшӹ</l>
          <stg>
             <st Contlex="NumTag">кӓндӓкшӹмшӹ</st>
          </stg>
+         <stress>кӓндӓ•кшӹмшӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -371,6 +391,7 @@
          <stg>
             <st Contlex="NumTag">кок</st>
          </stg>
+         <stress>кок</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -385,10 +406,11 @@
    </e>
    <e>
       <lg>
-         <l>ко•клы</l>
+         <l>коклы</l>
          <stg>
             <st Contlex="NumTag">коклы</st>
          </stg>
+         <stress>ко•клы</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -403,10 +425,11 @@
    </e>
    <e exclude="fst">
       <lg>
-         <l>ко•клышы</l>
+         <l>коклышы</l>
          <stg>
             <st Contlex="NumTag">коклышы</st>
          </stg>
+         <stress>ко•клышы</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -421,10 +444,11 @@
    </e>
    <e>
       <lg>
-         <l>ко•кты</l>
+         <l>кокты</l>
          <stg>
             <st Contlex="NumTag">кокты</st>
          </stg>
+         <stress>ко•кты</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -439,10 +463,11 @@
    </e>
    <e>
       <lg>
-         <l>ко•ктыт</l>
+         <l>коктыт</l>
          <stg>
             <st Contlex="NumTag">коктыт</st>
          </stg>
+         <stress>ко•ктыт</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -457,10 +482,11 @@
    </e>
    <e>
       <lg>
-         <l>кокшӱ•дӹ</l>
+         <l>кокшӱдӹ</l>
          <stg>
             <st Contlex="NumTag">кокшӱдӹ</st>
          </stg>
+         <stress>кокшӱ•дӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -475,10 +501,11 @@
    </e>
    <e exclude="fst">
       <lg>
-         <l>кокшӱ•дӹшӹ</l>
+         <l>кокшӱдӹшӹ</l>
          <stg>
             <st Contlex="NumTag">кокшӱдӹшӹ</st>
          </stg>
+         <stress>кокшӱ•дӹшӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -493,10 +520,11 @@
    </e>
    <e>
       <lg>
-         <l>ко•кшы</l>
+         <l>кокшы</l>
          <stg>
             <st Contlex="NumTag">кокшы</st>
          </stg>
+         <stress>ко•кшы</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -511,10 +539,11 @@
    </e>
    <e>
       <lg>
-         <l>ку•д</l>
+         <l>куд</l>
          <stg>
             <st Contlex="NumTag">куд</st>
          </stg>
+         <stress>ку•д</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -529,10 +558,11 @@
    </e>
    <e>
       <lg>
-         <l>ку•длу</l>
+         <l>кудлу</l>
          <stg>
             <st Contlex="NumTag">кудлу</st>
          </stg>
+         <stress>ку•длу</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -547,10 +577,11 @@
    </e>
    <e>
       <lg>
-         <l>кудлу•шы</l>
+         <l>кудлушы</l>
          <stg>
             <st Contlex="NumTag">кудлушы</st>
          </stg>
+         <stress>кудлу•шы</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -565,10 +596,11 @@
    </e>
    <e>
       <lg>
-         <l>кудшӱ•дӹ</l>
+         <l>кудшӱдӹ</l>
          <stg>
             <st Contlex="NumTag">кудшӱдӹ</st>
          </stg>
+         <stress>кудшӱ•дӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -583,10 +615,11 @@
    </e>
    <e exclude="fst">
       <lg>
-         <l>кудшӱ•дӹшӹ</l>
+         <l>кудшӱдӹшӹ</l>
          <stg>
             <st Contlex="NumTag">кудшӱдӹшӹ</st>
          </stg>
+         <stress>кудшӱ•дӹшӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -601,10 +634,11 @@
    </e>
    <e>
       <lg>
-         <l>ку•д-шӹ•м</l>
+         <l>куд-шӹм</l>
          <stg>
             <st Contlex="NumTag">куд-шӹм</st>
          </stg>
+         <stress>ку•д-шӹ•м</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -619,10 +653,11 @@
    </e>
    <e>
       <lg>
-         <l>ку•дымшы</l>
+         <l>кудымшы</l>
          <stg>
             <st Contlex="NumTag">кудымшы</st>
          </stg>
+         <stress>ку•дымшы</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -637,10 +672,11 @@
    </e>
    <e>
       <lg>
-         <l>ку•дыт</l>
+         <l>кудыт</l>
          <stg>
             <st Contlex="NumTag">кудыт</st>
          </stg>
+         <stress>ку•дыт</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -659,6 +695,7 @@
          <stg>
             <st Contlex="NumTag">кым</st>
          </stg>
+         <stress>кым</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -673,10 +710,11 @@
    </e>
    <e>
       <lg>
-         <l>кы•млы</l>
+         <l>кымлы</l>
          <stg>
             <st Contlex="NumTag">кымлы</st>
          </stg>
+         <stress>кы•млы</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -691,10 +729,11 @@
    </e>
    <e>
       <lg>
-         <l>кы•млышы</l>
+         <l>кымлышы</l>
          <stg>
             <st Contlex="NumTag">кымлышы</st>
          </stg>
+         <stress>кы•млышы</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -709,10 +748,11 @@
    </e>
    <e>
       <lg>
-         <l>кымшӱ•дӹ</l>
+         <l>кымшӱдӹ</l>
          <stg>
             <st Contlex="NumTag">кымшӱдӹ</st>
          </stg>
+         <stress>кымшӱ•дӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -727,10 +767,11 @@
    </e>
    <e exclude="fst">
       <lg>
-         <l>кы•мшы</l>
+         <l>кымшы</l>
          <stg>
             <st Contlex="NumTag">кымшы</st>
          </stg>
+         <stress>кы•мшы</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -745,10 +786,11 @@
    </e>
    <e>
       <lg>
-         <l>кы•мыт</l>
+         <l>кымыт</l>
          <stg>
             <st Contlex="NumTag">кымыт</st>
          </stg>
+         <stress>кы•мыт</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -767,6 +809,7 @@
          <stg>
             <st Contlex="NumTag">лу</st>
          </stg>
+         <stress>лу</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -781,10 +824,11 @@
    </e>
    <e>
       <lg>
-         <l>луатвӹ•зӹт</l>
+         <l>луатвӹзӹт</l>
          <stg>
             <st Contlex="NumTag">луатвӹзӹт</st>
          </stg>
+         <stress>луатвӹ•зӹт</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -799,10 +843,11 @@
    </e>
    <e>
       <lg>
-         <l>луатвӹ•ц</l>
+         <l>луатвӹц</l>
          <stg>
             <st Contlex="NumTag">луатвӹц</st>
          </stg>
+         <stress>луатвӹ•ц</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -817,10 +862,11 @@
    </e>
    <e>
       <lg>
-         <l>луати•к</l>
+         <l>луатик</l>
          <stg>
             <st Contlex="NumTag">луатик</st>
          </stg>
+         <stress>луати•к</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -835,10 +881,11 @@
    </e>
    <e>
       <lg>
-         <l>луати•ктӹ</l>
+         <l>луатиктӹ</l>
          <stg>
             <st Contlex="NumTag">луатиктӹ</st>
          </stg>
+         <stress>луати•ктӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -853,10 +900,11 @@
    </e>
    <e>
       <lg>
-         <l>луаткӓндӓ•кш</l>
+         <l>луаткӓндӓкш</l>
          <stg>
             <st Contlex="NumTag">луаткӓндӓкш</st>
          </stg>
+         <stress>луаткӓндӓ•кш</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -871,10 +919,11 @@
    </e>
    <e exclude="fst">
       <lg>
-         <l>луаткӓндӓ•кшӹ</l>
+         <l>луаткӓндӓкшӹ</l>
          <stg>
             <st Contlex="NumTag">луаткӓндӓкшӹ</st>
          </stg>
+         <stress>луаткӓндӓ•кшӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -889,10 +938,11 @@
    </e>
    <e>
       <lg>
-         <l>луатко•к</l>
+         <l>луаткок</l>
          <stg>
             <st Contlex="NumTag">луаткок</st>
          </stg>
+         <stress>луатко•к</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -907,10 +957,11 @@
    </e>
    <e>
       <lg>
-         <l>луатко•кты</l>
+         <l>луаткокты</l>
          <stg>
             <st Contlex="NumTag">луаткокты</st>
          </stg>
+         <stress>луатко•кты</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -925,10 +976,11 @@
    </e>
    <e>
       <lg>
-         <l>луатку•д</l>
+         <l>луаткуд</l>
          <stg>
             <st Contlex="NumTag">луаткуд</st>
          </stg>
+         <stress>луатку•д</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -943,10 +995,11 @@
    </e>
    <e>
       <lg>
-         <l>луатку•дыт</l>
+         <l>луаткудыт</l>
          <stg>
             <st Contlex="NumTag">луаткудыт</st>
          </stg>
+         <stress>луатку•дыт</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -961,10 +1014,11 @@
    </e>
    <e>
       <lg>
-         <l>луаткы•м</l>
+         <l>луаткым</l>
          <stg>
             <st Contlex="NumTag">луаткым</st>
          </stg>
+         <stress>луаткы•м</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -979,10 +1033,11 @@
    </e>
    <e>
       <lg>
-         <l>луаткы•мыт</l>
+         <l>луаткымыт</l>
          <stg>
             <st Contlex="NumTag">луаткымыт</st>
          </stg>
+         <stress>луаткы•мыт</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -997,10 +1052,11 @@
    </e>
    <e>
       <lg>
-         <l>луатнӹ•л</l>
+         <l>луатнӹл</l>
          <stg>
             <st Contlex="NumTag">луатнӹл</st>
          </stg>
+         <stress>луатнӹ•л</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1015,10 +1071,11 @@
    </e>
    <e>
       <lg>
-         <l>луатнӹ•лӹт</l>
+         <l>луатнӹлӹт</l>
          <stg>
             <st Contlex="NumTag">луатнӹлӹт</st>
          </stg>
+         <stress>луатнӹ•лӹт</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1033,10 +1090,11 @@
    </e>
    <e>
       <lg>
-         <l>луатшӹ•м</l>
+         <l>луатшӹм</l>
          <stg>
             <st Contlex="NumTag">луатшӹм</st>
          </stg>
+         <stress>луатшӹ•м</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1051,10 +1109,11 @@
    </e>
    <e>
       <lg>
-         <l>луатшӹ•мӹт</l>
+         <l>луатшӹмӹт</l>
          <stg>
             <st Contlex="NumTag">луатшӹмӹт</st>
          </stg>
+         <stress>луатшӹ•мӹт</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1069,10 +1128,11 @@
    </e>
    <e>
       <lg>
-         <l>луатӹнде•кш</l>
+         <l>луатӹндекш</l>
          <stg>
             <st Contlex="NumTag">луатӹндекш</st>
          </stg>
+         <stress>луатӹнде•кш</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1087,10 +1147,11 @@
    </e>
    <e>
       <lg>
-         <l>луатӹнде•кшӹ</l>
+         <l>луатӹндекшӹ</l>
          <stg>
             <st Contlex="NumTag">луатӹндекшӹ</st>
          </stg>
+         <stress>луатӹнде•кшӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1105,10 +1166,11 @@
    </e>
    <e>
       <lg>
-         <l>лу•цкы</l>
+         <l>луцкы</l>
          <stg>
             <st Contlex="NumTag">луцкы</st>
          </stg>
+         <stress>лу•цкы</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1123,10 +1185,11 @@
    </e>
    <e>
       <lg>
-         <l>лу•шы</l>
+         <l>лушы</l>
          <stg>
             <st Contlex="NumTag">лушы</st>
          </stg>
+         <stress>лу•шы</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1141,10 +1204,11 @@
    </e>
    <e>
       <lg>
-         <l>миллиа•рд</l>
+         <l>миллиард</l>
          <stg>
             <st Contlex="NumTag">миллиард</st>
          </stg>
+         <stress>миллиа•рд</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1159,10 +1223,11 @@
    </e>
    <e>
       <lg>
-         <l>миллио•н</l>
+         <l>миллион</l>
          <stg>
             <st Contlex="NumTag">миллион</st>
          </stg>
+         <stress>миллио•н</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1181,6 +1246,7 @@
          <stg>
             <st Contlex="NumTag">нӹл</st>
          </stg>
+         <stress>нӹл</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1195,10 +1261,11 @@
    </e>
    <e>
       <lg>
-         <l>нӹ•ллӹ</l>
+         <l>нӹллӹ</l>
          <stg>
             <st Contlex="NumTag">нӹллӹ</st>
          </stg>
+         <stress>нӹ•ллӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1213,10 +1280,11 @@
    </e>
    <e>
       <lg>
-         <l>нӹ•ллӹшӹ</l>
+         <l>нӹллӹшӹ</l>
          <stg>
             <st Contlex="NumTag">нӹллӹшӹ</st>
          </stg>
+         <stress>нӹ•ллӹшӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1231,10 +1299,11 @@
    </e>
    <e>
       <lg>
-         <l>нӹлшӱ•дӹ</l>
+         <l>нӹлшӱдӹ</l>
          <stg>
             <st Contlex="NumTag">нӹлшӱдӹ</st>
          </stg>
+         <stress>нӹлшӱ•дӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1249,10 +1318,11 @@
    </e>
    <e>
       <lg>
-         <l>нӹлшӱ•дӹшӹ</l>
+         <l>нӹлшӱдӹшӹ</l>
          <stg>
             <st Contlex="NumTag">нӹлшӱдӹшӹ</st>
          </stg>
+         <stress>нӹлшӱ•дӹшӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1267,10 +1337,11 @@
    </e>
    <e>
       <lg>
-         <l>нӹ•лӹмшӹ</l>
+         <l>нӹлӹмшӹ</l>
          <stg>
             <st Contlex="NumTag">нӹлӹмшӹ</st>
          </stg>
+         <stress>нӹ•лӹмшӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1285,10 +1356,11 @@
    </e>
    <e>
       <lg>
-         <l>нӹ•лӹт</l>
+         <l>нӹлӹт</l>
          <stg>
             <st Contlex="NumTag">нӹлӹт</st>
          </stg>
+         <stress>нӹ•лӹт</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1303,10 +1375,11 @@
    </e>
    <e>
       <lg>
-         <l>триллио•н</l>
+         <l>триллион</l>
          <stg>
             <st Contlex="NumTag">триллион</st>
          </stg>
+         <stress>триллио•н</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1321,10 +1394,11 @@
    </e>
    <e>
       <lg>
-         <l>тӹже•м</l>
+         <l>тӹжем</l>
          <stg>
             <st Contlex="NumTag">тӹжем</st>
          </stg>
+         <stress>тӹже•м</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1339,10 +1413,11 @@
    </e>
    <e>
       <lg>
-         <l>тӹже•мшӹ</l>
+         <l>тӹжемшӹ</l>
          <stg>
             <st Contlex="NumTag">тӹжемшӹ</st>
          </stg>
+         <stress>тӹже•мшӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1357,10 +1432,11 @@
    </e>
    <e>
       <lg>
-         <l>шӱ•дӹ</l>
+         <l>шӱдӹ</l>
          <stg>
             <st Contlex="NumTag">шӱдӹ</st>
          </stg>
+         <stress>шӱ•дӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1375,10 +1451,11 @@
    </e>
    <e>
       <lg>
-         <l>шӱ•дӹшӹ</l>
+         <l>шӱдӹшӹ</l>
          <stg>
             <st Contlex="NumTag">шӱдӹшӹ</st>
          </stg>
+         <stress>шӱ•дӹшӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1397,6 +1474,7 @@
          <stg>
             <st Contlex="NumTag">шӹм</st>
          </stg>
+         <stress>шӹм</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1411,10 +1489,11 @@
    </e>
    <e>
       <lg>
-         <l>шӹ•млу</l>
+         <l>шӹмлу</l>
          <stg>
             <st Contlex="NumTag">шӹмлу</st>
          </stg>
+         <stress>шӹ•млу</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1429,10 +1508,11 @@
    </e>
    <e>
       <lg>
-         <l>шӹмлу•шы</l>
+         <l>шӹмлушы</l>
          <stg>
             <st Contlex="NumTag">шӹмлушы</st>
          </stg>
+         <stress>шӹмлу•шы</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1447,10 +1527,11 @@
    </e>
    <e>
       <lg>
-         <l>шӹмшӱ•дӹ</l>
+         <l>шӹмшӱдӹ</l>
          <stg>
             <st Contlex="NumTag">шӹмшӱдӹ</st>
          </stg>
+         <stress>шӹмшӱ•дӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1465,10 +1546,11 @@
    </e>
    <e>
       <lg>
-         <l>шӹмшӱ•дӹшӹ</l>
+         <l>шӹмшӱдӹшӹ</l>
          <stg>
             <st Contlex="NumTag">шӹмшӱдӹшӹ</st>
          </stg>
+         <stress>шӹмшӱ•дӹшӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1483,10 +1565,11 @@
    </e>
    <e>
       <lg>
-         <l>шӹ•мшӹ</l>
+         <l>шӹмшӹ</l>
          <stg>
             <st Contlex="NumTag">шӹмшӹ</st>
          </stg>
+         <stress>шӹ•мшӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1501,10 +1584,11 @@
    </e>
    <e>
       <lg>
-         <l>шӹ•мӹт</l>
+         <l>шӹмӹт</l>
          <stg>
             <st Contlex="NumTag">шӹмӹт</st>
          </stg>
+         <stress>шӹ•мӹт</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1519,10 +1603,11 @@
    </e>
    <e>
       <lg>
-         <l>ӹнде•кш</l>
+         <l>ӹндекш</l>
          <stg>
             <st Contlex="NumTag">ӹндекш</st>
          </stg>
+         <stress>ӹнде•кш</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1537,10 +1622,11 @@
    </e>
    <e>
       <lg>
-         <l>ӹнде•кшлу</l>
+         <l>ӹндекшлу</l>
          <stg>
             <st Contlex="NumTag">ӹндекшлу</st>
          </stg>
+         <stress>ӹнде•кшлу</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1555,10 +1641,11 @@
    </e>
    <e>
       <lg>
-         <l>ӹндекшлу•шы</l>
+         <l>ӹндекшлушы</l>
          <stg>
             <st Contlex="NumTag">ӹндекшлушы</st>
          </stg>
+         <stress>ӹндекшлу•шы</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1573,10 +1660,11 @@
    </e>
    <e>
       <lg>
-         <l>ӹндекшшӱ•дӹ</l>
+         <l>ӹндекшшӱдӹ</l>
          <stg>
             <st Contlex="NumTag">ӹндекшшӱдӹ</st>
          </stg>
+         <stress>ӹндекшшӱ•дӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1591,10 +1679,11 @@
    </e>
    <e>
       <lg>
-         <l>ӹндекшшӱ•дӹшӹ</l>
+         <l>ӹндекшшӱдӹшӹ</l>
          <stg>
             <st Contlex="NumTag">ӹндекшшӱдӹшӹ</st>
          </stg>
+         <stress>ӹндекшшӱ•дӹшӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1609,10 +1698,11 @@
    </e>
    <e>
       <lg>
-         <l>ӹнде•кшӹ</l>
+         <l>ӹндекшӹ</l>
          <stg>
             <st Contlex="NumTag">ӹндекшӹ</st>
          </stg>
+         <stress>ӹнде•кшӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
@@ -1627,10 +1717,11 @@
    </e>
    <e>
       <lg>
-         <l>ӹнде•кшӹмшӹ</l>
+         <l>ӹндекшӹмшӹ</l>
          <stg>
             <st Contlex="NumTag">ӹндекшӹмшӹ</st>
          </stg>
+         <stress>ӹнде•кшӹмшӹ</stress>
       </lg>
       <pos>NUM</pos>
       <mg>
