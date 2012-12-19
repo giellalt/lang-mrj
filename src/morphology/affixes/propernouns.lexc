@@ -4,7 +4,7 @@
 !! nouns, but with a colon (':') as separator.
 
 LEXICON PropTag
-+N+Prop: NOUN ;
++N+Prop: N_01 ;
 
 LEXICON ACRONDELIMITER ! Here we need some kind of vowel harmony
     PropTag ;
@@ -58,16 +58,16 @@ LEXICON PropNameMaleDer-Ovich
 !! Female Given names !!
 !!!!!!!!!!!!!!!!!!!!!!!!
 LEXICON Prop-kal_fem
-+N+Prop+Fem: NOUN ;
++N+Prop+Fem: N_01 ;
 
 LEXICON Prop-lak_fem
-+N+Prop+Fem: NOUN ;
++N+Prop+Fem: N_01 ;
 
 LEXICON Prop-kit_fem
-+N+Prop+Fem: NOUN ;
++N+Prop+Fem: N_01 ;
 
 LEXICON Prop-osh_fem
-+N+Prop+Fem: NOUN ;
++N+Prop+Fem: N_01 ;
 
 LEXICON Prop-teshte_fem
  Prop-pango_fem ;
@@ -76,10 +76,10 @@ LEXICON Prop-tinge_fem
  Prop-pango_fem ;
 
 LEXICON Prop-pango_fem
-+N+Prop+Fem: NOUN ;
++N+Prop+Fem: N_01 ;
 
 LEXICON Prop-kudo_fem
-+N+Prop+Fem: NOUN ;
++N+Prop+Fem: N_01 ;
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -116,70 +116,79 @@ LEXICON Deriv-RUS-IN_surmal
 
 
 LEXICON PropSurMal-kal
-+N+Prop+Sur+Mal: NOUN ;
++N+Prop+Sur+Mal: N_01 ;
 
 LEXICON PropSurFem-kudo
-+N+Prop+Sur+Fem: NOUN ;
++N+Prop+Sur+Fem: N_01 ;
 
 LEXICON CYRL-Cons_sur
- PropSur-kal ;
+ Prop-kal_sur ;
 
-LEXICON PropSur-kal
-+N+Prop+Sur: NOUN ;
+LEXICON Prop-kal_sur
++N+Prop+Sur: N_01 ;
 
 LEXICON CYRL-T_sur
- PropSur-kit ;
+ Prop-kit_sur ;
 
-LEXICON PropSur-kit
- PropSur-kal ;
+LEXICON Prop-kit_sur
+ Prop-kal_sur ;
 
 LEXICON CYRL-K_sur
- PropSur-lak ;
+ Prop-lak_sur ;
 
-LEXICON PropSur-lak
- PropSur-kal ;
+LEXICON Prop-lak_sur
+ Prop-kal_sur ;
 
 LEXICON CYRL-Sibilant_sur
- PropSur-osh ;
+ Prop-osh_sur ;
 
-LEXICON PropSur-osh
-+N+Prop+Sur: NOUN ;
+LEXICON Prop-osh_sur
++N+Prop+Sur: N_01 ;
 
 LEXICON CYRL-Vow_sur
- PropSur-kudo ;
+ Prop-kudo_sur ;
 
 LEXICON CYRL-A_sur
- PropSur-kudo ;
+ Prop-kudo_sur ;
 
-LEXICON PropSur-kudo
-+N+Prop+Sur: NOUN ;
+LEXICON Prop-kudo_sur
++N+Prop+Sur: N_01 ;
 
 LEXICON Prop-kal_mal
-+N+Prop+Mal: NOUN ;
++N+Prop+Mal: N_01 ;
+
+LEXICON Prop-lak_mal
++N+Prop+Mal: N_01 ;
+
+LEXICON Prop-kit_mal
++N+Prop+Mal: N_01 ;
+
+LEXICON Prop-osh_mal
++N+Prop+Mal: N_01 ;
 
 LEXICON Prop-kudo_mal
-+N+Prop+Mal: NOUN ;
++N+Prop+Mal: N_01 ;
 
 LEXICON Prop-osh_patrMal
-+N+Prop+Patr+Mal: NOUN ;
++N+Prop+Patr+Mal: N_01 ;
 
 LEXICON Prop-kudo_patrFem
-+N+Prop+Patr+Fem: NOUN ;
++N+Prop+Patr+Fem: N_01 ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! PLACE NAMES FROM TEMPLATE !!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 LEXICON Prop-kal_plc
-+N+Prop+Plc: NOUN
++N+Prop+Plc: N_01 ;
 
 LEXICON Prop-kit_plc
-+N+Prop+Plc: NOUN
++N+Prop+Plc: N_01 ;
 
 LEXICON Prop-osh_plc
-+N+Prop+Plc: NOUN
++N+Prop+Plc: N_01 ;
 
 LEXICON Prop-kudo_plc
-+N+Prop+Plc: NOUN
++N+Prop+Plc: N_01 ;
 
 
 
