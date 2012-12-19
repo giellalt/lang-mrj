@@ -3,12 +3,12 @@
 !! Hill Mari nouns inflect in cases.
 
 LEXICON NTag
-+N: NOUN ;
++N: N_01 ;
 
 LEXICON N-ӓвӓ
-+N: NOUN ;
++N: N_01 ;
 
-LEXICON NOUN
+LEXICON N_01
 : Nb-Cx-Px_Nb ; !
 +Sg+Gen:%>Ы1н K ; ! 
 +Sg+Acc:%>Ы1м K ; !
