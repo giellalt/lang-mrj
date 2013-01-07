@@ -34,54 +34,54 @@ LEXICON V-emTag
 !!!!!!!!!!!!!
 
 LEXICON INDPRS1SG-am
-+Pred+Ind+Prs+1Sg:ам K ;
++Ind+Prs+Sg1:ам K ;
 
 LEXICON INDPRS2SG-am
-+Pred+Ind+Prs+2Sg:ат K ;
++Ind+Prs+Sg2:ат K ;
 
 LEXICON INDPRS3SG-am
-+Pred+Ind+Prs+3Sg:эш K ;
++Ind+Prs+Sg3:еш K ; ! эш ???
 
 LEXICON INDPRS1PL-am
-+Pred+Ind+Prs+1Pl:ынӓ K ;
++Ind+Prs+Pl1:ынӓ K ;
 
 LEXICON INDPRS2PL-am
-+Pred+Ind+Prs+2Pl:ыдӓ K ;
++Ind+Prs+Pl2:ыдӓ K ;
 
 LEXICON INDPRS3PL-am
-+Pred+Ind+Prs+3Pl:ыт K ;
++Ind+Prs+Pl3:ыт K ;
 
 
 !!
 LEXICON INDPRS1SG-em
-+Pred+Ind+Prs+1Sg:ем K ;
++Ind+Prs+Sg1:ем K ;
 
 LEXICON INDPRS2SG-em
-+Pred+Ind+Prs+2Sg:ет K ;
++Ind+Prs+Sg2:ет K ;
 
 LEXICON INDPRS3SG-em
-+Pred+Ind+Prs+3Sg:а K ;
++Ind+Prs+Sg3:а K ;
 
 LEXICON INDPRS1PL-em
-+Pred+Ind+Prs+1Pl:енӓ K ;
++Ind+Prs+Pl1:енӓ K ;
 
 LEXICON INDPRS2PL-em
-+Pred+Ind+Prs+2Pl:едӓ K ;
++Ind+Prs+Pl2:едӓ K ;
 
 LEXICON INDPRS3PL-em
-+Pred+Ind+Prs+3Pl:ат K ;
++Ind+Prs+Pl3:ат K ;
 
 !!!!!!!!!!!!!!!!
 !! PRETERIT 1 !!
 !!!!!!!!!!!!!!!!
 LEXICON INDPRT1SG-am
-+Pred+Ind+Prt+1Sg:Ы1нам K ; !
++Ind+Prt+Sg1:Ы1нам K ; !
 
 LEXICON INDPRT2SG-am
-+Pred+Ind+Prt+2Sg:Ы1нат K ; !
++Ind+Prt+Sg2:Ы1нат K ; !
 
 LEXICON INDPRT3SG-am
-+Pred+Ind+Prt+3Sg:Ы1н K ; !
++Ind+Prt+Sg3:Ы1н K ; !
 
 !!!!!!!!!!!!!!!!
 !! INFINITIVE !!
