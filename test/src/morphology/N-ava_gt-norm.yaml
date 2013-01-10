@@ -17,7 +17,7 @@ Tests:
   Noun - ӓвӓ: # Noun 'mother'
      ӓвӓ+N+Sg+Nom: ӓвӓ
      ӓвӓ+N+Sg+Gen: ӓвӓн
-     ӓвӓ+N+Sg+Acc: ӓвӓн
+     ӓвӓ+N+Sg+Acc: ӓвӓм
      ӓвӓ+N+Sg+Com: ӓвӓге
      ӓвӓ+N+Sg+Dat: ӓвӓлӓн
      ӓвӓ+N+Sg+Ine: ӓвӓштӹ
@@ -27,7 +27,7 @@ Tests:
      ӓвӓ+N+Sg+Abe: ӓвӓде
      ӓвӓ+N+Pl+Nom: ӓвӓвлӓ
      ӓвӓ+N+Pl+Gen: ӓвӓвлӓн
-     ӓвӓ+N+Pl+Acc: ӓвӓвлӓн
+     ӓвӓ+N+Pl+Acc: ӓвӓвлӓм
      ӓвӓ+N+Pl+Com: ӓвӓвлӓге
      ӓвӓ+N+Pl+Dat: ӓвӓвлӓлӓн
      ӓвӓ+N+Pl+Ine: ӓвӓвлӓштӹ
@@ -36,26 +36,26 @@ Tests:
      ӓвӓ+N+Pl+Comp: ӓвӓвлӓлӓ
      ӓвӓ+N+Pl+Abe: ӓвӓвлӓде
 
-     ӓвӓ+N+Sg+Nom: [ӓвӓм, ӓвӓэм] # х2 ӓвӓэмжӹ
-     ӓвӓ+N+Sg+Gen: ӓвӓмӹн
-     ӓвӓ+N+Sg+Acc: ӓвӓмӹн
-     ӓвӓ+N+Sg+Com: ӓвӓмге
-     ӓвӓ+N+Sg+Dat: ӓвӓмлӓн
-     ӓвӓ+N+Sg+Ine: ӓвӓмӹштӹ
-     ӓвӓ+N+Sg+Ill: ӓвӓмӹшкӹ
-     ӓвӓ+N+Sg+Lat: ӓвӓмӹш
-     ӓвӓ+N+Sg+Comp: ӓвӓмлӓ
-     ӓвӓ+N+Sg+Abe: ӓвӓмде
-     ӓвӓ+N+Pl+Nom: [ӓвӓмвлӓ, ӓвӓэмвлӓ, ӓвӓвлӓэм] # х3
-     ӓвӓ+N+Pl+Gen: ӓвӓмвлӓн
-     ӓвӓ+N+Pl+Acc: ӓвӓмвлӓн
-     ӓвӓ+N+Pl+Com: ӓвӓмвлӓге
-     ӓвӓ+N+Pl+Dat: ӓвӓмвлӓлӓн
-     ӓвӓ+N+Pl+Ine: ӓвӓмвлӓштӹ
-     ӓвӓ+N+Pl+Ill: ӓвӓмвлӓшкӹ
-     ӓвӓ+N+Pl+Lat: ӓвӓмвлӓш
-     ӓвӓ+N+Pl+Comp: ӓвӓмвлӓлӓ
-     ӓвӓ+N+Pl+Abe: ӓвӓмвлӓде
+     ӓвӓ+N+PxSg1+Sg+Nom: [ӓвӓм, ӓвӓэм] # х2 ӓвӓэмжӹ
+     ӓвӓ+N+PxSg1+Sg+Gen: ӓвӓмӹн
+     ӓвӓ+N+PxSg1+Sg+Acc: ӓвӓмӹм
+     ӓвӓ+N+PxSg1+Sg+Com: ӓвӓмге
+     ӓвӓ+N+PxSg1+Sg+Dat: ӓвӓмлӓн
+     ӓвӓ+N+PxSg1+Sg+Ine: ӓвӓмӹштӹ
+     ӓвӓ+N+PxSg1+Sg+Ill: ӓвӓмӹшкӹ
+     ӓвӓ+N+PxSg1+Sg+Lat: ӓвӓмӹш
+     ӓвӓ+N+PxSg1+Sg+Comp: ӓвӓмлӓ
+     ӓвӓ+N+PxSg1+Sg+Abe: ӓвӓмде
+     ӓвӓ+N+PxSg1+Pl+Nom: [ӓвӓмвлӓ, ӓвӓэмвлӓ, ӓвӓвлӓэм] # х3
+     ӓвӓ+N+PxSg1+Pl+Gen: ӓвӓмвлӓн
+     ӓвӓ+N+PxSg1+Pl+Acc: ӓвӓмвлӓм
+     ӓвӓ+N+PxSg1+Pl+Com: ӓвӓмвлӓге
+     ӓвӓ+N+PxSg1+Pl+Dat: ӓвӓмвлӓлӓн
+     ӓвӓ+N+PxSg1+Pl+Ine: ӓвӓмвлӓштӹ
+     ӓвӓ+N+PxSg1+Pl+Ill: ӓвӓмвлӓшкӹ
+     ӓвӓ+N+PxSg1+Pl+Lat: ӓвӓмвлӓш
+     ӓвӓ+N+PxSg1+Pl+Comp: ӓвӓмвлӓлӓ
+     ӓвӓ+N+PxSg1+Pl+Abe: ӓвӓмвлӓде
 #ӓвӓт, ӓвӓэт, ӓвӓэтшӹ, 
 #ӓвӓжӹ, 
 
