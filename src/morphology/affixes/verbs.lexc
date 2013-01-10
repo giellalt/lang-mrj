@@ -5,6 +5,7 @@
 LEXICON VAux
 +V+Aux: # ;
 
+!ӹштӓш:ӹшт
 LEXICON V-amTag
 +V:%> INDPRSSG1-am ;
 +V:%> INDPRSSG2-am ;
@@ -13,19 +14,9 @@ LEXICON V-amTag
 +V:%> INDPRSPL2-am ;
 +V:%> INDPRSPL3-am ;
 
-+V:%> INDPRT1SG1-am ;
-+V:%> INDPRT1SG2-am ;
-+V:%> INDPRT1SG3-am ;
-+V:%> INDPRT1PL1-am ;
-+V:%> INDPRT1PL2-am ;
-+V:%> INDPRT1PL3-am ;
-
 +V:%> INDPRT2SG1-am ;
 +V:%> INDPRT2SG2-am ;
 +V:%> INDPRT2SG3-am ;
-+V:%> INDPRT2PL1-am ;
-+V:%> INDPRT2PL2-am ;
-+V:%> INDPRT2PL3-am ;
 
 +V: INF ;
 
@@ -37,25 +28,10 @@ LEXICON V-emTag
 +V:%> INDPRSPL1-em ;
 +V:%> INDPRSPL2-em ;
 +V:%> INDPRSPL3-em ;
-
-+V:%> INDPRT1SG1-em ;
-+V:%> INDPRT1SG2-em ;
-+V:%> INDPRT1SG3-em ;
-+V:%> INDPRT1PL1-em ;
-+V:%> INDPRT1PL2-em ;
-+V:%> INDPRT1PL3-em ;
-
-+V:%> INDPRT2SG1-em ;
-+V:%> INDPRT2SG2-em ;
-+V:%> INDPRT2SG3-em ;
-+V:%> INDPRT2PL1-em ;
-+V:%> INDPRT2PL2-em ;
-+V:%> INDPRT2PL3-em ;
-
 +V: INF ;
 
 !!!!!!!!!!!!!
-!! PRESENT !!
+!! NONPAST !!
 !!!!!!!!!!!!!
 
 LEXICON INDPRSSG1-am
@@ -68,13 +44,13 @@ LEXICON INDPRSSG3-am
 +Ind+Prs+Sg3:еш K ; ! эш ???
 
 LEXICON INDPRSPL1-am
-+Ind+Prs+Pl1:Ы1нА1 K ;
++Ind+Prs+Pl1:ынӓ K ;
 
 LEXICON INDPRSPL2-am
-+Ind+Prs+Pl2:Ы1дА1 K ;
++Ind+Prs+Pl2:ыдӓ K ;
 
 LEXICON INDPRSPL3-am
-+Ind+Prs+Pl3:Ы1т K ;
++Ind+Prs+Pl3:ыт K ;
 
 
 !!
@@ -85,7 +61,7 @@ LEXICON INDPRSSG2-em
 +Ind+Prs+Sg2:ет K ;
 
 LEXICON INDPRSSG3-em
-+Ind+Prs+Sg3:А1 K ;
++Ind+Prs+Sg3:а K ;
 
 LEXICON INDPRSPL1-em
 +Ind+Prs+Pl1:енӓ K ;
@@ -94,87 +70,23 @@ LEXICON INDPRSPL2-em
 +Ind+Prs+Pl2:едӓ K ;
 
 LEXICON INDPRSPL3-em
-+Ind+Prs+Pl3:А1т K ;
++Ind+Prs+Pl3:ат K ;
 
 !!!!!!!!!!!!!!!!
 !! PRETERIT 1 !!
 !!!!!!!!!!!!!!!!
-LEXICON INDPRT1SG1-am
-+Ind+Prt1+Sg1:Ы1м K ; !
-
-LEXICON INDPRT1SG2-am
-+Ind+Prt1+Sg2:Ы1ц K ; !
-
-LEXICON INDPRT1SG3-am
-+Ind+Prt1+Sg3:Ы1 K ; !
-
-LEXICON INDPRT1PL1-am
-+Ind+Prt1+Pl1:нА1 K ; !
-
-LEXICON INDPRT1PL2-am
-+Ind+Prt1+Pl2:дА1 K ; !
-
-LEXICON INDPRT1PL3-am
-+Ind+Prt1+Pl3:евӹ K ; !
-
-!!
-LEXICON INDPRT1SG1-em
-+Ind+Prt1+Sg1:Ы1шЫ1м K ; !
-
-LEXICON INDPRT1SG2-em
-+Ind+Prt1+Sg2:Ы1шЫ1ц K ; !
-
-LEXICON INDPRT1SG3-em
-+Ind+Prt1+Sg3:Ы1ш K ; !
-
-LEXICON INDPRT1PL1-em
-+Ind+Prt1+Pl1:Ы1шнА1 K ; !
-
-LEXICON INDPRT1PL2-em
-+Ind+Prt1+Pl2:Ы1шдА1 K ; !Check this
-
-LEXICON INDPRT1PL3-em
-+Ind+Prt1+Pl3:евӹ K ; !
 
 !!!!!!!!!!!!!!!!
 !! PRETERIT 2 !!
 !!!!!!!!!!!!!!!!
 LEXICON INDPRT2SG1-am
-+Ind+Prt2+Sg1:енӓм K ; !
++Ind+Prt2+Sg1:Ы1нам K ; !
 
 LEXICON INDPRT2SG2-am
-+Ind+Prt2+Sg2:енӓт K ; !
++Ind+Prt2+Sg2:нат K ; !
 
 LEXICON INDPRT2SG3-am
-+Ind+Prt2+Sg3:ен K ; !
-
-LEXICON INDPRT2PL1-am
-+Ind+Prt2+Pl1:еннӓ K ; !
-
-LEXICON INDPRT2PL2-am
-+Ind+Prt2+Pl2:ендӓ K ; !
-
-LEXICON INDPRT2PL3-am
-+Ind+Prt2+Pl3:енЫ2т K ; !
-
-!!
-LEXICON INDPRT2SG1-em
-+Ind+Prt2+Sg1:енӓм K ; !
-
-LEXICON INDPRT2SG2-em
-+Ind+Prt2+Sg2:енӓт K ; !
-
-LEXICON INDPRT2SG3-em
-+Ind+Prt2+Sg3:ен K ; !
-
-LEXICON INDPRT2PL1-em
-+Ind+Prt2+Pl1:еннӓ K ; !
-
-LEXICON INDPRT2PL2-em
-+Ind+Prt2+Pl2:ендӓ K ; !
-
-LEXICON INDPRT2PL3-em
-+Ind+Prt2+Pl3:енЫ2т K ; !
++Ind+Prt+Sg3:Ы1н K ; !
 
 !!!!!!!!!!!!!!!!
 !! INFINITIVE !!
