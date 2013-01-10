@@ -80,11 +80,11 @@ Rules
            %>: ж Ы2: %>: _  ;
         where Vx in (Е2 Ы1) ;
 
-"Onset vowel Е2 realized in suffix"
-  Е2:е <=> Cons %>: _ ;
+!"Onset vowel Е2 realized in suffix"
+!  Е2:е <=> Cons %>: _ ;
 
 "Onset vowel Ы1 realized in suffix"
-  Ы1:ы <=> LBC [ Cons | й ] %>: _ ;
+  Ы1:ы <=> LBC [[ Cons | й ] %>: | %>: [ %>: | BackVow | ArchiVow: | Cons ]+ ] _ ;
 
 !"Onset vowel Ы1 realized in suffix"
 !  Ы1:ӹ <=> LFC [ Cons | й ] %>: _ ;
