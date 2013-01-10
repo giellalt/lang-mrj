@@ -15,14 +15,14 @@ Tests:
 
 
   Verb - сирэм: # Verb-em '??'
-     сирэм+V+Ind+NonPst+Sg1: сирэм
-     сирэм+V+Ind+NonPst+Sg2: сирэт
-     сирэм+V+Ind+NonPst+Sg3: сирӓ
-     сирэм+V+Ind+NonPst+Pl1: сирэнӓ
-     сирэм+V+Ind+NonPst+Pl2: сирэдӓ
-     сирэм+V+Ind+NonPst+Pl3: сирӓт
-     сирэм+V+Ind+NonPst+ConNeg: сирӹ
-     сирэм+V+Ind+NonPst+Pl3+ConNeg: сирэп
+     сирэм+V+Ind+Prs+Sg1: сирэм
+     сирэм+V+Ind+Prs+Sg2: сирэт
+     сирэм+V+Ind+Prs+Sg3: сирӓ
+     сирэм+V+Ind+Prs+Pl1: сирэнӓ
+     сирэм+V+Ind+Prs+Pl2: сирэдӓ
+     сирэм+V+Ind+Prs+Pl3: сирӓт
+     сирэм+V+Ind+Prs+ConNeg: сирӹ
+     сирэм+V+Ind+Prs+Pl3+ConNeg: сирэп
 #
      сирэм+V+Ind+Prt1+Sg1: сирӹшӹм
      сирэм+V+Ind+Prt1+Sg2: сирӹшӹц
@@ -41,14 +41,14 @@ Tests:
      сирэм+V+Ind+Prt2+Pl3: сирэнӹт
 
 ##
-     сирэм+V+Ind+Ildal+NonPst+Sg1: сирӓлтӓлӹнӓм
-     сирэм+V+Ind+Ildal+NonPst+Sg3: сирӓлтӓлӹнӓт
-     сирэм+V+Ind+Ildal+NonPst+Sg3: сирӓлтӓлӹн
-     сирэм+V+Ind+Ildal+NonPst+Pl1: сирӓлтӓлӹннӓ
-     сирэм+V+Ind+Ildal+NonPst+Pl3: сирӓлтӓлӹндӓ
-     сирэм+V+Ind+Ildal+NonPst+Pl3: сирӓлтӓлӹнӹт
-     сирэм+V+Ind+Ildal+NonPst+ConNeg: сирӓлтӓл
-     сирэм+V+Ind+Ildal+NonPst+Pl3+ConNeg: сирӓлтӓлэп
+     сирэм+V+Ind+Ildal+Prs+Sg1: сирӓлтӓлӹнӓм
+     сирэм+V+Ind+Ildal+Prs+Sg3: сирӓлтӓлӹнӓт
+     сирэм+V+Ind+Ildal+Prs+Sg3: сирӓлтӓлӹн
+     сирэм+V+Ind+Ildal+Prs+Pl1: сирӓлтӓлӹннӓ
+     сирэм+V+Ind+Ildal+Prs+Pl3: сирӓлтӓлӹндӓ
+     сирэм+V+Ind+Ildal+Prs+Pl3: сирӓлтӓлӹнӹт
+     сирэм+V+Ind+Ildal+Prs+ConNeg: сирӓлтӓл
+     сирэм+V+Ind+Ildal+Prs+Pl3+ConNeg: сирӓлтӓлэп
 
      сирэм+V+Ind+Ildal+Prt1+Sg1: сирӓлтӓльӹм
      сирэм+V+Ind+Ildal+Prt1+Sg3: сирӓлтӓльӹц
