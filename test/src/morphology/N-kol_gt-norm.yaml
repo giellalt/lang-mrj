@@ -1,0 +1,61 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Noun - кол: # Noun 'mother'
+     кол+N+Sg+Nom: кол
+     кол+N+Sg+Gen: колын
+     кол+N+Sg+Acc: колым
+     кол+N+Sg+Com: колге
+     кол+N+Sg+Dat: коллан
+     кол+N+Sg+Ine: колышты
+     кол+N+Sg+Ill: колышкы
+     кол+N+Sg+Lat: колеш
+     кол+N+Sg+Comp: колла
+     кол+N+Sg+Abe: колде
+     кол+N+Pl+Nom: колвлӓ
+     кол+N+Pl+Gen: колвлӓн
+     кол+N+Pl+Acc: колвлӓм
+     кол+N+Pl+Com: колвлӓге
+     кол+N+Pl+Dat: колвлӓлӓн
+     кол+N+Pl+Ine: колвлӓштӹ
+     кол+N+Pl+Ill: колвлӓшкӹ
+     кол+N+Pl+Lat: колвлӓш
+     кол+N+Pl+Comp: колвлӓлӓ
+     кол+N+Pl+Abe: колвлӓде
+
+     кол+N+PxSg1+Sg+Nom: [колем, колэм] # х2 колэмжӹ
+     кол+N+PxSg1+Sg+Gen: колемӹн
+     кол+N+PxSg1+Sg+Acc: колемӹм
+     кол+N+PxSg1+Sg+Com: колемге
+     кол+N+PxSg1+Sg+Dat: колемлӓн
+     кол+N+PxSg1+Sg+Ine: колыштем
+     кол+N+PxSg1+Sg+Ill: колышкем
+     кол+N+PxSg1+Sg+Lat: колешем
+     кол+N+PxSg1+Sg+Comp: [коллаэм, колемлӓ] 
+     кол+N+PxSg1+Sg+Abe: [колдеэм, колемде] 
+     кол+N+PxSg1+Pl+Nom: [колвлӓэм, колемвлӓ] # х3
+     кол+N+PxSg1+Pl+Gen: колемвлӓн
+     кол+N+PxSg1+Pl+Acc: колемвлӓм
+     кол+N+PxSg1+Pl+Com: [колвлӓэмге]
+     кол+N+PxSg1+Pl+Dat: [колвлӓэмлӓн, колвлӓлӓнем, колeмвлӓлӓ]
+     кол+N+PxSg1+Pl+Ine: [колвлӓштем, колeмвлӓштӹ] 
+     кол+N+PxSg1+Pl+Ill: [колвлӓшкем, колeмвлӓшкӹ]
+     кол+N+PxSg1+Pl+Lat: [колвлӓэшем, колeмвлӓэш]
+     кол+N+PxSg1+Pl+Comp: [колвлӓэмлӓ, колвлӓлӓэм, колeмвлӓлӓ]
+     кол+N+PxSg1+Pl+Abe: [колвлӓэмде, колвлӓэмде, колeмвлӓде]
+#колт, колэт, колэтшӹ, 
+#колжы, 
+
