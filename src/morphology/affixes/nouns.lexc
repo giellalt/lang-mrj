@@ -17,9 +17,9 @@ LEXICON N_01
 
 +Sg+Dat:%>лА1н K ; !
 +Sg+Comp:%>лА1 K ; ! (like a village)
-+Sg+Ine:%>Ы1штЫ2 K ; ! (in a village)
-+Sg+Ine:%>Ы1штЫ2 Cx-then-Px ;
-+Sg+Ill:%>Ы1шкЫ2 K ; ! (to a village)
++Sg+Ine:%>Ы1штЫ1 K ; ! (in a village)
++Sg+Ine:%>Ы1штЫ1 Cx-then-Px ;
++Sg+Ill:%>Ы1шкЫ1 K ; ! (to a village)
 +Sg+Lat:%>Ы1ш K ; ! (into a village)
 +Sg+Abe:%>де K ; ! (without a village)
 +Orth/1933+N+Sg+Abe:%>дэ K ; ! (without a village)
@@ -27,8 +27,8 @@ LEXICON N_01
 : Nb-GenAccComDatComp ;
 +Pl+Dat:%>влӓ%>лА1н Cx-then-Px ; !
 +Pl+Comp:%>влӓ%>лА1 Cx-then-Px ; !
-+Pl+Ine:%>влӓ%>Ы1штЫ2 Cx-then-Px ; !
-+Pl+Ill:%>влӓ%>Ы1шкЫ2 Cx-then-Px ; !
++Pl+Ine:%>влӓ%>Ы1штЫ1 Cx-then-Px ; !
++Pl+Ill:%>влӓ%>Ы1шкЫ1 Cx-then-Px ; !
 +Pl+Lat:%>влӓ%>Ы1ш Cx-then-Px ; !
 +Pl+Com:%>влӓ%>ге Cx-then-Px ; !
 +Pl+Abe:%>влӓ%>де Cx-then-Px ; !
