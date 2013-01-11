@@ -1,0 +1,125 @@
+
+Copy-peistattu Jackin versiosta morphology-kansiota varten
+anzhal tehenj gyc mr1933-test-V-lydash_gt-norm.yaml
+
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Verb - пӓшӓлӓш: # Verb-em 'work / työskennellä'
+     пӓшӓлӓш+V+Ind+Prs+Sg1: пӓшӓлем
+     пӓшӓлӓш+V+Ind+Prs+Sg2: пӓшӓлет
+     пӓшӓлӓш+V+Ind+Prs+Sg3: пӓшӓлӓ
+     пӓшӓлӓш+V+Ind+Prs+Pl1: пӓшӓленӓ
+     пӓшӓлӓш+V+Ind+Prs+Pl2: пӓшӓледӓ
+     пӓшӓлӓш+V+Ind+Prs+Pl3: пӓшӓлӓт
+     пӓшӓлӓш+V+Ind+Prs+ConNeg: пӓшӓлӹ
+     пӓшӓлӓш+V+Ind+Prs+Pl3+ConNеg: пӓшӓлеп
+#
+     пӓшӓлӓш+V+Ind+Prt1+S1: пӓшӓлӹшӹм
+     пӓшӓлӓш+V+Ind+Prt1+Sg2 : пӓшӓлӹшӹц
+     пӓшӓлӓш+V+Ind+Prt1+Sg3 : пӓшӓлӹш
+     пӓшӓлӓш+V+Ind+Prt1+Pl1 : пӓшӓлӹшнӓ
+     пӓшӓлӓш+V+Ind+Prt1+Pl2 : пӓшӓлӹшдӓ
+     пӓшӓлӓш+V+Ind+Prt1+Pl3 : пӓшӓлевӹ
+     пӓшӓлӓш+V+Ind+Prt1+ConNeg: пӓшӓлӹ
+     пӓшӓлӓш+V+Ind+Prt1+Pl3+ConNеg: пӓшӓлеп
+#
+     пӓшӓлӓш+V+Ind+Prt2+Sg1: пӓшӓлeнäм
+     пӓшӓлӓш+V+Ind+Prt2+Sg2: пӓшӓлeнӓт
+     пӓшӓлӓш+V+Ind+Prt2+Sg3: пӓшӓлeн
+     пӓшӓлӓш+V+Ind+Prt2+Pl1: пӓшӓлeннӓ
+     пӓшӓлӓш+V+Ind+Prt2+Pl2: пӓшӓлендӓ  
+     пӓшӓлӓш+V+Ind+Prt2+Pl3: пӓшӓленӹт
+     
+    # ! пӓшӓлем+V+Neg+Prt2+Sg1: пӓшӓлӹделам # ! vuorimarissa Prt2 negatiota muodostetaan -de-affiksilla
+    
+     пӓшӓлӓш+V+Ind+Neg+Prt2+Sg1: пӓшӓлӹделам
+     пӓшӓлӓш+V+Ind+Neg+Prt2+Sg2: пӓшӓлӹделам
+     пӓшӓлӓш+V+Ind+Neg+Prt2+Sg3: пӓшӓлӹде
+     пӓшӓлӓш+V+Ind+Neg+Prt2+Sg1: пӓшӓлӹделна
+     пӓшӓлӓш+V+Ind+Neg+Prt2+Sg2: пӓшӓлӹделда
+     пӓшӓлӓш+V+Ind+Neg+Prt2+Sg3: пӓшӓлӹделыт
+##
+     пӓшӓлӓш+V+Ind+Ildal+Prs+Sg1: пӓшӓлӓлӓм
+     пӓшӓлӓш+V+Ind+Ildal+Prs+Sg2: пӓшӓлӓлӓт
+     пӓшӓлӓш+V+Ind+Ildal+Prs+Sg3: пӓшӓлӓлеш
+     пӓшӓлӓш+V+Ind+Ildal+Prs+Pl1: пӓшӓлӓлӹнӓ
+     пӓшӓлӓш+V+Ind+Ildal+Prs+Pl2: пӓшӓлӓлӹдӓ
+     пӓшӓлӓш+V+Ind+Ildal+Prs+Pl3: пӓшӓлӓлӹт
+     пӓшӓлӓш+V+Ind+Ildal+Prs+ConNeg: пӓшӓлӓл
+     пӓшӓлӓш+V+Ind+Ildal+Prs+Pl3+ConNeg: пӓшӓлӓлеп
+
+     пӓшӓлӓш+V+Ind+Ildal+Prt1+Sg1: пӓшӓлӓльӹм
+     пӓшӓлӓш+V+Ind+Ildal+Prt1+Sg2: пӓшӓлӓльӹц
+     пӓшӓлӓш+V+Ind+Ildal+Prt1+Sg3: пӓшӓлӓльӹ
+     пӓшӓлӓш+V+Ind+Ildal+Prt1+Pl1: пӓшӓлӓлнӓ
+     пӓшӓлӓш+V+Ind+Ildal+Prt1+Pl2: пӓшӓлӓлдӓ
+     пӓшӓлӓш+V+Ind+Ildal+Prt1+Pl3: пӓшӓлӓлевӹ
+     пӓшӓлӓш+V+Ind+Ildal+Prt1+ConNeg: пӓшӓлӓл
+     пӓшӓлӓш+V+Ind+Ildal+Prt1+Pl3+ConNeg: пӓшӓлӓлеп
+#    
+     пӓшӓлӓш+V+Ind+Ildal+Prt2+Sg1: пӓшӓлӓлӹнӓм
+     пӓшӓлӓш+V+Ind+Ildal+Prt2+Sg2: пӓшӓлӓлӹнӓт
+     пӓшӓлӓш+V+Ind+Ildal+Prt2+Sg3: пӓшӓлӓлӹн
+     пӓшӓлӓш+V+Ind+Ildal+Prt2+Pl1: пӓшӓлӓлӹннӓ
+     пӓшӓлӓш+V+Ind+Ildal+Prt2+Pl2: пӓшӓлӓлӹндӓ
+     пӓшӓлӓш+V+Ind+Ildal+Prt2+Pl3: пӓшӓлӓлевӹ
+##  
+     пӓшӓлӓш+V+Imprt+Sg2: пӓшӓлӹ
+     пӓшӓлӓш+V+Imprt+Sg3: пӓшӓлӹжӹ
+     пӓшӓлӓш+V+Imprt+Pl2: пӓшӓлӹдӓ
+     пӓшӓлӓш+V+Imprt+Pl3: пӓшӓлӹштӹ
+##   
+     пӓшӓлӓш+V+Imprt1+Sg2: пӓшӓлемӓ
+     пӓшӓлӓш+V+Imprt1+Pl2: пӓшӓлемӓдӓ
+##   
+     пӓшӓлӓш+V+Idal+Imprt1+Sg2: пӓшӓлӓлӹмӓ
+     пӓшӓлӓш+V+Idal+Imprt1+Sg3: пӓшӓлӓлжӹ
+     пӓшӓлӓш+V+Idal+Imprt1+Pl2: пӓшӓлӓлдӓ
+     пӓшӓлӓш+V+Idal+Imprt1+Pl3: пӓшӓлӓлӹштӹ
+##   
+     пӓшӓлӓш+V+Imprt1+Sg2+Foc/йӓ: пӓшӓлемӓ-йӓ
+     пӓшӓлӓш+V+Imprt1+Pl2+Foc/йӓ: пӓшӓлемӓдӓ-йӓ
+##  
+     пӓшӓлӓш+V+Idal+Imprt1+Sg2+Foc/йӓ: пӓшӓлӓлӹмӓ-йӓ
+     пӓшӓлӓш+V+Idal+Imprt1+Sg3+Foc/йӓ: пӓшӓлӓлжӹ-йӓ
+     пӓшӓлӓш+V+Idal+Imprt1+Pl2+Foc/йӓ: пӓшӓлӓлдӓ-йӓ
+     пӓшӓлӓш+V+Idal+Imprt1+Pl3+Foc/йӓ: пӓшӓлӓлӹштӹ-йӓ
+##   
+     пӓшӓлӓш+V+Des+Sg1: пӓшӓлӹнем
+     пӓшӓлӓш+V+Des+Sg2: пӓшӓлӹнет
+     пӓшӓлӓш+V+Des+Sg3: пӓшӓлӹнежӹ
+     пӓшӓлӓш+V+Des+Pl1: пӓшӓлӹненӓ
+     пӓшӓлӓш+V+Des+Pl2: пӓшӓлӹнедӓ
+     пӓшӓлӓш+V+Des+Pl3: пӓшӓлӹнештӹ
+##   
+     пӓшӓлӓш+V+Idal+Des+Sg1: пӓшӓлӓлнем
+     пӓшӓлӓш+V+Idal+Des+Sg2: пӓшӓлӓлнет
+     пӓшӓлӓш+V+Idal+Des+Sg3: пӓшӓлӓлнежӹ
+     пӓшӓлӓш+V+Idal+Des+Pl1: пӓшӓлӓлненӓ
+     пӓшӓлӓш+V+Idal+Des+Pl2: пӓшӓлӓлнедӓ
+     пӓшӓлӓш+V+Idal+Des+Pl3: пӓшӓлӓлнештӹ
+
+##   пӓшӓ ӓш
+     пӓшӓ ӓш
+#    
+     пӓшӓлӓш+V+Idal+Ind+Prt2+Neg+Sg1: пӓшӓлӓлделам
+     пӓшӓлӓш+V+Idal+Ind+Prt2+Neg+Sg2: пӓшӓлӓлделат
+     пӓшӓлӓш+V+Idal+Ind+Prt2+Neg+Sg3: пӓшӓлӓлде
+     пӓшӓлӓш+V+Idal+Ind+Prt2+Neg+Pl1: пӓшӓлӓлделна
+     пӓшӓлӓш+V+Idal+Ind+Prt2+Neg+Pl2: пӓшӓлӓлделда
+     пӓшӓлӓш+V+Idal+Ind+Prt2+Neg+Pl3: пӓшӓлӓлделыт
+     
