@@ -1,0 +1,83 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Noun - мӱ: # Noun 'honey' 
+     мӱ+N+Sg+Nom: мӱ
+     мӱ+N+Sg+Gen: мӱн
+     мӱ+N+Sg+Acc: мӱм
+     мӱ+N+Sg+Com: мӱге
+     мӱ+N+Sg+Dat: мӱлӓн
+     мӱ+N+Sg+Ine: мӱштӹ
+     мӱ+N+Sg+Ill: мӱышкӹ
+     мӱ+N+Sg+Lat: мӱэш
+     мӱ+N+Sg+Comp: мӱлӓ
+     мӱ+N+Sg+Abe: мӱде
+     мӱ+N+Pl+Nom: мӱвлӓ
+     мӱ+N+Pl+Gen: мӱвлӓн
+     мӱ+N+Pl+Acc: мӱвлӓм
+     мӱ+N+Pl+Com: мӱвлӓге
+     мӱ+N+Pl+Dat: мӱвлӓлӓн
+     мӱ+N+Pl+Ine: мӱвлӓштӹ
+     мӱ+N+Pl+Ill: мӱвлӓшкӹ
+     мӱ+N+Pl+Lat: мӱвлӓш
+     мӱ+N+Pl+Comp: мӱвлӓлӓ
+     мӱ+N+Pl+Abe: мӱвлӓде
+
+#     мӱ+N+PxSg1+Sg+Nom: мӱэм
+     мӱ+N+PxSg1+Sg+Nom: мӱэм
+     мӱ+N+PxSg1+Sg+Gen: мӱэмӹн
+     мӱ+N+PxSg1+Sg+Acc: мӱэмӹм
+     мӱ+N+PxSg1+Sg+Com: мӱэмге
+     мӱ+N+PxSg1+Sg+Dat: мӱэмлӓн
+     мӱ+N+PxSg1+Sg+Ine: мӱштем
+     мӱ+N+PxSg1+Sg+Ill: мӱшкем
+     мӱ+N+PxSg1+Sg+Lat: мӱэшем
+#     мӱ+N+PxSg1+Sg+Comp: [мӱлӓэм, мӱэмлӓ] 
+     мӱ+N+Sg+Comp+PxSg1: мӱлӓэм # teoreett tai toissijais.versio_jk
+     мӱ+N+PxSg1+Sg+Comp: мӱэмлӓ 
+#     мӱ+N+PxSg1+Sg+Abe: [мӱдеэм, мӱэмде] 
+     мӱ+N+Sg+Abe+PxSg1: мӱдеэм # teoreett tai toissijais.versio_jk
+     мӱ+N+PxSg1+Sg+Abe: мӱэмде 
+#     мӱ+N+PxSg1+Pl+Nom: [мӱвлӓэм, мӱэмвлӓ] # х3
+     мӱ+N+Pl+Nom+PxSg1: мӱвлӓэм 
+     мӱ+N+PxSg1+Pl+Nom: мӱэмвлӓ
+     мӱ+N+PxSg1+Pl+Gen: мӱэмвлӓн
+     мӱ+N+PxSg1+Pl+Acc: мӱэмвлӓм
+#     мӱ+N+PxSg1+Pl+Com: [мӱвлӓэмге, мӱэмвлӓге]
+     мӱ+N+Pl+PxSg1+Com: мӱвлӓэмге
+     мӱ+N+PxSg1+Pl+Com: мӱэмвлӓге # käytäisin toisen var: N+Pl+PxSg1+Com мӱвлӓэмге
+#     мӱ+N+PxSg1+Pl+Dat: [мӱвлӓэмлӓн, мӱвлӓлӓнем, мӱэмвлӓлӓн]
+     мӱ+N+Pl+PxSg1+Dat: мӱвлӓэмлӓн
+     мӱ+N+Pl+Dat+PxSg1: мӱвлӓлӓнем
+     мӱ+N+PxSg1+Pl+Dat: мӱэмвлӓлӓн # käytä toinen var: мӱвлӓлӓнем
+# Is this usage or morphology?
+#     мӱ+N+PxSg1+Pl+Ine: [мӱвлӓштем, мӱэмвлӓштӹ] 
+#     мӱ+N+PxSg1+Pl+Ill: [мӱвлӓшкем, мӱэмвлӓшкӹ]
+     мӱ+N+Pl+Ine+PxSg1: мӱвлӓштем
+     мӱ+N+Pl+Ill+PxSg1: мӱвлӓшкем
+#     мӱ+N+PxSg1+Pl+Lat: [мӱвлӓэшем, мӱэмвлӓэш]
+     мӱ+N+Pl+Lat+PxSg1: мӱвлӓэшем  
+     мӱ+N+PxSg1+Pl+Lat: мӱэмвлӓэш # käytä toinen var: мӱвлӓэшем
+#     мӱ+N+PxSg1+Pl+Comp: [мӱвлӓэмлӓ, мӱвлӓлӓэм, мӱэмвлӓлӓ]
+     мӱ+N+Pl+PxSg1+Comp: мӱвлӓэмлӓ
+     мӱ+N+Pl+Comp+PxSg1: мӱвлӓлӓэм
+     мӱ+N+PxSg1+Pl+Comp: мӱэмвлӓлӓ # käytä toinen var: мӱвлӓлӓэм
+#     мӱ+N+PxSg1+Pl+Abe: [мӱвлӓэмде, мӱэмвлӓде]
+     мӱ+N+Pl+PxSg1+Abe: мӱвлӓэмде
+     мӱ+N+PxSg1+Pl+Abe: мӱэмвлӓде
+#мӱэт, мӱэтшӹ, 
+#мӱжы, 
+
