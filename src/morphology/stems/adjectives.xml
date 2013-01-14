@@ -77,7 +77,19 @@
       </m>
 
       <tg lang="fin">
-        <t>suopea, myötämielinen; innostava</t>
+        <t>myötämielinen</t>
+
+        <tCtn>
+          <t pos="A">suopea</t>
+
+          <re>ihminen</re>
+        </tCtn>
+
+        <tCtn>
+          <t>innostava</t>
+
+          <re/>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -103,7 +115,19 @@
       </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="A">hedelmällinen</t>
+
+        <tCtn>
+          <t pos="A">väkevä</t>
+
+          <re>maaperä</re>
+        </tCtn>
+
+        <tCtn>
+          <t pos="A">ujo</t>
+
+          <re>ihminen</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -180,8 +204,14 @@
         <defNative/>
       </m>
 
-      <tg>
-        <t/>
+      <tg lang="fin">
+        <t>voikko ???</t>
+
+        <tCtn>
+          <t>hiirakko ???</t>
+
+          <re>hevonen</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -201,13 +231,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <register register="motherese"/>
+        </head>
 
-        <defNative/>
+        <defNative>цевер</defNative>
       </m>
 
-      <tg>
-        <t/>
+      <tg lang="fin">
+        <t>kaunis</t>
       </tg>
     </mg>
   </e>
@@ -227,13 +259,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <register register="conversation"/>
+        </head>
 
-        <defNative/>
+        <defNative>кы•штышы-ӓня•т</defNative>
       </m>
 
-      <tg>
-        <t/>
+      <tg lang="fin">
+        <t>mistä tahansa oleva; minkälainen tahansa</t>
       </tg>
     </mg>
   </e>
@@ -253,13 +287,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <register register="conversation"/>
+        </head>
 
-        <defNative/>
+        <defNative>маха•ньы-ӓня•т</defNative>
       </m>
 
-      <tg>
-        <t/>
+      <tg lang="fin">
+        <t>minkälainen tahansa</t>
       </tg>
     </mg>
   </e>
@@ -279,13 +315,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <register register="conversation"/>
+        </head>
 
-        <defNative/>
+        <defNative>маха•ньы-ӓня•т</defNative>
       </m>
 
-      <tg>
-        <t/>
+      <tg lang="fin">
+        <t>minkälainen tahansa</t>
       </tg>
     </mg>
   </e>
@@ -1272,8 +1310,8 @@
         <defNative/>
       </m>
 
-      <tg>
-        <t/>
+      <tg lang="fin">
+        <t pos="A">tuollainen</t>
       </tg>
     </mg>
   </e>
@@ -1298,8 +1336,8 @@
         <defNative/>
       </m>
 
-      <tg>
-        <t/>
+      <tg lang="fin">
+        <t>sikäläinen</t>
       </tg>
     </mg>
   </e>
@@ -1324,8 +1362,8 @@
         <defNative/>
       </m>
 
-      <tg>
-        <t/>
+      <tg lang="fin">
+        <t>mikä tahansa, minkälainen tahansa</t>
       </tg>
     </mg>
   </e>
@@ -1350,8 +1388,8 @@
         <defNative/>
       </m>
 
-      <tg>
-        <t/>
+      <tg lang="fin">
+        <t>mikä tahansa, minkälainen tahansa</t>
       </tg>
     </mg>
   </e>
@@ -1402,8 +1440,8 @@
         <defNative/>
       </m>
 
-      <tg>
-        <t/>
+      <tg lang="fin">
+        <t>iloinen</t>
       </tg>
     </mg>
   </e>
@@ -7018,8 +7056,8 @@
         <defNative/>
       </m>
 
-      <tg>
-        <t/>
+      <tg lang="fin">
+        <t>amerikkalainen</t>
       </tg>
     </mg>
   </e>
