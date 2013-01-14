@@ -1,0 +1,61 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Noun - комбы: # Noun 'гусъ'
+     комбы+N+Sg+Nom: комбы
+     комбы+N+Sg+Gen: комбын
+     комбы+N+Sg+Acc: комбым
+     комбы+N+Sg+Com: комбыге
+     комбы+N+Sg+Dat: комбылан
+     комбы+N+Sg+Ine: комбышты
+     комбы+N+Sg+Ill: комбышкы
+     комбы+N+Sg+Lat: комбеш
+     комбы+N+Sg+Comp: комбыла
+     комбы+N+Sg+Abe: комбыде
+     комбы+N+Pl+Nom: комбывлӓ
+     комбы+N+Pl+Gen: комбывлӓн
+     комбы+N+Pl+Acc: комбывлӓм
+     комбы+N+Pl+Com: комбывлӓге
+     комбы+N+Pl+Dat: комбывлӓлӓн
+     комбы+N+Pl+Ine: комбывлӓштӹ
+     комбы+N+Pl+Ill: комбывлӓшкӹ
+     комбы+N+Pl+Lat: комбывлӓш
+     комбы+N+Pl+Comp: комбывлӓлӓ
+     комбы+N+Pl+Abe: комбывлӓде
+
+     комбы+N+PxSg1+Sg+Nom: [комбем, комбэм] # х2 комбыэмжӹ
+     комбы+N+PxSg1+Sg+Gen: комбемӹн
+     комбы+N+PxSg1+Sg+Acc: комбемӹм
+     комбы+N+PxSg1+Sg+Com: комбемге
+     комбы+N+PxSg1+Sg+Dat: комбемлӓн
+     комбы+N+PxSg1+Sg+Ine: комбыштем
+     комбы+N+PxSg1+Sg+Ill: комбышкем
+     комбы+N+PxSg1+Sg+Lat: комбешем
+     комбы+N+PxSg1+Sg+Comp: [комбылаэм, комбeмлӓ] 
+     комбы+N+PxSg1+Sg+Abe: [комбыдеэм, комбэмде] 
+     комбы+N+PxSg1+Pl+Nom: [комбывлӓэм, комбемвлӓ, комбыэмвлӓ] # х3
+     комбы+N+PxSg1+Pl+Gen: комбыэмвлӓн
+     комбы+N+PxSg1+Pl+Acc: комбыэмвлӓм
+     комбы+N+PxSg1+Pl+Com: [комбывлӓэмге, комбыэмвлӓге]
+     комбы+N+PxSg1+Pl+Dat: [комбывлӓэмлӓн, комбывлӓлӓнем, комбыэмвлӓлӓн]
+     комбы+N+PxSg1+Pl+Ine: [комбывлӓштем, комбыэмвлӓштӹ] 
+     комбы+N+PxSg1+Pl+Ill: [комбывлӓшкем, комбыэмвлӓшкӹ]
+     комбы+N+PxSg1+Pl+Lat: [комбывлӓэшем, комбыэмвлӓэш]
+     комбы+N+PxSg1+Pl+Comp: [комбывлӓэмлӓ, комбывлӓлӓэм, комбыэмвлӓлӓ]
+     комбы+N+PxSg1+Pl+Abe: [комбывлӓэмде, комбывлӓэмде, комбыэмвлӓде]
+#комбыт, комбыэт, комбыэтшӹ, 
+#комбыжы, 
+
