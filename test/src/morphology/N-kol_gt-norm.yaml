@@ -42,9 +42,9 @@ Tests:
      кол+N+PxSg1+Sg+Acc: колемӹм
      кол+N+PxSg1+Sg+Com: колемге
      кол+N+PxSg1+Sg+Dat: колемлӓн
-     кол+N+PxSg1+Sg+Ine: колыштем
-     кол+N+PxSg1+Sg+Ill: колышкем
-     кол+N+PxSg1+Sg+Lat: колешем
+     кол+N+Sg+Ine+PxSg1: колыштем
+     кол+N+Sg+Ill+PxSg1: колышкем
+     кол+N+Sg+Lat+PxSg1: колешем
 #     кол+N+PxSg1+Sg+Comp: [коллаэм, колемлӓ] 
      кол+N+Sg+Comp+PxSg1: коллаэм 
      кол+N+PxSg1+Sg+Comp: колемлӓ 
@@ -61,7 +61,7 @@ Tests:
 #     кол+N+PxSg1+Pl+Dat: [колвлӓэмлӓн, колвлӓлӓнем, колeмвлӓлӓ]
      кол+N+Pl+PxSg1+Dat: колвлӓэмлӓн
      кол+N+Pl+Dat+PxSg1: колвлӓлӓнем
-     кол+N+PxSg1+Pl+Dat: колeмвлӓлӓ
+     кол+N+PxSg1+Pl+Dat: колeмвлӓлӓн
 # Is this usage or morphology?
 #     кол+N+PxSg1+Pl+Ine: [колвлӓштем, колeмвлӓштӹ] 
 #     кол+N+PxSg1+Pl+Ill: [колвлӓшкем, колeмвлӓшкӹ]
