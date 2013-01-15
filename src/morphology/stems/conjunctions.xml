@@ -2,83 +2,7 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <e>
-      <lg>
-         <l>седӹндон</l>
-         <stg>
-            <st Contlex="ConjTag">седӹндон</st>
-         </stg>
-         <stress>се•дӹндон</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>седӹндоно</l>
-         <stg>
-            <st Contlex="ConjTag">седӹндоно</st>
-         </stg>
-         <stress>се•дӹндоно</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>тӹндон</l>
-         <stg>
-            <st Contlex="ConjTag">тӹндон</st>
-         </stg>
-         <stress>тӹ•ндон</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>﻿а</l>
-         <stg>
-            <st Contlex="ConjTag">﻿а</st>
-         </stg>
-         <stress>﻿а</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>ато</l>
          <stg>
@@ -92,297 +16,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>ӓли</l>
-         <stg>
-            <st Contlex="ConjTag">ӓли</st>
-         </stg>
-         <stress>ӓ•ли</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ӓль</l>
-         <stg>
-            <st Contlex="ConjTag">ӓль</st>
-         </stg>
-         <stress>ӓль</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>дон</l>
-         <stg>
-            <st Contlex="Cc">дон</st>
-         </stg>
-         <stress>дон</stress>
-      </lg>
-      <pos>CC</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t>ja</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>зато</l>
-         <stg>
-            <st Contlex="ConjTag">зато</st>
-         </stg>
-         <stress>зато•</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ито</l>
-         <stg>
-            <st Contlex="ConjTag">ито</st>
-         </stg>
-         <stress>ито•</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>льывы</l>
-         <stg>
-            <st Contlex="ConjTag">льывы</st>
-         </stg>
-         <stress>льы•вы</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>манын</l>
-         <stg>
-            <st Contlex="ConjTag">манын</st>
-         </stg>
-         <stress>ма•нын</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ни</l>
-         <stg>
-            <st Contlex="ConjTag">ни</st>
-         </stg>
-         <stress>ни</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>но</l>
-         <stg>
-            <st Contlex="ConjTag">но</st>
-         </stg>
-         <stress>но</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>потомушто</l>
-         <stg>
-            <st Contlex="ConjTag">потомушто</st>
-         </stg>
-         <stress>потому•што</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>тӓ</l>
-         <stg>
-            <st Contlex="ConjTag">тӓ</st>
-         </stg>
-         <stress>тӓ</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>только</l>
-         <stg>
-            <st Contlex="ConjTag">только</st>
-         </stg>
-         <stress>то•лько</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>тоты</l>
-         <stg>
-            <st Contlex="ConjTag">тоты</st>
-         </stg>
-         <stress>то•ты</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>хоть</l>
-         <stg>
-            <st Contlex="Cs">хоть</st>
-         </stg>
-         <stress>хоть</stress>
-      </lg>
-      <pos>CS</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ылгецӹ</l>
-         <stg>
-            <st Contlex="ConjTag">ылгецӹ</st>
-         </stg>
-         <stress>ылге•цӹ</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>вет</l>
          <stg>
@@ -396,12 +35,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>вуйта</l>
          <stg>
@@ -415,12 +54,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>гӹнь</l>
          <stg>
@@ -434,12 +73,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>гӹньӹ</l>
          <stg>
@@ -453,12 +92,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>гӹнят</l>
          <stg>
@@ -472,18 +111,18 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
-         <l>дӓ</l>
+         <l>дон</l>
          <stg>
-            <st Contlex="Cc">дӓ</st>
+            <st Contlex="Cc">дон</st>
          </stg>
-         <stress>дӓ</stress>
+         <stress>дон</stress>
       </lg>
       <pos>CC</pos>
       <mg>
@@ -491,12 +130,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t>ja</t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>дык</l>
          <stg>
@@ -510,12 +149,69 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>дӓ</l>
+         <stg>
+            <st Contlex="Cc">дӓ</st>
+         </stg>
+         <stress>дӓ</stress>
+      </lg>
+      <pos>CC</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>зато</l>
+         <stg>
+            <st Contlex="ConjTag">зато</st>
+         </stg>
+         <stress>зато•</stress>
+      </lg>
+      <pos>CONJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>ито</l>
+         <stg>
+            <st Contlex="ConjTag">ито</st>
+         </stg>
+         <stress>ито•</stress>
+      </lg>
+      <pos>CONJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>керек</l>
          <stg>
@@ -529,7 +225,311 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>льывы</l>
+         <stg>
+            <st Contlex="ConjTag">льывы</st>
+         </stg>
+         <stress>льы•вы</stress>
+      </lg>
+      <pos>CONJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>манын</l>
+         <stg>
+            <st Contlex="ConjTag">манын</st>
+         </stg>
+         <stress>ма•нын</stress>
+      </lg>
+      <pos>CONJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>ни</l>
+         <stg>
+            <st Contlex="ConjTag">ни</st>
+         </stg>
+         <stress>ни</stress>
+      </lg>
+      <pos>CONJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>но</l>
+         <stg>
+            <st Contlex="ConjTag">но</st>
+         </stg>
+         <stress>но</stress>
+      </lg>
+      <pos>CONJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>потомушто</l>
+         <stg>
+            <st Contlex="ConjTag">потомушто</st>
+         </stg>
+         <stress>потому•што</stress>
+      </lg>
+      <pos>CONJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>седӹндон</l>
+         <stg>
+            <st Contlex="ConjTag">седӹндон</st>
+         </stg>
+         <stress>се•дӹндон</stress>
+      </lg>
+      <pos>CONJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>седӹндоно</l>
+         <stg>
+            <st Contlex="ConjTag">седӹндоно</st>
+         </stg>
+         <stress>се•дӹндоно</stress>
+      </lg>
+      <pos>CONJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>только</l>
+         <stg>
+            <st Contlex="ConjTag">только</st>
+         </stg>
+         <stress>то•лько</stress>
+      </lg>
+      <pos>CONJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>тоты</l>
+         <stg>
+            <st Contlex="ConjTag">тоты</st>
+         </stg>
+         <stress>то•ты</stress>
+      </lg>
+      <pos>CONJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>тӓ</l>
+         <stg>
+            <st Contlex="ConjTag">тӓ</st>
+         </stg>
+         <stress>тӓ</stress>
+      </lg>
+      <pos>CONJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>тӹндон</l>
+         <stg>
+            <st Contlex="ConjTag">тӹндон</st>
+         </stg>
+         <stress>тӹ•ндон</stress>
+      </lg>
+      <pos>CONJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>хоть</l>
+         <stg>
+            <st Contlex="Cs">хоть</st>
+         </stg>
+         <stress>хоть</stress>
+      </lg>
+      <pos>CS</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>ылгецӹ</l>
+         <stg>
+            <st Contlex="ConjTag">ылгецӹ</st>
+         </stg>
+         <stress>ылге•цӹ</stress>
+      </lg>
+      <pos>CONJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>ӓли</l>
+         <stg>
+            <st Contlex="ConjTag">ӓли</st>
+         </stg>
+         <stress>ӓ•ли</stress>
+      </lg>
+      <pos>CONJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>ӓль</l>
+         <stg>
+            <st Contlex="ConjTag">ӓль</st>
+         </stg>
+         <stress>ӓль</stress>
+      </lg>
+      <pos>CONJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>﻿а</l>
+         <stg>
+            <st Contlex="ConjTag">﻿а</st>
+         </stg>
+         <stress>﻿а</stress>
+      </lg>
+      <pos>CONJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>

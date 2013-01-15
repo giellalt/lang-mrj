@@ -2,102 +2,7 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <e>
-      <lg>
-         <l>караул</l>
-         <stg>
-            <st Contlex="InterjTag">караул</st>
-         </stg>
-         <stress>карау•л</stress>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ӓлдӓ</l>
-         <stg>
-            <st Contlex="InterjTag">ӓлдӓ</st>
-         </stg>
-         <stress>ӓ•лдӓ</stress>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ӓлдӓдӓ</l>
-         <stg>
-            <st Contlex="InterjTag">ӓлдӓдӓ</st>
-         </stg>
-         <stress>ӓлдӓ•дӓ</stress>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>нӓ</l>
-         <stg>
-            <st Contlex="InterjTag">нӓ</st>
-         </stg>
-         <stress>нӓ</stress>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>нӓӓй</l>
-         <stg>
-            <st Contlex="InterjTag">нӓӓй</st>
-         </stg>
-         <stress>нӓӓй</stress>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>а</l>
          <stg>
@@ -111,12 +16,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ага</l>
          <stg>
@@ -130,12 +35,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ай</l>
          <stg>
@@ -149,12 +54,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>алло</l>
          <stg>
@@ -168,12 +73,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>альок</l>
          <stg>
@@ -187,12 +92,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>атат</l>
          <stg>
@@ -206,12 +111,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>батюшки</l>
          <stg>
@@ -225,12 +130,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>йывылдик</l>
          <stg>
@@ -244,12 +149,31 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>караул</l>
+         <stg>
+            <st Contlex="InterjTag">караул</st>
+         </stg>
+         <stress>карау•л</stress>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>кӹш</l>
          <stg>
@@ -263,12 +187,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>макар</l>
          <stg>
@@ -282,31 +206,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>мотрӓй</l>
-         <stg>
-            <st Contlex="InterjTag">мотрӓй</st>
-         </stg>
-         <stress>мотрӓй</stress>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>мотри</l>
          <stg>
@@ -320,12 +225,50 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>мотрӓй</l>
+         <stg>
+            <st Contlex="InterjTag">мотрӓй</st>
+         </stg>
+         <stress>мотрӓй</stress>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>нӓ</l>
+         <stg>
+            <st Contlex="InterjTag">нӓ</st>
+         </stg>
+         <stress>нӓ</stress>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>нӓмӓ</l>
          <stg>
@@ -339,18 +282,18 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
-         <l>пӧчӧк</l>
+         <l>нӓӓй</l>
          <stg>
-            <st Contlex="InterjTag">пӧчӧк</st>
+            <st Contlex="InterjTag">нӓӓй</st>
          </stg>
-         <stress>пӧ•чӧк</stress>
+         <stress>нӓӓй</stress>
       </lg>
       <pos>INTERJ</pos>
       <mg>
@@ -358,12 +301,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>пыйца</l>
          <stg>
@@ -377,12 +320,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>пытьыри</l>
          <stg>
@@ -396,12 +339,31 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>пӧчӧк</l>
+         <stg>
+            <st Contlex="InterjTag">пӧчӧк</st>
+         </stg>
+         <stress>пӧ•чӧк</stress>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>роккаляге</l>
          <stg>
@@ -415,12 +377,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>сӧ</l>
          <stg>
@@ -434,12 +396,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>сӧвичӹ</l>
          <stg>
@@ -453,12 +415,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>сӧгуды</l>
          <stg>
@@ -472,12 +434,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>сӧдӱгӹ</l>
          <stg>
@@ -491,12 +453,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>сӱнзӹ</l>
          <stg>
@@ -510,12 +472,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тига</l>
          <stg>
@@ -529,12 +491,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тырлай</l>
          <stg>
@@ -548,12 +510,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тырлай-итӓй</l>
          <stg>
@@ -567,12 +529,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>чук-чук</l>
          <stg>
@@ -586,12 +548,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>чур</l>
          <stg>
@@ -605,12 +567,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ша</l>
          <stg>
@@ -624,12 +586,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>шабаш</l>
          <stg>
@@ -643,12 +605,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>шатын</l>
          <stg>
@@ -662,12 +624,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>шеремет</l>
          <stg>
@@ -681,12 +643,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>шӹл</l>
          <stg>
@@ -700,31 +662,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>ӹш-ш</l>
-         <stg>
-            <st Contlex="InterjTag">ӹш-ш</st>
-         </stg>
-         <stress>ӹш-ш</stress>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>эр-эр</l>
          <stg>
@@ -738,7 +681,64 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>ӓлдӓ</l>
+         <stg>
+            <st Contlex="InterjTag">ӓлдӓ</st>
+         </stg>
+         <stress>ӓ•лдӓ</stress>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>ӓлдӓдӓ</l>
+         <stg>
+            <st Contlex="InterjTag">ӓлдӓдӓ</st>
+         </stg>
+         <stress>ӓлдӓ•дӓ</stress>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>ӹш-ш</l>
+         <stg>
+            <st Contlex="InterjTag">ӹш-ш</st>
+         </stg>
+         <stress>ӹш-ш</stress>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
