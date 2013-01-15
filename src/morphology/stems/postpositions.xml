@@ -2,13 +2,13 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <e>
+  <e>
       <lg>
-         <l>вӓреш</l>
+         <l>ваштареш</l>
          <stg>
-            <st Contlex="PostpTag">вӓреш</st>
+            <st Contlex="PostpTag">ваштареш</st>
          </stg>
-         <stress>вӓ•реш</stress>
+         <stress>вашта•реш</stress>
       </lg>
       <pos>POSTP</pos>
       <mg>
@@ -16,12 +16,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>век</l>
          <stg>
@@ -35,50 +35,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>велӓ</l>
-         <stg>
-            <st Contlex="PostpTag">велӓ</st>
-         </stg>
-         <stress>ве•лӓ</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>велӓн</l>
-         <stg>
-            <st Contlex="PostpTag">велӓн</st>
-         </stg>
-         <stress>ве•лӓн</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>велдӹк</l>
          <stg>
@@ -92,12 +54,50 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>велӓ</l>
+         <stg>
+            <st Contlex="PostpTag">велӓ</st>
+         </stg>
+         <stress>ве•лӓ</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>велӓн</l>
+         <stg>
+            <st Contlex="PostpTag">велӓн</st>
+         </stg>
+         <stress>ве•лӓн</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>верц</l>
          <stg>
@@ -111,12 +111,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>верцӹн</l>
          <stg>
@@ -130,12 +130,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>вец</l>
          <stg>
@@ -149,12 +149,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>вецӹн</l>
          <stg>
@@ -168,12 +168,31 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>воктен</l>
+         <stg>
+            <st Contlex="PostpTag">воктен</st>
+         </stg>
+         <stress>во•ктен</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>вуя</l>
          <stg>
@@ -187,12 +206,145 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>вӓреш</l>
+         <stg>
+            <st Contlex="PostpTag">вӓреш</st>
+         </stg>
+         <stress>вӓ•реш</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>вӹкӹ</l>
+         <stg>
+            <st Contlex="PostpTag">вӹкӹ</st>
+         </stg>
+         <stress>вӹ•кӹ</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>вӹкӹлӓ</l>
+         <stg>
+            <st Contlex="PostpTag">вӹкӹлӓ</st>
+         </stg>
+         <stress>вӹ•кӹлӓ</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>вӹлец</l>
+         <stg>
+            <st Contlex="PostpTag">вӹлец</st>
+         </stg>
+         <stress>вӹле•ц</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>вӹлкӹ</l>
+         <stg>
+            <st Contlex="PostpTag">вӹлкӹ</st>
+         </stg>
+         <stress>вӹ•лкӹ</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>вӹлнӹ</l>
+         <stg>
+            <st Contlex="PostpTag">вӹлнӹ</st>
+         </stg>
+         <stress>вӹ•лнӹ</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>вӹлӓн</l>
+         <stg>
+            <st Contlex="PostpTag">вӹлӓн</st>
+         </stg>
+         <stress>вӹ•лӓн</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>гань</l>
          <stg>
@@ -206,12 +358,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ганьок</l>
          <stg>
@@ -225,12 +377,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ганьы</l>
          <stg>
@@ -244,12 +396,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>гач</l>
          <stg>
@@ -263,12 +415,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>гишӓн</l>
          <stg>
@@ -282,12 +434,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>годшен</l>
          <stg>
@@ -301,12 +453,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>годым</l>
          <stg>
@@ -320,12 +472,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>гӹц</l>
          <stg>
@@ -339,12 +491,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>гӹцӹн</l>
          <stg>
@@ -358,31 +510,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>дӓнгӹнь</l>
-         <stg>
-            <st Contlex="PostpTag">дӓнгӹнь</st>
-         </stg>
-         <stress>дӓ•нгӹнь</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>докы</l>
          <stg>
@@ -396,12 +529,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>доно</l>
          <stg>
@@ -416,12 +549,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t>kanssa</t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>доны</l>
          <stg>
@@ -435,12 +568,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>доран</l>
          <stg>
@@ -454,12 +587,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>дорц</l>
          <stg>
@@ -473,12 +606,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>дорцын</l>
          <stg>
@@ -492,12 +625,31 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>дӓнгӹнь</l>
+         <stg>
+            <st Contlex="PostpTag">дӓнгӹнь</st>
+         </stg>
+         <stress>дӓ•нгӹнь</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>йӹде</l>
          <stg>
@@ -511,677 +663,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>кытлашты</l>
-         <stg>
-            <st Contlex="PostpTag">кытлашты</st>
-         </stg>
-         <stress>кытла•шты</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>лошкы</l>
-         <stg>
-            <st Contlex="PostpTag">лошкы</st>
-         </stg>
-         <stress>ло•шкы</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>лошты</l>
-         <stg>
-            <st Contlex="PostpTag">лошты</st>
-         </stg>
-         <stress>ло•шты</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>лоэш</l>
-         <stg>
-            <st Contlex="PostpTag">лоэш</st>
-         </stg>
-         <stress>лоэ•ш</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>лӹмеш</l>
-         <stg>
-            <st Contlex="PostpTag">лӹмеш</st>
-         </stg>
-         <stress>лӹ•меш</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мӱнкӧ</l>
-         <stg>
-            <st Contlex="PostpTag">мӱнкӧ</st>
-         </stg>
-         <stress>мӱнкӧ</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мыч</l>
-         <stg>
-            <st Contlex="PostpTag">мыч</st>
-         </stg>
-         <stress>мы•ч</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мычец</l>
-         <stg>
-            <st Contlex="PostpTag">мычец</st>
-         </stg>
-         <stress>мыче•ц</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мычкы</l>
-         <stg>
-            <st Contlex="PostpTag">мычкы</st>
-         </stg>
-         <stress>мы•чкы</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мычны</l>
-         <stg>
-            <st Contlex="PostpTag">мычны</st>
-         </stg>
-         <stress>мы•чны</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мычыц</l>
-         <stg>
-            <st Contlex="PostpTag">мычыц</st>
-         </stg>
-         <stress>мы•чыц</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>нӓрӹ</l>
-         <stg>
-            <st Contlex="PostpTag">нӓрӹ</st>
-         </stg>
-         <stress>нӓ•рӹ</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>пелен</l>
-         <stg>
-            <st Contlex="PostpTag">пелен</st>
-         </stg>
-         <stress>пе•лен</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>семӹнь</l>
-         <stg>
-            <st Contlex="PostpTag">семӹнь</st>
-         </stg>
-         <stress>се•мӹнь</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>сылны</l>
-         <stg>
-            <st Contlex="PostpTag">сылны</st>
-         </stg>
-         <stress>сы•лны</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>темӹнь</l>
-         <stg>
-            <st Contlex="PostpTag">темӹнь</st>
-         </stg>
-         <stress>те•мӹнь</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>тервен</l>
-         <stg>
-            <st Contlex="PostpTag">тервен</st>
-         </stg>
-         <stress>те•рвен</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>туре</l>
-         <stg>
-            <st Contlex="PostpTag">туре</st>
-         </stg>
-         <stress>ту•ре</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>турешкӹ</l>
-         <stg>
-            <st Contlex="PostpTag">турешкӹ</st>
-         </stg>
-         <stress>туре•шкӹ</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>турешты</l>
-         <stg>
-            <st Contlex="PostpTag">турешты</st>
-         </stg>
-         <stress>турешты</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>утла</l>
-         <stg>
-            <st Contlex="PostpTag">утла</st>
-         </stg>
-         <stress>утла•</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>шагышеш</l>
-         <stg>
-            <st Contlex="PostpTag">шагышеш</st>
-         </stg>
-         <stress>шагы•шеш</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>шакшеш</l>
-         <stg>
-            <st Contlex="PostpTag">шакшеш</st>
-         </stg>
-         <stress>ша•кшеш</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>шот</l>
-         <stg>
-            <st Contlex="PostpTag">шот</st>
-         </stg>
-         <stress>шот</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>шотеш</l>
-         <stg>
-            <st Contlex="PostpTag">шотеш</st>
-         </stg>
-         <stress>шотеш</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>шотышты</l>
-         <stg>
-            <st Contlex="PostpTag">шотышты</st>
-         </stg>
-         <stress>шо•тышты</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>якте</l>
-         <stg>
-            <st Contlex="PostpTag">якте</st>
-         </stg>
-         <stress>я•кте</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ваштареш</l>
-         <stg>
-            <st Contlex="PostpTag">ваштареш</st>
-         </stg>
-         <stress>вашта•реш</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>воктен</l>
-         <stg>
-            <st Contlex="PostpTag">воктен</st>
-         </stg>
-         <stress>во•ктен</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вӹкӹ</l>
-         <stg>
-            <st Contlex="PostpTag">вӹкӹ</st>
-         </stg>
-         <stress>вӹ•кӹ</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вӹкӹлӓ</l>
-         <stg>
-            <st Contlex="PostpTag">вӹкӹлӓ</st>
-         </stg>
-         <stress>вӹ•кӹлӓ</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вӹлӓн</l>
-         <stg>
-            <st Contlex="PostpTag">вӹлӓн</st>
-         </stg>
-         <stress>вӹ•лӓн</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вӹлец</l>
-         <stg>
-            <st Contlex="PostpTag">вӹлец</st>
-         </stg>
-         <stress>вӹле•ц</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вӹлкӹ</l>
-         <stg>
-            <st Contlex="PostpTag">вӹлкӹ</st>
-         </stg>
-         <stress>вӹ•лкӹ</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вӹлнӹ</l>
-         <stg>
-            <st Contlex="PostpTag">вӹлнӹ</st>
-         </stg>
-         <stress>вӹ•лнӹ</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>йӹр</l>
          <stg>
@@ -1195,12 +682,31 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>кытлашты</l>
+         <stg>
+            <st Contlex="PostpTag">кытлашты</st>
+         </stg>
+         <stress>кытла•шты</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>лишнӹ</l>
          <stg>
@@ -1214,12 +720,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>логӹц</l>
          <stg>
@@ -1233,18 +739,18 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
-         <l>лӹвӓк</l>
+         <l>лошкы</l>
          <stg>
-            <st Contlex="PostpTag">лӹвӓк</st>
+            <st Contlex="PostpTag">лошкы</st>
          </stg>
-         <stress>лӹвӓ•к</stress>
+         <stress>ло•шкы</stress>
       </lg>
       <pos>POSTP</pos>
       <mg>
@@ -1252,18 +758,18 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
-         <l>лӹвӓкӹ</l>
+         <l>лошты</l>
          <stg>
-            <st Contlex="PostpTag">лӹвӓкӹ</st>
+            <st Contlex="PostpTag">лошты</st>
          </stg>
-         <stress>лӹвӓ•кӹ</stress>
+         <stress>ло•шты</stress>
       </lg>
       <pos>POSTP</pos>
       <mg>
@@ -1271,18 +777,18 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
-         <l>лӹвӓлӓн</l>
+         <l>лоэш</l>
          <stg>
-            <st Contlex="PostpTag">лӹвӓлӓн</st>
+            <st Contlex="PostpTag">лоэш</st>
          </stg>
-         <stress>лӹвӓ•лӓн</stress>
+         <stress>лоэ•ш</stress>
       </lg>
       <pos>POSTP</pos>
       <mg>
@@ -1290,69 +796,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>лӹвӓлнӹ</l>
-         <stg>
-            <st Contlex="PostpTag">лӹвӓлнӹ</st>
-         </stg>
-         <stress>лӹвӓ•лнӹ</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>лӹвӓц</l>
-         <stg>
-            <st Contlex="PostpTag">лӹвӓц</st>
-         </stg>
-         <stress>лӹвӓ•ц</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>лӹвӓцӹн</l>
-         <stg>
-            <st Contlex="PostpTag">лӹвӓцӹн</st>
-         </stg>
-         <stress>лӹвӓ•цӹн</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>лӹвец</l>
          <stg>
@@ -1366,12 +815,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лӹвецӹн</l>
          <stg>
@@ -1385,12 +834,278 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>лӹвӓк</l>
+         <stg>
+            <st Contlex="PostpTag">лӹвӓк</st>
+         </stg>
+         <stress>лӹвӓ•к</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>лӹвӓкӹ</l>
+         <stg>
+            <st Contlex="PostpTag">лӹвӓкӹ</st>
+         </stg>
+         <stress>лӹвӓ•кӹ</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>лӹвӓлнӹ</l>
+         <stg>
+            <st Contlex="PostpTag">лӹвӓлнӹ</st>
+         </stg>
+         <stress>лӹвӓ•лнӹ</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>лӹвӓлӓн</l>
+         <stg>
+            <st Contlex="PostpTag">лӹвӓлӓн</st>
+         </stg>
+         <stress>лӹвӓ•лӓн</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>лӹвӓц</l>
+         <stg>
+            <st Contlex="PostpTag">лӹвӓц</st>
+         </stg>
+         <stress>лӹвӓ•ц</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>лӹвӓцӹн</l>
+         <stg>
+            <st Contlex="PostpTag">лӹвӓцӹн</st>
+         </stg>
+         <stress>лӹвӓ•цӹн</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>лӹмеш</l>
+         <stg>
+            <st Contlex="PostpTag">лӹмеш</st>
+         </stg>
+         <stress>лӹ•меш</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>мыч</l>
+         <stg>
+            <st Contlex="PostpTag">мыч</st>
+         </stg>
+         <stress>мы•ч</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>мычец</l>
+         <stg>
+            <st Contlex="PostpTag">мычец</st>
+         </stg>
+         <stress>мыче•ц</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>мычкы</l>
+         <stg>
+            <st Contlex="PostpTag">мычкы</st>
+         </stg>
+         <stress>мы•чкы</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>мычны</l>
+         <stg>
+            <st Contlex="PostpTag">мычны</st>
+         </stg>
+         <stress>мы•чны</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>мычыц</l>
+         <stg>
+            <st Contlex="PostpTag">мычыц</st>
+         </stg>
+         <stress>мы•чыц</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>мӱнкӧ</l>
+         <stg>
+            <st Contlex="PostpTag">мӱнкӧ</st>
+         </stg>
+         <stress>мӱнкӧ</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>нӓрӹ</l>
+         <stg>
+            <st Contlex="PostpTag">нӓрӹ</st>
+         </stg>
+         <stress>нӓ•рӹ</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>паштек</l>
          <stg>
@@ -1404,12 +1119,31 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>пелен</l>
+         <stg>
+            <st Contlex="PostpTag">пелен</st>
+         </stg>
+         <stress>пе•лен</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>сага</l>
          <stg>
@@ -1423,12 +1157,183 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>семӹнь</l>
+         <stg>
+            <st Contlex="PostpTag">семӹнь</st>
+         </stg>
+         <stress>се•мӹнь</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>сылны</l>
+         <stg>
+            <st Contlex="PostpTag">сылны</st>
+         </stg>
+         <stress>сы•лны</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>темӹнь</l>
+         <stg>
+            <st Contlex="PostpTag">темӹнь</st>
+         </stg>
+         <stress>те•мӹнь</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>тервен</l>
+         <stg>
+            <st Contlex="PostpTag">тервен</st>
+         </stg>
+         <stress>те•рвен</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>туре</l>
+         <stg>
+            <st Contlex="PostpTag">туре</st>
+         </stg>
+         <stress>ту•ре</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>турешкӹ</l>
+         <stg>
+            <st Contlex="PostpTag">турешкӹ</st>
+         </stg>
+         <stress>туре•шкӹ</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>турешты</l>
+         <stg>
+            <st Contlex="PostpTag">турешты</st>
+         </stg>
+         <stress>турешты</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>утла</l>
+         <stg>
+            <st Contlex="PostpTag">утла</st>
+         </stg>
+         <stress>утла•</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>шагышеш</l>
+         <stg>
+            <st Contlex="PostpTag">шагышеш</st>
+         </stg>
+         <stress>шагы•шеш</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>шайык</l>
          <stg>
@@ -1442,12 +1347,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>шайыкы</l>
          <stg>
@@ -1461,12 +1366,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>шайылан</l>
          <stg>
@@ -1480,12 +1385,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>шайыц</l>
          <stg>
@@ -1499,12 +1404,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>шайыцын</l>
          <stg>
@@ -1518,7 +1423,102 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>шакшеш</l>
+         <stg>
+            <st Contlex="PostpTag">шакшеш</st>
+         </stg>
+         <stress>ша•кшеш</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>шот</l>
+         <stg>
+            <st Contlex="PostpTag">шот</st>
+         </stg>
+         <stress>шот</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>шотеш</l>
+         <stg>
+            <st Contlex="PostpTag">шотеш</st>
+         </stg>
+         <stress>шотеш</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>шотышты</l>
+         <stg>
+            <st Contlex="PostpTag">шотышты</st>
+         </stg>
+         <stress>шо•тышты</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>якте</l>
+         <stg>
+            <st Contlex="PostpTag">якте</st>
+         </stg>
+         <stress>я•кте</stress>
+      </lg>
+      <pos>POSTP</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
             <t/>
          </tg>
       </mg>

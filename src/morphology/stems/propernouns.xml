@@ -1,271 +1,604 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <e>
-      <lg>
-         <l>Европа</l>
-         <stg>
-            <st Contlex="PropTag">Европа</st>
-         </stg>
-         <stress>Евро•па</stress>
-      </lg>
-      <pos>PROP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>Йыл</l>
-         <stg>
-            <st Contlex="PropTag">Йыл</st>
-         </stg>
-         <stress>Йыл</stress>
-      </lg>
-      <pos>PROP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>Йынгы</l>
-         <stg>
-            <st Contlex="PropTag">Йынгы</st>
-         </stg>
-         <stress>Йы•нгы</stress>
-      </lg>
-      <pos>PROP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>Москва</l>
-         <stg>
-            <st Contlex="PropTag">Москва</st>
-         </stg>
-         <stress>Москва</stress>
-      </lg>
-      <pos>PROP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>Россий</l>
-         <stg>
-            <st Contlex="PropTag">Россий</st>
-         </stg>
-         <stress>Росси•й</stress>
-      </lg>
-      <pos>PROP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>Санзара</l>
-         <stg>
-            <st Contlex="PropTag">Санзара</st>
-         </stg>
-         <stress>Санзара</stress>
-      </lg>
-      <pos>PROP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>Юхани</l>
-         <stg>
-            <st Contlex="PropTag">Юхани</st>
-         </stg>
-         <stress>Юхани</stress>
-      </lg>
-      <pos>PROP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>Аапо</l>
-         <stg>
-            <st Contlex="PropTag">Аапо</st>
-         </stg>
-         <stress>Аапо</stress>
-      </lg>
-      <pos>PROP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>Тимо</l>
-         <stg>
-            <st Contlex="PropTag">Тимо</st>
-         </stg>
-         <stress>Тимо</stress>
-      </lg>
-      <pos>PROP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>Сибирь</l>
-         <stg>
-            <st Contlex="PropTag">Сибирь</st>
-         </stg>
-         <stress>Сиби•рь</stress>
-      </lg>
-      <pos>PROP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>Цaрлaныш</l>
-         <stg>
-            <st Contlex="PropTag">Цaрлaныш</st>
-         </stg>
-         <stress>Цaрлaныш</stress>
-      </lg>
-      <pos>PROP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>Цӓрлӓ</l>
-         <stg>
-            <st Contlex="PropTag">Цӓрлӓ</st>
-         </stg>
-         <stress>Цӓ•рлӓ</stress>
-      </lg>
-      <pos>PROP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>Цикмӓ</l>
-         <stg>
-            <st Contlex="PropTag">Цикмӓ</st>
-         </stg>
-         <stress>Ци•кмӓ</stress>
-      </lg>
-      <pos>PROP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>Шавашӓнгӹр</l>
-         <stg>
-            <st Contlex="PropTag">Шавашӓнгӹр</st>
-         </stg>
-         <stress>Шавашӓнгӹр</stress>
-      </lg>
-      <pos>PROP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e>
+    <lg>
+      <l>Аапо</l>
+
+      <stg>
+        <st Contlex="PropTag">Аапо</st>
+      </stg>
+
+      <stress>Аапо</stress>
+    </lg>
+
+    <pos>PROP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="PROP"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Европа</l>
+
+      <stg>
+        <st Contlex="PropTag">Европа</st>
+      </stg>
+
+      <stress>Евро•па</stress>
+    </lg>
+
+    <pos>PROP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="PROP"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Ильин</l>
+
+      <stg>
+        <st Contlex="PropTag">Ильин</st>
+      </stg>
+
+      <stress>И•льин</stress>
+    </lg>
+
+    <pos>PROP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="PROP"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Йыл</l>
+
+      <stg>
+        <st Contlex="PropTag">Йыл</st>
+      </stg>
+
+      <stress>Йыл</stress>
+    </lg>
+
+    <pos>PROP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="PROP"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Йылымбал</l>
+
+      <stg>
+        <st Contlex="PropTag">Йылымбал</st>
+      </stg>
+
+      <stress>Йылы•мбал</stress>
+    </lg>
+
+    <pos>PROP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="PROP"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Йынгы</l>
+
+      <stg>
+        <st Contlex="PropTag">Йынгы</st>
+      </stg>
+
+      <stress>Йы•нгы</stress>
+    </lg>
+
+    <pos>PROP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="PROP"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Йӱрйӹ</l>
+
+      <stg>
+        <st Contlex="PropTag">Йӱрйӹ</st>
+      </stg>
+
+      <stress>Йӱ•рйӹ</stress>
+    </lg>
+
+    <pos>PROP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="PROP"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Казански</l>
+
+      <stg>
+        <st Contlex="PropTag">Казански</st>
+      </stg>
+
+      <stress>Каза•нски</stress>
+    </lg>
+
+    <pos>PROP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="PROP"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Курйы</l>
+
+      <stg>
+        <st Contlex="PropTag">Курйы</st>
+      </stg>
+
+      <stress>Ку•рйы</stress>
+    </lg>
+
+    <pos>PROP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="PROP"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Микольны</l>
+
+      <stg>
+        <st Contlex="PropTag">Микольны</st>
+      </stg>
+
+      <stress>Мико•льны</stress>
+    </lg>
+
+    <pos>PROP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="PROP"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Москва</l>
+
+      <stg>
+        <st Contlex="PropTag">Москва</st>
+      </stg>
+
+      <stress>Москва</stress>
+    </lg>
+
+    <pos>PROP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="PROP"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Пӹсӹрмӓн</l>
+
+      <stg>
+        <st Contlex="PropTag">Пӹсӹрмӓн</st>
+      </stg>
+
+      <stress>Пӹсӹ•рмӓн</stress>
+    </lg>
+
+    <pos>PROP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="PROP"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Россий</l>
+
+      <stg>
+        <st Contlex="PropTag">Россий</st>
+      </stg>
+
+      <stress>Росси•й</stress>
+    </lg>
+
+    <pos>PROP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="PROP"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Санзара</l>
+
+      <stg>
+        <st Contlex="PropTag">Санзара</st>
+      </stg>
+
+      <stress>Санзара</stress>
+    </lg>
+
+    <pos>PROP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="PROP"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Семӹк</l>
+
+      <stg>
+        <st Contlex="PropTag">Семӹк</st>
+      </stg>
+
+      <stress>Се•мӹк</stress>
+    </lg>
+
+    <pos>PROP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="PROP"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Сибирь</l>
+
+      <stg>
+        <st Contlex="PropTag">Сибирь</st>
+      </stg>
+
+      <stress>Сиби•рь</stress>
+    </lg>
+
+    <pos>PROP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="PROP"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Тимо</l>
+
+      <stg>
+        <st Contlex="PropTag">Тимо</st>
+      </stg>
+
+      <stress>Тимо</stress>
+    </lg>
+
+    <pos>PROP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="PROP"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Цaрлaныш</l>
+
+      <stg>
+        <st Contlex="PropTag">Цaрлaныш</st>
+      </stg>
+
+      <stress>Цaрлaныш</stress>
+    </lg>
+
+    <pos>PROP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="PROP"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Цикмӓ</l>
+
+      <stg>
+        <st Contlex="PropTag">Цикмӓ</st>
+      </stg>
+
+      <stress>Ци•кмӓ</stress>
+    </lg>
+
+    <pos>PROP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="PROP"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Цӓрлӓ</l>
+
+      <stg>
+        <st Contlex="PropTag">Цӓрлӓ</st>
+      </stg>
+
+      <stress>Цӓ•рлӓ</stress>
+    </lg>
+
+    <pos>PROP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="PROP"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Шавашӓнгӹр</l>
+
+      <stg>
+        <st Contlex="PropTag">Шавашӓнгӹр</st>
+      </stg>
+
+      <stress>Шавашӓнгӹр</stress>
+    </lg>
+
+    <pos>PROP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="PROP"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Шартял</l>
+
+      <stg>
+        <st Contlex="PropTag">Шартял</st>
+      </stg>
+
+      <stress>Ша•ртял</stress>
+    </lg>
+
+    <pos>PROP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="PROP"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>Юхани</l>
+
+      <stg>
+        <st Contlex="PropTag">Юхани</st>
+      </stg>
+
+      <stress>Юхани</stress>
+    </lg>
+
+    <pos>PROP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="PROP"/>
+      </tg>
+    </mg>
+  </e>
 </r>

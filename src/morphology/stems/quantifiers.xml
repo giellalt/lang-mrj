@@ -2,7 +2,140 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <e>
+  <e>
+      <lg>
+         <l>вӹзӹмшӹ</l>
+         <stg>
+            <st Contlex="NumTag">вӹзӹмшӹ</st>
+         </stg>
+         <stress>вӹзӹ•мшӹ</stress>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="NUM"></t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>вӹзӹт</l>
+         <stg>
+            <st Contlex="NumTag">вӹзӹт</st>
+         </stg>
+         <stress>вӹ•зӹт</stress>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="NUM"></t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>вӹц</l>
+         <stg>
+            <st Contlex="NumTag">вӹц</st>
+         </stg>
+         <stress>вӹц</stress>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t>viisi</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>вӹцлӹ</l>
+         <stg>
+            <st Contlex="NumTag">вӹцлӹ</st>
+         </stg>
+         <stress>вӹ•цлӹ</stress>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t>viisikymmentä</t>
+         </tg>
+      </mg>
+   </e>
+  <e xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" exclude="fst">
+      <lg>
+         <l>вӹцлӹшӹ</l>
+         <stg>
+            <st Contlex="NumTag">вӹцлӹшӹ</st>
+         </stg>
+         <stress>вӹцлӹ•шӹ</stress>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t>viideskymmenes</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>вӹцшӱдӹ</l>
+         <stg>
+            <st Contlex="NumTag">вӹцшӱдӹ</st>
+         </stg>
+         <stress>вӹцшӱ•дӹ</stress>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t>viisisataa</t>
+         </tg>
+      </mg>
+   </e>
+  <e xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" exclude="fst">
+      <lg>
+         <l>вӹцшӱдӹшӹ</l>
+         <stg>
+            <st Contlex="NumTag">вӹцшӱдӹшӹ</st>
+         </stg>
+         <stress>вӹцшӱ•дӹшӹ</stress>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="NUM"></t>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>ик</l>
          <stg>
@@ -24,178 +157,7 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>иктӹ</l>
-         <stg>
-            <st Contlex="NumTag">иктӹ</st>
-         </stg>
-         <stress>и•ктӹ</stress>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>иктӹт</l>
-         <stg>
-            <st Contlex="NumTag">иктӹт</st>
-         </stg>
-         <stress>и•ктӹт</stress>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вӹзӹмшӹ</l>
-         <stg>
-            <st Contlex="NumTag">вӹзӹмшӹ</st>
-         </stg>
-         <stress>вӹзӹ•мшӹ</stress>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вӹзӹт</l>
-         <stg>
-            <st Contlex="NumTag">вӹзӹт</st>
-         </stg>
-         <stress>вӹ•зӹт</stress>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вӹц</l>
-         <stg>
-            <st Contlex="NumTag">вӹц</st>
-         </stg>
-         <stress>вӹц</stress>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t>viisi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вӹцлӹ</l>
-         <stg>
-            <st Contlex="NumTag">вӹцлӹ</st>
-         </stg>
-         <stress>вӹ•цлӹ</stress>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t>viisikymmentä</t>
-         </tg>
-      </mg>
-   </e>
-   <e exclude="fst">
-      <lg>
-         <l>вӹцлӹшӹ</l>
-         <stg>
-            <st Contlex="NumTag">вӹцлӹшӹ</st>
-         </stg>
-         <stress>вӹцлӹ•шӹ</stress>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t>viideskymmenes</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вӹцшӱдӹ</l>
-         <stg>
-            <st Contlex="NumTag">вӹцшӱдӹ</st>
-         </stg>
-         <stress>вӹцшӱ•дӹ</stress>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t>viisisataa</t>
-         </tg>
-      </mg>
-   </e>
-   <e exclude="fst">
-      <lg>
-         <l>вӹцшӱдӹшӹ</l>
-         <stg>
-            <st Contlex="NumTag">вӹцшӱдӹшӹ</st>
-         </stg>
-         <stress>вӹцшӱ•дӹшӹ</stress>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>ик-кок</l>
          <stg>
@@ -209,12 +171,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>иктӓк-пелӓк</l>
          <stg>
@@ -228,12 +190,50 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>иктӹ</l>
+         <stg>
+            <st Contlex="NumTag">иктӹ</st>
+         </stg>
+         <stress>и•ктӹ</stress>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="NUM"></t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>иктӹт</l>
+         <stg>
+            <st Contlex="NumTag">иктӹт</st>
+         </stg>
+         <stress>и•ктӹт</stress>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="NUM"></t>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>икшӹ</l>
          <stg>
@@ -247,145 +247,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кӓндӓкш</l>
-         <stg>
-            <st Contlex="NumTag">кӓндӓкш</st>
-         </stg>
-         <stress>кӓндӓ•кш</stress>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
          <tg lang="fin">
-            <t>kahdeksan</t>
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>кӓндӓкшлу</l>
-         <stg>
-            <st Contlex="NumTag">кӓндӓкшлу</st>
-         </stg>
-         <stress>кӓндӓ•кшлу</stress>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t>kahdeksankymmentä</t>
-         </tg>
-      </mg>
-   </e>
-   <e exclude="fst">
-      <lg>
-         <l>кӓндӓкшлушы</l>
-         <stg>
-            <st Contlex="NumTag">кӓндӓкшлушы</st>
-         </stg>
-         <stress>кӓндӓкшлу•шы</stress>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t>kahdeksastoista</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кӓндӓкшшӱдӹ</l>
-         <stg>
-            <st Contlex="NumTag">кӓндӓкшшӱдӹ</st>
-         </stg>
-         <stress>кӓндӓкшшӱ•дӹ</stress>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t>kahdeksansataa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кӓндӓкшшӱдӹшӹ</l>
-         <stg>
-            <st Contlex="NumTag">кӓндӓкшшӱдӹшӹ</st>
-         </stg>
-         <stress>кӓндӓкшшӱ•дӹшӹ</stress>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t>kahdeksassadas</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кӓндӓкшӹ</l>
-         <stg>
-            <st Contlex="NumTag">кӓндӓкшӹ</st>
-         </stg>
-         <stress>кӓндӓ•кшӹ</stress>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кӓндӓкшӹмшӹ</l>
-         <stg>
-            <st Contlex="NumTag">кӓндӓкшӹмшӹ</st>
-         </stg>
-         <stress>кӓндӓ•кшӹмшӹ</stress>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>кок</l>
          <stg>
@@ -404,7 +271,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>коклы</l>
          <stg>
@@ -423,7 +290,7 @@
          </tg>
       </mg>
    </e>
-   <e exclude="fst">
+  <e xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" exclude="fst">
       <lg>
          <l>коклышы</l>
          <stg>
@@ -437,12 +304,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кокты</l>
          <stg>
@@ -456,12 +323,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>коктыт</l>
          <stg>
@@ -475,50 +342,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кокшӱдӹ</l>
-         <stg>
-            <st Contlex="NumTag">кокшӱдӹ</st>
-         </stg>
-         <stress>кокшӱ•дӹ</stress>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
          <tg lang="fin">
-            <t>kaksisataa</t>
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e exclude="fst">
-      <lg>
-         <l>кокшӱдӹшӹ</l>
-         <stg>
-            <st Contlex="NumTag">кокшӱдӹшӹ</st>
-         </stg>
-         <stress>кокшӱ•дӹшӹ</stress>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t>kahdessadas</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>кокшы</l>
          <stg>
@@ -537,7 +366,45 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>кокшӱдӹ</l>
+         <stg>
+            <st Contlex="NumTag">кокшӱдӹ</st>
+         </stg>
+         <stress>кокшӱ•дӹ</stress>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t>kaksisataa</t>
+         </tg>
+      </mg>
+   </e>
+  <e xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" exclude="fst">
+      <lg>
+         <l>кокшӱдӹшӹ</l>
+         <stg>
+            <st Contlex="NumTag">кокшӱдӹшӹ</st>
+         </stg>
+         <stress>кокшӱ•дӹшӹ</stress>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t>kahdessadas</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>куд</l>
          <stg>
@@ -551,12 +418,31 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>куд-шӹм</l>
+         <stg>
+            <st Contlex="NumTag">куд-шӹм</st>
+         </stg>
+         <stress>ку•д-шӹ•м</stress>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="NUM"></t>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>кудлу</l>
          <stg>
@@ -570,12 +456,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кудлушы</l>
          <stg>
@@ -589,12 +475,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кудшӱдӹ</l>
          <stg>
@@ -613,7 +499,7 @@
          </tg>
       </mg>
    </e>
-   <e exclude="fst">
+  <e xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" exclude="fst">
       <lg>
          <l>кудшӱдӹшӹ</l>
          <stg>
@@ -632,26 +518,7 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>куд-шӹм</l>
-         <stg>
-            <st Contlex="NumTag">куд-шӹм</st>
-         </stg>
-         <stress>ку•д-шӹ•м</stress>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>кудымшы</l>
          <stg>
@@ -665,12 +532,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кудыт</l>
          <stg>
@@ -684,12 +551,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кым</l>
          <stg>
@@ -708,7 +575,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кымлы</l>
          <stg>
@@ -722,12 +589,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кымлышы</l>
          <stg>
@@ -741,31 +608,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кымшӱдӹ</l>
-         <stg>
-            <st Contlex="NumTag">кымшӱдӹ</st>
-         </stg>
-         <stress>кымшӱ•дӹ</stress>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
          <tg lang="fin">
-            <t>kolmesataa</t>
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e exclude="fst">
+  <e xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" exclude="fst">
       <lg>
          <l>кымшы</l>
          <stg>
@@ -784,7 +632,26 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>кымшӱдӹ</l>
+         <stg>
+            <st Contlex="NumTag">кымшӱдӹ</st>
+         </stg>
+         <stress>кымшӱ•дӹ</stress>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t>kolmesataa</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>кымыт</l>
          <stg>
@@ -798,12 +665,145 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>кӓндӓкш</l>
+         <stg>
+            <st Contlex="NumTag">кӓндӓкш</st>
+         </stg>
+         <stress>кӓндӓ•кш</stress>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t>kahdeksan</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кӓндӓкшлу</l>
+         <stg>
+            <st Contlex="NumTag">кӓндӓкшлу</st>
+         </stg>
+         <stress>кӓндӓ•кшлу</stress>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t>kahdeksankymmentä</t>
+         </tg>
+      </mg>
+   </e>
+  <e xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" exclude="fst">
+      <lg>
+         <l>кӓндӓкшлушы</l>
+         <stg>
+            <st Contlex="NumTag">кӓндӓкшлушы</st>
+         </stg>
+         <stress>кӓндӓкшлу•шы</stress>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t>kahdeksastoista</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кӓндӓкшшӱдӹ</l>
+         <stg>
+            <st Contlex="NumTag">кӓндӓкшшӱдӹ</st>
+         </stg>
+         <stress>кӓндӓкшшӱ•дӹ</stress>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t>kahdeksansataa</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кӓндӓкшшӱдӹшӹ</l>
+         <stg>
+            <st Contlex="NumTag">кӓндӓкшшӱдӹшӹ</st>
+         </stg>
+         <stress>кӓндӓкшшӱ•дӹшӹ</stress>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t>kahdeksassadas</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кӓндӓкшӹ</l>
+         <stg>
+            <st Contlex="NumTag">кӓндӓкшӹ</st>
+         </stg>
+         <stress>кӓндӓ•кшӹ</stress>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="NUM"></t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кӓндӓкшӹмшӹ</l>
+         <stg>
+            <st Contlex="NumTag">кӓндӓкшӹмшӹ</st>
+         </stg>
+         <stress>кӓндӓ•кшӹмшӹ</stress>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t pos="NUM"></t>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>лу</l>
          <stg>
@@ -822,7 +822,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>луатвӹзӹт</l>
          <stg>
@@ -836,12 +836,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>луатвӹц</l>
          <stg>
@@ -860,7 +860,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>луатик</l>
          <stg>
@@ -879,7 +879,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>луатиктӹ</l>
          <stg>
@@ -893,50 +893,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>луаткӓндӓкш</l>
-         <stg>
-            <st Contlex="NumTag">луаткӓндӓкш</st>
-         </stg>
-         <stress>луаткӓндӓ•кш</stress>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
          <tg lang="fin">
-            <t>kahdeksantoista</t>
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e exclude="fst">
-      <lg>
-         <l>луаткӓндӓкшӹ</l>
-         <stg>
-            <st Contlex="NumTag">луаткӓндӓкшӹ</st>
-         </stg>
-         <stress>луаткӓндӓ•кшӹ</stress>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t>kahdeksastoista</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>луаткок</l>
          <stg>
@@ -955,7 +917,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>луаткокты</l>
          <stg>
@@ -969,12 +931,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>луаткуд</l>
          <stg>
@@ -993,7 +955,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>луаткудыт</l>
          <stg>
@@ -1007,12 +969,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>луаткым</l>
          <stg>
@@ -1031,7 +993,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>луаткымыт</l>
          <stg>
@@ -1045,12 +1007,50 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>луаткӓндӓкш</l>
+         <stg>
+            <st Contlex="NumTag">луаткӓндӓкш</st>
+         </stg>
+         <stress>луаткӓндӓ•кш</stress>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t>kahdeksantoista</t>
+         </tg>
+      </mg>
+   </e>
+  <e xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" exclude="fst">
+      <lg>
+         <l>луаткӓндӓкшӹ</l>
+         <stg>
+            <st Contlex="NumTag">луаткӓндӓкшӹ</st>
+         </stg>
+         <stress>луаткӓндӓ•кшӹ</stress>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t>kahdeksastoista</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>луатнӹл</l>
          <stg>
@@ -1069,7 +1069,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>луатнӹлӹт</l>
          <stg>
@@ -1083,12 +1083,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>луатшӹм</l>
          <stg>
@@ -1107,7 +1107,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>луатшӹмӹт</l>
          <stg>
@@ -1121,12 +1121,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>луатӹндекш</l>
          <stg>
@@ -1140,12 +1140,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>луатӹндекшӹ</l>
          <stg>
@@ -1159,12 +1159,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>луцкы</l>
          <stg>
@@ -1178,12 +1178,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лушы</l>
          <stg>
@@ -1197,12 +1197,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>миллиард</l>
          <stg>
@@ -1216,12 +1216,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>миллион</l>
          <stg>
@@ -1235,12 +1235,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>нӹл</l>
          <stg>
@@ -1254,12 +1254,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>нӹллӹ</l>
          <stg>
@@ -1273,12 +1273,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>нӹллӹшӹ</l>
          <stg>
@@ -1292,12 +1292,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>нӹлшӱдӹ</l>
          <stg>
@@ -1311,12 +1311,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>нӹлшӱдӹшӹ</l>
          <stg>
@@ -1330,12 +1330,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>нӹлӹмшӹ</l>
          <stg>
@@ -1349,12 +1349,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>нӹлӹт</l>
          <stg>
@@ -1368,12 +1368,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>триллион</l>
          <stg>
@@ -1387,12 +1387,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тӹжем</l>
          <stg>
@@ -1406,12 +1406,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тӹжемшӹ</l>
          <stg>
@@ -1425,12 +1425,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>шӱдӹ</l>
          <stg>
@@ -1444,12 +1444,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>шӱдӹшӹ</l>
          <stg>
@@ -1463,12 +1463,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>шӹм</l>
          <stg>
@@ -1482,12 +1482,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>шӹмлу</l>
          <stg>
@@ -1501,12 +1501,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>шӹмлушы</l>
          <stg>
@@ -1520,12 +1520,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>шӹмшӱдӹ</l>
          <stg>
@@ -1539,12 +1539,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>шӹмшӱдӹшӹ</l>
          <stg>
@@ -1558,12 +1558,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>шӹмшӹ</l>
          <stg>
@@ -1577,12 +1577,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>шӹмӹт</l>
          <stg>
@@ -1596,12 +1596,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ӹндекш</l>
          <stg>
@@ -1615,12 +1615,12 @@
             <head/>
             <defNative/>
          </m>
-         <tg>
-            <t/>
+         <tg lang="fin">
+            <t pos="NUM"></t>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ӹндекшлу</l>
          <stg>
@@ -1639,7 +1639,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ӹндекшлушы</l>
          <stg>
@@ -1658,7 +1658,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ӹндекшшӱдӹ</l>
          <stg>
@@ -1677,7 +1677,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ӹндекшшӱдӹшӹ</l>
          <stg>
@@ -1696,7 +1696,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ӹндекшӹ</l>
          <stg>
@@ -1715,7 +1715,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ӹндекшӹмшӹ</l>
          <stg>
