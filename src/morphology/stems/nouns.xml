@@ -25,7 +25,7 @@
       </m>
 
       <tg lang="fin">
-        <t>lamppuvarjostin</t>
+        <t>lampunvarjostin</t>
       </tg>
     </mg>
   </e>
@@ -77,7 +77,7 @@
       </m>
 
       <tg lang="fin">
-        <t>ylioppilas</t>
+        <t>yliopistoon pyrkivä nuori</t>
       </tg>
     </mg>
   </e>
@@ -103,7 +103,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">abortti</t>
       </tg>
     </mg>
   </e>
@@ -129,7 +129,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">abstraktio</t>
       </tg>
     </mg>
   </e>
@@ -155,7 +155,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">absurdius</t>
+
+        <tCtn>
+          <t>järjettömyys</t>
+
+          <re/>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -181,7 +187,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">???</t>
       </tg>
     </mg>
   </e>
@@ -203,11 +209,13 @@
       <m>
         <head/>
 
+        <semRel lemmaID="авалянымаш" semRelType="confer"/>
+
         <defNative/>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">XX</t>
       </tg>
     </mg>
   </e>
@@ -233,7 +241,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">konttaaminen</t>
       </tg>
     </mg>
   </e>
@@ -259,7 +267,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">etumaksu</t>
+
+        <tCtn>
+          <t>ennakkomaksu</t>
+
+          <re/>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -285,7 +299,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">proscenium</t>
       </tg>
     </mg>
   </e>
@@ -311,7 +325,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">seikkailu</t>
+
+        <tCtn>
+          <t>uhkayritys</t>
+
+          <re/>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -337,7 +357,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">seikkailija</t>
+
+        <tCtn>
+          <t>onnenonkija</t>
+
+          <re/>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -363,7 +389,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">(hieman) pullistuminen </t>
+
+        <tCtn>
+          <t>(hieman) nouseminen</t>
+
+          <re>taikina</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -389,7 +421,19 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">pullistuminen</t>
+
+        <tCtn>
+          <t>nouseminen</t>
+
+          <re>taikina</re>
+        </tCtn>
+
+        <tCtn>
+          <t>ylipaisuminen</t>
+
+          <re>vaahto</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -415,7 +459,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">haaksirikko</t>
+
+        <tCtn>
+          <t>haaveri</t>
+
+          <re/>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -441,8 +491,20 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">puhaltaminen</t>
+
+        <tCtn>
+          <t>pöyhiminen</t>
+
+          <re>heinää</re>
+        </tCtn>
       </tg>
+
+      <xg>
+        <x>нерӹм авартымаш</x>
+
+        <xt>suuttuminen</xt>
+      </xg>
     </mg>
   </e>
 
@@ -467,7 +529,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">leipänen (hiivataikinasta tehty)</t>
       </tg>
     </mg>
   </e>
@@ -656,13 +718,13 @@
 
   <e>
     <lg>
-      <l>авре</l>
+      <l>авре гӹц кеӓш</l>
 
       <stg>
-        <st Contlex="NTag">авре</st>
+        <st Contlex="NTag">авре гӹц кеӓш</st>
       </stg>
 
-      <stress>авре</stress>
+      <stress>авре гӹц кеӓш</stress>
     </lg>
 
     <pos>N</pos>
@@ -675,7 +737,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">voimia</t>
       </tg>
     </mg>
   </e>
@@ -123344,6 +123406,32 @@
 
       <tg lang="fin">
         <t pos="N"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l>нерӹм авартымаш</l>
+
+      <stg>
+        <st Contlex="NTag">нерӹм авартымаш</st>
+      </stg>
+
+      <stress>нерӹм ава•ртымаш</stress>
+    </lg>
+
+    <pos>N</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="N">suuttuminen</t>
       </tg>
     </mg>
   </e>
