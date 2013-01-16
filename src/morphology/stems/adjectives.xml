@@ -25,7 +25,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A">Volgan tuonpuoleinen ranta???</t>
+        <t pos="A">Volgan tuonpuoleinen</t>
 
         <tCtn>
           <t>Volgajoen tuonpuoleinen</t>
@@ -209,13 +209,13 @@
       <l>аварцылык</l>
 
       <stg>
-        <st Contlex="AdjTag">аварцылык</st>
+        <st Contlex="NTag">аварцылык</st>
       </stg>
 
       <stress>ава•рцылык</stress>
     </lg>
 
-    <pos>A</pos>
+    <pos>N</pos>
 
     <mg>
       <m>
@@ -225,7 +225,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="N">taikina аварцы varten</t>
       </tg>
     </mg>
   </e>
@@ -251,7 +251,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A">suomuinen, kuoreinen, (herneen)palkoinen </t>
+        <t pos="A">suomuinen, kuoreinen ???, (herneen)palkoinen </t>
       </tg>
     </mg>
   </e>
@@ -277,7 +277,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A">(ilman) suomua, kuorea, palkoa ???</t>
+        <t pos="A">(ilman) suomua, kuorta, palkoa ???</t>
       </tg>
     </mg>
   </e>
@@ -303,7 +303,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">elokuun ajalta oleva</t>
       </tg>
     </mg>
   </e>
@@ -329,7 +329,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">elokuinen</t>
       </tg>
     </mg>
   </e>
@@ -355,7 +355,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">omaelämäkerran kera ???</t>
       </tg>
     </mg>
   </e>
@@ -381,7 +381,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">signeerattu</t>
+
+        <tCtn>
+          <t>allekirjoituksella varustettu</t>
+
+          <re/>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -407,7 +413,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilman allekirjoitusta</t>
       </tg>
     </mg>
   </e>
@@ -433,7 +439,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilman autoa oleva</t>
       </tg>
     </mg>
   </e>
@@ -459,7 +465,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">autossa oleva</t>
       </tg>
     </mg>
   </e>
@@ -485,7 +491,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">autoa omistava</t>
       </tg>
     </mg>
   </e>
@@ -511,7 +517,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilman autonomiaa oleva</t>
+
+        <tCtn>
+          <t>ei-autonominen</t>
+
+          <re/>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -537,7 +549,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">autonominen</t>
+
+        <tCtn>
+          <t>itsenäinen</t>
+
+          <re/>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -615,7 +633,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">arvovaltainen</t>
       </tg>
     </mg>
   </e>
