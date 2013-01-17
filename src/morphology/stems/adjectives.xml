@@ -251,7 +251,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A">suomuinen, kuoreinen ???, (herneen)palkoinen </t>
+        <t pos="A">suomuinen, kuoreinen ???</t>
       </tg>
     </mg>
   </e>
@@ -659,7 +659,11 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">epäsiisti</t>
+
+        <t pos="A">likainen</t>
+
+        <t pos="A">rähjäinen</t>
       </tg>
     </mg>
   </e>
@@ -685,7 +689,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">agentuurin kanssa</t>
       </tg>
     </mg>
   </e>
@@ -711,7 +715,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilman agentuuria</t>
       </tg>
     </mg>
   </e>
@@ -737,7 +741,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">agenttitoiminnassa oleva</t>
       </tg>
     </mg>
   </e>
@@ -763,7 +767,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">agraarinen</t>
       </tg>
     </mg>
   </e>
@@ -789,7 +793,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">laitetta omaava</t>
       </tg>
     </mg>
   </e>
@@ -815,7 +819,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilman laitetta oleva</t>
       </tg>
     </mg>
   </e>
@@ -841,59 +845,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
-      </tg>
-    </mg>
-  </e>
+        <t pos="A">agressiivinen</t>
 
-  <e>
-    <lg>
-      <l>агрослужбан</l>
-
-      <stg>
-        <st Contlex="AdjTag">агрослужбан</st>
-      </stg>
-
-      <stress>агрослу•жбан</stress>
-    </lg>
-
-    <pos>A</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg lang="fin">
-        <t pos="A"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>агрослужбыдымы</l>
-
-      <stg>
-        <st Contlex="AdjTag">агрослужбыдымы</st>
-      </stg>
-
-      <stress>агрослу•жбыдымы</stress>
-    </lg>
-
-    <pos>A</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">hyökkäävä</t>
       </tg>
     </mg>
   </e>
@@ -919,7 +873,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">maataloustekniikan kanssa oleva</t>
       </tg>
     </mg>
   </e>
@@ -945,7 +899,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilman maataloustekniikkaa oleva</t>
       </tg>
     </mg>
   </e>
@@ -971,7 +925,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">hallinnollinen</t>
+
+        <t pos="A">administratiivinen</t>
       </tg>
     </mg>
   </e>
@@ -997,7 +953,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">osoitteella varustettu</t>
       </tg>
     </mg>
   </e>
@@ -1023,7 +979,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">leskeksi jäänyt</t>
       </tg>
     </mg>
   </e>
@@ -1049,7 +1005,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">aakkosten kanssa oleva</t>
       </tg>
     </mg>
   </e>
@@ -1075,7 +1031,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilman aakkosia oleva</t>
       </tg>
     </mg>
   </e>
@@ -1101,7 +1057,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">syysviljan kanssa</t>
       </tg>
     </mg>
   </e>
@@ -1127,7 +1083,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">pyhiä sisältävä</t>
+
+        <tCtn>
+          <t>pyhäpäiviä sisältävä</t>
+
+          <re>kuukausi</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -1153,7 +1115,35 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilman pyhäpäiviä oleva</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>айыртемдӹмӹ</l>
+
+      <stg>
+        <st Contlex="AdjTag">айыртемдӹмӹ</st>
+      </stg>
+
+      <stress>айырте•мдӹмӹ</stress>
+    </lg>
+
+    <pos>A</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="A">erotuksetta oleva</t>
+
+        <t pos="A">ilman eroa oleva</t>
       </tg>
     </mg>
   </e>
@@ -1179,7 +1169,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">erikoinen</t>
+
+        <t pos="A">erityinen</t>
       </tg>
     </mg>
   </e>
@@ -1190,6 +1182,8 @@
 
       <stg>
         <st Contlex="AdjTag">акел</st>
+
+        <st Contlex="AdjTag">аккел</st>
       </stg>
 
       <stress>а•кел</stress>
@@ -1205,7 +1199,11 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">tarpeeton</t>
+
+        <t pos="A">turha</t>
+
+        <t pos="A">liiallinen</t>
       </tg>
     </mg>
   </e>
@@ -1231,7 +1229,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">siisti</t>
+
+        <t pos="A">huolellinen</t>
       </tg>
     </mg>
   </e>
@@ -1257,7 +1257,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">??? </t>
       </tg>
     </mg>
   </e>
@@ -1283,7 +1283,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">aksiomin kanssa</t>
+
+        <t pos="A">aksioomaa sisältävä</t>
       </tg>
     </mg>
   </e>
