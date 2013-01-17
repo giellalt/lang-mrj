@@ -1224,6 +1224,8 @@
         <t pos="N">agenttitoiminta</t>
 
         <t pos="N">vakoilu</t>
+
+        <t pos="N">tiedustelupalvelu</t>
       </tg>
     </mg>
   </e>
@@ -1798,13 +1800,13 @@
 
   <e>
     <lg>
-      <l>ажак-вате</l>
+      <l>ажак-вӓтӹ</l>
 
       <stg>
-        <st Contlex="NTag">ажак-вате</st>
+        <st Contlex="NTag">ажак-вӓтӹ</st>
       </stg>
 
-      <stress>ажак-вате</stress>
+      <stress>ажак-вӓтӹ</stress>
     </lg>
 
     <pos>N</pos>
@@ -1989,7 +1991,17 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">houkutteleminen</t>
+
+        <t pos="N">vietteleminen</t>
+
+        <t pos="N">turmeleminen</t>
+
+        <tCtn>
+          <t>ärsyttäminen</t>
+
+          <re>eläimiä</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
