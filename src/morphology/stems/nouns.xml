@@ -555,7 +555,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">paisuminen</t>
+
+        <tCtn>
+          <t>nouseminen</t>
+
+          <re>taikina</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -581,7 +587,19 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kuori</t>
+
+        <tCtn>
+          <t>palko</t>
+
+          <re>herne</re>
+        </tCtn>
+
+        <tCtn>
+          <t>suomu</t>
+
+          <re>pähkinän</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -607,7 +625,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">elokuu</t>
       </tg>
     </mg>
   </e>
@@ -633,7 +651,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">lento</t>
+
+        <tCtn>
+          <t>ykkösposti</t>
+
+          <re>kirje</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -659,7 +683,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">ykkösposti</t>
       </tg>
     </mg>
   </e>
@@ -685,7 +709,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">ilmailu(ala)</t>
       </tg>
     </mg>
   </e>
@@ -737,7 +761,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">voimia</t>
+        <t pos="N">jäädä voimattomaksi</t>
       </tg>
     </mg>
   </e>
@@ -763,7 +787,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">omaelämäkerta</t>
       </tg>
     </mg>
   </e>
@@ -789,7 +813,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">linja-auto</t>
+
+        <t pos="N">bussi</t>
       </tg>
     </mg>
   </e>
@@ -815,7 +841,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">linja-autoasema</t>
       </tg>
     </mg>
   </e>
@@ -841,7 +867,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">allekirjoitus</t>
       </tg>
     </mg>
   </e>
@@ -867,33 +893,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>автоматчик</l>
-
-      <stg>
-        <st Contlex="NTag">автоматчик</st>
-      </stg>
-
-      <stress>автома•тчик</stress>
-    </lg>
-
-    <pos>N</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">autotehdas</t>
       </tg>
     </mg>
   </e>
@@ -919,7 +919,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">henkilöauto</t>
       </tg>
     </mg>
   </e>
@@ -945,7 +945,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">auto</t>
       </tg>
     </mg>
   </e>
@@ -971,7 +971,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">autonomia</t>
+
+        <t pos="N">itsenäisyys</t>
       </tg>
     </mg>
   </e>
@@ -997,7 +999,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">tekijä</t>
       </tg>
     </mg>
   </e>
@@ -1023,7 +1025,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">arvovalta</t>
       </tg>
     </mg>
   </e>
@@ -1049,7 +1051,35 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kynä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>авызи</l>
+
+      <stg>
+        <st Contlex="NTag">авызи</st>
+      </stg>
+
+      <stress>авы•зи</stress>
+    </lg>
+
+    <pos>N</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="N">tuhrimus</t>
+
+        <t pos="N">töhrijä</t>
       </tg>
     </mg>
   </e>
@@ -1060,6 +1090,8 @@
 
       <stg>
         <st Contlex="NTag">авыре</st>
+
+        <st Contlex="NTag">авре</st>
       </stg>
 
       <stress>авы•ре</stress>
@@ -1075,8 +1107,16 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">voimakkuus</t>
+
+        <t pos="N">voima</t>
       </tg>
+
+      <xg>
+        <x>авре гӹц кеӓш</x>
+
+        <xt>tulla voimattomaksi</xt>
+      </xg>
     </mg>
   </e>
 
@@ -1101,7 +1141,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">???</t>
       </tg>
     </mg>
   </e>
@@ -1127,7 +1167,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">agentti</t>
       </tg>
     </mg>
   </e>
@@ -1153,7 +1193,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">agentuuri</t>
+
+        <t pos="N">asioimistoimisto</t>
       </tg>
     </mg>
   </e>
@@ -1179,7 +1221,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">agenttitoiminta</t>
+
+        <t pos="N">vakoilu</t>
       </tg>
     </mg>
   </e>
@@ -1205,7 +1249,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">agitaattori</t>
+
+        <t pos="N">agitoija</t>
       </tg>
     </mg>
   </e>
@@ -1231,7 +1277,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">agitaatio</t>
       </tg>
     </mg>
   </e>
@@ -1257,7 +1303,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">propagandajoukkue</t>
       </tg>
     </mg>
   </e>
@@ -1283,7 +1329,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">agitaatio</t>
+
+        <t pos="N">agitointi</t>
       </tg>
     </mg>
   </e>
@@ -1309,7 +1357,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">propaganda-asema</t>
       </tg>
     </mg>
   </e>
@@ -1335,7 +1383,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">laite</t>
+
+        <t pos="N">yksikkö</t>
       </tg>
     </mg>
   </e>
@@ -1361,7 +1411,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">agressio</t>
+
+        <t pos="N">maahanhyökkäys</t>
       </tg>
     </mg>
   </e>
@@ -1387,7 +1439,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">maahanhyökkääjä</t>
       </tg>
     </mg>
   </e>
@@ -1413,33 +1465,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>агрослужба</l>
-
-      <stg>
-        <st Contlex="NTag">агрослужба</st>
-      </stg>
-
-      <stress>агрослу•жба</stress>
-    </lg>
-
-    <pos>N</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">agronomi</t>
       </tg>
     </mg>
   </e>
@@ -1465,7 +1491,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">maanviljelystekniikka</t>
+
+        <t pos="N">maataloustekniikka</t>
       </tg>
     </mg>
   </e>
@@ -1491,7 +1519,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">helvetti</t>
       </tg>
     </mg>
   </e>
@@ -1517,7 +1545,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">sopeutuminen</t>
+
+        <t pos="N">mukauttaminen</t>
       </tg>
     </mg>
   </e>
@@ -1543,7 +1573,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">???</t>
       </tg>
     </mg>
   </e>
@@ -1569,7 +1599,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">asianajaja</t>
       </tg>
     </mg>
   </e>
@@ -1595,7 +1625,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">hallintoviranomainen</t>
+
+        <t pos="N">vahtimestari</t>
       </tg>
     </mg>
   </e>
@@ -1621,7 +1653,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">hallinto</t>
       </tg>
     </mg>
   </e>
@@ -1647,7 +1679,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">osoite</t>
       </tg>
     </mg>
   </e>
@@ -1673,7 +1705,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">lähettäjä</t>
       </tg>
     </mg>
   </e>
@@ -1699,7 +1731,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">vastaanottaja</t>
+
+        <t pos="N">osoitteenomistaja</t>
       </tg>
     </mg>
   </e>
@@ -1725,7 +1759,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">osoittaa</t>
+
+        <tCtn>
+          <t>osoittaa</t>
+
+          <re>postilähetys jllek</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -1751,7 +1791,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">adjutantti</t>
       </tg>
     </mg>
   </e>
@@ -1777,7 +1817,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">leski</t>
       </tg>
     </mg>
   </e>
@@ -1803,7 +1843,19 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">neuvominen</t>
+
+        <tCtn>
+          <t>näyttäminen</t>
+
+          <re>tietä</re>
+        </tCtn>
+
+        <tCtn>
+          <t>näyttäminen</t>
+
+          <re>osoittamalla</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -1829,7 +1881,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">???</t>
       </tg>
     </mg>
   </e>
@@ -1855,7 +1907,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kiihko</t>
+
+        <t pos="N">into</t>
       </tg>
     </mg>
   </e>
@@ -1881,7 +1935,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">aapinen</t>
+
+        <t pos="N">aakkoset</t>
       </tg>
     </mg>
   </e>
@@ -262619,7 +262675,7 @@
       <l>ӓвӓ</l>
 
       <stg>
-        <st Contlex="N-ӓвӓ">ӓвӓ</st>
+        <st Contlex="N-ӓвӓ_kin">ӓвӓ</st>
       </stg>
 
       <stress>ӓ•вӓ</stress>
