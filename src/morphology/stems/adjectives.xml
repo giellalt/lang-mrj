@@ -1057,7 +1057,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A">syysviljan kanssa</t>
+        <t pos="A">syyskylvätty</t>
       </tg>
     </mg>
   </e>
@@ -1257,7 +1257,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A">??? </t>
+        <t pos="A">?!</t>
       </tg>
     </mg>
   </e>
@@ -1337,7 +1337,11 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">pöytäkirjalla varustettu</t>
+
+        <t pos="A">asiakirjaa sisältävä</t>
+
+        <t pos="A">näytöstä sisältävä</t>
       </tg>
     </mg>
   </e>
@@ -1363,7 +1367,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilman pöytäkirjaa oleva</t>
+
+        <tCtn>
+          <t>ilman pöytäkirjaa oleva</t>
+
+          <re>asiakirja</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -1389,7 +1399,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">aktiivinen</t>
       </tg>
     </mg>
   </e>
