@@ -187,7 +187,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">???</t>
+        <t pos="N">?!</t>
       </tg>
     </mg>
   </e>
@@ -709,7 +709,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">ilmailu(ala)</t>
+        <t pos="N">ilmailuala</t>
       </tg>
     </mg>
   </e>
@@ -735,20 +735,20 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">?!</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>авре гӹц кеӓш</l>
+      <l>авре гӹц кемӓш</l>
 
       <stg>
-        <st Contlex="NTag">авре гӹц кеӓш</st>
+        <st Contlex="NTag">авре гӹц кемӓш</st>
       </stg>
 
-      <stress>авре гӹц кеӓш</stress>
+      <stress>авре гӹц кемӓш</stress>
     </lg>
 
     <pos>N</pos>
@@ -761,7 +761,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">jäädä voimattomaksi</t>
+        <t pos="N">voimattomaksi jääminen</t>
       </tg>
     </mg>
   </e>
@@ -1113,9 +1113,9 @@
       </tg>
 
       <xg>
-        <x>авре гӹц кеӓш</x>
+        <x>авре гӹц кемӓш</x>
 
-        <xt>tulla voimattomaksi</xt>
+        <xt>voimattomaksi tuleminen</xt>
       </xg>
     </mg>
   </e>
@@ -1141,7 +1141,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">???</t>
+        <t pos="N">?!</t>
       </tg>
     </mg>
   </e>
@@ -1575,7 +1575,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">???</t>
+        <t pos="N">?!</t>
       </tg>
     </mg>
   </e>
@@ -1819,7 +1819,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">leski</t>
+        <t pos="N">leskeksi jäänyt nainen</t>
       </tg>
     </mg>
   </e>
@@ -1883,7 +1883,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">???</t>
+        <t pos="N">?!</t>
       </tg>
     </mg>
   </e>
@@ -2027,7 +2027,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">aasialainen</t>
       </tg>
     </mg>
   </e>
@@ -2053,7 +2053,15 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">houkuttautuminen</t>
+
+        <t pos="N">ärttyminen</t>
+
+        <tCtn>
+          <t>kimpaantuminen</t>
+
+          <re>eläimestä</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -2079,7 +2087,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">typpi</t>
       </tg>
     </mg>
   </e>
@@ -2105,7 +2113,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">syysvilja</t>
+
+        <t pos="N">oraat</t>
       </tg>
     </mg>
   </e>
@@ -2131,7 +2141,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">voimistuminen</t>
+
+        <tCtn>
+          <t>orastaminen</t>
+
+          <re>taimi</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -2157,7 +2173,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">?x</t>
       </tg>
     </mg>
   </e>
@@ -2183,7 +2199,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">haikara</t>
       </tg>
     </mg>
   </e>
@@ -2209,7 +2225,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">?!</t>
       </tg>
     </mg>
   </e>
@@ -2235,7 +2251,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">oikealta tieltä eksyminen</t>
       </tg>
     </mg>
   </e>
@@ -2261,7 +2277,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">tieltä eksleminen</t>
       </tg>
     </mg>
   </e>
@@ -2313,7 +2329,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">juhla</t>
+
+        <t pos="N">pyhäpäivä</t>
       </tg>
     </mg>
   </e>
@@ -2339,7 +2357,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">juhliminen</t>
       </tg>
     </mg>
   </e>
@@ -2365,7 +2383,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">juhlimatta oleminen</t>
+
+        <t pos="N">pidättäytyminen juhlimisesta</t>
       </tg>
     </mg>
   </e>
@@ -2391,7 +2411,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">satulavyö</t>
+
+        <t pos="N">kannatin</t>
       </tg>
     </mg>
   </e>
@@ -2417,7 +2439,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">juhliminen</t>
       </tg>
     </mg>
   </e>
@@ -2443,7 +2465,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">eristää jksi aikaa</t>
       </tg>
     </mg>
   </e>
@@ -2469,7 +2491,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">irrottautuminen</t>
       </tg>
     </mg>
   </e>
@@ -2495,7 +2517,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">valikoiminen</t>
       </tg>
     </mg>
   </e>
@@ -2521,7 +2543,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">erottuminen</t>
+
+        <t pos="N">irtautuminen</t>
       </tg>
     </mg>
   </e>
@@ -2547,7 +2571,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">eroaminen</t>
       </tg>
     </mg>
   </e>
@@ -2573,7 +2597,11 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">erotus</t>
+
+        <t pos="N">eroavaisuus</t>
+
+        <t pos="N">erilaisuus</t>
       </tg>
     </mg>
   </e>
@@ -2599,7 +2627,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">eroavaisuus</t>
       </tg>
     </mg>
   </e>
@@ -2625,7 +2653,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">erkaneminen</t>
       </tg>
     </mg>
   </e>
@@ -2677,7 +2705,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">erottaminen</t>
+
+        <t pos="N">vaalit</t>
       </tg>
     </mg>
   </e>
@@ -2703,7 +2733,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">akatemia</t>
       </tg>
     </mg>
   </e>
@@ -2729,7 +2759,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">akateemikko</t>
       </tg>
     </mg>
   </e>
@@ -2781,7 +2811,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">vesivärit</t>
       </tg>
     </mg>
   </e>
@@ -2807,7 +2837,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">akvaario</t>
       </tg>
     </mg>
   </e>
@@ -2818,6 +2848,8 @@
 
       <stg>
         <st Contlex="NTag">акел</st>
+
+        <st Contlex="NTag">аккел</st>
       </stg>
 
       <stress>а•кел</stress>
@@ -2833,7 +2865,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">perättömyys</t>
+
+        <t pos="N">hölynpöly</t>
       </tg>
     </mg>
   </e>
@@ -2859,7 +2893,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">säestys</t>
       </tg>
     </mg>
   </e>
@@ -2885,7 +2919,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">säestäminen</t>
       </tg>
     </mg>
   </e>
@@ -2911,7 +2945,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">akordi</t>
+
+        <t pos="N">sointu</t>
       </tg>
     </mg>
   </e>
@@ -2937,7 +2973,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">pianoharmonikka</t>
       </tg>
     </mg>
   </e>
@@ -2963,7 +2999,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">akkreditiivi</t>
       </tg>
     </mg>
   </e>
@@ -2989,7 +3025,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">akku</t>
       </tg>
     </mg>
   </e>
@@ -3015,7 +3051,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">taitovoimistelija</t>
       </tg>
     </mg>
   </e>
@@ -3041,7 +3077,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">aksiomi</t>
+
+        <t pos="N">selviö</t>
       </tg>
     </mg>
   </e>
@@ -3067,7 +3105,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">puute</t>
+
+        <t pos="N">vajaus</t>
       </tg>
     </mg>
   </e>
@@ -3093,7 +3133,15 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">teko</t>
+
+        <t pos="N">toiminta</t>
+
+        <t pos="N">pöytäkirja</t>
+
+        <t pos="N">asiakirja</t>
+
+        <t pos="N">näytös</t>
       </tg>
     </mg>
   </e>
@@ -3119,7 +3167,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">aktiivi</t>
       </tg>
     </mg>
   </e>
@@ -3145,7 +3193,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">aktivoiminen</t>
+
+        <t pos="N">tehostaminen</t>
       </tg>
     </mg>
   </e>
@@ -3171,7 +3221,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">aktivisti</t>
       </tg>
     </mg>
   </e>
@@ -3197,7 +3247,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">näyttelijä</t>
       </tg>
     </mg>
   </e>
@@ -3223,7 +3273,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kurikka</t>
+
+        <t pos="N">nuija</t>
       </tg>
     </mg>
   </e>
@@ -3249,7 +3301,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">näyttelijä</t>
       </tg>
     </mg>
   </e>
@@ -3275,7 +3327,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">haikala</t>
       </tg>
     </mg>
   </e>
@@ -3301,7 +3353,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kätilö</t>
       </tg>
     </mg>
   </e>
@@ -3327,7 +3379,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">korostus</t>
+
+        <t pos="N">aksentti</t>
       </tg>
     </mg>
   </e>
@@ -3353,7 +3407,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">osake</t>
+
+        <t pos="N">tarjous</t>
       </tg>
     </mg>
   </e>
@@ -3379,7 +3435,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">osakas</t>
+
+        <t pos="N">osakkaanomistaja</t>
       </tg>
     </mg>
   </e>
@@ -3405,7 +3463,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">onttuja</t>
       </tg>
     </mg>
   </e>
@@ -3431,7 +3489,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">lievä onttuminen</t>
       </tg>
     </mg>
   </e>
@@ -3457,7 +3515,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">onttuminen</t>
       </tg>
     </mg>
   </e>
@@ -3483,7 +3541,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">sallimattomuus</t>
+
+        <t pos="N">luvattomuus</t>
+
+        <t pos="N">kelvottomuus</t>
+
+        <t pos="N">kielto</t>
       </tg>
     </mg>
   </e>
@@ -3509,7 +3573,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">peitto</t>
       </tg>
     </mg>
   </e>
@@ -3535,7 +3599,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">?!</t>
       </tg>
     </mg>
   </e>
@@ -3561,7 +3625,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">petkuttaja</t>
+
+        <t pos="N">veijari</t>
       </tg>
     </mg>
   </e>
@@ -3587,7 +3653,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">närhi</t>
       </tg>
     </mg>
   </e>
@@ -3613,7 +3679,15 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">veijari</t>
+
+        <t pos="N">petkuttaja</t>
+
+        <tCtn>
+          <t>likainen</t>
+
+          <re>lapsista</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
