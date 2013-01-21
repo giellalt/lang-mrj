@@ -68,11 +68,13 @@ Tests:
      ӓвӓ+N+PxSg2+Sg+Lat: ӓвӓтӹш
      ӓвӓ+N+PxSg2+Sg+Comp: ӓвӓтлӓ
      ӓвӓ+N+PxSg2+Sg+Abe: ӓвӓтде
-     ӓвӓ+N+PxSg2+Pl+Nom: [ӓвӓтвлӓ, ӓвӓэтвлӓ, ӓвӓвлӓэт] # х3
+     ӓвӓ+N+PxSg2+Pl+Nom: [ӓвӓтвлӓ, ӓвӓэтвлӓ] 
+     ӓвӓ+N+Pl+Nom+PxSg2: ӓвӓвлӓэт
      ӓвӓ+N+PxSg2+Pl+Gen: ӓвӓтвлӓн
      ӓвӓ+N+PxSg2+Pl+Acc: ӓвӓтвлӓм
      ӓвӓ+N+PxSg2+Pl+Com: ӓвӓтвлӓге
      ӓвӓ+N+PxSg2+Pl+Dat: ӓвӓтвлӓлӓн
+     ӓвӓ+N+Pl+Dat+PxSg2: ӓвӓвлӓлӓнет
      ӓвӓ+N+PxSg2+Pl+Ine: ӓвӓтвлӓштӹ
      ӓвӓ+N+PxSg2+Pl+Ill: ӓвӓтвлӓшкӹ
      ӓвӓ+N+PxSg2+Pl+Lat: ӓвӓтвлӓш
@@ -86,11 +88,12 @@ Tests:
      ӓвӓ+N+PxSg3+Sg+Dat: ӓвӓжӹлӓн 
      ӓвӓ+N+PxSg3+Sg+Ine: ӓвӓжӹштӹ #??
      ӓвӓ+N+PxSg3+Sg+Ill: ӓвӓжӹшкӹ #??
-     ӓвӓ+N+PxSg3+Sg+Ill: ӓвӓшкӹжӹ
+     ӓвӓ+N+Sg+Ill+PxSg3: ӓвӓшкӹжӹ
      ӓвӓ+N+Sg+Lat+PxSg3: ӓвӓэшӹжӹ #
      ӓвӓ+N+PxSg3+Sg+Comp: ӓвӓжӹлӓ
      ӓвӓ+N+PxSg3+Sg+Abe: ӓвӓжӹде
-     ӓвӓ+N+PxSg3+Pl+Nom: [ӓвӓжӹвлӓ, ӓвӓвлӓжӹ] # х2
+     ӓвӓ+N+PxSg3+Pl+Nom: ӓвӓжӹвлӓ
+     ӓвӓ+N+Pl+Nom+PxSg3: ӓвӓвлӓжӹ
      ӓвӓ+N+PxSg3+Pl+Gen: ӓвӓжӹвлӓн
      ӓвӓ+N+PxSg3+Pl+Acc: ӓвӓжӹвлӓм
      ӓвӓ+N+PxSg3+Pl+Com: ӓвӓжӹвлӓге
