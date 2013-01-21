@@ -1311,7 +1311,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilman aksioomaa oleva</t>
       </tg>
     </mg>
   </e>
@@ -1425,7 +1425,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">auditorio=</t>
+
+        <tCtn>
+          <t>juhla=</t>
+
+          <re>sali</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -1451,7 +1457,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ajankohtainen</t>
       </tg>
     </mg>
   </e>
@@ -1477,7 +1483,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">kätilö=</t>
       </tg>
     </mg>
   </e>
@@ -1503,7 +1509,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilman korostusta</t>
+
+        <t pos="A">korostuksetta</t>
       </tg>
     </mg>
   </e>
@@ -1529,7 +1537,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">sananpainolla oleva</t>
+
+        <tCtn>
+          <t>korostuksella </t>
+
+          <re>vieraalla korostuksella puhumisesta</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -1555,7 +1569,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilman osakkeita oleva</t>
       </tg>
     </mg>
   </e>
@@ -1581,7 +1595,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">osake=</t>
       </tg>
     </mg>
   </e>
@@ -1607,7 +1621,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">osakkeita sisältävä</t>
       </tg>
     </mg>
   </e>
@@ -1633,7 +1647,11 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">kielletty</t>
+
+        <t pos="A">sopimaton</t>
+
+        <t pos="A">kelvoton</t>
       </tg>
     </mg>
   </e>
@@ -1659,7 +1677,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilman isosiskoa oleva</t>
       </tg>
     </mg>
   </e>
@@ -1685,7 +1703,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">kirjava</t>
+
+        <t pos="A">monivärinen</t>
       </tg>
     </mg>
   </e>
@@ -1711,7 +1731,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">vilpillinen</t>
+
+        <t pos="A">epärehellinen</t>
       </tg>
     </mg>
   </e>
@@ -1737,7 +1759,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ruunaa omistava</t>
       </tg>
     </mg>
   </e>
@@ -1763,7 +1785,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">algebrasta oleva</t>
       </tg>
     </mg>
   </e>
@@ -1789,7 +1811,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">kevytmielinen</t>
       </tg>
     </mg>
   </e>
@@ -1815,7 +1837,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilman puistokujaa; ilman lehtikujaa</t>
       </tg>
     </mg>
   </e>
@@ -1841,7 +1863,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">lehtikujan kanssa oleva</t>
       </tg>
     </mg>
   </e>
@@ -1867,7 +1889,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">timanttia sisältävä</t>
       </tg>
     </mg>
   </e>
@@ -1893,7 +1915,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilman timanttia</t>
       </tg>
     </mg>
   </e>
