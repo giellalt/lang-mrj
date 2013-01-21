@@ -16,9 +16,14 @@ LEXICON N-pochta
 
 LEXICON N-olma
 ! олма:олма
- N_01 ;
++N: N_01 ;
++N+PxSg1+Sg+Nom:эм K ;
 +N+PxSg1+Pl+Nom:эмвлӓ K ;
 +N+Pl+Nom+PxSg1:влӓэм K ;
++N+PxSg2+Sg+Nom:эт K ;
++N+PxSg2+Pl+Nom:этвлӓ K ;
++N+Pl+Nom+PxSg2:влӓэт K ;
++N+Sg+Lat+PxSg3:%>эшЫ1жЫ1	   K  ;
 
 LEXICON N_01
 +Sg+Nom: 	  K	; 
@@ -97,14 +102,14 @@ LEXICON N_01
 +PxSg1+Pl+Abe:%>Е2мвлӓде   K  ;
 
 !!PxSg2
-!+PxSg2+Sg+Nom:%>Е2т		   K  ;
-!+PxSg2+Sg+Gen:%>Е2тӹн	   K  ;
-!+PxSg2+Sg+Acc:%>Е2тӹм	   K  ;
-!+PxSg2+Sg+Com:%>Е2тге	   K  ;
-!+PxSg2+Sg+Dat:%>Е2тлӓн	   K  ;
-!+Sg+Ine+PxSg2:%>ыштет	   K  ;
++PxSg2+Sg+Nom:%>Е2т		   K  ;
++PxSg2+Sg+Gen:%>Е2тӹн	   K  ;
++PxSg2+Sg+Acc:%>Е2тӹм	   K  ;
++PxSg2+Sg+Com:%>Е2тге	   K  ;
++PxSg2+Sg+Dat:%>Е2тлӓн	   K  ;
++Sg+Ine+PxSg2:%>ыштет	   K  ;
 +PxSg2+Sg+Ine:%>Е2тӹштӹ	   K  ;
-!+Sg+Ill+PxSg2:%>ышкет	   K  ;
++Sg+Ill+PxSg2:%>ышкет	   K  ;
 +PxSg2+Sg+Ill:%>Е2тӹшкӹ	   K  ;
 +Sg+Lat+PxSg2:%>Е2шет	   K  ;
 +PxSg2+Sg+Lat:%>Е2тӹш	   K  ;
@@ -138,22 +143,22 @@ LEXICON N_01
 +PxSg2+Pl+Abe:%>Е2твлӓде   K  ;
 
 !!PxSg3
-!+PxSg3+Sg+Nom:%>жЫ1		   K  ;
-!+PxSg3+Sg+Gen:%>жЫ1%>н	   K  ;
-!+PxSg3+Sg+Acc:%>жЫ1%>м	   K  ;
-!+PxSg3+Sg+Com:%>жЫ1ге	   K  ;
-!+PxSg3+Sg+Dat:%>жЫ1лӓн	   K  ;
-!+Sg+Ine+PxSg3:%>Ы1штежӹ	   K  ;
-+PxSg3+Sg+Ine:%>жЫ1%>штӹ	   K  ;
-!+Sg+Ill+PxSg3:%>ышкежӹ	   K  ;
-+PxSg3+Sg+Ill:%>жЫ1ӹшкӹ	   K  ;
-+Sg+Lat+PxSg3:%>Е2шежӹ	   K  ;
-+PxSg3+Sg+Lat:%>жЫ1ӹш	   K  ;
-+Sg+Comp+PxSg3:%>лаэжЫ1      K  ;
++PxSg3+Sg+Nom:%>жЫ1		   K  ;
++PxSg3+Sg+Gen:%>жЫ1%>н	   K  ;
++PxSg3+Sg+Acc:%>жЫ1%>м	   K  ;
++PxSg3+Sg+Com:%>жЫ1%>ге	   K  ;
++PxSg3+Sg+Dat:%>жЫ1%>лА1н	   K  ;
++Sg+Ine+PxSg3:%>Ы1штЫ1жЫ1	   K  ;
++PxSg3+Sg+Ine:%>жЫ1%>штЫ1	   K  ;
++Sg+Ill+PxSg3:%>Ы1шкЫ1жЫ1	   K  ;
++PxSg3+Sg+Ill:%>жЫ1шкЫ1	   K  ;
++Sg+Lat+PxSg3:%>Е2шЫ1жЫ1	   K  ;
++PxSg3+Sg+Lat:%>жЫ1ш	   K  ;
++Sg+Comp+PxSg3:%>лА1%>жЫ1      K  ;
 +PxSg3+Sg+Comp:%>жЫ1лӓ     K  ;
-+Sg+Abe+PxSg3:%>деэжЫ1	   K  ;
++Sg+Abe+PxSg3:%>дежЫ1	   K  ;
 +PxSg3+Sg+Abe:%>жЫ1де	   K  ;
-+Pl+Nom+PxSg3:%>влӓэжЫ1	   K  ;
++Pl+Nom+PxSg3:%>влӓжЫ1	   K  ;
 +PxSg3+Pl+Nom:%>жЫ1влӓ	   K  ;
 +PxSg3+Pl+Gen:%>жЫ1влӓн	   K  ;
 +PxSg3+Pl+Acc:%>жЫ1влӓм	   K  ;
