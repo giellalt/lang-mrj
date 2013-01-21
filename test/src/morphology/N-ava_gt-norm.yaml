@@ -46,7 +46,8 @@ Tests:
      ӓвӓ+N+PxSg1+Sg+Lat: ӓвӓмӹш
      ӓвӓ+N+PxSg1+Sg+Comp: ӓвӓмлӓ
      ӓвӓ+N+PxSg1+Sg+Abe: ӓвӓмде
-     ӓвӓ+N+PxSg1+Pl+Nom: [ӓвӓмвлӓ, ӓвӓэмвлӓ, ӓвӓвлӓэм] # х3
+     ӓвӓ+N+PxSg1+Pl+Nom: [ӓвӓмвлӓ, ӓвӓэмвлӓ] # х3
+     ӓвӓ+N+Pl+Nom+PxSg1: ӓвӓвлӓэм
      ӓвӓ+N+PxSg1+Pl+Gen: ӓвӓмвлӓн
      ӓвӓ+N+PxSg1+Pl+Acc: ӓвӓмвлӓм
      ӓвӓ+N+PxSg1+Pl+Com: ӓвӓмвлӓге
@@ -56,6 +57,51 @@ Tests:
      ӓвӓ+N+PxSg1+Pl+Lat: ӓвӓмвлӓш
      ӓвӓ+N+PxSg1+Pl+Comp: ӓвӓмвлӓлӓ
      ӓвӓ+N+PxSg1+Pl+Abe: ӓвӓмвлӓде
+
+     ӓвӓ+N+PxSg2+Sg+Nom: [ӓвӓт, ӓвӓэт]
+     ӓвӓ+N+PxSg2+Sg+Gen: ӓвӓтӹн
+     ӓвӓ+N+PxSg2+Sg+Acc: ӓвӓтӹм
+     ӓвӓ+N+PxSg2+Sg+Com: ӓвӓтге
+     ӓвӓ+N+PxSg2+Sg+Dat: ӓвӓтлӓн
+     ӓвӓ+N+PxSg2+Sg+Ine: ӓвӓтӹштӹ
+     ӓвӓ+N+PxSg2+Sg+Ill: ӓвӓтӹшкӹ
+     ӓвӓ+N+PxSg2+Sg+Lat: ӓвӓтӹш
+     ӓвӓ+N+PxSg2+Sg+Comp: ӓвӓтлӓ
+     ӓвӓ+N+PxSg2+Sg+Abe: ӓвӓтде
+     ӓвӓ+N+PxSg2+Pl+Nom: [ӓвӓтвлӓ, ӓвӓэтвлӓ, ӓвӓвлӓэт] # х3
+     ӓвӓ+N+PxSg2+Pl+Gen: ӓвӓтвлӓн
+     ӓвӓ+N+PxSg2+Pl+Acc: ӓвӓтвлӓм
+     ӓвӓ+N+PxSg2+Pl+Com: ӓвӓтвлӓге
+     ӓвӓ+N+PxSg2+Pl+Dat: ӓвӓтвлӓлӓн
+     ӓвӓ+N+PxSg2+Pl+Ine: ӓвӓтвлӓштӹ
+     ӓвӓ+N+PxSg2+Pl+Ill: ӓвӓтвлӓшкӹ
+     ӓвӓ+N+PxSg2+Pl+Lat: ӓвӓтвлӓш
+     ӓвӓ+N+PxSg2+Pl+Comp: ӓвӓтвлӓлӓ
+     ӓвӓ+N+PxSg2+Pl+Abe: ӓвӓтвлӓде
+
+     ӓвӓ+N+PxSg3+Sg+Nom: ӓвӓжӹ
+     ӓвӓ+N+PxSg3+Sg+Gen: ӓвӓжӹн
+     ӓвӓ+N+PxSg3+Sg+Acc: ӓвӓжӹм
+     ӓвӓ+N+PxSg3+Sg+Com: ӓвӓжӹге 
+     ӓвӓ+N+PxSg3+Sg+Dat: ӓвӓжӹлӓн 
+     ӓвӓ+N+PxSg3+Sg+Ine: ӓвӓжӹштӹ #??
+     ӓвӓ+N+PxSg3+Sg+Ill: ӓвӓжӹшкӹ #??
+     ӓвӓ+N+PxSg3+Sg+Ill: ӓвӓшкӹжӹ
+     ӓвӓ+N+Sg+Lat+PxSg3: ӓвӓэшӹжӹ #
+     ӓвӓ+N+PxSg3+Sg+Comp: ӓвӓжӹлӓ
+     ӓвӓ+N+PxSg3+Sg+Abe: ӓвӓжӹде
+     ӓвӓ+N+PxSg3+Pl+Nom: [ӓвӓжӹвлӓ, ӓвӓвлӓжӹ] # х2
+     ӓвӓ+N+PxSg3+Pl+Gen: ӓвӓжӹвлӓн
+     ӓвӓ+N+PxSg3+Pl+Acc: ӓвӓжӹвлӓм
+     ӓвӓ+N+PxSg3+Pl+Com: ӓвӓжӹвлӓге
+     ӓвӓ+N+PxSg3+Pl+Dat: ӓвӓжӹвлӓлӓн
+     ӓвӓ+N+PxSg3+Pl+Ine: ӓвӓжӹвлӓштӹ #??
+     ӓвӓ+N+PxSg3+Pl+Ill: ӓвӓжӹвлӓшкӹ #??
+     ӓвӓ+N+PxSg3+Pl+Lat: ӓвӓжӹвлӓш #??
+     ӓвӓ+N+PxSg3+Pl+Comp: ӓвӓжӹвлӓлӓ
+     ӓвӓ+N+PxSg3+Pl+Abe: ӓвӓжӹвлӓде
+
+
 #ӓвӓт, ӓвӓэт, ӓвӓэтшӹ, 
 #ӓвӓжӹ, 
 
