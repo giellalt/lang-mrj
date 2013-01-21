@@ -3713,7 +3713,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">värjäytyminen</t>
+
+        <tCtn>
+          <t>selkiintyminen</t>
+
+          <re>taivas</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -3739,7 +3745,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">korjaaminen; korjaus</t>
+
+        <t pos="N">kunnostaminen; kunnostus</t>
       </tg>
     </mg>
   </e>
@@ -3761,11 +3769,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>тоштемшӹ шамак</defNative>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">likainen</t>
       </tg>
     </mg>
   </e>
@@ -3791,7 +3799,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">ahven</t>
       </tg>
     </mg>
   </e>
@@ -3817,7 +3825,33 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">?!</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>аланышы</l>
+
+      <stg>
+        <st Contlex="NTag">аланышы</st>
+      </stg>
+
+      <stress>аланышы</stress>
+    </lg>
+
+    <pos>N</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>`ик аланышы´ фраза `халык´ манмым анжыкта</defNative>
+      </m>
+
+      <tg lang="fin">
+        <t pos="N">kansa</t>
       </tg>
     </mg>
   </e>
@@ -3843,7 +3877,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">?!</t>
       </tg>
     </mg>
   </e>
@@ -3854,6 +3888,8 @@
 
       <stg>
         <st Contlex="NTag">алати</st>
+
+        <st Contlex="NTag">алаготи</st>
       </stg>
 
       <stress>ала•ти</stress>
@@ -3869,7 +3905,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">petkuttaja</t>
+
+        <t pos="N">veijari</t>
       </tg>
     </mg>
   </e>
@@ -3895,7 +3933,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">ruuna; valakka</t>
       </tg>
     </mg>
   </e>
@@ -3917,11 +3955,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>лыды ганьрак кек </defNative>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">sotka</t>
       </tg>
     </mg>
   </e>
@@ -3947,7 +3985,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kirjavoittaminen</t>
       </tg>
     </mg>
   </e>
@@ -3973,7 +4011,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kirjavaksi muuttuminen</t>
       </tg>
     </mg>
   </e>
