@@ -83,8 +83,8 @@ Tests:
      кол+N+PxSg2+Sg+Acc: колетӹм
      кол+N+PxSg2+Sg+Com: колетге
      кол+N+PxSg2+Sg+Dat: колетлӓн
-     кол+N+PxSg2+Sg+Ine: колыштет #??
-     кол+N+PxSg2+Sg+Ill: колышкет
+     кол+N+Sg+Ine+PxSg2: колыштет #??
+     кол+N+Sg+Ill+PxSg2: колышкет
      кол+N+PxSg2+Sg+Lat: колетӹш
      кол+N+PxSg2+Sg+Comp: колетлӓ #
      кол+N+PxSg2+Sg+Abe: колетде
@@ -104,21 +104,21 @@ Tests:
      кол+N+PxSg3+Sg+Acc: колжым
      кол+N+PxSg3+Sg+Com: колжыге 
      кол+N+PxSg3+Sg+Dat: колжылан 
-     кол+N+PxSg3+Sg+Ine: колыштыжы #??
-     кол+N+PxSg3+Sg+Ill: колышкыжы #??
+     кол+N+Sg+Ine+PxSg3: колыштыжы #??
+     кол+N+Sg+Ill+PxSg3: колышкыжы #??
      кол+N+Sg+Lat+PxSg3: колешӹжӹ #
      кол+N+PxSg3+Sg+Comp: колжыла
      кол+N+PxSg3+Sg+Abe: колжыде
-     кол+N+PxSg3+Pl+Nom: колвлӓжӹ
-     кол+N+PxSg3+Pl+Gen: колвлӓжӹн
-     кол+N+PxSg3+Pl+Acc: колвлӓжӹм
-     кол+N+PxSg3+Pl+Com: колвлӓжӹге
-     кол+N+PxSg3+Pl+Dat: колвлӓжӹлӓн
-     кол+N+PxSg3+Pl+Ine: колвлӓжӹштӹ #??
-     кол+N+PxSg3+Pl+Ill: колвлӓжӹшкӹ #??
-     кол+N+PxSg3+Pl+Lat: колвлӓэшӹжӹ #??
-     кол+N+PxSg3+Pl+Comp: колвлӓжӹлӓ
-     кол+N+PxSg3+Pl+Abe: колвлӓжӹде
+     кол+N+Pl+Nom+PxSg3: колвлӓжӹ
+     кол+N+Pl+PxSg3+Gen: колвлӓжӹн
+     кол+N+Pl+PxSg3+Acc: колвлӓжӹм
+     кол+N+Pl+PxSg3+Com: колвлӓжӹге
+     кол+N+Pl+PxSg3+Dat: колвлӓжӹлӓн
+     кол+N+Pl+PxSg3+Ine: колвлӓжӹштӹ #??
+     кол+N+Pl+PxSg3+Ill: колвлӓжӹшкӹ #??
+     кол+N+Pl+Lat+PxSg3: колвлӓэшӹжӹ #??
+     кол+N+Pl+PxSg3+Comp: колвлӓжӹлӓ
+     кол+N+Pl+PxSg3+Abe: колвлӓжӹде
 
 
 #колт, колэт, колэтшӹ, 
