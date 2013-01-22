@@ -1941,7 +1941,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">aloetta sisältävä</t>
       </tg>
     </mg>
   </e>
@@ -1967,7 +1967,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">???</t>
       </tg>
     </mg>
   </e>
@@ -1993,7 +1993,23 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">petoksellinen</t>
+
+        <t pos="A">petollinen</t>
+
+        <t pos="A">pettävä</t>
+
+        <tCtn>
+          <t>salakuoppaa sisältävä</t>
+
+          <re>kuoppa</re>
+        </tCtn>
+
+        <tCtn>
+          <t>ansalla viritetty</t>
+
+          <re>metsäalue</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -2019,7 +2035,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilman petosta oleva</t>
+
+        <t pos="A">ilman ansaa oleva</t>
       </tg>
     </mg>
   </e>
@@ -2045,7 +2063,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">känsäinen</t>
+
+        <t pos="A">känsistynyt</t>
       </tg>
     </mg>
   </e>
@@ -2071,7 +2091,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilman känsäitä oleva</t>
       </tg>
     </mg>
   </e>
@@ -2097,7 +2117,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilman aakkosia oleva</t>
       </tg>
     </mg>
   </e>
@@ -2123,7 +2143,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">aakkosia sisältävä</t>
+
+        <t pos="A">kirjaimistolla varustettu</t>
       </tg>
     </mg>
   </e>
@@ -2149,7 +2171,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">niittyjä täynnä oleva</t>
       </tg>
     </mg>
   </e>
@@ -2175,7 +2197,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilman niittyä</t>
+
+        <tCtn>
+          <t>ilman niittyjä oleva</t>
+
+          <re>alue</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -2201,7 +2229,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">albumiin kuuluva</t>
+
+        <t pos="A">albumia varten oleva</t>
       </tg>
     </mg>
   </e>
@@ -2227,7 +2257,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilman alumiiniä</t>
+
+        <t pos="A">alumiinitta oleva</t>
       </tg>
     </mg>
   </e>
@@ -2253,7 +2285,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">alumiiniä sisältävä</t>
       </tg>
     </mg>
   </e>
@@ -2279,7 +2311,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ovellinen</t>
+
+        <t pos="A">oven kanssa</t>
       </tg>
     </mg>
   </e>
@@ -2305,7 +2339,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilman ovea</t>
+
+        <t pos="A">ilman ovia oleva</t>
       </tg>
     </mg>
   </e>
@@ -2331,7 +2367,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ovea varten oleva</t>
       </tg>
     </mg>
   </e>
@@ -2357,7 +2393,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">telttainen</t>
+
+        <t pos="A">risumajan kanssa</t>
       </tg>
     </mg>
   </e>
@@ -2383,7 +2421,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilman telttaa oleva</t>
+
+        <tCtn>
+          <t>ilman telttoja oleva</t>
+
+          <re>alue</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -2409,7 +2453,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilman poliklinikkaa </t>
       </tg>
     </mg>
   </e>
@@ -2435,7 +2479,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">poliklinikkaa sisältävä</t>
       </tg>
     </mg>
   </e>
@@ -2461,7 +2505,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">laskoksellinen</t>
+
+        <tCtn>
+          <t>laskoksia täynnä oleva</t>
+
+          <re>palttina</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -2513,7 +2563,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">amplitudin kanssa</t>
+
+        <t pos="A">laajuudella oleva</t>
       </tg>
     </mg>
   </e>
@@ -2539,7 +2591,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">kaislainen</t>
+
+        <tCtn>
+          <t>kaislaa täynnä oleva</t>
+
+          <re>alue</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -2565,7 +2623,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">kaislaton</t>
       </tg>
     </mg>
   </e>
@@ -2591,7 +2649,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilman analyysiä</t>
+
+        <tCtn>
+          <t>ilman koetuloksia oleva</t>
+
+          <re>lähete</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -2617,7 +2681,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">analyysiä sisältävä</t>
+
+        <tCtn>
+          <t>koetuloksilla varustettu</t>
+
+          <re>lähete</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -2643,7 +2713,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">yhdenmukaisuudella oleva??</t>
       </tg>
     </mg>
   </e>
@@ -2669,7 +2739,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">lankkua sisältävä</t>
+
+        <t pos="A">ohuita lautoja sisältävä</t>
       </tg>
     </mg>
   </e>
@@ -2695,7 +2767,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilman lankkua</t>
+
+        <t pos="A">ilman ohutta lautaa</t>
       </tg>
     </mg>
   </e>
@@ -2721,7 +2795,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">kurkkutulehdusta poteva</t>
+
+        <tCtn>
+          <t>nielurisatulehdusta poteva</t>
+
+          <re>potilas</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -2747,7 +2827,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">tyhmä</t>
+
+        <tCtn>
+          <t>tyhmeliini</t>
+
+          <re>lapsi</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -2773,7 +2859,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">tuleva</t>
+
+        <tCtn>
+          <t>tulevaisuudessa tapahtuva</t>
+
+          <re>suunnitelma</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -2799,8 +2891,24 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">etumainen</t>
+
+        <t pos="A">etu=</t>
+
+        <t pos="A">edellinen</t>
       </tg>
+
+      <xg>
+        <x>анзыл и</x>
+
+        <xt>sitä edellinen vuosi</xt>
+      </xg>
+
+      <xg>
+        <x>анзыл ин</x>
+
+        <xt>toissa vuonna</xt>
+      </xg>
     </mg>
   </e>
 
@@ -2825,7 +2933,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">toissa päivän ??</t>
       </tg>
     </mg>
   </e>
@@ -2851,7 +2959,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">toissa vuoden ??</t>
       </tg>
     </mg>
   </e>
@@ -2877,7 +2985,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">edessä oleva</t>
+
+        <t pos="A">tuleva</t>
       </tg>
     </mg>
   </e>
@@ -2903,7 +3013,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">edessä oleva</t>
+
+        <t pos="A">alkuperäinen</t>
       </tg>
     </mg>
   </e>
@@ -2929,7 +3041,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">lomaketta sisältävä</t>
       </tg>
     </mg>
   </e>
@@ -2955,7 +3067,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilman esittelyä oleva</t>
       </tg>
     </mg>
   </e>
@@ -2981,7 +3093,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">esittelyllä varustettu</t>
       </tg>
     </mg>
   </e>
@@ -3007,7 +3119,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">nimetömällä kirjeellä oleva??</t>
       </tg>
     </mg>
   </e>
@@ -3033,7 +3145,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">nimetön</t>
+
+        <t pos="A">anonyymi</t>
       </tg>
     </mg>
   </e>
@@ -3059,7 +3173,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A"/>
+        <t pos="A">yhtyettä sisältävä ???</t>
       </tg>
     </mg>
   </e>
