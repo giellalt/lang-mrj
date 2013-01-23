@@ -4,19 +4,26 @@
 
 LEXICON NTag
 +N: N_01 ;
++Sg+Nom: 	  K	; 
 
-LEXICON N-Cons
+LEXICON N-kol
+!кол:кол
 +N: N_01 ;
++Sg+Nom: 	  K	; 
 
-LEXICON N-Ы
-+N: N_01 ;
+LEXICON N-tyrvy
+!тырвы:тырв
++N:е N_01 ;
++Sg+Nom: 	  K	; 
 
 LEXICON N-pochta
 +N: N_01 ;
++Sg+Nom: 	  K	; 
 
 LEXICON N-olma
 ! олма:олма
 +N: N_01 ;
++Sg+Nom: 	  K	; 
 +N+PxSg1+Sg+Nom:эм K ;
 +N+PxSg1+Pl+Nom:эмвлӓ K ;
 +N+Pl+Nom+PxSg1:влӓэм K ;
@@ -26,7 +33,6 @@ LEXICON N-olma
 +N+Sg+Lat+PxSg3:%>эшЫ1жЫ1	   K  ;
 
 LEXICON N_01
-+Sg+Nom: 	  K	; 
 +Sg+Gen:%>Ы1н K ; ! 
 +Sg+Acc:%>Ы1м K ; !
 +Sg+Com:%>ге K ; ! (with a village)
