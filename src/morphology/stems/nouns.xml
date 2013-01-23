@@ -389,7 +389,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">(hieman) pullistuminen </t>
+        <t pos="N">(hieman) pullistuminen</t>
 
         <tCtn>
           <t>(hieman) nouseminen</t>
@@ -3773,13 +3773,27 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--тоштемшӹ шамак-->
 
-        <defNative>тоштемшӹ шамак</defNative>
+          <range rangeTemp="historical">arkaismi</range>
+        </head>
+
+        <defNative/>
       </m>
 
       <tg lang="fin">
-        <t pos="N">likainen</t>
+        <t pos="N">sottapytty</t>
+
+        <tCtn>
+          <t>tuhrimus</t>
+
+          <re>likaisesta lapsesta</re>
+        </tCtn>
+      </tg>
+
+      <tg lang="rus">
+        <t/>
       </tg>
     </mg>
   </e>
@@ -3961,7 +3975,7 @@
       <m>
         <head/>
 
-        <defNative>лыды ганьрак кек </defNative>
+        <defNative>лыды ганьрак кек</defNative>
       </m>
 
       <tg lang="fin">
@@ -27235,8 +27249,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">hankaluu</t>
       </tg>
+
+      <xg>
+        <x>вӹцӓшӹм шыпшаш</x>
+
+        <xt>lyödä vetoa jstkin</xt>
+      </xg>
     </mg>
   </e>
 
@@ -49153,7 +49173,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">hankaluu</t>
       </tg>
     </mg>
   </e>
@@ -49179,7 +49199,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">syy; syyllisyys</t>
       </tg>
     </mg>
   </e>
@@ -49205,7 +49225,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">vauvasänky; seimi</t>
+
+        <tCtn>
+          <t>seimi; soimi</t>
+
+          <re>kotieläin</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -49231,7 +49257,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">linssi; virvilänsiemen; virvilä</t>
       </tg>
     </mg>
   </e>
@@ -49309,7 +49335,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">laatikko</t>
       </tg>
     </mg>
   </e>
@@ -49335,8 +49361,21 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">tapa; keino; menetelmä; mahdollisuus; tilaisuus;
+        olosuhteet</t>
       </tg>
+
+      <xg>
+        <x>йӧнеш толаш</x>
+
+        <xt>olla kohdallaan; oikeaan aikaan; быть кстати; посчастливиться</xt>
+      </xg>
+
+      <xg>
+        <x>йӧн доно</x>
+
+        <xt>с толком; </xt>
+      </xg>
     </mg>
   </e>
 
@@ -52351,7 +52390,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">velkaorjuus</t>
+
+        <t pos="N">riippuvuus</t>
       </tg>
     </mg>
   </e>
@@ -53723,13 +53764,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--место, огороженное за печью, с ходом в подполье-->
+        </head>
 
         <defNative/>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">marilaistalon nurkkauspaikka uunin takana</t>
       </tg>
     </mg>
   </e>
@@ -53755,7 +53798,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kasarmi</t>
       </tg>
     </mg>
   </e>
@@ -68627,7 +68670,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">arkku</t>
       </tg>
     </mg>
   </e>
@@ -68653,7 +68696,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">lurjus</t>
+
+        <t pos="N">roisto</t>
       </tg>
     </mg>
   </e>
@@ -68679,7 +68724,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">siirtokunta</t>
+
+        <t pos="N">yhdyskunta</t>
       </tg>
     </mg>
   </e>
@@ -68705,7 +68752,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">siirtomaaorjuuttaja</t>
       </tg>
     </mg>
   </e>
@@ -68731,7 +68778,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kolonisaatio</t>
+
+        <t pos="N">siirtoasutus</t>
       </tg>
     </mg>
   </e>
@@ -68757,7 +68806,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">palsta; porakaivo</t>
       </tg>
     </mg>
   </e>
@@ -68783,7 +68832,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kolonna; rivistö</t>
       </tg>
     </mg>
   </e>
@@ -68805,11 +68854,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>техень лӹмӓн кек (Васикова 1994)</defNative>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">siperiannäätä</t>
       </tg>
     </mg>
   </e>
@@ -68835,7 +68884,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">koloriitti; väritys; värituntu</t>
       </tg>
     </mg>
   </e>
@@ -93795,7 +93844,11 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">hirmuolento</t>
+      </tg>
+
+      <tg lang="rus">
+        <t pos="N">геенна огненная; огненное чудовище</t>
       </tg>
     </mg>
   </e>
@@ -95063,13 +95116,17 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--synonyymit шланга-->
+        </head>
 
         <defNative/>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">takaraivo</t>
+
+        <t pos="N">niska</t>
       </tg>
     </mg>
   </e>
@@ -133289,7 +133346,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">mielihalu</t>
       </tg>
     </mg>
   </e>
