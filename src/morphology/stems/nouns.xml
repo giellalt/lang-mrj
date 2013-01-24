@@ -3865,9 +3865,11 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--`ик аланышы´ фраза `халык´ манмым анжыкта-->
+        </head>
 
-        <defNative>`ик аланышы´ фраза `халык´ манмым анжыкта</defNative>
+        <defNative>ик аланышы</defNative>
       </m>
 
       <tg lang="fin">
@@ -3973,9 +3975,11 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--лыды ганьрак кек-->
+        </head>
 
-        <defNative>лыды ганьрак кек</defNative>
+        <defNative/>
       </m>
 
       <tg lang="fin">
@@ -4077,13 +4081,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--puinen astia kotioluen tarjoamiseksi;  деревянная чаша, большой ковш с двумя ручками для пива. 2) Фраза "Алдыр Шӹдӹр" - созвездие Большая Медведица.-->
+        </head>
 
         <defNative/>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kousa; kousikko; juomakauha</t>
       </tg>
     </mg>
   </e>
@@ -4103,13 +4109,17 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--ткацкий термин скалка, скалица ( блок для навивания ниток); -->
+
+          <!--väkipyörä техн.термин блок для поднятия тяжестей-->
+        </head>
 
         <defNative/>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">väkipyörä; </t>
       </tg>
     </mg>
   </e>
@@ -4135,7 +4145,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">elatusapu; lapsenelatusapu</t>
       </tg>
     </mg>
   </e>
@@ -4161,7 +4171,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">alkoholismi</t>
       </tg>
     </mg>
   </e>
@@ -4187,7 +4197,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">alkoholisti; juopposairas</t>
       </tg>
     </mg>
   </e>
@@ -4213,7 +4223,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">alkoholi</t>
       </tg>
     </mg>
   </e>
@@ -4239,7 +4249,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">allah</t>
       </tg>
     </mg>
   </e>
@@ -4265,7 +4275,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">allegoria</t>
       </tg>
     </mg>
   </e>
@@ -4291,7 +4301,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">puistokuja; lehtikuja</t>
       </tg>
     </mg>
   </e>
@@ -4317,7 +4327,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">timantti</t>
       </tg>
     </mg>
   </e>
@@ -4327,13 +4337,13 @@
       <l>алмаштен</l>
 
       <stg>
-        <st Contlex="N-kol">алмаштен</st>
+        <st Contlex="GER-en">алмаштен</st>
       </stg>
 
       <stress>алма•штен</stress>
     </lg>
 
-    <pos>N</pos>
+    <pos>GER</pos>
 
     <mg>
       <m>
@@ -4343,7 +4353,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="GER">vaihtaen</t>
       </tg>
     </mg>
   </e>
@@ -4369,7 +4379,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">vaihtaminen; vaihtelemin; sijaistaminen</t>
       </tg>
     </mg>
   </e>
@@ -4395,7 +4405,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">morsiuslunnaat</t>
       </tg>
     </mg>
   </e>
@@ -4421,7 +4431,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">aloe</t>
       </tg>
     </mg>
   </e>
@@ -4447,7 +4457,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">petetyksi tuleminen; petkutetuksi tuleminen</t>
       </tg>
     </mg>
   </e>
@@ -4473,7 +4483,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">pettäminen; narraminen; valehteleminen</t>
       </tg>
     </mg>
   </e>
@@ -4499,7 +4509,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">petos; narraus; valehtelu; valhe</t>
       </tg>
     </mg>
   </e>
@@ -4525,7 +4535,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">petos; salakuoppa</t>
       </tg>
     </mg>
   </e>
@@ -4551,7 +4561,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">alttari</t>
       </tg>
     </mg>
   </e>
@@ -4577,7 +4587,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">rakkula; känsä</t>
       </tg>
     </mg>
   </e>
@@ -4597,13 +4607,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--ластовица, 4-угольная вставка под мышкой, характерная для марийского нац костюма-->
+        </head>
 
         <defNative/>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kainalotilkku; kainalolappu</t>
       </tg>
     </mg>
   </e>
@@ -4629,7 +4641,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">autiomaa; autiotontti</t>
       </tg>
     </mg>
   </e>
@@ -4655,7 +4667,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">autiomaa; autiotontti</t>
       </tg>
     </mg>
   </e>
@@ -4681,7 +4693,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">aakkoset; kirjaimisto</t>
       </tg>
     </mg>
   </e>
@@ -4701,13 +4713,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--Саватк1981 (Виловат) Пӹлӹшешет ши алха Хорошенько запомни, иначе...-->
+        </head>
 
         <defNative/>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">korvarengas</t>
       </tg>
     </mg>
   </e>
@@ -4733,7 +4747,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">niitty</t>
       </tg>
     </mg>
   </e>
@@ -4759,7 +4773,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">?!</t>
       </tg>
     </mg>
   </e>
@@ -4785,7 +4799,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">albumi; kansio; piirrustusvihko</t>
       </tg>
     </mg>
   </e>
@@ -4811,7 +4825,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">almanakka; kalenteri</t>
       </tg>
     </mg>
   </e>
@@ -4837,7 +4851,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">vuoristokiipeily</t>
       </tg>
     </mg>
   </e>
@@ -4863,7 +4877,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">vuoristokiipeilijä</t>
       </tg>
     </mg>
   </e>
@@ -4889,7 +4903,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">altto</t>
       </tg>
     </mg>
   </e>
@@ -4915,7 +4929,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">alumiini</t>
       </tg>
     </mg>
   </e>
@@ -4941,7 +4955,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">saukko</t>
       </tg>
     </mg>
   </e>
@@ -4967,7 +4981,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">nukuttaminen; yösijan tarjoaminen </t>
+
+        <tCtn>
+          <t>hapattaminen</t>
+
+          <re>maito</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -4993,7 +5013,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">nukkumattomuus; unettomuus; huonounisuus</t>
       </tg>
     </mg>
   </e>
@@ -5019,7 +5039,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">ovi</t>
       </tg>
     </mg>
   </e>
@@ -5045,7 +5065,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">teltta; risumaja</t>
       </tg>
     </mg>
   </e>
@@ -5071,33 +5091,35 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">aitta</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>амбича</l>
+      <l>ӓмбичӹ</l>
 
       <stg>
-        <st Contlex="NTag">амбича</st>
+        <st Contlex="NTag">ӓмбич</st>
       </stg>
 
-      <stress>амбича</stress>
+      <stress/>
     </lg>
 
     <pos>N</pos>
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--хытырымашты -->
+        </head>
 
-        <defNative/>
+        <defNative>ӓнпичӹ</defNative>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kasvimaa</t>
       </tg>
     </mg>
   </e>
@@ -5123,7 +5145,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">poliklinikka</t>
       </tg>
     </mg>
   </e>
@@ -5143,13 +5165,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--Складки на сукне (холсте) от вытягивания -->
+        </head>
 
         <defNative/>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">laskokset</t>
       </tg>
     </mg>
   </e>
@@ -5175,7 +5199,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">laskostuminen</t>
       </tg>
     </mg>
   </e>
@@ -5201,7 +5225,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">amerikkalainen; amerikkalaismies</t>
       </tg>
     </mg>
   </e>
@@ -5227,7 +5251,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">amerikkalainen; amerikkalaisnainen</t>
       </tg>
     </mg>
   </e>
@@ -5253,7 +5277,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">?!</t>
       </tg>
     </mg>
   </e>
@@ -5279,7 +5303,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">ammoniakki</t>
       </tg>
     </mg>
   </e>
@@ -5305,7 +5329,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">armahdus; amnestia</t>
       </tg>
     </mg>
   </e>
@@ -5331,7 +5355,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">iskun vaimennus</t>
       </tg>
     </mg>
   </e>
@@ -5357,7 +5381,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">amplitudi; laajuus</t>
       </tg>
     </mg>
   </e>
@@ -5383,7 +5407,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">amfiteatteri</t>
       </tg>
     </mg>
   </e>
@@ -5409,7 +5433,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kaisla; saraheinä; ruoko</t>
       </tg>
     </mg>
   </e>
@@ -5435,7 +5459,11 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">hamutsa; länget</t>
+      </tg>
+
+      <tg lang="rus">
+        <t>хомутина</t>
       </tg>
     </mg>
   </e>
@@ -5461,7 +5489,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">ameeba; tumalimaeläin</t>
       </tg>
     </mg>
   </e>
@@ -5487,7 +5515,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">näytteenotto; analyysi; erittely</t>
       </tg>
     </mg>
   </e>
@@ -5513,7 +5541,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">analysointi; jäsentely</t>
       </tg>
     </mg>
   </e>
@@ -5539,7 +5567,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">analogia; yhdenmukaisuus</t>
       </tg>
     </mg>
   </e>
@@ -5565,7 +5593,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">anarkia</t>
       </tg>
     </mg>
   </e>
@@ -5591,7 +5619,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">anarkismi</t>
       </tg>
     </mg>
   </e>
@@ -5617,7 +5645,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">anarkisti</t>
       </tg>
     </mg>
   </e>
@@ -5643,7 +5671,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">anatomia</t>
       </tg>
     </mg>
   </e>
@@ -5669,20 +5697,20 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">lauta; lankku</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>ангалтыш-панды</l>
+      <l>ӓнгӓлтӹш-панды</l>
 
       <stg>
-        <st Contlex="N-tyrvy">ангалтыш-панд</st>
+        <st Contlex="N-tyrvy">ӓнгӓлтӹш-панды</st>
       </stg>
 
-      <stress>ангалтыш-панды</stress>
+      <stress>ӓнгӓ•лтӹш-па•нды</stress>
     </lg>
 
     <pos>N</pos>
@@ -5695,7 +5723,11 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kävelykeppi; sauva</t>
+      </tg>
+
+      <tg lang="rus">
+        <t>посох, трость</t>
       </tg>
     </mg>
   </e>
@@ -5721,7 +5753,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">enkeli</t>
       </tg>
     </mg>
   </e>
@@ -5747,7 +5779,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">angiina; kurkkutulehdus; nielurisatulehdus</t>
       </tg>
     </mg>
   </e>
@@ -5773,7 +5805,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="A">englantilainen</t>
       </tg>
     </mg>
   </e>
@@ -5799,7 +5831,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">englantilainen; englantilaismies</t>
       </tg>
     </mg>
   </e>
@@ -5825,7 +5857,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">englantilainen; englantilaisnainen</t>
       </tg>
     </mg>
   </e>
@@ -5851,7 +5883,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">häkämyrkytyksen saaminen; järjen menettäminen</t>
       </tg>
     </mg>
   </e>
@@ -5877,14 +5909,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">jnk pään sekoittaminen; tainnuttaminen</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>андак</l>
+      <l>андак ???</l>
 
       <stg>
         <st Contlex="N-kol">андак</st>
@@ -5893,7 +5925,7 @@
       <stress>а•ндак</stress>
     </lg>
 
-    <pos>N</pos>
+    <pos/>
 
     <mg>
       <m>
@@ -5903,7 +5935,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="ADV">ajoissa; heti; samantien; etukäteen; alussa; ensiksi</t>
       </tg>
     </mg>
   </e>
@@ -5929,7 +5961,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">?!</t>
       </tg>
     </mg>
   </e>
@@ -5955,7 +5987,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">vitsi; kasku; pilajuttu</t>
       </tg>
     </mg>
   </e>
@@ -5981,7 +6013,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">katsominen</t>
       </tg>
     </mg>
   </e>
@@ -6007,7 +6039,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">katse; silmien ilme; katsomus; mielipide</t>
       </tg>
     </mg>
   </e>
@@ -6033,7 +6065,8 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">näyttäminen; osoittaminen; viittaminen; neuvominen;
+        esiintuominen; ilmituominen; esitys;</t>
       </tg>
     </mg>
   </e>
@@ -6059,17 +6092,17 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">katseleminen; silmäileminen</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>анзыкыла</l>
+      <l>анзыкыла???</l>
 
       <stg>
-        <st Contlex="N-olma">анзыкыла</st>
+        <st Contlex="N-olma">анзыкыла???</st>
       </stg>
 
       <stress>а•нзыкыла</stress>
@@ -6085,7 +6118,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">eteenpäin</t>
       </tg>
     </mg>
   </e>
@@ -6111,7 +6144,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="A">tuleva; tulevaisuudessa tapahtuva</t>
       </tg>
     </mg>
   </e>
@@ -6137,7 +6170,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">esiliina; essu</t>
       </tg>
     </mg>
   </e>
@@ -6163,7 +6196,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">lapsivedet</t>
       </tg>
     </mg>
   </e>
@@ -6189,7 +6222,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">toissapäiväinen päivä</t>
       </tg>
     </mg>
   </e>
@@ -6215,7 +6248,11 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">aluna; alunat</t>
+      </tg>
+
+      <tg lang="rus">
+        <t>геолог. квасцы </t>
       </tg>
     </mg>
   </e>
@@ -49374,7 +49411,7 @@
       <xg>
         <x>йӧн доно</x>
 
-        <xt>с толком; </xt>
+        <xt>с толком;</xt>
       </xg>
     </mg>
   </e>
