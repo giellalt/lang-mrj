@@ -1,16 +1,13 @@
-
-
-These pages document our Hill Mari (Western Mari) parser.
+!!! Dynamic documentation
 
 * [Links to generated source file documentation|Links.html]
-
-!!! Source files
-*  [stems|https://victorio.uit.no/langtech/trunk/langs/mrj/src/morphology/stems/]   
+* Source files: [stems|https://victorio.uit.no/langtech/trunk/langs/mrj/src/morphology/stems/]   
   / [affixes|https://victorio.uit.no/langtech/trunk/langs/mrj/src/morphology/affixes/] 
   / [twolc|https://victorio.uit.no/langtech/trunk/langs/mrj/src/phonology/mrj-phon.twolc]   
   / [yaml|https://victorio.uit.no/langtech/trunk/langs/mrj/test/src/morphology/]
-  / [paradigm|http://giellatekno.uit.no/cgi/p-mrj.fin.html]
+* Generation of: [paradigms|http://giellatekno.uit.no/cgi/p-mrj.fin.html]
   / [text|http://giellatekno.uit.no/cgi/d-mrj.fin.html]
+
 !!! Grammatical issues
 
 * [The tags that are in use|https://victorio.uit.no/langtech/trunk/langs/mrj/src/morphology/root.lexc]   
