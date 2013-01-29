@@ -6099,16 +6099,16 @@
 
   <e>
     <lg>
-      <l>анзыкыла!</l>
+      <l>анзыкыла</l>
 
       <stg>
-        <st Contlex="N-olma">анзыкыла</st>
+        <st Contlex="AdvTag">анзыкыла</st>
       </stg>
 
       <stress>а•нзыкыла</stress>
     </lg>
 
-    <pos>N</pos>
+    <pos>Adv</pos>
 
     <mg>
       <m>
@@ -6120,6 +6120,12 @@
       <tg lang="fin">
         <t pos="N">eteenpäin</t>
       </tg>
+
+      <xg>
+        <x>анзыкыла!</x>
+
+        <xt>eteenpäin!</xt>
+      </xg>
     </mg>
   </e>
 
@@ -6144,7 +6150,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="A">tuleva; tulevaisuudessa tapahtuva</t>
+        <t pos="A">tulevaisuus; tuleva; tulevaisuudessa tapahtuva</t>
       </tg>
     </mg>
   </e>
@@ -6648,7 +6654,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">antonyymi; </t>
+        <t pos="N">antonyymi;</t>
       </tg>
     </mg>
   </e>
@@ -6888,7 +6894,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">kättentaputukset; suosionosoitukset; aplodit </t>
+        <t pos="N">kättentaputukset; suosionosoitukset; aplodit</t>
       </tg>
     </mg>
   </e>
@@ -7238,7 +7244,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">kahdeskymmenes osa hehtaria </t>
+        <t pos="N">kahdeskymmenes osa hehtaria</t>
       </tg>
     </mg>
   </e>
@@ -8604,7 +8610,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">artteli; joukko </t>
+        <t pos="N">artteli; joukko</t>
 
         <tCtn>
           <t>tieseuralainen</t>
@@ -9370,7 +9376,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">palttinan viikkaminen tietyyn pituuteen </t>
+        <t pos="N">palttinan laskostaminen tietyn pituuden mukaan</t>
       </tg>
     </mg>
   </e>
@@ -9838,7 +9844,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">päällikkö; atamaani; kasakkapäällikkö </t>
+        <t pos="N">päällikkö; atamaani; kasakkapäällikkö</t>
       </tg>
     </mg>
   </e>
@@ -9890,7 +9896,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">ateisti; jumalankieltäjä; </t>
+        <t pos="N">ateisti; jumalankieltäjä;</t>
       </tg>
     </mg>
   </e>
@@ -9974,7 +9980,7 @@
       <xg>
         <x>атлас тыгыр</x>
 
-        <xt>atlaspaita; atlaskangas paita</xt>
+        <xt>atlaspaita; paita atlaskankaasta</xt>
       </xg>
     </mg>
   </e>
@@ -10000,7 +10006,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">atleetti; voimamies</t>
       </tg>
     </mg>
   </e>
@@ -10026,7 +10032,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">ilmakehä; ilmaperä</t>
       </tg>
     </mg>
   </e>
@@ -10052,7 +10058,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">atomi</t>
       </tg>
     </mg>
   </e>
@@ -10078,7 +10084,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">attašea; avustaja</t>
       </tg>
     </mg>
   </e>
@@ -10104,7 +10110,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">päästötodistus; todistus; työtodistus</t>
       </tg>
     </mg>
   </e>
@@ -10130,7 +10136,8 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">arvoasteen myöntäminen; päteväksi julistaminen;
+        luonnehtiminen</t>
       </tg>
     </mg>
   </e>
@@ -10156,7 +10163,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">huvilaitteet; vetonumero; menestysnumero</t>
       </tg>
     </mg>
   </e>
@@ -10182,8 +10189,24 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">sänkipelto; sänki viljanleikuun jälkeen</t>
+
+        <tCtn>
+          <t>äpäre; äpärerehut; odelma</t>
+
+          <re>heinä</re>
+        </tCtn>
       </tg>
+
+      <tg lang="rus">
+        <t>жнивье; жнива; стернь; отава</t>
+      </tg>
+
+      <xg>
+        <x>шуды атыл</x>
+
+        <xt>отава</xt>
+      </xg>
     </mg>
   </e>
 
@@ -10208,7 +10231,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">luentosali; opetussali; kuulijakunta</t>
       </tg>
     </mg>
   </e>
@@ -10234,33 +10257,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>аут</l>
-
-      <stg>
-        <st Contlex="N-kol">аут</st>
-      </stg>
-
-      <stress>а•ут</stress>
-    </lg>
-
-    <pos>N</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">aul; vuoristokylä</t>
       </tg>
     </mg>
   </e>
@@ -10286,7 +10283,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">huijari</t>
       </tg>
     </mg>
   </e>
@@ -10312,7 +10309,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">mainosjuliste; irtoilmoitus</t>
       </tg>
     </mg>
   </e>
@@ -10338,7 +10335,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">aforismi; mietelause; ajatelma</t>
       </tg>
     </mg>
   </e>
@@ -10364,7 +10361,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">afrikkalainen</t>
       </tg>
     </mg>
   </e>
@@ -10390,7 +10387,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">afrikkalainen nainen</t>
       </tg>
     </mg>
   </e>
@@ -10416,8 +10413,20 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">veitikka; hävytön ihminen; </t>
       </tg>
+
+      <xg>
+        <x>утла ахальыш кеӓш</x>
+
+        <xt>käyttäytyä julkeasti; käyttäytyä hävyttömästi</xt>
+      </xg>
+
+      <xg>
+        <x>утла ахальыш колташ</x>
+
+        <xt>antaa liikaa vapautta</xt>
+      </xg>
     </mg>
   </e>
 
@@ -10442,7 +10451,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">veitikka; vallaton ihminen</t>
       </tg>
     </mg>
   </e>
@@ -10468,7 +10477,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">telmiminen; vallattomuus; elämöiminen</t>
       </tg>
     </mg>
   </e>
@@ -10494,7 +10503,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">asetoni</t>
       </tg>
     </mg>
   </e>
@@ -10520,20 +10529,28 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">koliikki; vatsakipu; pistäminen</t>
       </tg>
+
+      <xg>
+        <x>ачыла шыркедӓ</x>
+
+        <xt>vatsanpuruja</xt>
+      </xg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>аша</l>
+      <l>аш</l>
 
       <stg>
-        <st Contlex="N-olma">аша</st>
+        <st Contlex="N-kol">аш</st>
+
+        <st Contlex="N-kol">ашы</st>
       </stg>
 
-      <stress>аша</stress>
+      <stress>аш</stress>
     </lg>
 
     <pos>N</pos>
@@ -10546,8 +10563,54 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">menestys; edistys; saavutus </t>
       </tg>
+
+      <xg>
+        <x>нима ашымат ӹштӓш ӹш ли</x>
+
+        <xt>ei onnistunut saavuttaa mitään </xt>
+      </xg>
+
+      <xg>
+        <x>ашым ӹштӓш</x>
+
+        <xt>auttaa jllek töissä</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>ашы</l>
+
+      <stg>
+        <st Contlex="N-kol">ашы</st>
+
+        <st Contlex="N-kol">ашы</st>
+      </stg>
+
+      <stress>а•шы</stress>
+    </lg>
+
+    <pos>N</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="N">hyöty; saavutus</t>
+      </tg>
+
+      <xg>
+        <x>ик намалтыш вӹдӹм канда гӹнят, ашы</x>
+
+        <xt>vaikka toisi korennolla vettä, olisi hyvä apu</xt>
+      </xg>
     </mg>
   </e>
 
@@ -10572,7 +10635,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">askel; harppaus</t>
       </tg>
     </mg>
   </e>
@@ -10598,7 +10661,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">askeleen ottaminen; harppaus; nousu</t>
       </tg>
     </mg>
   </e>
@@ -10624,7 +10687,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">askeleet; askellus; kävelytapa; yhden askeleen mitta </t>
       </tg>
     </mg>
   </e>
@@ -10650,8 +10713,20 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">korvaukseksi</t>
+
+        <tCtn>
+          <t>korvaukseksi</t>
+
+          <re>työskenteleminen</re>
+        </tCtn>
       </tg>
+
+      <xg>
+        <x>ашлам пӓшӓлӓш</x>
+
+        <xt>korvata työllä</xt>
+      </xg>
     </mg>
   </e>
 
@@ -10676,7 +10751,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">edistyminen; edistys; menestyminen </t>
       </tg>
     </mg>
   </e>
@@ -10702,7 +10777,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">!? x tämä virheellinen sana poistettava</t>
       </tg>
     </mg>
   </e>
@@ -10728,7 +10803,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">lentokenttä</t>
       </tg>
     </mg>
   </e>
@@ -10754,7 +10829,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">aerosoli</t>
       </tg>
     </mg>
   </e>
@@ -10780,7 +10855,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">ilmailuklubi</t>
       </tg>
     </mg>
   </e>
@@ -10806,7 +10881,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">lentokone</t>
       </tg>
     </mg>
   </e>
@@ -10832,7 +10907,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">ilmailuasema; lentoasema</t>
       </tg>
     </mg>
   </e>
@@ -10858,33 +10933,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>аэрофлот</l>
-
-      <stg>
-        <st Contlex="N-kol">аэрофлот</st>
-      </stg>
-
-      <stress>аэрофло•т</stress>
-    </lg>
-
-    <pos>N</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">ilmapallo</t>
       </tg>
     </mg>
   </e>
@@ -10910,7 +10959,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">?!</t>
       </tg>
     </mg>
   </e>
@@ -10936,7 +10985,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">aurinko</t>
       </tg>
     </mg>
   </e>
@@ -10962,7 +11011,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">selkeneminen; selveneminen</t>
       </tg>
     </mg>
   </e>
@@ -10988,7 +11037,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">leppäkerttu</t>
       </tg>
     </mg>
   </e>
@@ -11014,7 +11063,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">auringon pilkahdus; hetkeksi selveneminen</t>
       </tg>
     </mg>
   </e>
@@ -11040,7 +11089,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">selkeneminen</t>
       </tg>
     </mg>
   </e>
@@ -11066,7 +11115,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">selkeneminen</t>
       </tg>
     </mg>
   </e>
@@ -11092,7 +11141,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">mhr: aukko; reikkä; suu</t>
       </tg>
     </mg>
   </e>
@@ -11118,7 +11167,11 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">?!</t>
+        <t pos="N">?! hyppyrotan laji</t>
+      </tg>
+
+      <tg lang="rus">
+        <t>земляной заяц; пятипалый тушканчик</t>
       </tg>
     </mg>
   </e>
@@ -42688,7 +42741,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">netti; verkko </t>
+        <t pos="N">netti; verkko</t>
       </tg>
     </mg>
   </e>
