@@ -10413,7 +10413,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">veitikka; hävytön ihminen; </t>
+        <t pos="N">veitikka; hävytön ihminen;</t>
       </tg>
 
       <xg>
@@ -10563,13 +10563,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">menestys; edistys; saavutus </t>
+        <t pos="N">menestys; edistys; saavutus</t>
       </tg>
 
       <xg>
         <x>нима ашымат ӹштӓш ӹш ли</x>
 
-        <xt>ei onnistunut saavuttaa mitään </xt>
+        <xt>ei onnistunut saavuttaa mitään</xt>
       </xg>
 
       <xg>
@@ -10687,7 +10687,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">askeleet; askellus; kävelytapa; yhden askeleen mitta </t>
+        <t pos="N">askeleet; askellus; kävelytapa; yhden askeleen mitta</t>
       </tg>
     </mg>
   </e>
@@ -10751,7 +10751,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">edistyminen; edistys; menestyminen </t>
+        <t pos="N">edistyminen; edistys; menestyminen</t>
       </tg>
     </mg>
   </e>
@@ -16345,7 +16345,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">?</t>
       </tg>
     </mg>
   </e>
@@ -16371,7 +16371,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">vaunu</t>
       </tg>
     </mg>
   </e>
@@ -16397,7 +16397,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">ravintolavaunu</t>
       </tg>
     </mg>
   </e>
@@ -16423,7 +16423,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kaatovaunu; työntövaunu; kippivaunu</t>
       </tg>
     </mg>
   </e>
@@ -16449,7 +16449,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kurikka; nuija; vääntövipu; viputanko</t>
       </tg>
     </mg>
   </e>
@@ -16475,7 +16475,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">irti lähteminen; irtaantuminen</t>
+
+        <tCtn>
+          <t>irti lähteminen</t>
+
+          <re>puukuori</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -16501,7 +16507,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">pilaantumattomuus</t>
       </tg>
     </mg>
   </e>
@@ -16527,8 +16533,21 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">homehtuminen; pilaantuminen; vanheneminen; pintyminen;
+        sumentuminen </t>
+
+        <tCtn>
+          <t>sumentuminen</t>
+
+          <re>silmät</re>
+        </tCtn>
       </tg>
+
+      <xg>
+        <x>сӹнзӓ вадангеш</x>
+
+        <xt>silmät sumentuu</xt>
+      </xg>
     </mg>
   </e>
 
@@ -16553,7 +16572,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">utaret; udar</t>
       </tg>
     </mg>
   </e>
@@ -16579,7 +16598,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">ilta</t>
       </tg>
     </mg>
   </e>
@@ -16605,7 +16624,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">iltapäivä</t>
       </tg>
     </mg>
   </e>
@@ -16657,7 +16676,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">pitkin iltaa?</t>
       </tg>
     </mg>
   </e>
@@ -16683,7 +16702,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">haltia</t>
       </tg>
     </mg>
   </e>
@@ -16709,7 +16728,19 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">juuri; pohja; suoni</t>
+
+        <tCtn>
+          <t>lähde</t>
+
+          <re>vesi</re>
+        </tCtn>
+
+        <tCtn>
+          <t>sanavartalo; sanan kanta</t>
+
+          <re>kieliopin</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -16735,7 +16766,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">juurtumaan antaminen</t>
+
+        <tCtn>
+          <t>suotuisten olojen luominen kasvustolle</t>
+
+          <re>kasvusto</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -16761,7 +16798,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">juurtuminen; asumaan asettuminen</t>
       </tg>
     </mg>
   </e>
@@ -16787,8 +16824,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">juovi; suoni</t>
       </tg>
+
+      <xg>
+        <x>важаран пу</x>
+
+        <xt>корявая древесина</xt>
+      </xg>
     </mg>
   </e>
 
@@ -16813,7 +16856,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">juurikarva?</t>
       </tg>
     </mg>
   </e>
@@ -16839,8 +16882,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">haara; haarautuma; tienhaara; puun haara </t>
       </tg>
+
+      <xg>
+        <x>важикӓн укш</x>
+
+        <xt>haarainen oksa</xt>
+      </xg>
     </mg>
   </e>
 
@@ -16865,7 +16914,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">nivuset; haarojen väli; sormien väli; varpaiden väli</t>
       </tg>
     </mg>
   </e>
@@ -16891,7 +16940,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">haarautuminen; halkeaminen</t>
+
+        <tCtn>
+          <t>halkeaminen</t>
+
+          <re>puu</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -16902,6 +16957,8 @@
 
       <stg>
         <st Contlex="N-kol">важмалтыш</st>
+
+        <st Contlex="N-kol">важик</st>
       </stg>
 
       <stress>важма•лтыш</stress>
@@ -16917,7 +16974,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">haara; haarautuma; tienhaara; puun haara</t>
       </tg>
     </mg>
   </e>
@@ -16928,6 +16985,8 @@
 
       <stg>
         <st Contlex="N-kol">важык</st>
+
+        <st Contlex="N-kol">важик</st>
       </stg>
 
       <stress>ва•жык</stress>
@@ -16943,7 +17002,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">haara; haarautuma; tienhaara; puun haara </t>
       </tg>
     </mg>
   </e>
@@ -16969,7 +17028,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">??</t>
       </tg>
     </mg>
   </e>
@@ -16995,7 +17054,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">tien haara ylänteellä; tien risteys ylänteellä</t>
       </tg>
     </mg>
   </e>
@@ -17021,7 +17080,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">häpeämättömyys</t>
       </tg>
     </mg>
   </e>
@@ -17047,7 +17106,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">häpeä</t>
       </tg>
     </mg>
   </e>
