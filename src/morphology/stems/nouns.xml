@@ -18690,7 +18690,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">ADV; läpi; lävitse; läpikotaisin; kokonaan; </t>
+        <t pos="N">ADV; läpi; lävitse; läpikotaisin; kokonaan;</t>
       </tg>
     </mg>
   </e>
@@ -20234,7 +20234,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">sävelmä; sävel </t>
+        <t pos="N">sävelmä; sävel</t>
 
         <tCtn>
           <t>sävelmä</t>
@@ -20318,7 +20318,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">ojentaminen</t>
       </tg>
     </mg>
   </e>
@@ -20344,7 +20344,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">auton ohjaaminen; johtaaminen; hoitaminen</t>
+
+        <tCtn>
+          <t>ohjata</t>
+
+          <re>hevosta</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -20370,7 +20376,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">ojentaa; suoristaa käsi; pingottaa; kiristää </t>
+
+        <tCtn>
+          <t>pingottaa; kiristää</t>
+
+          <re>loimi</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -20396,8 +20408,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">virna</t>
       </tg>
+
+      <xg>
+        <x>викӹ шуды</x>
+
+        <xt>virna</xt>
+      </xg>
     </mg>
   </e>
 
@@ -20422,7 +20440,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">haarukka; kahveli</t>
       </tg>
     </mg>
   </e>
@@ -20448,7 +20466,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">variseminen; kariseminen; putoilemineen; valuminen;
+        juokseminen </t>
+
+        <tCtn>
+          <t>juokseminen</t>
+
+          <re>nesteen</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -20474,8 +20499,20 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">puumahla; jälsi</t>
+
+        <tCtn>
+          <t>jälsi</t>
+
+          <re>heinä; ruoho</re>
+        </tCtn>
       </tg>
+
+      <xg>
+        <x>вильӹ пыра</x>
+
+        <xt>puu täyttyy mahlalla</xt>
+      </xg>
     </mg>
   </e>
 
@@ -20500,7 +20537,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">haaska; raato</t>
       </tg>
     </mg>
   </e>
@@ -20526,7 +20563,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">pudottaminen; valuttaminen</t>
+
+        <tCtn>
+          <t>pudottaminen</t>
+
+          <re>puu syyslehtiä</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -20552,8 +20595,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">aivot; ydin</t>
       </tg>
+
+      <xg>
+        <x>лу вим</x>
+
+        <xt>luuydin</xt>
+      </xg>
     </mg>
   </e>
 
@@ -20578,8 +20627,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">hermo</t>
       </tg>
+
+      <xg>
+        <x>шӹртӹ вимгӹ</x>
+
+        <xt>hermosäikeet; neurofibrillit; нервные волокна</xt>
+      </xg>
     </mg>
   </e>
 
@@ -20604,7 +20659,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">talkoot; talkooapu; talkoovoima</t>
       </tg>
     </mg>
   </e>
@@ -20615,6 +20670,8 @@
 
       <stg>
         <st Contlex="N-kol">вимӓк</st>
+
+        <st Contlex="N-kol">мимӓк</st>
       </stg>
 
       <stress>ви•мӓк</stress>
@@ -20624,13 +20681,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--пӱшӓнгӹ киш-->
+        </head>
 
         <defNative/>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kumihartsi</t>
       </tg>
     </mg>
   </e>
@@ -20656,8 +20715,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">vävy</t>
       </tg>
+
+      <xg>
+        <x>кого вингӹ</x>
+
+        <xt>kosiomies; puhemies häissä</xt>
+      </xg>
     </mg>
   </e>
 
@@ -20682,7 +20747,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">rosollisalaatti</t>
       </tg>
     </mg>
   </e>
@@ -20693,6 +20758,8 @@
 
       <stg>
         <st Contlex="N-kol">виноват</st>
+
+        <st Contlex="N-kol">вуйнамат</st>
       </stg>
 
       <stress>вино•ват</stress>
@@ -20708,8 +20775,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">syy</t>
       </tg>
+
+      <xg>
+        <x>вуйнаматан</x>
+
+        <xt>syyllinen</xt>
+      </xg>
     </mg>
   </e>
 
@@ -20734,7 +20807,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">viinirypäle</t>
       </tg>
     </mg>
   </e>
@@ -20760,7 +20833,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">ruuvi</t>
       </tg>
     </mg>
   </e>
@@ -20786,7 +20859,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kivääri</t>
       </tg>
     </mg>
   </e>
@@ -20812,7 +20885,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">ruuvaamminen; kiinni ruuvaaminen</t>
       </tg>
     </mg>
   </e>
@@ -20838,7 +20911,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">syyllistäminen </t>
       </tg>
     </mg>
   </e>
@@ -20864,7 +20937,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">syy; syyllisyys</t>
       </tg>
     </mg>
   </e>
@@ -20890,7 +20963,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">sello</t>
       </tg>
     </mg>
   </e>
@@ -20916,7 +20989,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">aihe; syy</t>
       </tg>
     </mg>
   </e>
@@ -20942,7 +21015,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">?!</t>
       </tg>
     </mg>
   </e>
@@ -20968,7 +21041,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">vaaka; mitta</t>
       </tg>
     </mg>
   </e>
@@ -20994,7 +21067,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">mittauttaminen</t>
       </tg>
     </mg>
   </e>
@@ -21046,8 +21119,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">mittaminen; punnitseminen; kokeileminen</t>
       </tg>
+
+      <xg>
+        <x>тыгырым висен анжаш</x>
+
+        <xt>sovittaa; kokeilla pukua</xt>
+      </xg>
     </mg>
   </e>
 
@@ -21072,7 +21151,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">vitamiini</t>
       </tg>
     </mg>
   </e>
@@ -21098,7 +21177,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">vitriini; näyteikkuna</t>
       </tg>
     </mg>
   </e>
@@ -21124,7 +21203,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">navetta; läävä</t>
       </tg>
     </mg>
   </e>
@@ -21150,8 +21229,20 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">tunkeutuminen; kyllästyttäminen</t>
       </tg>
+
+      <xg>
+        <x>лу вашт витӓрӓ</x>
+
+        <xt>paleltaa; пронять до костей</xt>
+      </xg>
+
+      <xg>
+        <x>йӓнг витӓрӓш</x>
+
+        <xt>ahdistaa; kiusata</xt>
+      </xg>
     </mg>
   </e>
 
@@ -21176,7 +21267,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">varapresidentti</t>
       </tg>
     </mg>
   </e>
@@ -21202,34 +21293,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">silittäminen; hiveleminen; hyväileminen</t>
       </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l>вичкӹмӓш</l>
+      <xg>
+        <x>вичкӓлтен попалташ; вичкӓлтен мыралташ</x>
 
-      <stg>
-        <st Contlex="N-kol">вичкӹмӓш</st>
-      </stg>
-
-      <stress>ви•чкӹмӓш</stress>
-    </lg>
-
-    <pos>N</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg lang="fin">
-        <t pos="N"/>
-      </tg>
+        <xt>hellästi puhua; hellästi laulaa</xt>
+      </xg>
     </mg>
   </e>
 
@@ -21254,7 +21325,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">pajuvitsa; pajuoksa</t>
       </tg>
     </mg>
   </e>
@@ -21280,7 +21351,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">sitominen pajuvitsalla; niputtaminen</t>
       </tg>
     </mg>
   </e>
@@ -21296,7 +21367,7 @@
       <stress>виш</stress>
     </lg>
 
-    <pos>N</pos>
+    <pos>A</pos>
 
     <mg>
       <m>
@@ -21306,7 +21377,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">Adjektiivi!</t>
       </tg>
     </mg>
   </e>
@@ -21326,13 +21397,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--yhdyssana?< виш (avoin, auki) + кӹр (niini. ven: лубо`к, лубяной) -->
+        </head>
 
         <defNative/>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">niini</t>
       </tg>
     </mg>
   </e>
@@ -21358,7 +21431,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kirsikka</t>
       </tg>
     </mg>
   </e>
@@ -21384,7 +21457,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kirsikka</t>
       </tg>
     </mg>
   </e>
@@ -21410,7 +21483,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kirsikkapuu</t>
       </tg>
     </mg>
   </e>
@@ -21436,7 +21509,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">hirssi; hirssipuuro</t>
       </tg>
     </mg>
   </e>
@@ -21462,7 +21535,8 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kehittäminen; kehitys; vahvennus; voimistus; tehostus;
+        suoristus</t>
       </tg>
     </mg>
   </e>
@@ -21488,7 +21562,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kehitys; kehittyminen; voimistuminen; lujittuminen</t>
       </tg>
     </mg>
   </e>
@@ -21514,7 +21588,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">suoristuminen; oikeneminen; suoristautuminen</t>
       </tg>
     </mg>
   </e>
@@ -21540,7 +21614,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">suoristaminen; ojentaminen</t>
       </tg>
     </mg>
   </e>
@@ -21566,7 +21640,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">suoristaminen</t>
       </tg>
     </mg>
   </e>
@@ -21592,7 +21666,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">suoristuminen; oikeneminen; suoristautuminen</t>
       </tg>
     </mg>
   </e>
@@ -21618,7 +21692,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">panos; talletus</t>
       </tg>
     </mg>
   </e>
@@ -21644,7 +21718,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">tallettaja</t>
       </tg>
     </mg>
   </e>
@@ -21670,7 +21744,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kytkin; valokatkaisija</t>
       </tg>
     </mg>
   </e>
@@ -21696,7 +21770,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">valta; viranomaiset</t>
       </tg>
     </mg>
   </e>
@@ -21722,7 +21796,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">vaikutus</t>
       </tg>
     </mg>
   </e>
@@ -21748,7 +21822,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">huomio</t>
       </tg>
     </mg>
   </e>
@@ -21768,13 +21842,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--kala-->
+        </head>
 
         <defNative/>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">vobla</t>
       </tg>
     </mg>
   </e>
@@ -21800,7 +21876,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">laulunäytelmä</t>
       </tg>
     </mg>
   </e>
@@ -21826,7 +21902,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">vesipumppuasema</t>
       </tg>
     </mg>
   </e>
@@ -21852,7 +21928,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">vesiputous; koski</t>
       </tg>
     </mg>
   </e>
@@ -21878,7 +21954,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">vety</t>
       </tg>
     </mg>
   </e>
@@ -21904,7 +21980,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">vesitauti</t>
       </tg>
     </mg>
   </e>
@@ -21930,7 +22006,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">pioneeriohjaaja</t>
       </tg>
     </mg>
   </e>
@@ -21956,7 +22032,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">ilma</t>
       </tg>
     </mg>
   </e>
@@ -21982,7 +22058,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kuorma; kuormallinen</t>
       </tg>
     </mg>
   </e>
@@ -22008,7 +22084,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">soturi</t>
       </tg>
     </mg>
   </e>
@@ -22034,7 +22110,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">joukko; sotajoukko; sotaväki</t>
       </tg>
     </mg>
   </e>
@@ -22060,8 +22136,21 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">hankiminen; eläinten pitäminen; kasvattaminen;
+        viljeleminen</t>
       </tg>
+
+      <xg>
+        <x>мӱкш войымаш</x>
+
+        <xt>mehiläisten pitäminen</xt>
+      </xg>
+
+      <xg>
+        <x>мам веле ак войы</x>
+
+        <xt>mitä hän sekoilee</xt>
+      </xg>
     </mg>
   </e>
 
@@ -22086,7 +22175,8 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">villiksi yllyttäminen; reipastuttaminen; piristäminen;
+        virkistäminen</t>
       </tg>
     </mg>
   </e>
@@ -22112,7 +22202,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">repaistuminen; piristyminen</t>
       </tg>
     </mg>
   </e>
