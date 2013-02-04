@@ -3,27 +3,64 @@
 !! Hill Mari nouns inflect in cases.
 
 LEXICON NTag
-+N: N_01 ;
-+Sg+Nom: 	  K	; 
++N: NMN_OBLIQUE-INDEFINITE ;
++N: NMN_OBLIQUE-POSSESSA ;
++N+Sg+Nom: 	  K	; 
 
 LEXICON N-kol
 !кол:кол
-+N: N_01 ;
-+Sg+Nom: 	  K	; 
++N: NMN_OBLIQUE-INDEFINITE ;
++N: NMN_OBLIQUE-POSSESSA ;
++N+Sg+Nom: 	  K	; 
 
 LEXICON N-tyrvy
 !тырвы:тырв
-+N:е N_01 ;
-+Sg+Nom: 	  K	; 
+! The stem vowel "е" is found with possessor indices and the lative
++N:ы NMN_OBLIQUE-INDEFINITE ;
++N:ы NMN_OBLIQUE-POSSESSA ;
++N+Sg+Nom:ы 	  K	; 
++N+Sg+Lat:%>еш 	  K	; 
+!+N+PxSg1+Sg+Nom:%>ем K ;
+!+N+PxSg1+Pl+Nom:%>емвлӓ K ;
++N+Pl+Nom+PxSg1:влӓэм K ;
+!+N+PxSg2+Sg+Nom:%>ет K ;
+!+N+PxSg2+Pl+Nom:етвлӓ K ;
++N+Pl+Nom+PxSg2:влӓэт K ;
++N+Sg+Lat+PxSg1:%>ешем	   K  ;
++N+Sg+Lat+PxSg3:%>ешЫ1жЫ1	   K  ;
+!+N+PxSg1:%>ем SG-ABEACCCOMDATGEN ;
++N+PxSg1:ыэм PL-ABEACCCOMDATGENILLINELATNOM ;
+ 
+LEXICON SG-ABEACCCOMDATGEN
++Sg+Abe:де K ;
++Sg+Acc:%>Ы1м K ;
++Sg+Com:ге K ;
++Sg+Comp:%>лА1 K ;
++Sg+Dat:%>лА1н K ;
++Sg+Gen:%>Ы1н K ;
+
+LEXICON PL-ABEACCCOMDATGENILLINELATNOM
++Pl+Abe:влӓде K ;
++Pl+Acc:%>влӓм K ;
++Pl+Com:%>влӓге K ;
++Pl+Comp:%>влӓлӓ K ;
++Pl+Dat:%>влӓлӓн K ;
++Pl+Gen:%>влӓн K ;
++Pl+Ill:%>влӓшкӹ K ;
++Pl+Ine:%>влӓштӹ K ;
++Pl+Lat:%>влӓэш K ;
++Pl+Nom:%>влӓ K ;
 
 LEXICON N-pochta
-+N: N_01 ;
-+Sg+Nom: 	  K	; 
++N: NMN_OBLIQUE-INDEFINITE ;
++N: NMN_OBLIQUE-POSSESSA ;
++N+Sg+Nom: 	  K	; 
 
 LEXICON N-olma
 ! олма:олма
-+N: N_01 ;
-+Sg+Nom: 	  K	; 
++N: NMN_OBLIQUE-INDEFINITE ;
++N: NMN_OBLIQUE-POSSESSA ;
++N+Sg+Nom: 	  K	; 
 +N+PxSg1+Sg+Nom:эм K ;
 +N+PxSg1+Pl+Nom:эмвлӓ K ;
 +N+Pl+Nom+PxSg1:влӓэм K ;
@@ -31,6 +68,28 @@ LEXICON N-olma
 +N+PxSg2+Pl+Nom:этвлӓ K ;
 +N+Pl+Nom+PxSg2:влӓэт K ;
 +N+Sg+Lat+PxSg3:%>эшЫ1жЫ1	   K  ;
+
+LEXICON NMN_OBLIQUE-INDEFINITE
++Sg+Gen:%>Ы1н K ; ! 
++Sg+Acc:%>Ы1м K ; !
++Sg+Com:%>ге K ; ! (with a village)
++Sg+Dat:%>лА1н K ; !
++Sg+Ine:%>Ы1штЫ1 K ; ! (in a village)
++Sg+Ill:%>Ы1шкЫ1 K ; ! (to a village)
++Sg+Lat:%>Е2ш K ; ! (into a village)
++Sg+Comp:%>лА1 K ; ! (like a village)
++Sg+Abe:%>де K ; ! (without a village)
+!!
++Pl+Nom:влӓ 	  K	; 
++Pl+Gen:влӓ%>Ы1н K ; ! 
++Pl+Acc:влӓ%>Ы1м K ; !
++Pl+Com:влӓ%>ге K ; ! (with a village)
++Pl+Dat:влӓ%>лА1н K ; !
++Pl+Ine:влӓ%>Ы1штЫ1 K ; ! (in a village)
++Pl+Ill:влӓ%>Ы1шкЫ1 K ; ! (to a village)
++Pl+Lat:влӓ%>Е2ш K ; ! (into a village) 
++Pl+Comp:влӓ%>лА1 K ; ! (like a village)
++Pl+Abe:влӓ%>де K ; ! (without a village)
 
 LEXICON N_01
 +Sg+Gen:%>Ы1н K ; ! 
@@ -54,12 +113,15 @@ LEXICON N_01
 +Pl+Comp:влӓ%>лА1 K ; ! (like a village)
 +Pl+Abe:влӓ%>де K ; ! (without a village)
 
+LEXICON NMN_OBLIQUE-POSSESSA
 !! PxSg1+NB+CASE
+! singular possessa
 +PxSg1+Sg+Nom:%>Е2м K ;
 +PxSg1+Sg+Gen:%>Е2м%>Ы1н K ;
 +PxSg1+Sg+Acc:%>Е2м%>Ы1м K ;
 +PxSg1+Sg+Com:%>Е2м%>ге K ;
 +PxSg1+Sg+Dat:%>Е2м%>лА1н K ;
++PxSg1+Sg+Comp:%>Е2м%>лА1 K ;
 !!
 +Sg+Ine+PxSg1:%>Ы1штем K ;
 +Sg+Ill+PxSg1:%>Ы1шкем K ;
@@ -67,21 +129,22 @@ LEXICON N_01
 
 !!
 !     кол+N+PxSg1+Sg+Nom: [колем, колэм] # х2 колэмжӹ
-!+PxSg1+Sg+Nom:%>Е2м		   K  ;
-!+PxSg1+Sg+Gen:%>Е2мӹн	   K  ;
-!+PxSg1+Sg+Acc:%>Е2мӹм	   K  ;
-!+PxSg1+Sg+Com:%>Е2мге	   K  ;
-!+PxSg1+Sg+Dat:%>Е2млӓн	   K  ;
-!+Sg+Ine+PxSg1:%>ыштем	   K  ;
-+PxSg1+Sg+Ine:%>Е2мӹштӹ	   K  ;
-!+Sg+Ill+PxSg1:%>ышкем	   K  ;
-+PxSg1+Sg+Ill:%>Е2мӹшкӹ	   K  ;
++PxSg1+Sg+Nom:%>Е2м		   K  ;
++PxSg1+Sg+Gen:%>Е2м%>Ы1н	   K  ;
++PxSg1+Sg+Acc:%>Е2м%>Ы1м	   K  ;
++PxSg1+Sg+Com:%>Е2мге	   K  ;
++PxSg1+Sg+Dat:%>Е2м%>лА1н	   K  ;
++Sg+Ine+PxSg1:%>ыштем	   K  ;
++PxSg1+Sg+Ine:%>Е2м%>Ы1штЫ2	   K  ;
++Sg+Ill+PxSg1:%>Ы1шкем	   K  ;
++PxSg1+Sg+Ill:%>Е2м%>Ы1шкЫ2	   K  ;
 +Sg+Lat+PxSg1:%>Е2шем	   K  ;
-+PxSg1+Sg+Lat:%>Е2мӹш	   K  ;
++PxSg1+Sg+Lat:%>Е2меш	   K  ;
 +Sg+Comp+PxSg1:%>лаэм      K  ;
-+PxSg1+Sg+Comp:%>Е2млӓ     K  ;
++PxSg1+Sg+Comp:%>Е2м%>лА1     K  ;
 +Sg+Abe+PxSg1:%>деэм	   K  ;
 +PxSg1+Sg+Abe:%>Е2мде	   K  ;
+! plural possessa
 +Pl+Nom+PxSg1:%>влӓэм	   K  ;
 +PxSg1+Pl+Nom:%>Е2мвлӓ	   K  ;
 +PxSg1+Pl+Gen:%>Е2мвлӓн	   K  ;
@@ -120,7 +183,7 @@ LEXICON N_01
 +Sg+Lat+PxSg2:%>Е2шет	   K  ;
 +PxSg2+Sg+Lat:%>Е2тӹш	   K  ;
 +Sg+Comp+PxSg2:%>лаэт      K  ;
-+PxSg2+Sg+Comp:%>Е2тлӓ     K  ;
++PxSg2+Sg+Comp:%>Е2тлА1     K  ;
 +Sg+Abe+PxSg2:%>деэт	   K  ;
 +PxSg2+Sg+Abe:%>Е2тде	   K  ;
 +Pl+Nom+PxSg2:%>влӓэт	   K  ;
