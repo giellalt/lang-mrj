@@ -63,7 +63,7 @@ Definitions
 
 ! LFC = [ :NonLabVow | :FrontLabVow | :ӹ | :Ӹ ] \[ #: | :BackLabVow | ы | Ы ]* ;
 
-LBC = [ :BackVow ] ( %>: | BackVow | ArchiVow: | Cons )* ;
+LBC = [ :BackVow ] ( %>: | BackVow | Е2: | :е | А1:а | Ы1:ы | Ы1:0 | Ы2:ы | Cons )* ;
 
 
 Rules
@@ -80,11 +80,14 @@ Rules
            %>: ж Ы2: %>: _  ;
         where Vx in (Е2 Ы1) ;
 
-!"Onset vowel Е2 realized in suffix"
-!  Е2:е <=> Cons %>: _ ;
+"Onset vowel Е2 realized in suffix"
+  Е2:е <=> Cons %>: _ ;
+
+"Stem final ы loss before Е2"
+ы:0 <=> #: Cons* Vow Cons+ _ %> Е2: ;
 
 "Onset vowel Ы1 realized in suffix"
-  Ы1:ы <=> LBC [[ Cons | й ] %>: | %>: [ %>: | BackVow | ArchiVow: | Cons ]+ ] _ ;
+  Ы1:ы <=> LBC [[ Cons | й ]+ %>: | %>: [ %>: | BackVow | е | ArchiVow: | Cons ]* [ Cons | й ] ( %>: ) ] _ ;
 
 !"Onset vowel Ы1 realized in suffix"
 !  Ы1:ӹ <=> LFC [ Cons | й ] %>: _ ;
