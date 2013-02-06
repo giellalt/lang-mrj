@@ -22505,7 +22505,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">metsämehiläiskolo; </t>
+        <t pos="N">metsämehiläiskolo;</t>
       </tg>
 
       <xg>
@@ -22843,7 +22843,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">kallistuminen; kierostuminen </t>
+        <t pos="N">kallistuminen; kierostuminen</t>
       </tg>
     </mg>
   </e>
@@ -23007,7 +23007,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">maleksiminen; kuljeskeleminen; meluaminen; häliseminen </t>
+        <t pos="N">maleksiminen; kuljeskeleminen; meluaminen; häliseminen</t>
       </tg>
     </mg>
   </e>
@@ -23383,7 +23383,7 @@
 
       <tg lang="fin">
         <t pos="N">johtaminen; hoitaminen; ohjaaminen; ohjaus; hallitseminen;
-        hallinta; puheenjohtajuus </t>
+        hallinta; puheenjohtajuus</t>
       </tg>
     </mg>
   </e>
@@ -23541,7 +23541,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">hulluttelu; temppuilu; oikkuileminen </t>
+        <t pos="N">hulluttelu; temppuilu; oikkuileminen</t>
       </tg>
     </mg>
   </e>
@@ -23813,7 +23813,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">maleksiminen; kuljeskeleminen</t>
+        <t pos="N">maleksiminen; kuljeskeleminen; meluaminen; häliseminen</t>
       </tg>
     </mg>
   </e>
@@ -23839,7 +23839,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">teräs; teräksinen; teräs=</t>
       </tg>
     </mg>
   </e>
@@ -23859,14 +23859,22 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--Саваткова 1981: в ткацком станке ниченки т.е. петли-->
+        </head>
 
         <defNative/>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">lenkki; kutomasilmus</t>
       </tg>
+
+      <xg>
+        <x>вурт шӹртӹ</x>
+
+        <xt>нитки в ниченках; нитки в ткацких петлях</xt>
+      </xg>
     </mg>
   </e>
 
@@ -23891,7 +23899,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">pulasta pelastaminen; pulassa auttaminen</t>
       </tg>
     </mg>
   </e>
@@ -23917,7 +23925,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kastraatio; kuohinta</t>
       </tg>
     </mg>
   </e>
@@ -23943,8 +23951,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">nälän näkö; nälässä oleminen</t>
       </tg>
+
+      <xg>
+        <x>вуснен шӹнзӹм</x>
+
+        <xt>minun tuli nälkä; näliintyä</xt>
+      </xg>
     </mg>
   </e>
 
@@ -23969,7 +23983,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kilpi; kyltti</t>
       </tg>
     </mg>
   </e>
@@ -23995,7 +24009,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">muistutus; nuhde</t>
       </tg>
     </mg>
   </e>
@@ -24021,7 +24035,8 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">lahjomattomana oleminen; myymättömänä oleminen; ei ole
+        myytävissä</t>
       </tg>
     </mg>
   </e>
@@ -24047,7 +24062,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">myynnissä; lahjottavissa oleminen</t>
       </tg>
     </mg>
   </e>
@@ -24073,7 +24088,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">myynti; myyminen</t>
       </tg>
     </mg>
   </e>
@@ -24099,7 +24114,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">osto-myynti</t>
       </tg>
     </mg>
   </e>
@@ -24125,7 +24140,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kuohkeutuminen; muhentuminen</t>
+
+        <tCtn>
+          <t>kuohkeutuminen; muhentuminen</t>
+
+          <re>multa</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -24151,7 +24172,19 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kasauma; kasantuma; kokouma; kokoutuma; joukko</t>
+
+        <tCtn>
+          <t>kasantuma</t>
+
+          <re>hiirien</re>
+        </tCtn>
+
+        <tCtn>
+          <t>joukko</t>
+
+          <re>lapsista</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -24162,6 +24195,8 @@
 
       <stg>
         <st Contlex="N_КОЛ">вызык</st>
+
+        <st Contlex="N_КОЛ">выжик</st>
       </stg>
 
       <stress>вы•зык</stress>
@@ -24177,8 +24212,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kasauma; kasantuma; kokouma; kokoutuma; joukko</t>
       </tg>
+
+      <xg>
+        <x>тетя вызык</x>
+
+        <xt>lapsijoukko</xt>
+      </xg>
     </mg>
   </e>
 
@@ -24203,7 +24244,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">pitkään liehuminen; pitkäaikainen hulmuaminen</t>
       </tg>
     </mg>
   </e>
@@ -24229,7 +24270,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">liehuminen; kimalteleminen</t>
       </tg>
     </mg>
   </e>
@@ -24255,7 +24296,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">liehutteleminen; hulmutteleminen</t>
       </tg>
     </mg>
   </e>
@@ -24281,8 +24322,20 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">veltostuminen; hölläntyminen</t>
+
+        <tCtn>
+          <t>höllä</t>
+
+          <re>iho</re>
+        </tCtn>
       </tg>
+
+      <xg>
+        <x>кид выльдырген шӹнзӹн</x>
+
+        <xt>vedestä ihon ryppiintyminen</xt>
+      </xg>
     </mg>
   </e>
 
@@ -24303,11 +24356,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>вӹд кидӹм выльдырта</defNative>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">veltostuttaminen; ryppyiseksi muuttaminen</t>
       </tg>
     </mg>
   </e>
@@ -24318,6 +24371,8 @@
 
       <stg>
         <st Contlex="N_КОЛ">выльдырцан</st>
+
+        <st Contlex="N_КОЛ">выльдырцы</st>
       </stg>
 
       <stress>выльды•рцан</stress>
@@ -24333,7 +24388,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">viiriäinen</t>
       </tg>
     </mg>
   </e>
