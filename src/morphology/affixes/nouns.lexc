@@ -7,13 +7,21 @@ LEXICON NTag
 +N: NMN_OBLIQUE-POSSESSA ;
 +N+Sg+Nom: 	  K	; 
 
-LEXICON N-kol
+!! !!Substandard
+LEXICON N_КОЛ_sub
++Use/Sub: N_КОЛ ;
+
+LEXICON N_ТӸРВӸ_sub
++Use/Sub: N_ТӸРВӸ ;
+
+!! !!Standard
+LEXICON N_КОЛ
 !кол:кол
 +N: NMN_OBLIQUE-INDEFINITE ;
 +N: NMN_OBLIQUE-POSSESSA ;
 +N+Sg+Nom: 	  K	; 
 
-LEXICON N-tyrvy
+LEXICON N_ТӸРВӸ
 !тырвы:тырв
 ! The stem vowel "е" is found with possessor indices and the lative
 +N:ы NMN_OBLIQUE-INDEFINITE ;
@@ -51,13 +59,12 @@ LEXICON PL-ABEACCCOMDATGENILLINELATNOM
 +Pl+Lat:%>влӓэш K ;
 +Pl+Nom:%>влӓ K ;
 
-LEXICON N-pochta
+LEXICON N_ПОЧТА !! почта:почта
 +N: NMN_OBLIQUE-INDEFINITE ;
 +N: NMN_OBLIQUE-POSSESSA ;
 +N+Sg+Nom: 	  K	; 
 
-LEXICON N-olma
-! олма:олма
+LEXICON N_ОЛМА !! олма:олма
 +N: NMN_OBLIQUE-INDEFINITE ;
 +N: NMN_OBLIQUE-POSSESSA ;
 +N+Sg+Nom: 	  K	; 
