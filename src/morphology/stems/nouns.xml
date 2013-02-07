@@ -24414,7 +24414,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">näivettyminen; kellastuminen; hapettuminen; oksidointi</t>
+
+        <tCtn>
+          <t>tummuminen</t>
+
+          <re>hopea</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -24440,7 +24446,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">vaate; vaatteet; puku</t>
       </tg>
     </mg>
   </e>
@@ -24466,7 +24472,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">huolissaan olo; levoton olo; murehtiminen;
+        huolehtiminen</t>
+
+        <tCtn>
+          <t>pieni jännitys</t>
+
+          <re>mieli</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -24492,8 +24505,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">huolestuttaminen; huolettaminen; pölyttäminen</t>
       </tg>
+
+      <xg>
+        <x>пыракым выргыжтараш</x>
+
+        <xt>pölyttää</xt>
+      </xg>
     </mg>
   </e>
 
@@ -24518,8 +24537,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">lepattaminen; pyrähteleminen </t>
       </tg>
+
+      <xg>
+        <x/>
+
+        <xt/>
+      </xg>
     </mg>
   </e>
 
@@ -24540,11 +24565,13 @@
       <m>
         <head/>
 
+        <semRel semRelType="synonym">аяр лӹпӹ</semRel>
+
         <defNative/>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">leppäkerttu</t>
       </tg>
     </mg>
   </e>
@@ -24570,34 +24597,20 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">rotu; laji; suku; sukuperä; siemen=; siemenperuna</t>
       </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l>вырлыкангдымаш</l>
+      <xg>
+        <x>мӓ ик вырлык ылына</x>
 
-      <stg>
-        <st Contlex="N_КОЛ">вырлыкангдымаш</st>
-      </stg>
+        <xt>me ollaan samaa sukua</xt>
+      </xg>
 
-      <stress>вырлыка•нгдымаш</stress>
-    </lg>
+      <xg>
+        <x>вырлыкым йӓмдӹлӓш</x>
 
-    <pos>N</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg lang="fin">
-        <t pos="N"/>
-      </tg>
+        <xt>siemenperunoiden käsittely; istukassipulien käsittely</xt>
+      </xg>
     </mg>
   </e>
 
@@ -24622,7 +24635,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">suvun laajeneminen; jälkeläisten lisäys</t>
       </tg>
     </mg>
   </e>
@@ -24648,8 +24661,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">riiteleminen; toraileminen; toisiaan haukkuminen </t>
       </tg>
+
+      <xg>
+        <x>вырседӓл каштеш</x>
+
+        <xt>hän pitää suukopua</xt>
+      </xg>
     </mg>
   </e>
 
@@ -24674,7 +24693,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">sota</t>
       </tg>
     </mg>
   </e>
@@ -24700,8 +24719,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">toruminen; moittiminen; haukkuminen; sättiminen</t>
       </tg>
+
+      <xg>
+        <x>вырсен пумаш</x>
+
+        <xt>sättiminen; toruminen</xt>
+      </xg>
     </mg>
   </e>
 
@@ -24726,7 +24751,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">hetki; silmänräpäys</t>
       </tg>
     </mg>
   </e>
@@ -24746,13 +24771,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--Саваткова 1981: праща´ для метания камней-->
+        </head>
 
         <defNative/>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">linko; kivilinko</t>
       </tg>
     </mg>
   </e>
@@ -24778,7 +24805,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">näyttely</t>
       </tg>
     </mg>
   </e>
@@ -24804,7 +24831,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">esiintyminen; puheenvuoron käyttäminen; kokouksessa
+        puhuminen; vastaan puhuminen</t>
+
+        <tCtn>
+          <t>esiintyminen</t>
+
+          <re>konsertissä</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -24830,7 +24864,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">julkinen esiintyminen; puheenvuoro</t>
       </tg>
     </mg>
   </e>
@@ -24841,6 +24875,8 @@
 
       <stg>
         <st Contlex="N_КОЛ">вытаман</st>
+
+        <st Contlex="N_КОЛ">атаман</st>
       </stg>
 
       <stress>выта•ман</stress>
@@ -24856,7 +24892,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">päällikkö; atamaani; kasakkapäällikkö</t>
       </tg>
     </mg>
   </e>
@@ -24876,13 +24912,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!-- Саваткова 1981: кости таза; нижняя часть туловища-->
+        </head>
 
-        <defNative/>
+        <defNative>синоним семӹнь пумы эче: выца лу</defNative>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">lantioluu; lantion alue; alaselän alue</t>
       </tg>
     </mg>
   </e>
@@ -24908,7 +24946,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">hetken odotus</t>
       </tg>
     </mg>
   </e>
@@ -24934,7 +24972,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">yllätys; odottamattomuus</t>
       </tg>
     </mg>
   </e>
@@ -24960,7 +24998,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">odotus; odottaminen</t>
       </tg>
     </mg>
   </e>
@@ -24986,7 +25024,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">torni</t>
       </tg>
     </mg>
   </e>
@@ -25012,7 +25050,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">turkin helma; turkisreunus vaatteissa</t>
       </tg>
     </mg>
   </e>
@@ -25038,7 +25076,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">mylly</t>
       </tg>
     </mg>
   </e>
@@ -25064,7 +25102,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">myllynkivi; jauhinkivi</t>
       </tg>
     </mg>
   </e>
@@ -25090,7 +25128,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">lattian asentaminen; sillan rakentaminen </t>
       </tg>
     </mg>
   </e>
@@ -25112,11 +25150,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>Васикован орфографи книгӓштӹ улы</defNative>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">?</t>
       </tg>
     </mg>
   </e>
@@ -25142,7 +25180,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">sänky; kuivikkeet; aluset; pehku</t>
       </tg>
     </mg>
   </e>
@@ -25168,7 +25206,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">avanto; juottopaikka</t>
       </tg>
     </mg>
   </e>
@@ -25190,11 +25228,13 @@
       <m>
         <head/>
 
+        <semRel semRelType="synonym">оролымаш</semRel>
+
         <defNative/>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">vaaniminen; väijyminen</t>
       </tg>
     </mg>
   </e>
@@ -25220,8 +25260,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kalastusverkko</t>
       </tg>
+
+      <xg>
+        <x>вӓпшӹм шыпшаш</x>
+
+        <xt>kalastusverkon laskeminen</xt>
+      </xg>
     </mg>
   </e>
 
@@ -25246,8 +25292,15 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">paikka; kohta; paikkakunta; seutu; työpaikka; toimi;
+        virka</t>
       </tg>
+
+      <xg>
+        <x>нӱштӹлмӹ вӓр</x>
+
+        <xt>uimaranta</xt>
+      </xg>
     </mg>
   </e>
 
@@ -25272,7 +25325,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">munuainen</t>
       </tg>
     </mg>
   </e>
@@ -25298,7 +25351,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">majoitus; majoittaminen; sijoittaminen</t>
       </tg>
     </mg>
   </e>
@@ -25324,7 +25377,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">sijoittuminen</t>
       </tg>
     </mg>
   </e>
@@ -25350,7 +25403,8 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">osuminen; ansaan joutuminen; kiinni joutuminen; vastaan
+        sattuminen</t>
       </tg>
     </mg>
   </e>
@@ -25376,7 +25430,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">oksetus; ellotus</t>
       </tg>
     </mg>
   </e>
@@ -25402,7 +25456,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">oksetuksen tunteminen; kuvotuksen tunteminen</t>
       </tg>
     </mg>
   </e>
@@ -25413,6 +25467,8 @@
 
       <stg>
         <st Contlex="N_КОЛ">вӓркӹнӹмӓш</st>
+
+        <st Contlex="N_КОЛ">вӓркӹнзӹмӓш</st>
       </stg>
 
       <stress>вӓ•ркӹнӹмӓш</stress>
@@ -25428,7 +25484,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">oksentaminen</t>
       </tg>
     </mg>
   </e>
@@ -25454,7 +25510,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">yököttäminen; oksettaminen</t>
       </tg>
     </mg>
   </e>
@@ -25480,7 +25536,8 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">sijaitseminen; sijoittuminen; asettuminen;
+        majoittuminen</t>
       </tg>
     </mg>
   </e>
@@ -25506,7 +25563,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">mätäs; suokumpura</t>
+
+        <tCtn>
+          <t>mätäs</t>
+
+          <re>suossa</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -25532,7 +25595,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">seiväs; salko; tanko</t>
       </tg>
     </mg>
   </e>
@@ -25558,8 +25621,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">oikea kohta</t>
       </tg>
+
+      <xg>
+        <x>вӓрӓн-вӓрӹшкӹ</x>
+
+        <xt>paikoilleen</xt>
+      </xg>
     </mg>
   </e>
 
@@ -25584,7 +25653,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">sijoittаminen; asettаminen</t>
       </tg>
     </mg>
   </e>
@@ -25606,7 +25675,7 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>вӓрӓн-вӓрӹшкӹ шӹнзӓш?</defNative>
       </m>
 
       <tg lang="fin">
@@ -25636,33 +25705,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>вӓрӓшен</l>
-
-      <stg>
-        <st Contlex="N_КОЛ">вӓрӓшен</st>
-      </stg>
-
-      <stress>вӓрӓшен</stress>
-    </lg>
-
-    <pos>N</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">haukka; kanahaukka</t>
       </tg>
     </mg>
   </e>
@@ -25682,13 +25725,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--Саваткова 1981: ровное возвышенное место на заливных лугах-->
+        </head>
 
         <defNative/>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kumpu; töyry</t>
       </tg>
     </mg>
   </e>
@@ -25714,20 +25759,52 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">varastohuone; vilja-aitta</t>
+      </tg>
+
+      <xg>
+        <x>вӓскӓ кӹлӓт</x>
+
+        <xt>vilja-aitta</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>вӓскӓ</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">вӓскӓ</st>
+      </stg>
+
+      <stress>вӓ•скӓ</stress>
+    </lg>
+
+    <pos>N</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>сеткӓ доно кол кычаш кемӓштӹ компаньон</defNative>
+      </m>
+
+      <tg lang="fin">
+        <t pos="N">kalastuskumppani</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>вӓтылык</l>
+      <l>вӓтӹлык</l>
 
       <stg>
-        <st Contlex="N_КОЛ">вӓтылык</st>
+        <st Contlex="N_КОЛ">вӓтӹлык</st>
       </stg>
 
-      <stress>вӓ•тылык</stress>
+      <stress>вӓ•тӹлык</stress>
     </lg>
 
     <pos>N</pos>
@@ -25740,7 +25817,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">morsian</t>
       </tg>
     </mg>
   </e>
@@ -25766,7 +25843,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">vaimo; rouva; nainen; akka</t>
       </tg>
     </mg>
   </e>
@@ -25792,7 +25869,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">aviopari; puolisot</t>
       </tg>
     </mg>
   </e>
@@ -25814,11 +25891,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>шуды</defNative>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">tyräkki; euphorbia</t>
       </tg>
     </mg>
   </e>
@@ -25844,7 +25921,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">vastaaminen; vastaus</t>
       </tg>
     </mg>
   </e>
@@ -25870,7 +25947,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">vastaus</t>
       </tg>
     </mg>
   </e>
@@ -26000,7 +26077,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kohtaus; tapaaminen</t>
       </tg>
     </mg>
   </e>
@@ -26020,13 +26097,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--Саваткова 1981: место для развешивания одежды, белья-->
+        </head>
 
         <defNative/>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">vaatevarasto seiväs</t>
       </tg>
     </mg>
   </e>
@@ -26052,7 +26131,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">avioituminen; avioliiton solmiminen</t>
       </tg>
     </mg>
   </e>
@@ -26078,7 +26157,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">rakiittipolvet</t>
       </tg>
     </mg>
   </e>
@@ -26089,6 +26168,8 @@
 
       <stg>
         <st Contlex="N_КОЛ">вӓшӓк</st>
+
+        <st Contlex="N_КОЛ">вӓшӓлкӓ</st>
       </stg>
 
       <stress>вӓ•шӓк</stress>
@@ -26104,8 +26185,20 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">tähteet; rippeet; jäännös; seuraukset</t>
+
+        <tCtn>
+          <t>seuraukset</t>
+
+          <re>tauti</re>
+        </tCtn>
       </tg>
+
+      <xg>
+        <x>шадыра вӓшӓк</x>
+
+        <xt>isorokon seuraukset; isorokon jäljet</xt>
+      </xg>
     </mg>
   </e>
 
@@ -26115,6 +26208,8 @@
 
       <stg>
         <st Contlex="N_ОЛМА">вӓшӓлкӓ</st>
+
+        <st Contlex="N_ОЛМА">вӓшӓк</st>
       </stg>
 
       <stress>вӓшӓ•лкӓ</stress>
@@ -26130,7 +26225,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">tähteet; rippeet; jäännös; seuraukset</t>
       </tg>
     </mg>
   </e>
