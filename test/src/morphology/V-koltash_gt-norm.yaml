@@ -14,7 +14,7 @@ Tests:
 # Then: run analyser, then correct. 
 
 
-  Verb - колташ: # Verb1-em '??'
+   Verb - колташ: # Verb-em 'let go, send'
      колташ+V+Ind+Prs+Sg1: колтем
      колташ+V+Ind+Prs+Sg2: колтет
      колташ+V+Ind+Prs+Sg3: колта
@@ -35,7 +35,7 @@ Tests:
      колташ+V+Ind+Prt2+Pl3: колтенӹт
      
      
-   Verb - ӹштӓш: # 
+   Verb - ӹштӓш: # Verb-em 'do; try out'
      ӹштӓш+V+Ind+Prs+Sg1: ӹштем
      ӹштӓш+V+Ind+Prs+Sg2: ӹштет
      ӹштӓш+V+Ind+Prs+Sg3: ӹштӓ
@@ -55,7 +55,7 @@ Tests:
      ӹштӓш+V+Ind+Prt2+Pl2: ӹштендӓ
      ӹштӓш+V+Ind+Prt2+Pl3: ӹштенӹт
 
-Verb - качкаш: # Verb1-аm '??'
+Verb - качкаш: # Verb-аm 'eat'
      качкаш+V+Ind+Prs+Sg1: качкам
      качкаш+V+Ind+Prs+Sg2: качкат
      качкаш+V+Ind+Prs+Sg3: качкеш

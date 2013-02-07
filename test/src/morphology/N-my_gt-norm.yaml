@@ -21,7 +21,7 @@ Tests:
      мӱ+N+Sg+Com: мӱге
      мӱ+N+Sg+Dat: мӱлӓн
      мӱ+N+Sg+Ine: мӱштӹ
-     мӱ+N+Sg+Ill: мӱышкӹ
+     мӱ+N+Sg+Ill: мӱшкӹ
      мӱ+N+Sg+Lat: мӱэш
      мӱ+N+Sg+Comp: мӱлӓ
      мӱ+N+Sg+Abe: мӱде
@@ -42,9 +42,9 @@ Tests:
      мӱ+N+PxSg1+Sg+Acc: мӱэмӹм
      мӱ+N+PxSg1+Sg+Com: мӱэмге
      мӱ+N+PxSg1+Sg+Dat: мӱэмлӓн
-     мӱ+N+PxSg1+Sg+Ine: мӱштем
-     мӱ+N+PxSg1+Sg+Ill: мӱшкем
-     мӱ+N+PxSg1+Sg+Lat: мӱэшем
+     мӱ+N+Sg+Ine+PxSg1: мӱштем
+     мӱ+N+Sg+Ill+PxSg1: мӱшкем
+     мӱ+N+Sg+Lat+PxSg1: мӱэшем
 #     мӱ+N+PxSg1+Sg+Comp: [мӱлӓэм, мӱэмлӓ] 
      мӱ+N+Sg+Comp+PxSg1: мӱлӓэм # teoreett tai toissijais.versio_jk
      мӱ+N+PxSg1+Sg+Comp: мӱэмлӓ 
