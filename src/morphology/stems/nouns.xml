@@ -2119,9 +2119,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">syysvilja</t>
+        <t pos="N">syysvilja; oraat; istukas; taimi</t>
 
-        <t pos="N">oraat</t>
+        <tCtn>
+          <t>istukas; taimi</t>
+
+          <re>kaalitaimi</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -2147,7 +2151,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">voimistuminen</t>
+        <t pos="N">voimistuminen; orastaminen</t>
 
         <tCtn>
           <t>orastaminen</t>
@@ -2179,7 +2183,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">?x</t>
+        <t pos="N">taimi-aines</t>
       </tg>
     </mg>
   </e>
@@ -2363,7 +2367,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">juhliminen</t>
+        <t pos="N">juhlinta</t>
       </tg>
     </mg>
   </e>
@@ -2417,9 +2421,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">satulavyö</t>
-
-        <t pos="N">kannatin</t>
+        <t pos="N">satulavyö; kannatin</t>
       </tg>
     </mg>
   </e>
@@ -2471,7 +2473,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">eristää jksi aikaa</t>
+        <t pos="N">eristäminen jksi aikaa</t>
       </tg>
     </mg>
   </e>
@@ -24537,7 +24539,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">lepattaminen; pyrähteleminen </t>
+        <t pos="N">lepattaminen; pyrähteleminen</t>
       </tg>
 
       <xg>
@@ -24661,7 +24663,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">riiteleminen; toraileminen; toisiaan haukkuminen </t>
+        <t pos="N">riiteleminen; toraileminen; toisiaan haukkuminen</t>
       </tg>
 
       <xg>
@@ -25128,7 +25130,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">lattian asentaminen; sillan rakentaminen </t>
+        <t pos="N">lattian asentaminen; sillan rakentaminen</t>
       </tg>
     </mg>
   </e>
