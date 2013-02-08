@@ -1,13 +1,25 @@
+# The following relax transformations come from the 1930s
+Н Г (->) Ҥ,
+н г (->) ҥ,
 Я (->) Й а,
 я (->) й а,
+Я (->) Ь А,
+я (->) ь а,
+Ю (->) Й у,
+ю (->) й у,
+Ю (->) Ь У,
+ю (->) ь у,
 Е (->) Й э,
 е (->) й э,
+Е (->) Ь Э,
+е (->) ь э,
+И (->) Ь И,
+и (->) ь и,
 Е (->) Э,
 е (->) э,
+# These relax transformations come from the age of electronic data
 Ӧ (->) Ö, # Cyrillic allow Latin
-Ӧ (->) Ö,  #Cyrillic allow composed
 ӧ (->) ö, # Cyrillic allow Latin
-ӧ (->) ö,  #Cyrillic allow composed
 О (->) O, # Cyrillic allow Latin
 о (->) o, # Cyrillic allow Latin
 А (->) A, # Cyrillic allow Latin
