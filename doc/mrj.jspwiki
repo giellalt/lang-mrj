@@ -1,14 +1,14 @@
-!!!Free and Open source Finnish analyser gtsvn-fi
+!!!Free and Open source Hill Mari analyser gtsvn-mrj
 
-;Authors: Divvun and Giellatekno teams, community members
+;Authors: Julia Kuprina and Jack Rueter in cooperation with the Divvun and Giellatekno teams, community members
 ;Software version: 2012
 ;Documentation license: GNU GFDL
 ;SVN Revision: $Revision: 68217 $
 ;SVN Date: $Date: 2013-01-16 11:31:33 +0200 (Wed, 16 Jan 2013) $
 
-!!!GTSVN-sma
+!!!GTSVN-mrj
 
-This is free and open source South Sámi morphology.
+This is free and open source Hill Mari morphology.
 
 Morphology
 ----------
@@ -62,6 +62,7 @@ To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
 
 And following triggers to control variation
+k loss in am-verbs, also z to ts
 
 We have manually optimised the structure of our lexicon using following
 flag diacritics to restrict morhpological combinatorics:
