@@ -10453,8 +10453,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">veitikka; vallaton ihminen</t>
+        <t pos="N">veitikka; vallaton ihminen; lellitelty ihminen</t>
       </tg>
+
+      <xg>
+        <x>аханицӓш колташ</x>
+
+        <xt>lellitellä; pilata lellitelyllä; antaa vapautta liikaa</xt>
+      </xg>
     </mg>
   </e>
 
@@ -10479,7 +10485,8 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">telmiminen; vallattomuus; elämöiminen</t>
+        <t pos="N">vallattomuus; elämöiminen; toimiminen oman tahtonsa
+        mukaan</t>
       </tg>
     </mg>
   </e>
@@ -10775,11 +10782,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>ашындараш глагол гӹц; ашындарен пӓшӓлӹмӓш</defNative>
       </m>
 
       <tg lang="fin">
-        <t pos="N">!? x tämä virheellinen sana poistettava</t>
+        <t pos="N">menestyksellisesti sujuminen; hyvin edistyminen</t>
       </tg>
     </mg>
   </e>
@@ -17660,32 +17667,6 @@
 
   <e>
     <lg>
-      <l>валгыдемдӹмӓш</l>
-
-      <stg>
-        <st Contlex="N_КОЛ">валгыдемдӹмӓш</st>
-      </stg>
-
-      <stress>валгыде•мдӹмӓш</stress>
-    </lg>
-
-    <pos>N</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg lang="fin">
-        <t pos="N">valkenemattomuus</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l>валгыдеммӓш</l>
 
       <stg>
@@ -20348,7 +20329,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">auton ohjaaminen; johtaaminen; hoitaminen</t>
+        <t pos="N">johtaaminen; hoitaminen; suoristaminen; oikaiseminen;
+        suunaminen; kohdentaminen; auton ohjaaminen; hevosen ohjaaminen;
+        projektin vetäminen; työn johtaaminen</t>
 
         <tCtn>
           <t>ohjata</t>
@@ -20380,10 +20363,11 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">ojentaa; suoristaa käsi; pingottaa; kiristää</t>
+        <t pos="N">ojentaminen; kädellä viitaminen; pingottaminen;
+        kiristäminen; loimilankojen luominen</t>
 
         <tCtn>
-          <t>pingottaa; kiristää</t>
+          <t>pingottaminen; kiristäminen</t>
 
           <re>loimi</re>
         </tCtn>
@@ -26507,7 +26491,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">merilevä </t>
+        <t pos="N">merilevä</t>
       </tg>
     </mg>
   </e>
@@ -27577,7 +27561,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">verta vuotaaminen; veriseksi muuttuminen </t>
+        <t pos="N">verta vuotaaminen; veriseksi muuttuminen</t>
       </tg>
     </mg>
   </e>
@@ -27713,7 +27697,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N">kahlaaja; lehtokurppa; </t>
+        <t pos="N">kahlaaja; lehtokurppa;</t>
 
         <tCtn>
           <t>lehtokurppa</t>
@@ -271856,13 +271840,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--Портя́нка (от др.-рус. порть — «нарез или кусок ткани; одежда», другая версия — портно — грубый холст, портяница — отрезанная часть холста, портянки — портяница для оборачивания ног) — кусок ткани для обматывания ноги-->
+        </head>
 
         <defNative/>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">jalkariepu; jalkarätti</t>
       </tg>
     </mg>
   </e>
@@ -271914,7 +271900,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">vanha jalkarätti; rievut; rääsyt</t>
       </tg>
     </mg>
   </e>
@@ -271940,7 +271926,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">karkea palttina; aivinakangas</t>
       </tg>
     </mg>
   </e>
