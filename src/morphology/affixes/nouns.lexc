@@ -15,28 +15,26 @@ LEXICON N_ТӸРВӸ_sub
 +Use/Sub: N_ТӸРВӸ ;
 
 !! !!Standard
-LEXICON N_КОЛ
-!кол:кол
+LEXICON N_КОЛ !!= @CODE@ кол:кол
 +N: NMN_OBLIQUE-INDEFINITE ;
 +N: NMN_OBLIQUE-POSSESSA ;
 +N+Sg+Nom: 	  K	; 
 
-LEXICON N_ТӸРВӸ
-!тырвы:тырв
+LEXICON N_ТӸРВӸ !!= @CODE@ тӹрвӹ:тӹрв
 ! The stem vowel "е" is found with possessor indices and the lative
-+N:ы NMN_OBLIQUE-INDEFINITE ;
-+N:ы NMN_OBLIQUE-POSSESSA ;
-+N+Sg+Nom:ы 	  K	; 
-+N+Sg+Lat:%>еш 	  K	; 
-!+N+PxSg1+Sg+Nom:%>ем K ;
-!+N+PxSg1+Pl+Nom:%>емвлӓ K ;
++N: NMN_OBLIQUE-INDEFINITE ;
++N: NMN_OBLIQUE-POSSESSA ;
++N+Sg+Nom: 	  K	; 
++N+Sg+Lat:%>Е2ш 	  K	; 
+!+N+PxSg1+Sg+Nom:%>Е2м K ;
+!+N+PxSg1+Pl+Nom:%>Е2мвлӓ K ;
 +N+Pl+Nom+PxSg1:влӓэм K ;
-!+N+PxSg2+Sg+Nom:%>ет K ;
-!+N+PxSg2+Pl+Nom:етвлӓ K ;
+!+N+PxSg2+Sg+Nom:%>Е2т K ;
+!+N+PxSg2+Pl+Nom:Е2твлӓ K ;
 +N+Pl+Nom+PxSg2:влӓэт K ;
-+N+Sg+Lat+PxSg1:%>ешем	   K  ;
-+N+Sg+Lat+PxSg3:%>ешЫ1жЫ1	   K  ;
-!+N+PxSg1:%>ем SG-ABEACCCOMDATGEN ;
++N+Sg+Lat+PxSg1:%>Е2шем	   K  ;
++N+Sg+Lat+PxSg3:%>Е2шЫ1жЫ1	   K  ;
+!+N+PxSg1:%>Е2м SG-ABEACCCOMDATGEN ;
 +N+PxSg1:ыэм PL-ABEACCCOMDATGENILLINELATNOM ;
  
 LEXICON SG-ABEACCCOMDATGEN
@@ -59,12 +57,12 @@ LEXICON PL-ABEACCCOMDATGENILLINELATNOM
 +Pl+Lat:%>влӓэш K ;
 +Pl+Nom:%>влӓ K ;
 
-LEXICON N_ПОЧТА !! почта:почта
+LEXICON N_ПОЧТА !!= @CODE@  почта:почта
 +N: NMN_OBLIQUE-INDEFINITE ;
 +N: NMN_OBLIQUE-POSSESSA ;
 +N+Sg+Nom: 	  K	; 
 
-LEXICON N_ОЛМА !! олма:олма
+LEXICON N_ОЛМА !!= @CODE@  олма:олма
 +N: NMN_OBLIQUE-INDEFINITE ;
 +N: NMN_OBLIQUE-POSSESSA ;
 +N+Sg+Nom: 	  K	; 
