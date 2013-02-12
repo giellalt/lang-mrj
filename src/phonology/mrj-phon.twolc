@@ -89,6 +89,9 @@ Rules
 "Stem final ы loss before Е2"
 ы:0 <=> #: Cons* Vow Cons+ _ %> Е2: ;
 
+"Stem final ӹ loss before Е2"
+ӹ:0 <=> #: Cons* Vow Cons+ _ %> Е2: ;
+
 "Onset vowel Ы1 realized in suffix"
   Ы1:ы <=> LBC  Cons ( %>: ) _ ;
 ![[ Cons | й ]+ %>: | %>: [ %>: | BackVow | е | ArchiVow: | Cons ]* [ Cons | й ] ( %>: ) ] _ ;
