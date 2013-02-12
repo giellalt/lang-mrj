@@ -1594,7 +1594,7 @@
       <xg>
         <x>ӹштӹрӓш тӹр амбылца</x>
 
-        <xt>hampun reunat ovat venyneet, laskostuneet</xt>
+        <xt>palttinan reunat ovat venyneet, laskostuneet</xt>
       </xg>
     </mg>
   </e>
@@ -1804,7 +1804,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V">vilkaista; katsahtaa; katsoa </t>
+        <t pos="V">vilkaista; katsahtaa; katsoa</t>
       </tg>
     </mg>
   </e>
@@ -1910,7 +1910,7 @@
 
       <tg lang="fin">
         <t pos="V">näyttää; esittää; osoittaa; neuvoa; teolla näyttää;
-        esittää; tuoda ilmi; ilmaista; merkitä; tarkoittaa; kuvailla </t>
+        esittää; tuoda ilmi; ilmaista; merkitä; tarkoittaa; kuvailla</t>
       </tg>
     </mg>
   </e>
@@ -2178,7 +2178,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V">olla raivotaudissa; raivota; riehua; temmeltää; </t>
+        <t pos="V">olla raivotaudissa; raivota; riehua; temmeltää;</t>
 
         <tCtn>
           <t>olla raivotaudissa</t>
@@ -2394,7 +2394,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V">laskostaa palttina tiettyyn pituuteen</t>
+        <t pos="V">laskostaa palttinaa; viikata palttinaa</t>
       </tg>
     </mg>
   </e>
@@ -2420,7 +2420,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">asvaltoida</t>
       </tg>
     </mg>
   </e>
@@ -2446,33 +2446,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>атараш</l>
-
-      <stg>
-        <st Contlex="V-emTag">атар</st>
-      </stg>
-
-      <stress>атараш</stress>
-    </lg>
-
-    <pos>V</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">hyökätä; hyökätä kimppuun</t>
       </tg>
     </mg>
   </e>
@@ -2498,7 +2472,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">julistaa päteväksi; myöntää arvoaste; luonnehtia</t>
       </tg>
     </mg>
   </e>
@@ -2520,11 +2494,12 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>аханицӓш кеӓш</defNative>
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">elämöidä; ottaa valtaa; ottaa vapautta; toimia oman
+        tahtonsa mukaan</t>
       </tg>
     </mg>
   </e>
@@ -2546,11 +2521,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>ачыла шыркедӓ</defNative>
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">pistää vatsassa</t>
       </tg>
     </mg>
   </e>
@@ -2576,7 +2551,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">kävellä hieman</t>
       </tg>
     </mg>
   </e>
@@ -2602,7 +2577,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">astella; astua; kävellä</t>
       </tg>
     </mg>
   </e>
@@ -2628,7 +2603,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">astua; tehdä askel; harpata; harppaista</t>
       </tg>
     </mg>
   </e>
@@ -2654,8 +2629,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">edistyä; menestyä</t>
       </tg>
+
+      <xg>
+        <x>пӓшӓ ашна</x>
+
+        <xt>työ edistyy; työ luistaa</xt>
+      </xg>
     </mg>
   </e>
 
@@ -2676,11 +2657,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>ашындарен пӓшӓлӓш</defNative>
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">työskennellä menestyksellisesti; hyvin edistyä</t>
       </tg>
     </mg>
   </e>
@@ -2706,8 +2687,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">selvetä; seljetä</t>
       </tg>
+
+      <xg>
+        <x>seljetä</x>
+
+        <xt>sää</xt>
+      </xg>
     </mg>
   </e>
 
@@ -2732,7 +2719,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">selvetä; seljetä</t>
       </tg>
     </mg>
   </e>
@@ -2758,7 +2745,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">hetkeksi selvetä; seljetä vähäksi aikaa</t>
       </tg>
     </mg>
   </e>
@@ -2784,7 +2771,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">selvetä; seljetä</t>
       </tg>
     </mg>
   </e>
@@ -2810,8 +2797,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">juhlia; vietää juhlaa; noudattaa tapoja</t>
       </tg>
+
+      <xg>
+        <x>пӹтӹм аяш</x>
+
+        <xt>noudattaa paastoa</xt>
+      </xg>
     </mg>
   </e>
 
@@ -2836,7 +2829,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">mhr?</t>
       </tg>
     </mg>
   </e>
@@ -2862,7 +2855,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">pitää tasapainossa</t>
       </tg>
     </mg>
   </e>
@@ -2888,7 +2881,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">asettua ehdokkaaksi; olla ehdokkaana</t>
       </tg>
     </mg>
   </e>
@@ -2914,7 +2907,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">asettaa ehdokkaaksi</t>
       </tg>
     </mg>
   </e>
@@ -2940,7 +2933,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">telmiä; leikkiä; lellitellä; hemmotella</t>
       </tg>
     </mg>
   </e>
@@ -2966,7 +2959,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">balsamoida</t>
       </tg>
     </mg>
   </e>
@@ -2992,7 +2985,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">mennä lakkoon; lakkoilla</t>
       </tg>
     </mg>
   </e>
@@ -3018,7 +3011,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">betonoida</t>
       </tg>
     </mg>
   </e>
@@ -3044,7 +3037,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">sitoa; kääriä siteitä</t>
       </tg>
     </mg>
   </e>
@@ -3070,7 +3063,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">siunata</t>
       </tg>
     </mg>
   </e>
@@ -3096,7 +3089,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">vannoa jumalan nimessä ?!x</t>
       </tg>
     </mg>
   </e>
@@ -3122,7 +3115,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">boikotoida</t>
       </tg>
     </mg>
   </e>
@@ -3148,7 +3141,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">nyrkkeillä</t>
       </tg>
     </mg>
   </e>
@@ -3174,7 +3167,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">pommittaa</t>
       </tg>
     </mg>
   </e>
@@ -3200,7 +3193,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">pommittaa; heittää pommejä</t>
       </tg>
     </mg>
   </e>
@@ -3226,7 +3219,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">mumista; mutista; purpattaa</t>
       </tg>
     </mg>
   </e>
@@ -3252,7 +3245,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">hylätä; todeta sekundatavaraksi</t>
       </tg>
     </mg>
   </e>
@@ -3278,7 +3271,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">pyöriä paikalla; liukua</t>
       </tg>
     </mg>
   </e>
@@ -3304,7 +3297,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">irtaantua; lähteä irti; lähteä kuoresta irti</t>
       </tg>
     </mg>
   </e>
@@ -3330,8 +3323,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">homehtua; pilaantua; pintyä; sumentua</t>
       </tg>
+
+      <xg>
+        <x>сӹнзӓ вадангеш</x>
+
+        <xt>silmissä sumenee</xt>
+      </xg>
     </mg>
   </e>
 
@@ -3356,7 +3355,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">antaa homehtua; antaa pilaantua</t>
       </tg>
     </mg>
   </e>
@@ -3382,8 +3381,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">hämärtyä; hämärtää</t>
       </tg>
+
+      <xg>
+        <x> вадемешӓт</x>
+
+        <xt>päivä jo hämärtää</xt>
+      </xg>
     </mg>
   </e>
 
@@ -3408,7 +3413,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">juurtua; asettua asumaan</t>
       </tg>
     </mg>
   </e>
@@ -3434,7 +3439,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">antaa juurtua</t>
+
+        <tCtn>
+          <t>luoda suotuista olot juurtumiselle</t>
+
+          <re>puutarhassa</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -3460,7 +3471,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">haljeta; haarautua</t>
+
+        <tCtn>
+          <t>haljeta</t>
+
+          <re>puu kahtia</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -3482,11 +3499,13 @@
       <m>
         <head/>
 
+        <semRel semRelType="synonym">шеклӓнӓш</semRel>
+
         <defNative/>
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">hävetä; häpeillä; ujostella</t>
       </tg>
     </mg>
   </e>
@@ -3512,7 +3531,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">saattaa häpeään</t>
+
+        <tCtn>
+          <t>häkellyttää</t>
+
+          <re>hämilleen</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -3538,8 +3563,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">laskeutua; pysähtyä yöksi; laskea alas</t>
       </tg>
+
+      <xg>
+        <x>кечӹ вазалеш</x>
+
+        <xt>aurinko laskee alas</xt>
+      </xg>
     </mg>
   </e>
 
@@ -3564,7 +3595,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">osoittautua kopiokelpoiseksi</t>
       </tg>
     </mg>
   </e>
@@ -3590,8 +3621,81 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">käydä makuulle; käydä pitkäkseen; mennä maata; joutua
+        vuoteenomaksi; vaipua; vajota; pudota; langeta; tulla jnk osaksi;
+        tulla mieleen; sataa lunta; kirnuuntua</t>
       </tg>
+
+      <xg>
+        <x>ышеш вазы</x>
+
+        <xt>tuli mieleen; juolahti mieleen</xt>
+      </xg>
+
+      <xg>
+        <x>рокыш вазын колаш</x>
+
+        <xt>kuolla; kuolla kupsahtaa</xt>
+      </xg>
+
+      <xg>
+        <x>вазын йӱӓш</x>
+
+        <xt>juoda vettä joesta makuuasennossa</xt>
+      </xg>
+
+      <xg>
+        <x>лым вазеш</x>
+
+        <xt>sataa lunta</xt>
+      </xg>
+
+      <xg>
+        <x>ӱ вазын</x>
+
+        <xt>voi kirnuuntui</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>вазаш</l>
+
+      <stg>
+        <st Contlex="V-amTag">ваз</st>
+      </stg>
+
+      <stress>ва•заш</stress>
+    </lg>
+
+    <pos>V-AUX</pos>
+
+    <mg>
+      <m>
+        <head>
+          <!--Aspektuaalisessa konverbirakenteessa gerundimuoto ilmoittaa rakenteen semanttisen merkityksen. Siinä syntaktisena pääverbinä on tekemiselle aspektuaalisen sävyn antava verbi (Alhoniemi 2010:143-144)-->
+        </head>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="V">aspektin ilmaisijana on toiminnan päättyneisyys ja
+        toiminnan hetkellisyys</t>
+      </tg>
+
+      <xg>
+        <x>кӹрӹлт вазы</x>
+
+        <xt>lähti irti</xt>
+      </xg>
+
+      <xg>
+        <x>вален вазы</x>
+
+        <xt>tupsahti alas</xt>
+      </xg>
     </mg>
   </e>
 
@@ -3616,7 +3720,8 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">kopioida; jäljentää kaava; piirtää mallin mukaan;
+        kirjoittaa; kirjoittaa puhtaaksi</t>
       </tg>
     </mg>
   </e>
@@ -3642,7 +3747,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">lähteä irti; lähteä kuoresta irti; irtaantua</t>
       </tg>
     </mg>
   </e>
@@ -3668,7 +3773,39 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">lyödä; tapella; tippua vesipisaroita</t>
+      </tg>
+
+      <xg>
+        <x>вактын пуш</x>
+
+        <xt>hän mukiloi; hän pieksi pahoin</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>вакташ</l>
+
+      <stg>
+        <st Contlex="V-amTag">вакт</st>
+      </stg>
+
+      <stress>ва•кташ</stress>
+    </lg>
+
+    <pos>V</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t pos="V">repiä kuorista irti; irrottaa kuoret; kuoria</t>
       </tg>
     </mg>
   </e>
@@ -3694,8 +3831,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">tulla alas; laskeutua; laskea alas; alentua</t>
       </tg>
+
+      <xg>
+        <x>кырыкым валаш</x>
+
+        <xt>laskea mäkeä alas</xt>
+      </xg>
     </mg>
   </e>
 
@@ -3720,8 +3863,20 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">valaista; paistaa; heijastaa</t>
       </tg>
+
+      <xg>
+        <x>валгалтарен шӹндӓш</x>
+
+        <xt>yhtäkkiä valaista</xt>
+      </xg>
+
+      <xg>
+        <x>кечӹ кыце валгалтара</x>
+
+        <xt>aurinkoo paistaa kirkkaasti</xt>
+      </xg>
     </mg>
   </e>
 
@@ -3746,8 +3901,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">tulla valoisaksi; heijaistua; sarastaa; valjeta</t>
       </tg>
+
+      <xg>
+        <x>валгалт кеӓш</x>
+
+        <xt>välähtää; leimahtaa</xt>
+      </xg>
     </mg>
   </e>
 
@@ -3772,7 +3933,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">valjeta; sarastaa</t>
       </tg>
     </mg>
   </e>
@@ -3798,7 +3959,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">sarastaa; valjeta</t>
       </tg>
     </mg>
   </e>
@@ -3824,7 +3985,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">valjeta</t>
       </tg>
     </mg>
   </e>
@@ -3876,7 +4037,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">leimahtaa; välähtää</t>
       </tg>
     </mg>
   </e>
@@ -3902,7 +4063,8 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">laskea; päästää; ottaa alas; alentaa; pudottaa; pienentää
+        hintaa</t>
       </tg>
     </mg>
   </e>
@@ -3928,8 +4090,20 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">ylittää; kulkea yli; mennä poikki</t>
       </tg>
+
+      <xg>
+        <x>ин ванжаш</x>
+
+        <xt>uida poikki</xt>
+      </xg>
+
+      <xg>
+        <x>кыргыж ванжаш</x>
+
+        <xt>juostaa poikki</xt>
+      </xg>
     </mg>
   </e>
 
@@ -3954,7 +4128,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">jäädä myöhemmäksi; jäädä pois</t>
       </tg>
     </mg>
   </e>
@@ -3980,7 +4154,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">käsitellä pikillä</t>
       </tg>
     </mg>
   </e>
@@ -4006,7 +4180,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">kiljua; kirkua; huutaa; parkua</t>
       </tg>
     </mg>
   </e>
@@ -4032,7 +4206,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">vaihtua; muuttua</t>
       </tg>
     </mg>
   </e>
@@ -4058,7 +4232,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">vaihtaa; muuttaa</t>
       </tg>
     </mg>
   </e>
@@ -4084,7 +4258,8 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">siirtää; viedä toiseen paikkaan; kantaa toiseen
+        paikkaan</t>
       </tg>
     </mg>
   </e>
@@ -4110,7 +4285,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">nauraa; pilkata; ivailla</t>
       </tg>
     </mg>
   </e>
@@ -4136,7 +4311,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">naurattaa; saada nauramaan</t>
       </tg>
     </mg>
   </e>
@@ -4162,7 +4337,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">mennä vihille; olla vihillä</t>
       </tg>
     </mg>
   </e>
@@ -4188,7 +4363,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">vihkiä</t>
       </tg>
     </mg>
   </e>
@@ -4214,7 +4389,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">värvätä, pestata</t>
       </tg>
     </mg>
   </e>
@@ -4240,7 +4415,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">pyörittää; pyöriä</t>
       </tg>
     </mg>
   </e>
@@ -4266,7 +4441,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">iloita; ilotella; hauskutella</t>
       </tg>
     </mg>
   </e>
@@ -4292,7 +4467,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">muuttaa toisenlaiseksi; muunnella</t>
       </tg>
     </mg>
   </e>
@@ -4318,7 +4493,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">muuttua toisenlaiseksi</t>
       </tg>
     </mg>
   </e>
@@ -4344,7 +4519,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">muuntautua</t>
       </tg>
     </mg>
   </e>
@@ -4370,7 +4545,8 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">ajaa; kuljettaa; ohjata autoa; vetää; taluttaa; johtaa;
+        juontaa konserttia</t>
       </tg>
     </mg>
   </e>
@@ -4396,8 +4572,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">ojentaa; ojentaa kätensä</t>
       </tg>
+
+      <xg>
+        <x>кидӹм виктӓлтӓш</x>
+
+        <xt>ojentaa kätensä</xt>
+      </xg>
     </mg>
   </e>
 
@@ -4422,7 +4604,9 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">suoristaa; suorentaa; oikaista; johtaa; suunnata;
+        kohdentaa; ohjata autoa; ohjata hevosta; vetää projektia; johtaa
+        työtä</t>
       </tg>
     </mg>
   </e>
@@ -4448,8 +4632,25 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">viitata kädellä; luoda loimilangat; pingottaa; kiristää
+        </t>
       </tg>
+
+      <tg lang="rus">
+        <t pos="V">сновать пряжу для холста; сновать основу для пряжи</t>
+      </tg>
+
+      <xg>
+        <x>мӹнерӹм виктӓш</x>
+
+        <xt>luoda loimilangat</xt>
+      </xg>
+
+      <xg>
+        <x>кидӹм виктӓш</x>
+
+        <xt>viitata</xt>
+      </xg>
     </mg>
   </e>
 
@@ -4474,8 +4675,20 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">kaatua; varista; karista; putoilla; valua yli</t>
+
+        <tCtn>
+          <t>putoilla</t>
+
+          <re>syyslehdet</re>
+        </tCtn>
       </tg>
+
+      <xg>
+        <x>лем вилеш</x>
+
+        <xt>keitto kiehuu yli</xt>
+      </xg>
     </mg>
   </e>
 
@@ -4500,8 +4713,20 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">pudottaa; pudotella; vierittää; kaataa vettä</t>
       </tg>
+
+      <xg>
+        <x>тӹдӹ тыгыды оксам седӹрӓш вилӓ</x>
+
+        <xt>hän vierittää, pudottaa kolikkoita pitkin lattiaa</xt>
+      </xg>
+
+      <xg>
+        <x>вӹдӹм седӹрӓш вилӓш</x>
+
+        <xt>kaataa vettä vahingossa lattialle</xt>
+      </xg>
     </mg>
   </e>
 
@@ -4526,7 +4751,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">ruuvata</t>
       </tg>
     </mg>
   </e>
@@ -4552,7 +4777,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">syyllistää</t>
       </tg>
     </mg>
   </e>
@@ -4578,7 +4803,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">?! x</t>
       </tg>
     </mg>
   </e>
@@ -4604,7 +4829,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">mittauttaa</t>
       </tg>
     </mg>
   </e>
@@ -4630,8 +4855,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">mitata; punnita; sovittaa</t>
       </tg>
+
+      <xg>
+        <x>висен анжаш</x>
+
+        <xt>sovittaa</xt>
+      </xg>
     </mg>
   </e>
 
@@ -4656,8 +4887,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">kyllästyttää; tunkeutua</t>
       </tg>
+
+      <xg>
+        <x>мардеж лу вашт витӓрӓ</x>
+
+        <xt>tuuli tunkeutuu luihin asti</xt>
+      </xg>
     </mg>
   </e>
 
@@ -4682,7 +4919,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">tihkua; vuotaa; kastua</t>
       </tg>
     </mg>
   </e>
@@ -4693,6 +4930,8 @@
 
       <stg>
         <st Contlex="V-emTag">вичкӓлт</st>
+
+        <st Contlex="V-emTag">вӹчкӓлт</st>
       </stg>
 
       <stress>вичкӓ•лтӓш</stress>
@@ -4708,7 +4947,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">helliä; puhua hellästi; silittää; hivellä</t>
       </tg>
     </mg>
   </e>
@@ -4734,7 +4973,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">taputella; silitellä</t>
       </tg>
     </mg>
   </e>
@@ -4760,7 +4999,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">niputtaa; sitoa pajuvitsalla</t>
       </tg>
     </mg>
   </e>
@@ -4786,7 +5025,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">vetelöittää</t>
       </tg>
     </mg>
   </e>
@@ -4812,7 +5051,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">vetelöityä; vedeltyä</t>
       </tg>
     </mg>
   </e>
@@ -4838,8 +5077,14 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">kehittää; tehostaa; suoristaa</t>
       </tg>
+
+      <xg>
+        <x>виӓнгден колташ</x>
+
+        <xt>antaa potkua kehitykselle</xt>
+      </xg>
     </mg>
   </e>
 
@@ -4864,7 +5109,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">kehittyä; voimistua; suoristua</t>
       </tg>
     </mg>
   </e>
@@ -4890,7 +5135,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">suoristua; suoristautua; oieta</t>
       </tg>
     </mg>
   </e>
@@ -4916,7 +5161,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">kehittää; suoristaa; suorentaa; oikoa</t>
       </tg>
     </mg>
   </e>
@@ -4942,7 +5187,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">suoristaa; suorentaa</t>
       </tg>
     </mg>
   </e>
@@ -4968,7 +5213,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">suoristua; suorentua</t>
       </tg>
     </mg>
   </e>
@@ -4994,7 +5239,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">reipastuttaa; piristää: virkistää</t>
       </tg>
     </mg>
   </e>
@@ -5020,7 +5265,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">reipastua; piristyä: virkistyä</t>
       </tg>
     </mg>
   </e>
@@ -5046,7 +5291,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">niskoitella; yrittää näyttää reippaalta</t>
       </tg>
     </mg>
   </e>
@@ -5072,7 +5317,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">aseistautua</t>
       </tg>
     </mg>
   </e>
@@ -5098,7 +5343,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">aseistaa</t>
       </tg>
     </mg>
   </e>
@@ -5124,7 +5369,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">murista; jupista; motkottaa</t>
       </tg>
     </mg>
   </e>
@@ -5150,7 +5395,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">kallistaa; vetää vinoon; vetää kallelleen</t>
       </tg>
     </mg>
   </e>
@@ -5176,7 +5421,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">kallistua; mennä vinoon; mennä kallelleen</t>
       </tg>
     </mg>
   </e>
@@ -5202,7 +5447,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">mitata maapalstaa; mitata 2m mittapuulla</t>
       </tg>
     </mg>
   </e>
@@ -5228,7 +5473,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">sotia; taistella</t>
       </tg>
     </mg>
   </e>
@@ -5254,7 +5499,8 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">hankia; pitää eläimiä; pitää karjaa; kasvattaa;
+        viljellä</t>
       </tg>
     </mg>
   </e>
@@ -5265,6 +5511,10 @@
 
       <stg>
         <st Contlex="V-emTag">вудымакт</st>
+
+        <st Contlex="V-emTag">вулдымакт</st>
+
+        <st Contlex="V-emTag">вурдымакт</st>
       </stg>
 
       <stress>вудыма•кташ</stress>
@@ -5276,11 +5526,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>вудымактен кашташ</defNative>
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">maleksia; kuljeskella; meluta; hälistä ympäriinsä</t>
       </tg>
     </mg>
   </e>
@@ -6424,7 +6674,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"> vastata</t>
+        <t pos="V">vastata</t>
       </tg>
     </mg>
   </e>
@@ -6632,7 +6882,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V">muuttua kosteaksi; hikoa; höyryyntyä </t>
+        <t pos="V">muuttua kosteaksi; hikoa; höyryyntyä</t>
 
         <tCtn>
           <t>hikoa</t>
@@ -7039,7 +7289,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V">kaventaa; muuttaa kapeammaksi </t>
+        <t pos="V">kaventaa; muuttaa kapeammaksi</t>
       </tg>
     </mg>
   </e>
@@ -7091,7 +7341,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V">kaventaa; muuttaa kapeaksi </t>
+        <t pos="V">kaventaa; muuttaa kapeaksi</t>
       </tg>
     </mg>
   </e>
@@ -7143,7 +7393,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="V"/>
+        <t pos="V">helliä; puhua hellästi; silittää; hivellä</t>
       </tg>
     </mg>
   </e>
