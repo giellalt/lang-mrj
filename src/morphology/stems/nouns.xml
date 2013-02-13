@@ -27761,7 +27761,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">hieman laihtuminen</t>
       </tg>
     </mg>
   </e>
@@ -27787,7 +27787,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kaventuminen; kapeammaksi muuttuminen</t>
       </tg>
     </mg>
   </e>
@@ -27813,7 +27813,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kaventaminen; kapeammaksi muuttaminen</t>
       </tg>
     </mg>
   </e>
@@ -27839,7 +27839,13 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">laihtuminen; kapeneminen</t>
+
+        <tCtn>
+          <t>kapeneminen</t>
+
+          <re>lanka</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -27865,7 +27871,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">pohjeluu</t>
       </tg>
     </mg>
   </e>
@@ -27891,7 +27897,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">kaventaminen; kapeammaksi tekeminen</t>
       </tg>
     </mg>
   </e>
@@ -27917,7 +27923,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">viisikymppinen; viidenkymmenen rahaseteli</t>
       </tg>
     </mg>
   </e>
@@ -27975,7 +27981,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">vedonlyönti</t>
       </tg>
     </mg>
   </e>
@@ -28001,7 +28007,8 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">silittäminen; hiveleminen; olalle taputtaminen; helliminen;
+        hellästi puhuminen </t>
       </tg>
     </mg>
   </e>
@@ -28027,7 +28034,7 @@
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">satama</t>
       </tg>
     </mg>
   </e>
@@ -28049,11 +28056,37 @@
       <m>
         <head/>
 
+        <defNative>zool.</defNative>
+      </m>
+
+      <tg lang="fin">
+        <t pos="N">haahka</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>гад</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">гад</st>
+      </stg>
+
+      <stress>гад</stress>
+    </lg>
+
+    <pos>N</pos>
+
+    <mg>
+      <m>
+        <head/>
+
         <defNative/>
       </m>
 
       <tg lang="fin">
-        <t pos="N"/>
+        <t pos="N">matelija; ilkiö; ilkimys; konna</t>
       </tg>
     </mg>
   </e>
