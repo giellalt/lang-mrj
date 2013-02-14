@@ -20,8 +20,8 @@ LEXICON N_КОЛ !!= @CODE@ кол:кол
 +N: NMN_OBLIQUE-POSSESSA ;
 +N+Sg+Nom: 	  K	; 
 
-LEXICON N_ТӸРВӸ !!= @CODE@ тӹрвӹ:тӹрв
-! The stem vowel "е" is found with possessor indices and the lative
+LEXICON N_ТӸРВӸ !!= @CODE@ тӹрвӹ:тӹрвӹ
+!! The stem vowel "е" is found with possessor indices and the lative
 +N: NMN_OBLIQUE-INDEFINITE ;
 +N: NMN_OBLIQUE-POSSESSA ;
 +N+Sg+Nom: 	  K	; 
@@ -35,7 +35,7 @@ LEXICON N_ТӸРВӸ !!= @CODE@ тӹрвӹ:тӹрв
 +N+Sg+Lat+PxSg1:%>Е2шем	   K  ;
 +N+Sg+Lat+PxSg3:%>Е2шЫ1жЫ1	   K  ;
 !+N+PxSg1:%>Е2м SG-ABEACCCOMDATGEN ;
-+N+PxSg1:ыэм PL-ABEACCCOMDATGENILLINELATNOM ;
++N+PxSg1:эм PL-ABEACCCOMDATGENILLINELATNOM ;
  
 LEXICON SG-ABEACCCOMDATGEN
 +Sg+Abe:де K ;
@@ -120,7 +120,7 @@ LEXICON N_01
 
 LEXICON NMN_OBLIQUE-POSSESSA
 !! PxSg1+NB+CASE
-! singular possessa
+!! singular possessa
 +PxSg1+Sg+Nom:%>Е2м K ;
 +PxSg1+Sg+Gen:%>Е2м%>Ы1н K ;
 +PxSg1+Sg+Acc:%>Е2м%>Ы1м K ;
@@ -146,7 +146,7 @@ LEXICON NMN_OBLIQUE-POSSESSA
 +Sg+Lat+PxSg1:%>Е2шем	   K  ;
 +PxSg1+Sg+Lat:%>Е2меш	   K  ;
 +Sg+Comp+PxSg1:%>лаэм      K  ;
-+PxSg1+Sg+Comp:%>Е2м%>лА1     K  ;
++PxSg1+Sg+Comp:%>лА1	   K  ;
 +Sg+Abe+PxSg1:%>деэм	   K  ;
 +PxSg1+Sg+Abe:%>Е2мде	   K  ;
 ! plural possessa
