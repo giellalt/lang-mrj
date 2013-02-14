@@ -83,14 +83,14 @@ Rules
            %>: ж Ы2: %>: _  ;
         where Vx in (Е2 Ы1) ;
 
-"Onset vowel Е2 realized in suffix"
-  Е2:е <=> Cons %>: _ ;
+!"Onset vowel Е2 realized in suffix"
+!  Е2:е <=> Cons %>: _ ;
 
 "Stem final ы loss before Е2"
-ы:0 <=> #: Cons* Vow Cons+ _ %> Е2: ;
+ы:0 <=> #: Cons* Vow Cons+ _ %> Е2:е ;
 
 "Stem final ӹ loss before Е2"
-ӹ:0 <=> #: Cons* Vow Cons+ _ %> Е2: ;
+ӹ:0 <=> #: Cons* Vow Cons+ _ %> Е2:е ;
 
 "Onset vowel Ы1 realized in suffix"
   Ы1:ы <=> LBC  Cons ( %>: ) _ ;
