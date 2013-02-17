@@ -1,26 +1,29 @@
-!! Noun inflection
-!! ---------------
+!! !!!Noun inflection
+!! ----
+
 !! Hill Mari nouns inflect in cases.
 
-LEXICON NTag
+LEXICON NTag  !!= * @CODE@ 
 +N: NMN_OBLIQUE-INDEFINITE ;
 +N: NMN_OBLIQUE-POSSESSA ;
 +N+Sg+Nom: 	  K	; 
 
 !! !!Substandard
-LEXICON N_КОЛ_sub
+
+LEXICON N_КОЛ_sub !!= * @CODE@ 
 +Use/Sub: N_КОЛ ;
 
-LEXICON N_ТӸРВӸ_sub
+LEXICON N_ТӸРВӸ_sub !!= * @CODE@ 
 +Use/Sub: N_ТӸРВӸ ;
 
 !! !!Standard
+
 LEXICON N_КОЛ !!= @CODE@ кол:кол
 +N: NMN_OBLIQUE-INDEFINITE ;
 +N: NMN_OBLIQUE-POSSESSA ;
 +N+Sg+Nom: 	  K	; 
 
-LEXICON N_ТӸРВӸ !!= @CODE@ тӹрвӹ:тӹрвӹ
+LEXICON N_ТӸРВӸ !!= * @CODE@ тӹрвӹ:тӹрвӹ
 !! The stem vowel "е" is found with possessor indices and the lative
 +N: NMN_OBLIQUE-INDEFINITE ;
 +N: NMN_OBLIQUE-POSSESSA ;

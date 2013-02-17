@@ -1,13 +1,14 @@
-!! Adjective inflection
-!! --------------------
+!! !!!Adjective inflection
+!! ----
+
 !! Hill Mari ?? adjectives compare.
 
-!! LEXICON Comparisons
-!! +A+pos:0        Cases   ;
-!! +A+cmp:er       Cases   ;
-!! +A+sup:est      Cases   ;
+! LEXICON Comparisons
+! +A+pos:0        Cases   ;
+! +A+cmp:er       Cases   ;
+! +A+sup:est      Cases   ;
 
-LEXICON AdjTag
+LEXICON AdjTag  !!= * @CODE@ 
 +A: # ;
 
 
