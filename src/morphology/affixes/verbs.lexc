@@ -1,8 +1,10 @@
 !! Verb inflection
-!! ---------------
+!! ----
+
 !! Hill Mari (Western Mari) verbs are inflected for (subject) person, tense and mood.
 
-LEXICON VAux
+LEXICON VAux !!= * @CODE* = auxiliaries first
+
 +V+Aux: # ;
 
 LEXICON V-amTag !!= @CODE@ ӹштӓш:ӹшт
@@ -56,10 +58,11 @@ LEXICON V-emTag
 
 +V: INF ;
 
-!!!!!!!!!!!!!!!
-!! !!NONPAST !!
-!!!!!!!!!!!!!!!
-!! am
+
+!! !!NONPAST 
+
+!! !am verbs
+
 LEXICON INDPRSSG1-am
 +Ind+Prs+Sg1:%>ам K ;
 
@@ -79,7 +82,8 @@ LEXICON INDPRSPL3-am
 +Ind+Prs+Pl3:%>ыт K ;
 
 
-!! em
+!! !em verbs
+
 LEXICON INDPRSSG1-em
 +Ind+Prs+Sg1:%>ем K ;
 
@@ -98,10 +102,11 @@ LEXICON INDPRSPL2-em
 LEXICON INDPRSPL3-em
 +Ind+Prs+Pl3:%>А1т K ;
 
-!!!!!!!!!!!!!!!!!!
-!! !!PRETERIT 1 !!
-!!!!!!!!!!!!!!!!!!
-!! am
+
+!! !!PRETERIT 1 
+
+!! !am
+
 LEXICON INDPRT1SG1-am
 +Ind+Prt1+Sg1:%>Ы1м K ; !
 
@@ -120,7 +125,8 @@ LEXICON INDPRT1PL2-am
 LEXICON INDPRT1PL3-am
 +Ind+Prt1+Pl3:%>Е2вӹ K ; !
 
-!! em
+!! !em
+
 LEXICON INDPRT1SG1-em
 +Ind+Prt1+Sg1:%>Ы1шЫ1м K ; !
 
@@ -139,9 +145,9 @@ LEXICON INDPRT1PL2-em
 LEXICON INDPRT1PL3-em
 +Ind+Prt1+Pl3:%>Е2вӹ K ; !
 
-!!!!!!!!!!!!!!!!
-!! !!PRETERIT 2 !!
-!!!!!!!!!!!!!!!!
+!! !!PRETERIT 2 
+
+!! !am
 LEXICON INDPRT2SG1-am
 +Ind+Prt2+Sg1:%>Ы1нА1м K ; !
 
@@ -160,7 +166,8 @@ LEXICON INDPRT2PL2-am
 LEXICON INDPRT2PL3-am
 +Ind+Prt2+Pl3:%>Ы1нЫ1т K ; !
 
-!! em
+!! !em
+
 LEXICON INDPRT2SG1-em
 +Ind+Prt2+Sg1:%>Е2нА1м K ; !
 
@@ -179,17 +186,16 @@ LEXICON INDPRT2PL2-em
 LEXICON INDPRT2PL3-em
 +Ind+Prt2+Pl3:%>Е2нӹт K ; !
 
-!!!!!!!!!!!!!!!!!!
-!! !!IMPERATIVE !!
-!!!!!!!!!!!!!!!!!!
+
+!! !!IMPERATIVE 
+
 
 LEXICON IMPRTSG2-am
 +Imprt+Sg2:%^ConsTransf K ; !
 
 
-!!!!!!!!!!!!!!!!
-!! INFINITIVE !!
-!!!!!!!!!!!!!!!!
+!! !!INFINITIVE 
+
 
 LEXICON INF
 +Inf:%>А1ш K ;
