@@ -116,35 +116,17 @@ LEXICON Deriv-RUS-ИН_SURMAL
 
 
 
-LEXICON PROP_КАЛ_SURMAL
-+N+Prop+Sur+Mal: N_01 ;
-
-LEXICON PROP_КУДО_SURFEM
-+N+Prop+Sur+Fem: N_01 ;
-
 LEXICON CYRL-CONS_SUR
  PROP_КАЛ_SUR ;
-
-LEXICON PROP_КАЛ_SUR
-+N+Prop+Sur: N_01 ;
 
 LEXICON CYRL-Т_SUR
  PROP_КИТ_SUR ;
 
-LEXICON PROP_КИТ_SUR
- PROP_КАЛ_SUR ;
-
 LEXICON CYRL-К_SUR
  PROP_ЛАК_SUR ;
 
-LEXICON PROP_ЛАК_SUR
- PROP_КАЛ_SUR ;
-
 LEXICON CYRL-SIBILANT_SUR
  PROP_ОШ_SUR ;
-
-LEXICON PROP_ОШ_SUR
-+N+Prop+Sur: N_01 ;
 
 LEXICON CYRL-VOW_SUR
  PROP_КУДО_SUR ;
@@ -152,29 +134,59 @@ LEXICON CYRL-VOW_SUR
 LEXICON CYRL-А_SUR
  PROP_КУДО_SUR ;
 
-LEXICON PROP_КУДО_SUR
-+N+Prop+Sur: N_01 ;
+LEXICON PROP_КАЛ_FEM
++N+Prop+Fem: N_01 ;
 
 LEXICON PROP_КАЛ_MAL
 +N+Prop+Mal: N_01 ;
 
-LEXICON PROP_ЛАК_MAL
-+N+Prop+Mal: N_01 ;
+LEXICON PROP_КАЛ_SURMAL
++N+Prop+Sur+Mal: N_01 ;
+
+LEXICON PROP_КАЛ_SUR
++N+Prop+Sur: N_01 ;
+
+LEXICON PROP_КИТ_FEM
++N+Prop+Fem: N_01 ;
 
 LEXICON PROP_КИТ_MAL
 +N+Prop+Mal: N_01 ;
 
-LEXICON PROP_ОШ_MAL
-+N+Prop+Mal: N_01 ;
+LEXICON PROP_КИТ_SUR
+ PROP_КАЛ_SUR ;
+
+LEXICON PROP_КУДО_FEM
++N+Prop+Fem: N_01 ;
 
 LEXICON PROP_КУДО_MAL
++N+Prop+Mal: N_01 ;
+
+LEXICON PROP_КУДО_PATRFEM
++N+Prop+Patr+Fem: N_01 ;
+
+LEXICON PROP_КУДО_SUR
++N+Prop+Sur: N_01 ;
+
+LEXICON PROP_КУДО_SURFEM
++N+Prop+Sur+Fem: N_01 ;
+
+LEXICON PROP_ЛАК_MAL
++N+Prop+Mal: N_01 ;
+
+LEXICON PROP_ЛАК_SUR
+ PROP_КАЛ_SUR ;
+
+LEXICON PROP_ОШ_FEM
++N+Prop+Fem: N_01 ;
+
+LEXICON PROP_ОШ_MAL
 +N+Prop+Mal: N_01 ;
 
 LEXICON PROP_ОШ_PATRMAL
 +N+Prop+Patr+Mal: N_01 ;
 
-LEXICON PROP_КУДО_PATRFEM
-+N+Prop+Patr+Fem: N_01 ;
+LEXICON PROP_ОШ_SUR
++N+Prop+Sur: N_01 ;
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
