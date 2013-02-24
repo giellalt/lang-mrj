@@ -4,7 +4,7 @@
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e>
       <lg>
-         <l>ато</l>
+         <l pos="CONJ">ато</l>
          <stg>
             <st Contlex="ConjTag">ато</st>
          </stg>
@@ -16,14 +16,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>вет</l>
+         <l pos="CONJ">вет</l>
          <stg>
             <st Contlex="ConjTag">вет</st>
          </stg>
@@ -35,14 +35,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>вуйта</l>
+         <l pos="CONJ">вуйта</l>
          <stg>
             <st Contlex="ConjTag">вуйта</st>
          </stg>
@@ -54,14 +54,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>гӹнь</l>
+         <l pos="CONJ">гӹнь</l>
          <stg>
             <st Contlex="ConjTag">гӹнь</st>
          </stg>
@@ -73,14 +73,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>гӹньӹ</l>
+         <l pos="CONJ">гӹньӹ</l>
          <stg>
             <st Contlex="ConjTag">гӹньӹ</st>
          </stg>
@@ -92,14 +92,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>гӹнят</l>
+         <l pos="CONJ">гӹнят</l>
          <stg>
             <st Contlex="ConjTag">гӹнят</st>
          </stg>
@@ -111,14 +111,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>дон</l>
+         <l pos="CONJ">дон</l>
          <stg>
             <st Contlex="Cc">дон</st>
          </stg>
@@ -130,14 +130,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>ja</t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>дык</l>
+         <l pos="CONJ">дык</l>
          <stg>
             <st Contlex="ConjTag">дык</st>
          </stg>
@@ -149,14 +149,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>дӓ</l>
+         <l pos="CONJ">дӓ</l>
          <stg>
             <st Contlex="Cc">дӓ</st>
          </stg>
@@ -168,14 +168,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>зато</l>
+         <l pos="CONJ">зато</l>
          <stg>
             <st Contlex="ConjTag">зато</st>
          </stg>
@@ -187,14 +187,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>ито</l>
+         <l pos="CONJ">ито</l>
          <stg>
             <st Contlex="ConjTag">ито</st>
          </stg>
@@ -206,14 +206,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>керек</l>
+         <l pos="CONJ">керек</l>
          <stg>
             <st Contlex="ConjTag">керек</st>
          </stg>
@@ -225,14 +225,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>льывы</l>
+         <l pos="CONJ">льывы</l>
          <stg>
             <st Contlex="ConjTag">льывы</st>
          </stg>
@@ -244,14 +244,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>манын</l>
+         <l pos="CONJ">манын</l>
          <stg>
             <st Contlex="ConjTag">манын</st>
          </stg>
@@ -263,14 +263,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>ни</l>
+         <l pos="CONJ">ни</l>
          <stg>
             <st Contlex="ConjTag">ни</st>
          </stg>
@@ -282,14 +282,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>но</l>
+         <l pos="CONJ">но</l>
          <stg>
             <st Contlex="ConjTag">но</st>
          </stg>
@@ -301,14 +301,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>потомушто</l>
+         <l pos="CONJ">потомушто</l>
          <stg>
             <st Contlex="ConjTag">потомушто</st>
          </stg>
@@ -320,14 +320,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>седӹндон</l>
+         <l pos="CONJ">седӹндон</l>
          <stg>
             <st Contlex="ConjTag">седӹндон</st>
          </stg>
@@ -339,14 +339,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>седӹндоно</l>
+         <l pos="CONJ">седӹндоно</l>
          <stg>
             <st Contlex="ConjTag">седӹндоно</st>
          </stg>
@@ -358,14 +358,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>только</l>
+         <l pos="CONJ">только</l>
          <stg>
             <st Contlex="ConjTag">только</st>
          </stg>
@@ -377,14 +377,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>тоты</l>
+         <l pos="CONJ">тоты</l>
          <stg>
             <st Contlex="ConjTag">тоты</st>
          </stg>
@@ -396,14 +396,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>тӓ</l>
+         <l pos="CONJ">тӓ</l>
          <stg>
             <st Contlex="ConjTag">тӓ</st>
          </stg>
@@ -415,14 +415,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>тӹндон</l>
+         <l pos="CONJ">тӹндон</l>
          <stg>
             <st Contlex="ConjTag">тӹндон</st>
          </stg>
@@ -434,14 +434,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>хоть</l>
+         <l pos="CONJ">хоть</l>
          <stg>
             <st Contlex="Cs">хоть</st>
          </stg>
@@ -453,14 +453,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>ылгецӹ</l>
+         <l pos="CONJ">ылгецӹ</l>
          <stg>
             <st Contlex="ConjTag">ылгецӹ</st>
          </stg>
@@ -472,14 +472,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>ӓли</l>
+         <l pos="CONJ">ӓли</l>
          <stg>
             <st Contlex="ConjTag">ӓли</st>
          </stg>
@@ -491,14 +491,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>ӓль</l>
+         <l pos="CONJ">ӓль</l>
          <stg>
             <st Contlex="ConjTag">ӓль</st>
          </stg>
@@ -510,14 +510,14 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l>﻿а</l>
+         <l pos="CONJ">﻿а</l>
          <stg>
             <st Contlex="ConjTag">﻿а</st>
          </stg>
@@ -529,7 +529,7 @@
             <head/>
             <defNative/>
          </m>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t/>
          </tg>
       </mg>
