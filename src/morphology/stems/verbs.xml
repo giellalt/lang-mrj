@@ -8123,7 +8123,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V">kertoa; ilmoittaa</t>
+        <t pos="V">kertoa; esittää; selostaa; ilmoittaa</t>
       </tg>
     </mg>
   </e>
@@ -8433,9 +8433,11 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--жерӓ куза манмым ак анжыкты?-->
+        </head>
 
-        <defNative>=? жерӓ куза; жерӓ валгалтеш</defNative>
+        <defNative>жерӓ валгалтеш</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -11453,7 +11455,7 @@
       </tg>
 
       <xg>
-        <x>кишӹ кӱ йӓнгӓргӓ </x>
+        <x>кишӹ кӱ йӓнгӓргӓ</x>
 
         <xt>lojuva kivi sammaltuu</xt>
       </xg>
@@ -11507,7 +11509,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V">antaa laskeutua; pehmentää; vertyä; notketa </t>
+        <t pos="V">antaa laskeutua; pehmentää; vertyä; notketa</t>
       </tg>
 
       <xg>
@@ -11899,7 +11901,7 @@
       <xg>
         <x>хынавлӓ толмашеш цилӓ йӧнӓтен шӹндӓ</x>
 
-        <xt>valmistaa kaikki vieraiden tuloa varten </xt>
+        <xt>valmistaa kaikki vieraiden tuloa varten</xt>
       </xg>
     </mg>
   </e>
@@ -12035,7 +12037,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V">valuttaa vettä; kaataa metsää; </t>
+        <t pos="V">valuttaa vettä; kaataa metsää;</t>
       </tg>
     </mg>
   </e>
@@ -12414,7 +12416,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V">inhota jtkin; hylkiä; iljettää </t>
+        <t pos="V">inhota jtkin; hylkiä; iljettää</t>
       </tg>
 
       <xg>
@@ -13166,7 +13168,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V">hymyilyttää; saada hymyilemään </t>
+        <t pos="V">hymyilyttää; saada hymyilemään</t>
       </tg>
     </mg>
   </e>
@@ -13893,12 +13895,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V">kuivua sateesta</t>
+        <t pos="V">kuivua sateesta; kuivahtaa; rapautua</t>
 
         <tCtn>
-          <t>kuivua</t>
+          <t>rapautua</t>
 
-          <re>tie</re>
+          <re>maa</re>
         </tCtn>
       </tg>
     </mg>
@@ -13957,7 +13959,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">keimailla; keikailla</t>
       </tg>
     </mg>
   </e>
@@ -13983,7 +13985,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">rangaista; teloittaa; mestata</t>
       </tg>
     </mg>
   </e>
@@ -14009,7 +14011,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">valehdella</t>
       </tg>
     </mg>
   </e>
@@ -14035,7 +14037,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">lörpötellä; loruta</t>
       </tg>
     </mg>
   </e>
@@ -14061,8 +14063,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">muuttua karheaksi; muuttua routaiseksi; kuivahtaa</t>
       </tg>
+
+      <xg>
+        <x>сыкыр казырга</x>
+
+        <xt>leipä kuivahtaa pinnasta</xt>
+      </xg>
     </mg>
   </e>
 
@@ -14087,7 +14095,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">tehdä karheaksi; muuttaa routaiseksi; kuivata</t>
       </tg>
     </mg>
   </e>
@@ -14113,8 +14121,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">näkyä; ilmestyä</t>
       </tg>
+
+      <xg>
+        <x>сӹнзӓ мычанемӓт ит кайзы</x>
+
+        <xt>älä ilmesty silmieni eteen</xt>
+      </xg>
     </mg>
   </e>
 
@@ -14139,7 +14153,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">näyttää</t>
       </tg>
     </mg>
   </e>
@@ -14165,8 +14179,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">esittää; hulinoida; rähistä; telmiä</t>
       </tg>
+
+      <xg>
+        <x>изивлӓ мадыт, кайланат</x>
+
+        <xt>lapset telmii, esittää</xt>
+      </xg>
     </mg>
   </e>
 
@@ -14226,7 +14246,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">teeskennellä; ylpeillä; koreilla; hienostella</t>
       </tg>
     </mg>
   </e>
@@ -14252,7 +14272,13 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">tehdä karkeaksi; tehdä karheaksi</t>
+
+        <tCtn>
+          <t>tehdä karkeaksi</t>
+
+          <re>villa; kangas; nahkakäsineet</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -14278,7 +14304,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">karhentua; tulla karheaksi</t>
       </tg>
     </mg>
   </e>
@@ -14304,8 +14330,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">koukistua; notkistaa selkää; kyykistyä</t>
       </tg>
+
+      <xg>
+        <x>каклянен шӹнзӓш</x>
+
+        <xt>kyykistyä</xt>
+      </xg>
     </mg>
   </e>
 
@@ -14330,7 +14362,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">koukistella; köyristellä</t>
       </tg>
     </mg>
   </e>
@@ -14356,7 +14388,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kumartua; painua alas; taitua alas</t>
       </tg>
     </mg>
   </e>
@@ -14382,7 +14414,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">taivuttaa; vääntää</t>
       </tg>
     </mg>
   </e>
@@ -14408,7 +14440,13 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kuivata; kuivaa; kovettaa</t>
+
+        <tCtn>
+          <t>kovettaa</t>
+
+          <re>maapintaa</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -14434,7 +14472,13 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kuivua; kuivahtaa; kovettua</t>
+
+        <tCtn>
+          <t>kovettuu</t>
+
+          <re>maapinta</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -14454,13 +14498,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--Васикован книгӓштӹ уке, тенгелӓ чучеш: синоним глаголлан какыракаэмӓш -->
+        </head>
 
-        <defNative/>
+        <defNative>какыракаэмӓш?</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kuivua; kuivahtaa; kovettua</t>
       </tg>
     </mg>
   </e>
@@ -14480,13 +14526,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--Васикован книгӓштӹ уке, тенгелӓ чучеш: синоним глаголлан какыракаэмдӓш -->
+        </head>
 
-        <defNative/>
+        <defNative>какыракаэмдӓш</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kuivata; kovettaa</t>
       </tg>
     </mg>
   </e>
@@ -14512,7 +14560,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">ottaa aurinkoa; päivettyä; kuumentua; kuumeta
+        hehkuvaksi</t>
       </tg>
     </mg>
   </e>
@@ -14538,7 +14587,13 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kuumentaa hehkuvaksi; kevyesti paistaa pannulla </t>
+
+        <tCtn>
+          <t>kevyesti paistaa pannulla</t>
+
+          <re>pähkinöitä</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -14564,7 +14619,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kujeilla; teeskennellä; keimailla; esittää</t>
       </tg>
     </mg>
   </e>
@@ -14590,7 +14645,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kovettaa; kuivattaa</t>
       </tg>
     </mg>
   </e>
@@ -14616,7 +14671,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">laihtua; kovettua; kuivua</t>
       </tg>
     </mg>
   </e>
@@ -14642,7 +14697,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">tuoda; </t>
       </tg>
     </mg>
   </e>
