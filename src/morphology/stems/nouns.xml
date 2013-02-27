@@ -77,7 +77,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>yliopistoon pyrkivä nuori</t>
+        <tf>yliopistoon pyrkivä nuori</tf>
       </tg>
     </mg>
   </e>
@@ -389,7 +389,11 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N">hieman pullistuminen; hieman nouseminen; kohoaminen</t>
+        <tf pos="N">hieman pullistuminen</tf>
+
+        <tf pos="N">hieman nouseminen</tf>
+
+        <t pos="N">kohoaminen</t>
 
         <tCtn>
           <t>hieman nouseminen</t>
@@ -5927,7 +5931,7 @@
       <stress>а•ндак</stress>
     </lg>
 
-    <pos/>
+    <pos>N</pos>
 
     <mg>
       <m>
@@ -6101,7 +6105,7 @@
 
   <e>
     <lg>
-      <l pos="N">анзыкыла</l>
+      <l pos="ADV">анзыкыла</l>
 
       <stg>
         <st Contlex="AdvTag">анзыкыла</st>
@@ -6110,7 +6114,7 @@
       <stress>а•нзыкыла</stress>
     </lg>
 
-    <pos>Adv</pos>
+    <pos>ADV</pos>
 
     <mg>
       <m>
@@ -27710,6 +27714,7 @@
         <x>тӹдӹ лач вӹтельӹок</x>
 
         <xt>hän on ketterä kuin mikä</xt>
+
         <xt>hän on vikkelä kuin mikä</xt>
       </xg>
     </mg>
@@ -34591,18 +34596,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N">kuri; kuripito; opinhaara; oppiaine </t>
+        <t pos="N">kuri; kuripito; opinhaara; oppiaine</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-<<<<<<< .mine
-      <l>дифтери</l>
-=======
-      <l pos="N">дифтеридӓ</l>
->>>>>>> .r71780
+      <l pos="N">дифтери</l>
 
       <stg>
         <st Contlex="NTag">дифтери</st>
