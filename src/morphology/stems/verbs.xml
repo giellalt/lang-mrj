@@ -27432,7 +27432,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V">lämmetä; sulaa </t>
+        <t pos="V">lämmetä; sulaa</t>
       </tg>
     </mg>
   </e>
@@ -28635,7 +28635,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V">jyskätä?!</t>
+        <t pos="V">jyskätä</t>
       </tg>
 
       <xg>
@@ -28699,7 +28699,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kastua; taipua; vääntyä; pehmentyä; notkistua</t>
+
+        <tf pos="V">tulla kosteaksi; tulla taipuisaksi</tf>
       </tg>
     </mg>
   </e>
@@ -28725,8 +28727,21 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">taittaa; notkistaa; koukistaa; taivuttaa; vääntää;
+        kastuttaa; kostuttaa; lämmetä; lauhtua</t>
+
+        <tCtn>
+          <t>lauhtua</t>
+
+          <re>sää</re>
+        </tCtn>
       </tg>
+
+      <xg>
+        <x>йӹлмӹм лывырташ</x>
+
+        <xt>kirvoittaa kieli</xt>
+      </xg>
     </mg>
   </e>
 
@@ -28751,7 +28766,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">sekoittua; sotkeutua</t>
       </tg>
     </mg>
   </e>
@@ -28777,7 +28792,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">hämmentää; sekoittaa</t>
+
+        <tf pos="V">hämmentää hieman; sekoittaa hieman</tf>
       </tg>
     </mg>
   </e>
@@ -28803,7 +28820,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">hämmentää; sekoittaa; alustaa; sotkea; samentaa</t>
+
+        <tf pos="V">kylvää eripuraa; kylvää eripuraisuutta</tf>
       </tg>
     </mg>
   </e>
@@ -28829,7 +28848,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">lukea; laskea</t>
       </tg>
     </mg>
   </e>
@@ -28849,13 +28868,17 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--Саваткова: лыжга - тихий ветер; спокойный дождь; плавный -->
+        </head>
 
-        <defNative/>
+        <defNative>лыжга юр юреш</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">sataa</t>
+
+        <tf pos="V">sataa tasantahtisesti vettä</tf>
       </tg>
     </mg>
   </e>
@@ -28881,7 +28904,15 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">venyä; levetä; hajota</t>
+
+        <tf pos="V">mennä hajalle</tf>
+
+        <tCtn>
+          <t>hajota</t>
+
+          <re>kulunut vaate</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -28901,13 +28932,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--Саваткова: лыйге - плавно; спокойно-->
+        </head>
 
-        <defNative/>
+        <defNative>лыйге</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">?!</t>
       </tg>
     </mg>
   </e>
@@ -28918,6 +28951,8 @@
 
       <stg>
         <st Contlex="V-emTag">лыксырг</st>
+
+        <st Contlex="V-emTag">лаксырг</st>
       </stg>
 
       <stress>лыксы•ргаш</stress>
@@ -28933,7 +28968,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">heiketä; nääntyä; nuutua</t>
       </tg>
     </mg>
   </e>
@@ -28959,7 +28994,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">näännyttää; hivuttaa; nuuduttaa</t>
       </tg>
     </mg>
   </e>
@@ -28985,7 +29020,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">vähentää; viedä; poistaa; ohjata; taluttaa; kantaa;
+        siirtää; kiskoa; laahata; raahata; poistaa; julkaista; päästää;
+        louhia; kaivaa</t>
+
+        <tf pos="V">taluttaa jstak; ajaa pois; tuoda esiin; tehdä julkiseksi;
+        sulkea pois; erottaa jäsenyydestä; poistaa luettelosta; erottaa
+        työstä; panna viralta; nostaa perunoita; nostaa maan uumenista; kaivaa
+        ulos; kaivaa esille; työntää ulos; laskea ulos; kehittää filmi</tf>
       </tg>
     </mg>
   </e>
@@ -29011,7 +29053,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <tf pos="V">peittyä lumeen</tf>
       </tg>
     </mg>
   </e>
@@ -29037,7 +29079,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <tf pos="V">peittää lumeen</tf>
       </tg>
     </mg>
   </e>
@@ -29063,7 +29105,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <tf pos="V">sataa lunta</tf>
       </tg>
     </mg>
   </e>
@@ -29074,6 +29116,8 @@
 
       <stg>
         <st Contlex="V-emTag">лым</st>
+
+        <st Contlex="V-emTag">лoм</st>
       </stg>
 
       <stress>лы•маш</stress>
@@ -29089,7 +29133,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">harhauttaa</t>
+
+        <tf pos="V">harhauttaa huomio; viedä huomio muualle</tf>
       </tg>
     </mg>
   </e>
@@ -29109,13 +29155,16 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--Саваткова: лынзыри; лынзыра - ветхий; рваный; расползшийся;  
+   лохматый; кудрявый-->
+        </head>
 
-        <defNative/>
+        <defNative>лынзырге каяш</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">hajota; venyä; ränsistyä</t>
       </tg>
     </mg>
   </e>
@@ -29141,7 +29190,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">ränsistyttää</t>
       </tg>
     </mg>
   </e>
@@ -29167,7 +29216,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">tuiskuttaa</t>
       </tg>
     </mg>
   </e>
@@ -29193,7 +29242,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">läimäyttää; läjäyttää; pamauttaa; lyödä; lätkäyttää;
+        huiskauttaa; huiskaista</t>
       </tg>
     </mg>
   </e>
