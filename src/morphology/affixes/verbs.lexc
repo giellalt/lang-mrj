@@ -7,7 +7,7 @@ LEXICON VAux !!= * @CODE* = auxiliaries first
 
 +V+Aux: # ;
 
-LEXICON V-amTag !!= @CODE@ ӹштӓш:ӹшт
+LEXICON V_АМ !!= @CODE@ ӹштӓш:ӹшт
 +V: INDPRSSG1-am ;
 +V: INDPRSSG2-am ;
 +V: INDPRSSG3-am ;
@@ -34,7 +34,7 @@ LEXICON V-amTag !!= @CODE@ ӹштӓш:ӹшт
 +V: INF ;
 
 
-LEXICON V-emTag
+LEXICON V_ЕМ
 +V: INDPRSSG1-em ;
 +V: INDPRSSG2-em ;
 +V: INDPRSSG3-em ;
