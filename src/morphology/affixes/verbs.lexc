@@ -32,7 +32,10 @@ LEXICON V_АМ !!= @CODE@ ӹштӓш:ӹшт
 +V: IMPRTSG2-am   ;
 
 +V: INF ;
-
++V+PrcAct:%>шЫ2 K  ; !! Contlex needed
++V+PrcAct+Der/ЫшЫ:%>шЫ2 N_ТӸРВӸ ;
++V+PrcPss+Der/ЫмЫ:%>мЫ2 N_ТӸРВӸ ;
++V+PrcNeg+Der/ЫдЫмЫ:%>дЫ2мЫ2 N_ТӸРВӸ ;
 
 LEXICON V_ЕМ
 +V: INDPRSSG1-em ;
@@ -57,7 +60,10 @@ LEXICON V_ЕМ
 +V: INDPRT2PL3-em ;
 
 +V: INF ;
-
++V+PrcAct:%>Ы1шЫ2 K  ; !! Contlex needed
++V+PrcAct+Der/ЫшЫ:%>Ы1шЫ2 N_ТӸРВӸ ;
++V+PrcPss+Der/ЫмЫ:%>Ы1мЫ2 N_ТӸРВӸ ;
++V+PrcNeg+Der/ЫдЫмЫ:%>Ы1дЫ2мЫ2 N_ТӸРВӸ ;
 
 !! !!NONPAST 
 

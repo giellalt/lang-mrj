@@ -18,7 +18,8 @@ Alphabet
 ! Ы1:ы
  Ы1:ӹ
 ! Ы1:0
- Ы2:ы
+! Ы2:ы
+ Ы2:ӹ
 ! Ы2:0
  А2:а
 ! А2:я
@@ -105,8 +106,8 @@ Rules
 "Affix mid or final back А1:а"
  А1:а <=> LBC _ ;
 
-!"suffix-final vowel fronted "
-! Ы2:ӹ <=> LFC _ ;
+"suffix-final vowel backed "
+ Ы2:ы <=> LBC Cons _ ;
 
 !! !!Consonant loss or transformation
 
@@ -127,8 +128,9 @@ Rules
 !Work 2012-10-29!  Ы2:0 <=> Vow %>: [ Ы1: ш [ т | к ] | ж: ] _ %>: [ л | г | Ы1: ш | ш | д | Е2: | А2: ] ;
 !Work 2012-10-29!           Cons %>: [ Ы1: ш [ т | к ] | ж: ] _ %>: [ е ш | А2: ] ;
 
-"suffix-final vowel realized after stem-final consonant"
- Ы2:ы <=>  LBC %>: [ ж: | д ы м ] _ [ #: | %>: [ л | г | ш [ т | к ] | д | Ы1: [ м | н ] ]] ;
+!"suffix-final vowel realized after stem-final consonant"
+! Ы2:ы <=>  LBC %>: [ ж: | д Ы2: м | ( Ы1: ) м | ( Ы1: ) ш ] _ [ #: | %>: [ л | г | ш [ т | к ] | д | Ы1: [ м | н ] ]] ;
+!          LBC %>: д _ м Ы2: ;
 !Work 2012-10-29!!            %>:  Ы1: ш [ т | к ]  _ %>: Ы1: ;
 
 !Work 2012-10-29!"suffix-final vowel realized as -Round in word-final position"

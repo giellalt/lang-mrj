@@ -64,7 +64,13 @@ Multichar_Symbols
 !! Verb personal forms are:
  +Sg1 +Sg2 +Sg3 +Du1 +Du2 +Du3 +Pl1 +Pl2 +Pl3
 !! Other verb forms are
- +Inf +Ger +ConNeg +ConNegII +Neg +ImprtII +PrsPrc +PrfPrc +Sup +VGen +VAbess
+ +Inf
+ +Ger
+ +ConNeg +ConNegII +Neg +ImprtII 
+ +PrcAct !! active participle ЫшЫ
+ +PrcPss !! passive participle ЫмЫ
+ +PrcNeg !! negative passive participle ЫдЫмЫ
+ +Sup +VGen +VAbess
 
 ! Abbreviated words are classified with:
  +ABBR +ACR 
@@ -104,8 +110,9 @@ Multichar_Symbols
 !! Derivations are classified under the morphophonetic form of the suffix, the
 !! source and target part-of-speech.
  +V→N +V→V +V→A
- +Der/xxx
-
+ +Der/ЫшЫ
+ +Der/ЫмЫ
+ +Der/ЫдЫмЫ
 
 !! Morphophonology
 !! ---------------
