@@ -66,7 +66,7 @@ LEXICON nouns
 адресат:адресат N_КОЛ  "vastaanottaja" ;
 адресуйымаш:адресуйымаш N_КОЛ  "osoittaa" ;
 адъютант:адъютант N_КОЛ  "adjutantti" ;
-ажак% вӓтӹ:ажак-вӓт N_ТӸРВӸ_sub  "leskeksi jäänyt nainen" ;
+ажак% вӓтӹ:ажак-вӓт N_ТӸРВӸ_SUB  "leskeksi jäänyt nainen" ;
 ажедмӓш:ажедмӓш N_КОЛ  "neuvominen" ;
 ажнышен:ажнышен N_КОЛ  "?!" ;
 азарт:азарт N_КОЛ  "kiihko" ;
@@ -704,7 +704,7 @@ LEXICON nouns
 вацак:вацак N_КОЛ  "ahjo" ;
 вацмаш:вацмаш N_КОЛ  "pitkäkseen käyminen; maata meneminen" ;
 вачкы:вачкы N_ТӸРВӸ  "tynnyri" ;
-вачыгач-гек:вачыгач-гек N_КОЛ_sub  "kirjonta-elementti kansallispuvun olkapäässä" ;
+вачыгач-гек:вачыгач-гек N_КОЛ_SUB  "kirjonta-elementti kansallispuvun olkapäässä" ;
 вачыгач-гек:вочыгач% кек N_КОЛ  "kirjonta-elementti kansallispuvun olkapäässä" ;
 вашт:вашт N_КОЛ  "ADV; läpi; lävitse; läpikotaisin; kokonaan;" ;
 вашталтмаш:вашталтмаш N_КОЛ  "muuttuminen" ;
@@ -860,7 +860,7 @@ LEXICON nouns
 вочыгач:вочыгач N_КОЛ  "kansallispuvun olkapään kirjottu koriste" ;
 вочыгач:вачыгач N_КОЛ  "kansallispuvun olkapään kirjottu koriste" ;
 вочыгач% кек:вочыгач% кек N_КОЛ  "kansallispuvun olkapään kirjottu koriste" ;
-вочыгач% кек:вачыгач-гек N_КОЛ_sub  "kansallispuvun olkapään kirjottu koriste" ;
+вочыгач% кек:вачыгач-гек N_КОЛ_SUB  "kansallispuvun olkapään kirjottu koriste" ;
 вочык:вочык N_КОЛ  "syli; noin 2 m" ;
 вочыкаш:вочыкаш N_КОЛ  "sylin mittainen; noin 2 m mittainen?" ;
 вочыкемдӹмӓш:вочыкемдӹмӓш N_КОЛ  "kallistaminen; vinoon vetäminen; kallelleen vetäminen" ;
