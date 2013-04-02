@@ -5,6 +5,8 @@
 я (->) й а,
 Я (->) Ь А,
 я (->) ь а,
+Я (->) Ь Ӓ,
+я (->) ь ӓ,
 Ю (->) Й у,
 ю (->) й у,
 Ю (->) Ь У,
@@ -20,6 +22,8 @@
 # These relax transformations come from the age of electronic data
 Ӧ (->) Ö, # Cyrillic allow Latin
 ӧ (->) ö, # Cyrillic allow Latin
+Ӓ (->) Ä, # Cyrillic allow Latin
+ӓ (->) ä, # Cyrillic allow Latin
 О (->) O, # Cyrillic allow Latin
 о (->) o, # Cyrillic allow Latin
 А (->) A, # Cyrillic allow Latin
