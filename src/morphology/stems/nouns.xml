@@ -45422,7 +45422,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">puhdistamattomuus; siivoamattomuus</t>
       </tg>
     </mg>
   </e>
@@ -45448,7 +45448,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kuoriminen; puhdistaminen</t>
       </tg>
     </mg>
   </e>
@@ -45474,7 +45474,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">aasi; muuli</t>
       </tg>
     </mg>
   </e>
@@ -45500,8 +45500,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ennenaikaisuus</t>
       </tg>
+
+      <xg>
+        <x>ишаньыкын лин</x>
+
+        <xt>lehmä poikii ennenaikaisesti</xt>
+      </xg>
     </mg>
   </e>
 
@@ -45526,33 +45532,13 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
-      </tg>
-    </mg>
-  </e>
+        <t pos="N">kiila; suudin; vaatenaula; koukku; haka</t>
 
-  <e>
-    <lg>
-      <l pos="N">ишкӹлӓлтдӹмӓш</l>
+        <tCtn>
+          <t>suudin</t>
 
-      <stg>
-        <st Contlex="N_КОЛ">ишкӹлӓлтдӹмӓш</st>
-      </stg>
-
-      <stress>ишкӹлӓ•лтдӹмӓш</stress>
-    </lg>
-
-    <pos>N</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg xml:lang="fin">
-        <t pos="N"/>
+          <re>kirveellä</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -45578,7 +45564,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kiilaaminen; kiilaus</t>
       </tg>
     </mg>
   </e>
@@ -45604,7 +45590,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kiilamattomuus</t>
       </tg>
     </mg>
   </e>
@@ -45630,7 +45616,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kiilaus</t>
       </tg>
     </mg>
   </e>
@@ -45656,7 +45642,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">heinäkuu</t>
       </tg>
     </mg>
   </e>
@@ -45682,7 +45668,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kesäkuu</t>
       </tg>
     </mg>
   </e>
@@ -45708,7 +45694,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">haltia; vesihiisi; paholainen</t>
       </tg>
     </mg>
   </e>
@@ -45728,13 +45714,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--Саваткова: минер: чертов палец (камень)-->
+        </head>
 
         <defNative/>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">belemniittipuikko; pirunsormi</t>
       </tg>
     </mg>
   </e>
@@ -45760,7 +45748,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">myrkkysieni</t>
       </tg>
     </mg>
   </e>
@@ -45786,7 +45774,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">katko</t>
+
+        <td pos="N">myrkyllinen putkikasvi</td>
       </tg>
     </mg>
   </e>
@@ -45812,7 +45802,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <td pos="N">puolitoista vuotta</td>
       </tg>
     </mg>
   </e>
@@ -45838,7 +45828,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">räyhämättömyys</t>
       </tg>
     </mg>
   </e>
@@ -45864,7 +45854,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">räyhääminen; mekasteleminen</t>
       </tg>
     </mg>
   </e>
@@ -45890,7 +45880,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">räyhääminen; mekastelu; mesoaminen</t>
+
+        <tf pos="N">pahojen tekeminen</tf>
       </tg>
     </mg>
   </e>
@@ -124011,8 +124003,20 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">velli; puuro; kiisseli</t>
       </tg>
+
+      <xg>
+        <x>тури немӹр</x>
+
+        <xt>perunamuhennos</xt>
+      </xg>
+
+      <xg>
+        <x>крахмал немӹр</x>
+
+        <xt>kiisseli</xt>
+      </xg>
     </mg>
   </e>
 
@@ -126741,7 +126745,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">muhennos; perunamuhennos</t>
       </tg>
     </mg>
   </e>
