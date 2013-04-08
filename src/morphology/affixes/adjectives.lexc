@@ -11,6 +11,12 @@
 LEXICON A_  !!= * @CODE@ 
 +A: # ;
 
+LEXICON A_ТӸРВӸ  !!= * @CODE@
++A: # ;
++A+Der/N: N_ТӸРВӸ ;
+
+
+
 
 ! vim: set ft=xfst-lexc:
 
