@@ -5924,16 +5924,16 @@
 
   <e>
     <lg>
-      <l pos="N">андак</l>
+      <l pos="Adv">андак</l>
 
       <stg>
-        <st Contlex="N_КОЛ">андак</st>
+        <st Contlex="ADV_КОЛ">андак</st>
       </stg>
 
       <stress>а•ндак</stress>
     </lg>
 
-    <pos>N</pos>
+    <pos>Adv</pos>
 
     <mg>
       <m>
@@ -5943,7 +5943,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="ADV">ajoissa; heti; samantien; etukäteen; alussa; ensiksi</t>
+        <t pos="Adv">ajoissa; heti; samantien; etukäteen; alussa; ensiksi</t>
       </tg>
     </mg>
   </e>
@@ -6107,16 +6107,16 @@
 
   <e>
     <lg>
-      <l pos="ADV">анзыкыла</l>
+      <l pos="Adv">анзыкыла</l>
 
       <stg>
-        <st Contlex="AdvTag">анзыкыла</st>
+        <st Contlex="ADV_">анзыкыла</st>
       </stg>
 
       <stress>а•нзыкыла</stress>
     </lg>
 
-    <pos>ADV</pos>
+    <pos>Adv</pos>
 
     <mg>
       <m>
@@ -18662,16 +18662,16 @@
 
   <e>
     <lg>
-      <l pos="N">вашт</l>
+      <l pos="Adv">вашт</l>
 
       <stg>
-        <st Contlex="N_КОЛ">вашт</st>
+        <st Contlex="ADV_КОЛ">вашт</st>
       </stg>
 
       <stress>вашт</stress>
     </lg>
 
-    <pos>ADV</pos>
+    <pos>Adv</pos>
 
     <mg>
       <m>
@@ -18681,7 +18681,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N">ADV; läpi; lävitse; läpikotaisin; kokonaan;</t>
+        <t pos="Adv">läpi; lävitse; läpikotaisin; kokonaan;</t>
       </tg>
     </mg>
   </e>
@@ -23566,16 +23566,16 @@
 
   <e>
     <lg>
-      <l pos="N">вуйсӓрӓ</l>
+      <l pos="Adv">вуйсӓрӓ</l>
 
       <stg>
-        <st Contlex="N_ОЛМА">вуйсӓрӓ</st>
+        <st Contlex="ADV_ОЛМА">вуйсӓрӓ</st>
       </stg>
 
       <stress>вуйсӓ•рӓ</stress>
     </lg>
 
-    <pos>ADV</pos>
+    <pos>Adv</pos>
 
     <mg>
       <m>
@@ -23585,7 +23585,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="ADV">päätä pahkaa; suin päin; pää kolmantena jalkana</t>
+        <t pos="Adv">päätä pahkaa; suin päin; pää kolmantena jalkana</t>
       </tg>
     </mg>
   </e>
@@ -37482,16 +37482,16 @@
 
   <e>
     <lg>
-      <l pos="ADV">жӓл</l>
+      <l pos="Adv">жӓл</l>
 
       <stg>
-        <st Contlex="AdvTag">жӓл</st>
+        <st Contlex="ADV_">жӓл</st>
       </stg>
 
       <stress>жӓл</stress>
     </lg>
 
-    <pos>ADV</pos>
+    <pos>Adv</pos>
 
     <mg>
       <m>
@@ -37501,7 +37501,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="ADV">valitettavasti</t>
+        <t pos="Adv">valitettavasti</t>
       </tg>
     </mg>
   </e>
@@ -39716,16 +39716,16 @@
 
   <e>
     <lg>
-      <l pos="ADV">ивештӓ</l>
+      <l pos="Adv">ивештӓ</l>
 
       <stg>
-        <st Contlex="AdvTag">ивештӓ</st>
+        <st Contlex="ADV_">ивештӓ</st>
       </stg>
 
       <stress>иве•штӓ</stress>
     </lg>
 
-    <pos>ADV</pos>
+    <pos>Adv</pos>
 
     <mg>
       <m>
@@ -39735,7 +39735,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="ADV">salaa; salaisesti; salavihkaa</t>
+        <t pos="Adv">salaa; salaisesti; salavihkaa</t>
       </tg>
     </mg>
   </e>
@@ -44155,16 +44155,16 @@
 
   <e>
     <lg>
-      <l pos="N">ирет-вадет</l>
+      <l pos="Adv">ирет-вадет</l>
 
       <stg>
-        <st Contlex="ADV">ирет-вадет</st>
+        <st Contlex="ADV_">ирет-вадет</st>
       </stg>
 
       <stress>ире•т-ваде•т</stress>
     </lg>
 
-    <pos>ADV</pos>
+    <pos>Adv</pos>
 
     <mg>
       <m>
@@ -44174,7 +44174,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N">aammuin-illoin</t>
+        <t pos="Adv">aammuin-illoin</t>
       </tg>
     </mg>
   </e>
@@ -45908,7 +45908,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">jäädytys</t>
       </tg>
     </mg>
   </e>
@@ -45934,7 +45934,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">jäätyminen</t>
       </tg>
     </mg>
   </e>
@@ -45960,7 +45960,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">viherlevä</t>
+
+        <td pos="N">merilevän laji</td>
       </tg>
     </mg>
   </e>
@@ -45986,7 +45988,13 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lainamattomuus</t>
+
+        <tCtn>
+          <t>lainamattomuus</t>
+
+          <re>vain rahan lainaamisesta</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -46012,7 +46020,13 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lainaaminen</t>
+
+        <tCtn>
+          <t>lainaaminen</t>
+
+          <re>vain rahan lainaamisesta</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -46038,7 +46052,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lajike; laji; perhe; suku</t>
       </tg>
     </mg>
   </e>
@@ -46060,11 +46074,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>йишнӓш: онгжы йишнӓ</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">läähättämättömyys; huohottamattomuus</t>
       </tg>
     </mg>
   </e>
@@ -46086,11 +46100,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>йишнӓш: онгжы йишнӓ</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">läähätys; huohotus</t>
       </tg>
     </mg>
   </e>
@@ -46116,7 +46130,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kahmaisemattomuus</t>
       </tg>
     </mg>
   </e>
@@ -46142,7 +46156,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kahmaiseminen; syleily; halaus</t>
       </tg>
     </mg>
   </e>
@@ -46168,7 +46182,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">perheelliseksi tekeminen</tf>
       </tg>
     </mg>
   </e>
@@ -46194,7 +46208,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">perheelliseksi tuleminen; avioliiton solmiminen</t>
       </tg>
     </mg>
   </e>
@@ -46220,7 +46234,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">loitsu; loihtu</t>
       </tg>
     </mg>
   </e>
@@ -46246,7 +46260,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">virta; juoksu</t>
       </tg>
     </mg>
   </e>
@@ -46272,7 +46286,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">virtaamattomuus</t>
       </tg>
     </mg>
   </e>
@@ -46298,7 +46312,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">virta; juoksu; virtaus; suuntaus</t>
       </tg>
     </mg>
   </e>
@@ -46324,7 +46338,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">jodi</t>
       </tg>
     </mg>
   </e>
@@ -46335,6 +46349,8 @@
 
       <stg>
         <st Contlex="N_КОЛ">йодак</st>
+
+        <st Contlex="N_КОЛ">едок</st>
       </stg>
 
       <stress>йо•дак</stress>
@@ -46346,11 +46362,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>эдем шот годым</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">syöjä; syömämies</t>
       </tg>
     </mg>
   </e>
@@ -46376,7 +46392,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pyry; lumipyry; lumituisku; lumimyrsky</t>
       </tg>
     </mg>
   </e>
@@ -46402,7 +46418,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tuiskuaminen</t>
       </tg>
     </mg>
   </e>
@@ -46428,7 +46444,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tuiskuamattomuus</t>
       </tg>
     </mg>
   </e>
@@ -46454,7 +46470,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">viljan viskaaminen tuulessa</tf>
       </tg>
     </mg>
   </e>
@@ -46480,7 +46496,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pyryttämättömyys; tuiskuamattomuus</t>
       </tg>
     </mg>
   </e>
@@ -46506,7 +46522,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pyryttäminen; pyry; tuiskuaminen; lumituisku</t>
       </tg>
     </mg>
   </e>
@@ -46532,7 +46548,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">taikuri; loitsija; lumooja</t>
       </tg>
     </mg>
   </e>
@@ -46558,7 +46574,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">viekasteleminen; viekastelu; juonittelu</t>
       </tg>
     </mg>
   </e>
@@ -46584,7 +46600,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">valuttamattomuus; vuodattamattomuus</t>
       </tg>
     </mg>
   </e>
@@ -46610,7 +46626,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">valuttaminen; vuodattaminen; kaataaminen</t>
+
+        <tf pos="N">veden valaaminen</tf>
       </tg>
     </mg>
   </e>
@@ -46636,7 +46654,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lippu; viiri; tuuliviiri</t>
       </tg>
     </mg>
   </e>
@@ -46662,7 +46680,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sytyttämättömyys</t>
       </tg>
     </mg>
   </e>
@@ -46688,7 +46706,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sytyttäminen</t>
+
+        <tf pos="N">tulen laittaminen</tf>
       </tg>
     </mg>
   </e>
@@ -46699,6 +46719,8 @@
 
       <stg>
         <st Contlex="N_КОЛ">йолгыжалтмаш</st>
+
+        <st Contlex="N_КОЛ">йолгыжмаш</st>
       </stg>
 
       <stress>йолгыжа•лтмаш</stress>
@@ -46714,7 +46736,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kiiltäminen; kiilto; kimaltaminen; kimaltelu</t>
       </tg>
     </mg>
   </e>
@@ -46740,7 +46762,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kiiltäminen; kiilto; kimaltaminen</t>
       </tg>
     </mg>
   </e>
@@ -46766,7 +46788,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">kiiltäväksi tekeminen; kimaltavaksi tekeminen</tf>
       </tg>
     </mg>
   </e>
@@ -46792,7 +46814,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">petkuttaja; veijari</t>
       </tg>
     </mg>
   </e>
@@ -46812,13 +46834,17 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--Саваткова: отлынивающий от работы; отвыкший работать; беззаботный; вертлявый; легкомысленный-->
+        </head>
 
         <defNative/>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lumsu</t>
+
+        <tf pos="N">huoleton ihminen; kevytmielinen ihminen</tf>
       </tg>
     </mg>
   </e>
@@ -46844,7 +46870,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">laulun esittäminen; äänellä täyttäminen</tf>
       </tg>
     </mg>
   </e>
@@ -46870,7 +46896,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">viileneminen</t>
+
+        <t pos="N">avaraksi tuleminen; raikkaaksi muuttuminen</t>
       </tg>
     </mg>
   </e>
@@ -46896,7 +46924,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">parantumattomuus; raikastumattomuus; selkenemättömyys</t>
       </tg>
     </mg>
   </e>
@@ -46922,7 +46950,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">parantuminen; voimistuminen; raikastuminen;
+        selkeneminen</t>
       </tg>
     </mg>
   </e>
@@ -46948,7 +46977,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tuuluttaminen; raikastaminen; puhdistaminen</t>
       </tg>
     </mg>
   </e>
@@ -46974,23 +47003,29 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">aukeama; aukio; lakeus; aava; vapaus; rauha</t>
       </tg>
+
+      <xg>
+        <x>шӱлӓлтӓш йонгым пудай</x>
+
+        <xt>antakaa hetki rauhaa</xt>
+      </xg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">йонгыды</l>
+      <l pos="A">йонгыды</l>
 
       <stg>
-        <st Contlex="N_ТӸРВӸ">йонгыды</st>
+        <st Contlex="A_ТӸРВӸ">йонгыды</st>
       </stg>
 
       <stress>йо•нгыды</stress>
     </lg>
 
-    <pos>N</pos>
+    <pos>A</pos>
 
     <mg>
       <m>
@@ -47000,7 +47035,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">avara; väljä; tilava</t>
       </tg>
     </mg>
   </e>
