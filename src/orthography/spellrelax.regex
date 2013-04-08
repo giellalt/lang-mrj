@@ -29,7 +29,16 @@
 А (->) A, # Cyrillic allow Latin
 а (->) a, # Cyrillic allow Latin
 Е (->) E, # Cyrillic allow Latin
-е (->) e # Cyrillic allow Latin
+е (->) e, # Cyrillic allow Latin
+# Social media Cyrillics without funny letters
+ӱ (->) у, # Diaresis missing
+Ӱ (->) У, # Diaresis missing
+ӹ (->) ы, # Diaresis missing
+Ӹ (->) Ы, # Diaresis missing
+ӧ (->) о, # Diaresis missing
+Ӧ (->) О, # Diaresis missing
+ӓ (->) а, # Diaresis missing
+Ӓ (->) А # Diaresis missing
 ;
 
 # Explanation:
