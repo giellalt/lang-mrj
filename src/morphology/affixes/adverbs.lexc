@@ -26,8 +26,13 @@ LEXICON PostpTag  !!= * @CODE@
 LEXICON Ad-ATag !!= * @CODE@ 
 +AdA: # ;
 
-LEXICON AdvTag ! 
+LEXICON ADV_ ! 
 +Adv: K ;
+
+LEXICON ADV_КОЛ ! 
+ ADV_ ;
+LEXICON ADV_ОЛМА ! 
+ ADV_ ;
 
 LEXICON DescrTag
 +Adv+Descr: K ;
