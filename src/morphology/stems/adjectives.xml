@@ -355,7 +355,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A">omaelämäkerran kera ???</t>
+        <t pos="A">omaelämäkerrallinen</t>
       </tg>
     </mg>
   </e>
@@ -413,7 +413,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A">ilman allekirjoitusta</t>
+        <tf pos="A">ilman allekirjoitusta</tf>
       </tg>
     </mg>
   </e>
@@ -439,7 +439,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A">ilman autoa oleva</t>
+        <tf pos="A">ilman autoa oleva</tf>
       </tg>
     </mg>
   </e>
@@ -465,7 +465,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A">autossa oleva</t>
+        <tf pos="A">autossa oleva</tf>
       </tg>
     </mg>
   </e>
@@ -491,7 +491,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A">autoa omistava</t>
+        <tf pos="A">autoa omistava</tf>
       </tg>
     </mg>
   </e>
@@ -517,12 +517,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A">ilman autonomiaa oleva</t>
+        <tf pos="A">ilman autonomiaa oleva</tf>
 
         <tCtn>
           <t>ei-autonominen</t>
 
-          <re/>
+          <re>alue</re>
         </tCtn>
       </tg>
     </mg>
@@ -819,7 +819,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A">ilman laitetta oleva</t>
+        <tf pos="A">ilman laitetta oleva</tf>
       </tg>
     </mg>
   </e>
@@ -1311,7 +1311,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A">ilman aksioomaa oleva</t>
+        <tf pos="A">ilman aksioomaa oleva</tf>
       </tg>
     </mg>
   </e>
@@ -1337,11 +1337,11 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A">pöytäkirjalla varustettu</t>
+        <tf pos="A">pöytäkirjalla varustettu</tf>
 
-        <t pos="A">asiakirjaa sisältävä</t>
+        <tf pos="A">asiakirjaa sisältävä</tf>
 
-        <t pos="A">näytöstä sisältävä</t>
+        <tf pos="A">näytöstä sisältävä</tf>
       </tg>
     </mg>
   </e>
@@ -1367,7 +1367,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A">ilman pöytäkirjaa oleva</t>
+        <tf pos="A">ilman pöytäkirjaa oleva</tf>
 
         <tCtn>
           <t>ilman pöytäkirjaa oleva</t>
@@ -1540,7 +1540,7 @@
         <t pos="A">sananpainolla oleva</t>
 
         <tCtn>
-          <t>korostuksella </t>
+          <t>korostuksella</t>
 
           <re>vieraalla korostuksella puhumisesta</re>
         </tCtn>
@@ -2453,7 +2453,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A">ilman poliklinikkaa </t>
+        <t pos="A">ilman poliklinikkaa</t>
       </tg>
     </mg>
   </e>
@@ -24188,6 +24188,36 @@
 
   <e>
     <lg>
+      <l pos="A">йолтишкӓ</l>
+
+      <stg>
+        <st Contlex="A_ОЛМА">йолтишкӓ</st>
+      </stg>
+
+      <stress>йолти•шкӓ</stress>
+    </lg>
+
+    <pos>A</pos>
+
+    <mg>
+      <m>
+        <head>
+          <!--Саваткова: отлынивающий от работы; отвыкший работать; беззаботный; вертлявый; легкомысленный-->
+        </head>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="A">huoleton</t>
+
+        <t pos="A">kevytmielinen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="A">йонган</l>
 
       <stg>
@@ -24234,6 +24264,32 @@
 
       <tg xml:lang="fin">
         <t pos="A"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">йонгыды</l>
+
+      <stg>
+        <st Contlex="A_ТӸРВӸ">йонгыды</st>
+      </stg>
+
+      <stress>йо•нгыды</stress>
+    </lg>
+
+    <pos>A</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="A">avara; väljä; tilava</t>
       </tg>
     </mg>
   </e>
