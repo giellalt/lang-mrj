@@ -50529,7 +50529,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">järjestelemättömyys</t>
       </tg>
     </mg>
   </e>
@@ -50555,7 +50555,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">järjesteleminen</t>
+
+        <tf pos="N">asioiden ajaaminen; järjestykseen saaminen</tf>
       </tg>
     </mg>
   </e>
@@ -50581,7 +50583,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">jnkin tavan käyttämättömyys</tf>
       </tg>
     </mg>
   </e>
@@ -50601,13 +50603,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--Саваткова: применение какого-либо способа-->
+        </head>
 
         <defNative/>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">jnkin tavan käyttäminen</t>
       </tg>
     </mg>
   </e>
@@ -50659,7 +50663,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">valmistaminen; järjesteleminen</t>
       </tg>
     </mg>
   </e>
@@ -50685,7 +50689,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lihoamattomuus</t>
       </tg>
     </mg>
   </e>
@@ -50711,7 +50715,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lihoaminen</t>
       </tg>
     </mg>
   </e>
@@ -50737,7 +50741,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">kerrattu taikina</tf>
+
+        <tf pos="N">käsitelty taikina</tf>
       </tg>
     </mg>
   </e>
@@ -50757,13 +50763,43 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--Саваткова: рубец на теле-->
+        </head>
 
         <defNative/>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">arpi; viilto; juomu; naarmu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">йӧрмӓ</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">йӧрмӓ</st>
+      </stg>
+
+      <stress>йӧ•рмӓ</stress>
+    </lg>
+
+    <pos>N</pos>
+
+    <mg>
+      <m>
+        <head>
+          <!--Саваткова: в переносном значении - длинная полоса во весь узор на плечах марийской женской рубашки-->
+        </head>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N">päärme</t>
       </tg>
     </mg>
   </e>
@@ -50785,11 +50821,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>йӧрмӓлӓлт шӹцмӓш; йӧрмӓлӓлт шӹнзӓш</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">naarmuntua?</t>
       </tg>
     </mg>
   </e>
@@ -50815,7 +50851,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sammuttaminen; tukahduttaminen</t>
       </tg>
     </mg>
   </e>
@@ -50841,7 +50877,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">valuttamattomuus; kaatamattomuus</t>
       </tg>
     </mg>
   </e>
@@ -50867,7 +50903,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">valuttaminen; poiskaataminen</t>
       </tg>
     </mg>
   </e>
@@ -50893,7 +50929,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sammumattomuus</t>
       </tg>
     </mg>
   </e>
@@ -50919,7 +50955,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kaatumattomuus; sairastumattomuus</t>
       </tg>
     </mg>
   </e>
@@ -50945,7 +50981,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kaatuminen; heikkeneminen; sairastuminen</t>
+
+        <tf pos="N">jaloilta kaatuminen</tf>
       </tg>
     </mg>
   </e>
@@ -50971,7 +51009,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sammuminen</t>
       </tg>
     </mg>
   </e>
@@ -51023,7 +51061,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">järjen menettäminen; höperöksi tuleminen</tf>
       </tg>
     </mg>
   </e>
@@ -51049,7 +51087,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">joutsen</t>
       </tg>
     </mg>
   </e>
@@ -51075,7 +51113,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">juottamattomuus</t>
       </tg>
     </mg>
   </e>
@@ -51101,7 +51139,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">juottaminen; kestittäminen</t>
+
+        <tf pos="N">juotavan antaminen</tf>
       </tg>
     </mg>
   </e>
@@ -51127,34 +51167,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">juominen; juoppotteleminen; ryyppääminen; kosiminen</t>
       </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="N">йӹвӹжӓэмдӹдӹмӓш</l>
+      <xg>
+        <x>ӹдӹрӹм йӱмӓш</x>
 
-      <stg>
-        <st Contlex="N_КОЛ">йӹвӹжӓэмдӹдӹмӓш</st>
-      </stg>
-
-      <stress>йӹвӹжӓэ•мдӹдӹмӓш</stress>
-    </lg>
-
-    <pos>N</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg xml:lang="fin">
-        <t pos="N"/>
-      </tg>
+        <xt>kosiminen</xt>
+      </xg>
     </mg>
   </e>
 
@@ -51179,7 +51199,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">äänen pehmittäminen</tf>
       </tg>
     </mg>
   </e>
@@ -51205,7 +51225,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">helläksi tuleminen; helläksi muuttuminen; pehmeneminen
+        luonteeltaan</tf>
       </tg>
     </mg>
   </e>
@@ -51231,7 +51252,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">mielistelemättömyys</t>
       </tg>
     </mg>
   </e>
@@ -51257,33 +51278,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">йӹвӹлӓэмдӹдӹмӓш</l>
-
-      <stg>
-        <st Contlex="N_КОЛ">йӹвӹлӓэмдӹдӹмӓш</st>
-      </stg>
-
-      <stress>йӹвӹлӓэ•мдӹдӹмӓш</stress>
-    </lg>
-
-    <pos>N</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">mielisteleminen</t>
       </tg>
     </mg>
   </e>
@@ -51309,7 +51304,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">liukkaaksi tekeminen</t>
       </tg>
     </mg>
   </e>
@@ -51335,7 +51330,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">liukkaaksi muuttuminen</t>
       </tg>
     </mg>
   </e>
@@ -51355,13 +51350,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--Саваткован уке. Васикова: йывыр дӓ йӹвӹр -->
+        </head>
 
         <defNative/>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">salaisuus</t>
       </tg>
     </mg>
   </e>
@@ -51387,7 +51384,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">inhoamattomuus</t>
       </tg>
     </mg>
   </e>
@@ -51413,7 +51410,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">inhoaminen</t>
       </tg>
     </mg>
   </e>
@@ -51439,7 +51436,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kiusaamattomuus</t>
       </tg>
     </mg>
   </e>
@@ -51465,7 +51462,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kiusaaminen; ivaaminen; pilkkaaminen; kiusoitteleminen</t>
       </tg>
     </mg>
   </e>
@@ -51476,6 +51473,8 @@
 
       <stg>
         <st Contlex="N_КОЛ">йӹгӹнзӹш</st>
+
+        <st Contlex="N_КОЛ">игӹнзӹш</st>
       </stg>
 
       <stress>йӹгӹ•нзӹш</stress>
@@ -51491,7 +51490,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">hikka; nikotus</t>
       </tg>
     </mg>
   </e>
@@ -51517,7 +51516,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kaksoset</t>
       </tg>
     </mg>
   </e>
@@ -51543,7 +51542,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">nikottelemattomuus</t>
       </tg>
     </mg>
   </e>
@@ -51563,13 +51562,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--Саваткова: струна; лук,лучок шерстобитного прибора-->
+        </head>
 
-        <defNative/>
+        <defNative>архаизм</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">jousi; kieli</t>
       </tg>
     </mg>
   </e>
@@ -51621,7 +51622,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">luuva; puimuri; puimakenttä</t>
       </tg>
     </mg>
   </e>
@@ -51647,7 +51648,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kastemato</t>
       </tg>
     </mg>
   </e>
@@ -51667,13 +51668,17 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--Саваткова: молодая травка после таяния снега; бледнозеленое растение-->
+        </head>
 
         <defNative/>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ruohikko</t>
+
+        <tf pos="N">nuori ruoho; lumisulan jälkeinen ruoho</tf>
       </tg>
     </mg>
   </e>
@@ -51699,7 +51704,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">syttymättömyys</t>
       </tg>
     </mg>
   </e>
@@ -51725,33 +51730,13 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
-      </tg>
-    </mg>
-  </e>
+        <t pos="N">syttyminen</t>
 
-  <e>
-    <lg>
-      <l pos="N">йӹлгӓлӓнӹдӹмӓш</l>
+        <tCtn>
+          <t>syttyminen</t>
 
-      <stg>
-        <st Contlex="N_КОЛ">йӹлгӓлӓнӹдӹмӓш</st>
-      </stg>
-
-      <stress>йӹлгӓлӓ•нӹдӹмӓш</stress>
-    </lg>
-
-    <pos>N</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg xml:lang="fin">
-        <t pos="N"/>
+          <re>silmät hehkumaan</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -51777,7 +51762,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kauhtuneena kasvaaminen</t>
       </tg>
     </mg>
   </e>
@@ -51803,7 +51788,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kiiltämättömyys; loistamattomuus; kimaltamattomuus</t>
       </tg>
     </mg>
   </e>
@@ -51829,7 +51814,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kiiltäminen; loistaminen; välkkyminen</t>
       </tg>
     </mg>
   </e>
@@ -51855,7 +51840,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kiilottamattomuus</t>
       </tg>
     </mg>
   </e>
@@ -51877,11 +51862,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>синоним: йӹлгӹжтӹмӓш</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kiilottaminen</t>
       </tg>
     </mg>
   </e>
@@ -51907,7 +51892,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kiilottamattomuus</t>
       </tg>
     </mg>
   </e>
@@ -51933,7 +51918,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kiilottaminen</t>
       </tg>
     </mg>
   </e>
@@ -51959,7 +51944,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kimaltelemattomuus</t>
       </tg>
     </mg>
   </e>
@@ -51985,33 +51970,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">йӹлмӓнгдӹмӓш</l>
-
-      <stg>
-        <st Contlex="N_КОЛ">йӹлмӓнгдӹмӓш</st>
-      </stg>
-
-      <stress>йӹлмӓ•нгдӹмӓш</stress>
-    </lg>
-
-    <pos>N</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kimalteleminen</t>
       </tg>
     </mg>
   </e>
@@ -52037,7 +51996,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">tulla puheliaaksi</tf>
       </tg>
     </mg>
   </e>
@@ -52141,7 +52100,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kiusaamattomuus</t>
       </tg>
     </mg>
   </e>
@@ -52167,7 +52126,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kiusaaminen; ivaaminen; pilkkaaminen; kiusoitteleminen</t>
       </tg>
     </mg>
   </e>
