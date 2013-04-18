@@ -11,6 +11,10 @@
 LEXICON A_  !!= * @CODE@ 
 +A: # ;
 
+LEXICON A_ОЛМА !!= * @CODE@
++A: # ;
++A+Der/N: N_ОЛМА ;
+
 LEXICON A_ТӸРВӸ  !!= * @CODE@
 +A: # ;
 +A+Der/N: N_ТӸРВӸ ;
