@@ -1,537 +1,907 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e>
-      <lg>
-         <l pos="CONJ">ато</l>
-         <stg>
-            <st Contlex="ConjTag">ато</st>
-         </stg>
-         <stress>ато•</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="CONJ">ато</l>
+
+      <stg>
+        <st Contlex="ConjTag">ато</st>
+      </stg>
+
+      <stress>ато•</stress>
+    </lg>
+
+    <pos>CONJ</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>противительный союз</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="Conj">muuten; muutoin</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="PCLE">вет</l>
-         <stg>
-            <st Contlex="PCLE_">вет</st>
-         </stg>
-         <stress>вет</stress>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="PCLE">вет</l>
+
+      <stg>
+        <st Contlex="PCLE_">вет</st>
+      </stg>
+
+      <stress>вет</stress>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>усилительная частица</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">-han</t>
+
+        <t pos="Pcle">-hän</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="CONJ">вуйта</l>
-         <stg>
-            <st Contlex="ConjTag">вуйта</st>
-         </stg>
-         <stress>ву•йта</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="CONJ">вуйта</l>
+
+      <stg>
+        <st Contlex="ConjTag">вуйта</st>
+      </stg>
+
+      <stress>ву•йта</stress>
+    </lg>
+
+    <pos>CONJ</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>сравнительный союз</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="Conj">kuin; ikään kuin; aivan kuin; mukamas</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="CONJ">гӹнь</l>
-         <stg>
-            <st Contlex="ConjTag">гӹнь</st>
-         </stg>
-         <stress>гӹнь</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="CONJ">гӹнь</l>
+
+      <stg>
+        <st Contlex="ConjTag">гӹнь</st>
+      </stg>
+
+      <stress>гӹнь</stress>
+    </lg>
+
+    <pos>CONJ</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="Conj">jos; mikäli; ellei; jollei</t>
+      </tg>
+
+      <xg>
+        <x>малын манаш гӹнь</x>
+
+        <xt>koska</xt>
+      </xg>
+
+      <xg>
+        <x>уке гӹнь</x>
+
+        <xt>ainakin</xt>
+      </xg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="CONJ">гӹньӹ</l>
-         <stg>
-            <st Contlex="ConjTag">гӹньӹ</st>
-         </stg>
-         <stress>гӹньӹ</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="CONJ">гӹньӹ</l>
+
+      <stg>
+        <st Contlex="ConjTag">гӹньӹ</st>
+      </stg>
+
+      <stress>гӹньӹ</stress>
+    </lg>
+
+    <pos>CONJ</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="Conj">jos; mikäli; ellei; jollei</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="CONJ">гӹнят</l>
-         <stg>
-            <st Contlex="ConjTag">гӹнят</st>
-         </stg>
-         <stress>гӹня•т</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="CONJ">гӹнят</l>
+
+      <stg>
+        <st Contlex="ConjTag">гӹнят</st>
+      </stg>
+
+      <stress>гӹня•т</stress>
+    </lg>
+
+    <pos>CONJ</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="Conj">vaikka; vaikkakin; vaikkei; silti</t>
+      </tg>
+
+      <xg>
+        <x>кӱ-гӹнят</x>
+
+        <xt>kuka tahansa</xt>
+
+        <xt>joku</xt>
+      </xg>
+
+      <xg>
+        <x>ма-гӹнят</x>
+
+        <xt>jotakin</xt>
+      </xg>
+
+      <xg>
+        <x>кынам-гӹнят</x>
+
+        <xt>ennemin tai myöhemmin</xt>
+
+        <xt>joskus</xt>
+      </xg>
+
+      <xg>
+        <x>кыце-гӹнят</x>
+
+        <xt>jotenkin</xt>
+
+        <xt>jollakin tavalla</xt>
+      </xg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="CONJ">дон</l>
-         <stg>
-            <st Contlex="Cc">дон</st>
-         </stg>
-         <stress>дон</stress>
-      </lg>
-      <pos>CC</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t>ja</t>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="CONJ">дон</l>
+
+      <stg>
+        <st Contlex="Cc">дон</st>
+      </stg>
+
+      <stress>дон</stress>
+    </lg>
+
+    <pos>CC</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="CC">ja</t>
+
+        <t pos="CC">sekä</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="CONJ">дык</l>
-         <stg>
-            <st Contlex="ConjTag">дык</st>
-         </stg>
-         <stress>дык</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="CONJ">дык</l>
+
+      <stg>
+        <st Contlex="ConjTag">дык</st>
+      </stg>
+
+      <stress>дык</stress>
+    </lg>
+
+    <pos>CONJ</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>jos</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="CONJ">дӓ</l>
-         <stg>
-            <st Contlex="Cc">дӓ</st>
-         </stg>
-         <stress>дӓ</stress>
-      </lg>
-      <pos>CC</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="CONJ">дӓ</l>
+
+      <stg>
+        <st Contlex="Cc">дӓ</st>
+      </stg>
+
+      <stress>дӓ</stress>
+    </lg>
+
+    <pos>CC</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="CC">ja</t>
+
+        <t pos="CC">sekä</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="CONJ">зато</l>
-         <stg>
-            <st Contlex="ConjTag">зато</st>
-         </stg>
-         <stress>зато•</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="CONJ">зато</l>
+
+      <stg>
+        <st Contlex="ConjTag">зато</st>
+      </stg>
+
+      <stress>зато•</stress>
+    </lg>
+
+    <pos>CONJ</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>противительный союз</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="Conj">sen sijaan</t>
+
+        <t pos="Conj">sitä vastoin</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="CONJ">ито</l>
-         <stg>
-            <st Contlex="ConjTag">ито</st>
-         </stg>
-         <stress>ито•</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">ито</l>
+
+      <stg>
+        <st Contlex="PCLE_">ито</st>
+      </stg>
+
+      <stress>ито•</stress>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>усилительная частица</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">jopa</t>
+
+        <t pos="Pcle">edes</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="CONJ">керек</l>
-         <stg>
-            <st Contlex="ConjTag">керек</st>
-         </stg>
-         <stress>кере•к</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="CONJ">керек</l>
+
+      <stg>
+        <st Contlex="ConjTag">керек</st>
+      </stg>
+
+      <stress>кере•к</stress>
+    </lg>
+
+    <pos>CONJ</pos>
+
+    <mg>
+      <m>
+        <head>
+          <!--Voi olla konjuktio (vaikka; joskin; vaikkakaan ei; joskaan ei); PARTIKKELI (vaikka; edes); PRONOMINI (indefiniittipronomini: kuka tahansa; mikä tahansa); ? (miten paljon tahansa; vaikka kuinka paljon jne.)-->
+        </head>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>vaikka; joskin</t>
+
+        <tf>jos kohta; vaikkakaan ei; joskaan ei</tf>
+      </tg>
+
+      <xg>
+        <x>керек ик шаям ыдырал</x>
+
+        <xt>kirjoita edes yksi sana</xt>
+      </xg>
+
+      <xg>
+        <x>керек-махань</x>
+
+        <xt>mikä tahansa</xt>
+      </xg>
+
+      <xg>
+        <x>керек-маняр</x>
+
+        <xt>vaikka kuinka paljon</xt>
+      </xg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="CONJ">льывы</l>
-         <stg>
-            <st Contlex="ConjTag">льывы</st>
-         </stg>
-         <stress>льы•вы</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="CONJ">льывы</l>
+
+      <stg>
+        <st Contlex="ConjTag">льывы</st>
+      </stg>
+
+      <stress>льы•вы</stress>
+    </lg>
+
+    <pos>CONJ</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>синоним: тӓ ... тӓ ... (тӓ тидӹ тӓ тӹдӹ)</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <tf>joko ... tai ...</tf>
+
+        <t>tai</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="CONJ">манын</l>
-         <stg>
-            <st Contlex="ConjTag">манын</st>
-         </stg>
-         <stress>ма•нын</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="CONJ">манын</l>
+
+      <stg>
+        <st Contlex="ConjTag">манын</st>
+      </stg>
+
+      <stress>ма•нын</stress>
+    </lg>
+
+    <pos>CONJ</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>että</t>
+
+        <t>jotta</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="CONJ">ни</l>
-         <stg>
-            <st Contlex="ConjTag">ни</st>
-         </stg>
-         <stress>ни</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="CONJ">ни</l>
+
+      <stg>
+        <st Contlex="ConjTag">ни</st>
+      </stg>
+
+      <stress>ни</stress>
+    </lg>
+
+    <pos>CONJ</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>ни ... ни ...</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <tf>ei ... eikä ...</tf>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="CONJ">но</l>
-         <stg>
-            <st Contlex="ConjTag">но</st>
-         </stg>
-         <stress>но</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="CONJ">но</l>
+
+      <stg>
+        <st Contlex="ConjTag">но</st>
+      </stg>
+
+      <stress>но</stress>
+    </lg>
+
+    <pos>CONJ</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>mutta</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="CONJ">потомушто</l>
-         <stg>
-            <st Contlex="ConjTag">потомушто</st>
-         </stg>
-         <stress>потому•што</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="CONJ">потомушто</l>
+
+      <stg>
+        <st Contlex="ConjTag">потомушто</st>
+      </stg>
+
+      <stress>потому•што</stress>
+    </lg>
+
+    <pos>CONJ</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="Conj">koska</t>
+
+        <tf pos="Conj">sen takia</tf>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="CONJ">седӹндон</l>
-         <stg>
-            <st Contlex="ConjTag">седӹндон</st>
-         </stg>
-         <stress>се•дӹндон</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="CONJ">седӹндон</l>
+
+      <stg>
+        <st Contlex="ConjTag">седӹндон</st>
+      </stg>
+
+      <stress>се•дӹндон</stress>
+    </lg>
+
+    <pos>CONJ</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="Conj">siksi</t>
+
+        <tf pos="Conj">sen takia</tf>
+
+        <tf pos="Conj">sen vuoksi</tf>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="CONJ">седӹндоно</l>
-         <stg>
-            <st Contlex="ConjTag">седӹндоно</st>
-         </stg>
-         <stress>се•дӹндоно</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="CONJ">седӹндоно</l>
+
+      <stg>
+        <st Contlex="ConjTag">седӹндоно</st>
+      </stg>
+
+      <stress>се•дӹндоно</stress>
+    </lg>
+
+    <pos>CONJ</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="Conj">siksi</t>
+
+        <tf pos="Conj">sen takia</tf>
+
+        <tf pos="Conj">sen vuoksi</tf>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="CONJ">только</l>
-         <stg>
-            <st Contlex="ConjTag">только</st>
-         </stg>
-         <stress>то•лько</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="CONJ">только</l>
+
+      <stg>
+        <st Contlex="ConjTag">только</st>
+      </stg>
+
+      <stress>то•лько</stress>
+    </lg>
+
+    <pos>CONJ</pos>
+
+    <mg>
+      <m>
+        <head>
+          <!--Временный союз (juuri kun; heti kun), а также противительный союз (mutta).
+(eli tämä voi olla temporaalinen?? alistuskonjunktio ja
+ korrelatiivinen rinnastuskonjunktio)-->
+        </head>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>mutta</t>
+
+        <tf>juuri kun</tf>
+
+        <tf>heti kun</tf>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="CONJ">тоты</l>
-         <stg>
-            <st Contlex="ConjTag">тоты</st>
-         </stg>
-         <stress>то•ты</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="CONJ">тоты</l>
+
+      <stg>
+        <st Contlex="ConjTag">тоты</st>
+      </stg>
+
+      <stress>то•ты</stress>
+    </lg>
+
+    <pos>CONJ</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>противительный союз</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>muuten</t>
+
+        <t>muutoin</t>
+
+        <tf>muussa tapauksessa</tf>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="CONJ">тӓ</l>
-         <stg>
-            <st Contlex="ConjTag">тӓ</st>
-         </stg>
-         <stress>тӓ</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="CONJ">тӓ</l>
+
+      <stg>
+        <st Contlex="ConjTag">тӓ</st>
+      </stg>
+
+      <stress>тӓ</stress>
+    </lg>
+
+    <pos>CONJ</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>синоним: льывы ... льывы ...</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <tf>joko ... tai ...</tf>
+      </tg>
+
+      <xg>
+        <x>тӓ тидӹ тӓ тӹдӹ</x>
+
+        <xt>joko tämä tai toinen</xt>
+      </xg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="CONJ">тӹндон</l>
-         <stg>
-            <st Contlex="ConjTag">тӹндон</st>
-         </stg>
-         <stress>тӹ•ндон</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="CONJ">тӹндон</l>
+
+      <stg>
+        <st Contlex="ConjTag">тӹндон</st>
+      </stg>
+
+      <stress>тӹ•ндон</stress>
+    </lg>
+
+    <pos>CONJ</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="Conj">siksi</t>
+
+        <tf pos="Conj">sen takia</tf>
+
+        <tf pos="Conj">sen vuoksi</tf>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="CONJ">хоть</l>
-         <stg>
-            <st Contlex="Cs">хоть</st>
-         </stg>
-         <stress>хоть</stress>
-      </lg>
-      <pos>CS</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="CONJ">хоть</l>
+
+      <stg>
+        <st Contlex="ConjTag">хоть</st>
+      </stg>
+
+      <stress>хоть</stress>
+    </lg>
+
+    <pos>CONJ</pos>
+
+    <mg>
+      <m>
+        <head>
+          <!--Voi olla KONJUNKTIO (vaikka; esim. Vaikka mene heti, en sano mitään:Хоть кӹзӹток ке, нимат ам ман); PARTIKKELI (vaikka; edes esim. ); PRONOMINI (indefiniittipronomini: kuka tahansa; mikä tahansa); ? (miten paljon tahansa; vaikka kuinka paljon jne.)-->
+        </head>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>vaikka</t>
+
+        <tf>vaikkakaan ei</tf>
+      </tg>
+
+      <xg>
+        <x>хоть ик шаям ыдырал</x>
+
+        <xt>kirjoita edes yksi sana</xt>
+      </xg>
+
+      <xg>
+        <x>хоть-махань</x>
+
+        <xt>mikä tahansa</xt>
+      </xg>
+
+      <xg>
+        <x>хоть-маняр</x>
+
+        <xt>vaikka kuinka paljon</xt>
+      </xg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="CONJ">ылгецӹ</l>
-         <stg>
-            <st Contlex="ConjTag">ылгецӹ</st>
-         </stg>
-         <stress>ылге•цӹ</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="CONJ">хоть</l>
+
+      <stg>
+        <st Contlex="Cs">хоть</st>
+      </stg>
+
+      <stress>хоть</stress>
+    </lg>
+
+    <pos>CS</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="CONJ">ӓли</l>
-         <stg>
-            <st Contlex="ConjTag">ӓли</st>
-         </stg>
-         <stress>ӓ•ли</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="CONJ">ылгецӹ</l>
+
+      <stg>
+        <st Contlex="ConjTag">ылгецӹ</st>
+      </stg>
+
+      <stress>ылге•цӹ</stress>
+    </lg>
+
+    <pos>CONJ</pos>
+
+    <mg>
+      <m>
+        <head>
+          <!--Partikkeli (jospa) - выражение сильного желания
+ja konjunktio (jos; vaikka; jollei) - уступительные союзы-->
+        </head>
+
+        <defNative>шукыжы годым уступительный союз семӹнь</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>jospa</t>
+
+        <t>jos</t>
+
+        <t>vaikka</t>
+
+        <t>jollei</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="CONJ">ӓль</l>
-         <stg>
-            <st Contlex="ConjTag">ӓль</st>
-         </stg>
-         <stress>ӓль</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="CONJ">ӓли</l>
+
+      <stg>
+        <st Contlex="ConjTag">ӓли</st>
+      </stg>
+
+      <stress>ӓ•ли</stress>
+    </lg>
+
+    <pos>CONJ</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>tai</t>
+
+        <t>taikka</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="CONJ">﻿а</l>
-         <stg>
-            <st Contlex="ConjTag">﻿а</st>
-         </stg>
-         <stress>﻿а</stress>
-      </lg>
-      <pos>CONJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="CONJ">ӓль</l>
+
+      <stg>
+        <st Contlex="ConjTag">ӓль</st>
+      </stg>
+
+      <stress>ӓль</stress>
+    </lg>
+
+    <pos>CONJ</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>синоним: ӓли</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>tai</t>
+
+        <t>taikka</t>
+
+        <t>eli</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CONJ">﻿а</l>
+
+      <stg>
+        <st Contlex="ConjTag">﻿а</st>
+      </stg>
+
+      <stress>﻿а</stress>
+    </lg>
+
+    <pos>CONJ</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>противительный союз</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>mutta</t>
+      </tg>
+    </mg>
+  </e>
 </r>
