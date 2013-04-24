@@ -77,7 +77,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <tf>yliopistoon pyrkivä nuori</tf>
+        <tf pos="N">yliopistoon pyrkivä nuori</tf>
       </tg>
     </mg>
   </e>
@@ -64567,7 +64567,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kiivi</t>
       </tg>
     </mg>
   </e>
@@ -64593,7 +64593,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">käsi; käsiala; valtakunta; maa; suunta; puoli; taho;
+        valta</t>
       </tg>
     </mg>
   </e>
@@ -64619,8 +64620,18 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">raajat</t>
+
+        <tf pos="N">kädet ja jalat</tf>
+
+        <t pos="N">asiat; mielentila</t>
       </tg>
+
+      <xg>
+        <x>кид-ял куза</x>
+
+        <xt>mieliala nousee</xt>
+      </xg>
     </mg>
   </e>
 
@@ -64645,7 +64656,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kahva; vetokahva; kädensija; varsi</t>
       </tg>
     </mg>
   </e>
@@ -64671,7 +64682,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <td pos="N">morsiamen lahjat sulhasen lähisukulaisille</td>
       </tg>
     </mg>
   </e>
@@ -64691,13 +64702,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--Саваткова: мера длины; равная ширине ладони-->
+        </head>
 
         <defNative/>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <td pos="N">pituusmitta, joka vastaa kämmenen leveyttä</td>
       </tg>
     </mg>
   </e>
@@ -64723,7 +64736,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">rannerengas</t>
       </tg>
     </mg>
   </e>
@@ -64749,7 +64762,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kämmensyrjä</t>
       </tg>
     </mg>
   </e>
@@ -64775,7 +64788,35 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tuntoaisti</t>
+
+        <tf pos="N">käden tuntoaisti</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">кидшӓр</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">кидшӓр</st>
+      </stg>
+
+      <stress>ки•дшӓр</stress>
+    </lg>
+
+    <pos>N</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N">pulssi; syke; sykintä</t>
       </tg>
     </mg>
   </e>
@@ -64801,7 +64842,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">paleltaminen</t>
       </tg>
     </mg>
   </e>
@@ -64821,13 +64862,17 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <register register="motherese"/>
+        </head>
 
         <defNative/>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">käsi</t>
+
+        <t pos="N" register="motherese">känny</t>
       </tg>
     </mg>
   </e>
@@ -64853,7 +64898,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">?!х</t>
       </tg>
     </mg>
   </e>
@@ -64879,7 +64924,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">makuuttaminen</t>
       </tg>
     </mg>
   </e>
@@ -64899,13 +64944,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--Ермаков 1991: кекенвож - чемерица-->
+        </head>
 
-        <defNative/>
+        <defNative>синоним: кикӓнваж</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pärskäjuuri</t>
       </tg>
     </mg>
   </e>
@@ -64927,11 +64974,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>синоним: грыжа</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tyrä</t>
       </tg>
     </mg>
   </e>
@@ -64957,7 +65004,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kilo</t>
       </tg>
     </mg>
   </e>
@@ -64983,7 +65030,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kilowatti</t>
       </tg>
     </mg>
   </e>
@@ -65009,7 +65056,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kilo</t>
       </tg>
     </mg>
   </e>
@@ -65035,7 +65082,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kilometri</t>
       </tg>
     </mg>
   </e>
@@ -65061,7 +65108,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">makaamattomuus</t>
       </tg>
     </mg>
   </e>
@@ -65087,7 +65134,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">makaaminen; lojuminen</t>
       </tg>
     </mg>
   </e>
@@ -65107,13 +65154,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <!--РФС: морск.-->
+        </head>
 
         <defNative/>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">köli</t>
       </tg>
     </mg>
   </e>
@@ -65139,7 +65188,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kilohaili; anjovikset</t>
       </tg>
     </mg>
   </e>
@@ -65165,7 +65214,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">makaaminen</t>
       </tg>
     </mg>
   </e>
@@ -65191,7 +65240,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vilja; leipä</t>
       </tg>
     </mg>
   </e>
@@ -65217,7 +65266,11 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ruoka</t>
+
+        <t pos="N">vieraanvaraisuus</t>
+
+        <tf pos="N">leipä ja särvin</tf>
       </tg>
     </mg>
   </e>
@@ -209408,13 +209461,15 @@
 
     <mg>
       <m>
-        <head/>
+        <head>
+          <register register="motherese"/>
+        </head>
 
         <defNative/>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">jalka</t>
       </tg>
     </mg>
   </e>
