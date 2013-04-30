@@ -1,1527 +1,2253 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-  <e>
-      <lg>
-         <l pos="POSTP">ваштареш</l>
-         <stg>
-            <st Contlex="PostpTag">ваштареш</st>
-         </stg>
-         <stress>вашта•реш</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">век</l>
-         <stg>
-            <st Contlex="PostpTag">век</st>
-         </stg>
-         <stress>век</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">велдӹк</l>
-         <stg>
-            <st Contlex="PostpTag">велдӹк</st>
-         </stg>
-         <stress>ве•лдӹк</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">велӓ</l>
-         <stg>
-            <st Contlex="PostpTag">велӓ</st>
-         </stg>
-         <stress>ве•лӓ</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">велӓн</l>
-         <stg>
-            <st Contlex="PostpTag">велӓн</st>
-         </stg>
-         <stress>ве•лӓн</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">верц</l>
-         <stg>
-            <st Contlex="PostpTag">верц</st>
-         </stg>
-         <stress>верц</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">верцӹн</l>
-         <stg>
-            <st Contlex="PostpTag">верцӹн</st>
-         </stg>
-         <stress>верцӹн</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">вец</l>
-         <stg>
-            <st Contlex="PostpTag">вец</st>
-         </stg>
-         <stress>вец</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">вецӹн</l>
-         <stg>
-            <st Contlex="PostpTag">вецӹн</st>
-         </stg>
-         <stress>вецӹн</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">воктен</l>
-         <stg>
-            <st Contlex="PostpTag">воктен</st>
-         </stg>
-         <stress>во•ктен</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">вуя</l>
-         <stg>
-            <st Contlex="PostpTag">вуя</st>
-         </stg>
-         <stress>ву•я</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">вӓреш</l>
-         <stg>
-            <st Contlex="PostpTag">вӓреш</st>
-         </stg>
-         <stress>вӓ•реш</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">вӹкӹ</l>
-         <stg>
-            <st Contlex="PostpTag">вӹкӹ</st>
-         </stg>
-         <stress>вӹ•кӹ</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">вӹкӹлӓ</l>
-         <stg>
-            <st Contlex="PostpTag">вӹкӹлӓ</st>
-         </stg>
-         <stress>вӹ•кӹлӓ</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">вӹлец</l>
-         <stg>
-            <st Contlex="PostpTag">вӹлец</st>
-         </stg>
-         <stress>вӹле•ц</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">вӹлкӹ</l>
-         <stg>
-            <st Contlex="PostpTag">вӹлкӹ</st>
-         </stg>
-         <stress>вӹ•лкӹ</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">вӹлнӹ</l>
-         <stg>
-            <st Contlex="PostpTag">вӹлнӹ</st>
-         </stg>
-         <stress>вӹ•лнӹ</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">вӹлӓн</l>
-         <stg>
-            <st Contlex="PostpTag">вӹлӓн</st>
-         </stg>
-         <stress>вӹ•лӓн</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">гань</l>
-         <stg>
-            <st Contlex="PostpTag">гань</st>
-         </stg>
-         <stress>гань</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">ганьок</l>
-         <stg>
-            <st Contlex="PostpTag">ганьок</st>
-         </stg>
-         <stress>га•ньок</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">ганьы</l>
-         <stg>
-            <st Contlex="PostpTag">ганьы</st>
-         </stg>
-         <stress>ганьы</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">гач</l>
-         <stg>
-            <st Contlex="PostpTag">гач</st>
-         </stg>
-         <stress>гач</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">гишӓн</l>
-         <stg>
-            <st Contlex="PostpTag">гишӓн</st>
-         </stg>
-         <stress>ги•шӓн</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">годшен</l>
-         <stg>
-            <st Contlex="PostpTag">годшен</st>
-         </stg>
-         <stress>го•дшен</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">годым</l>
-         <stg>
-            <st Contlex="PostpTag">годым</st>
-         </stg>
-         <stress>го•дым</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">гӹц</l>
-         <stg>
-            <st Contlex="PostpTag">гӹц</st>
-         </stg>
-         <stress>гӹц</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">гӹцӹн</l>
-         <stg>
-            <st Contlex="PostpTag">гӹцӹн</st>
-         </stg>
-         <stress>гӹцӹн</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">докы</l>
-         <stg>
-            <st Contlex="PostpTag">докы</st>
-         </stg>
-         <stress>до•кы</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t>luo</t>
-            <t>luokse</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">доно</l>
-         <stg>
-            <st Contlex="PostpTag">доно</st>
-            <st Contlex="PostpTag">дон</st>
-         </stg>
-         <stress>до•но</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t>kanssa</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">доны</l>
-         <stg>
-            <st Contlex="PostpTag">доны</st>
-         </stg>
-         <stress>до•ны</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t>luona</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">доран</l>
-         <stg>
-            <st Contlex="PostpTag">доран</st>
-         </stg>
-         <stress>до•ран</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">дорц</l>
-         <stg>
-            <st Contlex="PostpTag">дорц</st>
-         </stg>
-         <stress>до•рц</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">дорцын</l>
-         <stg>
-            <st Contlex="PostpTag">дорцын</st>
-         </stg>
-         <stress>до•рцын</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">дӓнгӹнь</l>
-         <stg>
-            <st Contlex="PostpTag">дӓнгӹнь</st>
-         </stg>
-         <stress>дӓ•нгӹнь</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">йӹде</l>
-         <stg>
-            <st Contlex="PostpTag">йӹде</st>
-         </stg>
-         <stress>йӹ•де</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">йӹр</l>
-         <stg>
-            <st Contlex="PostpTag">йӹр</st>
-         </stg>
-         <stress>йӹр</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">кытлашты</l>
-         <stg>
-            <st Contlex="PostpTag">кытлашты</st>
-         </stg>
-         <stress>кытла•шты</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">лишнӹ</l>
-         <stg>
-            <st Contlex="PostpTag">лишнӹ</st>
-         </stg>
-         <stress>ли•шнӹ</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">логӹц</l>
-         <stg>
-            <st Contlex="PostpTag">логӹц</st>
-         </stg>
-         <stress>ло•гӹц</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">лошкы</l>
-         <stg>
-            <st Contlex="PostpTag">лошкы</st>
-         </stg>
-         <stress>ло•шкы</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">лошты</l>
-         <stg>
-            <st Contlex="PostpTag">лошты</st>
-         </stg>
-         <stress>ло•шты</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">лоэш</l>
-         <stg>
-            <st Contlex="PostpTag">лоэш</st>
-         </stg>
-         <stress>лоэ•ш</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">лӹвец</l>
-         <stg>
-            <st Contlex="PostpTag">лӹвец</st>
-         </stg>
-         <stress>лӹве•ц</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">лӹвецӹн</l>
-         <stg>
-            <st Contlex="PostpTag">лӹвецӹн</st>
-         </stg>
-         <stress>лӹве•цӹн</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">лӹвӓк</l>
-         <stg>
-            <st Contlex="PostpTag">лӹвӓк</st>
-         </stg>
-         <stress>лӹвӓ•к</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">лӹвӓкӹ</l>
-         <stg>
-            <st Contlex="PostpTag">лӹвӓкӹ</st>
-         </stg>
-         <stress>лӹвӓ•кӹ</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">лӹвӓлнӹ</l>
-         <stg>
-            <st Contlex="PostpTag">лӹвӓлнӹ</st>
-         </stg>
-         <stress>лӹвӓ•лнӹ</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">лӹвӓлӓн</l>
-         <stg>
-            <st Contlex="PostpTag">лӹвӓлӓн</st>
-         </stg>
-         <stress>лӹвӓ•лӓн</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">лӹвӓц</l>
-         <stg>
-            <st Contlex="PostpTag">лӹвӓц</st>
-         </stg>
-         <stress>лӹвӓ•ц</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">лӹвӓцӹн</l>
-         <stg>
-            <st Contlex="PostpTag">лӹвӓцӹн</st>
-         </stg>
-         <stress>лӹвӓ•цӹн</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">лӹмеш</l>
-         <stg>
-            <st Contlex="PostpTag">лӹмеш</st>
-         </stg>
-         <stress>лӹ•меш</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">мыч</l>
-         <stg>
-            <st Contlex="PostpTag">мыч</st>
-         </stg>
-         <stress>мы•ч</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">мычец</l>
-         <stg>
-            <st Contlex="PostpTag">мычец</st>
-         </stg>
-         <stress>мыче•ц</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">мычкы</l>
-         <stg>
-            <st Contlex="PostpTag">мычкы</st>
-         </stg>
-         <stress>мы•чкы</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">мычны</l>
-         <stg>
-            <st Contlex="PostpTag">мычны</st>
-         </stg>
-         <stress>мы•чны</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">мычыц</l>
-         <stg>
-            <st Contlex="PostpTag">мычыц</st>
-         </stg>
-         <stress>мы•чыц</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">мӱнкӧ</l>
-         <stg>
-            <st Contlex="PostpTag">мӱнкӧ</st>
-         </stg>
-         <stress>мӱнкӧ</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">нӓрӹ</l>
-         <stg>
-            <st Contlex="PostpTag">нӓрӹ</st>
-         </stg>
-         <stress>нӓ•рӹ</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">паштек</l>
-         <stg>
-            <st Contlex="PostpTag">паштек</st>
-         </stg>
-         <stress>па•штек</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">пелен</l>
-         <stg>
-            <st Contlex="PostpTag">пелен</st>
-         </stg>
-         <stress>пе•лен</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">сага</l>
-         <stg>
-            <st Contlex="PostpTag">сага</st>
-         </stg>
-         <stress>са•га</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">семӹнь</l>
-         <stg>
-            <st Contlex="PostpTag">семӹнь</st>
-         </stg>
-         <stress>се•мӹнь</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">сылны</l>
-         <stg>
-            <st Contlex="PostpTag">сылны</st>
-         </stg>
-         <stress>сы•лны</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">темӹнь</l>
-         <stg>
-            <st Contlex="PostpTag">темӹнь</st>
-         </stg>
-         <stress>те•мӹнь</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">тервен</l>
-         <stg>
-            <st Contlex="PostpTag">тервен</st>
-         </stg>
-         <stress>те•рвен</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">туре</l>
-         <stg>
-            <st Contlex="PostpTag">туре</st>
-         </stg>
-         <stress>ту•ре</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">турешкӹ</l>
-         <stg>
-            <st Contlex="PostpTag">турешкӹ</st>
-         </stg>
-         <stress>туре•шкӹ</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">турешты</l>
-         <stg>
-            <st Contlex="PostpTag">турешты</st>
-         </stg>
-         <stress>турешты</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">утла</l>
-         <stg>
-            <st Contlex="PostpTag">утла</st>
-         </stg>
-         <stress>утла•</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">шагышеш</l>
-         <stg>
-            <st Contlex="PostpTag">шагышеш</st>
-         </stg>
-         <stress>шагы•шеш</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">шайык</l>
-         <stg>
-            <st Contlex="PostpTag">шайык</st>
-         </stg>
-         <stress>ша•йык</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">шайыкы</l>
-         <stg>
-            <st Contlex="PostpTag">шайыкы</st>
-         </stg>
-         <stress>ша•йыкы</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">шайылан</l>
-         <stg>
-            <st Contlex="PostpTag">шайылан</st>
-         </stg>
-         <stress>ша•йылан</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">шайыц</l>
-         <stg>
-            <st Contlex="PostpTag">шайыц</st>
-         </stg>
-         <stress>ша•йыц</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">шайыцын</l>
-         <stg>
-            <st Contlex="PostpTag">шайыцын</st>
-         </stg>
-         <stress>ша•йыцын</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">шакшеш</l>
-         <stg>
-            <st Contlex="PostpTag">шакшеш</st>
-         </stg>
-         <stress>ша•кшеш</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">шот</l>
-         <stg>
-            <st Contlex="PostpTag">шот</st>
-         </stg>
-         <stress>шот</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">шотеш</l>
-         <stg>
-            <st Contlex="PostpTag">шотеш</st>
-         </stg>
-         <stress>шотеш</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">шотышты</l>
-         <stg>
-            <st Contlex="PostpTag">шотышты</st>
-         </stg>
-         <stress>шо•тышты</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="POSTP">якте</l>
-         <stg>
-            <st Contlex="PostpTag">якте</st>
-         </stg>
-         <stress>я•кте</stress>
-      </lg>
-      <pos>POSTP</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e>
+    <lg>
+      <l pos="POSTP">ваштареш</l>
+
+      <stg>
+        <st Contlex="PostpTag">ваштареш</st>
+      </stg>
+
+      <stress>вашта•реш</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>vastaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">век</l>
+
+      <stg>
+        <st Contlex="PostpTag">век</st>
+      </stg>
+
+      <stress>век</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>suuntaan; puoleen; päin; kohti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">велдӹк</l>
+
+      <stg>
+        <st Contlex="PostpTag">велдӹк</st>
+      </stg>
+
+      <stress>ве•лдӹк</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>takia</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">велнӹ</l>
+
+      <stg>
+        <st Contlex="PostpTag">велнӹ</st>
+      </stg>
+
+      <stress>ве•лнӹ</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>puolellа; suunnallа; tahollа</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">велӓ</l>
+
+      <stg>
+        <st Contlex="PostpTag">велӓ</st>
+      </stg>
+
+      <stress>ве•лӓ</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>vain</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">велӓн</l>
+
+      <stg>
+        <st Contlex="PostpTag">велӓн</st>
+      </stg>
+
+      <stress>ве•лӓн</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>puolelle; suunnalle; taholle</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">верц</l>
+
+      <stg>
+        <st Contlex="PostpTag">верц</st>
+      </stg>
+
+      <stress>верц</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head>
+          <!--МаФМ: päämäärän ilmaisu (puolesta; tähden; takia; vuoksi); syyn ilmaisu (takia; vuoksi); jnk sijasta; jnk puolesta.  -->
+        </head>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>puolesta; tähden; takia; vuoksi</t>
+
+        <tf>jnk sijasta; jnk puolesta</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">верцӹн</l>
+
+      <stg>
+        <st Contlex="PostpTag">верцӹн</st>
+      </stg>
+
+      <stress>верцӹн</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>синоним: верц</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>puolesta; tähden; takia; vuoksi</t>
+
+        <tf>jnk sijasta; jnk puolesta</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">вец</l>
+
+      <stg>
+        <st Contlex="PostpTag">вец</st>
+      </stg>
+
+      <stress>вец</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>puoleltа; suunnaltа</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">вецӹн</l>
+
+      <stg>
+        <st Contlex="PostpTag">вецӹн</st>
+      </stg>
+
+      <stress>вецӹн</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>синоним: вец</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>puoleltа; suunnaltа</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">воктен</l>
+
+      <stg>
+        <st Contlex="PostpTag">воктен</st>
+      </stg>
+
+      <stress>во•ктен</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>luona; vieressä; ääressä; lähellä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">вуя</l>
+
+      <stg>
+        <st Contlex="PostpTag">вуя</st>
+      </stg>
+
+      <stress>ву•я</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>ollessa; päin</t>
+      </tg>
+
+      <xg>
+        <x>вес вуя</x>
+
+        <xt>toisin päin</xt>
+      </xg>
+
+      <xg>
+        <x>ӹшке вуя</x>
+
+        <xt>itsenäisesti</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">вӓреш</l>
+
+      <stg>
+        <st Contlex="PostpTag">вӓреш</st>
+      </stg>
+
+      <stress>вӓ•реш</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>asemesta; sijaan; sijasta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">вӹкӹ</l>
+
+      <stg>
+        <st Contlex="PostpTag">вӹкӹ</st>
+      </stg>
+
+      <stress>вӹ•кӹ</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>päälle; ylle</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">вӹкӹлӓ</l>
+
+      <stg>
+        <st Contlex="PostpTag">вӹкӹлӓ</st>
+      </stg>
+
+      <stress>вӹ•кӹлӓ</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>рашемдӹмӹлӓ</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <tf>suuntaan</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">вӹлец</l>
+
+      <stg>
+        <st Contlex="PostpTag">вӹлец</st>
+      </stg>
+
+      <stress>вӹле•ц</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head>
+          <!--Саваткова: Послелог передается с предлогом "с" (стӧл вӹлец -  со стола); несмотря на то; что (улы вӹлец; попымы вӹлец)-->
+        </head>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>päältä; yltä; vaikka</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">вӹлкӹ</l>
+
+      <stg>
+        <st Contlex="PostpTag">вӹлкӹ</st>
+      </stg>
+
+      <stress>вӹ•лкӹ</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>päälle; ylle</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">вӹлнӹ</l>
+
+      <stg>
+        <st Contlex="PostpTag">вӹлнӹ</st>
+      </stg>
+
+      <stress>вӹ•лнӹ</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>päällä; yllä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">вӹлӓн</l>
+
+      <stg>
+        <st Contlex="PostpTag">вӹлӓн</st>
+      </stg>
+
+      <stress>вӹ•лӓн</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>päälle; ylle</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">гань</l>
+
+      <stg>
+        <st Contlex="PostpTag">гань</st>
+      </stg>
+
+      <stress>гань</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>синоним: ганьы</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>kuten; lailla; tapaan; tapainen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">ганьок</l>
+
+      <stg>
+        <st Contlex="PostpTag">ганьок</st>
+      </stg>
+
+      <stress>га•ньок</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>lailla; tapaan; kuten</t>
+
+        <tf>oli vähällä</tf>
+
+        <tf>oli melkein</tf>
+      </tg>
+
+      <xg>
+        <x>кенвазеш ганьок</x>
+
+        <xt>oli vähällä pudota</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">ганьы</l>
+
+      <stg>
+        <st Contlex="PostpTag">ганьы</st>
+      </stg>
+
+      <stress>ганьы</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>синоним: гань</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>lailla; tapaan; kuten</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">гач</l>
+
+      <stg>
+        <st Contlex="PostpTag">гач</st>
+      </stg>
+
+      <stress>гач</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>yli; ylitse; poikki</t>
+
+        <tf>jnk läpi</tf>
+
+        <tf>jnk avulla; jnk kautta; jnk välityksellä</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">гишӓн</l>
+
+      <stg>
+        <st Contlex="PostpTag">гишӓн</st>
+      </stg>
+
+      <stress>ги•шӓн</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>takia; vuoksi</t>
+
+        <td>ilmaistaan Elatiivilla: esim. puhua hänestä</td>
+      </tg>
+
+      <xg>
+        <x>пӓшӓ гишӓн попаш</x>
+
+        <xt>puhua työstä</xt>
+      </xg>
+
+      <xg>
+        <x>тӹнь гишӓнет кешнӓ</x>
+
+        <xt>menimme sinun takia</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">годшен</l>
+
+      <stg>
+        <st Contlex="PostpTag">годшен</st>
+      </stg>
+
+      <stress>го•дшен</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>alkaen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">годым</l>
+
+      <stg>
+        <st Contlex="PostpTag">годым</st>
+      </stg>
+
+      <stress>го•дым</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>aikana</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">гӹц</l>
+
+      <stg>
+        <st Contlex="PostpTag">гӹц</st>
+      </stg>
+
+      <stress>гӹц</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>-sta</t>
+
+        <td>ilmaistaan siirtymistä paikasta sm Elatiivilla: esim. poistui
+        tallista</td>
+
+        <td>kohteen ilmaisu sm Allatiivilla tai Illatiivilla: esim. pitää
+        kädestä kiinni</td>
+
+        <td>alkuperän ilmaisu sm Elatiivilla: esim. rukiista tehty leipä</td>
+
+        <td>keinon ilmaisu sm Elatiivilla: esim. tuntea äänestä</td>
+
+        <td>ajan ilmaisu Elat.plus lähtien tai alkaen: tästä viikosta
+        lähtien</td>
+
+        <td>verbirektio: pelkää heitä - нӹнӹ гӹц лӱдеш</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">гӹцӹн</l>
+
+      <stg>
+        <st Contlex="PostpTag">гӹцӹн</st>
+      </stg>
+
+      <stress>гӹцӹн</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>синоним: гӹц</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>-sta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">докы</l>
+
+      <stg>
+        <st Contlex="PostpTag">докы</st>
+      </stg>
+
+      <stress>до•кы</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>luo</t>
+
+        <t>luokse</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">доно</l>
+
+      <stg>
+        <st Contlex="PostpTag">доно</st>
+
+        <st Contlex="PostpTag">дон</st>
+      </stg>
+
+      <stress>до•но</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>kanssa</t>
+
+        <t>kera</t>
+
+        <td>kohteen ilmaisu: sm käytetään Adess.: тум ло доно - tammien
+        keskellä</td>
+
+        <td>keinon ilmaisu Adessiivillä: машинӓ доно - autolla</td>
+
+        <td>syyn ilmaisu: сусу пар доно мыраш - laulaa ilosta</td>
+
+        <td>määrän ilmaisu: тӹжемвлӓ доно - tuhansittain</td>
+
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">доны</l>
+
+      <stg>
+        <st Contlex="PostpTag">доны</st>
+      </stg>
+
+      <stress>до•ны</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>luona</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">доран</l>
+
+      <stg>
+        <st Contlex="PostpTag">доран</st>
+      </stg>
+
+      <stress>до•ран</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>luokse; viereen</t>
+
+        <t>luona; vieressä</t>
+
+        <td>paikan ilmaisu Allatiivilla: сравачым нӹнӹ доран кодыш - avaimet
+        jätti hetkeksi heille</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">дорц</l>
+
+      <stg>
+        <st Contlex="PostpTag">дорц</st>
+      </stg>
+
+      <stress>до•рц</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head>
+          <!--Lisättävä merkityksiä-->
+        </head>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>luota; vierestä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">дорцын</l>
+
+      <stg>
+        <st Contlex="PostpTag">дорцын</st>
+      </stg>
+
+      <stress>до•рцын</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>luota; vierestä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">дӓнгӹнь</l>
+
+      <stg>
+        <st Contlex="PostpTag">дӓнгӹнь</st>
+      </stg>
+
+      <stress>дӓ•нгӹнь</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">йӹде</l>
+
+      <stg>
+        <st Contlex="PostpTag">йӹде</st>
+      </stg>
+
+      <stress>йӹ•де</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head>
+          <!--mhr: еда - joka; jokainen; distributiivinen johdos.
+Саваткова: пӧртӓн йӹде кеӓш mennä koteihinsa; лыдышвлӓм корны йӹде ланзылаш selvittää runoa rivi riviltä-->
+        </head>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>joka</t>
+      </tg>
+
+      <xg>
+        <x>вады йӹде</x>
+
+        <xt>joka ilta</xt>
+
+        <xt>iltaisin</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">йӹр</l>
+
+      <stg>
+        <st Contlex="PostpTag">йӹр</st>
+      </stg>
+
+      <stress>йӹр</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>ympäri</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">кытлашты</l>
+
+      <stg>
+        <st Contlex="PostpTag">кытлашты</st>
+      </stg>
+
+      <stress>кытла•шты</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>kohdalla</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">лишнӹ</l>
+
+      <stg>
+        <st Contlex="PostpTag">лишнӹ</st>
+      </stg>
+
+      <stress>ли•шнӹ</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>lähellä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">логӹц</l>
+
+      <stg>
+        <st Contlex="PostpTag">логӹц</st>
+      </stg>
+
+      <stress>ло•гӹц</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>keskuudesta; seasta; joukosta</t>
+
+        <td>siirtymistä paikasta Elat: стӧл логӹц - pöydästä</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">лошкы</l>
+
+      <stg>
+        <st Contlex="PostpTag">лошкы</st>
+      </stg>
+
+      <stress>ло•шкы</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>keskelle; keskuuteen; sekaan; joukkoon</t>
+
+        <td>paikan ilmaisu Illat: стӧл лошкы - pöytään</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">лошты</l>
+
+      <stg>
+        <st Contlex="PostpTag">лошты</st>
+      </stg>
+
+      <stress>ло•шты</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head>
+          <!--Lisättävä esimerkkejä-->
+        </head>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>keskuudessa; seassa; joukossa; keskellä</t>
+
+        <td>paikan ilmaisu Inessiivillä: стӧл лошты - pöydässä</td>
+
+        <td>monikon possessiivisuff kanssa ilmaistaan esim. лоштына; лоштыда;
+        лоштышты - keskenämme; keskenänne; keskenään</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">лоэш</l>
+
+      <stg>
+        <st Contlex="PostpTag">лоэш</st>
+      </stg>
+
+      <stress>лоэ•ш</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>väliin</t>
+      </tg>
+
+      <xg>
+        <x>лоэш кодет</x>
+
+        <xt>jätät väliin</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">лӹвец</l>
+
+      <stg>
+        <st Contlex="PostpTag">лӹвец</st>
+      </stg>
+
+      <stress>лӹве•ц</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>alta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">лӹвецӹн</l>
+
+      <stg>
+        <st Contlex="PostpTag">лӹвецӹн</st>
+      </stg>
+
+      <stress>лӹве•цӹн</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>синоним: лӹвец</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>alta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">лӹвӓк</l>
+
+      <stg>
+        <st Contlex="PostpTag">лӹвӓк</st>
+      </stg>
+
+      <stress>лӹвӓ•к</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>синоним: лӹвӓкӹ</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>alle</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">лӹвӓкӹ</l>
+
+      <stg>
+        <st Contlex="PostpTag">лӹвӓкӹ</st>
+      </stg>
+
+      <stress>лӹвӓ•кӹ</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>alle</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">лӹвӓлнӹ</l>
+
+      <stg>
+        <st Contlex="PostpTag">лӹвӓлнӹ</st>
+      </stg>
+
+      <stress>лӹвӓ•лнӹ</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">лӹвӓлӓн</l>
+
+      <stg>
+        <st Contlex="PostpTag">лӹвӓлӓн</st>
+      </stg>
+
+      <stress>лӹвӓ•лӓн</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>alle</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">лӹвӓц</l>
+
+      <stg>
+        <st Contlex="PostpTag">лӹвӓц</st>
+      </stg>
+
+      <stress>лӹвӓ•ц</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>alta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">лӹвӓцӹн</l>
+
+      <stg>
+        <st Contlex="PostpTag">лӹвӓцӹн</st>
+      </stg>
+
+      <stress>лӹвӓ•цӹн</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>синоним: лӹвӓц</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>alta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">лӹмеш</l>
+
+      <stg>
+        <st Contlex="PostpTag">лӹмеш</st>
+      </stg>
+
+      <stress>лӹ•меш</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>nimeen; nimessä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">мыч</l>
+
+      <stg>
+        <st Contlex="PostpTag">мыч</st>
+      </stg>
+
+      <stress>мы•ч</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">мычец</l>
+
+      <stg>
+        <st Contlex="PostpTag">мычец</st>
+      </stg>
+
+      <stress>мыче•ц</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">мычкы</l>
+
+      <stg>
+        <st Contlex="PostpTag">мычкы</st>
+      </stg>
+
+      <stress>мы•чкы</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">мычны</l>
+
+      <stg>
+        <st Contlex="PostpTag">мычны</st>
+      </stg>
+
+      <stress>мы•чны</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">мычыц</l>
+
+      <stg>
+        <st Contlex="PostpTag">мычыц</st>
+      </stg>
+
+      <stress>мы•чыц</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">мӱнкӧ</l>
+
+      <stg>
+        <st Contlex="PostpTag">мӱнкӧ</st>
+      </stg>
+
+      <stress>мӱнкӧ</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">нӓрӹ</l>
+
+      <stg>
+        <st Contlex="PostpTag">нӓрӹ</st>
+      </stg>
+
+      <stress>нӓ•рӹ</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">паштек</l>
+
+      <stg>
+        <st Contlex="PostpTag">паштек</st>
+      </stg>
+
+      <stress>па•штек</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>perään</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">пелен</l>
+
+      <stg>
+        <st Contlex="PostpTag">пелен</st>
+      </stg>
+
+      <stress>пе•лен</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">сага</l>
+
+      <stg>
+        <st Contlex="PostpTag">сага</st>
+      </stg>
+
+      <stress>са•га</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">семӹнь</l>
+
+      <stg>
+        <st Contlex="PostpTag">семӹнь</st>
+      </stg>
+
+      <stress>се•мӹнь</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">сылны</l>
+
+      <stg>
+        <st Contlex="PostpTag">сылны</st>
+      </stg>
+
+      <stress>сы•лны</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">темӹнь</l>
+
+      <stg>
+        <st Contlex="PostpTag">темӹнь</st>
+      </stg>
+
+      <stress>те•мӹнь</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">тервен</l>
+
+      <stg>
+        <st Contlex="PostpTag">тервен</st>
+      </stg>
+
+      <stress>те•рвен</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">туре</l>
+
+      <stg>
+        <st Contlex="PostpTag">туре</st>
+      </stg>
+
+      <stress>ту•ре</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>kohdalla</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">турешкӹ</l>
+
+      <stg>
+        <st Contlex="PostpTag">турешкӹ</st>
+      </stg>
+
+      <stress>туре•шкӹ</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">турешты</l>
+
+      <stg>
+        <st Contlex="PostpTag">турешты</st>
+      </stg>
+
+      <stress>турешты</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">утла</l>
+
+      <stg>
+        <st Contlex="PostpTag">утла</st>
+      </stg>
+
+      <stress>утла•</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">шагышеш</l>
+
+      <stg>
+        <st Contlex="PostpTag">шагышеш</st>
+      </stg>
+
+      <stress>шагы•шеш</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">шайык</l>
+
+      <stg>
+        <st Contlex="PostpTag">шайык</st>
+      </stg>
+
+      <stress>ша•йык</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">шайыкы</l>
+
+      <stg>
+        <st Contlex="PostpTag">шайыкы</st>
+      </stg>
+
+      <stress>ша•йыкы</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">шайылан</l>
+
+      <stg>
+        <st Contlex="PostpTag">шайылан</st>
+      </stg>
+
+      <stress>ша•йылан</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">шайылны</l>
+
+      <stg>
+        <st Contlex="PostpTag">шайылны</st>
+      </stg>
+
+      <stress>ша•йылны</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>takana</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">шайыц</l>
+
+      <stg>
+        <st Contlex="PostpTag">шайыц</st>
+      </stg>
+
+      <stress>ша•йыц</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">шайыцын</l>
+
+      <stg>
+        <st Contlex="PostpTag">шайыцын</st>
+      </stg>
+
+      <stress>ша•йыцын</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">шакшеш</l>
+
+      <stg>
+        <st Contlex="PostpTag">шакшеш</st>
+      </stg>
+
+      <stress>ша•кшеш</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">шот</l>
+
+      <stg>
+        <st Contlex="PostpTag">шот</st>
+      </stg>
+
+      <stress>шот</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">шотеш</l>
+
+      <stg>
+        <st Contlex="PostpTag">шотеш</st>
+      </stg>
+
+      <stress>шотеш</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">шотышты</l>
+
+      <stg>
+        <st Contlex="PostpTag">шотышты</st>
+      </stg>
+
+      <stress>шо•тышты</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="POSTP">якте</l>
+
+      <stg>
+        <st Contlex="PostpTag">якте</st>
+      </stg>
+
+      <stress>я•кте</stress>
+    </lg>
+
+    <pos>POSTP</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
 </r>
