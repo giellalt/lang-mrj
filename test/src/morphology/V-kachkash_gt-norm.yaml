@@ -21,17 +21,102 @@ Tests:
      качкаш+V+Ind+Prs+Pl1: качкына
      качкаш+V+Ind+Prs+Pl2: качкыда
      качкаш+V+Ind+Prs+Pl3: качкыт
+     
+     качкаш+V+Ind+Prs+ConNeg: кач
+     качкаш+V+Ind+Prs+Pl3+ConNeg: качеп
+#  
      качкаш+V+Ind+Prt1+Sg1: качкым
      качкаш+V+Ind+Prt1+Sg2: качкыц
      качкаш+V+Ind+Prt1+Sg3: качкы
      качкаш+V+Ind+Prt1+Pl1: качна
      качкаш+V+Ind+Prt1+Pl2: качда
      качкаш+V+Ind+Prt1+Pl3: качкевӹ
+
+     качкаш+V+Ind+Prt1+ConNeg: кач
+     качкаш+V+Ind+Prt1+Pl3+ConNeg: качеп
+#          
      качкаш+V+Ind+Prt2+Sg1: качкынам
      качкаш+V+Ind+Prt2+Sg2: качкынат
      качкаш+V+Ind+Prt2+Sg3: качкын
      качкаш+V+Ind+Prt2+Pl1: качкынна
      качкаш+V+Ind+Prt2+Pl2: качкында
      качкаш+V+Ind+Prt2+Pl3: качкыныт
+     
+## 
+     качкаш+V+Ind+Prt2+Neg+Sg1: качделам
+     качкаш+V+Ind+Prt2+Neg+Sg3: качделат
+     качкаш+V+Ind+Prt2+Neg+Sg3: качде
+     качкаш+V+Ind+Prt2+Neg+Pl1: качделна
+     качкаш+V+Ind+Prt2+Neg+Pl3: качделда
+     качкаш+V+Ind+Prt2+Neg+Pl3: качделыт
+##   
+     качкаш+V+Imprt+Sg3: кач
+     качкаш+V+Imprt+Sg3: качшы
+     качкаш+V+Imprt+Pl3: качда
+     качкаш+V+Imprt+Pl3: качкышты
+##   
+     качкаш+V+Imprt1+Sg2: качкыма
+     качкаш+V+Imprt1+Pl2: качкымада
+##   
+     качкаш+V+Des+Sg1: качнем
+     качкаш+V+Des+Sg3: качнет
+     качкаш+V+Des+Sg3: качнежӹ
+     качкаш+V+Des+Pl1: качненӓ
+     качкаш+V+Des+Pl3: качнедӓ
+     качкаш+V+Des+Pl3: качнештӹ
 
 
+
+    Verb - шӹнзӓш: # Verb-аm 'seat down'
+     шӹнзӓш+V+Ind+Prs+Sg1: шӹнзӓм
+     шӹнзӓш+V+Ind+Prs+Sg2: шӹнзӓт
+     шӹнзӓш+V+Ind+Prs+Sg3: шӹнзеш
+     шӹнзӓш+V+Ind+Prs+Pl1: шӹнзӹнӓ
+     шӹнзӓш+V+Ind+Prs+Pl2: шӹнзӹдӓ
+     шӹнзӓш+V+Ind+Prs+Pl3: шӹнзӹт
+     
+     шӹнзӓш+V+Ind+Prs+ConNeg: шӹц
+     шӹнзӓш+V+Ind+Prs+Pl3+ConNeg: шӹцеп
+#
+     шӹнзӓш+V+Ind+Prt1+Sg1: шӹнзӹм
+     шӹнзӓш+V+Ind+Prt1+Sg2: шӹнзӹц
+     шӹнзӓш+V+Ind+Prt1+Sg3: шӹнзӹ
+     шӹнзӓш+V+Ind+Prt1+Pl1: шӹцнӓ
+     шӹнзӓш+V+Ind+Prt1+Pl2: шӹцдӓ
+     шӹнзӓш+V+Ind+Prt1+Pl3: шӹнзевӹ
+     
+     шӹнзӓш+V+Ind+Prt1+ConNeg: шӹц
+     шӹнзӓш+V+Ind+Prt1+Pl3+ConNeg: шӹцеп
+#       
+     шӹнзӓш+V+Ind+Prt2+Sg1: шӹнзӹнӓм
+     шӹнзӓш+V+Ind+Prt2+Sg2: шӹнзӹнӓт
+     шӹнзӓш+V+Ind+Prt2+Sg3: шӹнзӹн
+     шӹнзӓш+V+Ind+Prt2+Pl1: шӹнзӹннӓ
+     шӹнзӓш+V+Ind+Prt2+Pl2: шӹнзӹндӓ
+     шӹнзӓш+V+Ind+Prt2+Pl3: шӹнзӹнӹт
+##   
+     шӹнзӓш+V+Ind+Prt2+Neg+Sg1: шӹцделам
+     шӹнзӓш+V+Ind+Prt2+Neg+Sg3: шӹцделат
+     шӹнзӓш+V+Ind+Prt2+Neg+Sg3: шӹцде
+     шӹнзӓш+V+Ind+Prt2+Neg+Pl1: шӹцделна
+     шӹнзӓш+V+Ind+Prt2+Neg+Pl3: шӹцделда
+     шӹнзӓш+V+Ind+Prt2+Neg+Pl3: шӹцделыт
+##   
+     шӹнзӓш+V+Imprt+Sg3: шӹц
+     шӹнзӓш+V+Imprt+Sg3: шӹцшӹ
+     шӹнзӓш+V+Imprt+Pl3: шӹцдӓ
+     шӹнзӓш+V+Imprt+Pl3: шӹнзӹштӹ
+##   
+     шӹнзӓш+V+Imprt1+Sg2: шӹнзӹмӓ
+     шӹнзӓш+V+Imprt1+Pl2: шӹнзӹмӓдӓ
+##   
+     шӹнзӓш+V+Des+Sg1: шӹцнем
+     шӹнзӓш+V+Des+Sg3: шӹцнет
+     шӹнзӓш+V+Des+Sg3: шӹцнежӹ
+     шӹнзӓш+V+Des+Pl1: шӹцненӓ
+     шӹнзӓш+V+Des+Pl3: шӹцнедӓ
+     шӹнзӓш+V+Des+Pl3: шӹцнештӹ
+
+
+
+     
