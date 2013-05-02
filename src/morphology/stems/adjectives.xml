@@ -4733,7 +4733,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">aurinkoinen</t>
       </tg>
     </mg>
   </e>
@@ -11805,7 +11805,15 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">ohut</t>
+
+        <t pos="A">korkea</t>
+
+        <tCtn>
+          <t>korkea</t>
+
+          <re>ääni</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -20281,7 +20289,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">pieni</t>
+
+        <t pos="A">matala</t>
       </tg>
     </mg>
   </e>
@@ -20307,7 +20317,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">pärepihditön</t>
       </tg>
     </mg>
   </e>
@@ -20329,11 +20339,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>изикӓ гӹц</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">pärepihdillä</t>
       </tg>
     </mg>
   </e>
@@ -32973,7 +32983,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">terävä</t>
       </tg>
     </mg>
   </e>
@@ -44621,7 +44631,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">pitkä</t>
+
+        <t pos="A">terävä</t>
       </tg>
     </mg>
   </e>
@@ -49476,6 +49488,34 @@
 
   <e>
     <lg>
+      <l pos="A">кӓнгӹжшӹ</l>
+
+      <stg>
+        <st Contlex="A_">кӓнгӹжшӹ</st>
+      </stg>
+
+      <stress>кӓ•нгӹжшӹ</stress>
+    </lg>
+
+    <pos>A</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="A">kesäinen</t>
+
+        <tf pos="A">kesällä tapahtuva</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="A">кӓнгӹжӓш</l>
 
       <stg>
@@ -49495,7 +49535,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kesäinen</t>
       </tg>
     </mg>
   </e>
@@ -49521,7 +49561,11 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kesäinen</t>
+
+        <tf pos="A">kesän aikainen</tf>
+
+        <tf pos="A">kesällä tapahtuva</tf>
       </tg>
     </mg>
   </e>
@@ -51055,7 +51099,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">korkea</t>
       </tg>
     </mg>
   </e>
@@ -51575,7 +51619,15 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">paksu</t>
+
+        <t pos="A">matala</t>
+
+        <tCtn>
+          <t>matala</t>
+
+          <re>ääni</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -51601,7 +51653,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">paksuinen</t>
       </tg>
     </mg>
   </e>
@@ -51627,7 +51679,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">paksuinen</t>
+
+        <t pos="A">mittainen</t>
       </tg>
     </mg>
   </e>
@@ -55397,7 +55451,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">tuuhea</t>
+
+        <t pos="A">tuuheaoksainen</t>
       </tg>
     </mg>
   </e>
@@ -62703,7 +62759,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">karvainen</t>
       </tg>
     </mg>
   </e>
@@ -64857,11 +64913,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>синоним: кӹтӹк</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">lyhyt</t>
       </tg>
     </mg>
   </e>
@@ -74035,11 +74091,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>синоним: ошы</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">valkoinen</t>
       </tg>
     </mg>
   </e>
@@ -74638,6 +74694,32 @@
 
       <tg xml:lang="fin">
         <t pos="A"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ошы</l>
+
+      <stg>
+        <st Contlex="A_">ошы</st>
+      </stg>
+
+      <stress>о•шы</stress>
+    </lg>
+
+    <pos>A</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>синоним: ош</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="A">valkoinen</t>
       </tg>
     </mg>
   </e>
@@ -97191,7 +97273,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">keltainen</t>
       </tg>
     </mg>
   </e>
@@ -98543,7 +98625,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">sinertävä</t>
       </tg>
     </mg>
   </e>
@@ -98699,7 +98781,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">sininen</t>
+
+        <t pos="A">merensininen</t>
       </tg>
     </mg>
   </e>
@@ -100831,7 +100915,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kirkas</t>
+
+        <t pos="A">valoisa</t>
       </tg>
     </mg>
   </e>
@@ -102989,7 +103075,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">iloinen</t>
       </tg>
     </mg>
   </e>
@@ -107877,7 +107963,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">tällainen</t>
+
+        <t pos="A">sellainen</t>
       </tg>
     </mg>
   </e>
@@ -113467,7 +113555,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">suora</t>
       </tg>
     </mg>
   </e>
@@ -114559,7 +114647,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">uusi</t>
       </tg>
     </mg>
   </e>
@@ -114585,7 +114673,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">pajuinen</t>
       </tg>
     </mg>
   </e>
@@ -114611,7 +114699,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">pajuton</t>
       </tg>
     </mg>
   </e>
@@ -114637,7 +114725,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">toivekas</t>
       </tg>
     </mg>
   </e>
@@ -124863,7 +124951,15 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">hapan</t>
+
+        <t pos="A">pilaantunut</t>
+
+        <tCtn>
+          <t>pilaantunut</t>
+
+          <re>liha</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -126033,7 +126129,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">musta</t>
       </tg>
     </mg>
   </e>
@@ -134821,7 +134917,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">hyvä</t>
+
+        <t pos="A">kaunis</t>
       </tg>
     </mg>
   </e>
@@ -134847,7 +134945,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kaunistamaton</t>
+
+        <t pos="A">korjamaton</t>
       </tg>
     </mg>
   </e>
