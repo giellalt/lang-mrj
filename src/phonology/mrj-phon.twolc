@@ -56,7 +56,7 @@ Cons =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш
 Cst =  к п т ф х ц ч ш с 
        К П Т Ф Х Ц Ч Ш Ц ;
 
-Ltrs = Vow Cons  ъ ь Ъ Ь ;
+Ltrs = Vow Cons Й й  ъ ь Ъ Ь ;
 
 all =  Ltrs  %- ;
 
@@ -78,6 +78,7 @@ Rules
    ! JMR 2012-09-18
       
 
+
 ! JMR 2012-09-18
 "Onset vowel loss in suffix"
    Vx:0 <=> :Vow %>: _ ;
@@ -94,7 +95,7 @@ Rules
 ӹ:0 <=> #: Cons* Vow Cons+ _ %> Е2: ;
 
 "Onset vowel Ы1 realized in suffix"
-  Ы1:ы <=> LBC  Cons ( %>: ) _ ;
+  Ы1:ы <=> [ LBC  Cons ( %>: )| BackVow й: %> ] _ ;
 ![[ Cons | й ]+ %>: | %>: [ %>: | BackVow | е | ArchiVow: | Cons ]* [ Cons | й ] ( %>: ) ] _ ;
 
 !"Onset vowel Ы1 realized in suffix"
@@ -104,10 +105,18 @@ Rules
 ! А1:ӓ <=> LFC _ ;
 
 "Affix mid or final back А1:а"
- А1:а <=> LBC _ ;
+ А1:а <=> LBC (й %> Ы1: м ) _ ;
+          BackVow  й: %^ConsTransf:0 %>: [ н | д ] _ ;
+
+"Affix mid or final back А1:я"
+ А1:я <=> й: %> _ ;
+
+"Affix initial back а:я"
+ а:я <=> й: %> _ ;
 
 "suffix-final vowel backed "
  Ы2:ы <=> LBC Cons _ ;
+          LBC й %> [ ж | ш т ] _ ;
 
 !! !!Consonant loss or transformation
 
@@ -167,11 +176,11 @@ Rules
 !Work 2012-10-29!  А2:я <=> ь:0 %>: _ [ т | к | м | ш ] ;
 !Work 2012-10-29!! "A2 as я in й-final stems"
 !Work 2012-10-29!           й:0 %>: _  ;
-!Work 2012-10-29!
-!Work 2012-10-29!"й Deletion in front of я Suffix and others"
-!Work 2012-10-29!  й:0 <=> _ %>: [ :я | :е | :и | :ю ]  ;
-!Work 2012-10-29!
-!Work 2012-10-29!
+
+"й Deletion in front of я Suffix and others"
+  й:0 <=> _ %>: [ :я | :е | :и | :ю ]  ;
+
+
 !Work 2012-10-29!"Clitics in At and Ak take onset glide"
 !Work 2012-10-29!  А2:а <=> [ Cons ( Ы2:0 ) | :Vow ] %>: _ [ т | к | м | ш ] ;
 
