@@ -4,14 +4,14 @@
 !! Hill Mari proper nouns inflect in the same cases as regular
 !! nouns
 
-LEXICON PropTag
+LEXICON PROP_
 +N+Prop: N_01 ;
 
 LEXICON ACRONDELIMITER ! Here we need some kind of vowel harmony
-    PropTag ;
-:%: PropTag ;
-:%- PropTag ;
-:%' PropTag ;
+    PROP_ ;
+:%: PROP_ ;
+:%- PROP_ ;
+:%' PROP_ ;
 
 
 !! !!Male given name for deriving patronyms 

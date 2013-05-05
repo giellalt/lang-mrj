@@ -34,7 +34,7 @@ LEXICON ADV_КОЛ !
 LEXICON ADV_ОЛМА ! 
  ADV_ ;
 
-LEXICON DescrTag
+LEXICON DESCR_
 +Adv+Descr: K ;
 
 LEXICON SpatTag
@@ -55,7 +55,7 @@ LEXICON Cc
 LEXICON Cs
 +CS: # ;
 
-LEXICON ConjTag
+LEXICON CONJ_
 +Conj: # ;
 
 LEXICON Pcle-Compar-Stnd
