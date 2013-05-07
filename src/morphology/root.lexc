@@ -32,7 +32,15 @@ Multichar_Symbols
 !!! Nouns
   +Prop
 !!! Pronouns
-  +Pers +Dem +Interr +Refl +Recipr +Rel +Indef
+ +Dem    !!≈ ;@CODE@: demonstrative
+ +Indef  !!≈ ;@CODE@: indefinite
+ +Dep    !!≈ ;@CODE@: dependent word requiring the presence of noun, e.g. ӹшке
+ +Interr !!≈ ;@CODE@: interrogative
+ +Pers   !!≈ ;@CODE@: personal
+ +Recipr !!≈ ;@CODE@: reciprocal
+ +Refl   !!≈ ;@CODE@: reflexive
+ +Rel    !!≈ ;@CODE@: relative
+
 !!! Verbs
   +Aux
 
@@ -154,6 +162,8 @@ LEXICON Root
 !Acronym ;
 Punctuation ;
 !wordToNumeral ;
+
+Exceptions ;
 
  urj-Cyrl-ProperNouns ; ! This is the template
 
