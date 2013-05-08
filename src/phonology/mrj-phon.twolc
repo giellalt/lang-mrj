@@ -83,19 +83,26 @@ Rules
 Ь2:ь <=> [ н | л ] _ %> Ы1: ;
 
 ! JMR 2012-09-18
-"Onset vowel loss in suffix"
-   Vx:0 <=> :Vow %>: _ ;
+"Onset vowel loss in suffix Ы1"
+   Ы1:0 <=> :Vow %>: _ ;
            %>: ж Ы2: %>: _  ;
-        where Vx in (Е2 Ы1) ;
+
+"Onset vowel loss in suffix Е2"
+   Е2:0 <=> %>: ж Ы2: %>: _  ;
+
 
 !"Onset vowel Е2 realized in suffix"
 !  Е2:е <=> Cons %>: _ ;
+
+"Onset vowel Е2:э after retained vowel"
+Е2:э <=> [ ю | ӱ | у | ё | о | ӧ | и | е | э | а | ӓ ] %> _ ;
 
 "Stem final ы loss before Е2"
 ы:0 <=> #: Cons* Vow Cons+ _ %> Е2: ;
 
 "Stem final ӹ loss before Е2"
 ӹ:0 <=> #: Cons* Vow Cons+ _ %> Е2: ;
+
 
 "Onset vowel Ы1 realized in suffix"
   Ы1:ы <=> [ LBC  Cons ( %>: )| LBC [ н | л ] Ь2: %>: | BackVow й: %> ] _ ;
