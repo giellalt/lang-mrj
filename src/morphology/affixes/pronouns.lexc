@@ -3,8 +3,125 @@
 
 !! Hill Mari (Western Mari) pronouns...
 
-LEXICON PronTag
+LEXICON PRON_
 +Pron: # ;
+
+LEXICON PERS-SG1
++Pron+Pers+Sg1+Nom:нь K ;
++Pron+Pers+Sg1+Gen:ньӹн K ;
++Pron+Pers+Sg1+Acc:ньӹм K ;
++Pron+Pers+Sg1+Dat:лӓнем K ;
++Pron+Pers+Sg1+Comp:ньлӓ K ;
++Pron+Pers+Sg1+Com:ньге K ;
+
+LEXICON PERS-SG2
++Pron+Pers+Sg2+Nom:нь K ;
++Pron+Pers+Sg2+Gen:ньӹн K ;
++Pron+Pers+Sg2+Acc:ньӹм K ;
++Pron+Pers+Sg2+Dat:лӓнет K ;
++Pron+Pers+Sg2+Comp:ньлӓ K ;
++Pron+Pers+Sg2+Com:ньге K ;
+
+LEXICON PERS-SG3
++Pron+Pers+Sg3+Nom: K ;
++Pron+Pers+Sg3+Gen:%>н K ;
++Pron+Pers+Sg3+Acc:%>м K ;
++Pron+Pers+Sg3+Dat:%>лӓн K ;
++Pron+Pers+Sg3+Comp:%>лӓ K ;
++Pron+Pers+Sg3+Com:%>ге K ;
+
+LEXICON PERS-PL1
++Pron+Pers+Pl1+Nom: K ;
++Pron+Pers+Pl1+Gen:мнӓ%>н K ;
++Pron+Pers+Pl1+Acc:мнӓ%>м K ;
++Pron+Pers+Pl1+Dat:%>лӓннӓ K ;
++Pron+Pers+Pl1+Comp:%>лӓ K ;
++Pron+Pers+Pl1+Com:%>ге K ;
+
+LEXICON PERS-PL2
++Pron+Pers+Pl2+Nom: K ;
++Pron+Pers+Pl2+Gen:мдӓ%>н K ;
++Pron+Pers+Pl2+Acc:мдӓ%>м K ;
++Pron+Pers+Pl2+Dat:%>лӓндӓ K ;
++Pron+Pers+Pl2+Comp:%>лӓ K ;
++Pron+Pers+Pl2+Com:%>ге K ;
+
+LEXICON PERS-PL3 !!= @CODE@ нӹнӹ:нӹнӹ
++Pron+Pers+Pl3+Nom: K ;
++Pron+Pers+Pl3+Gen:%>н K ;
++Pron+Pers+Pl3+Acc:%>м K ;
++Pron+Pers+Pl3+Dat:%>лӓн K ;
++Pron+Pers+Pl3+Comp:%>лӓ K ;
++Pron+Pers+Pl3+Com:%>ге K ;
+
+LEXICON REFL !!= @CODE@ ӹшке:ӹшк
++Pron+Refl+Dep:е K ;
++Pron+Refl+Gen:ӹмӹ%>н K ;
++Pron+Refl+Acc:ӹмӹ%>м K ;
++Pron+Refl+Dat:ӹ%>лӓн K ;
+
+!+Pron+Refl+Sg1+Nom:е K ;
++Pron+Refl+Sg1+Gen:ӹмемӹ%>н K ;
++Pron+Refl+Sg1+Acc:ӹмемӹ%>м K ;
++Pron+Refl+Sg1+Dat:ӹ%>лӓнем K ;
+
+!+Pron+Refl+Sg2+Nom:е K ;
++Pron+Refl+Sg2+Gen:ӹметӹ%>н K ;
++Pron+Refl+Sg2+Acc:ӹметӹ%>м K ;
++Pron+Refl+Sg2+Dat:ӹ%>лӓнет K ;
+
+!+Pron+Refl+Sg3+Nom:е K ;
++Pron+Refl+Sg3+Gen:ӹмжӹ%>н K ;
++Pron+Refl+Sg3+Acc:ӹмжӹ%>м K ;
++Pron+Refl+Sg3+Dat:ӹ%>лӓнжӹ K ;
+
+!+Pron+Refl+Pl1+Nom:е K ;
++Pron+Refl+Pl1+Gen:ӹмнӓ%>н K ;
++Pron+Refl+Pl1+Acc:ӹмнӓ%>м K ;
++Pron+Refl+Pl1+Dat:ӹ%>лӓннӓ K ;
+
+!+Pron+Refl+Pl2+Nom:е K ;
++Pron+Refl+Pl2+Gen:ӹмдӓ%>н K ;
++Pron+Refl+Pl2+Acc:ӹмдӓ%>м K ;
++Pron+Refl+Pl2+Dat:ӹ%>лӓндӓ K ;
+
+!+Pron+Refl+Pl3+Nom:е K ;
++Pron+Refl+Pl3+Gen:ӹмӹшт%>н K ;
++Pron+Refl+Pl3+Acc:ӹмӹшт%>м K ;
++Pron+Refl+Pl3+Dat:ӹ%>лӓнӹштӹ K ;
+
+LEXICON DEM-SG !!= @CODE@ тидӹ:ти
++Pron+Dem+Dep: # ;
++Pron+Dem+Sg+Nom:дӹ K ;
++Pron+Dem+Sg+Gen:дӹ%>н K ;
++Pron+Dem+Sg+Acc:дӹ%>м K ;
++Pron+Dem+Sg+Dat:дӹ%>лӓн K ;
++Pron+Dem+Sg+Comp:дӹ%>лӓ K ;
++Pron+Dem+Sg+Com:дӹ%>ге K ;
+
++Pron+Dem+Pl+Nom:дӹ%>влӓ K ;
++Pron+Dem+Pl+Gen:дӹ%>влӓ%>н K ;
++Pron+Dem+Pl+Acc:дӹ%>влӓ%>м K ;
++Pron+Dem+Pl+Dat:дӹ%>влӓ%>лӓн K ;
++Pron+Dem+Pl+Comp:дӹ%>влӓ%>лӓ K ;
++Pron+Dem+Pl+Com:дӹ%>влӓ%>ге K ;
+
+LEXICON DEM-PL !!= @CODE@ нинӹ:ни
++Pron+Dem+Dep: # ;
++Pron+Dem+Pl+Nom:нӹ K ;
++Pron+Dem+Pl+Gen:нӹ%>н K ;
++Pron+Dem+Pl+Acc:нӹ%>м K ;
++Pron+Dem+Pl+Dat:нӹ%>лӓн K ;
++Pron+Dem+Pl+Comp:нӹ%>лӓ K ;
++Pron+Dem+Pl+Com:нӹ%>ге K ;
+!! Plural pronoun with additional plural marking
++Pron+Dem+Pl+Pl+Nom:нӹ%>влӓ K ;
++Pron+Dem+Pl+Pl+Gen:нӹ%>влӓ%>н K ;
++Pron+Dem+Pl+Pl+Acc:нӹ%>влӓ%>м K ;
++Pron+Dem+Pl+Pl+Dat:нӹ%>влӓ%>лӓн K ;
++Pron+Dem+Pl+Pl+Comp:нӹ%>влӓ%>лӓ K ;
++Pron+Dem+Pl+Pl+Com:нӹ%>влӓ%>ге K ;
+
 
 LEXICON DemTag
 +Dem+Adn: # ;
