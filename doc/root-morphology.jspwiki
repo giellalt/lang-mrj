@@ -15,6 +15,15 @@ The parts-of-speech are:
 The parts of speech are further split up into:
 Nouns
 Pronouns
+ ;+Dem: demonstrative
+ ;+Indef: indefinite
+ ;+Dep: dependent word requiring the presence of noun, e.g. ӹшке
+ ;+Interr: interrogative
+ ;+Pers: personal
+ ;+Recipr: reciprocal
+ ;+Refl: reflexive
+ ;+Rel: relative
+
 Verbs
 
 The Usage extents are marked using following tags:
@@ -53,7 +62,6 @@ Morphophonology
 ---------------
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
-
 And following triggers to control variation
 k loss in am-verbs, also z to ts
 
@@ -64,6 +72,7 @@ The word forms in Hill Mari start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 The assumption is that xml files with names pos.xml will provide the source material for
 the initial pos.lexc _LEXICON Pos_ entries
+
 
 
 
