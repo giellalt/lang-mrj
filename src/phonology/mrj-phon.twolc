@@ -13,6 +13,7 @@ Alphabet
 ! А1:а 
  А1:ӓ
 
+ Е3:е !ӓвӓмвлӓ 
  Е2:е
 ! Е2:0
 ! Ы1:ы
@@ -69,7 +70,7 @@ Definitions
 
 ! LFC = [ :NonLabVow | :FrontLabVow | Е2: | :е | :ӹ | :Ӹ ] \[ #: | :BackLabVow | ы | Ы ]* ;
 
-LBC = [ :BackVow ] ( %>: | %^ConsTransf:0 | BackVow | А1:а | Ы1:ы | Ы1:0 | Ы2:ы | Cons: )* ;
+LBC = [ :BackVow ] ( %>: | %^ConsTransf:0 | BackVow | А1:а | Ы1:ы | Ы1:0 | Е3:0 | Ы2:ы | Cons: )* ;
 
 
 Rules
@@ -86,6 +87,11 @@ Rules
 "Onset vowel loss in suffix Ы1"
    Ы1:0 <=> :Vow %>: _ ;
            %>: ж Ы2: %>: _  ;
+
+"Onset vowel loss in suffix Е3"
+   Е3:0 <=> :Vow %>: _ ;
+           %>: ж Ы2: %>: _  ;
+
 
 "Onset vowel loss in suffix Е2"
    Е2:0 <=> %>: ж Ы2: %>: _  ;

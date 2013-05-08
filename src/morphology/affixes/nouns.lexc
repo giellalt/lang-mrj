@@ -130,11 +130,11 @@ LEXICON NMN_OBLIQUE-POSSESSA
 !! PxSg1+NB+CASE
 !! singular possessa
 +PxSg1+Sg+Nom:%>Е2м K ;
-+PxSg1+Sg+Gen:%>Е2м%>Ы1н K ;
-+PxSg1+Sg+Acc:%>Е2м%>Ы1м K ;
-+PxSg1+Sg+Com:%>Е2м%>ге K ;
-+PxSg1+Sg+Dat:%>Е2м%>лА1н K ;
-+PxSg1+Sg+Comp:%>Е2м%>лА1 K ;
++PxSg1+Sg+Gen:%>Е3м%>Ы1н K ;
++PxSg1+Sg+Acc:%>Е3м%>Ы1м K ;
++PxSg1+Sg+Com:%>Е3м%>ге K ;
++PxSg1+Sg+Dat:%>Е3м%>лА1н K ;
++PxSg1+Sg+Comp:%>Е3м%>лА1 K ;
 !!
 +Sg+Ine+PxSg1:%>Ы1штем K ;
 +Sg+Ill+PxSg1:%>Ы1шкем K ;
@@ -143,209 +143,253 @@ LEXICON NMN_OBLIQUE-POSSESSA
 !!
 !     кол+N+PxSg1+Sg+Nom: [колем, колэм] # х2 колэмжӹ
 +PxSg1+Sg+Nom:%>Е2м		   K  ;
-+PxSg1+Sg+Gen:%>Е2м%>Ы1н	   K  ;
-+PxSg1+Sg+Acc:%>Е2м%>Ы1м	   K  ;
-+PxSg1+Sg+Com:%>Е2мге	   K  ;
-+PxSg1+Sg+Dat:%>Е2м%>лА1н	   K  ;
++PxSg1+Sg+Gen:%>Е3м%>Ы1н	   K  ;
++PxSg1+Sg+Acc:%>Е3м%>Ы1м	   K  ;
++PxSg1+Sg+Com:%>Е3мге	   K  ;
++PxSg1+Sg+Dat:%>Е3м%>лА1н	   K  ;
 +Sg+Ine+PxSg1:%>ыштем	   K  ;
-+PxSg1+Sg+Ine:%>Е2м%>Ы1штЫ2	   K  ;
++PxSg1+Sg+Ine:%>Е3м%>Ы1штЫ2	   K  ;
 +Sg+Ill+PxSg1:%>Ы1шкем	   K  ;
-+PxSg1+Sg+Ill:%>Е2м%>Ы1шкЫ2	   K  ;
-+Sg+Lat+PxSg1:%>Е2шем	   K  ;
-+PxSg1+Sg+Lat:%>Е2мӹш	   K  ;
++PxSg1+Sg+Ill:%>Е3м%>Ы1шкЫ2	   K  ;
++Sg+Lat+PxSg1:%>Е3шем	   K  ;
++PxSg1+Sg+Lat:%>Е3мӹш	   K  ;
 +Sg+Comp+PxSg1:%>лА1эм      K  ;
 +Sg+Abe+PxSg1:%>деэм	   K  ;
-+PxSg1+Sg+Abe:%>Е2мде	   K  ;
++PxSg1+Sg+Abe:%>Е3мде	   K  ;
 ! plural possessa
 +Pl+Nom+PxSg1:%>влӓэм	   K  ;
 +PxSg1+Pl+Nom:%>Е2мвлӓ	   K  ;
-+PxSg1+Pl+Gen:%>Е2мвлӓн	   K  ;
-+PxSg1+Pl+Acc:%>Е2мвлӓм	   K  ;
-+PxSg1+Pl+Com:%>Е2мвлӓге   K  ;
++PxSg1+Pl+Gen:%>Е3мвлӓн	   K  ;
++PxSg1+Pl+Acc:%>Е3мвлӓм	   K  ;
++PxSg1+Pl+Com:%>Е3мвлӓге   K  ;
 +Pl+PxSg1+Com:%>влӓэмге	   K  ;
 +Pl+PxSg1+Dat:%>влӓэмлӓн   K  ;
-+PxSg1+Pl+Dat:%>Е2мвлӓлӓн  K  ;
++PxSg1+Pl+Dat:%>Е3мвлӓлӓн  K  ;
 +Pl+Dat+PxSg1:%>влӓлӓнем   K  ;
-+PxSg1+Pl+Dat:%>Е2мвлӓлӓ   K  ;
++PxSg1+Pl+Dat:%>Е3мвлӓлӓ   K  ;
 +Pl+Ine+PxSg1:%>влӓштем    K  ;
-+PxSg1+Pl+Ine:%>Е2мвлӓштӹ  K  ;
++PxSg1+Pl+Ine:%>Е3мвлӓштӹ  K  ;
 +Pl+Ill+PxSg1:%>влӓшкем	   K  ;
-+PxSg1+Pl+Ill:%>Е2мвлӓшкӹ  K  ;
-+PxSg1+Pl+Ill:%>Е2мвлӓш  K  ;
++PxSg1+Pl+Ill:%>Е3мвлӓшкӹ  K  ;
++PxSg1+Pl+Ill:%>Е3мвлӓш  K  ;
 +Pl+Ine+PxSg1:влӓштем	   K  ;
 +Pl+Ill+PxSg1:влӓшкем	   K  ;
 +Pl+Lat+PxSg1:влӓэшем	   K  ;
-+PxSg1+Pl+Lat:%>Е2мвлӓэш   K  ;
-+PxSg1+Pl+Lat:%>Е2мвлӓш   K  ;
++PxSg1+Pl+Lat:%>Е3мвлӓэш   K  ;
++PxSg1+Pl+Lat:%>Е3мвлӓш   K  ;
 +Pl+PxSg1+Comp:влӓэмлӓ	   K  ;
 +Pl+Comp+PxSg1:влӓлӓэм	   K  ;
-+PxSg1+Pl+Comp:%>Е2мвлӓлӓ  K  ;
++PxSg1+Pl+Comp:%>Е3мвлӓлӓ  K  ;
 +Pl+PxSg1+Abe:влӓэмде	   K  ;
-+PxSg1+Pl+Abe:%>Е2мвлӓде   K  ;
++PxSg1+Pl+Abe:%>Е3мвлӓде   K  ;
 
 !!PxSg2
-+PxSg2+Sg+Nom:%>Е2т		   K  ;
-+PxSg2+Sg+Gen:%>Е2тӹн	   K  ;
-+PxSg2+Sg+Acc:%>Е2тӹм	   K  ;
-+PxSg2+Sg+Com:%>Е2тге	   K  ;
-+PxSg2+Sg+Dat:%>Е2тлӓн	   K  ;
-+Sg+Ine+PxSg2:%>ыштет	   K  ;
-+PxSg2+Sg+Ine:%>Е2тӹштӹ	   K  ;
-+Sg+Ill+PxSg2:%>ышкет	   K  ;
-+PxSg2+Sg+Ill:%>Е2тӹшкӹ	   K  ;
-+PxSg2+Sg+Ill:%>Е2тӹш	   K  ;
-+Sg+Lat+PxSg2:%>Е2шет	   K  ;
-+PxSg2+Sg+Lat:%>Е2тӹш	   K  ;
-+Sg+Comp+PxSg2:%>лА1эт      K  ;
-+PxSg2+Sg+Comp:%>Е2тлӓ     K  ;
-+Sg+Abe+PxSg2:%>деэт	   K  ;
-+PxSg2+Sg+Abe:%>Е2тде	   K  ;
-+Pl+Nom+PxSg2:%>влӓэт	   K  ;
-+PxSg2+Pl+Nom:%>Е2твлӓ	   K  ;
-+PxSg2+Pl+Gen:%>Е2твлӓн	   K  ;
-+PxSg2+Pl+Acc:%>Е2твлӓм	   K  ;
-+PxSg2+Pl+Com:%>Е2твлӓге   K  ;
-+Pl+PxSg2+Com:%>влӓэтге	   K  ;
-+Pl+PxSg2+Dat:%>влӓэтлӓн   K  ;
-+PxSg2+Pl+Dat:%>Е2твлӓлӓн  K  ;
-+Pl+Dat+PxSg2:%>влӓлӓнет   K  ;
-+PxSg2+Pl+Dat:%>Е2твлӓлӓ   K  ;
-+Pl+Ine+PxSg2:%>влӓштет    K  ;
-+PxSg2+Pl+Ine:%>Е2твлӓштӹ  K  ;
-+Pl+Ill+PxSg2:%>влӓшкет	   K  ;
-+PxSg2+Pl+Ill:%>Е2твлӓшкӹ  K  ;
-+PxSg2+Pl+Ill:%>Е2твлӓш  K  ;
-+Pl+Ine+PxSg2:влӓштет	   K  ;
-+Pl+Ill+PxSg2:влӓшкет	   K  ;
-+Pl+Lat+PxSg2:влӓэшет	   K  ;
-!+PxSg2+Pl+Lat:%>Е2твлӓэш   K  ;
-+PxSg2+Pl+Lat:%>Е2твлӓш   K  ;
-+Pl+PxSg2+Comp:влӓэтлӓ	   K  ;
-+Pl+Comp+PxSg2:влӓлӓэт	   K  ;
-+PxSg2+Pl+Comp:%>Е2твлӓлӓ  K  ;
-+Pl+PxSg2+Abe:влӓэтде	   K  ;
-+PxSg2+Pl+Abe:%>Е2твлӓде   K  ;
+ PXSG3-SG-ABE 		   ;
+ PXSG3-SG-ACC 		   ;
+ PXSG3-SG-COM 		   ;
+ PXSG3-SG-COMP 		   ;
+ PXSG3-SG-DAT		   ;
+ PXSG3-SG-GEN 		   ;
+ PXSG3-SG-ILL		   ;
+ PXSG3-SG-INE		   ;
+ PXSG3-SG-LAT		   ;
+ PXSG3-SG-NOM 		   ;
+ PXSG3-PL-ABE 		   ;
+ PXSG3-PL-ACC 		   ;
+ PXSG3-PL-COM 		   ;
+ PXSG3-PL-COMP 		   ;
+ PXSG3-PL-DAT		   ;
+ PXSG3-PL-GEN 		   ;
+ PXSG3-PL-ILL		   ;
+ PXSG3-PL-INE		   ;
+ PXSG3-PL-LAT		   ;
+ PXSG3-PL-NOM 		   ;
 
 !!PxSg3
-+PxSg3+Sg+Nom:%>жЫ1		   K  ;
-+PxSg3+Sg+Gen:%>жЫ1%>н	   K  ;
+ PXSG3-SG-ABE 		   ;
+ PXSG3-SG-ACC 		   ;
+ PXSG3-SG-COM 		   ;
+ PXSG3-SG-COMP 		   ;
+ PXSG3-SG-DAT		   ;
+ PXSG3-SG-GEN 		   ;
+ PXSG3-SG-ILL		   ;
+ PXSG3-SG-INE		   ;
+ PXSG3-SG-LAT		   ;
+ PXSG3-SG-NOM 		   ;
+ PXSG3-PL-ABE 		   ;
+ PXSG3-PL-ACC 		   ;
+ PXSG3-PL-COM 		   ;
+ PXSG3-PL-COMP 		   ;
+ PXSG3-PL-DAT		   ;
+ PXSG3-PL-GEN 		   ;
+ PXSG3-PL-ILL		   ;
+ PXSG3-PL-INE		   ;
+ PXSG3-PL-LAT		   ;
+ PXSG3-PL-NOM 		   ;
+
+LEXICON PXSG2-SG-ABE 
++Sg+Abe+PxSg2:%>деэт	   K  ;
++PxSg2+Sg+Abe:%>Е3тде	   K  ;
+
+LEXICON PXSG2-SG-ACC 
++PxSg2+Sg+Acc:%>Е3тӹм	   K  ;
+
+LEXICON PXSG2-SG-COM 
++PxSg2+Sg+Com:%>Е3тге	   K  ;
+
+LEXICON PXSG2-SG-COMP
++Sg+Comp+PxSg2:%>лА1эт      K  ;
++PxSg2+Sg+Comp:%>Е3тлӓ     K  ;
+
+LEXICON PXSG2-SG-DAT 
++PxSg2+Sg+Dat:%>Е3тлӓн	   K  ;
+
+LEXICON PXSG2-SG-GEN 
++PxSg2+Sg+Gen:%>Е3тӹн	   K  ;
+
+LEXICON PXSG2-SG-ILL 
++Sg+Ill+PxSg2:%>Ы1шкет	   K  ;
++PxSg2+Sg+Ill:%>Е3тӹшкӹ	   K  ;
++PxSg2+Sg+Ill:%>Е3тӹш	   K  ;
+
+LEXICON PXSG2-SG-INE 
++Sg+Ine+PxSg2:%>Ы1штет	   K  ;
++PxSg2+Sg+Ine:%>Е3тӹштӹ	   K  ;
+
+LEXICON PXSG2-SG-LAT 
++Sg+Lat+PxSg2:%>Е3шет	   K  ;
++PxSg2+Sg+Lat:%>Е3тӹш	   K  ;
+
+LEXICON PXSG2-SG-NOM 
++PxSg2+Sg+Nom:%>Е2т		   K  ;
+
+LEXICON PXSG2-PL-ABE 
++Pl+PxSg2+Abe:влӓэтде	   K  ;
++PxSg2+Pl+Abe:%>Е3твлӓде   K  ;
+
+LEXICON PXSG2-PL-ACC 
++PxSg2+Pl+Acc:%>Е3твлӓм	   K  ;
+
+LEXICON PXSG2-PL-COM 
++PxSg2+Pl+Com:%>Е3твлӓге   K  ;
++Pl+PxSg2+Com:%>влӓэтге	   K  ;
+
+LEXICON PXSG2-PL-COMP
++Pl+PxSg2+Comp:влӓэтлӓ	   K  ;
++Pl+Comp+PxSg2:влӓлӓэт	   K  ;
++PxSg2+Pl+Comp:%>Е3твлӓлӓ  K  ;
+
+LEXICON PXSG2-PL-DAT 
++Pl+PxSg2+Dat:%>влӓэтлӓн   K  ;
++PxSg2+Pl+Dat:%>Е3твлӓлӓн  K  ;
++Pl+Dat+PxSg2:%>влӓлӓнет   K  ;
++PxSg2+Pl+Dat:%>Е3твлӓлӓ   K  ;
+
+LEXICON PXSG2-PL-GEN 
++PxSg2+Pl+Gen:%>Е3твлӓн	   K  ;
+
+LEXICON PXSG2-PL-ILL 
++Pl+Ill+PxSg2:%>влӓшкет	   K  ;
++PxSg2+Pl+Ill:%>Е3твлӓшкӹ  K  ;
++PxSg2+Pl+Ill:%>Е3твлӓш  K  ;
++Pl+Ill+PxSg2:влӓшкет	   K  ;
+
+LEXICON PXSG2-PL-INE 
++Pl+Ine+PxSg2:%>влӓштет    K  ;
++PxSg2+Pl+Ine:%>Е3твлӓштӹ  K  ;
++Pl+Ine+PxSg2:влӓштет	   K  ;
+
+LEXICON PXSG2-PL-LAT 
++Pl+Lat+PxSg2:влӓэшет	   K  ;
+!+PxSg2+Pl+Lat:%>Е3твлӓэш   K  ;
++PxSg2+Pl+Lat:%>Е3твлӓш   K  ;
+
+LEXICON PXSG2-PL-NOM 
++PxSg2+Pl+Nom:%>Е2твлӓ	   K  ;
++Pl+Nom+PxSg2:%>влӓэт	   K  ;
+
+LEXICON PXSG3-SG-ABE
++Sg+Abe+PxSg3:%>дежЫ1	   K  ;
++PxSg3+Sg+Abe:%>жЫ1де	   K  ;
+
+LEXICON PXSG3-SG-ACC
 +PxSg3+Sg+Acc:%>жЫ1%>м	   K  ;
+
+LEXICON PXSG3-SG-COM
 +PxSg3+Sg+Com:%>жЫ1%>ге	   K  ;
+
+LEXICON PXSG3-SG-COMP
++Sg+Comp+PxSg3:%>лА1%>жЫ1      K  ;
++PxSg3+Sg+Comp:%>жЫ1лА1     K  ;
+
+LEXICON PXSG3-SG-DAT
 +PxSg3+Sg+Dat:%>жЫ1%>лА1н	   K  ;
-+Sg+Ine+PxSg3:%>Ы1штЫ1жЫ1	   K  ;
-+PxSg3+Sg+Ine:%>жЫ1%>штЫ1	   K  ;
+
+LEXICON PXSG3-SG-GEN
++PxSg3+Sg+Gen:%>жЫ1%>н	   K  ;
+
+LEXICON PXSG3-SG-ILL
 +Sg+Ill+PxSg3:%>Ы1шкЫ1жЫ1	   K  ;
 +PxSg3+Sg+Ill:%>жЫ1шкЫ1	   K  ;
 +PxSg3+Sg+Ill:%>жЫ1ш	   K  ;
+
+LEXICON PXSG3-SG-INE
++Sg+Ine+PxSg3:%>Ы1штЫ1жЫ1	   K  ;
++PxSg3+Sg+Ine:%>жЫ1%>штЫ1	   K  ;
+
+LEXICON PXSG3-SG-LAT
 +Sg+Lat+PxSg3:%>Е2шЫ1жЫ1	   K  ;
 +PxSg3+Sg+Lat:%>жЫ1ш	   K  ;
-+Sg+Comp+PxSg3:%>лА1%>жЫ1      K  ;
-+PxSg3+Sg+Comp:%>жЫ1лА1     K  ;
-+Sg+Abe+PxSg3:%>дежЫ1	   K  ;
-+PxSg3+Sg+Abe:%>жЫ1де	   K  ;
-+Pl+Nom+PxSg3:%>влӓжЫ1	   K  ;
-+PxSg3+Pl+Nom:%>жЫ1влӓ	   K  ;
-+PxSg3+Pl+Gen:%>жЫ1влӓн	   K  ;
-+Pl+PxSg3+Gen:%>влӓжӹн	   K  ;
-+PxSg3+Pl+Acc:%>жЫ1влӓм	   K  ;
-+Pl+PxSg3+Acc:%>влӓжӹм	   K  ;
-+PxSg3+Pl+Com:%>жЫ1влӓге   K  ;
-+Pl+PxSg3+Com:%>влӓжЫ1ге	   K  ;
-+Pl+PxSg3+Dat:%>влӓжЫ1лӓн   K  ;
-+PxSg3+Pl+Dat:%>жЫ1влӓлӓн  K  ;
-+Pl+Dat+PxSg3:%>влӓлӓнжЫ1   K  ;
-+PxSg3+Pl+Dat:%>жЫ1влӓлӓ   K  ;
-+Pl+Ine+PxSg3:%>влӓштЫ1жЫ1    K  ;
-+PxSg3+Pl+Ine:%>жЫ1влӓштӹ  K  ;
-+Pl+PxSg3+Ine:влӓжЫ1штЫ1	   K  ;
-+Pl+Ill+PxSg3:%>влӓшкЫ1жЫ1	   K  ;
-+PxSg3+Pl+Ill:%>жЫ1влӓшкӹ  K  ;
-+Pl+Ill+PxSg3:влӓшкЫ1жЫ1	   K  ;
-+Pl+PxSg3+Ill:%>влӓжЫ1шкӹ  K  ;
-+Pl+PxSg3+Ill:%>влӓжЫ1ш  K  ;
-+Pl+Lat+PxSg3:влӓэшЫ1жЫ1	   K  ;
-+PxSg3+Pl+Lat:%>жЫ1влӓэш   K  ;
-+PxSg3+Pl+Lat:%>жЫ1влӓш   K  ;
-+Pl+PxSg3+Comp:влӓжӹлӓ	   K  ;
-+Pl+Comp+PxSg3:влӓлӓжЫ1	   K  ;
-+PxSg3+Pl+Comp:%>жЫ1влӓлӓ  K  ;
+
+LEXICON PXSG3-SG-NOM
++PxSg3+Sg+Nom:%>жЫ1		   K  ;
+
+LEXICON PXSG3-PL-ABE
 +Pl+PxSg3+Abe:влӓжЫ1де	   K  ;
 +PxSg3+Pl+Abe:%>жЫ1влӓде   K  ;
 
+LEXICON PXSG3-PL-ACC
++PxSg3+Pl+Acc:%>жЫ1влӓм	   K  ;
++Pl+PxSg3+Acc:%>влӓжӹм	   K  ;
 
+LEXICON PXSG3-PL-COM
++PxSg3+Pl+Com:%>жЫ1влӓге   K  ;
++Pl+PxSg3+Com:%>влӓжЫ1ге	   K  ;
 
+LEXICON PXSG3-PL-COMP
++Pl+PxSg3+Comp:влӓжӹлӓ	   K  ;
++Pl+Comp+PxSg3:влӓлӓжЫ1	   K  ;
++PxSg3+Pl+Comp:%>жЫ1влӓлӓ  K  ;
 
-!!: Nb-Cx-Px_Nb ; !
-!!+Orth/1933+N+Sg+Com:%>гэ K ; ! (with a village)
-!!
-!!+Sg+Ine:%>Ы1штЫ1 Cx-then-Px ;
-!!+Orth/1933+N+Sg+Abe:%>дэ K ; ! (without a village)
-!!!! Pl
-!!: Nb-GenAccComDatComp ;
-!!+Pl+Dat:%>влӓ%>лА1н Cx-then-Px ; !
-!!+Pl+Comp:%>влӓ%>лА1 Cx-then-Px ; !
-!!+Pl+Ine:%>влӓ%>Ы1штЫ1 K ; !
-!!+Pl+Ine:%>влӓ%>Ы1штЫ1 Cx-then-Px ; !
-!!+Pl+Ill:%>влӓ%>Ы1шкЫ1 K ; !
-!!+Pl+Ill:%>влӓ%>Ы1шкЫ1 Cx-then-Px ; !
-!!+Pl+Lat:%>влӓ%>Ы1ш Cx-then-Px ; !
-!!+Pl+Com:%>влӓ%>ге Cx-then-Px ; !
-!!+Pl+Abe:%>влӓ%>де Cx-then-Px ; !
-!!
-!!!! Possessor Indices
-!!+PxSg1:%>ем Nb-GenAccComDatComp ;
-!!+PxSg2:%>Ы1т Nb-GenAccComDatComp ;
-!!+PxSg3:%>жЫ2 Nb-GenAccComDatComp ;
-!!+PxPl1:%>Ы1нА1 Nb-GenAccComDatComp ;
-!!+PxPl2:%>Ы1дА1 Nb-GenAccComDatComp ;
-!!+PxPl3:%>Ы1шт Nb-GenAccComDatComp ;
-!!
-!!LEXICON Nb-GenAccComDatComp
-!!+Pl:%>влӓ GenAccComDatComp ;
-!!+Sg: GenAccComDatComp ;
-!!
-!!LEXICON GenAccComDatComp
-!!+Gen:%>Ы1н K ; ! 
-!!+Acc:%>Ы1м K ; !
-!!+Dat:%>лА1н K ; !
-!!+Comp:%>лА1 K ; ! (like a village)
-!!+Com:%>ге K ; ! (with a village)
-!!+Abe:%>де K ;
-!!+Ine:%>Ы1штЫ1 K ;
-!!+Ill:%>Ы1шкЫ1 K ;
-!!+Lat:%>Ы1ш K ;
-!!
-!!
-!!!!
-!!LEXICON Cx-then-Px
-!!+PxSg1:%>Ы1м K ; ! ӓвӓм ӓвӓэм
-!!+PxSg2:%>Ы1т K ;
-!!+PxSg3:%>жЫ2 K ;
-!!+PxPl1:%>Ы1нА1 K ;
-!!+PxPl2:%>Ы1дА1 K ;
-!!+PxPl3:%>Ы1шт K ;
-!!
-!!LEXICON Nb-Cx-Px_Nb
-!!+Pl:%>влӓ Nb-Cx-Px_Cx ;
-!!+Sg: Nb-Cx-Px_Cx ;
-!!
-!!LEXICON Nb-Cx-Px_Cx
-!!+Nom: Nb-Cx-Px_Px ;
-!!+Dat:%>лА1н Nb-Cx-Px_Px ; !
-!!+Comp:%>лА1 Nb-Cx-Px_Px ; !
-!!+Ine:%>Ы1штЫ2 Nb-Cx-Px_Px ; !
-!!+Ill:%>Ы1шкЫ2 Nb-Cx-Px_Px ; !
-!!+Lat:%>Ы1ш Nb-Cx-Px_Px ; !
-!!    
-!!LEXICON Nb-Cx-Px_Px
-!! K ; ! No possessor index
-!!+PxSg1:%>Ы1м K ;
-!!+PxSg2:%>Ы1т K ;
-!!+PxSg3:%>жЫ2 K ;
-!!+PxPl1:%>Ы1нА1 K ;
-!!+PxPl2:%>Ы1дА1 K ;
-!!+PxPl3:%>Ы1шт K ;
+LEXICON PXSG3-PL-DAT
++Pl+PxSg3+Dat:%>влӓжЫ1лӓн   K  ;
++Pl+Dat+PxSg3:%>влӓлӓнжЫ1   K  ;
++PxSg3+Pl+Dat:%>жЫ1влӓлӓн  K  ;
+!+PxSg3+Pl+Dat:%>жЫ1влӓлӓ   K  ;
 
+LEXICON PXSG3-PL-GEN
++PxSg3+Pl+Gen:%>жЫ1влӓн	   K  ;
++Pl+PxSg3+Gen:%>влӓжӹн	   K  ;
+
+LEXICON PXSG3-PL-ILL
++Pl+Ill+PxSg3:%>влӓшкЫ1жЫ1	   K  ;
++PxSg3+Pl+Ill:%>жЫ1влӓшкӹ  K  ;
++Pl+PxSg3+Ill:%>влӓжЫ1шкӹ  K  ;
++Pl+PxSg3+Ill:%>влӓжЫ1ш  K  ;
+
+LEXICON PXSG3-PL-INE
++Pl+Ine+PxSg3:%>влӓштЫ1жЫ1    K  ;
++PxSg3+Pl+Ine:%>жЫ1влӓштӹ  K  ;
++Pl+PxSg3+Ine:влӓжЫ1штЫ1	   K  ;
+
+LEXICON PXSG3-PL-LAT
++Pl+Lat+PxSg3:влӓэшЫ1жЫ1	   K  ;
++PxSg3+Pl+Lat:%>жЫ1влӓэш   K  ;
++PxSg3+Pl+Lat:%>жЫ1влӓш   K  ;
+
+LEXICON PXSG3-PL-NOM
++Pl+Nom+PxSg3:%>влӓжЫ1	   K  ;
++PxSg3+Pl+Nom:%>жЫ1влӓ	   K  ;
 
 
 
