@@ -144,7 +144,7 @@ LEXICON INDPRSPL3-em
 +Ind+Prs+Pl3:%>А1т K ;
 
 LEXICON INDPRSCONNEG-em
-+Ind+Prs+ConNeg:%>ы K ;
++Ind+Prs+ConNeg:%>Ы1 K ;
 
 LEXICON INDPRSPL3CONNEG-em
 +Ind+Prs+Pl3+ConNeg:%>еп K ;
@@ -200,7 +200,7 @@ LEXICON INDPRT1PL3-em
 +Ind+Prt1+Pl3:%>Е2вӹ K ; !
 
 LEXICON INDPRT1CONNEG-em
-+Ind+Prt1+ConNeg:%>ы K ;
++Ind+Prt1+ConNeg:%>Ы1 K ;
 
 LEXICON INDPRT1PL3CONNEG-em
 +Ind+Prt1+Pl3+ConNeg:%>еп K ;
@@ -276,17 +276,17 @@ LEXICON INDPRT2NEG-em
  INDPRT2NEGPL3-em ;
 
 LEXICON	INDPRT2NEGSG1-em
-+Ind+Prt2+Neg+Sg1:%>ыделам K ;
++Ind+Prt2+Neg+Sg1:%>Ы1делам K ;
 LEXICON	INDPRT2NEGSG2-em
-+Ind+Prt2+Neg+Sg2:%>ыделат K ;
++Ind+Prt2+Neg+Sg2:%>Ы1делат K ;
 LEXICON	INDPRT2NEGSG3-em
-+Ind+Prt2+Neg+Sg3:%>ыде K ;
++Ind+Prt2+Neg+Sg3:%>Ы1де K ;
 LEXICON	INDPRT2NEGPL1-em
-+Ind+Prt2+Neg+Pl1:%>ыделна K ;
++Ind+Prt2+Neg+Pl1:%>Ы1делна K ;
 LEXICON	INDPRT2NEGPL2-em
-+Ind+Prt2+Neg+Pl2:%>ыделда K ;
++Ind+Prt2+Neg+Pl2:%>Ы1делда K ;
 LEXICON	INDPRT2NEGPL3-em
-+Ind+Prt2+Neg+Pl3:%>ыделыт K ;
++Ind+Prt2+Neg+Pl3:%>Ы1делыт K ;
 
 !! !!IMPERATIVE 
 
@@ -357,17 +357,17 @@ LEXICON DES-em
  DESPL2-em ;
  DESPL3-em ;
 LEXICON DESSG1-em
-+Des+Sg1:%>ынем K ;
++Des+Sg1:%>Ы1нем K ;
 LEXICON DESSG2-em
-+Des+Sg2:%>ынет K ;
++Des+Sg2:%>Ы1нет K ;
 LEXICON DESSG3-em
-+Des+Sg3:%>ынежӹ K ;
++Des+Sg3:%>Ы1нежӹ K ;
 LEXICON DESPL1-em
-+Des+Pl1:%>ыненӓ K ;
++Des+Pl1:%>Ы1ненӓ K ;
 LEXICON DESPL2-em
-+Des+Pl2:%>ынедӓ K ;
++Des+Pl2:%>Ы1недӓ K ;
 LEXICON DESPL3-em
-+Des+Pl3:%>ынештӹ K ;
++Des+Pl3:%>Ы1нештӹ K ;
 
 
 !! !!INFINITIVE 
