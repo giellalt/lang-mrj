@@ -4,51 +4,51 @@
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e>
       <lg>
-         <l pos="NUM">вӹзӹмшӹ</l>
+         <l pos="Num">вӹзӹмшӹ</l>
          <stg>
-            <st Contlex="NumTag">вӹзӹмшӹ</st>
+            <st Contlex="NUM_">вӹзӹмшӹ</st>
          </stg>
          <stress>вӹзӹ•мшӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM">viides</t>
+            <t pos="Num">viides</t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">вӹзӹт</l>
+         <l pos="Num">вӹзӹт</l>
          <stg>
-            <st Contlex="NumTag">вӹзӹт</st>
+            <st Contlex="NUM_">вӹзӹт</st>
          </stg>
          <stress>вӹ•зӹт</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">вӹц</l>
+         <l pos="Num">вӹц</l>
          <stg>
-            <st Contlex="NumTag">вӹц</st>
+            <st Contlex="NUM_">вӹц</st>
          </stg>
          <stress>вӹц</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -61,13 +61,13 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">вӹцлӹ</l>
+         <l pos="Num">вӹцлӹ</l>
          <stg>
-            <st Contlex="NumTag">вӹцлӹ</st>
+            <st Contlex="NUM_">вӹцлӹ</st>
          </stg>
          <stress>вӹ•цлӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -80,13 +80,13 @@
    </e>
   <e xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" exclude="fst">
       <lg>
-         <l pos="NUM">вӹцлӹшӹ</l>
+         <l pos="Num">вӹцлӹшӹ</l>
          <stg>
-            <st Contlex="NumTag">вӹцлӹшӹ</st>
+            <st Contlex="NUM_">вӹцлӹшӹ</st>
          </stg>
          <stress>вӹцлӹ•шӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -99,13 +99,13 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">вӹцшӱдӹ</l>
+         <l pos="Num">вӹцшӱдӹ</l>
          <stg>
-            <st Contlex="NumTag">вӹцшӱдӹ</st>
+            <st Contlex="NUM_">вӹцшӱдӹ</st>
          </stg>
          <stress>вӹцшӱ•дӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -118,32 +118,32 @@
    </e>
   <e xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" exclude="fst">
       <lg>
-         <l pos="NUM">вӹцшӱдӹшӹ</l>
+         <l pos="Num">вӹцшӱдӹшӹ</l>
          <stg>
-            <st Contlex="NumTag">вӹцшӱдӹшӹ</st>
+            <st Contlex="NUM_">вӹцшӱдӹшӹ</st>
          </stg>
          <stress>вӹцшӱ•дӹшӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">ик</l>
+         <l pos="Num">ик</l>
          <stg>
-            <st Contlex="NumTag">ик</st>
+            <st Contlex="NUM_">ик</st>
          </stg>
          <stress>ик</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -159,108 +159,108 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">ик-кок</l>
+         <l pos="Num">ик-кок</l>
          <stg>
-            <st Contlex="NumTag">ик-кок</st>
+            <st Contlex="NUM_">ик-кок</st>
          </stg>
          <stress>ик-кок</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">иктӓк-пелӓк</l>
+         <l pos="Num">иктӓк-пелӓк</l>
          <stg>
-            <st Contlex="NumTag">иктӓк-пелӓк</st>
+            <st Contlex="NUM_">иктӓк-пелӓк</st>
          </stg>
          <stress>иктӓ•к-пелӓ•к</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">иктӹ</l>
+         <l pos="Num">иктӹ</l>
          <stg>
-            <st Contlex="NumTag">иктӹ</st>
+            <st Contlex="NUM_">иктӹ</st>
          </stg>
          <stress>и•ктӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">иктӹт</l>
+         <l pos="Num">иктӹт</l>
          <stg>
-            <st Contlex="NumTag">иктӹт</st>
+            <st Contlex="NUM_">иктӹт</st>
          </stg>
          <stress>и•ктӹт</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">икшӹ</l>
+         <l pos="Num">икшӹ</l>
          <stg>
-            <st Contlex="NumTag">икшӹ</st>
+            <st Contlex="NUM_">икшӹ</st>
          </stg>
          <stress>и•кшӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">кок</l>
+         <l pos="Num">кок</l>
          <stg>
-            <st Contlex="NumTag">кок</st>
+            <st Contlex="NUM_">кок</st>
          </stg>
          <stress>кок</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -273,13 +273,13 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">коклы</l>
+         <l pos="Num">коклы</l>
          <stg>
-            <st Contlex="NumTag">коклы</st>
+            <st Contlex="NUM_">коклы</st>
          </stg>
          <stress>ко•клы</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -292,70 +292,70 @@
    </e>
   <e xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" exclude="fst">
       <lg>
-         <l pos="NUM">коклышы</l>
+         <l pos="Num">коклышы</l>
          <stg>
-            <st Contlex="NumTag">коклышы</st>
+            <st Contlex="NUM_">коклышы</st>
          </stg>
          <stress>ко•клышы</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">кокты</l>
+         <l pos="Num">кокты</l>
          <stg>
-            <st Contlex="NumTag">кокты</st>
+            <st Contlex="NUM_">кокты</st>
          </stg>
          <stress>ко•кты</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">коктыт</l>
+         <l pos="Num">коктыт</l>
          <stg>
-            <st Contlex="NumTag">коктыт</st>
+            <st Contlex="NUM_">коктыт</st>
          </stg>
          <stress>ко•ктыт</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">кокшы</l>
+         <l pos="Num">кокшы</l>
          <stg>
-            <st Contlex="NumTag">кокшы</st>
+            <st Contlex="NUM_">кокшы</st>
          </stg>
          <stress>ко•кшы</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -368,13 +368,13 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">кокшӱдӹ</l>
+         <l pos="Num">кокшӱдӹ</l>
          <stg>
-            <st Contlex="NumTag">кокшӱдӹ</st>
+            <st Contlex="NUM_">кокшӱдӹ</st>
          </stg>
          <stress>кокшӱ•дӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -387,13 +387,13 @@
    </e>
   <e xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" exclude="fst">
       <lg>
-         <l pos="NUM">кокшӱдӹшӹ</l>
+         <l pos="Num">кокшӱдӹшӹ</l>
          <stg>
-            <st Contlex="NumTag">кокшӱдӹшӹ</st>
+            <st Contlex="NUM_">кокшӱдӹшӹ</st>
          </stg>
          <stress>кокшӱ•дӹшӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -406,89 +406,89 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">куд</l>
+         <l pos="Num">куд</l>
          <stg>
-            <st Contlex="NumTag">куд</st>
+            <st Contlex="NUM_">куд</st>
          </stg>
          <stress>ку•д</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">куд-шӹм</l>
+         <l pos="Num">куд-шӹм</l>
          <stg>
-            <st Contlex="NumTag">куд-шӹм</st>
+            <st Contlex="NUM_">куд-шӹм</st>
          </stg>
          <stress>ку•д-шӹ•м</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">кудлу</l>
+         <l pos="Num">кудлу</l>
          <stg>
-            <st Contlex="NumTag">кудлу</st>
+            <st Contlex="NUM_">кудлу</st>
          </stg>
          <stress>ку•длу</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">кудлушы</l>
+         <l pos="Num">кудлушы</l>
          <stg>
-            <st Contlex="NumTag">кудлушы</st>
+            <st Contlex="NUM_">кудлушы</st>
          </stg>
          <stress>кудлу•шы</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">кудшӱдӹ</l>
+         <l pos="Num">кудшӱдӹ</l>
          <stg>
-            <st Contlex="NumTag">кудшӱдӹ</st>
+            <st Contlex="NUM_">кудшӱдӹ</st>
          </stg>
          <stress>кудшӱ•дӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -501,13 +501,13 @@
    </e>
   <e xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" exclude="fst">
       <lg>
-         <l pos="NUM">кудшӱдӹшӹ</l>
+         <l pos="Num">кудшӱдӹшӹ</l>
          <stg>
-            <st Contlex="NumTag">кудшӱдӹшӹ</st>
+            <st Contlex="NUM_">кудшӱдӹшӹ</st>
          </stg>
          <stress>кудшӱ•дӹшӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -520,51 +520,51 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">кудымшы</l>
+         <l pos="Num">кудымшы</l>
          <stg>
-            <st Contlex="NumTag">кудымшы</st>
+            <st Contlex="NUM_">кудымшы</st>
          </stg>
          <stress>ку•дымшы</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">кудыт</l>
+         <l pos="Num">кудыт</l>
          <stg>
-            <st Contlex="NumTag">кудыт</st>
+            <st Contlex="NUM_">кудыт</st>
          </stg>
          <stress>ку•дыт</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">кым</l>
+         <l pos="Num">кым</l>
          <stg>
-            <st Contlex="NumTag">кым</st>
+            <st Contlex="NUM_">кым</st>
          </stg>
          <stress>кым</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -577,51 +577,51 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">кымлы</l>
+         <l pos="Num">кымлы</l>
          <stg>
-            <st Contlex="NumTag">кымлы</st>
+            <st Contlex="NUM_">кымлы</st>
          </stg>
          <stress>кы•млы</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">кымлышы</l>
+         <l pos="Num">кымлышы</l>
          <stg>
-            <st Contlex="NumTag">кымлышы</st>
+            <st Contlex="NUM_">кымлышы</st>
          </stg>
          <stress>кы•млышы</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" exclude="fst">
       <lg>
-         <l pos="NUM">кымшы</l>
+         <l pos="Num">кымшы</l>
          <stg>
-            <st Contlex="NumTag">кымшы</st>
+            <st Contlex="NUM_">кымшы</st>
          </stg>
          <stress>кы•мшы</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -634,13 +634,13 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">кымшӱдӹ</l>
+         <l pos="Num">кымшӱдӹ</l>
          <stg>
-            <st Contlex="NumTag">кымшӱдӹ</st>
+            <st Contlex="NUM_">кымшӱдӹ</st>
          </stg>
          <stress>кымшӱ•дӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -653,32 +653,32 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">кымыт</l>
+         <l pos="Num">кымыт</l>
          <stg>
-            <st Contlex="NumTag">кымыт</st>
+            <st Contlex="NUM_">кымыт</st>
          </stg>
          <stress>кы•мыт</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">кӓндӓкш</l>
+         <l pos="Num">кӓндӓкш</l>
          <stg>
-            <st Contlex="NumTag">кӓндӓкш</st>
+            <st Contlex="NUM_">кӓндӓкш</st>
          </stg>
          <stress>кӓндӓ•кш</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -691,13 +691,13 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">кӓндӓкшлу</l>
+         <l pos="Num">кӓндӓкшлу</l>
          <stg>
-            <st Contlex="NumTag">кӓндӓкшлу</st>
+            <st Contlex="NUM_">кӓндӓкшлу</st>
          </stg>
          <stress>кӓндӓ•кшлу</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -710,13 +710,13 @@
    </e>
   <e xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" exclude="fst">
       <lg>
-         <l pos="NUM">кӓндӓкшлушы</l>
+         <l pos="Num">кӓндӓкшлушы</l>
          <stg>
-            <st Contlex="NumTag">кӓндӓкшлушы</st>
+            <st Contlex="NUM_">кӓндӓкшлушы</st>
          </stg>
          <stress>кӓндӓкшлу•шы</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -729,13 +729,13 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">кӓндӓкшшӱдӹ</l>
+         <l pos="Num">кӓндӓкшшӱдӹ</l>
          <stg>
-            <st Contlex="NumTag">кӓндӓкшшӱдӹ</st>
+            <st Contlex="NUM_">кӓндӓкшшӱдӹ</st>
          </stg>
          <stress>кӓндӓкшшӱ•дӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -748,13 +748,13 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">кӓндӓкшшӱдӹшӹ</l>
+         <l pos="Num">кӓндӓкшшӱдӹшӹ</l>
          <stg>
-            <st Contlex="NumTag">кӓндӓкшшӱдӹшӹ</st>
+            <st Contlex="NUM_">кӓндӓкшшӱдӹшӹ</st>
          </stg>
          <stress>кӓндӓкшшӱ•дӹшӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -767,51 +767,51 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">кӓндӓкшӹ</l>
+         <l pos="Num">кӓндӓкшӹ</l>
          <stg>
-            <st Contlex="NumTag">кӓндӓкшӹ</st>
+            <st Contlex="NUM_">кӓндӓкшӹ</st>
          </stg>
          <stress>кӓндӓ•кшӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">кӓндӓкшӹмшӹ</l>
+         <l pos="Num">кӓндӓкшӹмшӹ</l>
          <stg>
-            <st Contlex="NumTag">кӓндӓкшӹмшӹ</st>
+            <st Contlex="NUM_">кӓндӓкшӹмшӹ</st>
          </stg>
          <stress>кӓндӓ•кшӹмшӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">лу</l>
+         <l pos="Num">лу</l>
          <stg>
-            <st Contlex="NumTag">лу</st>
+            <st Contlex="NUM_">лу</st>
          </stg>
          <stress>лу</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -824,32 +824,32 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">луатвӹзӹт</l>
+         <l pos="Num">луатвӹзӹт</l>
          <stg>
-            <st Contlex="NumTag">луатвӹзӹт</st>
+            <st Contlex="NUM_">луатвӹзӹт</st>
          </stg>
          <stress>луатвӹ•зӹт</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">луатвӹц</l>
+         <l pos="Num">луатвӹц</l>
          <stg>
-            <st Contlex="NumTag">луатвӹц</st>
+            <st Contlex="NUM_">луатвӹц</st>
          </stg>
          <stress>луатвӹ•ц</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -862,13 +862,13 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">луатик</l>
+         <l pos="Num">луатик</l>
          <stg>
-            <st Contlex="NumTag">луатик</st>
+            <st Contlex="NUM_">луатик</st>
          </stg>
          <stress>луати•к</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -881,32 +881,32 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">луатиктӹ</l>
+         <l pos="Num">луатиктӹ</l>
          <stg>
-            <st Contlex="NumTag">луатиктӹ</st>
+            <st Contlex="NUM_">луатиктӹ</st>
          </stg>
          <stress>луати•ктӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">луаткок</l>
+         <l pos="Num">луаткок</l>
          <stg>
-            <st Contlex="NumTag">луаткок</st>
+            <st Contlex="NUM_">луаткок</st>
          </stg>
          <stress>луатко•к</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -919,32 +919,32 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">луаткокты</l>
+         <l pos="Num">луаткокты</l>
          <stg>
-            <st Contlex="NumTag">луаткокты</st>
+            <st Contlex="NUM_">луаткокты</st>
          </stg>
          <stress>луатко•кты</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">луаткуд</l>
+         <l pos="Num">луаткуд</l>
          <stg>
-            <st Contlex="NumTag">луаткуд</st>
+            <st Contlex="NUM_">луаткуд</st>
          </stg>
          <stress>луатку•д</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -957,32 +957,32 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">луаткудыт</l>
+         <l pos="Num">луаткудыт</l>
          <stg>
-            <st Contlex="NumTag">луаткудыт</st>
+            <st Contlex="NUM_">луаткудыт</st>
          </stg>
          <stress>луатку•дыт</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">луаткым</l>
+         <l pos="Num">луаткым</l>
          <stg>
-            <st Contlex="NumTag">луаткым</st>
+            <st Contlex="NUM_">луаткым</st>
          </stg>
          <stress>луаткы•м</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -995,32 +995,32 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">луаткымыт</l>
+         <l pos="Num">луаткымыт</l>
          <stg>
-            <st Contlex="NumTag">луаткымыт</st>
+            <st Contlex="NUM_">луаткымыт</st>
          </stg>
          <stress>луаткы•мыт</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">луаткӓндӓкш</l>
+         <l pos="Num">луаткӓндӓкш</l>
          <stg>
-            <st Contlex="NumTag">луаткӓндӓкш</st>
+            <st Contlex="NUM_">луаткӓндӓкш</st>
          </stg>
          <stress>луаткӓндӓ•кш</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -1033,13 +1033,13 @@
    </e>
   <e xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" exclude="fst">
       <lg>
-         <l pos="NUM">луаткӓндӓкшӹ</l>
+         <l pos="Num">луаткӓндӓкшӹ</l>
          <stg>
-            <st Contlex="NumTag">луаткӓндӓкшӹ</st>
+            <st Contlex="NUM_">луаткӓндӓкшӹ</st>
          </stg>
          <stress>луаткӓндӓ•кшӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -1052,13 +1052,13 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">луатнӹл</l>
+         <l pos="Num">луатнӹл</l>
          <stg>
-            <st Contlex="NumTag">луатнӹл</st>
+            <st Contlex="NUM_">луатнӹл</st>
          </stg>
          <stress>луатнӹ•л</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -1071,32 +1071,32 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">луатнӹлӹт</l>
+         <l pos="Num">луатнӹлӹт</l>
          <stg>
-            <st Contlex="NumTag">луатнӹлӹт</st>
+            <st Contlex="NUM_">луатнӹлӹт</st>
          </stg>
          <stress>луатнӹ•лӹт</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">луатшӹм</l>
+         <l pos="Num">луатшӹм</l>
          <stg>
-            <st Contlex="NumTag">луатшӹм</st>
+            <st Contlex="NUM_">луатшӹм</st>
          </stg>
          <stress>луатшӹ•м</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -1109,526 +1109,526 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">луатшӹмӹт</l>
+         <l pos="Num">луатшӹмӹт</l>
          <stg>
-            <st Contlex="NumTag">луатшӹмӹт</st>
+            <st Contlex="NUM_">луатшӹмӹт</st>
          </stg>
          <stress>луатшӹ•мӹт</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">луатӹндекш</l>
+         <l pos="Num">луатӹндекш</l>
          <stg>
-            <st Contlex="NumTag">луатӹндекш</st>
+            <st Contlex="NUM_">луатӹндекш</st>
          </stg>
          <stress>луатӹнде•кш</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">луатӹндекшӹ</l>
+         <l pos="Num">луатӹндекшӹ</l>
          <stg>
-            <st Contlex="NumTag">луатӹндекшӹ</st>
+            <st Contlex="NUM_">луатӹндекшӹ</st>
          </stg>
          <stress>луатӹнде•кшӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">луцкы</l>
+         <l pos="Num">луцкы</l>
          <stg>
-            <st Contlex="NumTag">луцкы</st>
+            <st Contlex="NUM_">луцкы</st>
          </stg>
          <stress>лу•цкы</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">лушы</l>
+         <l pos="Num">лушы</l>
          <stg>
-            <st Contlex="NumTag">лушы</st>
+            <st Contlex="NUM_">лушы</st>
          </stg>
          <stress>лу•шы</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">миллиард</l>
+         <l pos="Num">миллиард</l>
          <stg>
-            <st Contlex="NumTag">миллиард</st>
+            <st Contlex="NUM_">миллиард</st>
          </stg>
          <stress>миллиа•рд</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">миллион</l>
+         <l pos="Num">миллион</l>
          <stg>
-            <st Contlex="NumTag">миллион</st>
+            <st Contlex="NUM_">миллион</st>
          </stg>
          <stress>миллио•н</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">нӹл</l>
+         <l pos="Num">нӹл</l>
          <stg>
-            <st Contlex="NumTag">нӹл</st>
+            <st Contlex="NUM_">нӹл</st>
          </stg>
          <stress>нӹл</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">нӹллӹ</l>
+         <l pos="Num">нӹллӹ</l>
          <stg>
-            <st Contlex="NumTag">нӹллӹ</st>
+            <st Contlex="NUM_">нӹллӹ</st>
          </stg>
          <stress>нӹ•ллӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">нӹллӹшӹ</l>
+         <l pos="Num">нӹллӹшӹ</l>
          <stg>
-            <st Contlex="NumTag">нӹллӹшӹ</st>
+            <st Contlex="NUM_">нӹллӹшӹ</st>
          </stg>
          <stress>нӹ•ллӹшӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">нӹлшӱдӹ</l>
+         <l pos="Num">нӹлшӱдӹ</l>
          <stg>
-            <st Contlex="NumTag">нӹлшӱдӹ</st>
+            <st Contlex="NUM_">нӹлшӱдӹ</st>
          </stg>
          <stress>нӹлшӱ•дӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">нӹлшӱдӹшӹ</l>
+         <l pos="Num">нӹлшӱдӹшӹ</l>
          <stg>
-            <st Contlex="NumTag">нӹлшӱдӹшӹ</st>
+            <st Contlex="NUM_">нӹлшӱдӹшӹ</st>
          </stg>
          <stress>нӹлшӱ•дӹшӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">нӹлӹмшӹ</l>
+         <l pos="Num">нӹлӹмшӹ</l>
          <stg>
-            <st Contlex="NumTag">нӹлӹмшӹ</st>
+            <st Contlex="NUM_">нӹлӹмшӹ</st>
          </stg>
          <stress>нӹ•лӹмшӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">нӹлӹт</l>
+         <l pos="Num">нӹлӹт</l>
          <stg>
-            <st Contlex="NumTag">нӹлӹт</st>
+            <st Contlex="NUM_">нӹлӹт</st>
          </stg>
          <stress>нӹ•лӹт</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">триллион</l>
+         <l pos="Num">триллион</l>
          <stg>
-            <st Contlex="NumTag">триллион</st>
+            <st Contlex="NUM_">триллион</st>
          </stg>
          <stress>триллио•н</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">тӹжем</l>
+         <l pos="Num">тӹжем</l>
          <stg>
-            <st Contlex="NumTag">тӹжем</st>
+            <st Contlex="NUM_">тӹжем</st>
          </stg>
          <stress>тӹже•м</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">тӹжемшӹ</l>
+         <l pos="Num">тӹжемшӹ</l>
          <stg>
-            <st Contlex="NumTag">тӹжемшӹ</st>
+            <st Contlex="NUM_">тӹжемшӹ</st>
          </stg>
          <stress>тӹже•мшӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">шӱдӹ</l>
+         <l pos="Num">шӱдӹ</l>
          <stg>
-            <st Contlex="NumTag">шӱдӹ</st>
+            <st Contlex="NUM_">шӱдӹ</st>
          </stg>
          <stress>шӱ•дӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">шӱдӹшӹ</l>
+         <l pos="Num">шӱдӹшӹ</l>
          <stg>
-            <st Contlex="NumTag">шӱдӹшӹ</st>
+            <st Contlex="NUM_">шӱдӹшӹ</st>
          </stg>
          <stress>шӱ•дӹшӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">шӹм</l>
+         <l pos="Num">шӹм</l>
          <stg>
-            <st Contlex="NumTag">шӹм</st>
+            <st Contlex="NUM_">шӹм</st>
          </stg>
          <stress>шӹм</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">шӹмлу</l>
+         <l pos="Num">шӹмлу</l>
          <stg>
-            <st Contlex="NumTag">шӹмлу</st>
+            <st Contlex="NUM_">шӹмлу</st>
          </stg>
          <stress>шӹ•млу</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">шӹмлушы</l>
+         <l pos="Num">шӹмлушы</l>
          <stg>
-            <st Contlex="NumTag">шӹмлушы</st>
+            <st Contlex="NUM_">шӹмлушы</st>
          </stg>
          <stress>шӹмлу•шы</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">шӹмшӱдӹ</l>
+         <l pos="Num">шӹмшӱдӹ</l>
          <stg>
-            <st Contlex="NumTag">шӹмшӱдӹ</st>
+            <st Contlex="NUM_">шӹмшӱдӹ</st>
          </stg>
          <stress>шӹмшӱ•дӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">шӹмшӱдӹшӹ</l>
+         <l pos="Num">шӹмшӱдӹшӹ</l>
          <stg>
-            <st Contlex="NumTag">шӹмшӱдӹшӹ</st>
+            <st Contlex="NUM_">шӹмшӱдӹшӹ</st>
          </stg>
          <stress>шӹмшӱ•дӹшӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">шӹмшӹ</l>
+         <l pos="Num">шӹмшӹ</l>
          <stg>
-            <st Contlex="NumTag">шӹмшӹ</st>
+            <st Contlex="NUM_">шӹмшӹ</st>
          </stg>
          <stress>шӹ•мшӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">шӹмӹт</l>
+         <l pos="Num">шӹмӹт</l>
          <stg>
-            <st Contlex="NumTag">шӹмӹт</st>
+            <st Contlex="NUM_">шӹмӹт</st>
          </stg>
          <stress>шӹ•мӹт</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">ӹндекш</l>
+         <l pos="Num">ӹндекш</l>
          <stg>
-            <st Contlex="NumTag">ӹндекш</st>
+            <st Contlex="NUM_">ӹндекш</st>
          </stg>
          <stress>ӹнде•кш</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="NUM"></t>
+            <t pos="Num"></t>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="NUM">ӹндекшлу</l>
+         <l pos="Num">ӹндекшлу</l>
          <stg>
-            <st Contlex="NumTag">ӹндекшлу</st>
+            <st Contlex="NUM_">ӹндекшлу</st>
          </stg>
          <stress>ӹнде•кшлу</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -1641,13 +1641,13 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">ӹндекшлушы</l>
+         <l pos="Num">ӹндекшлушы</l>
          <stg>
-            <st Contlex="NumTag">ӹндекшлушы</st>
+            <st Contlex="NUM_">ӹндекшлушы</st>
          </stg>
          <stress>ӹндекшлу•шы</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -1660,13 +1660,13 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">ӹндекшшӱдӹ</l>
+         <l pos="Num">ӹндекшшӱдӹ</l>
          <stg>
-            <st Contlex="NumTag">ӹндекшшӱдӹ</st>
+            <st Contlex="NUM_">ӹндекшшӱдӹ</st>
          </stg>
          <stress>ӹндекшшӱ•дӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -1679,13 +1679,13 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">ӹндекшшӱдӹшӹ</l>
+         <l pos="Num">ӹндекшшӱдӹшӹ</l>
          <stg>
-            <st Contlex="NumTag">ӹндекшшӱдӹшӹ</st>
+            <st Contlex="NUM_">ӹндекшшӱдӹшӹ</st>
          </stg>
          <stress>ӹндекшшӱ•дӹшӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -1698,13 +1698,13 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">ӹндекшӹ</l>
+         <l pos="Num">ӹндекшӹ</l>
          <stg>
-            <st Contlex="NumTag">ӹндекшӹ</st>
+            <st Contlex="NUM_">ӹндекшӹ</st>
          </stg>
          <stress>ӹнде•кшӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>
@@ -1717,13 +1717,13 @@
    </e>
   <e>
       <lg>
-         <l pos="NUM">ӹндекшӹмшӹ</l>
+         <l pos="Num">ӹндекшӹмшӹ</l>
          <stg>
-            <st Contlex="NumTag">ӹндекшӹмшӹ</st>
+            <st Contlex="NUM_">ӹндекшӹмшӹ</st>
          </stg>
          <stress>ӹнде•кшӹмшӹ</stress>
       </lg>
-      <pos>NUM</pos>
+      <pos>Num</pos>
       <mg>
          <m>
             <head/>

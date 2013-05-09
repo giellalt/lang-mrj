@@ -4,13 +4,13 @@
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e>
       <lg>
-         <l pos="INTERJ">а</l>
+         <l pos="Interj">а</l>
          <stg>
-            <st Contlex="InterjTag">а</st>
+            <st Contlex="INTERJ_">а</st>
          </stg>
          <stress>а</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -23,13 +23,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">ага</l>
+         <l pos="Interj">ага</l>
          <stg>
-            <st Contlex="InterjTag">ага</st>
+            <st Contlex="INTERJ_">ага</st>
          </stg>
          <stress>ага•</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -42,13 +42,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">ай</l>
+         <l pos="Interj">ай</l>
          <stg>
-            <st Contlex="InterjTag">ай</st>
+            <st Contlex="INTERJ_">ай</st>
          </stg>
          <stress>ай</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -61,13 +61,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">алло</l>
+         <l pos="Interj">алло</l>
          <stg>
-            <st Contlex="InterjTag">алло</st>
+            <st Contlex="INTERJ_">алло</st>
          </stg>
          <stress>алло•</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -80,13 +80,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">альок</l>
+         <l pos="Interj">альок</l>
          <stg>
-            <st Contlex="InterjTag">альок</st>
+            <st Contlex="INTERJ_">альок</st>
          </stg>
          <stress>альок</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -99,13 +99,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">атат</l>
+         <l pos="Interj">атат</l>
          <stg>
-            <st Contlex="InterjTag">атат</st>
+            <st Contlex="INTERJ_">атат</st>
          </stg>
          <stress>атат</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -118,13 +118,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">батюшки</l>
+         <l pos="Interj">батюшки</l>
          <stg>
-            <st Contlex="InterjTag">батюшки</st>
+            <st Contlex="INTERJ_">батюшки</st>
          </stg>
          <stress>ба•тюшки</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -137,13 +137,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">йывылдик</l>
+         <l pos="Interj">йывылдик</l>
          <stg>
-            <st Contlex="InterjTag">йывылдик</st>
+            <st Contlex="INTERJ_">йывылдик</st>
          </stg>
          <stress>йывылди•к</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -156,13 +156,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">караул</l>
+         <l pos="Interj">караул</l>
          <stg>
-            <st Contlex="InterjTag">караул</st>
+            <st Contlex="INTERJ_">караул</st>
          </stg>
          <stress>карау•л</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -175,13 +175,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">кӹш</l>
+         <l pos="Interj">кӹш</l>
          <stg>
-            <st Contlex="InterjTag">кӹш</st>
+            <st Contlex="INTERJ_">кӹш</st>
          </stg>
          <stress>кӹш</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -194,13 +194,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">макар</l>
+         <l pos="Interj">макар</l>
          <stg>
-            <st Contlex="InterjTag">макар</st>
+            <st Contlex="INTERJ_">макар</st>
          </stg>
          <stress>макар</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -213,13 +213,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">мотри</l>
+         <l pos="Interj">мотри</l>
          <stg>
-            <st Contlex="InterjTag">мотри</st>
+            <st Contlex="INTERJ_">мотри</st>
          </stg>
          <stress>мотри•</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -232,13 +232,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">мотрӓй</l>
+         <l pos="Interj">мотрӓй</l>
          <stg>
-            <st Contlex="InterjTag">мотрӓй</st>
+            <st Contlex="INTERJ_">мотрӓй</st>
          </stg>
          <stress>мотрӓй</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -251,13 +251,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">нӓ</l>
+         <l pos="Interj">нӓ</l>
          <stg>
-            <st Contlex="InterjTag">нӓ</st>
+            <st Contlex="INTERJ_">нӓ</st>
          </stg>
          <stress>нӓ</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -270,13 +270,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">нӓмӓ</l>
+         <l pos="Interj">нӓмӓ</l>
          <stg>
-            <st Contlex="InterjTag">нӓмӓ</st>
+            <st Contlex="INTERJ_">нӓмӓ</st>
          </stg>
          <stress>нӓмӓ</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -289,13 +289,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">нӓӓй</l>
+         <l pos="Interj">нӓӓй</l>
          <stg>
-            <st Contlex="InterjTag">нӓӓй</st>
+            <st Contlex="INTERJ_">нӓӓй</st>
          </stg>
          <stress>нӓӓй</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -308,13 +308,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">пыйца</l>
+         <l pos="Interj">пыйца</l>
          <stg>
-            <st Contlex="InterjTag">пыйца</st>
+            <st Contlex="INTERJ_">пыйца</st>
          </stg>
          <stress>пы•йца</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -327,13 +327,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">пытьыри</l>
+         <l pos="Interj">пытьыри</l>
          <stg>
-            <st Contlex="InterjTag">пытьыри</st>
+            <st Contlex="INTERJ_">пытьыри</st>
          </stg>
          <stress>пытьы•ри</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -346,13 +346,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">пӧчӧк</l>
+         <l pos="Interj">пӧчӧк</l>
          <stg>
-            <st Contlex="InterjTag">пӧчӧк</st>
+            <st Contlex="INTERJ_">пӧчӧк</st>
          </stg>
          <stress>пӧ•чӧк</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -365,13 +365,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">роккаляге</l>
+         <l pos="Interj">роккаляге</l>
          <stg>
-            <st Contlex="InterjTag">роккаляге</st>
+            <st Contlex="INTERJ_">роккаляге</st>
          </stg>
          <stress>роккаляге•</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -384,13 +384,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">сӧ</l>
+         <l pos="Interj">сӧ</l>
          <stg>
-            <st Contlex="InterjTag">сӧ</st>
+            <st Contlex="INTERJ_">сӧ</st>
          </stg>
          <stress>сӧ</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -403,13 +403,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">сӧвичӹ</l>
+         <l pos="Interj">сӧвичӹ</l>
          <stg>
-            <st Contlex="InterjTag">сӧвичӹ</st>
+            <st Contlex="INTERJ_">сӧвичӹ</st>
          </stg>
          <stress>сӧви•чӹ</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -422,13 +422,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">сӧгуды</l>
+         <l pos="Interj">сӧгуды</l>
          <stg>
-            <st Contlex="InterjTag">сӧгуды</st>
+            <st Contlex="INTERJ_">сӧгуды</st>
          </stg>
          <stress>сӧгу•ды</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -441,13 +441,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">сӧдӱгӹ</l>
+         <l pos="Interj">сӧдӱгӹ</l>
          <stg>
-            <st Contlex="InterjTag">сӧдӱгӹ</st>
+            <st Contlex="INTERJ_">сӧдӱгӹ</st>
          </stg>
          <stress>сӧдӱ•гӹ</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -460,13 +460,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">сӱнзӹ</l>
+         <l pos="Interj">сӱнзӹ</l>
          <stg>
-            <st Contlex="InterjTag">сӱнзӹ</st>
+            <st Contlex="INTERJ_">сӱнзӹ</st>
          </stg>
          <stress>сӱ•нзӹ</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -479,13 +479,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">тига</l>
+         <l pos="Interj">тига</l>
          <stg>
-            <st Contlex="InterjTag">тига</st>
+            <st Contlex="INTERJ_">тига</st>
          </stg>
          <stress>ти•га</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -498,13 +498,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">тырлай</l>
+         <l pos="Interj">тырлай</l>
          <stg>
-            <st Contlex="InterjTag">тырлай</st>
+            <st Contlex="INTERJ_">тырлай</st>
          </stg>
          <stress>ты•рлай</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -517,13 +517,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">тырлай-итӓй</l>
+         <l pos="Interj">тырлай-итӓй</l>
          <stg>
-            <st Contlex="InterjTag">тырлай-итӓй</st>
+            <st Contlex="INTERJ_">тырлай-итӓй</st>
          </stg>
          <stress>ты•рлай-и•тӓй</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -536,13 +536,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">чук-чук</l>
+         <l pos="Interj">чук-чук</l>
          <stg>
-            <st Contlex="InterjTag">чук-чук</st>
+            <st Contlex="INTERJ_">чук-чук</st>
          </stg>
          <stress>чу•к-чу•к</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -555,13 +555,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">чур</l>
+         <l pos="Interj">чур</l>
          <stg>
-            <st Contlex="InterjTag">чур</st>
+            <st Contlex="INTERJ_">чур</st>
          </stg>
          <stress>чур</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -574,13 +574,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">ша</l>
+         <l pos="Interj">ша</l>
          <stg>
-            <st Contlex="InterjTag">ша</st>
+            <st Contlex="INTERJ_">ша</st>
          </stg>
          <stress>ша</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -593,13 +593,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">шабаш</l>
+         <l pos="Interj">шабаш</l>
          <stg>
-            <st Contlex="InterjTag">шабаш</st>
+            <st Contlex="INTERJ_">шабаш</st>
          </stg>
          <stress>шаба•ш</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -612,13 +612,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">шатын</l>
+         <l pos="Interj">шатын</l>
          <stg>
-            <st Contlex="InterjTag">шатын</st>
+            <st Contlex="INTERJ_">шатын</st>
          </stg>
          <stress>ша•тын</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -631,13 +631,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">шеремет</l>
+         <l pos="Interj">шеремет</l>
          <stg>
-            <st Contlex="InterjTag">шеремет</st>
+            <st Contlex="INTERJ_">шеремет</st>
          </stg>
          <stress>шере•мет</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -650,13 +650,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">шӹл</l>
+         <l pos="Interj">шӹл</l>
          <stg>
-            <st Contlex="InterjTag">шӹл</st>
+            <st Contlex="INTERJ_">шӹл</st>
          </stg>
          <stress>шӹл</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -669,13 +669,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">эр-эр</l>
+         <l pos="Interj">эр-эр</l>
          <stg>
-            <st Contlex="InterjTag">эр-эр</st>
+            <st Contlex="INTERJ_">эр-эр</st>
          </stg>
          <stress>эр-эр</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -688,13 +688,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">ӓлдӓ</l>
+         <l pos="Interj">ӓлдӓ</l>
          <stg>
-            <st Contlex="InterjTag">ӓлдӓ</st>
+            <st Contlex="INTERJ_">ӓлдӓ</st>
          </stg>
          <stress>ӓ•лдӓ</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -707,13 +707,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">ӓлдӓдӓ</l>
+         <l pos="Interj">ӓлдӓдӓ</l>
          <stg>
-            <st Contlex="InterjTag">ӓлдӓдӓ</st>
+            <st Contlex="INTERJ_">ӓлдӓдӓ</st>
          </stg>
          <stress>ӓлдӓ•дӓ</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>
@@ -726,13 +726,13 @@
    </e>
   <e>
       <lg>
-         <l pos="INTERJ">ӹш-ш</l>
+         <l pos="Interj">ӹш-ш</l>
          <stg>
-            <st Contlex="InterjTag">ӹш-ш</st>
+            <st Contlex="INTERJ_">ӹш-ш</st>
          </stg>
          <stress>ӹш-ш</stress>
       </lg>
-      <pos>INTERJ</pos>
+      <pos>Interj</pos>
       <mg>
          <m>
             <head/>

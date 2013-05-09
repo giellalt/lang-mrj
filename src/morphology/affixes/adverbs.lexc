@@ -7,7 +7,7 @@
 !! !!Interj lexica 
 ! ============ !
 
-LEXICON InterjTag  !!= * @CODE@ 
+LEXICON INTERJ_  !!= * @CODE@ 
 +Interj: K ;
 
 
@@ -19,11 +19,11 @@ LEXICON InterjTag  !!= * @CODE@
 ! This contlex allows for relational word which, otherwise, are open 
 ! to extensive declension
 
-LEXICON PostpTag  !!= * @CODE@ 
+LEXICON POSTP_  !!= * @CODE@ 
 +Po: K ;
 
 
-LEXICON Ad-ATag !!= * @CODE@ 
+LEXICON Ad-A_ !!= * @CODE@ 
 +AdA: # ;
 
 LEXICON ADV_ ! 
@@ -37,13 +37,13 @@ LEXICON ADV_ОЛМА !
 LEXICON DESCR_
 +Adv+Descr: K ;
 
-LEXICON SpatTag
+LEXICON SPAT_
 +Spat: K ;
 
 
 !!Temporal tags with cases
 
-LEXICON TempTag  !!= * @CODE@ 
+LEXICON TEMP_  !!= * @CODE@ 
 +Adv+Temp: K ;
 
 
@@ -76,7 +76,7 @@ LEXICON Pcle-Qst
 LEXICON Pcle-Superl
 +Pcle+Superl: # ;
 
-LEXICON PcleTag
+LEXICON PCLE_
 +Pcle: # ;
 
 
