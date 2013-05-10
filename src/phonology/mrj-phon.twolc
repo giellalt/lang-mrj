@@ -89,7 +89,7 @@ Rules
            %>: ж Ы2: %>: _  ;
 
 "Onset vowel loss in suffix Е3"
-   Е3:0 <=> :Vow %>: _ ;
+   Е3:0 <=> [ ю | ӱ | у | ё | о | ӧ | и | е | э | а | ӓ ] %>: _ ;
            %>: ж Ы2: %>: _  ;
 
 
@@ -105,11 +105,11 @@ Rules
 
 "Stem final ы loss before Е2"
 ы:0 <=> #: Cons* Vow Cons+ _ %>  Е2: ;
-           _ %> А1: ;
+           _ %> [ А1: | Е2: | Е3: ] ;
 
 "Stem final ӹ loss before Е2"
 ӹ:0 <=> #: Cons* Vow Cons+ _ %> Е2: ;
-           _ %> А1: ;
+           _ %> [ А1: | Е2: | Е3: ] ;
 
 
 "Onset vowel Ы1 realized in suffix"
