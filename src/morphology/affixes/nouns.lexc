@@ -80,6 +80,22 @@ LEXICON N_ОЛМА !!= @CODE@  олма:олма
 +N+Pl+Nom+PxSg2:влӓэт K ;
 +N+Sg+Lat+PxSg3:%>эшЫ1жЫ1	   K  ;
 
+LEXICON N_ӒВӒ !!= @CODE@  ӓвӓ:ӓвӓ
++N: NMN_OBLIQUE-INDEFINITE ;
++N: NMN_OBLIQUE-POSSESSA ;
++N+Sg+Nom: 	  K	; 
++N+PxSg1+Sg+Nom:эм K ;
++N+PxSg1+Sg+Nom:м K ; !! Special
++N+PxSg1+Pl+Nom:эмвлӓ K ;
++N+PxSg1+Pl+Nom:мвлӓ K ;
++N+Pl+Nom+PxSg1:влӓэм K ;
++N+PxSg2+Sg+Nom:эт K ;
++N+PxSg2+Sg+Nom:т K ; !! Special
++N+PxSg2+Pl+Nom:этвлӓ K ;
++N+PxSg2+Pl+Nom:твлӓ K ;
++N+Pl+Nom+PxSg2:влӓэт K ;
++N+Sg+Lat+PxSg3:%>эшЫ1жЫ1	   K  ;
+
 LEXICON NMN_OBLIQUE-INDEFINITE
 +Sg+Gen:%>Ы1н K ; ! 
 +Sg+Acc:%>Ы1м K ; !
@@ -370,7 +386,7 @@ LEXICON PXSG2-PL-INE
 LEXICON PXSG2-PL-LAT 
 +Pl+Lat+PxSg2:влӓэшет	   K  ;
 !+PxSg2+Pl+Lat:%>Е3твлӓэш   K  ;
-+PxSg2+Pl+Lat:%>Е3твлӓш   K  ;
++PxSg2+Pl+Lat:%>Е3твлӓэш   K  ;
 
 LEXICON PXSG2-PL-NOM 
 +PxSg2+Pl+Nom:%>Е2твлӓ	   K  ;
