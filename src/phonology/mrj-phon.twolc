@@ -104,10 +104,12 @@ Rules
 Е2:э <=> [ ю | ӱ | у | ё | о | ӧ | и | е | э | а | ӓ ] %> _ ;
 
 "Stem final ы loss before Е2"
-ы:0 <=> #: Cons* Vow Cons+ _ %> Е2: ;
+ы:0 <=> #: Cons* Vow Cons+ _ %>  Е2: ;
+           _ %> А1: ;
 
 "Stem final ӹ loss before Е2"
 ӹ:0 <=> #: Cons* Vow Cons+ _ %> Е2: ;
+           _ %> А1: ;
 
 
 "Onset vowel Ы1 realized in suffix"
