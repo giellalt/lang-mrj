@@ -29,6 +29,7 @@ Alphabet
 
 !! Trigger
 %^ConsTransf:0
+%^KIN:0 ! with ӓвӓ in +PxSg1+Sg+Gen etc.
 
 ! Boundary symbols
 ! old !  +  /  {  _  $  }  @  ~  &  #
@@ -70,7 +71,7 @@ Definitions
 
 ! LFC = [ :NonLabVow | :FrontLabVow | Е2: | :е | :ӹ | :Ӹ ] \[ #: | :BackLabVow | ы | Ы ]* ;
 
-LBC = [ :BackVow ] ( %>: | %^ConsTransf:0 | BackVow | А1:а | Ы1:ы | Ы1:0 | Е3:0 | Ы2:ы | Cons: )* ;
+LBC = [ :BackVow ] ( %>: | %^ConsTransf:0 | %^KIN:0 | BackVow | А1:а | А1:я | Ы1:ы | Ь2:0 | Ы1:0 | Е3:0 | Ы2:ы | Cons: )* ;
 
 
 Rules
@@ -85,11 +86,11 @@ Rules
 
 ! JMR 2012-09-18
 "Onset vowel loss in suffix Ы1"
-   Ы1:0 <=> :Vow %>: _ ;
+   Ы1:0 <=> :Vow ( %^KIN:0 ) %>: _ ;
            %>: ж Ы2: %>: _  ;
 
 "Onset vowel loss in suffix Е3"
-   Е3:0 <=> [ ю | ӱ | у | ё | о | ӧ | и | е | э | а | ӓ ] %>: _ ;
+   Е3:0 <=> [ ю | ӱ | у | ё | о | ӧ | и | е | э | а | ӓ ] %^KIN:0 %>: _ ;
            %>: ж Ы2: %>: _  ;
 
 
@@ -103,6 +104,9 @@ Rules
 "Onset vowel Е2:э after retained vowel"
 Е2:э <=> [ ю | ӱ | у | ё | о | ӧ | и | е | э | а | ӓ ] %> _ ;
 
+"Onset vowel Е3:э after retained vowel"
+Е3:э <=> [ ю | ӱ | у | ё | о | ӧ | и | е | э | а | ӓ ] %> _ ;
+
 "Stem final ы loss before Е2"
 ы:0 <=> #: Cons* Vow Cons+ _ %>  Е2: ;
            _ %> [ А1: | Е2: | Е3: ] ;
@@ -113,7 +117,7 @@ Rules
 
 
 "Onset vowel Ы1 realized in suffix"
-  Ы1:ы <=> [ LBC  Cons ( %>: )| LBC [ н | л ] Ь2: %>: | BackVow й: %> ] _ ;
+  Ы1:ы <=> [ LBC  Cons ( %>: )| LBC ( н | л ) Ь2: %>: | BackVow й: ( Ь2:0 ) %> ] _ ;
 ![[ Cons | й ]+ %>: | %>: [ %>: | BackVow | е | ArchiVow: | Cons ]* [ Cons | й ] ( %>: ) ] _ ;
 
 !"Onset vowel Ы1 realized in suffix"
@@ -134,7 +138,7 @@ Rules
 
 "suffix-final vowel backed "
  Ы2:ы <=> LBC Cons _ ;
-          LBC й %> [ ж | ш т ] _ ;
+          LBC й ( %^ConsTransf:0 ) %> [ ж | ш т ] _ ;
 
 !! !!Consonant loss or transformation
 
@@ -196,7 +200,7 @@ Rules
 !Work 2012-10-29!           й:0 %>: _  ;
 
 "й Deletion in front of я Suffix and others"
-  й:0 <=> _ %>: [ :я | :е | :и | :ю ]  ;
+  й:0 <=> _ ( %^ConsTransf:0 ) %>: [ :я | :е | :и | :ю ]  ;
 
 
 !Work 2012-10-29!"Clitics in At and Ak take onset glide"
@@ -204,4 +208,4 @@ Rules
 
 ! Devoicing
 "Onset consonant devoicing"
- ж:ш <=> [ Cst | ж ] %>: _ Ы2: ;
+ ж:ш <=> [ :Cst ( :0 ) | ж ] ( %^ConsTransf:0 ) %>: _ Ы2: ;

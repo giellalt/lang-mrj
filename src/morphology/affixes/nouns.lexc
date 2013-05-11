@@ -82,7 +82,7 @@ LEXICON N_ОЛМА !!= @CODE@  олма:олма
 
 LEXICON N_ӒВӒ !!= @CODE@  ӓвӓ:ӓвӓ
 +N: NMN_OBLIQUE-INDEFINITE ;
-+N: NMN_OBLIQUE-POSSESSA ;
++N:%^KIN NMN_OBLIQUE-POSSESSA ;
 +N+Sg+Nom: 	  K	; 
 +N+PxSg1+Sg+Nom:эм K ;
 +N+PxSg1+Sg+Nom:м K ; !! Special
