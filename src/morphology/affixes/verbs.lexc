@@ -100,28 +100,28 @@ LEXICON V_ЕМ
 !! !am verbs
 
 LEXICON INDPRSSG1-am
-+Ind+Prs+Sg1:%>ам K ;
++Ind+Prs+Sg1:%>А1м K ;
 
 LEXICON INDPRSSG2-am
-+Ind+Prs+Sg2:%>ат K ;
++Ind+Prs+Sg2:%>А1т K ;
 
 LEXICON INDPRSSG3-am
 +Ind+Prs+Sg3:%>еш K ; 
 
 LEXICON INDPRSPL1-am
-+Ind+Prs+Pl1:%>ынА1 K ;
++Ind+Prs+Pl1:%>Ы1нА1 K ;
 
 LEXICON INDPRSPL2-am
-+Ind+Prs+Pl2:%>ыдА1 K ;
++Ind+Prs+Pl2:%>Ы1дА1 K ;
 
 LEXICON INDPRSPL3-am
-+Ind+Prs+Pl3:%>ыт K ;
++Ind+Prs+Pl3:%>Ы1т K ;
 
 LEXICON INDPRSCONNEG-am
-+Ind+Prs+ConNeg: K ;
++Ind+Prs+ConNeg:%^ConsTransf K ;
 
 LEXICON INDPRSPL3CONNEG-am
-+Ind+Prs+Pl3+ConNeg:%>еп K ;
++Ind+Prs+Pl3+ConNeg:%^ConsTransf%>еп K ;
 
 !! !em verbs
 
@@ -174,10 +174,10 @@ LEXICON INDPRT1PL3-am
 +Ind+Prt1+Pl3:%>Е2вӹ K ; !
 
 LEXICON INDPRT1CONNEG-am
-+Ind+Prt1+ConNeg: K ;
++Ind+Prt1+ConNeg:%^ConsTransf K ;
 
 LEXICON INDPRT1PL3CONNEG-am
-+Ind+Prt1+Pl3+ConNeg:%>еп K ;
++Ind+Prt1+Pl3+ConNeg:%^ConsTransf%>еп K ;
 
 !! !em
 
@@ -235,17 +235,17 @@ LEXICON INDPRT2NEG-am
  INDPRT2NEGPL3-am ;
 
 LEXICON	INDPRT2NEGSG1-am
-+Ind+Prt2+Neg+Sg1:%>делам K ;
++Ind+Prt2+Neg+Sg1:%^ConsTransf%>делам K ;
 LEXICON	INDPRT2NEGSG2-am
-+Ind+Prt2+Neg+Sg2:%>делат K ;
++Ind+Prt2+Neg+Sg2:%^ConsTransf%>делат K ;
 LEXICON	INDPRT2NEGSG3-am
-+Ind+Prt2+Neg+Sg3:%>де K ;
++Ind+Prt2+Neg+Sg3:%^ConsTransf%>де K ;
 LEXICON	INDPRT2NEGPL1-am
-+Ind+Prt2+Neg+Pl1:%>делна K ;
++Ind+Prt2+Neg+Pl1:%^ConsTransf%>делна K ;
 LEXICON	INDPRT2NEGPL2-am
-+Ind+Prt2+Neg+Pl2:%>делда K ;
++Ind+Prt2+Neg+Pl2:%^ConsTransf%>делда K ;
 LEXICON	INDPRT2NEGPL3-am
-+Ind+Prt2+Neg+Pl3:%>делыт K ;
++Ind+Prt2+Neg+Pl3:%^ConsTransf%>делыт K ;
 
 !! !em
 
@@ -295,7 +295,7 @@ LEXICON IMPRTSG2-am
 +Imprt+Sg2:%^ConsTransf K ; !
 
 LEXICON IMPRTSG3-am
-+Imprt+Sg3:%>жЫ2 K ;
++Imprt+Sg3:%^ConsTransf%>жЫ2 K ;
 
 LEXICON IMPRTPL2-am
 +Imprt+Pl2:%>дА1 K ; !
@@ -337,17 +337,17 @@ LEXICON DES-am
  DESPL2-am ;
  DESPL3-am ;
 LEXICON DESSG1-am
-+Des+Sg1:%>нем K ;
++Des+Sg1:%^ConsTransf%>нем K ;
 LEXICON DESSG2-am
-+Des+Sg2:%>нет K ;
++Des+Sg2:%^ConsTransf%>нет K ;
 LEXICON DESSG3-am
-+Des+Sg3:%>нежӹ K ;
++Des+Sg3:%^ConsTransf%>нежӹ K ;
 LEXICON DESPL1-am
-+Des+Pl1:%>ненӓ K ;
++Des+Pl1:%^ConsTransf%>ненӓ K ;
 LEXICON DESPL2-am
-+Des+Pl2:%>недӓ K ;
++Des+Pl2:%^ConsTransf%>недӓ K ;
 LEXICON DESPL3-am
-+Des+Pl3:%>нештӹ K ;
++Des+Pl3:%^ConsTransf%>нештӹ K ;
 
 LEXICON DES-em
  DESSG1-em ;
