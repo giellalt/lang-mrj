@@ -208,4 +208,4 @@ Rules
 
 ! Devoicing
 "Onset consonant devoicing"
- ж:ш <=> [ :Cst ( :0 ) | ж ] ( %^ConsTransf:0 ) %>: _ Ы2: ;
+ ж:ш <=> [ :Cst ( :0 ) | ж ] ( %^ConsTransf:0 ) %>: _ [ Ы1: | Ы2: ] ;
