@@ -33,9 +33,11 @@ LEXICON Ad-A_ !!= * @CODE@
 
 LEXICON ADV_ ! 
 +Adv: K ;
++Adv+Comp:%>рак # ;
 
 LEXICON ADV_КОЛ ! 
  ADV_ ;
+
 LEXICON ADV_ОЛМА ! 
  ADV_ ;
 
