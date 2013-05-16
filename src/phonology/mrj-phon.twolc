@@ -155,9 +155,9 @@ Rules
 н:0 <=>  _ з: %^ConsTransf:0 ;
 
 
-!Work 2012-10-29!"suffix-final vowel loss after stem-final vowel"
-!Work 2012-10-29!  Ы2:0 <=> Vow %>: [ Ы1: ш [ т | к ] | ж: ] _ %>: [ л | г | Ы1: ш | ш | д | Е2: | А2: ] ;
-!Work 2012-10-29!           Cons %>: [ Ы1: ш [ т | к ] | ж: ] _ %>: [ е ш | А2: ] ;
+"suffix-final vowel loss after stem-final vowel"
+  Ы2:0 <=>     Cons %>: [ Ы1: ш [ т | к ] | ж: ] _ %>: [ е ш | А2: | Ы1: ] ;
+! Vow %>: [ Ы1: ш [ т | к ] | ж: ] _ %>: [ л | г | Ы1: ш | ш | д | Е2: | А2: ] ;
 
 !"suffix-final vowel realized after stem-final consonant"
 ! Ы2:ы <=>  LBC %>: [ ж: | д Ы2: м | ( Ы1: ) м | ( Ы1: ) ш ] _ [ #: | %>: [ л | г | ш [ т | к ] | д | Ы1: [ м | н ] ]] ;
