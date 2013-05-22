@@ -5,7 +5,7 @@ LEXICON adjectives
 абажуран:абажуран A_  "lampunvarjostimella varustettu" ;
 абажурдымы:абажурдымы A_  "(ilman) lampunvarjostinta oleva" ;
 абзацан:абзацан A_  "tekstikappaleella (varustettu)" ;
-абзацдымы:абзацдымы A_  "" ;
+абзацдымы:абзацдымы A_  "ilman tekstikappaletta" ;
 аваридӹмӹ:аваридӹмӹ A_  "ilman haaksirikkoa oleva" ;
 авариӓн:авариӓн A_  "" ;
 аварцылык:аварцылык NTag  "taikina аварцы varten" ;
@@ -15,11 +15,11 @@ LEXICON adjectives
 августыштышы:августыштышы A_  "elokuinen" ;
 автобиографиӓн:автобиографиӓн A_  "omaelämäkerrallinen" ;
 автографан:автографан A_  "signeerattu" ;
-автографдымы:автографдымы A_  "" ;
-автомобильдӹмӹ:автомобильдӹмӹ A_  "" ;
-автомобильӹштӹшӹ:автомобильӹштӹшӹ A_  "" ;
-автомобилян:автомобилян A_  "" ;
-автономидӹмӹ:автономидӹмӹ A_  "" ;
+автографдымы:автографдымы A_  "ilman allekirjoitusta" ;
+автомобильдӹмӹ:автомобильдӹмӹ A_  "ilman autoa oleva" ;
+автомобильӹштӹшӹ:автомобильӹштӹшӹ A_  "autossa oleva" ;
+автомобилян:автомобилян A_  "autoa omistava" ;
+автономидӹмӹ:автономидӹмӹ A_  "ei-autonominen" ;
 автономиӓн:автономиӓн A_  "autonominen" ;
 автономный:автономный A_  "" ;
 авторитетдӹмӹ:авторитетдӹмӹ A_  "" ;
@@ -30,7 +30,7 @@ LEXICON adjectives
 агентурыштышы:агентурыштышы A_  "agenttitoiminnassa oleva" ;
 аграрный:аграрный A_  "agraarinen" ;
 агрегатан:агрегатан A_  "laitetta omaava" ;
-агрегатдымы:агрегатдымы A_  "" ;
+агрегатдымы:агрегатдымы A_  "ilman laitetta oleva" ;
 агрессивный:агрессивный A_  "agressiivinen" ;
 агротехникӓн:агротехникӓн A_  "maataloustekniikan kanssa oleva" ;
 агротехникӹдӹмӹ:агротехникӹдӹмӹ A_  "ilman maataloustekniikkaa oleva" ;
@@ -49,9 +49,9 @@ LEXICON adjectives
 аккуратный:аккуратный A_  "siisti" ;
 аксараса:аксараса A_  "?!" ;
 аксиоман:аксиоман A_  "aksiomin kanssa" ;
-аксиомыдымы:аксиомыдымы A_  "" ;
-актан:актан A_  "" ;
-актдымы:актдымы A_  "" ;
+аксиомыдымы:аксиомыдымы A_  "ilman aksioomaa oleva" ;
+актан:актан A_  "pöytäkirjalla varustettu" ;
+актдымы:актдымы A_  "ilman pöytäkirjaa oleva" ;
 активный:активный A_  "aktiivinen" ;
 актовый:актовый A_  "auditorio=" ;
 актуальный:актуальный A_  "ajankohtainen" ;
