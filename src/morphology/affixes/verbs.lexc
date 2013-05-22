@@ -51,6 +51,16 @@ LEXICON V_АМ !!= @CODE@ ӹштӓш:ӹшт
 +V+PrcPss+Der/ЫмЫ:%>мЫ2 N_ТӸРВӸ ;
 +V+PrcNeg+Der/ЫдЫмЫ:%>дЫ2мЫ2 N_ТӸРВӸ ;
 
+LEXICON V_АМ-SG3 !! пелӓш: онг пелеш
++V: INDPRSSG3-am ;
++V: INDPRSCONNEG-am ;
++V: INDPRT1SG3-am ;
++V: INDPRT1CONNEG-am ;
++V: INDPRT2SG3-am ;
++V: IMPRTSG3-am ;
++V: DESSG3-am ;
+
+
 LEXICON V_ЕМ
 +V: INDPRSSG1-em ;
 +V: INDPRSSG2-em ;
@@ -94,6 +104,17 @@ LEXICON V_ЕМ
 +V+PrcAct+Der/ЫшЫ:%>Ы1шЫ2 N_ТӸРВӸ ;
 +V+PrcPss+Der/ЫмЫ:%>Ы1мЫ2 N_ТӸРВӸ ;
 +V+PrcNeg+Der/ЫдЫмЫ:%>Ы1дЫ2мЫ2 N_ТӸРВӸ ;
+
+LEXICON V_АМ-SG3 !! хӹдӹртӓш: хӹдӹртӹ
++V: INDPRSSG3-em ;
++V: INDPRSCONNEG-em ;
++V: INDPRT1SG3-em ;
++V: INDPRT1CONNEG-em ;
++V: INDPRT2SG3-em ;
++V: IMPRTSG3-em ;
++V: DESSG3-em ;
+
+
 
 !! !!NONPAST 
 
