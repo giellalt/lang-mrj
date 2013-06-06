@@ -46,10 +46,10 @@ LEXICON V_АМ !!= @CODE@ ӹштӓш:ӹшт
 +V: DES-am ;
 
 +V: INF ;
-+V+PrcAct:%>шЫ2 K  ; !! Contlex needed
-+V+PrcAct+Der/ЫшЫ:%>шЫ2 N_ТӸРВӸ ;
-+V+PrcPss+Der/ЫмЫ:%>мЫ2 N_ТӸРВӸ ;
-+V+PrcNeg+Der/ЫдЫмЫ:%>дЫ2мЫ2 N_ТӸРВӸ ;
++V+PrcAct:%>шЫ2 NMN_ТӸРВӸ ; !! Contlex needed
++V+PrcAct+Der/ЫшЫ:%>шЫ2 NMN_ТӸРВӸ ;
++V+PrcPss+Der/ЫмЫ:%>мЫ2 NMN_ТӸРВӸ ;
++V+PrcNeg+Der/ЫдЫмЫ:%>дЫ2мЫ2 NMN_ТӸРВӸ ;
 
 LEXICON V_АМ-SG3 !! пелӓш: онг пелеш
 +V: INDPRSSG3-am ;
