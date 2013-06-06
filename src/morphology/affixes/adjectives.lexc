@@ -11,17 +11,17 @@
 LEXICON A_  !!= * @CODE@ 
 +A: # ;
 +A+Comp:%>рак # ;
-+A+Der/N: N_ОЛМА ; !! This should be neutral 2013-05-11
++A+Der/N: NMN_ОЛМА ; !! This should be neutral 2013-05-11
 
 LEXICON A_ОЛМА !!= * @CODE@
 +A: # ;
 +A+Comp:%>рак # ;
-+A+Der/N: N_ОЛМА ;
++A+Der/N: NMN_ОЛМА ;
 
 LEXICON A_ТӸРВӸ  !!= * @CODE@
 +A: # ;
 +A+Comp:%>рак # ;
-+A+Der/N: N_ТӸРВӸ ;
++A+Der/N: NMN_ТӸРВӸ ;
 
 
 
