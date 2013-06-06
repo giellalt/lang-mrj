@@ -25,20 +25,24 @@ LEXICON N_КОЛ !!= @CODE@ кол:кол
 
 LEXICON N_ТӸРВӸ !!= * @CODE@ тӹрвӹ:тӹрвӹ
 !! The stem vowel "е" is found with possessor indices and the lative
-+N: NMN_OBLIQUE-INDEFINITE ;
-+N: NMN_OBLIQUE-POSSESSA ;
-+N+Sg+Nom: 	  K	; 
-+N+Sg+Lat:%>Е2ш 	  K	; 
-!+N+PxSg1+Sg+Nom:%>Е2м K ;
-!+N+PxSg1+Pl+Nom:%>Е2мвлӓ K ;
-+N+Pl+Nom+PxSg1:влӓэм K ;
-!+N+PxSg2+Sg+Nom:%>Е2т K ;
-!+N+PxSg2+Pl+Nom:Е2твлӓ K ;
-+N+Pl+Nom+PxSg2:влӓэт K ;
-+N+Sg+Lat+PxSg1:%>Е2шем	   K  ;
-+N+Sg+Lat+PxSg3:%>Е2шЫ1жЫ1	   K  ;
-!+N+PxSg1:%>Е2м SG-ABEACCCOMDATGEN ;
-+N+PxSg1:эм PL-ABEACCCOMDATGENILLINELATNOM ;
++N: NMN_ТӸРВӸ ;
+
+LEXICON NMN_ТӸРВӸ !!= * @CODE@ тӹрвӹ:тӹрвӹ
+!! The stem vowel "е" is found with possessor indices and the lative
+ NMN_OBLIQUE-INDEFINITE ;
+ NMN_OBLIQUE-POSSESSA ;
++Sg+Nom: 	  K	; 
++Sg+Lat:%>Е2ш 	  K	; 
+!+PxSg1+Sg+Nom:%>Е2м K ;
+!+PxSg1+Pl+Nom:%>Е2мвлӓ K ;
++Pl+Nom+PxSg1:влӓэм K ;
+!+PxSg2+Sg+Nom:%>Е2т K ;
+!+PxSg2+Pl+Nom:Е2твлӓ K ;
++Pl+Nom+PxSg2:влӓэт K ;
++Sg+Lat+PxSg1:%>Е2шем	   K  ;
++Sg+Lat+PxSg3:%>Е2шЫ1жЫ1	   K  ;
+!+PxSg1:%>Е2м SG-ABEACCCOMDATGEN ;
++PxSg1:эм PL-ABEACCCOMDATGENILLINELATNOM ;
  
 LEXICON SG-ABEACCCOMDATGEN
 +Sg+Abe:де K ;
@@ -67,18 +71,21 @@ LEXICON N_ПОЧТА !!= @CODE@  почта:почта
 +N+Sg+Nom: 	  K	; 
 
 LEXICON N_ОЛМА !!= @CODE@  олма:олма
-+N: NMN_OBLIQUE-INDEFINITE ;
-+N: NMN_OBLIQUE-POSSESSA ;
-+N+Sg+Nom: 	  K	; 
-+N+PxSg1+Sg+Nom:эм K ;
-+N+PxSg1+Pl+Nom:эмвлӓ K ;
-+N+PxSg1+Pl+Nom:мвлӓ K ;
-+N+Pl+Nom+PxSg1:влӓэм K ;
-+N+PxSg2+Sg+Nom:эт K ;
-+N+PxSg2+Pl+Nom:этвлӓ K ;
-+N+PxSg2+Pl+Nom:твлӓ K ;
-+N+Pl+Nom+PxSg2:влӓэт K ;
-+N+Sg+Lat+PxSg3:%>эшЫ1жЫ1	   K  ;
++N: NMN_ОЛМА ;
+
+LEXICON NMN_ОЛМА !!= @CODE@  олма:олма
+ NMN_OBLIQUE-INDEFINITE ;
+ NMN_OBLIQUE-POSSESSA ;
++Sg+Nom: 	  K	; 
++PxSg1+Sg+Nom:эм K ;
++PxSg1+Pl+Nom:эмвлӓ K ;
++PxSg1+Pl+Nom:мвлӓ K ;
++Pl+Nom+PxSg1:влӓэм K ;
++PxSg2+Sg+Nom:эт K ;
++PxSg2+Pl+Nom:этвлӓ K ;
++PxSg2+Pl+Nom:твлӓ K ;
++Pl+Nom+PxSg2:влӓэт K ;
++Sg+Lat+PxSg3:%>эшЫ1жЫ1	   K  ;
 
 LEXICON N_ӒВӒ !!= @CODE@  ӓвӓ:ӓвӓ
 +N: NMN_OBLIQUE-INDEFINITE ;
