@@ -8,17 +8,17 @@ Alphabet
 
 ! Archiphonemes for vowels
 !  е1:е а1:а и1:и у1:у ӱ1:ӱ
-!  Е1:Е А1:А И1:И У1:У Ӱ1:Ӱ
+!  Е1:Е %{аӓ%}:А И1:И У1:У Ӱ1:Ӱ
 !JMR 2012-09-18
-! А1:а 
- А1:ӓ
+! %{аӓ%}:а 
+ %{аӓ%}:ӓ
 
  Е3:е !ӓвӓмвлӓ 
  Е2:е
 ! Е2:0
-! Ы1:ы
- Ы1:ӹ
-! Ы1:0
+! %{ыӹ0%}:ы
+ %{ыӹ0%}:ӹ
+! %{ыӹ0%}:0
 ! Ы2:ы
  Ы2:ӹ
 ! Ы2:0
@@ -53,7 +53,7 @@ FrontLabVow =   ӧ ӱ Ӧ Ӱ;
 NonLabVow =   ӓ а е и э я Ӓ А Е И Э Я ;
 Vow =  BackLabVow FrontLabVow NonLabVow ы Ы  ӹ Ӹ ; 
 BackVow = BackLabVow а А ы Ы ;
-ArchiVow = Ы1 Ы2 А1 ;
+ArchiVow = %{ыӹ0%} Ы2 %{аӓ%} ;
 
 Cons =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш 
         Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш ;
@@ -71,7 +71,7 @@ Definitions
 
 ! LFC = [ :NonLabVow | :FrontLabVow | Е2: | :е | :ӹ | :Ӹ ] \[ #: | :BackLabVow | ы | Ы ]* ;
 
-LBC = [ :BackVow ] ( %>: | %^ConsTransf:0 | %^KIN:0 | BackVow | А1:а | А1:я | Ы1:ы | Ь2:0 | Ы1:0 | Е3:0 | Ы2:ы | Cons: )* ;
+LBC = [ :BackVow ] ( %>: | %^ConsTransf:0 | %^KIN:0 | BackVow | %{аӓ%}:а | %{аӓ%}:я | %{ыӹ0%}:ы | Ь2:0 | %{ыӹ0%}:0 | Е3:0 | Ы2:ы | Cons: )* ;
 
 
 Rules
@@ -82,11 +82,11 @@ Rules
    ! JMR 2012-09-18
       
 "Ь2:ь Palatal mark for V_АМ +Prt1+Sg1"
-Ь2:ь <=> [ н | л ] _ %> Ы1: ;
+Ь2:ь <=> [ н | л ] _ %> %{ыӹ0%}: ;
 
 ! JMR 2012-09-18
-"Onset vowel loss in suffix Ы1"
-   Ы1:0 <=> :Vow ( %^KIN:0 ) %>: _ ;
+"Onset vowel loss in suffix %{ыӹ0%}"
+   %{ыӹ0%}:0 <=> :Vow ( %^KIN:0 ) %>: _ ;
            %>: ж Ы2: %>: _  ;
 
 "Onset vowel loss in suffix Е3"
@@ -109,29 +109,29 @@ Rules
 
 "Stem final ы loss before Е2"
 ы:0 <=> #: Cons* Vow Cons+ _ %>  Е2: ;
-           _ %> [ А1: | Е2: | Е3: ] ;
+           _ %> [ %{аӓ%}: | Е2: | Е3: ] ;
 
 "Stem final ӹ loss before Е2"
 ӹ:0 <=> #: Cons* Vow Cons+ _ %> Е2: ;
-           _ %> [ А1: | Е2: | Е3: ] ;
+           _ %> [ %{аӓ%}: | Е2: | Е3: ] ;
 
 
-"Onset vowel Ы1 realized in suffix"
-  Ы1:ы <=> [ LBC  Cons ( %>: )| LBC ( н | л ) Ь2: %>: | BackVow й: ( Ь2:0 ) %> ] _ ;
+"Onset vowel %{ыӹ0%} realized in suffix"
+  %{ыӹ0%}:ы <=> [ LBC  Cons ( %>: )| LBC ( н | л ) Ь2: %>: | BackVow й: ( Ь2:0 ) %> ] _ ;
 ![[ Cons | й ]+ %>: | %>: [ %>: | BackVow | е | ArchiVow: | Cons ]* [ Cons | й ] ( %>: ) ] _ ;
 
-!"Onset vowel Ы1 realized in suffix"
-!  Ы1:ӹ <=> LFC [ Cons | й ] %>: _ ;
+!"Onset vowel %{ыӹ0%} realized in suffix"
+!  %{ыӹ0%}:ӹ <=> LFC [ Cons | й ] %>: _ ;
 
-!"Affix mid or final front А1:ӓ"
-! А1:ӓ <=> LFC _ ;
+!"Affix mid or final front %{аӓ%}:ӓ"
+! %{аӓ%}:ӓ <=> LFC _ ;
 
-"Affix mid or final back А1:а"
- А1:а <=> LBC (й %> Ы1: м ) _ ;
+"Affix mid or final back %{аӓ%}:а"
+ %{аӓ%}:а <=> LBC (й %> %{ыӹ0%}: м ) _ ;
           BackVow  й: %^ConsTransf:0 %>: [ н | д ] _ ;
 
-"Affix mid or final back А1:я"
- А1:я <=> й: %> _ ;
+"Affix mid or final back %{аӓ%}:я"
+ %{аӓ%}:я <=> й: %> _ ;
 
 "Affix initial back а:я"
  а:я <=> й: %> _ ;
@@ -156,32 +156,32 @@ Rules
 
 
 "suffix-final vowel loss after stem-final vowel"
-  Ы2:0 <=>     Cons %>: [ Ы1: ш [ т | к ] | ж: ] _ %>: [ е ш | А2: | Ы1: ] ;
-! Vow %>: [ Ы1: ш [ т | к ] | ж: ] _ %>: [ л | г | Ы1: ш | ш | д | Е2: | А2: ] ;
+  Ы2:0 <=>     Cons %>: [ %{ыӹ0%}: ш [ т | к ] | ж: ] _ %>: [ е ш | А2: | %{ыӹ0%}: ] ;
+! Vow %>: [ %{ыӹ0%}: ш [ т | к ] | ж: ] _ %>: [ л | г | %{ыӹ0%}: ш | ш | д | Е2: | А2: ] ;
 
 !"suffix-final vowel realized after stem-final consonant"
-! Ы2:ы <=>  LBC %>: [ ж: | д Ы2: м | ( Ы1: ) м | ( Ы1: ) ш ] _ [ #: | %>: [ л | г | ш [ т | к ] | д | Ы1: [ м | н ] ]] ;
+! Ы2:ы <=>  LBC %>: [ ж: | д Ы2: м | ( %{ыӹ0%}: ) м | ( %{ыӹ0%}: ) ш ] _ [ #: | %>: [ л | г | ш [ т | к ] | д | %{ыӹ0%}: [ м | н ] ]] ;
 !          LBC %>: д _ м Ы2: ;
-!Work 2012-10-29!!            %>:  Ы1: ш [ т | к ]  _ %>: Ы1: ;
+!Work 2012-10-29!!            %>:  %{ыӹ0%}: ш [ т | к ]  _ %>: %{ыӹ0%}: ;
 
 !Work 2012-10-29!"suffix-final vowel realized as -Round in word-final position"
-!Work 2012-10-29!  Ы2:е <=> :NonLabVow [ Cons | й | :ы | :0 ]* %>: ( ( ж: [ Ы2:е | Ы2:ы | Ы2:0 ] %>: ) [ Ы1: | ы ] ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ #: | %- ] ;
-!Work 2012-10-29!           :NonLabVow [ Cons | :ы | :0 ]* %>: [ ж: ] _ %> Ы1: ш [ #: | %- | %>: ] ;
+!Work 2012-10-29!  Ы2:е <=> :NonLabVow [ Cons | й | :ы | :0 ]* %>: ( ( ж: [ Ы2:е | Ы2:ы | Ы2:0 ] %>: ) [ %{ыӹ0%}: | ы ] ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ #: | %- ] ;
+!Work 2012-10-29!           :NonLabVow [ Cons | :ы | :0 ]* %>: [ ж: ] _ %> %{ыӹ0%}: ш [ #: | %- | %>: ] ;
 !Work 2012-10-29!
 !Work 2012-10-29!"suffix-final vowel realized as +Back +Round in word-final position"
-!Work 2012-10-29!  Ы2:о <=> :BackLabVow [ Cons | :ы | :0 ]* %>: ( ( ж: [ Ы2:о | Ы2:ы | Ы2:0 ] %>: ) Ы1: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ #: | %- ] ;
-!Work 2012-10-29!           :BackLabVow [ Cons | :ы | :0 ]* %>: [ ж: ] _ %> Ы1: ш [ #: | %- | %>: ] ;
+!Work 2012-10-29!  Ы2:о <=> :BackLabVow [ Cons | :ы | :0 ]* %>: ( ( ж: [ Ы2:о | Ы2:ы | Ы2:0 ] %>: ) %{ыӹ0%}: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ #: | %- ] ;
+!Work 2012-10-29!           :BackLabVow [ Cons | :ы | :0 ]* %>: [ ж: ] _ %> %{ыӹ0%}: ш [ #: | %- | %>: ] ;
 !Work 2012-10-29!
 !Work 2012-10-29!"suffix-final vowel realized as +Front +Round in word-final position"
-!Work 2012-10-29!  Ы2:ӧ <=> :FrontLabVow [ Cons | :ы | :0 ]* %>: ( ( ж: [ Ы2:ӧ | Ы2:ы | Ы2:0 ] %>: ) Ы1: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ #: | %- ] ;
-!Work 2012-10-29!           :FrontLabVow [ Cons | :ы | :0 ]* %>: [ ж: ] _ %> Ы1: ш [ #: | %- | %>: ] ;
+!Work 2012-10-29!  Ы2:ӧ <=> :FrontLabVow [ Cons | :ы | :0 ]* %>: ( ( ж: [ Ы2:ӧ | Ы2:ы | Ы2:0 ] %>: ) %{ыӹ0%}: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ #: | %- ] ;
+!Work 2012-10-29!           :FrontLabVow [ Cons | :ы | :0 ]* %>: [ ж: ] _ %> %{ыӹ0%}: ш [ #: | %- | %>: ] ;
 !Work 2012-10-29!
 !Work 2012-10-29!! Retaining stem-final _е1_ in adjectives and nouns
 !Work 2012-10-29!! It has been removed from Vem stems
 !Work 2012-10-29!! _е1_ follows much the same pattern as _Ы2_
 !Work 2012-10-29!!
 !Work 2012-10-29!"suffix-final vowel realized after stem-final consonant"
-!Work 2012-10-29!  е1:ы <=>  Cons _ %>: [ л | г | ш | д | Ы1: ] ;
+!Work 2012-10-29!  е1:ы <=>  Cons _ %>: [ л | г | ш | д | %{ыӹ0%}: ] ;
 !Work 2012-10-29!
 !Work 2012-10-29!"suffix-final vowel realized as -Round in word-final position"
 !Work 2012-10-29!  е1:е <=> NonLabVow [ Cons | ы ]* Cons _ [ #: | %- ] ;
@@ -208,4 +208,4 @@ Rules
 
 ! Devoicing
 "Onset consonant devoicing"
- ж:ш <=> [ :Cst ( :0 ) | ж ] ( %^ConsTransf:0 ) %>: _ [ Ы1: | Ы2: ] ;
+ ж:ш <=> [ :Cst ( :0 ) | ж ] ( %^ConsTransf:0 ) %>: _ [ %{ыӹ0%}: | Ы2: ] ;
