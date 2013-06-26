@@ -137,8 +137,8 @@ Rules
  а:я <=> й: %> _ ;
 
 "suffix-final vowel backed "
- Ы2:ы <=> LBC Cons _ ;
-          LBC й ( %^ConsTransf:0 ) %> [ ж | ш т ] _ ;
+ Ы2:ы <=> LBC Cons _ [ %>: Cons: | # ] ;
+          LBC й ( %^ConsTransf:0 ) %> [ ж | ш т ] _ [ %>: Cons: | # ] ;
 
 !! !!Consonant loss or transformation
 
@@ -155,7 +155,7 @@ Rules
 н:0 <=>  _ з: %^ConsTransf:0 ;
 
 
-"suffix-final vowel loss after stem-final vowel"
+"suffix-final vowel loss before subsequent suffix-initial vowel"
   Ы2:0 <=>     Cons %>: [ %{ыӹ0%}: ш [ т | к ] | ж: ] _ %>: [ е ш | А2: | %{ыӹ0%}: ] ;
 ! Vow %>: [ %{ыӹ0%}: ш [ т | к ] | ж: ] _ %>: [ л | г | %{ыӹ0%}: ш | ш | д | Е2: | А2: ] ;
 
