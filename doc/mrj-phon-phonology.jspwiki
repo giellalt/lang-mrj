@@ -1,0 +1,115 @@
+
+!!!Hill Mari twol file
+
+!!Alphabet, Sets and Definitions
+
+
+!Letters of the alphabet
+
+ * а б в г д е ё ж з и й к л м н ҥ о ӧ п р с т у ӱ ф х ц ч ш щ ъ ы ь э ю я ӓ ӹ 
+ * А Б В Г Д Е Ё Ж З И Й К Л М Н Ҥ О Ӧ П Р С Т У Ӱ Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я Ӓ Ӹ 
+
+!Archiphonemes for vowels
+aä
+
+ *  Е3:е  ӓвӓмвлӓ 
+ *  Е2:е  
+ыӹ
+ *  Ы2:ӹ   
+ *  А2:а  
+
+ *  Ь2:0   except with V АМ +Prt1+Sg1-3
+
+!Triggers
+
+ * %^ConsTransf:0  
+ * %^KIN:0   with ӓвӓ in +PxSg1+Sg+Gen etc.
+
+!Boundary symbols
+
+
+ *  %>  
+* hash
+ *  %-  
+
+
+
+
+* Sets 
+
+
+
+
+
+
+
+* Definitions
+
+
+
+
+
+!!!Rules
+
+
+!!Palatalisation
+
+__Palatal mark loss before vowel__  
+
+__Ь2:ь Palatal mark for V АМ +Prt1+Sg1__  
+
+
+!!Vowel rules
+__Onset vowel loss in suffix ыӹ0__  
+
+__Onset vowel loss in suffix Е3__  
+
+
+__Onset vowel loss in suffix Е2__  
+
+
+
+__Onset vowel Е2:э after retained vowel__  
+
+__Onset vowel Е3:э after retained vowel__  
+
+__Stem final ы loss before Е2__  
+
+__Stem final ӹ loss before Е2__  
+
+
+!!Vowel harmony
+
+__Onset vowel ыӹ0 realized in suffix__  
+
+
+
+__Affix mid or final back %{аӓ%}:а__  
+
+__Affix mid or final back %{аӓ%}:я__  
+
+__Affix initial back а:я__  
+
+__suffix-final vowel backed __  
+
+!!Consonant loss or transformation
+
+__т:0 in am type verbs __ лӓктӓш:лӓкнӓ
+
+__к:0 in am type verbs __ качкаш:качна
+
+__з:ц in am type verbs __ вазаш:вацна
+
+__н:0 before з:ц in am type verbs __ негӹнзӓш:негӹц
+
+!!Vowel again
+
+__suffix-final vowel loss before subsequent suffix-initial vowel __  
+
+
+
+__й Deletion in front of я Suffix and others__  
+
+
+
+__Onset consonant devoicing __  
