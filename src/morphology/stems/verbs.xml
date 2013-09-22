@@ -26381,7 +26381,7 @@
       <tg xml:lang="fin">
         <t pos="V">aidata</t>
 
-        <t pos="V">aoidoittaa</t>
+        <t pos="V">aidoittaa</t>
 
         <t pos="V">eristää</t>
 
@@ -71571,7 +71571,7 @@
       <m>
         <head/>
 
-        <defNative>утен кемеш ваштылаш - nauraa katkeakseen </defNative>
+        <defNative>утен кемеш ваштылаш - nauraa katkeakseen</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -73307,7 +73307,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">iskeä; kolhaista</t>
       </tg>
     </mg>
   </e>
@@ -73329,11 +73329,13 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>доносым ӹштӓш</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">ilmiantaa</t>
+
+        <tf pos="V">tehdä ilmianto</tf>
       </tg>
     </mg>
   </e>
@@ -73359,7 +73361,15 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">jäätyä</t>
+
+        <tCtn>
+          <t>jäätyä</t>
+
+          <re>maapinta</re>
+        </tCtn>
+
+        <t pos="V">käristyä</t>
       </tg>
     </mg>
   </e>
@@ -73385,7 +73395,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">paistaa; käristää</t>
       </tg>
     </mg>
   </e>
@@ -73411,7 +73421,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">rätistä; räiskyä</t>
       </tg>
     </mg>
   </e>
@@ -73437,7 +73447,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">terästää</t>
       </tg>
     </mg>
   </e>
@@ -73463,7 +73473,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">terästyä</t>
+
+        <tf pos="V">voimistua maultaan</tf>
       </tg>
     </mg>
   </e>
@@ -73489,7 +73501,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kirvellä</t>
       </tg>
     </mg>
   </e>
@@ -73511,11 +73523,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>санзал цажгыжтара</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <td pos="V">aiheuttaa kirvelyä</td>
       </tg>
     </mg>
   </e>
@@ -73541,7 +73553,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kirveltää</t>
       </tg>
     </mg>
   </e>
@@ -73567,7 +73579,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">huomata; havaita</t>
       </tg>
     </mg>
   </e>
@@ -73593,7 +73605,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <tf pos="V">antaa ymmärtää</tf>
+
+        <t pos="V">ilmaista; osoittaa</t>
       </tg>
     </mg>
   </e>
@@ -73619,7 +73633,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">repiä; pirstoa; hajottaa</t>
       </tg>
     </mg>
   </e>
@@ -73645,7 +73659,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">pirstoutua; hajota</t>
       </tg>
     </mg>
   </e>
@@ -73671,7 +73685,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">repiä; lovittaa</t>
+
+        <tf pos="V">kuoria puuta</tf>
       </tg>
     </mg>
   </e>
@@ -73697,7 +73713,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">loveta</t>
       </tg>
     </mg>
   </e>
@@ -73723,7 +73739,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">vikistä</t>
       </tg>
     </mg>
   </e>
@@ -73749,7 +73765,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">haljeta</t>
       </tg>
     </mg>
   </e>
@@ -73775,7 +73791,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">halkoa; pilkkoa</t>
       </tg>
     </mg>
   </e>
@@ -73801,7 +73817,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">vahvistaa</t>
       </tg>
     </mg>
   </e>
@@ -73827,7 +73843,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">vahvistua; lujittaa</t>
       </tg>
     </mg>
   </e>
@@ -73853,7 +73869,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">yrittää; koettaa</t>
       </tg>
     </mg>
   </e>
@@ -73879,7 +73895,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <tf pos="V">koetella vähän</tf>
       </tg>
     </mg>
   </e>
@@ -73905,7 +73921,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">karkeuttaa</t>
       </tg>
     </mg>
   </e>
@@ -73931,7 +73947,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">karkeutua</t>
       </tg>
     </mg>
   </e>
@@ -73957,7 +73973,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">punertua; punastua; kaunistua</t>
       </tg>
     </mg>
   </e>
@@ -73983,7 +73999,13 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kaunistaa; seljetä</t>
+
+        <tCtn>
+          <t>seljetä</t>
+
+          <re>sää</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -74009,7 +74031,13 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kaunistua; kukkia; seljetä</t>
+
+        <tCtn>
+          <t>seljetä</t>
+
+          <re>sää</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -74035,7 +74063,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kaunistua; sievistyä; somistua</t>
       </tg>
     </mg>
   </e>
@@ -74061,7 +74089,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">somistaa</t>
       </tg>
     </mg>
   </e>
@@ -74087,7 +74115,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">punata; punertaa; punastuttaa</t>
       </tg>
     </mg>
   </e>
@@ -74113,7 +74141,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">tähdätä</t>
       </tg>
     </mg>
   </e>
@@ -74139,7 +74167,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">sementoida</t>
       </tg>
     </mg>
   </e>
@@ -74165,7 +74193,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kahlehtia</t>
+
+        <tf pos="V">sitoa kahleisiin</tf>
       </tg>
     </mg>
   </e>
@@ -74187,11 +74217,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>синоним: сепнӓш</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">törmätä</t>
       </tg>
     </mg>
   </e>
@@ -74217,7 +74247,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">sairastuttaa; tartuttaa</t>
       </tg>
     </mg>
   </e>
@@ -74243,7 +74273,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">sairastua; sairastaa</t>
       </tg>
     </mg>
   </e>
@@ -74269,7 +74299,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <tf pos="V">rakentaa säleaita</tf>
       </tg>
     </mg>
   </e>
@@ -74295,7 +74325,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">pelleillä; ilveillä</t>
       </tg>
     </mg>
   </e>
@@ -74321,7 +74351,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">työntää</t>
+
+        <td pos="V">tunkea läpi - usein</td>
       </tg>
     </mg>
   </e>
@@ -74347,33 +74379,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
-      </tg>
-    </mg>
-  </e>
+        <t pos="V">rajata</t>
 
-  <e>
-    <lg>
-      <l pos="V">цикӓлтӓш</l>
-
-      <stg>
-        <st Contlex="V_АМ">цикӓлт</st>
-      </stg>
-
-      <stress>цикӓ•лтӓш</stress>
-    </lg>
-
-    <pos>V</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg xml:lang="fin">
-        <t pos="V"/>
+        <tf pos="V">vetää rajaviiva</tf>
       </tg>
     </mg>
   </e>
@@ -74399,7 +74407,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">tunkea</t>
       </tg>
     </mg>
   </e>
@@ -74425,7 +74433,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kätkeä; pistää; tunkea</t>
+
+        <tf pos="V">pistää läpi</tf>
       </tg>
     </mg>
   </e>
@@ -74451,7 +74461,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">siteerata; lainata</t>
       </tg>
     </mg>
   </e>
@@ -74477,7 +74487,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">sirittää</t>
       </tg>
     </mg>
   </e>
@@ -74503,7 +74513,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">ritistä; rätistä</t>
       </tg>
     </mg>
   </e>
@@ -74525,11 +74535,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>цадымакташ</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">rätistä; räiskyä</t>
       </tg>
     </mg>
   </e>
@@ -74555,7 +74565,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <td pos="V">olla leikattavissa - vilja</td>
       </tg>
     </mg>
   </e>
@@ -74577,11 +74587,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>цодыртке тӹредӓш</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <td pos="V">leikata viljaa ripeästi</td>
       </tg>
     </mg>
   </e>
@@ -74607,7 +74617,13 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">pihistä</t>
+
+        <tCtn>
+          <t>pihisee</t>
+
+          <re>märät puut</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -74633,7 +74649,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kimaltaa; kiiltää</t>
       </tg>
     </mg>
   </e>
@@ -74659,7 +74675,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <tf pos="V">tehdä kiiltävää</tf>
       </tg>
     </mg>
   </e>
@@ -74685,7 +74701,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <tf pos="V">lyödä metalliesinettä</tf>
       </tg>
     </mg>
   </e>
@@ -74711,7 +74727,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kumista</t>
       </tg>
     </mg>
   </e>
@@ -74737,7 +74753,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kumisuttaa</t>
       </tg>
     </mg>
   </e>
@@ -74763,7 +74779,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kilistä; kumista</t>
       </tg>
     </mg>
   </e>
@@ -74789,7 +74805,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <tf pos="V">kuulua kilinää</tf>
       </tg>
     </mg>
   </e>
@@ -74815,7 +74831,13 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kilistellä</t>
+
+        <tCtn>
+          <t>kilistellä</t>
+
+          <re>pulloilla</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -74841,7 +74863,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">maiskutella</t>
       </tg>
     </mg>
   </e>
@@ -74867,7 +74889,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">vikistä</t>
       </tg>
     </mg>
   </e>
@@ -74893,7 +74915,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">parkua</t>
       </tg>
     </mg>
   </e>
@@ -74919,7 +74941,13 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">sirittää</t>
+
+        <tCtn>
+          <t>sirittää</t>
+
+          <re>heinäsirkat</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -74941,11 +74969,17 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>цорт доно чертяш</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <td pos="V">tehdä piirros</td>
+
+        <tCtn>
+          <t>piirustaa</t>
+
+          <re>kirvesmiehet</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -74971,7 +75005,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">&lt;</t>
       </tg>
     </mg>
   </e>
@@ -74997,7 +75031,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">hakata</t>
       </tg>
     </mg>
   </e>
@@ -75023,7 +75057,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <tf pos="V">kaataa metsää</tf>
       </tg>
     </mg>
   </e>
@@ -75049,7 +75083,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kahista</t>
       </tg>
     </mg>
   </e>
@@ -75071,11 +75105,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>цулгыжалтеш веле йыла</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <tf pos="V">palaa voimakkaan kirkkaasti</tf>
       </tg>
     </mg>
   </e>
@@ -75101,7 +75135,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <tf pos="V">palaa kirkkaasti</tf>
       </tg>
     </mg>
   </e>
@@ -75127,7 +75161,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kolista; kolisuttaa</t>
       </tg>
     </mg>
   </e>
@@ -75153,7 +75187,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">vannoa</t>
       </tg>
     </mg>
   </e>
@@ -75175,11 +75209,13 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>синоним: мучыялташ</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kitua</t>
+
+        <tf pos="V">nähdä tuskaa</tf>
       </tg>
     </mg>
   </e>
@@ -75205,7 +75241,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">piinata</t>
+
+        <td pos="V">saattaa tuskalliseen tilaan</td>
       </tg>
     </mg>
   </e>
@@ -75231,7 +75269,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">lyödä; kolkuttaa; koputtaa</t>
       </tg>
     </mg>
   </e>
@@ -75257,7 +75295,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <tf pos="V">peittyä rakkuloilla</tf>
       </tg>
     </mg>
   </e>
@@ -75283,7 +75321,13 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">pilaantua</t>
+
+        <tCtn>
+          <t>pilaantua</t>
+
+          <re>hautomisen jälkeen pilallisia kanamunia</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -75309,7 +75353,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <tf pos="V">antaa pilaantua</tf>
       </tg>
     </mg>
   </e>
@@ -75335,7 +75379,13 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kihistä</t>
+
+        <tCtn>
+          <t>kihistä</t>
+
+          <re>vesi ennen kiehumista</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -75361,7 +75411,13 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kihistä</t>
+
+        <tCtn>
+          <t>kihistä</t>
+
+          <re>öljy pannulla</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -75387,7 +75443,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">venyä; venähtää</t>
       </tg>
     </mg>
   </e>
@@ -75413,7 +75469,13 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <tf pos="V">laskea alas</tf>
+
+        <tCtn>
+          <t>laskea</t>
+
+          <re>huulet alas</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -75435,11 +75497,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>синоним: йӹлгӹжӓш</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kiiltää; kimaltaa</t>
       </tg>
     </mg>
   </e>
@@ -75465,7 +75527,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kimalluttaa</t>
       </tg>
     </mg>
   </e>
@@ -75487,11 +75549,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>вӹдӹш вуйын тӹргӓш</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">sukeltaa</t>
       </tg>
     </mg>
   </e>
@@ -75513,11 +75575,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>имним цымаш - цымыдымы имни</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">&lt;</t>
       </tg>
     </mg>
   </e>
@@ -75543,7 +75605,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kokoontua</t>
       </tg>
     </mg>
   </e>
@@ -75569,7 +75631,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kerätä; kasata; koota</t>
       </tg>
     </mg>
   </e>
@@ -75595,7 +75657,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kerääntyä; kokoontua</t>
+
+        <tf pos="V">kokoontua yhteen paikkaan</tf>
       </tg>
     </mg>
   </e>
@@ -75621,7 +75685,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kokoontua; laumaantua</t>
       </tg>
     </mg>
   </e>
@@ -75647,7 +75711,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">koota; kerätä</t>
       </tg>
     </mg>
   </e>
@@ -75673,7 +75737,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">keräillä</t>
       </tg>
     </mg>
   </e>
@@ -75695,24 +75759,24 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>цынгырт шактыш</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kalauttaa; kalahtaa</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="V">цыткаш</l>
+      <l pos="V">цытлаш</l>
 
       <stg>
-        <st Contlex="V_ЕМ">цытк</st>
+        <st Contlex="V_ЕМ">цытл</st>
       </stg>
 
-      <stress>цы•ткаш</stress>
+      <stress>цы•тлаш</stress>
     </lg>
 
     <pos>V</pos>
@@ -75725,7 +75789,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">käpristyä; kurtista</t>
       </tg>
     </mg>
   </e>
@@ -75751,20 +75815,20 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <td pos="V">kahistella lattia vasten</td>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="V">цӓкнӓлӓш</l>
+      <l pos="V">цӓкнӓлӓлӓш</l>
 
       <stg>
-        <st Contlex="V_АМ">цӓкнӓл</st>
+        <st Contlex="V_АМ">цӓкнӓлӓл</st>
       </stg>
 
-      <stress>цӓкнӓ•лӓш</stress>
+      <stress>цӓкнӓлӓ•лӓш</stress>
     </lg>
 
     <pos>V</pos>
@@ -75777,7 +75841,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <tf pos="V">peruuttaa hieman</tf>
       </tg>
     </mg>
   </e>
@@ -75803,7 +75867,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">peruuttaa</t>
+
+        <t pos="V">perääntyä; vetäytyä</t>
       </tg>
     </mg>
   </e>
@@ -75829,7 +75895,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <tf pos="V">pyytää peruuttamaan</tf>
       </tg>
     </mg>
   </e>
@@ -75855,7 +75921,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">peruutella</t>
+
+        <t pos="V">perääntyillä</t>
       </tg>
     </mg>
   </e>
@@ -75881,7 +75949,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <tf pos="V">panna peräytymään</tf>
+
+        <td pos="V">pakottaa perääntymään hetkeksi</td>
       </tg>
     </mg>
   </e>
@@ -75907,7 +75977,11 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">peruuttaa</t>
+
+        <t pos="V">peräyttää</t>
+
+        <tf pos="V">pakottaa perääntymään</tf>
       </tg>
     </mg>
   </e>
@@ -75933,7 +76007,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <tf pos="V">peräyttää usein</tf>
       </tg>
     </mg>
   </e>
@@ -75959,33 +76033,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="V">цӓрнӓлӓш</l>
-
-      <stg>
-        <st Contlex="V_АМ">цӓрнӓл</st>
-      </stg>
-
-      <stress>цӓрнӓ•лӓш</stress>
-    </lg>
-
-    <pos>V</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg xml:lang="fin">
-        <t pos="V"/>
+        <tf pos="V">pysähtyä hetkeksi</tf>
       </tg>
     </mg>
   </e>
@@ -76011,7 +76059,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">lakata; loppua; pysähtyä; seisahtua</t>
       </tg>
     </mg>
   </e>
@@ -76037,7 +76085,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">seisahdella; pysähdellä</t>
       </tg>
     </mg>
   </e>
@@ -76063,7 +76111,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">pysäyttää; tyrehdyttää; lakkauttaa; lopettaa</t>
       </tg>
     </mg>
   </e>
