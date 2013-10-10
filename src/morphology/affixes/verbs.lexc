@@ -100,10 +100,10 @@ LEXICON V_ЕМ
 +V: DES-em ;
 
 +V: INF ;
-+V+PrcAct:%>%{ыӹ0%}шЫ2 K  ; !! Contlex needed
-+V+PrcAct+Der/ЫшЫ:%>%{ыӹ0%}шЫ2 N_ТӸРВӸ ;
-+V+PrcPss+Der/ЫмЫ:%>%{ыӹ0%}мЫ2 N_ТӸРВӸ ;
-+V+PrcNeg+Der/ЫдЫмЫ:%>%{ыӹ0%}дЫ2мЫ2 N_ТӸРВӸ ;
++V+PrcAct:%>%{ыӹ%0%}шЫ2 K  ; !! Contlex needed
++V+PrcAct+Der/ЫшЫ:%>%{ыӹ%0%}шЫ2 N_ТӸРВӸ ;
++V+PrcPss+Der/ЫмЫ:%>%{ыӹ%0%}мЫ2 N_ТӸРВӸ ;
++V+PrcNeg+Der/ЫдЫмЫ:%>%{ыӹ%0%}дЫ2мЫ2 N_ТӸРВӸ ;
 
 LEXICON V_ЕМ-SG3 !! хӹдӹртӓш: хӹдӹртӹ
 +V: INDPRSSG3-em ;
@@ -130,13 +130,13 @@ LEXICON INDPRSSG3-am
 +Ind+Prs+Sg3:%>еш K ; 
 
 LEXICON INDPRSPL1-am
-+Ind+Prs+Pl1:%>%{ыӹ0%}н%{аӓ%} K ;
++Ind+Prs+Pl1:%>%{ыӹ%0%}н%{аӓ%} K ;
 
 LEXICON INDPRSPL2-am
-+Ind+Prs+Pl2:%>%{ыӹ0%}д%{аӓ%} K ;
++Ind+Prs+Pl2:%>%{ыӹ%0%}д%{аӓ%} K ;
 
 LEXICON INDPRSPL3-am
-+Ind+Prs+Pl3:%>%{ыӹ0%}т K ;
++Ind+Prs+Pl3:%>%{ыӹ%0%}т K ;
 
 LEXICON INDPRSCONNEG-am
 +Ind+Prs+ConNeg:%^ConsTransf K ;
@@ -165,7 +165,7 @@ LEXICON INDPRSPL3-em
 +Ind+Prs+Pl3:%>%{аӓ%}т K ;
 
 LEXICON INDPRSCONNEG-em
-+Ind+Prs+ConNeg:%>%{ыӹ0%} K ;
++Ind+Prs+ConNeg:%>%{ыӹ%0%} K ;
 
 LEXICON INDPRSPL3CONNEG-em
 +Ind+Prs+Pl3+ConNeg:%>еп K ;
@@ -177,13 +177,13 @@ LEXICON INDPRSPL3CONNEG-em
 !! !am
 
 LEXICON INDPRT1SG1-am
-+Ind+Prt1+Sg1:Ь2%>%{ыӹ0%}м K ; !
++Ind+Prt1+Sg1:Ь2%>%{ыӹ%0%}м K ; !
 
 LEXICON INDPRT1SG2-am
-+Ind+Prt1+Sg2:Ь2%>%{ыӹ0%}ц K ; !
++Ind+Prt1+Sg2:Ь2%>%{ыӹ%0%}ц K ; !
 
 LEXICON INDPRT1SG3-am
-+Ind+Prt1+Sg3:Ь2%>%{ыӹ0%} K ; !
++Ind+Prt1+Sg3:Ь2%>%{ыӹ%0%} K ; !
 
 LEXICON INDPRT1PL1-am
 +Ind+Prt1+Pl1:%^ConsTransf%>н%{аӓ%} K ; !
@@ -203,25 +203,25 @@ LEXICON INDPRT1PL3CONNEG-am
 !! !em
 
 LEXICON INDPRT1SG1-em
-+Ind+Prt1+Sg1:%>%{ыӹ0%}ш%{ыӹ0%}м K ; !
++Ind+Prt1+Sg1:%>%{ыӹ%0%}ш%{ыӹ%0%}м K ; !
 
 LEXICON INDPRT1SG2-em
-+Ind+Prt1+Sg2:%>%{ыӹ0%}ш%{ыӹ0%}ц K ; !
++Ind+Prt1+Sg2:%>%{ыӹ%0%}ш%{ыӹ%0%}ц K ; !
 
 LEXICON INDPRT1SG3-em
-+Ind+Prt1+Sg3:%>%{ыӹ0%}ш K ; !
++Ind+Prt1+Sg3:%>%{ыӹ%0%}ш K ; !
 
 LEXICON INDPRT1PL1-em
-+Ind+Prt1+Pl1:%>%{ыӹ0%}шн%{аӓ%} K ; !
++Ind+Prt1+Pl1:%>%{ыӹ%0%}шн%{аӓ%} K ; !
 
 LEXICON INDPRT1PL2-em
-+Ind+Prt1+Pl2:%>%{ыӹ0%}шд%{аӓ%} K ; !
++Ind+Prt1+Pl2:%>%{ыӹ%0%}шд%{аӓ%} K ; !
 
 LEXICON INDPRT1PL3-em
 +Ind+Prt1+Pl3:%>Е2вӹ K ; !
 
 LEXICON INDPRT1CONNEG-em
-+Ind+Prt1+ConNeg:%>%{ыӹ0%} K ;
++Ind+Prt1+ConNeg:%>%{ыӹ%0%} K ;
 
 LEXICON INDPRT1PL3CONNEG-em
 +Ind+Prt1+Pl3+ConNeg:%>еп K ;
@@ -230,22 +230,22 @@ LEXICON INDPRT1PL3CONNEG-em
 
 !! !am
 LEXICON INDPRT2SG1-am
-+Ind+Prt2+Sg1:%>%{ыӹ0%}н%{аӓ%}м K ; !
++Ind+Prt2+Sg1:%>%{ыӹ%0%}н%{аӓ%}м K ; !
 
 LEXICON INDPRT2SG2-am
-+Ind+Prt2+Sg2:%>%{ыӹ0%}н%{аӓ%}т K ; !
++Ind+Prt2+Sg2:%>%{ыӹ%0%}н%{аӓ%}т K ; !
 
 LEXICON INDPRT2SG3-am
-+Ind+Prt2+Sg3:%>%{ыӹ0%}н K ; !
++Ind+Prt2+Sg3:%>%{ыӹ%0%}н K ; !
 
 LEXICON INDPRT2PL1-am
-+Ind+Prt2+Pl1:%>%{ыӹ0%}нн%{аӓ%} K ; !
++Ind+Prt2+Pl1:%>%{ыӹ%0%}нн%{аӓ%} K ; !
 
 LEXICON INDPRT2PL2-am
-+Ind+Prt2+Pl2:%>%{ыӹ0%}нд%{аӓ%} K ; !
++Ind+Prt2+Pl2:%>%{ыӹ%0%}нд%{аӓ%} K ; !
 
 LEXICON INDPRT2PL3-am
-+Ind+Prt2+Pl3:%>%{ыӹ0%}н%{ыӹ0%}т K ; !
++Ind+Prt2+Pl3:%>%{ыӹ%0%}н%{ыӹ%0%}т K ; !
 
 LEXICON INDPRT2NEG-am
  INDPRT2NEGSG1-am ;
@@ -297,17 +297,17 @@ LEXICON INDPRT2NEG-em
  INDPRT2NEGPL3-em ;
 
 LEXICON	INDPRT2NEGSG1-em
-+Ind+Prt2+Neg+Sg1:%>%{ыӹ0%}делам K ;
++Ind+Prt2+Neg+Sg1:%>%{ыӹ%0%}делам K ;
 LEXICON	INDPRT2NEGSG2-em
-+Ind+Prt2+Neg+Sg2:%>%{ыӹ0%}делат K ;
++Ind+Prt2+Neg+Sg2:%>%{ыӹ%0%}делат K ;
 LEXICON	INDPRT2NEGSG3-em
-+Ind+Prt2+Neg+Sg3:%>%{ыӹ0%}де K ;
++Ind+Prt2+Neg+Sg3:%>%{ыӹ%0%}де K ;
 LEXICON	INDPRT2NEGPL1-em
-+Ind+Prt2+Neg+Pl1:%>%{ыӹ0%}делна K ;
++Ind+Prt2+Neg+Pl1:%>%{ыӹ%0%}делна K ;
 LEXICON	INDPRT2NEGPL2-em
-+Ind+Prt2+Neg+Pl2:%>%{ыӹ0%}делда K ;
++Ind+Prt2+Neg+Pl2:%>%{ыӹ%0%}делда K ;
 LEXICON	INDPRT2NEGPL3-em
-+Ind+Prt2+Neg+Pl3:%>%{ыӹ0%}делыт K ;
++Ind+Prt2+Neg+Pl3:%>%{ыӹ%0%}делыт K ;
 
 !! !!IMPERATIVE 
 
@@ -322,26 +322,26 @@ LEXICON IMPRTPL2-am
 +Imprt+Pl2:%>д%{аӓ%} K ; !
 
 LEXICON IMPRTPL3-am
-+Imprt+Pl3:%>%{ыӹ0%}штЫ2 K ;
++Imprt+Pl3:%>%{ыӹ%0%}штЫ2 K ;
 
 LEXICON IMPRTIISG2-am
-+ImprtII+Sg2:%>%{ыӹ0%}м%{аӓ%} K ; !
++ImprtII+Sg2:%>%{ыӹ%0%}м%{аӓ%} K ; !
 
 LEXICON IMPRTIIPL2-am
-+ImprtII+Pl2:%>%{ыӹ0%}м%{аӓ%}д%{аӓ%} K ; !
++ImprtII+Pl2:%>%{ыӹ%0%}м%{аӓ%}д%{аӓ%} K ; !
 
 
 LEXICON IMPRTSG2-em
-+Imprt+Sg2:%>%{ыӹ0%} K ; !
++Imprt+Sg2:%>%{ыӹ%0%} K ; !
 
 LEXICON IMPRTSG3-em
-+Imprt+Sg3:%>%{ыӹ0%}жЫ2 K ;
++Imprt+Sg3:%>%{ыӹ%0%}жЫ2 K ;
 
 LEXICON IMPRTPL2-em
-+Imprt+Pl2:%>%{ыӹ0%}д%{аӓ%} K ; !
++Imprt+Pl2:%>%{ыӹ%0%}д%{аӓ%} K ; !
 
 LEXICON IMPRTPL3-em
-+Imprt+Pl3:%>%{ыӹ0%}штЫ2 K ;
++Imprt+Pl3:%>%{ыӹ%0%}штЫ2 K ;
 
 LEXICON IMPRTIISG2-em
 +ImprtII+Sg2:%>Е2мӓ K ; !
@@ -378,17 +378,17 @@ LEXICON DES-em
  DESPL2-em ;
  DESPL3-em ;
 LEXICON DESSG1-em
-+Des+Sg1:%>%{ыӹ0%}нем K ;
++Des+Sg1:%>%{ыӹ%0%}нем K ;
 LEXICON DESSG2-em
-+Des+Sg2:%>%{ыӹ0%}нет K ;
++Des+Sg2:%>%{ыӹ%0%}нет K ;
 LEXICON DESSG3-em
-+Des+Sg3:%>%{ыӹ0%}нежӹ K ;
++Des+Sg3:%>%{ыӹ%0%}нежӹ K ;
 LEXICON DESPL1-em
-+Des+Pl1:%>%{ыӹ0%}ненӓ K ;
++Des+Pl1:%>%{ыӹ%0%}ненӓ K ;
 LEXICON DESPL2-em
-+Des+Pl2:%>%{ыӹ0%}недӓ K ;
++Des+Pl2:%>%{ыӹ%0%}недӓ K ;
 LEXICON DESPL3-em
-+Des+Pl3:%>%{ыӹ0%}нештӹ K ;
++Des+Pl3:%>%{ыӹ%0%}нештӹ K ;
 
 
 !! !!INFINITIVE 
