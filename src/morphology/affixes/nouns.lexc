@@ -19,13 +19,16 @@ LEXICON N_ТӸРВӸ_SUB !!= * @CODE@
 !! !!Standard
 
 LEXICON N_КОЛ !!= @CODE@ кол:кол
-+N: NMN_OBLIQUE-INDEFINITE ;
-+N: NMN_OBLIQUE-POSSESSA ;
-+N+Sg+Nom: 	  K	; 
++N: NMN_КОЛ ;
 
 LEXICON N_ТӸРВӸ !!= * @CODE@ тӹрвӹ:тӹрвӹ
 !! The stem vowel "е" is found with possessor indices and the lative
 +N: NMN_ТӸРВӸ ;
+
+LEXICON NMN_КОЛ !!= @CODE@ кол:кол
+ NMN_OBLIQUE-INDEFINITE ;
+ NMN_OBLIQUE-POSSESSA ;
++Sg+Nom: 	  K	; 
 
 LEXICON NMN_ТӸРВӸ !!= * @CODE@ тӹрвӹ:тӹрвӹ
 !! The stem vowel "е" is found with possessor indices and the lative
