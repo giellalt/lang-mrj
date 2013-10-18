@@ -88474,7 +88474,7 @@
 
       <tg xml:lang="fin">
         <t pos="N">mieli; mielenlaatu; mieliala; halu; mielihalu; tahto;
-        innostus; innoitus; haltioituminen; inspiraatio </t>
+        innostus; innoitus; haltioituminen; inspiraatio</t>
       </tg>
     </mg>
   </e>
@@ -88681,7 +88681,7 @@
       <m>
         <head/>
 
-        <defNative> кыным моаш - saada tolkkua</defNative>
+        <defNative>кыным моаш - saada tolkkua</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -92174,14 +92174,14 @@
     <mg>
       <m>
         <head>
-          <!--Саваткован уке. Васикован уке.-->
+          <!--Саваткован уке. Васикован уке. ?!x-->
         </head>
 
         <defNative/>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N">?!x</t>
+        <t pos="N">х</t>
       </tg>
     </mg>
   </e>
@@ -92207,7 +92207,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <td pos="N">loman tai lepotauon antamattomuus</td>
       </tg>
     </mg>
   </e>
@@ -92233,7 +92233,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">lepotauon suominen</tf>
+
+        <tf pos="N">loman antaminen</tf>
       </tg>
     </mg>
   </e>
@@ -92259,7 +92261,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">loma; lepo; lepääminen</t>
       </tg>
     </mg>
   </e>
@@ -92285,7 +92287,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ruumis; vartalo; keho; kasvu; mitta</t>
       </tg>
     </mg>
   </e>
@@ -92311,7 +92313,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ruumis; ruumiinrakenne; vartalo</t>
       </tg>
     </mg>
   </e>
@@ -92369,7 +92371,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <td pos="N">kammitsojen sitoamattomuus</td>
       </tg>
     </mg>
   </e>
@@ -92395,7 +92397,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <td pos="N">kammitsoihin sitoaminen</td>
       </tg>
     </mg>
   </e>
@@ -92421,7 +92423,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">täysi-ikäistyminen</t>
+
+        <tf pos="N">suurikokoiseksi kasvaaminen</tf>
       </tg>
     </mg>
   </e>
@@ -92447,33 +92451,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">кӓпӹдӹмӓш</l>
-
-      <stg>
-        <st Contlex="N_КОЛ">кӓпӹдӹмӓш</st>
-      </stg>
-
-      <stress>кӓ•пӹдӹмӓш</stress>
-    </lg>
-
-    <pos>N</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">suurikokoiseksi kasvaaminen</tf>
       </tg>
     </mg>
   </e>
@@ -92499,7 +92477,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kääriytymättömyys</t>
       </tg>
     </mg>
   </e>
@@ -92525,7 +92503,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kääriytyminen</t>
       </tg>
     </mg>
   </e>
@@ -92551,7 +92529,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kääriminen</t>
       </tg>
     </mg>
   </e>
