@@ -50,9 +50,9 @@ Tests:
      колташ+V+Ind+Prt2+Neg+Pl3: колтыделда
      колташ+V+Ind+Prt2+Neg+Pl3: колтыделыт
 ##   
-     колташ+V+Imprt+Sg3: колты
+     колташ+V+Imprt+Sg2: колты
      колташ+V+Imprt+Sg3: колтыжы
-     колташ+V+Imprt+Pl3: колтыда
+     колташ+V+Imprt+Pl2: колтыда
      колташ+V+Imprt+Pl3: колтышты
 ##   
      колташ+V+ImprtII+Sg2: колтемӓ
@@ -64,6 +64,173 @@ Tests:
      колташ+V+Des+Pl1: колтыненӓ
      колташ+V+Des+Pl3: колтынедӓ
      колташ+V+Des+Pl3: колтынештӹ
+##
+     колташ+V+Inf: колташ
+     колташ+V+Des+Pl3: колтынештӹ
+     колташ+V+PrcAct: колтышы
+     колташ+V+PrcAct+Der/ЫшЫ+Sg+Nom: колтышы
+     
+     колташ+V+PrcAct+Der/ЫшЫ+Sg+Gen: колтышын
+     колташ+V+PrcAct+Der/ЫшЫ+Sg+Acc: колтышым
+     колташ+V+PrcAct+Der/ЫшЫ+Sg+Com: колтышыге
+     колташ+V+PrcAct+Der/ЫшЫ+Sg+Dat: колтышылан
+     колташ+V+PrcAct+Der/ЫшЫ+Sg+Ine: колтышышты
+     колташ+V+PrcAct+Der/ЫшЫ+Sg+Ill: колтышышкы
+     колташ+V+PrcAct+Der/ЫшЫ+Sg+Lat: колтышеш
+     колташ+V+PrcAct+Der/ЫшЫ+Sg+Comp: колтышыла
+     колташ+V+PrcAct+Der/ЫшЫ+Sg+Abe: колтышыде
+     колташ+V+PrcAct+Der/ЫшЫ+Pl+Nom: колтышывлӓ
+     колташ+V+PrcAct+Der/ЫшЫ+Pl+Gen: колтышывлӓн
+     колташ+V+PrcAct+Der/ЫшЫ+Pl+Acc: колтышывлӓм
+     колташ+V+PrcAct+Der/ЫшЫ+Pl+Com: колтышывлӓге
+     колташ+V+PrcAct+Der/ЫшЫ+Pl+Dat: колтышывлӓлӓн
+     колташ+V+PrcAct+Der/ЫшЫ+Pl+Ine: колтышывлӓштӹ
+     колташ+V+PrcAct+Der/ЫшЫ+Pl+Ill: [колтышывлӓшкӹ, колтышывлӓш]
+     колташ+V+PrcAct+Der/ЫшЫ+Pl+Lat: колтышывлӓэш
+     колташ+V+PrcAct+Der/ЫшЫ+Pl+Comp: колтышывлӓлӓ
+     колташ+V+PrcAct+Der/ЫшЫ+Pl+Abe: колтышывлӓде
+
+     колташ+V+PrcAct+Der/ЫшЫ+PxSg1+Sg+Nom: колтышем 
+     колташ+V+PrcAct+Der/ЫшЫ+PxSg1+Sg+Gen: колтышемӹн
+     колташ+V+PrcAct+Der/ЫшЫ+PxSg1+Sg+Acc: колтышемӹм
+     колташ+V+PrcAct+Der/ЫшЫ+PxSg1+Sg+Com: колтышемге
+     колташ+V+PrcAct+Der/ЫшЫ+PxSg1+Sg+Dat: колтышемлӓн
+     колташ+V+PrcAct+Der/ЫшЫ+Sg+Ine+PxSg1: колтышыштем
+     колташ+V+PrcAct+Der/ЫшЫ+Sg+Ill+PxSg1: колтышышкем
+     колташ+V+PrcAct+Der/ЫшЫ+Sg+Lat+PxSg1: колтышешем
+     колташ+V+PrcAct+Der/ЫшЫ+PxSg1+Sg+Comp: колтышемлӓ 
+     колташ+V+PrcAct+Der/ЫшЫ+Sg+Comp+PxSg1: колтышылаэм 
+     колташ+V+PrcAct+Der/ЫшЫ+Sg+Abe+PxSg1: колтышыдеэм 
+     колташ+V+PrcAct+Der/ЫшЫ+PxSg1+Sg+Abe: колтышемде
+     колташ+V+PrcAct+Der/ЫшЫ+Pl+Nom+PxSg1: колтышывлӓэм
+     колташ+V+PrcAct+Der/ЫшЫ+PxSg1+Pl+Nom: колтышемвлӓ
+     колташ+V+PrcAct+Der/ЫшЫ+PxSg1+Pl+Gen: колтышемвлӓн
+     колташ+V+PrcAct+Der/ЫшЫ+PxSg1+Pl+Acc: колтышемвлӓм
+     колташ+V+PrcAct+Der/ЫшЫ+PxSg1+Pl+Com: колтышемвлӓге
+     колташ+V+PrcAct+Der/ЫшЫ+Pl+PxSg1+Com: колтышывлӓэмге
+     колташ+V+PrcAct+Der/ЫшЫ+PxSg1+Pl+Dat: колтышемвлӓлӓн
+     колташ+V+PrcAct+Der/ЫшЫ+Pl+PxSg1+Dat: колтышывлӓэмлӓн
+     колташ+V+PrcAct+Der/ЫшЫ+Pl+Dat+PxSg1: колтышывлӓлӓнем
+     колташ+V+PrcAct+Der/ЫшЫ+Pl+Ine+PxSg1: колтышывлӓштем
+     колташ+V+PrcAct+Der/ЫшЫ+PxSg1+Pl+Ine: колтышемвлӓштӹ
+     колташ+V+PrcAct+Der/ЫшЫ+PxSg1+Pl+Ill: колтышемвлӓшкӹ
+     колташ+V+PrcAct+Der/ЫшЫ+Pl+Ill+PxSg1: колтышывлӓшкем
+     колташ+V+PrcAct+Der/ЫшЫ+PxSg1+Pl+Lat: колтышемвлӓэш
+     колташ+V+PrcAct+Der/ЫшЫ+Pl+Lat+PxSg1: колтышывлӓэшем
+     колташ+V+PrcAct+Der/ЫшЫ+PxSg1+Pl+Comp: колтышемвлӓлӓ
+     колташ+V+PrcAct+Der/ЫшЫ+Pl+Comp+PxSg1: колтышывлӓлӓэм
+     колташ+V+PrcAct+Der/ЫшЫ+Pl+PxSg1+Comp: колтышывлӓэмлӓ
+     колташ+V+PrcAct+Der/ЫшЫ+Pl+PxSg1+Abe: колтышывлӓэмде
+     колташ+V+PrcAct+Der/ЫшЫ+PxSg1+Pl+Abe: колтышемвлӓде
+
+##   
+     колташ+V+PrcPss+Der/ЫмЫ+Sg+Nom: колтымы
+     колташ+V+PrcPss+Der/ЫмЫ+Sg+Gen: колтымын
+     колташ+V+PrcPss+Der/ЫмЫ+Sg+Acc: колтымым
+     колташ+V+PrcPss+Der/ЫмЫ+Sg+Com: колтымыге
+     колташ+V+PrcPss+Der/ЫмЫ+Sg+Dat: колтымылан
+     колташ+V+PrcPss+Der/ЫмЫ+Sg+Ine: колтымышты
+     колташ+V+PrcPss+Der/ЫмЫ+Sg+Ill: колтымышкы
+     колташ+V+PrcPss+Der/ЫмЫ+Sg+Lat: колтымеш
+     колташ+V+PrcPss+Der/ЫмЫ+Sg+Comp: колтымыла
+     колташ+V+PrcPss+Der/ЫмЫ+Sg+Abe: колтымыде
+     колташ+V+PrcPss+Der/ЫмЫ+Pl+Nom: колтымывлӓ
+     колташ+V+PrcPss+Der/ЫмЫ+Pl+Gen: колтымывлӓн
+     колташ+V+PrcPss+Der/ЫмЫ+Pl+Acc: колтымывлӓм
+     колташ+V+PrcPss+Der/ЫмЫ+Pl+Com: колтымывлӓге
+     колташ+V+PrcPss+Der/ЫмЫ+Pl+Dat: колтымывлӓлӓн
+     колташ+V+PrcPss+Der/ЫмЫ+Pl+Ine: колтымывлӓштӹ
+     колташ+V+PrcPss+Der/ЫмЫ+Pl+Ill: [колтымывлӓшкӹ, колтымывлӓш]
+     колташ+V+PrcPss+Der/ЫмЫ+Pl+Lat: колтымывлӓэш
+     колташ+V+PrcPss+Der/ЫмЫ+Pl+Comp: колтымывлӓлӓ
+     колташ+V+PrcPss+Der/ЫмЫ+Pl+Abe: колтымывлӓде
+
+     колташ+V+PrcPss+Der/ЫмЫ+PxSg1+Sg+Nom: колтымем 
+     колташ+V+PrcPss+Der/ЫмЫ+PxSg1+Sg+Gen: колтымемӹн
+     колташ+V+PrcPss+Der/ЫмЫ+PxSg1+Sg+Acc: колтымемӹм
+     колташ+V+PrcPss+Der/ЫмЫ+PxSg1+Sg+Com: колтымемге
+     колташ+V+PrcPss+Der/ЫмЫ+PxSg1+Sg+Dat: колтымемлӓн
+     колташ+V+PrcPss+Der/ЫмЫ+Sg+Ine+PxSg1: колтымыштем
+     колташ+V+PrcPss+Der/ЫмЫ+Sg+Ill+PxSg1: колтымышкем
+     колташ+V+PrcPss+Der/ЫмЫ+Sg+Lat+PxSg1: колтымешем
+     колташ+V+PrcPss+Der/ЫмЫ+PxSg1+Sg+Comp: колтымемлӓ 
+     колташ+V+PrcPss+Der/ЫмЫ+Sg+Comp+PxSg1: колтымылаэм 
+     колташ+V+PrcPss+Der/ЫмЫ+Sg+Abe+PxSg1: колтымыдеэм 
+     колташ+V+PrcPss+Der/ЫмЫ+PxSg1+Sg+Abe: колтымемде
+     колташ+V+PrcPss+Der/ЫмЫ+Pl+Nom+PxSg1: колтымывлӓэм
+     колташ+V+PrcPss+Der/ЫмЫ+PxSg1+Pl+Nom: колтымемвлӓ
+     колташ+V+PrcPss+Der/ЫмЫ+PxSg1+Pl+Gen: колтымемвлӓн
+     колташ+V+PrcPss+Der/ЫмЫ+PxSg1+Pl+Acc: колтымемвлӓм
+     колташ+V+PrcPss+Der/ЫмЫ+PxSg1+Pl+Com: колтымемвлӓге
+     колташ+V+PrcPss+Der/ЫмЫ+Pl+PxSg1+Com: колтымывлӓэмге
+     колташ+V+PrcPss+Der/ЫмЫ+PxSg1+Pl+Dat: колтымемвлӓлӓн
+     колташ+V+PrcPss+Der/ЫмЫ+Pl+PxSg1+Dat: колтымывлӓэмлӓн
+     колташ+V+PrcPss+Der/ЫмЫ+Pl+Dat+PxSg1: колтымывлӓлӓнем
+     колташ+V+PrcPss+Der/ЫмЫ+Pl+Ine+PxSg1: колтымывлӓштем
+     колташ+V+PrcPss+Der/ЫмЫ+PxSg1+Pl+Ine: колтымемвлӓштӹ
+     колташ+V+PrcPss+Der/ЫмЫ+PxSg1+Pl+Ill: колтымемвлӓшкӹ
+     колташ+V+PrcPss+Der/ЫмЫ+Pl+Ill+PxSg1: колтымывлӓшкем
+     колташ+V+PrcPss+Der/ЫмЫ+PxSg1+Pl+Lat: колтымемвлӓэш
+     колташ+V+PrcPss+Der/ЫмЫ+Pl+Lat+PxSg1: колтымывлӓэшем
+     колташ+V+PrcPss+Der/ЫмЫ+PxSg1+Pl+Comp: колтымемвлӓлӓ
+     колташ+V+PrcPss+Der/ЫмЫ+Pl+Comp+PxSg1: колтымывлӓлӓэм
+     колташ+V+PrcPss+Der/ЫмЫ+Pl+PxSg1+Comp: колтымывлӓэмлӓ
+     колташ+V+PrcPss+Der/ЫмЫ+Pl+PxSg1+Abe: колтымывлӓэмде
+     колташ+V+PrcPss+Der/ЫмЫ+PxSg1+Pl+Abe: колтымемвлӓде
+##
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Sg+Nom: колтыдымы
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Sg+Gen: колтыдымын
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Sg+Acc: колтыдымым
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Sg+Com: колтыдымыге
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Sg+Dat: колтыдымылан
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Sg+Ine: колтыдымышты
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Sg+Ill: колтыдымышкы
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Sg+Lat: колтыдымеш
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Sg+Comp: колтыдымыла
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Sg+Abe: колтыдымыде
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Pl+Nom: колтыдымывлӓ
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Pl+Gen: колтыдымывлӓн
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Pl+Acc: колтыдымывлӓм
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Pl+Com: колтыдымывлӓге
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Pl+Dat: колтыдымывлӓлӓн
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Pl+Ine: колтыдымывлӓштӹ
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Pl+Ill: [колтыдымывлӓшкӹ, колтыдымывлӓш]
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Pl+Lat: колтыдымывлӓэш
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Pl+Comp: колтыдымывлӓлӓ
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Pl+Abe: колтыдымывлӓде
+
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+PxSg1+Sg+Nom: колтыдымем 
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+PxSg1+Sg+Gen: колтыдымемӹн
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+PxSg1+Sg+Acc: колтыдымемӹм
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+PxSg1+Sg+Com: колтыдымемге
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+PxSg1+Sg+Dat: колтыдымемлӓн
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Sg+Ine+PxSg1: колтыдымыштем
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Sg+Ill+PxSg1: колтыдымышкем
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Sg+Lat+PxSg1: колтыдымешем
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+PxSg1+Sg+Comp: колтыдымемлӓ 
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Sg+Comp+PxSg1: колтыдымылаэм 
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Sg+Abe+PxSg1: колтыдымыдеэм 
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+PxSg1+Sg+Abe: колтыдымемде
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Pl+Nom+PxSg1: колтыдымывлӓэм
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+PxSg1+Pl+Nom: колтыдымемвлӓ
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+PxSg1+Pl+Gen: колтыдымемвлӓн
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+PxSg1+Pl+Acc: колтыдымемвлӓм
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+PxSg1+Pl+Com: колтыдымемвлӓге
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Pl+PxSg1+Com: колтыдымывлӓэмге
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+PxSg1+Pl+Dat: колтыдымемвлӓлӓн
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Pl+PxSg1+Dat: колтыдымывлӓэмлӓн
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Pl+Dat+PxSg1: колтыдымывлӓлӓнем
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Pl+Ine+PxSg1: колтыдымывлӓштем
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+PxSg1+Pl+Ine: колтыдымемвлӓштӹ
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+PxSg1+Pl+Ill: колтыдымемвлӓшкӹ
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Pl+Ill+PxSg1: колтыдымывлӓшкем
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+PxSg1+Pl+Lat: колтыдымемвлӓэш
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Pl+Lat+PxSg1: колтыдымывлӓэшем
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+PxSg1+Pl+Comp: колтыдымемвлӓлӓ
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Pl+Comp+PxSg1: колтыдымывлӓлӓэм
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Pl+PxSg1+Comp: колтыдымывлӓэмлӓ
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+Pl+PxSg1+Abe: колтыдымывлӓэмде
+     колташ+V+PrcNeg+Der/ЫдЫмЫ+PxSg1+Pl+Abe: колтыдымемвлӓде
 
 
      
