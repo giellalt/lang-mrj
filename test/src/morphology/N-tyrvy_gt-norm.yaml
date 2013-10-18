@@ -1,0 +1,73 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Noun - тӹрвӹ: # Noun 'lip / huulet'
+     тӹрвӹ+N+Sg+Nom: тӹрвӹ
+     тӹрвӹ+N+Sg+Gen: тӹрвӹн
+     тӹрвӹ+N+Sg+Acc: тӹрвӹм
+     тӹрвӹ+N+Sg+Com: тӹрвӹге
+     тӹрвӹ+N+Sg+Dat: тӹрвӹлӓн
+     тӹрвӹ+N+Sg+Ine: тӹрвӹштӹ
+     тӹрвӹ+N+Sg+Ill: тӹрвӹшкӹ
+     тӹрвӹ+N+Sg+Lat: тӹрвеш
+     тӹрвӹ+N+Sg+Comp: тӹрвӹлӓ
+     тӹрвӹ+N+Sg+Abe: тӹрвӹде
+     тӹрвӹ+N+Pl+Nom: тӹрвӹвлӓ
+     тӹрвӹ+N+Pl+Gen: тӹрвӹвлӓн
+     тӹрвӹ+N+Pl+Acc: тӹрвӹвлӓм
+     тӹрвӹ+N+Pl+Com: тӹрвӹвлӓге
+     тӹрвӹ+N+Pl+Dat: тӹрвӹвлӓлӓн
+     тӹрвӹ+N+Pl+Ine: тӹрвӹвлӓштӹ
+     тӹрвӹ+N+Pl+Ill: [тӹрвӹвлӓшкӹ, тӹрвӹвлӓш]
+     тӹрвӹ+N+Pl+Lat: тӹрвӹвлӓэш
+     тӹрвӹ+N+Pl+Comp: тӹрвӹвлӓлӓ
+     тӹрвӹ+N+Pl+Abe: тӹрвӹвлӓде
+
+     тӹрвӹ+N+PxSg1+Sg+Nom: тӹрвем 
+     тӹрвӹ+N+PxSg1+Sg+Gen: тӹрвемӹн
+     тӹрвӹ+N+PxSg1+Sg+Acc: тӹрвемӹм
+     тӹрвӹ+N+PxSg1+Sg+Com: тӹрвемге
+     тӹрвӹ+N+PxSg1+Sg+Dat: тӹрвемлӓн
+     тӹрвӹ+N+Sg+Ine+PxSg1: тӹрвӹштем
+     тӹрвӹ+N+Sg+Ill+PxSg1: тӹрвӹшкем
+     тӹрвӹ+N+Sg+Lat+PxSg1: тӹрвешем
+     тӹрвӹ+N+PxSg1+Sg+Comp: тӹрвемлӓ 
+     тӹрвӹ+N+Sg+Comp+PxSg1: тӹрвӹлӓэм 
+     тӹрвӹ+N+Sg+Abe+PxSg1: тӹрвӹдеэм 
+     тӹрвӹ+N+PxSg1+Sg+Abe: тӹрвемде
+     тӹрвӹ+N+Pl+Nom+PxSg1: тӹрвӹвлӓэм
+     тӹрвӹ+N+PxSg1+Pl+Nom: тӹрвемвлӓ
+     тӹрвӹ+N+PxSg1+Pl+Gen: тӹрвемвлӓн
+     тӹрвӹ+N+PxSg1+Pl+Acc: тӹрвемвлӓм
+     тӹрвӹ+N+PxSg1+Pl+Com: тӹрвемвлӓге
+     тӹрвӹ+N+Pl+PxSg1+Com: тӹрвӹвлӓэмге
+     тӹрвӹ+N+PxSg1+Pl+Dat: тӹрвемвлӓлӓн
+     тӹрвӹ+N+Pl+PxSg1+Dat: тӹрвӹвлӓэмлӓн
+     тӹрвӹ+N+Pl+Dat+PxSg1: тӹрвӹвлӓлӓнем
+     тӹрвӹ+N+Pl+Ine+PxSg1: тӹрвӹвлӓштем
+     тӹрвӹ+N+PxSg1+Pl+Ine: тӹрвемвлӓштӹ
+     тӹрвӹ+N+PxSg1+Pl+Ill: тӹрвемвлӓшкӹ
+     тӹрвӹ+N+Pl+Ill+PxSg1: тӹрвӹвлӓшкем
+     тӹрвӹ+N+PxSg1+Pl+Lat: тӹрвемвлӓэш
+     тӹрвӹ+N+Pl+Lat+PxSg1: тӹрвӹвлӓэшем
+     тӹрвӹ+N+PxSg1+Pl+Comp: тӹрвемвлӓлӓ
+     тӹрвӹ+N+Pl+Comp+PxSg1: тӹрвӹвлӓлӓэм
+     тӹрвӹ+N+Pl+PxSg1+Comp: тӹрвӹвлӓэмлӓ
+     тӹрвӹ+N+Pl+PxSg1+Abe: тӹрвӹвлӓэмде
+     тӹрвӹ+N+PxSg1+Pl+Abe: тӹрвемвлӓде
+#тӹрвет, тӹрветшӹ, 
+#тӹрвӹжӹ, 
+
