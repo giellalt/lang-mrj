@@ -46,7 +46,7 @@ LEXICON V_АМ !!= @CODE@ ӹштӓш:ӹшт
 +V: DES-am ;
 
 +V: INF ;
-+V+PrcAct:%>шЫ2 NMN_ТӸРВӸ ; !! Contlex needed
++V+PrcAct:%>шЫ2 K ; !! Contlex needed
 +V+PrcAct+Der/ЫшЫ:%>шЫ2 NMN_ТӸРВӸ ;
 +V+PrcPss+Der/ЫмЫ:%>мЫ2 NMN_ТӸРВӸ ;
 +V+PrcNeg+Der/ЫдЫмЫ:%>дЫ2мЫ2 NMN_ТӸРВӸ ;
@@ -61,7 +61,7 @@ LEXICON V_АМ-SG3 !! пелӓш: онг пелеш
 +V: DESSG3-am ;
 
 
-LEXICON V_ЕМ
+LEXICON V_ЕМ  !!= * @CODE@ колташ:колт
 +V: INDPRSSG1-em ;
 +V: INDPRSSG2-em ;
 +V: INDPRSSG3-em ;
@@ -101,9 +101,9 @@ LEXICON V_ЕМ
 
 +V: INF ;
 +V+PrcAct:%>%{ыӹ%0%}шЫ2 K  ; !! Contlex needed
-+V+PrcAct+Der/ЫшЫ:%>%{ыӹ%0%}шЫ2 N_ТӸРВӸ ;
-+V+PrcPss+Der/ЫмЫ:%>%{ыӹ%0%}мЫ2 N_ТӸРВӸ ;
-+V+PrcNeg+Der/ЫдЫмЫ:%>%{ыӹ%0%}дЫ2мЫ2 N_ТӸРВӸ ;
++V+PrcAct+Der/ЫшЫ:%>%{ыӹ%0%}шЫ2 NMN_ТӸРВӸ ;
++V+PrcPss+Der/ЫмЫ:%>%{ыӹ%0%}мЫ2 NMN_ТӸРВӸ ;
++V+PrcNeg+Der/ЫдЫмЫ:%>%{ыӹ%0%}дЫ2мЫ2 NMN_ТӸРВӸ ;
 
 LEXICON V_ЕМ-SG3 !! хӹдӹртӓш: хӹдӹртӹ
 +V: INDPRSSG3-em ;
@@ -203,10 +203,10 @@ LEXICON INDPRT1PL3CONNEG-am
 !! !em
 
 LEXICON INDPRT1SG1-em
-+Ind+Prt1+Sg1:%>%{ыӹ%0%}ш%{ыӹ%0%}м K ; !
++Ind+Prt1+Sg1:%>%{ыӹ%0%}ш%>%{ыӹ%0%}м K ; !
 
 LEXICON INDPRT1SG2-em
-+Ind+Prt1+Sg2:%>%{ыӹ%0%}ш%{ыӹ%0%}ц K ; !
++Ind+Prt1+Sg2:%>%{ыӹ%0%}ш%>%{ыӹ%0%}ц K ; !
 
 LEXICON INDPRT1SG3-em
 +Ind+Prt1+Sg3:%>%{ыӹ%0%}ш K ; !
@@ -245,7 +245,7 @@ LEXICON INDPRT2PL2-am
 +Ind+Prt2+Pl2:%>%{ыӹ%0%}нд%{аӓ%} K ; !
 
 LEXICON INDPRT2PL3-am
-+Ind+Prt2+Pl3:%>%{ыӹ%0%}н%{ыӹ%0%}т K ; !
++Ind+Prt2+Pl3:%>%{ыӹ%0%}н%>%{ыӹ%0%}т K ; !
 
 LEXICON INDPRT2NEG-am
  INDPRT2NEGSG1-am ;
