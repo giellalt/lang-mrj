@@ -13,10 +13,11 @@
 * aä
 
  *  Е3:е  ӓвӓмвлӓ 
- *  Е2:е  
-*  Е2:е  !
+ * ! Е2:е  
+ *  Е2:0 
+*  Е2:0  !
 
- *  Ы2:ӹ   
+ *  Ы2:0   
  *  А2:а  
 
  *  Ь2:0   except with V АМ +Prt1+Sg1-3
@@ -59,6 +60,9 @@ __Palatal mark loss before vowel__
 
 __Ь2:ь Palatal mark for V АМ +Prt1+Sg1__  
 
+__Ь2:0 Palatal mark for V АМ +Prt1+Sg1__  
+
+
 
 !!Vowel rules
 __Onset vowel loss in suffix ыӹ0__  
@@ -66,9 +70,10 @@ __Onset vowel loss in suffix ыӹ0__
 __Onset vowel loss in suffix Е3__  
 
 
-__Onset vowel loss in suffix Е2__  
+__Onset vowel loss in suffix Е3__  
 
 
+__Onset vowel Е2 realized in suffix :е__
 
 __Onset vowel Е2:э after retained vowel__  
 
@@ -81,8 +86,9 @@ __Stem final ӹ loss before Е2__
 
 !!Vowel harmony
 
-__Onset vowel ыӹ0 realized in suffix__  
+__Onset vowel ыӹ0 realized in suffix  %{ыӹ%0%}:ы__  
 
+__Onset vowel %{ыӹ%0%} realized in suffix  %{ыӹ%0%}:ӹ__
 
 
 __Affix mid or final back %{аӓ%}:а__  
@@ -91,7 +97,11 @@ __Affix mid or final back %{аӓ%}:я__
 
 __Affix initial back а:я__  
 
-__suffix-final vowel backed __  
+__suffix-final vowel backed Ы2ы__  
+
+
+
+__suffix-final vowel fronted Ы2:ӹ__  
 
 !!Consonant loss or transformation
 
@@ -105,8 +115,7 @@ __н:0 before з:ц in am type verbs __ негӹнзӓш:негӹц
 
 !!Vowel again
 
-__suffix-final vowel loss before subsequent suffix-initial vowel __  
-
+__suffix-final vowel loss before subsequent suffix-initial vowel Ы2:0 __  
 
 
 __й Deletion in front of я Suffix and others__  
