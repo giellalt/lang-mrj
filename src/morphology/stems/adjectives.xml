@@ -54366,6 +54366,32 @@
 
   <e>
     <lg>
+      <l pos="A">лакан</l>
+
+      <stg>
+        <st Contlex="A_">лакан</st>
+      </stg>
+
+      <stress>ла•кан</stress>
+    </lg>
+
+    <pos>A</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="A">lakallinen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="A">лакдымы</l>
 
       <stg>
@@ -54385,7 +54411,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A"> lakaton</t>
       </tg>
     </mg>
   </e>
