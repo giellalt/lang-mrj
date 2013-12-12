@@ -1,4 +1,3 @@
-
 !! !!!Hill Mari twol file
 
 !! !!Alphabet, Sets and Definitions
@@ -33,7 +32,8 @@ Alphabet
 !! !Triggers
 
 %^ConsTransf:0 !!= * @CODE@ 
-%^KIN:0 !!= * @CODE@  with ӓвӓ in +PxSg1+Sg+Gen etc.
+%^KIN:0        !!= * @CODE@  with ӓвӓ in +PxSg1+Sg+Gen etc.
+%^А2ЫӸ:0       !!= * @CODE@  with карта and картын витринӹн
 
 !! !Boundary symbols
 ! old !  +  /  {  _  $  }  @  ~  &  #
@@ -76,9 +76,9 @@ all =  Ltrs  %- ;
 
 Definitions
 
-LFC = # Cns* [ :FrontVow | Е2: | :е | :ӹ | :Ӹ ] \[ #: | :BackVow | :ы | :Ы ]* (%{аӓ%}:я ) \[ #: | :BackVow | :ы | :Ы ]*  ;
+LFC = # Cns* [ :FrontVow | Е2: | :е | :ӹ | :Ӹ ] \[ #: | :BackVow | :ы | :Ы ]* (%{аӓ%}:я ) \[ #: | :BackVow | :ы | :Ы ]*  (%^А2ЫӸ:0) ;
 
-LBC = # Cns* [ :BackVow ] \[ #: | :FrontVow | :Ӹ | :ӹ ]* (%{аӓ%}:я) \[ #: | :FrontVow | :Ӹ | :ӹ ]* ;
+LBC = # Cns* [ :BackVow ] \[ #: | :FrontVow | :Ӹ | :ӹ ]* (%{аӓ%}:я) \[ #: | :FrontVow | :Ӹ | :ӹ ]* (%^А2ЫӸ:0) ;
 ! [ :BackVow ] ( %> | %^ConsTransf:0 | %^KIN:0 | BackVow | %{аӓ%}:а | %{аӓ%}:я | %{ыӹ%0%}:ы | Ь2:0 | %{ыӹ%0%}:0 | Е3:0 | Ы2:ы | Cns: )* ;
 
 
@@ -117,7 +117,7 @@ Rules
 
 
 ! "Onset vowel loss in suffix Е2"
-!!! __@RULENAME@__  
+!! __@RULENAME@__  
 !   Е2:0 <=> %> ж Ы2: %> _  ;
 
 
@@ -171,7 +171,16 @@ Rules
 
 "Affix initial back а:я"
 !! __@RULENAME@__  
- а:я <=> й:0 %> _ ;
+ а:я <=> й:0 %> _ \[ %^А2ЫӸ: ] ;
+
+"Not SgNom а:ы"
+!! __@RULENAME@__
+а:ы <=> LBC _ %^А2ЫӸ:0 %> ;
+
+"Not SgNom а:ӹ"
+!! __@RULENAME@__
+а:ӹ <=> LFC _ %^А2ЫӸ:0 %> ;
+
 
 "suffix-final vowel backed Ы2ы"
 !! __@RULENAME@__  
