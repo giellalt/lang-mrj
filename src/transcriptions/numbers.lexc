@@ -113,7 +113,7 @@ LEXICON HUNDREDST
 ӹндекш:9 CUODIT ;	! 900000-999999
 
 LEXICON CUODIT
-шӱдӹ: HUNDREDT ;	! 100000-199999
+% шӱдӹ: HUNDREDT ;	! 100000-199999
 
 LEXICON HUNDREDT	! X = 1-9, Y = 0-9
 % : TENST ;			! X2XYYY, X10YYY
@@ -123,7 +123,7 @@ LEXICON HUNDREDT	! X = 1-9, Y = 0-9
 :%0%0 THOUSANDS ;	! X00YYY
 
 LEXICON TEENST
-лу:%0 THOUSANDS ;
+!лу:%0 THOUSANDS ;
 луат:1 TEENT ;
 
 LEXICON TEENT
@@ -139,19 +139,19 @@ LEXICON TEENT
 
 
 LEXICON TENST
-кок:2 LÅGEVT ;
-кым:3 LÅGEVT ;
-нӹл:4 LÅGEVT ;
-вӹц:5 LÅGEVT ;
-куд:6 LÅGEVT ;
-шӹм:7 LÅGEVT ;
-кӓндӓкш:8 LÅGEVT ;
-ӹндекш:9 LÅGEVT ;
+луатик% тӹжем:1 THOUSAND ;
+коклы:2 LÅGEVT ;
+кымлы:3 LÅGEVT ;
+нӹллӹ:4 LÅGEVT ;
+вӹцлӹ:5 LÅGEVT ;
+кудлы:6 LÅGEVT ;
+шӹмлӹ:7 LÅGEVT ;
+кӓндӓкшлӹ:8 LÅGEVT ;
+ӹндекшлӹ:9 LÅGEVT ;
 
 LEXICON LÅGEVT
-лу:%0 THOUSANDS ;
-луатик% тӹжем:1 THOUSAND ;
-лу: ONEST ;
+:%0 THOUSANDS ;
+: ONEST ;
 
 LEXICON ONEST
 кок:2 THOUSANDS ;
@@ -167,7 +167,7 @@ LEXICON THOUSANDS      ! x > 1
 % тӹжем% : THOUSAND ;
 
 LEXICON THOUSAND
-UNDERTHOUSAND ;	   ! 1100-1999
+% : UNDERTHOUSAND ;	   ! 1100-1999
 % :%0 TENS ;	   ! 1020-1099
 % :%0 TEENS ;	   ! 1010-1019
 % :%0%0 ONES ;	   ! 1001-1009
