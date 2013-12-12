@@ -28,7 +28,7 @@ LEXICON HUNDREDSM
 ӹндекш:9 CUODIM ;
 
 LEXICON CUODIM
-шӱдӹ: HUNDREDM ;
+% шӱдӹ% : HUNDREDM ;
 
 LEXICON HUNDREDM
 TENSM ;
@@ -55,21 +55,21 @@ LEXICON LOHKAIM
 ӹндекш:9 MILJON ;
 
 LEXICON TENSM
-кок:2 LÅGEVM ;
-кым:3 LÅGEVM ;
-нӹл:4 LÅGEVM ;
-вӹц:5 LÅGEVM ;
-куд:6 LÅGEVM ;
-шӹм:7 LÅGEVM ;
-кӓндӓкш:8 LÅGEVM ;
-ӹндекш:9 LÅGEVM ;
+коклы:2 LÅGEVM ;
+кымлы:3 LÅGEVM ;
+нӹллӹ:4 LÅGEVM ;
+вӹцлӹ:5 LÅGEVM ;
+кудлы:6 LÅGEVM ;
+шӹмлӹ:7 LÅGEVM ;
+кӓндӓкшлӹ:8 LÅGEVM ;
+ӹндекшлӹ:9 LÅGEVM ;
 
 LEXICON TENM
 лу:1%0 MILJON ;
 
 LEXICON LÅGEVM
-лу:%0 MILJON ;
-лу: ONESM ;
+:%0 MILJON ;
+% : ONESM ;
 
 LEXICON ONESM
 ик% миллион% :1 OVERTHOUSANDS ;
