@@ -1,4 +1,3 @@
-
 !!!Hill Mari twol file
 
 !!Alphabet, Sets and Definitions
@@ -25,7 +24,8 @@
 !Triggers
 
  * %^ConsTransf:0  
- * %^KIN:0   with ӓвӓ in +PxSg1+Sg+Gen etc.
+ * %^KIN:0          with ӓвӓ in +PxSg1+Sg+Gen etc.
+ * %^А2ЫӸ:0         with карта and картын витринӹн
 
 !Boundary symbols
 
@@ -96,6 +96,11 @@ __Affix mid or final back %{аӓ%}:а__
 __Affix mid or final back %{аӓ%}:я__  
 
 __Affix initial back а:я__  
+
+__Not SgNom а:ы__
+
+__Not SgNom а:ӹ__
+
 
 __suffix-final vowel backed Ы2ы__  
 
