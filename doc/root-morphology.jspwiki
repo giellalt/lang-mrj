@@ -57,7 +57,7 @@ Semantics are classified with
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
 Noun derivation
- *  +Foc/ок  = 'too, also'
+ *  +Foc/ок  = too, also
 
 Morphophonology
 ---------------
@@ -66,8 +66,9 @@ symbols in the lexicon files:
 
 *  +Foc/ок  !
 And following triggers to control variation
-k loss in am-verbs, also z to ts
-with kin terms for ӓвӓмӹн not мӱэмӹн
+ * %^ConsTransf   k loss in am-verbs, also z to ts
+ * %^KIN 	       with kin terms for ӓвӓмӹн not мӱэмӹн
+ * %^А2ЫӸ         with карта and картын витринӹн
 
 We have manually optimised the structure of our lexicon using following
 flag diacritics to restrict morhpological combinatorics:
