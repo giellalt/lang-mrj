@@ -25,6 +25,10 @@ LEXICON N_ТӸРВӸ !!= * @CODE@ тӹрвӹ:тӹрвӹ
 !! The stem vowel "е" is found with possessor indices and the lative
 +N: NMN_ТӸРВӸ ;
 
+LEXICON N_КАРТА !!= * @CODE@ карта:карта 
+!! а is specific to the +Sg+Nom, elsewhere ы or ӹ
++N: NMN_КАРТА ;
+
 LEXICON NMN_КОЛ !!= @CODE@ кол:кол
  NMN_OBLIQUE-INDEFINITE ;
  NMN_OBLIQUE-POSSESSA ;
@@ -37,6 +41,13 @@ LEXICON NMN_ТӸРВӸ !!= * @CODE@ тӹрвӹ:тӹрвӹ
 +Sg+Nom: 	  K	; 
 !+PxSg1:%>Е2м SG-ABEACCCOMDATGEN ;
 +PxSg1:эм PL-ABEACCCOMDATGENILLINELATNOM ;
+
+LEXICON	  NMN_КАРТА	 !!= * @CODE@ карта:карта
+!! а is specific to the +Sg+Nom, elsewhere ы or ӹ
+:%^А2ЫӸ NMN_OBLIQUE-INDEFINITE ;
+:%^А2ЫӸ NMN_OBLIQUE-POSSESSA ;
++Sg+Nom:          K     ;
+
  
 LEXICON SG-ABEACCCOMDATGEN
 +Sg+Abe:де K ;

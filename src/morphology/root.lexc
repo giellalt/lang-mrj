@@ -124,7 +124,7 @@ Multichar_Symbols
  +Der/ЫдЫмЫ
  +Der/N !! Noun derivation
  +Foc/Ат
- +Foc/ок !!= * @CODE@ = 'too, also'
+ +Foc/ок !!= * @CODE@ = too, also
 
 !! Morphophonology
 !! ---------------
@@ -136,8 +136,9 @@ Multichar_Symbols
  Ь2 ! V_АМ +Prt1+Sg1
 !! And following triggers to control variation
  {front} {back}
-%^ConsTransf !! k loss in am-verbs, also z to ts
-%^KIN !! with kin terms for ӓвӓмӹн not мӱэмӹн
+%^ConsTransf !!= * @CODE@  k loss in am-verbs, also z to ts
+%^KIN 	     !!= * @CODE@  with kin terms for ӓвӓмӹн not мӱэмӹн
+%^А2ЫӸ       !!= * @CODE@  with карта and картын витринӹн
 
 !! We have manually optimised the structure of our lexicon using following
 !! flag diacritics to restrict morhpological combinatorics:
