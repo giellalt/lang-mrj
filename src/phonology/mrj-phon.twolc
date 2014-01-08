@@ -4,22 +4,22 @@
 
 Alphabet
 
-!! !Letters of the alphabet
+!! !!Letters of the alphabet
 
 а б в г д е ё ж з и й к л м н ҥ о ӧ п р с т у ӱ ф х ц ч ш щ ъ ы ь э ю я ӓ ӹ !!= * @CODE@
 А Б В Г Д Е Ё Ж З И Й К Л М Н Ҥ О Ӧ П Р С Т У Ӱ Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я Ӓ Ӹ !!= * @CODE@
 
-!! !Archiphonemes for vowels
+!! !!Archiphonemes for vowels
 !  е1:е а1:а и1:и у1:у ӱ1:ӱ
 !  Е1:Е %{аӓ%}:А И1:И У1:У Ӱ1:Ӱ
-!JMR 2012-09-18
+! JMR 2012-09-18
 ! %{аӓ%}:а 
- %{аӓ%}:ӓ  !! * aä
+ %{аӓ%}:ӓ  !!= * @CODE@ a/ä alternation in vowel harmony
 
  Е3:е !!= * @CODE@ ӓвӓмвлӓ 
 ! Е2:е !!= * @CODE@ 
  Е2:0 !!= * @CODE@
- %{ыӹ%0%}:0 !! * @CODE@ !
+ %{ыӹ%0%}:0 !!= * @CODE@ 
 
 ! Ы2:ы
 ! Ы2:ӹ
@@ -29,28 +29,23 @@ Alphabet
 
  Ь2:0 !!= * @CODE@  except with V АМ +Prt1+Sg1-3
 
-!! !Triggers
+!! !!Triggers
 
 %^ConsTransf:0 !!= * @CODE@ 
 %^KIN:0        !!= * @CODE@  with ӓвӓ in +PxSg1+Sg+Gen etc.
 %^А2ЫӸ:0       !!= * @CODE@  with карта and картын витринӹн
 
-!! !Boundary symbols
-! old !  +  /  {  _  $  }  @  ~  &  #
-! new X1 X2 X3 X4 X5 X6 X7 X8 X9 Z1 Z2
+!! !!Boundary symbols
 
-! X1:0 X2:0 X3:0 X4:0 X5:0 X6:0 X7:0 X8:0 X9:0 Z1:0 Z2:0
-
-! JMR 2012-09-18
  %> !!= * @CODE@ 
- #  !! * hash
+ #  !!= * @CODE@ hash
  %- !!= * @CODE@ 
 
 
  ;
 
 
-!! * Sets 
+!! !!Sets 
 
 Sets
 BackLabVow =   о у ё ю О У Ё Ю ;
@@ -72,7 +67,7 @@ all =  Ltrs  %- ;
 
 
 
-!! * Definitions
+!! !!Definitions
 
 Definitions
 
@@ -149,7 +144,7 @@ Rules
 "Onset vowel ыӹ0 realized in suffix  %{ыӹ%0%}:ы"
 !! __@RULENAME@__  
   %{ыӹ%0%}:ы <=> [ LBC  Cns  ((Ь2:) %> )| LBC ( н | л ) Ь2: %> | BackVow й: ( Ь2:0 ) %> ] _ ;
-![[ Cns | й ]+ %> | %> [ %> | BackVow | е | ArchiVow: | Cns ]* [ Cns | й ] ( %> ) ] _ ;
+! [[ Cns | й ]+ %> | %> [ %> | BackVow | е | ArchiVow: | Cns ]* [ Cns | й ] ( %> ) ] _ ;
 
 "Onset vowel %{ыӹ%0%} realized in suffix  %{ыӹ%0%}:ӹ"
 !! __@RULENAME@__
@@ -188,7 +183,7 @@ Rules
           LBC (й ( %^ConsTransf:0 )) %> [ ж | ш т ] _ [ %> (%{ыӹ%0%}:) Cns:  | # ] ;
 !  LBC %> [ ж: | д Ы2: м | ( %{ыӹ%0%}: ) м | ( %{ыӹ%0%}: ) ш ] _ [ #: | %> [ л | г | ш [ т | к ] | д | %{ыӹ%0%}: [ м | н ] ]] ;
 !          LBC %> д _ м Ы2: ;
-!Work 2012-10-29!            %>  %{ыӹ%0%}: ш [ т | к ]  _ %> %{ыӹ%0%}: ;
+! Work 2012-10-29            %>  %{ыӹ%0%}: ш [ т | к ]  _ %> %{ыӹ%0%}: ;
 
 
 
@@ -231,7 +226,7 @@ Rules
 
 
 
-!! !Devoicing
+!! !!Devoicing
 "Onset consonant devoicing" 
 !! __@RULENAME@__  
  ж:ш <=> [ :Cst ( :0 ) | ж ] ( %^ConsTransf:0 ) %> _ [ %{ыӹ%0%}: | Ы2: ] ;
