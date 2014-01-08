@@ -77,7 +77,7 @@ LBC = # Cns* [ :BackVow ] \[ #: | :FrontVow | :Ӹ | :ӹ ]* (%{аӓ%}:я) \[ #: |
 ! [ :BackVow ] ( %> | %^ConsTransf:0 | %^KIN:0 | BackVow | %{аӓ%}:а | %{аӓ%}:я | %{ыӹ%0%}:ы | Ь2:0 | %{ыӹ%0%}:0 | Е3:0 | Ы2:ы | Cns: )* ;
 
 
-!! !!!Rules
+!! !!Rules
 
 Rules
 
