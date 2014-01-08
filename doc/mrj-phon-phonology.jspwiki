@@ -3,41 +3,40 @@
 !!Alphabet, Sets and Definitions
 
 
-!Letters of the alphabet
+!!Letters of the alphabet
 
  * а б в г д е ё ж з и й к л м н ҥ о ӧ п р с т у ӱ ф х ц ч ш щ ъ ы ь э ю я ӓ ӹ 
  * А Б В Г Д Е Ё Ж З И Й К Л М Н Ҥ О Ӧ П Р С Т У Ӱ Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я Ӓ Ӹ 
 
-!Archiphonemes for vowels
-* aä
+!!Archiphonemes for vowels
+ *  %{аӓ%}:ӓ   a/ä alternation in vowel harmony
 
  *  Е3:е  ӓвӓмвлӓ 
  * ! Е2:е  
  *  Е2:0 
-*  Е2:0  !
+ *  %{ыӹ%0%}:0  
 
  *  Ы2:0   
  *  А2:а  
 
  *  Ь2:0   except with V АМ +Prt1+Sg1-3
 
-!Triggers
+!!Triggers
 
  * %^ConsTransf:0  
  * %^KIN:0          with ӓвӓ in +PxSg1+Sg+Gen etc.
  * %^А2ЫӸ:0         with карта and картын витринӹн
 
-!Boundary symbols
-
+!!Boundary symbols
 
  *  %>  
-* hash
+ *  #   hash
  *  %-  
 
 
 
 
-* Sets 
+!!Sets 
 
 
 
@@ -45,7 +44,7 @@
 
 
 
-* Definitions
+!!Definitions
 
 
 
@@ -127,4 +126,5 @@ __й Deletion in front of я Suffix and others__
 
 
 
+!!Devoicing
 __Onset consonant devoicing __  
