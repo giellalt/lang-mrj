@@ -22,20 +22,20 @@ GT_LEXC_ROOT=root.lexc
 GT_LEXC_SRCS=\
 			 stems/abbr.lexc          \
 			 stems/acro.lexc          \
-			 stems/exceptions.lexc          \
-			 stems/punct.lexc          \
-			 stems/urj-Cyrl-propernouns.lexc          \
+			 stems/exceptions.lexc    \
+			 stems/punct.lexc         \
 			 affixes/adjectives.lexc  \
-			 affixes/adverbs.lexc  \
+			 affixes/adverbs.lexc     \
 			 affixes/clitics.lexc     \
 			 affixes/nouns.lexc       \
 			 affixes/propernouns.lexc \
-			 affixes/pronouns.lexc \
+			 affixes/pronouns.lexc    \
 			 affixes/quantifiers.lexc \
 			 affixes/verbs.lexc
 
 # Set this to the names of all generated lexc files, if any
 GENERATED_LEXC_SRCS=\
+			stems/urj-Cyrl-propernouns.lexc \
 			stems/adjectives.lexc    \
 			stems/adverbs.lexc       \
 			stems/conjunctions.lexc  \
@@ -65,6 +65,9 @@ GT_XML_SRCS=\
 			stems/quantifiers.xml   \
 			stems/verbs.xml
 
+$(srcdir)/stems/urj-Cyrl-propernouns.lexc: \
+	$(GTCORE)/gtdshared/urj-Cyrl/src/morphology/stems/urj-Cyrl-propernouns.lexc
+	$(AM_V_GEN)cp -f $< $@
 
 include $(top_srcdir)/am-shared/lexc-include.am
 
