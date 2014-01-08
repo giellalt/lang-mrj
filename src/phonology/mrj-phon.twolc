@@ -17,7 +17,7 @@ Alphabet
  %{аӓ%}:ӓ  !!= * @CODE@ a/ä alternation in vowel harmony
 
  Е3:е !!= * @CODE@ ӓвӓмвлӓ 
-! Е2:е !!= * @CODE@ 
+! Е2:е != * @CODE@ 
  Е2:0 !!= * @CODE@
  %{ыӹ%0%}:0 !!= * @CODE@ 
 
@@ -38,7 +38,7 @@ Alphabet
 !! !!Boundary symbols
 
  %> !!= * @CODE@ 
- #  !!= * @CODE@ hash
+ #  !!  * hash #
  %- !!= * @CODE@ 
 
 
