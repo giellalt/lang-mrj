@@ -42,7 +42,7 @@ LEXICON NMN_ТӸРВӸ !!= * @CODE@ тӹрвӹ:тӹрвӹ
 !+PxSg1:%>Е2м SG-ABEACCCOMDATGEN ;
 +PxSg1:эм PL-ABEACCCOMDATGENILLINELATNOM ;
 
-LEXICON	  NMN_КАРТА	 !!= * @CODE@ карта:карта
+LEXICO NMN_КАРТА	 !!= * @CODE@ карта:карта
 !! а is specific to the +Sg+Nom, elsewhere ы or ӹ
 :%^А2ЫӸ NMN_OBLIQUE-INDEFINITE ;
 :%^А2ЫӸ NMN_OBLIQUE-POSSESSA ;
@@ -294,6 +294,7 @@ LEXICON NMN_OBLIQUE-POSSESSA
  PXPL2-PL-INE		   ;
  PXPL2-PL-LAT		   ;
  PXPL2-PL-NOM 		   ;
+
 !!PxPl3
  PXPL3-SG-ABE 		   ;
  PXPL3-SG-ACC 		   ;
