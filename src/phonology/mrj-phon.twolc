@@ -224,50 +224,14 @@ Rules
   Ы2:0 <=>    Cns %> [ %{ыӹ%0%}: [ д Ы2: м | м | ш ( т | к ) ]| ж: ] _ %> [ Е2: Cns | А2: ] ;
 ! Vow %> [ %{ыӹ%0%}: ш [ т | к ] | ж: ] _ %> [ л | г | %{ыӹ%0%}: ш | ш | д | Е2: | А2: ] ;
 
-!Work 2012-10-29!"suffix-final vowel realized as -Round in word-final position"
-!Work 2012-10-29!  Ы2:е <=> :NonLabVow [ Cns | й | :ы | :0 ]* %> ( ( ж: [ Ы2:е | Ы2:ы | Ы2:0 ] %> ) [ %{ыӹ%0%}: | ы ] ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ #: | %- ] ;
-!Work 2012-10-29!           :NonLabVow [ Cns | :ы | :0 ]* %> [ ж: ] _ %> %{ыӹ%0%}: ш [ #: | %- | %> ] ;
-!Work 2012-10-29!
-!Work 2012-10-29!"suffix-final vowel realized as +Back +Round in word-final position"
-!Work 2012-10-29!  Ы2:о <=> :BackLabVow [ Cns | :ы | :0 ]* %> ( ( ж: [ Ы2:о | Ы2:ы | Ы2:0 ] %> ) %{ыӹ%0%}: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ #: | %- ] ;
-!Work 2012-10-29!           :BackLabVow [ Cns | :ы | :0 ]* %> [ ж: ] _ %> %{ыӹ%0%}: ш [ #: | %- | %> ] ;
-!Work 2012-10-29!
-!Work 2012-10-29!"suffix-final vowel realized as +Front +Round in word-final position"
-!Work 2012-10-29!  Ы2:ӧ <=> :FrontLabVow [ Cns | :ы | :0 ]* %> ( ( ж: [ Ы2:ӧ | Ы2:ы | Ы2:0 ] %> ) %{ыӹ%0%}: ш [ т | к ] | ы ж | ж: | ш | м | д ы м ) _ [ #: | %- ] ;
-!Work 2012-10-29!           :FrontLabVow [ Cns | :ы | :0 ]* %> [ ж: ] _ %> %{ыӹ%0%}: ш [ #: | %- | %> ] ;
-!Work 2012-10-29!
-!Work 2012-10-29! Retaining stem-final _е1_ in adjectives and nouns
-!Work 2012-10-29! It has been removed from Vem stems
-!Work 2012-10-29! _е1_ follows much the same pattern as _Ы2_
-!Work 2012-10-29!
-!Work 2012-10-29! "suffix-final vowel realized after stem-final consonant"
-!Work 2012-10-29!  е1:ы <=>  Cns _ %> [ л | г | ш | д | %{ыӹ%0%}: ] ;
-!Work 2012-10-29!
-!Work 2012-10-29!"suffix-final vowel realized as -Round in word-final position"
-!Work 2012-10-29!  е1:е <=> NonLabVow [ Cns | ы ]* Cns _ [ #: | %- ] ;
-!Work 2012-10-29!
-!Work 2012-10-29!"suffix-final vowel realized as +Back +Round in word-final position"
-!Work 2012-10-29!  е1:о <=> BackLabVow [ Cns | ы ]* _ [ #: | %- ] ;
-!Work 2012-10-29!
-!Work 2012-10-29!"suffix-final vowel realized as +Front +Round in word-final position"
-!Work 2012-10-29!  е1:ӧ <=> FrontLabVow [ Cns | ы ]* _ [ #: | %- ] ;
-!Work 2012-10-29!
-!Work 2012-10-29!
-!Work 2012-10-29! 
-!Work 2012-10-29!"Clitics in At and Ak take onset glide"
-!Work 2012-10-29!  А2:я <=> ь:0 %> _ [ т | к | м | ш ] ;
-!Work 2012-10-29! "A2 as я in й-final stems"
-!Work 2012-10-29!           й:0 %> _  ;
 
 "й Deletion in front of я Suffix and others"
 !! __@RULENAME@__  
   й:0 <=> _ ( %^ConsTransf:0 ) %> [ :я | :е | :и | :ю ]  ;
 
 
-!Work 2012-10-29!"Clitics in At and Ak take onset glide"
-!Work 2012-10-29!  А2:а <=> [ Cns ( Ы2:0 ) | :Vow ] %> _ [ т | к | м | ш ] ;
 
-! Devoicing
+!! !Devoicing
 "Onset consonant devoicing" 
 !! __@RULENAME@__  
  ж:ш <=> [ :Cst ( :0 ) | ж ] ( %^ConsTransf:0 ) %> _ [ %{ыӹ%0%}: | Ы2: ] ;
