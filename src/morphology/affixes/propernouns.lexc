@@ -70,16 +70,16 @@ LEXICON PropNameMaleDer-Ovich
 !! !!Female Given names 
 
 LEXICON Prop-kal_fem
-+N+Prop+Fem: N_01 ;
++N+Prop+Sem/Fem: N_01 ;
 
 LEXICON Prop-lak_fem
-+N+Prop+Fem: N_01 ;
++N+Prop+Sem/Fem: N_01 ;
 
 LEXICON Prop-kit_fem
-+N+Prop+Fem: N_01 ;
++N+Prop+Sem/Fem: N_01 ;
 
 LEXICON Prop-osh_fem
-+N+Prop+Fem: N_01 ;
++N+Prop+Sem/Fem: N_01 ;
 
 LEXICON Prop-teshte_fem
  Prop-pango_fem ;
@@ -88,10 +88,10 @@ LEXICON Prop-tinge_fem
  Prop-pango_fem ;
 
 LEXICON Prop-pango_fem
-+N+Prop+Fem: N_01 ;
++N+Prop+Sem/Fem: N_01 ;
 
 LEXICON Prop-kudo_fem
-+N+Prop+Fem: N_01 ;
++N+Prop+Sem/Fem: N_01 ;
 
 
 
@@ -148,58 +148,58 @@ LEXICON CYRL-А_SUR
  PROP_КУДО_SUR ;
 
 LEXICON PROP_КАЛ_FEM
-+N+Prop+Fem: N_01 ;
++N+Prop+Sem/Fem: N_01 ;
 
 LEXICON PROP_КАЛ_MAL
-+N+Prop+Mal: N_01 ;
++N+Prop+Sem/Mal: N_01 ;
 
 LEXICON PROP_КАЛ_SURMAL
-+N+Prop+Sur+Mal: N_01 ;
++N+Prop+Sem/Sur+Sem/Mal: N_01 ;
 
 LEXICON PROP_КАЛ_SUR
-+N+Prop+Sur: N_01 ;
++N+Prop+Sem/Sur: N_01 ;
 
 LEXICON PROP_КИТ_FEM
-+N+Prop+Fem: N_01 ;
++N+Prop+Sem/Fem: N_01 ;
 
 LEXICON PROP_КИТ_MAL
-+N+Prop+Mal: N_01 ;
++N+Prop+Sem/Mal: N_01 ;
 
 LEXICON PROP_КИТ_SUR
  PROP_КАЛ_SUR ;
 
 LEXICON PROP_КУДО_FEM
-+N+Prop+Fem: N_01 ;
++N+Prop+Sem/Fem: N_01 ;
 
 LEXICON PROP_КУДО_MAL
-+N+Prop+Mal: N_01 ;
++N+Prop+Sem/Mal: N_01 ;
 
 LEXICON PROP_КУДО_PATRFEM
-+N+Prop+Patr+Fem: N_01 ;
++N+Prop+Sem/Patr+Sem/Fem: N_01 ;
 
 LEXICON PROP_КУДО_SUR
-+N+Prop+Sur: N_01 ;
++N+Prop+Sem/Sur: N_01 ;
 
 LEXICON PROP_КУДО_SURFEM
-+N+Prop+Sur+Fem: N_01 ;
++N+Prop+Sem/Sur+Sem/Fem: N_01 ;
 
 LEXICON PROP_ЛАК_MAL
-+N+Prop+Mal: N_01 ;
++N+Prop+Sem/Mal: N_01 ;
 
 LEXICON PROP_ЛАК_SUR
  PROP_КАЛ_SUR ;
 
 LEXICON PROP_ОШ_FEM
-+N+Prop+Fem: N_01 ;
++N+Prop+Sem/Fem: N_01 ;
 
 LEXICON PROP_ОШ_MAL
-+N+Prop+Mal: N_01 ;
++N+Prop+Sem/Mal: N_01 ;
 
 LEXICON PROP_ОШ_PATRMAL
-+N+Prop+Patr+Mal: N_01 ;
++N+Prop+Sem/Patr+Sem/Mal: N_01 ;
 
 LEXICON PROP_ОШ_SUR
-+N+Prop+Sur: N_01 ;
++N+Prop+Sem/Sur: N_01 ;
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -207,16 +207,16 @@ LEXICON PROP_ОШ_SUR
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PROP_КАЛ_PLC
-+N+Prop+Plc: N_01 ;
++N+Prop+Sem/Plc: N_01 ;
 
 LEXICON PROP_КИТ_PLC
-+N+Prop+Plc: N_01 ;
++N+Prop+Sem/Plc: N_01 ;
 
 LEXICON PROP_ОШ_PLC
-+N+Prop+Plc: N_01 ;
++N+Prop+Sem/Plc: N_01 ;
 
 LEXICON PROP_КУДО_PLC
-+N+Prop+Plc: N_01 ;
++N+Prop+Sem/Plc: N_01 ;
 
 
 
