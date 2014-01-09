@@ -141632,6 +141632,26 @@
 
   <e>
     <lg>
+      <l pos="N">рейс</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">рейс</st>
+      </stg>
+
+      <stress>рейс</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">vuoro</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">рейхстаг</l>
 
       <stg>
