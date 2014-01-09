@@ -13,7 +13,7 @@
 ! giellatekno@hum.uit.no or divvun@samediggi.no
 
 ! ==================== !
-! The South Sámi clock !
+! The Hill Mari clock !
 ! ==================== !
 
 ! Note! This is NOT checked with native speakers nor
@@ -33,6 +33,12 @@ Multichar_Symbols
 @U.TIME.10@ 
 @U.TIME.11@ 
 @U.TIME.12@ 
+
+@U.PM.YES@ 
+@U.PM.NO@ 
+
+@U.MEAS.YES@
+@U.MEAS.NO@
 
 +Use/NG
 +Use/NA
@@ -111,6 +117,114 @@ LEXICON Root
 @U.TIME.1@:@U.TIME.1@%0%0 BEFpunkt ; !00:19 - 00:59
 %0%0:24%  # ; !24:00
 
+!!
+! Allowing sloppy 2:30 in answer
+@U.PM.NO@@U.TIME.1@:@U.PM.NO@@U.TIME.1@1+Use/NA HOUR-THEN-MIN_HOURS ; !01:00 - 01:19
+@U.PM.NO@@U.TIME.2@:@U.PM.NO@@U.TIME.2@2+Use/NA HOUR-THEN-MIN_HOURS ; !02:00 - 02:19
+@U.PM.NO@@U.TIME.3@:@U.PM.NO@@U.TIME.3@3+Use/NA HOUR-THEN-MIN_HOURS ; !03:00 - 03:19
+@U.PM.NO@@U.TIME.4@:@U.PM.NO@@U.TIME.4@4+Use/NA HOUR-THEN-MIN_HOURS ; !04:00 - 04:19
+@U.PM.NO@@U.TIME.5@:@U.PM.NO@@U.TIME.5@5+Use/NA HOUR-THEN-MIN_HOURS ; !05:00 - 05:19
+@U.PM.NO@@U.TIME.6@:@U.PM.NO@@U.TIME.6@6+Use/NA HOUR-THEN-MIN_HOURS ; !06:00 - 06:19
+@U.PM.NO@@U.TIME.7@:@U.PM.NO@@U.TIME.7@7+Use/NA HOUR-THEN-MIN_HOURS ; !07:00 - 07:19
+@U.PM.NO@@U.TIME.8@:@U.PM.NO@@U.TIME.8@8+Use/NA HOUR-THEN-MIN_HOURS ; !08:00 - 08:19
+@U.PM.NO@@U.TIME.9@:@U.PM.NO@@U.TIME.9@9+Use/NA HOUR-THEN-MIN_HOURS ; !09:00 - 09:19
+
+! Correct is 02:30
+@U.PM.NO@@U.TIME.1@:@U.PM.NO@@U.TIME.1@%01 HOUR-THEN-MIN_HOURS ; !01:00 - 01:19
+@U.PM.NO@@U.TIME.2@:@U.PM.NO@@U.TIME.2@%02 HOUR-THEN-MIN_HOURS ; !02:00 - 02:19
+@U.PM.NO@@U.TIME.3@:@U.PM.NO@@U.TIME.3@%03 HOUR-THEN-MIN_HOURS ; !03:00 - 03:19
+@U.PM.NO@@U.TIME.4@:@U.PM.NO@@U.TIME.4@%04 HOUR-THEN-MIN_HOURS ; !04:00 - 04:19
+@U.PM.NO@@U.TIME.5@:@U.PM.NO@@U.TIME.5@%05 HOUR-THEN-MIN_HOURS ; !05:00 - 05:19
+@U.PM.NO@@U.TIME.6@:@U.PM.NO@@U.TIME.6@%06 HOUR-THEN-MIN_HOURS ; !06:00 - 06:19
+@U.PM.NO@@U.TIME.7@:@U.PM.NO@@U.TIME.7@%07 HOUR-THEN-MIN_HOURS ; !07:00 - 07:19
+@U.PM.NO@@U.TIME.8@:@U.PM.NO@@U.TIME.8@%08 HOUR-THEN-MIN_HOURS ; !08:00 - 08:19
+@U.PM.NO@@U.TIME.9@:@U.PM.NO@@U.TIME.9@%09 HOUR-THEN-MIN_HOURS ; !09:00 - 09:19
+@U.PM.NO@@U.TIME.10@:@U.PM.NO@@U.TIME.10@1%0 HOUR-THEN-MIN_HOURS ; !10:00 - 10:19
+@U.PM.NO@@U.TIME.11@:@U.PM.NO@@U.TIME.11@11 HOUR-THEN-MIN_HOURS ; !11:00 - 11:59
+@U.PM.YES@@U.TIME.12@:@U.PM.YES@@U.TIME.12@12 HOUR-THEN-MIN_HOURS ; !12:00 - 12:19
+@U.PM.YES@@U.TIME.1@:@U.PM.YES@@U.TIME.1@13 HOUR-THEN-MIN_HOURS ; !13:00 - 13:19
+@U.PM.YES@@U.TIME.2@:@U.PM.YES@@U.TIME.2@14 HOUR-THEN-MIN_HOURS ; !14:00 - 114:19
+@U.PM.YES@@U.TIME.3@:@U.PM.YES@@U.TIME.3@15 HOUR-THEN-MIN_HOURS ; !15:00 - 15:19
+@U.PM.YES@@U.TIME.4@:@U.PM.YES@@U.TIME.4@16 HOUR-THEN-MIN_HOURS ; !16:00 - 16:19
+@U.PM.YES@@U.TIME.5@:@U.PM.YES@@U.TIME.5@17 HOUR-THEN-MIN_HOURS ; !17:00 - 17:19
+@U.PM.YES@@U.TIME.6@:@U.PM.YES@@U.TIME.6@18 HOUR-THEN-MIN_HOURS ; !18:00 - 18:19
+@U.PM.YES@@U.TIME.7@:@U.PM.YES@@U.TIME.7@19 HOUR-THEN-MIN_HOURS ; !19:00 - 19:19
+@U.PM.YES@@U.TIME.8@:@U.PM.YES@@U.TIME.8@2%0 HOUR-THEN-MIN_HOURS ; !20:00 - 20:19
+@U.PM.YES@@U.TIME.9@:@U.PM.YES@@U.TIME.9@21 HOUR-THEN-MIN_HOURS ; !21:00 - 21:19
+@U.PM.YES@@U.TIME.10@:@U.PM.YES@@U.TIME.10@22 HOUR-THEN-MIN_HOURS ; !22:00 - 22:19
+@U.PM.YES@@U.TIME.11@:@U.PM.YES@@U.TIME.11@23 HOUR-THEN-MIN_HOURS ; !23:00 - 23:19
+@U.PM.NO@@U.TIME.12@:@U.PM.NO@@U.TIME.12@%0%0 HOUR-THEN-MIN_HOURS ; !00:00 - 00:19
+%0%0:24%  # ; !24:00
+
+
+!!
+
+LEXICON HOUR-THEN-MIN_HOURS
+@U.MEAS.YES@@U.TIME.1@ик% цӓш:@U.MEAS.YES@@U.TIME.1@ HOUR-THEN-MIN_MINS-TENS ;
+@U.MEAS.YES@@U.TIME.2@кок% цӓш:@U.MEAS.YES@@U.TIME.2@ HOUR-THEN-MIN_MINS-TENS ;
+@U.MEAS.YES@@U.TIME.3@кым% цӓш:@U.MEAS.YES@@U.TIME.3@ HOUR-THEN-MIN_MINS-TENS ;
+@U.MEAS.YES@@U.TIME.4@нӹл% цӓш:@U.MEAS.YES@@U.TIME.4@ HOUR-THEN-MIN_MINS-TENS ;
+@U.MEAS.YES@@U.TIME.5@вӹц% цӓш:@U.MEAS.YES@@U.TIME.5@ HOUR-THEN-MIN_MINS-TENS ;
+@U.MEAS.YES@@U.TIME.6@куд% цӓш:@U.MEAS.YES@@U.TIME.6@ HOUR-THEN-MIN_MINS-TENS ;
+@U.MEAS.YES@@U.TIME.7@шӹм% цӓш:@U.MEAS.YES@@U.TIME.7@ HOUR-THEN-MIN_MINS-TENS ;
+@U.MEAS.YES@@U.TIME.8@кӓндӓкш% цӓш:@U.MEAS.YES@@U.TIME.8@ HOUR-THEN-MIN_MINS-TENS ;
+@U.MEAS.YES@@U.TIME.9@ӹндекш% цӓш:@U.MEAS.YES@@U.TIME.9@ HOUR-THEN-MIN_MINS-TENS ;
+@U.MEAS.YES@@U.TIME.10@лу% цӓш:@U.MEAS.YES@@U.TIME.10@ HOUR-THEN-MIN_MINS-TENS ;
+@U.MEAS.YES@@U.TIME.11@луатик% цӓш:@U.MEAS.YES@@U.TIME.11@ HOUR-THEN-MIN_MINS-TENS ;
+@U.MEAS.YES@@U.TIME.12@луаткок% цӓш:@U.MEAS.YES@@U.TIME.12@ HOUR-THEN-MIN_MINS-TENS ;
+@U.MEAS.NO@@U.TIME.1@иктӹ:@U.MEAS.NO@@U.TIME.1@ HOUR-THEN-MIN_MINS-TENS ;
+@U.MEAS.NO@@U.TIME.2@кокты:@U.MEAS.NO@@U.TIME.2@ HOUR-THEN-MIN_MINS-TENS ;
+@U.MEAS.NO@@U.TIME.3@кымыт:@U.MEAS.NO@@U.TIME.3@ HOUR-THEN-MIN_MINS-TENS ;
+@U.MEAS.NO@@U.TIME.4@нӹлӹт:@U.MEAS.NO@@U.TIME.4@ HOUR-THEN-MIN_MINS-TENS ;
+@U.MEAS.NO@@U.TIME.5@вӹзӹт:@U.MEAS.NO@@U.TIME.5@ HOUR-THEN-MIN_MINS-TENS ;
+@U.MEAS.NO@@U.TIME.6@кудыт:@U.MEAS.NO@@U.TIME.6@ HOUR-THEN-MIN_MINS-TENS ;
+@U.MEAS.NO@@U.TIME.7@шӹмӹт:@U.MEAS.NO@@U.TIME.7@ HOUR-THEN-MIN_MINS-TENS ;
+@U.MEAS.NO@@U.TIME.8@кӓндӓкшӹ:@U.MEAS.NO@@U.TIME.8@ HOUR-THEN-MIN_MINS-TENS ;
+@U.MEAS.NO@@U.TIME.9@ӹндекшӹ:@U.MEAS.NO@@U.TIME.9@ HOUR-THEN-MIN_MINS-TENS ;
+!@U.MEAS.NO@@U.TIME.10@лу:@U.MEAS.NO@@U.TIME.10@ HOUR-THEN-MIN_MINS-TENS ;
+@U.MEAS.NO@@U.TIME.11@луатиктӹ:@U.MEAS.NO@@U.TIME.11@ HOUR-THEN-MIN_MINS-TENS ;
+@U.MEAS.NO@@U.TIME.12@луаткокты:@U.MEAS.NO@@U.TIME.12@ HOUR-THEN-MIN_MINS-TENS ;
+
+
+LEXICON HOUR-THEN-MIN_MINS-TENS
+:%0%0 AM/PM ;
+% дӓ% :%0    HOUR-THEN-MIN_MINS-ONES ;
+@U.MEAS.YES@% дӓ% лу% минут:@U.MEAS.YES@1%0 AM/PM ;
+% дӓ% луат:1    HOUR-THEN-MIN_MINS-ONES ;
+@U.MEAS.YES@% дӓ% коклы% минут:@U.MEAS.YES@2%0 AM/PM ;
+% дӓ% коклы% :2    HOUR-THEN-MIN_MINS-ONES ;
+@U.MEAS.YES@% дӓ% кымлы% минут:@U.MEAS.YES@3%0 AM/PM ;
+% дӓ% кымлы% :3    HOUR-THEN-MIN_MINS-ONES ;
+@U.MEAS.YES@% дӓ% нӹллы% минут:@U.MEAS.YES@4%0 AM/PM ;
+% дӓ% нӹллы% :4    HOUR-THEN-MIN_MINS-ONES ;
+@U.MEAS.YES@% дӓ% вӹцлы% минут:@U.MEAS.YES@5%0 AM/PM ;
+% дӓ% вӹцлы% :5    HOUR-THEN-MIN_MINS-ONES ;
+
+LEXICON HOUR-THEN-MIN_MINS-ONES
+@U.MEAS.YES@ик% минут:@U.MEAS.YES@1 AM/PM ;
+@U.MEAS.YES@кок% минут:@U.MEAS.YES@2 AM/PM ;
+@U.MEAS.YES@кым% минут:@U.MEAS.YES@3 AM/PM ;
+@U.MEAS.YES@нӹл% минут:@U.MEAS.YES@4 AM/PM ;
+@U.MEAS.YES@вӹц% минут:@U.MEAS.YES@5 AM/PM ;
+@U.MEAS.YES@куд% минут:@U.MEAS.YES@6 AM/PM ;
+@U.MEAS.YES@шӹм% минут:@U.MEAS.YES@7 AM/PM ;
+@U.MEAS.YES@кӓндӓкш% минут:@U.MEAS.YES@8 AM/PM ;
+@U.MEAS.YES@ӹндекш% минут:@U.MEAS.YES@9 AM/PM ;
+
+@U.MEAS.NO@иктӹ:@U.MEAS.NO@1 AM/PM ;
+@U.MEAS.NO@кокты:@U.MEAS.NO@2 AM/PM ;
+@U.MEAS.NO@кымыт:@U.MEAS.NO@3 AM/PM ;
+@U.MEAS.NO@нӹлӹт:@U.MEAS.NO@4 AM/PM ;
+@U.MEAS.NO@вӹзӹт:@U.MEAS.NO@5 AM/PM ;
+@U.MEAS.NO@кудыт:@U.MEAS.NO@6 AM/PM ;
+@U.MEAS.NO@шӹмӹт:@U.MEAS.NO@7 AM/PM ;
+@U.MEAS.NO@кӓндӓкшӹ:@U.MEAS.NO@8 AM/PM ;
+@U.MEAS.NO@ӹндекшӹ:@U.MEAS.NO@9 AM/PM ;
+
+LEXICON AM/PM
+@U.PM.NO@% ирок:@U.PM.NO@ # ;
+@U.PM.YES@% вадеш:@U.PM.YES@ # ;
+!!
 
 LEXICON BEFpunkt
 :%:+Use/NA BEF ;
@@ -153,27 +267,26 @@ luhkieuktsie% :41 TO ;
 luhkiegaektsie% :42 TO ;
 luhkietjïjhtje% :43 TO ;
 luhkiegovhte% :44 TO ;
-njealjehts% :45 TO ;
+луатвӹц% :45 TO ;
+луцкы% :45 TO ;
 luhkienjieljie% :46 TO ;
 luhkienjielje% :46+Use/NG TO ;
 luhkienieljie% :46+Use/NG TO ;
 luhkienielje% :46+Use/NG TO ;
-luhkiegolme% :47 TO ;
-luhkiegöökte% :48 TO ;
-luhkieakte% :49 TO ;
-luhkie% :5%0 TO ;
-uktsie% :51 TO ;
-gaektsie% :52 TO ;
-tjïjhtje% :53 TO ;
-govhte% :54 TO ;
-vïjhte% :55 TO ; 
-njieljie% :56 TO ; 
-njielje% :56+Use/NG TO ;
-nieljie% :56+Use/NG TO ;
-nielje% :56+Use/NG TO ;
-golme% :57 TO ;
-göökte% :58 TO ; 
-akte% :59 TO ;
+луаткым% :47 TO ;
+луаткок% :48 TO ;
+луатик% :49 TO ;
+лу% :5%0 TO ;
+ӹндекш% :51 TO ;
+кӓндӓкш% :52 TO ;
+шӹм% :53 TO ;
+куд% :54 TO ;
+вӹц% :55 TO ; 
+нӹл% :56 TO ; 
+!nielje% :56+Use/NG TO ;
+кым% :57 TO ;
+кок% :58 TO ; 
+ик% :59 TO ;
 
 LEXICON AFT
 :%0%0 HOUR ;
