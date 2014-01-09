@@ -56,6 +56,10 @@ BackVow = BackLabVow а А ы Ы ;
 FrontVow = FrontLabVow е и э ӓ ӹ Е И Э Ӓ Ӹ ;
 ArchiVow = %{ыӹ%0%} Ы2 %{аӓ%} ;
 
+CnsNoLN =  б в г д ж з к м ҥ п р с т ф х ц ч ш 
+           Б В Г Д Ж З К М Ҥ П Р С Т Ф Х Ц Ч Ш ;
+
+
 Cns =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш 
        Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш ;
 Cst =  к п т ф х ц ч ш с 
@@ -71,7 +75,7 @@ all =  Ltrs  %- ;
 
 Definitions
 
-LFC = # Cns* [ :FrontVow | Е2: | :е | :ӹ | :Ӹ ] \[ #: | :BackVow | :ы | :Ы ]* (%{аӓ%}:я ) \[ #: | :BackVow | :ы | :Ы ]*  (%^А2ЫӸ:0) ;
+LFC = # Cns*  [ :FrontVow | Е2: | :е | :ӹ | :Ӹ ] \[ #: | :BackVow | :ы | :Ы ]* (%{аӓ%}:я ) \[ #: | :BackVow | :ы | :Ы ]*  (%^А2ЫӸ:0) ;
 
 LBC = # Cns* [ :BackVow ] \[ #: | :FrontVow | :Ӹ | :ӹ ]* (%{аӓ%}:я) \[ #: | :FrontVow | :Ӹ | :ӹ ]* (%^А2ЫӸ:0) ;
 ! [ :BackVow ] ( %> | %^ConsTransf:0 | %^KIN:0 | BackVow | %{аӓ%}:а | %{аӓ%}:я | %{ыӹ%0%}:ы | Ь2:0 | %{ыӹ%0%}:0 | Е3:0 | Ы2:ы | Cns: )* ;
@@ -94,7 +98,7 @@ Rules
 
 "Ь2:0 Palatal mark for V АМ +Prt1+Sg1"
 !! __@RULENAME@__  
-Ь2:0 <=> [[Vow | Cns: | й ] - [ н | л ]] _ %> %{ыӹ%0%}: ;
+Ь2:0 <=> [Vow | й | CnsNoLN: ] _ %> %{ыӹ%0%}: ;
 
 
 
@@ -104,6 +108,7 @@ Rules
 !! __@RULENAME@__  
    %{ыӹ%0%}:0 <=> :Vow ( %^KIN:0 ) %> _ ;
            %> ж Ы2: %> _  ;
+          [ а:ӹ | а:ы ] %^А2ЫӸ:0 %> _ ;
 
 "Onset vowel loss in suffix Е3"
 !! __@RULENAME@__  
@@ -113,16 +118,16 @@ Rules
 
 ! "Onset vowel loss in suffix Е2"
 !! __@RULENAME@__  
-!   Е2:0 <=> %> ж Ы2: %> _  ;
+!   Е2:0 <=> %> ж Ы2: %> _  Cns ;
 
 
 "Onset vowel Е2 realized in suffix :е"
 !! __@RULENAME@__
-  Е2:е <=> [ Cns (Ы2: |ӹ:|ы:)| й: ] %> _ ;
+  Е2:е <=> [ Cns (Ы2: |ӹ:|ы:)| й: ] %> _ [в|м|н|т|ш] ;
 
 "Onset vowel Е2:э after retained vowel"
 !! __@RULENAME@__  
-Е2:э <=> [ ю | ӱ | у | ё | о | ӧ | и | е | э | а | ӓ ] %> _ ;
+Е2:э <=> [ ю | ӱ | у | ё | о | ӧ | и | е | э | а | ӓ ] %> _ [в|м|н|т|ш] ;
 
 "Onset vowel Е3:э after retained vowel"
 !! __@RULENAME@__  
@@ -130,13 +135,13 @@ Rules
 
 "Stem final ы loss before Е2"
 !! __@RULENAME@__  
-ы:0 <=> #: Cns* Vow Cns+ _ %>  Е2: ;
-           _ %> [ %{аӓ%}: | Е2: | Е3: ] ;
+ы:0 <=> #: Cns* Vow Cns+ _ %>  Е2: [в|м|н|т|ш] ;
+           _ %> [ %{аӓ%}: [м|т|ш|%>|#] | Е2: [в|м|н|т|ш] | Е3: ] ;
 
 "Stem final ӹ loss before Е2"
 !! __@RULENAME@__  
-ӹ:0 <=> #: Cns* Vow Cns+ _ %> Е2: ;
-           _ %> [ %{аӓ%}: | Е2: | Е3: ] ;
+ӹ:0 <=> #: Cns* Vow Cns+ _ %> Е2: [в|м|н|т|ш] ;
+           _ %> [ %{аӓ%}: [м|т|ш|%>|#]| Е2: [в|м|н|т|ш] | Е3: ] ;
 
 
 !! !!Vowel harmony
@@ -151,18 +156,18 @@ Rules
   %{ыӹ%0%}:ӹ <=> LFC [ Cns  | й ] (Ь2:) %> _ ;
 
 "Affix mid or final front %{аӓ%}:ӓ"
- %{аӓ%}:ӓ <=> [ LFC [ :Cns (%>)| %> Cns:+ ] | Е2:е Cns:+ ] _ ;
+ %{аӓ%}:ӓ <=> [ LFC [ :Cns (%>)| %> Cns:+ ] | %> Е2:е [в|м|н|т|ш] Cns:* ] _ [м|н|т|ш|%>|#] ;
 
 "Affix mid or final back %{аӓ%}:а"
 !! __@RULENAME@__  
- %{аӓ%}:а <=> LBC [ й %> %{ыӹ%0%}: м  | :Cns ( %> ) ] _ ;
-          BackVow  й: %^ConsTransf:0 %> [ н | д ] _ ;
+ %{аӓ%}:а <=> LBC [ й %> %{ыӹ%0%}: м  | :Cns  %> |р|н|д|л] _ [м|н|т|ш|к|%>|#];
+          BackVow  й: %^ConsTransf:0 %> [ н | д ] _ [м|т|%>|#];
 !€ колт>%{ыӹ%0%}д%{аӓ%}
 !€ колт0ыда
 
 "Affix mid or final back %{аӓ%}:я"
 !! __@RULENAME@__  
- %{аӓ%}:я <=> Vow й:0 %> _ ;
+ %{аӓ%}:я <=> Vow й:0 %> _ [м|т|ш|%>|#] ;
 
 "Affix initial back а:я"
 !! __@RULENAME@__  
@@ -170,11 +175,11 @@ Rules
 
 "Not SgNom а:ы"
 !! __@RULENAME@__
-а:ы <=> LBC _ %^А2ЫӸ:0 %> ;
+а:ы <=> BackVow Cns+ _ %^А2ЫӸ:0 %> ;
 
 "Not SgNom а:ӹ"
 !! __@RULENAME@__
-а:ӹ <=> LFC _ %^А2ЫӸ:0 %> ;
+а:ӹ <=> FrontVow Cns+ _ %^А2ЫӸ:0 %> ;
 
 
 "suffix-final vowel backed Ы2ы"
@@ -216,8 +221,8 @@ Rules
 
 "suffix-final vowel loss before subsequent suffix-initial vowel Ы2:0" 
 !! __@RULENAME@__  
-  Ы2:0 <=>    Cns %> [ %{ыӹ%0%}: [ д Ы2: м | м | ш ( т | к ) ]| ж: ] _ %> [ Е2: Cns | А2: ] ;
-! Vow %> [ %{ыӹ%0%}: ш [ т | к ] | ж: ] _ %> [ л | г | %{ыӹ%0%}: ш | ш | д | Е2: | А2: ] ;
+  Ы2:0 <=>    Cns %> [ %{ыӹ%0%}: [ д Ы2: м | м | ш ( т | к ) ]| ж: ] _ %> [ Е2: [в|м|н|т|ш] | А2: ] ;
+! Vow %> [ %{ыӹ%0%}: ш [ т | к ] | ж: ] _ %> [ л | г | %{ыӹ%0%}: ш | ш | д | Е2: [в|м|н|т|ш] | А2: ] ;
 
 
 "й Deletion in front of я Suffix and others"
