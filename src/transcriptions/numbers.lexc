@@ -1,3 +1,7 @@
+Multichar_Symbols
++Attr
++Card
++Ord
 
 LEXICON Root
 HUNDREDSM ;		! 200M
@@ -208,30 +212,40 @@ LEXICON LOHKAI
  ORDINAL-LOHKAI ;
 
 LEXICON CARDINAL-LOHKAI
-иктӹ:1 ENDLEX ;
-кокты:2 ENDLEX ;
-кымыт:3 ENDLEX ;
-нӹлӹт:4 ENDLEX ;
-вӹзӹт:5 ENDLEX ;
-кудыт:6 ENDLEX ;
-шӹмӹт:7 ENDLEX ;
-кӓндӓкшӹ:8 ENDLEX ;
-ӹндекшӹ:9 ENDLEX ;
+ик+Card+Attr:1 ENDLEX ;
+кок+Card+Attr:2 ENDLEX ;
+кым+Card+Attr:3 ENDLEX ;
+нӹл+Card+Attr:4 ENDLEX ;
+вӹц+Card+Attr:5 ENDLEX ;
+куд+Card+Attr:6 ENDLEX ;
+шӹм+Card+Attr:7 ENDLEX ;
+кӓндӓкш+Card+Attr:8 ENDLEX ;
+ӹндекш+Card+Attr:9 ENDLEX ;
+
+иктӹ+Card:1 ENDLEX ;
+кокты+Card:2 ENDLEX ;
+кымыт+Card:3 ENDLEX ;
+нӹлӹт+Card:4 ENDLEX ;
+вӹзӹт+Card:5 ENDLEX ;
+кудыт+Card:6 ENDLEX ;
+шӹмӹт+Card:7 ENDLEX ;
+кӓндӓкшӹ+Card:8 ENDLEX ;
+ӹндекшӹ+Card:9 ENDLEX ;
 
 LEXICON ORDINAL-LOHKAI
-икшӹ:1 ENDLEX ;
-кокшы:2 ENDLEX ;
-кымшы:3 ENDLEX ;
-нӹлӹмшӹ:4 ENDLEX ;
-вӹзӹмшӹ:5 ENDLEX ;
-кудымшы:6 ENDLEX ;
-шӹмшӹ:7 ENDLEX ;
-кӓндӓкшӹмшӹ:8 ENDLEX ;
-ӹндекшӹмшӹ:9 ENDLEX ;
+икшӹ+Ord:1%-шӹ ENDLEX ;
+кокшы+Ord:2%-шы ENDLEX ;
+кымшы+Ord:3%-шы ENDLEX ;
+нӹлӹмшӹ+Ord:4%-шӹ ENDLEX ;
+вӹзӹмшӹ+Ord:5%-шӹ ENDLEX ;
+кудымшы+Ord:6%-шы ENDLEX ;
+шӹмшӹ+Ord:7%-шӹ ENDLEX ;
+кӓндӓкшӹмшӹ+Ord:8%-шӹ ENDLEX ;
+ӹндекшӹмшӹ+Ord:9%-шӹ ENDLEX ;
 
 LEXICON TENS
-лу:1%0 ENDLEX ;
-лушы:1%0 ENDLEX ; !!= @CODE@ ordinal
+лу+Card:1%0 ENDLEX ;
+лушы+Ord:1%0%-шы ENDLEX ; !!= @CODE@ ordinal
 коклы:2 LÅGEV ;
 кымлы:3 LÅGEV ;
 нӹллӹ:4 LÅGEV ;
@@ -242,35 +256,24 @@ LEXICON TENS
 ӹндекшлу:9 LÅGEV ;
 
 LEXICON LÅGEV
-:%0 ENDLEX ;
-шы:%0 ENDLEX ; !!= @CODE@ ordinal
++Card:%0 ENDLEX ;
+шы+Ord:%0%-шы ENDLEX ; !!= @CODE@ ordinal
 % :    LOHKAI ;
 
 LEXICON ONES
- CARDINAL-ONES ;
+CARDINAL-LOHKAI ;
  ORDINAL-ONES ;
 
-LEXICON CARDINAL-ONES
-иктӹ:1 ENDLEX ;
-кокты:2 ENDLEX ;
-кымыт:3 ENDLEX ;
-нӹлӹт:4 ENDLEX ;
-вӹзӹт:5 ENDLEX ;
-кудыт:6 ENDLEX ;
-шӹмӹт:7 ENDLEX ;
-кӓндӓкшӹ:8 ENDLEX ;
-ӹндекшӹ:9 ENDLEX ;
-
 LEXICON ORDINAL-ONES
-пӹтӓришӹ:1 ENDLEX ;
-кокшы:2 ENDLEX ;
-кымшы:3 ENDLEX ;
-нӹлӹмшӹ:4 ENDLEX ;
-вӹзӹмшӹ:5 ENDLEX ;
-кудымшы:6 ENDLEX ;
-шӹмшӹ:7 ENDLEX ;
-кӓндӓкшӹмшӹ:8 ENDLEX ;
-ӹндекшӹмшӹ:9 ENDLEX ;
+пӹтӓришӹ+Ord:1%-шӹ ENDLEX ;
+кокшы+Ord:2%-шы ENDLEX ;
+кымшы+Ord:3%-шы ENDLEX ;
+нӹлӹмшӹ+Ord:4%-шӹ ENDLEX ;
+вӹзӹмшӹ+Ord:5%-шӹ ENDLEX ;
+кудымшы+Ord:6%-шы ENDLEX ;
+шӹмшӹ+Ord:7%-шӹ ENDLEX ;
+кӓндӓкшӹмшӹ+Ord:8%-шӹ ENDLEX ;
+ӹндекшӹмшӹ+Ord:9%-шӹ ENDLEX ;
 
 LEXICON ENDLEX
  # ;
