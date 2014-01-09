@@ -99,8 +99,8 @@ HUNDREDST ;		! x00.000.000
 :%0%0%0 UNDERTHOUSAND ;	
 :%0%0%0%0 TENS ;
 :%0%0%0%0 TEENS ;
-% :%0%0%0%0%0 ONES ;
-:%0%0%0%0%0%0 # ;	!  x000000
+% :%0%0%0%0%0 LOHKAI ;
+:%0%0%0%0%0%0 ENDLEX ;	!  x000000
 
 LEXICON HUNDREDST
 кок:2  CUODIT ;	! 200000-299999
@@ -170,8 +170,8 @@ LEXICON THOUSAND
 % : UNDERTHOUSAND ;	   ! 1100-1999
 % :%0 TENS ;	   ! 1020-1099
 % :%0 TEENS ;	   ! 1010-1019
-% :%0%0 ONES ;	   ! 1001-1009
-:%0%0%0 # ;	   ! 1000
+% :%0%0 LOHKAI ;	   ! 1001-1009
+:%0%0%0 ENDLEX ;	   ! 1000
 
 !===========================
 !Here starts the 999 numbers
@@ -197,28 +197,41 @@ LEXICON CUODI
 LEXICON HUNDRED
 % : TENS ;
 % : TEENS ;
-% :%0 ONES ;
-:%0%0 # ;
+% :%0 LOHKAI ;
+:%0%0 ENDLEX ;
 
 LEXICON TEENS
-:1 TEEN ;
-
-LEXICON TEEN
-луат: LOHKAI ;
+луат:1 LOHKAI ;
 
 LEXICON LOHKAI
-иктӹ:1 # ;
-кокты:2 # ;
-кымыт:3 # ;
-нӹлӹт:4 # ;
-вӹзӹт:5 # ;
-кудыт:6 # ;
-шӹмӹт:7 # ;
-кӓндӓкшӹ:8 # ;
-ӹндекшӹ:9 # ;
+ CARDINAL-LOHKAI ;
+ ORDINAL-LOHKAI ;
+
+LEXICON CARDINAL-LOHKAI
+иктӹ:1 ENDLEX ;
+кокты:2 ENDLEX ;
+кымыт:3 ENDLEX ;
+нӹлӹт:4 ENDLEX ;
+вӹзӹт:5 ENDLEX ;
+кудыт:6 ENDLEX ;
+шӹмӹт:7 ENDLEX ;
+кӓндӓкшӹ:8 ENDLEX ;
+ӹндекшӹ:9 ENDLEX ;
+
+LEXICON ORDINAL-LOHKAI
+икшӹ:1 ENDLEX ;
+кокшы:2 ENDLEX ;
+кымшы:3 ENDLEX ;
+нӹлӹмшӹ:4 ENDLEX ;
+вӹзӹмшӹ:5 ENDLEX ;
+кудымшы:6 ENDLEX ;
+шӹмшӹ:7 ENDLEX ;
+кӓндӓкшӹмшӹ:8 ENDLEX ;
+ӹндекшӹмшӹ:9 ENDLEX ;
 
 LEXICON TENS
-лу:1%0 # ;
+лу:1%0 ENDLEX ;
+лушы:1%0 ENDLEX ; !!= @CODE@ ordinal
 коклы:2 LÅGEV ;
 кымлы:3 LÅGEV ;
 нӹллӹ:4 LÅGEV ;
@@ -229,17 +242,35 @@ LEXICON TENS
 ӹндекшлу:9 LÅGEV ;
 
 LEXICON LÅGEV
-:%0 # ;
-% :    ONES ;
+:%0 ENDLEX ;
+шы:%0 ENDLEX ; !!= @CODE@ ordinal
+% :    LOHKAI ;
 
 LEXICON ONES
-иктӹ:1 # ;
-кокты:2 # ;
-кымыт:3 # ;
-нӹлӹт:4 # ;
-вӹзӹт:5 # ;
-кудыт:6 # ;
-шӹмӹт:7 # ;
-кӓндӓкшӹ:8 # ;
-ӹндекшӹ:9 # ;
+ CARDINAL-ONES ;
+ ORDINAL-ONES ;
 
+LEXICON CARDINAL-ONES
+иктӹ:1 ENDLEX ;
+кокты:2 ENDLEX ;
+кымыт:3 ENDLEX ;
+нӹлӹт:4 ENDLEX ;
+вӹзӹт:5 ENDLEX ;
+кудыт:6 ENDLEX ;
+шӹмӹт:7 ENDLEX ;
+кӓндӓкшӹ:8 ENDLEX ;
+ӹндекшӹ:9 ENDLEX ;
+
+LEXICON ORDINAL-ONES
+пӹтӓришӹ:1 ENDLEX ;
+кокшы:2 ENDLEX ;
+кымшы:3 ENDLEX ;
+нӹлӹмшӹ:4 ENDLEX ;
+вӹзӹмшӹ:5 ENDLEX ;
+кудымшы:6 ENDLEX ;
+шӹмшӹ:7 ENDLEX ;
+кӓндӓкшӹмшӹ:8 ENDLEX ;
+ӹндекшӹмшӹ:9 ENDLEX ;
+
+LEXICON ENDLEX
+ # ;
