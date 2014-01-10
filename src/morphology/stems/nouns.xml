@@ -38689,16 +38689,26 @@
     </lg>
 
     <mg>
+      <semantics>
+        <sem class="MORFAS"/>
+      </semantics>
+
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">perhe</t>
+
+        <t pos="N">suku</t>
+      </tg>
+    </mg>
+
+    <mg>
       <defNative/>
 
       <tg xml:lang="fin">
         <t pos="N">lajike</t>
 
         <t pos="N">laji</t>
-
-        <t pos="N">perhe</t>
-
-        <t pos="N">suku</t>
       </tg>
     </mg>
   </e>
