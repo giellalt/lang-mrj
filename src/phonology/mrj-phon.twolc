@@ -90,8 +90,13 @@ Rules
 "Palatal mark loss before vowel"
 !! __@RULENAME@__  
     ь:0  <=>   _ %> А2: ;
-   ! JMR 2012-09-18
-      
+         [ н | л ] _ %> [ :я | :е | :и | :ю ]  ;
+    
+"й Deletion in front of я Suffix and others"
+!! __@RULENAME@__  
+  й:0 <=> _ ( %^ConsTransf:0 ) %> [ :я | :е | :и | :ю ]  ;
+
+  
 "Ь2:ь Palatal mark for V АМ +Prt1+Sg1"
 !! __@RULENAME@__  
 Ь2:ь <=> [ н | л ] _ %> %{ыӹ%0%}: ;
@@ -133,6 +138,11 @@ Rules
 !! __@RULENAME@__  
 Е3:э <=> [ ю | ӱ | у | ё | о | ӧ | и | е | э | а | ӓ ] %> _ ;
 
+"Onset vowel е:э after retained vowel"
+!! __@RULENAME@__
+е:э <=> [ ю | ӱ | у | ё | о | ӧ | и | е | э | а | ӓ ] %> _ ;
+!!= @CODE@ The three onset vowels need checking 2014-01-10
+
 "Stem final ы loss before Е2"
 !! __@RULENAME@__  
 ы:0 <=> #: Cns* Vow Cns+ _ %>  Е2: [в|м|н|т|ш] ;
@@ -153,7 +163,7 @@ Rules
 
 "Onset vowel %{ыӹ%0%} realized in suffix  %{ыӹ%0%}:ӹ"
 !! __@RULENAME@__
-  %{ыӹ%0%}:ӹ <=> LFC [ Cns  | й ] (Ь2:) %> _ ;
+  %{ыӹ%0%}:ӹ <=> [ LFC [ Cns  | й ] (Ь2:) | FrontVow Cns+ ] %> _ ;
 
 "Affix mid or final front %{аӓ%}:ӓ"
  %{аӓ%}:ӓ <=> [ LFC [ :Cns (%>)| %> Cns:+ ] | FrontVow %> | %> Е2:е [в|м|н|т|ш] Cns:* ] _ [м|н|т|ш|%>|#] ;
@@ -168,6 +178,7 @@ Rules
 "Affix mid or final back %{аӓ%}:я"
 !! __@RULENAME@__  
  %{аӓ%}:я <=> Vow й:0 %> _ [м|т|ш|%>|#] ;
+              ь:0 %> _ [м|т|ш|%>|#] ;
 
 "Affix initial back а:я"
 !! __@RULENAME@__  
@@ -234,10 +245,6 @@ Rules
   Ы2:0 <=>    Cns %> [ %{ыӹ%0%}: [ д Ы2: м | м | ш ( т | к ) ]| (0:ы|0:ӹ) ж: ] _ %> [ Е2: [в|м|н|т|ш] | А2: ] ;
 ! Vow %> [ %{ыӹ%0%}: ш [ т | к ] | ж: ] _ %> [ л | г | %{ыӹ%0%}: ш | ш | д | Е2: [в|м|н|т|ш] | А2: ] ;
 
-
-"й Deletion in front of я Suffix and others"
-!! __@RULENAME@__  
-  й:0 <=> _ ( %^ConsTransf:0 ) %> [ :я | :е | :и | :ю ]  ;
 
 
 

@@ -14,6 +14,10 @@ LEXICON PROP_ТӸРВӸ !!= * @CODE@ тӹрвӹ:тӹрвӹ
 !! The stem vowel "е" is found with possessor indices and the lative
 +N+Prop: NMN_ТӸРВӸ ;
 
+LEXICON PROP_ОЛМА !!= @CODE@ кол:кол
++N+Prop: NMN_ОЛМА ;
+
+
 LEXICON PROP_КАРТА !!= * @CODE@ карта:карта
 !! а is specific to the +Sg+Nom, elsewhere ы or ӹ
 +N+Prop: NMN_КАРТА ;
