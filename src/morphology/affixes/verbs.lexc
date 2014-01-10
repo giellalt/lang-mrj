@@ -46,10 +46,10 @@ LEXICON V_АМ !!= @CODE@ ӹштӓш:ӹшт
 +V: DES-am ;
 
 +V: INF ;
-+V+PrcAct:%>шЫ2 K ; !! Contlex needed
-+V+PrcAct+Der/ЫшЫ:%>шЫ2 NMN_ТӸРВӸ ;
-+V+PrcPss+Der/ЫмЫ:%>мЫ2 NMN_ТӸРВӸ ;
-+V+PrcNeg+Der/ЫдЫмЫ:%>дЫ2мЫ2 NMN_ТӸРВӸ ;
++V+ActPrc:%>шЫ2 K ; !! Contlex needed
++V+ActPrc+Der/ЫшЫ:%>шЫ2 NMN_ТӸРВӸ ;
++V+PssPrc+Der/ЫмЫ:%>мЫ2 NMN_ТӸРВӸ ;
++V+NegPrc+Der/ЫдЫмЫ:%>дЫ2мЫ2 NMN_ТӸРВӸ ;
 
 LEXICON V_АМ-SG3 !! пелӓш: онг пелеш
 +V: INDPRSSG3-am ;
@@ -100,10 +100,10 @@ LEXICON V_ЕМ  !!= * @CODE@ колташ:колт
 +V: DES-em ;
 
 +V: INF ;
-+V+PrcAct:%>%{ыӹ%0%}шЫ2 K  ; !! Contlex needed
-+V+PrcAct+Der/ЫшЫ:%>%{ыӹ%0%}шЫ2 NMN_ТӸРВӸ ;
-+V+PrcPss+Der/ЫмЫ:%>%{ыӹ%0%}мЫ2 NMN_ТӸРВӸ ;
-+V+PrcNeg+Der/ЫдЫмЫ:%>%{ыӹ%0%}дЫ2мЫ2 NMN_ТӸРВӸ ;
++V+ActPrc:%>%{ыӹ%0%}шЫ2 K  ; !! Contlex needed
++V+ActPrc+Der/ЫшЫ:%>%{ыӹ%0%}шЫ2 NMN_ТӸРВӸ ;
++V+PssPrc+Der/ЫмЫ:%>%{ыӹ%0%}мЫ2 NMN_ТӸРВӸ ;
++V+NegPrc+Der/ЫдЫмЫ:%>%{ыӹ%0%}дЫ2мЫ2 NMN_ТӸРВӸ ;
 
 LEXICON V_ЕМ-SG3 !! хӹдӹртӓш: хӹдӹртӹ
 +V: INDPRSSG3-em ;
