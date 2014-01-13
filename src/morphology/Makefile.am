@@ -38,7 +38,7 @@ GENERATED_LEXC_SRCS=\
 			stems/urj-Cyrl-propernouns.lexc \
 			stems/adjectives.lexc    \
 			stems/adverbs.lexc       \
-			stems/conjunctions.lexc  \
+			stems/conjunctors.lexc  \
 			stems/descriptives.lexc  \
 			stems/interjections.lexc \
 			stems/nouns.lexc         \
@@ -54,7 +54,7 @@ GENERATED_LEXC_SRCS=\
 GT_XML_SRCS=\
 			stems/adjectives.xml    \
 			stems/adverbs.xml       \
-			stems/conjunctions.xml  \
+			stems/conjunctors.xml  \
 			stems/descriptives.xml  \
 			stems/interjections.xml \
 			stems/nouns.xml         \
