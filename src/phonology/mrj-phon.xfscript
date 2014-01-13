@@ -9,7 +9,7 @@
 
 ! To test: in kt/mrj/src, do:
 ! xfst -e "source xfst-mrj.txt"
-! invert net
+! 
 ! save s
 ! quit
 ! cat xfst-mrj.txt | grep €|cut -d" " -f3|cut -d":" -f1|lookup s
