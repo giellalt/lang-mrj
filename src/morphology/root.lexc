@@ -119,9 +119,9 @@ Multichar_Symbols
 !! Derivations are classified under the morphophonetic form of the suffix, the
 !! source and target part-of-speech.
  +V→N +V→V +V→A
- +Der/ЫшЫ
- +Der/ЫмЫ
- +Der/ЫдЫмЫ
+ +Der/шЫ
+ +Der/мЫ
+ +Der/дЫмЫ
  +Der/N !! Noun derivation
  +Foc/Ат
  +Foc/ок !!= * @CODE@ = too, also
@@ -132,6 +132,8 @@ Multichar_Symbols
 !! symbols in the lexicon files:
  
  %{ыӹ%0%} !! * @CODE@ !
+ %{аӓе%} !! * @CODE@ used in verb affix onset
+ %{ыӹе%} !! * @CODE@ used in verb affix onset
 Ы2 %{аӓ%} А2 Е2 Е3
  Ь2 ! V_АМ +Prt1+Sg1
 !! And following triggers to control variation
