@@ -182,12 +182,12 @@ Rules
 
 "Onset vowel ыӹ0 realized in suffix  %{ыӹ%0%}:ы"
 !! __@RULENAME@__  
-  %{ыӹ%0%}:ы <=> [ LBC  Cns  ((Ь2:) %> )| LBC ( н | л ) Ь2: %> | BackVow й: ( Ь2:0 ) %> | :BackVow Cns* | [ :BackVow | LBC ] [ Cns+ | Cns* й ] [ %{ыӹ%0%}:0 | ы:0 ] %> ] _ [ ( %> ) [ Cns ] | # ] ;
+  %{ыӹ%0%}:ы <=> [ LBC  Cns  (( (ы) Ь2:) %> )| LBC ( н | л ) (ы) Ь2: %> | BackVow й: ( (ы) Ь2:0 ) %> | :BackVow Cns* | [ :BackVow | LBC ] [ Cns+ | Cns* й ] [ %{ыӹ%0%}:0 | ы:0 ] %> ] _ [ ( %> ) [ Cns ] | # ] ;
 ! [[ Cns | й ]+ %> | %> [ %> | BackVow | е | ArchiVow: | Cns ]* [ Cns | й ] ( %> ) ] _ [ ( %> ) Cns | # ] ;
 
 "Onset vowel %{ыӹ%0%} realized in suffix  %{ыӹ%0%}:ӹ"
 !! __@RULENAME@__
-  %{ыӹ%0%}:ӹ <=> [ LFC [ Cns  | й ] (Ь2:) | :FrontVow Cns+ | [ :FrontVow | LFC ] [ Cns+ | Cns* й ] [ %{ыӹ%0%}:0|ӹ:0] (Ь2:) ] %> _ [ ( %> ) [ Cns  ] | # ] ;
+  %{ыӹ%0%}:ӹ <=> [ LFC [ Cns  | й ]  ( (ӹ) Ь2: ) | :FrontVow Cns+ | [ :FrontVow | LFC ] [ Cns+ | Cns* й ] [ %{ыӹ%0%}:0 | ӹ:0 ] ( (ӹ) Ь2:) ] %> _ [ ( %> ) [ Cns  ] | # ] ;
                   :FrontVow н _ т ;
 
 "Onset vowel %{ыӹе%} realized in suffix  %{ыӹе%}:ӹ"
