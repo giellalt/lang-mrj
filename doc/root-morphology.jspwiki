@@ -82,6 +82,8 @@ To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
 
 *  +Foc/ок  !
+*  +Foc/ок  used in verb affix onset
+*  +Foc/ок  used in verb affix onset
 And following triggers to control variation
  * %^ConsTransf   k loss in am-verbs, also z to ts
  * %^KIN 	       with kin terms for ӓвӓмӹн not мӱэмӹн
