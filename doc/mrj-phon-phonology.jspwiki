@@ -15,6 +15,8 @@
  *  Е2:0 
  *  %{ыӹ%0%}:0  
 
+*  %{ыӹ%0%}:0  used in verb affix onset
+*  %{ыӹ%0%}:0  used in verb affix onset
  *  Ы2:0   
  *  А2:а  
 
@@ -65,9 +67,19 @@ __Ь2:ь Palatal mark for V АМ +Prt1+Sg1__
 
 __Ь2:0 Palatal mark for V АМ +Prt1+Sg1__  
 
+__Ь2:ш Palatal mark for V ЕМ +Prt1+Sg1__  
+
 
 
 !!Vowel rules
+__Onset vowel in а__
+
+__Onset vowel in ӓ__
+
+__Onset vowel in я__
+
+__Onset vowel in е__
+
 __Onset vowel loss in suffix ыӹ0__  
 
 __Onset vowel loss in suffix Е3__  
@@ -95,6 +107,13 @@ __Stem final ӹ loss before Е2__
 __Onset vowel ыӹ0 realized in suffix  %{ыӹ%0%}:ы__  
 
 __Onset vowel %{ыӹ%0%} realized in suffix  %{ыӹ%0%}:ӹ__
+
+__Onset vowel %{ыӹе%} realized in suffix  %{ыӹе%}:ӹ__
+
+__Onset vowel %{ыӹе%} realized in suffix  %{ыӹе%}:ы__
+
+__Onset vowel %{ыӹе%} realized in suffix  %{ыӹе%}:е__
+
 
 
 __Affix mid or final back %{аӓ%}:а__  
