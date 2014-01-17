@@ -6,7 +6,7 @@
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e>
     <lg>
-      <l pos="Prop">Аапо</l>
+      <l pos="N" type="Prop">Аапо</l>
 
       <stg>
         <st Contlex="PROP_">Аапо</st>
@@ -25,14 +25,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Алина</l>
+      <l pos="N" type="Prop">Алина</l>
 
       <stg>
         <st Contlex="PROP_ОЛМА">Алина</st>
@@ -51,14 +51,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Алык</l>
+      <l pos="N" type="Prop">Алык</l>
 
       <stg>
         <st Contlex="PROP_">Алык</st>
@@ -77,14 +77,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop">Niittymarialue</t>
+        <t pos="N" type="Prop">Niittymarialue</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Анюта</l>
+      <l pos="N" type="Prop">Анюта</l>
 
       <stg>
         <st Contlex="PROP_ОЛМА">Анюта</st>
@@ -103,14 +103,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop">Annan tai Anjan deminutiivinen muoto</t>
+        <t pos="N" type="Prop">Annan tai Anjan deminutiivinen muoto</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Борис</l>
+      <l pos="N" type="Prop">Борис</l>
 
       <stg>
         <st Contlex="PROP_КОЛ">Борис</st>
@@ -129,14 +129,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Ваня</l>
+      <l pos="N" type="Prop">Ваня</l>
 
       <stg>
         <st Contlex="PROP_ОЛМА">Ваня</st>
@@ -155,14 +155,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <td pos="Prop">Ivanin lyhyt muoto</td>
+        <td pos="N" type="Prop">Ivanin lyhyt muoto</td>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Вероника</l>
+      <l pos="N" type="Prop">Вероника</l>
 
       <stg>
         <st Contlex="PROP_ОЛМА">Вероника</st>
@@ -181,14 +181,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Европа</l>
+      <l pos="N" type="Prop">Европа</l>
 
       <stg>
         <st Contlex="PROP_КАРТА">Европа</st>
@@ -207,14 +207,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Елисе</l>
+      <l pos="N" type="Prop">Елисе</l>
 
       <stg>
         <st Contlex="PROP_ОЛМА">Елисе</st>
@@ -233,14 +233,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Елисеевна</l>
+      <l pos="N" type="Prop">Елисеевна</l>
 
       <stg>
         <st Contlex="PROP_ОЛМА">Елисеевна</st>
@@ -259,14 +259,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Елисей</l>
+      <l pos="N" type="Prop">Елисей</l>
 
       <stg>
         <st Contlex="PROP_КОЛ">Елисей</st>
@@ -285,14 +285,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Иван</l>
+      <l pos="N" type="Prop">Иван</l>
 
       <stg>
         <st Contlex="PROP_КОЛ">Иван</st>
@@ -311,14 +311,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Иванович</l>
+      <l pos="N" type="Prop">Иванович</l>
 
       <stg>
         <st Contlex="PROP_КОЛ">Иванович</st>
@@ -337,14 +337,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Ивановна</l>
+      <l pos="N" type="Prop">Ивановна</l>
 
       <stg>
         <st Contlex="PROP_ОЛМА">Ивановна</st>
@@ -363,14 +363,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Игорь</l>
+      <l pos="N" type="Prop">Игорь</l>
 
       <stg>
         <st Contlex="PROP_КОЛ">Игорь</st>
@@ -389,14 +389,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Ильин</l>
+      <l pos="N" type="Prop">Ильин</l>
 
       <stg>
         <st Contlex="PROP_КОЛ">Ильин</st>
@@ -415,14 +415,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Йыл</l>
+      <l pos="N" type="Prop">Йыл</l>
 
       <stg>
         <st Contlex="PROP_КОЛ">Йыл</st>
@@ -441,14 +441,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Йылымбал</l>
+      <l pos="N" type="Prop">Йылымбал</l>
 
       <stg>
         <st Contlex="PROP_КОЛ">Йылымбал</st>
@@ -467,14 +467,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Йынгы</l>
+      <l pos="N" type="Prop">Йынгы</l>
 
       <stg>
         <st Contlex="PROP_">Йынгы</st>
@@ -493,14 +493,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Йӱрйӹ</l>
+      <l pos="N" type="Prop">Йӱрйӹ</l>
 
       <stg>
         <st Contlex="PROP_">Йӱрйӹ</st>
@@ -519,14 +519,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Казански</l>
+      <l pos="N" type="Prop">Казански</l>
 
       <stg>
         <st Contlex="PROP_">Казански</st>
@@ -545,14 +545,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Курйы</l>
+      <l pos="N" type="Prop">Курйы</l>
 
       <stg>
         <st Contlex="PROP_">Курйы</st>
@@ -571,14 +571,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Кырык</l>
+      <l pos="N" type="Prop">Кырык</l>
 
       <stg>
         <st Contlex="PROP_">Кырык</st>
@@ -597,14 +597,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop">Vuorimari</t>
+        <t pos="N" type="Prop">Vuorimari</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Микольны</l>
+      <l pos="N" type="Prop">Микольны</l>
 
       <stg>
         <st Contlex="PROP_">Микольны</st>
@@ -623,14 +623,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Мокеевич</l>
+      <l pos="N" type="Prop">Мокеевич</l>
 
       <stg>
         <st Contlex="PROP_КОЛ">Мокеевич</st>
@@ -649,14 +649,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Москва</l>
+      <l pos="N" type="Prop">Москва</l>
 
       <stg>
         <st Contlex="PROP_">Москва</st>
@@ -675,14 +675,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Никифорович</l>
+      <l pos="N" type="Prop">Никифорович</l>
 
       <stg>
         <st Contlex="PROP_КОЛ">Никифорович</st>
@@ -701,14 +701,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Ош</l>
+      <l pos="N" type="Prop">Ош</l>
 
       <stg>
         <st Contlex="PROP_КОЛ">Ош</st>
@@ -727,14 +727,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <td pos="Prop">Valkoinen talo eli hallitustalo</td>
+        <td pos="N" type="Prop">Valkoinen talo eli hallitustalo</td>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Павлов</l>
+      <l pos="N" type="Prop">Павлов</l>
 
       <stg>
         <st Contlex="PROP_КОЛ">Павлов</st>
@@ -753,14 +753,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Павлова</l>
+      <l pos="N" type="Prop">Павлова</l>
 
       <stg>
         <st Contlex="PROP_ОЛМА">Павлова</st>
@@ -779,14 +779,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Пӹсӹрмӓн</l>
+      <l pos="N" type="Prop">Пӹсӹрмӓн</l>
 
       <stg>
         <st Contlex="PROP_КОЛ">Пӹсӹрмӓн</st>
@@ -805,14 +805,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Россий</l>
+      <l pos="N" type="Prop">Россий</l>
 
       <stg>
         <st Contlex="PROP_">Россий</st>
@@ -831,14 +831,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Савин</l>
+      <l pos="N" type="Prop">Савин</l>
 
       <stg>
         <st Contlex="PROP_КОЛ">Савин</st>
@@ -857,14 +857,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Савина</l>
+      <l pos="N" type="Prop">Савина</l>
 
       <stg>
         <st Contlex="PROP_ОЛМА">Савина</st>
@@ -883,14 +883,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Санзара</l>
+      <l pos="N" type="Prop">Санзара</l>
 
       <stg>
         <st Contlex="PROP_ОЛМА">Санзара</st>
@@ -909,14 +909,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Семӹк</l>
+      <l pos="N" type="Prop">Семӹк</l>
 
       <stg>
         <st Contlex="PROP_">Семӹк</st>
@@ -935,14 +935,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Серафи</l>
+      <l pos="N" type="Prop">Серафи</l>
 
       <stg>
         <st Contlex="PROP_ОЛМА">Серафи</st>
@@ -961,14 +961,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Серафия</l>
+      <l pos="N" type="Prop">Серафия</l>
 
       <stg>
         <st Contlex="PROP_">Серафия</st>
@@ -987,14 +987,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Сибирь</l>
+      <l pos="N" type="Prop">Сибирь</l>
 
       <stg>
         <st Contlex="PROP_">Сибирь</st>
@@ -1013,14 +1013,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Тимо</l>
+      <l pos="N" type="Prop">Тимо</l>
 
       <stg>
         <st Contlex="PROP_">Тимо</st>
@@ -1039,14 +1039,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Усола</l>
+      <l pos="N" type="Prop">Усола</l>
 
       <stg>
         <st Contlex="PROP_ОЛМА">Усола</st>
@@ -1065,14 +1065,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Цaрлaныш</l>
+      <l pos="N" type="Prop">Цaрлaныш</l>
 
       <stg>
         <st Contlex="PROP_">Цaрлaныш</st>
@@ -1091,14 +1091,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Цикмӓ</l>
+      <l pos="N" type="Prop">Цикмӓ</l>
 
       <stg>
         <st Contlex="PROP_ОЛМА">Цикмӓ</st>
@@ -1117,14 +1117,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Цӓрлӓ</l>
+      <l pos="N" type="Prop">Цӓрлӓ</l>
 
       <stg>
         <st Contlex="PROP_">Цӓрлӓ</st>
@@ -1143,14 +1143,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Шавашӓнгӹр</l>
+      <l pos="N" type="Prop">Шавашӓнгӹр</l>
 
       <stg>
         <st Contlex="PROP_">Шавашӓнгӹр</st>
@@ -1169,14 +1169,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Шартял</l>
+      <l pos="N" type="Prop">Шартял</l>
 
       <stg>
         <st Contlex="PROP_">Шартял</st>
@@ -1195,14 +1195,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Шывашар</l>
+      <l pos="N" type="Prop">Шывашар</l>
 
       <stg>
         <st Contlex="PROP_КОЛ">Шывашар</st>
@@ -1221,14 +1221,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Эшпай</l>
+      <l pos="N" type="Prop">Эшпай</l>
 
       <stg>
         <st Contlex="PROP_КОЛ">Эшпай</st>
@@ -1247,14 +1247,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Юхани</l>
+      <l pos="N" type="Prop">Юхани</l>
 
       <stg>
         <st Contlex="PROP_">Юхани</st>
@@ -1273,14 +1273,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Яко</l>
+      <l pos="N" type="Prop">Яко</l>
 
       <stg>
         <st Contlex="PROP_ОЛМА">Яко</st>
@@ -1299,14 +1299,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Prop">Яков</l>
+      <l pos="N" type="Prop">Яков</l>
 
       <stg>
         <st Contlex="PROP_КОЛ">Яков</st>
@@ -1325,7 +1325,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Prop"/>
+        <t pos="N" type="Prop"/>
       </tg>
     </mg>
   </e>
