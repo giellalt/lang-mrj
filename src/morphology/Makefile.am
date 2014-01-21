@@ -37,13 +37,13 @@ GT_LEXC_SRCS=\
 GENERATED_LEXC_SRCS=\
 			stems/urj-Cyrl-propernouns.lexc \
 			stems/adjectives.lexc    \
+			stems/adpositions.lexc \
 			stems/adverbs.lexc       \
 			stems/conjunctors.lexc  \
 			stems/descriptives.lexc  \
 			stems/interjections.lexc \
 			stems/nouns.lexc         \
 			stems/particles.lexc     \
-			stems/postpositions.lexc \
 			stems/pronouns.lexc      \
 			stems/propernouns.lexc   \
 			stems/quantifiers.lexc   \
@@ -53,13 +53,13 @@ GENERATED_LEXC_SRCS=\
 # Set this to the names of all source xml files, if any
 GT_XML_SRCS=\
 			stems/adjectives.xml    \
+			stems/adpositions.xml \
 			stems/adverbs.xml       \
 			stems/conjunctors.xml  \
 			stems/descriptives.xml  \
 			stems/interjections.xml \
 			stems/nouns.xml         \
 			stems/particles.xml     \
-			stems/postpositions.xml \
 			stems/pronouns.xml      \
 			stems/propernouns.xml   \
 			stems/quantifiers.xml   \
