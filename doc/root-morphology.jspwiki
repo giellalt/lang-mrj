@@ -85,6 +85,11 @@ symbols in the lexicon files:
 *  +Foc/ок  used in verb affix onset
 *  +Foc/ок  used in verb affix onset
 And following triggers to control variation
+
+!!Lexeme disambiguation tags
+ * +Hom1 : Homonymy толам used in l element and lexc
+ * +Hom2 : Homonymy колем used in l element and lexc
+
  * %^ConsTransf   k loss in am-verbs, also z to ts
  * %^KIN 	       with kin terms for ӓвӓмӹн not мӱэмӹн
  * %^А2ЫӸ         with карта and картын витринӹн
