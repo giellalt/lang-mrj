@@ -35,27 +35,27 @@ GT_LEXC_SRCS=\
 
 # Set this to the names of all generated lexc files, if any
 GENERATED_LEXC_SRCS=\
-			stems/urj-Cyrl-propernouns.lexc \
-			stems/adjectives.lexc    \
-			stems/adpositions.lexc \
-			stems/adverbs.lexc       \
-			stems/conjunctors.lexc  \
-			stems/descriptives.lexc  \
-			stems/interjections.lexc \
-			stems/nouns.lexc         \
-			stems/particles.lexc     \
-			stems/pronouns.lexc      \
-			stems/propernouns.lexc   \
-			stems/quantifiers.lexc   \
-			stems/verbs.lexc	
+			$(srcdir)/stems/urj-Cyrl-propernouns.lexc \
+			$(srcdir)/stems/adjectives.lexc    \
+			$(srcdir)/stems/adpositions.lexc   \
+			$(srcdir)/stems/adverbs.lexc       \
+			$(srcdir)/stems/conjunctors.lexc   \
+			$(srcdir)/stems/descriptives.lexc  \
+			$(srcdir)/stems/interjections.lexc \
+			$(srcdir)/stems/nouns.lexc         \
+			$(srcdir)/stems/particles.lexc     \
+			$(srcdir)/stems/pronouns.lexc      \
+			$(srcdir)/stems/propernouns.lexc   \
+			$(srcdir)/stems/quantifiers.lexc   \
+			$(srcdir)/stems/verbs.lexc
 
 
 # Set this to the names of all source xml files, if any
 GT_XML_SRCS=\
 			stems/adjectives.xml    \
-			stems/adpositions.xml \
+			stems/adpositions.xml   \
 			stems/adverbs.xml       \
-			stems/conjunctors.xml  \
+			stems/conjunctors.xml   \
 			stems/descriptives.xml  \
 			stems/interjections.xml \
 			stems/nouns.xml         \
