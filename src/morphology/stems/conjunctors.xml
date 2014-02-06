@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xml:lang="mrj" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mrj">
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e>
     <lg>
       <l pos="Conj">ато</l>
@@ -81,6 +81,38 @@
       <tg xml:lang="fin">
         <t pos="Conj">kuin; ikään kuin; aivan kuin; mukamas</t>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Conj">вӹлец</l>
+
+      <stg>
+        <st Contlex="CONJ_">вӹлец</st>
+      </stg>
+
+      <stress>вӹле•ц</stress>
+    </lg>
+
+    <mg>
+      <m>
+        <head>
+          <!--Savatkova: 1) Послелог передается с предлогом "с" (стӧл вӹлец -  со стола); 2) несмотря на то; что (улы вӹлец; попымы вӹлец). 3) Наречие "сверху" вӹлец кенвазаш.-->
+        </head>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <tf pos="Conj">vaikka</tf>
+      </tg>
+
+      <xg>
+        <x>Попымы вӹлец ӹштӓ.</x>
+
+        <xt>Vaikka on sovittu, (silti) tekee (toisin).</xt>
+      </xg>
     </mg>
   </e>
 
