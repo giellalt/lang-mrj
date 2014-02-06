@@ -1086,11 +1086,17 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>paikallisadverbi: воктенем шӹнзӓ</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">lähellä; lähelläni</t>
       </tg>
+
+      <xg>
+        <x>воктенем шӹнзӓ</x>
+
+        <xt>istuu lähelläni</xt>
+      </xg>
     </mg>
   </e>
 
@@ -1109,7 +1115,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">vinosti; vinoon; viistoon</t>
       </tg>
     </mg>
   </e>
@@ -1271,6 +1277,36 @@
       <tg xml:lang="fin">
         <t pos="Adv"/>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">вуя</l>
+
+      <stg>
+        <st Contlex="POSTP_">вуя</st>
+      </stg>
+
+      <stress>ву•я</stress>
+    </lg>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>vrt postpositiota: вес вуя; цӓрӓ вуя</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <tf pos="Adv">-päin</tf>
+      </tg>
+
+      <xg>
+        <x>ӹшке вуя</x>
+
+        <xt>itsenäisesti</xt>
+      </xg>
     </mg>
   </e>
 
@@ -1792,11 +1828,23 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <m>
+        <head>
+          <!--Savatkova: 1) Послелог передается с предлогом "с" (стӧл вӹлец -  со стола); 2) несмотря на то; что (улы вӹлец; попымы вӹлец). 3)JK: Наречие "сверху" вӹлец кенвазаш-->
+        </head>
+
+        <defNative/>
+      </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <tf pos="Po">päältä; ylhältä</tf>
       </tg>
+
+      <xg>
+        <x>Эдемӹм вӹлец анжен пӓлӓш ясы нелӹ.</x>
+
+        <xt>Ihmisestä on vaikea tietää päältäpäin (katsoen). </xt>
+      </xg>
     </mg>
   </e>
 
@@ -8365,6 +8413,32 @@
       <tg xml:lang="fin">
         <t pos="Adv"/>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">лоэш</l>
+
+      <stg>
+        <st Contlex="ADV_">лоэш</st>
+      </stg>
+
+      <stress>лоэ•ш</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">väliin</t>
+      </tg>
+
+      <xg>
+        <x>шӹргӹ лоэш</x>
+
+        <xt>metsään</xt>
+      </xg>
     </mg>
   </e>
 
