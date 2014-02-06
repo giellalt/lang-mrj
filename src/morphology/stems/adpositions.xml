@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xml:lang="mrj" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mrj">
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e>
     <lg>
       <l pos="Po">ваштареш</l>
@@ -25,7 +25,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>vastaan</t>
+        <tf>jtakin vastaan</tf>
       </tg>
     </mg>
   </e>
@@ -34,14 +34,14 @@
     <lg>
       <l pos="Po">век</l>
 
+      <l_ref pos="Po">векӹ</l_ref>
+
       <stg>
         <st Contlex="POSTP_">век</st>
       </stg>
 
       <stress>век</stress>
     </lg>
-
-    <pos>Po</pos>
 
     <mg>
       <m>
@@ -51,7 +51,75 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>suuntaan; puoleen; päin; kohti</t>
+        <tf pos="Po">jnkin suuntaan; jnkin puoleen; jnkin päin; jtkin
+        kohti</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">векӹ</l>
+
+      <l_ref pos="Po">век</l_ref>
+
+      <stg>
+        <st Contlex="POSTP_">векӹ</st>
+      </stg>
+
+      <stress>ве•кӹ</stress>
+    </lg>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <tf pos="Po">jnkin suuntaan; jnkin puoleen; jnkin päin; jtkin
+        kohti</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">векӹлӓ</l>
+
+      <l_ref pos="Po">векӹлӓ</l_ref>
+
+      <stg>
+        <st Contlex="POSTP_">векӹлӓ</st>
+      </stg>
+
+      <stress>ве•кӹлӓ</stress>
+    </lg>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <tf pos="Po">suunnilleen jnkin suuntaan; johonkin jnkin suuntaan</tf>
+
+        <tf pos="Po">sinnepäin; tännepäin</tf>
+
+        <tCtn>
+          <t>ти векӹлӓ</t>
+
+          <re>tännepäin</re>
+        </tCtn>
+
+        <tCtn>
+          <t>тӹ векӹлӓ</t>
+
+          <re>sinnepäin</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -73,11 +141,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>synonyymi: </defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t>takia</t>
+        <tf pos="Po">jnkin takia</tf>
       </tg>
     </mg>
   </e>
@@ -93,8 +161,6 @@
       <stress>ве•лнӹ</stress>
     </lg>
 
-    <pos>Po</pos>
-
     <mg>
       <m>
         <head/>
@@ -103,7 +169,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>puolellа; suunnallа; tahollа</t>
+        <t pos="Po">jnkun puolellа; jnkin suunnallа; jnkin tahollа</t>
       </tg>
     </mg>
   </e>
@@ -129,8 +195,16 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>vain</t>
+        <tf pos="Po">vain -silla(an)</tf>
+
+        <tf pos="Adv">-silla(an)</tf>
       </tg>
+
+      <xg>
+        <x>тыгыр велӓ</x>
+
+        <xt>vain paitasillaan</xt>
+      </xg>
     </mg>
   </e>
 
@@ -155,8 +229,20 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>puolelle; suunnalle; taholle</t>
+        <t pos="Po">jnkin puolelle; jnkin suunnalle; jnkin taholle</t>
       </tg>
+
+      <xg>
+        <x>вес велӓн</x>
+
+        <xt>toiselle puolelle</xt>
+      </xg>
+
+      <xg>
+        <x>ти велӓн</x>
+
+        <xt>tälle puolelle</xt>
+      </xg>
     </mg>
   </e>
 
@@ -179,13 +265,25 @@
           <!--МаФМ: päämäärän ilmaisu (puolesta; tähden; takia; vuoksi); syyn ilmaisu (takia; vuoksi); jnk sijasta; jnk puolesta.  -->
         </head>
 
-        <defNative/>
+        <defNative>puhekielessä mahd: яжо пӓшӓ вец!</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t>puolesta; tähden; takia; vuoksi</t>
+        <t pos="Po">puolesta; tähden; takia; vuoksi</t>
 
-        <tf>jnk sijasta; jnk puolesta</tf>
+        <tCtn>
+          <t>яжо лӓктӹш верц шалгаш</t>
+
+          <re>hyvien tulosten vuoksi</re>
+        </tCtn>
+
+        <tf pos="Po">jnkun sijasta; jnkun puolesta</tf>
+
+        <tCtn>
+          <t>ӹшке верцшӹ колтыш</t>
+
+          <re>lähetti itsensä puolesta</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -194,39 +292,13 @@
     <lg>
       <l pos="Po">верцӹн</l>
 
+      <l_ref pos="Po">верц</l_ref>
+
       <stg>
         <st Contlex="POSTP_">верцӹн</st>
       </stg>
 
-      <stress>верцӹн</stress>
-    </lg>
-
-    <pos>Po</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative>синоним: верц</defNative>
-      </m>
-
-      <tg xml:lang="fin">
-        <t>puolesta; tähden; takia; vuoksi</t>
-
-        <tf>jnk sijasta; jnk puolesta</tf>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Po">вец</l>
-
-      <stg>
-        <st Contlex="POSTP_">вец</st>
-      </stg>
-
-      <stress>вец</stress>
+      <stress>ве•рцӹн</stress>
     </lg>
 
     <pos>Po</pos>
@@ -239,20 +311,66 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>puoleltа; suunnaltа</t>
+        <t pos="Po">puolesta; tähden; takia; vuoksi</t>
+
+        <tCtn>
+          <t>мӹнь верцӹнем</t>
+
+          <re>minun takiani</re>
+        </tCtn>
+
+        <tf pos="Po">jnkun sijasta; jnkun puolesta</tf>
+
+        <tCtn>
+          <t>ӹшке верцӹнжӹ колтыш</t>
+
+          <re>lähetti itse(ä)nsä puolesta</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Po">вецӹн</l>
+      <l pos="Po">вец</l>
+
+      <l_ref pos="Po">велӹц</l_ref>
 
       <stg>
-        <st Contlex="POSTP_">вецӹн</st>
+        <st Contlex="POSTP_">вец</st>
       </stg>
 
-      <stress>вецӹн</stress>
+      <stress>вец</stress>
+    </lg>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>велӹц</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <tf pos="Po">jnkin puoleltа; jltakin suunnaltа</tf>
+      </tg>
+
+      <xg>
+        <x>хала вец толеш</x>
+
+        <xt>tulee kaupungin suunalta</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">вецӹнлӓ</l>
+
+      <stg>
+        <st Contlex="POSTP_">вецӹнлӓ</st>
+      </stg>
+
+      <stress>ве•цӹнлӓ</stress>
     </lg>
 
     <pos>Po</pos>
@@ -261,11 +379,11 @@
       <m>
         <head/>
 
-        <defNative>синоним: вец</defNative>
+        <defNative>вецӹн-postpositiosta muodost</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t>puoleltа; suunnaltа</t>
+        <tf pos="Po">jostain jnkin puoleltа; suunnilleen jnkin suunnaltа</tf>
       </tg>
     </mg>
   </e>
@@ -291,8 +409,17 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>luona; vieressä; ääressä; lähellä</t>
+        <tf pos="Po">jnkin luona; jnkin vieressä; jnkin ääressä; jnkin
+        lähellä</tf>
       </tg>
+
+      <xg>
+        <x>сола воктен кашташ</x>
+
+        <xt>kylän lähellä kuljeskella</xt>
+
+        <xt>pyöriä pitkin kylää</xt>
+      </xg>
     </mg>
   </e>
 
@@ -317,13 +444,21 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>ollessa; päin</t>
+        <tf pos="Po">ollessa + N</tf>
+
+        <tf pos="Po">-päin</tf>
       </tg>
 
       <xg>
         <x>вес вуя</x>
 
         <xt>toisin päin</xt>
+      </xg>
+
+      <xg>
+        <x>цӓрӓ вуя</x>
+
+        <xt>paljain päin</xt>
       </xg>
 
       <xg>
@@ -355,7 +490,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>asemesta; sijaan; sijasta</t>
+        <tf pos="Po">jnkun asemesta; jnkun sijaan; jnkin sijasta</tf>
       </tg>
     </mg>
   </e>
@@ -377,11 +512,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>вӹлкӹ</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t>päälle; ylle</t>
+        <tf pos="Po">jnkin päälle; jnkin ylle</tf>
       </tg>
     </mg>
   </e>
@@ -435,7 +570,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>päältä; yltä; vaikka</t>
+        <tf pos="Po">jnkin päältä; jnkin yltä</tf>
       </tg>
     </mg>
   </e>
@@ -457,11 +592,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>вӹкӹ</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t>päälle; ylle</t>
+        <tf pos="Po">jnkin päälle; jnkin ylle</tf>
       </tg>
     </mg>
   </e>
@@ -477,8 +612,6 @@
       <stress>вӹ•лнӹ</stress>
     </lg>
 
-    <pos>Po</pos>
-
     <mg>
       <m>
         <head/>
@@ -487,7 +620,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>päällä; yllä</t>
+        <tf pos="Po">jnkin päällä; jnkin yllä</tf>
       </tg>
     </mg>
   </e>
@@ -836,8 +969,6 @@
       <stress>до•но</stress>
     </lg>
 
-    <pos>Po</pos>
-
     <mg>
       <m>
         <head/>
@@ -846,9 +977,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>kanssa</t>
+        <t pos="Po">kanssa</t>
 
-        <t>kera</t>
+        <t pos="Po">kera</t>
 
         <td>kohteen ilmaisu: sm käytetään Adess.: тум ло доно - tammien
         keskellä</td>
@@ -1137,9 +1268,38 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>keskuudesta; seasta; joukosta</t>
+        <t pos="Po">keskuudesta; seasta; joukosta</t>
 
         <td>siirtymistä paikasta Elat: стӧл логӹц - pöydästä</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">лош</l>
+
+      <stg>
+        <st Contlex="POSTP_">лош</st>
+      </stg>
+
+      <stress>ло•ш</stress>
+    </lg>
+
+    <pos>Po</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>лошкы-n lyhyt muoto</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="Po">keskelle; keskuuteen; sekaan; joukkoon; ääreen</t>
+
+        <td>paikan ilmaisu Illat: стӧл лош шӹц! - istu pöytään! istu pöydän
+        ääreen!</td>
       </tg>
     </mg>
   </e>
@@ -1165,7 +1325,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>keskelle; keskuuteen; sekaan; joukkoon</t>
+        <t pos="Po">keskelle; keskuuteen; sekaan; joukkoon</t>
 
         <td>paikan ilmaisu Illat: стӧл лошкы - pöytään</td>
       </tg>
@@ -1195,7 +1355,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>keskuudessa; seassa; joukossa; keskellä</t>
+        <t pos="Po">keskuudessa; seassa; joukossa; keskellä</t>
 
         <td>paikan ilmaisu Inessiivillä: стӧл лошты - pöydässä</td>
 
@@ -1226,7 +1386,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>väliin</t>
+        <t pos="Po">väliin</t>
       </tg>
 
       <xg>
@@ -1254,11 +1414,11 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>kts myös: лӹвецӹн</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t>alta</t>
+        <tf pos="Po">jnkin (esineen) alta</tf>
       </tg>
     </mg>
   </e>
@@ -1280,11 +1440,13 @@
       <m>
         <head/>
 
-        <defNative>синоним: лӹвец</defNative>
+        <defNative>kts myös vrt: лӹвец</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t>alta</t>
+        <tf pos="Po">jnkin alta</tf>
+
+        <t pos="Adv">alta</t>
       </tg>
     </mg>
   </e>
@@ -1306,11 +1468,11 @@
       <m>
         <head/>
 
-        <defNative>синоним: лӹвӓкӹ</defNative>
+        <defNative>лӹвӓкӹ</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t>alle</t>
+        <tf pos="Po">jnkin alle</tf>
       </tg>
     </mg>
   </e>
@@ -1336,7 +1498,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>alle</t>
+        <tf pos="Po">jnkin alle</tf>
+
+        <t pos="Adv">alle</t>
       </tg>
     </mg>
   </e>
@@ -1362,7 +1526,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t/>
+        <t pos="Po">alla</t>
       </tg>
     </mg>
   </e>
@@ -1378,17 +1542,16 @@
       <stress>лӹвӓ•лӓн</stress>
     </lg>
 
-    <pos>Po</pos>
-
     <mg>
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>vrt epäsäännöllinen Lat-merkityksellinen paikallisadverbi
+        лӹвӓл-</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t>alle</t>
+        <t pos="Po">alle</t>
       </tg>
     </mg>
   </e>
