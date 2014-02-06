@@ -190,7 +190,8 @@ Rules
 "Onset vowel %{ыӹØ%} realized in suffix  %{ыӹØ%}:ӹ"
 !! __@RULENAME@__
   %{ыӹØ%}:ӹ <=> [ LFC [ Cns  | й ]  ( (ӹ) Ь2: ) | :FrontVow Cns+ | [ :FrontVow | LFC ] [ Cns+ | Cns* й ] [ %{ыӹØ%}:0 | ӹ:0 ] ( (ӹ) Ь2:) ] %> _ [ ( %> ) [ Cns  ] | # ] ;
-                  :FrontVow н _ т ;
+                 [ :FrontVow :0* ]  н _ т ;
+!                 :FrontVow  н _ т ;
                   LFC [ ш | м ] _ [ ( %> ) [ Cns  ] | # ] ;
 
 "Onset vowel %{ыӹе%} realized in suffix  %{ыӹе%}:ӹ"
@@ -203,12 +204,15 @@ Rules
 
 "Onset vowel %{ыӹе%} realized in suffix  %{ыӹе%}:е"
 !! __@RULENAME@__
-%{ыӹе%}:е <=> [ ы: | ӹ: | %{ыӹØ%}: ]  %> _  ;
+%{ыӹе%}:е <=> [ Cns | й ] [ ы: | ӹ: | %{ыӹØ%}: ]  %> _  ;
+! [ ы: | ӹ: | %{ыӹØ%}: ]  %> _  ;
 
 !%{аӓ%}:я <=> Vow й:0 (ы:0|ӹ:0) %> _ [м|т|ш|%>|#] ;
 "Affix mid or final front %{аӓ%}:ӓ"
 !! __@RULENAME@__
  %{аӓ%}:ӓ <=> [ LFC (ӹ:) [ :Cns (%>)| %> Cns:+ ] | :FrontVow Cns* %> ( %{ыӹØ%}: м ) | %> [ Е2:е | %{ыӹе%}:е | %{ыӹе%}:ӹ | %{ыӹе%}: м %{аӓ%}:ӓ ] [в|д|м|н|т|ш] Cns:* | Cns ӹ: %> ] _ [д|м|н|т|ш|%>|#] ;
+          Vow  ӹ: %> _ # ;
+! [ LFC (ӹ:) [ :Cns (%>)| %> Cns:+ ] | :FrontVow Cns* %> ( %{ыӹØ%}: м ) | %> [ Е2:е | %{ыӹе%}:е | %{ыӹе%}:ӹ | %{ыӹе%}: м %{аӓ%}:ӓ ] [в|д|м|н|т|ш] Cns:* | Cns ӹ: %> ] _ [д|м|н|т|ш|%>|#] ;
 
 "Affix mid or final back %{аӓ%}:а"
 !! __@RULENAME@__  
