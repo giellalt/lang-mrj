@@ -41926,6 +41926,36 @@
 
   <e>
     <lg>
+      <l hid="Hom1" pos="V">пынзаш</l>
+
+      <stg>
+        <st Contlex="V_АМ-HOM1">пынз</st>
+      </stg>
+
+      <stress>пы•нзаш</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="V">tungetella</t>
+
+        <tf pos="V">olla kimpussa</tf>
+
+        <tf pos="V">löyttäytyä seuraan</tf>
+
+        <tCtn>
+          <t>tungetella</t>
+
+          <re>jnkun seuraan</re>
+        </tCtn>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l hid="Hom2" pos="V">пынзаш</l>
 
       <stg>
@@ -43397,7 +43427,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <tf pos="V">nukkua päiväunia</tf>
+
+        <tf pos="V">hieman nukkua</tf>
       </tg>
     </mg>
   </e>
@@ -43553,11 +43585,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <tf pos="V">aiheuttaa punotusta</tf>
+        <t pos="V">punottaa</t>
+
+        <tf pos="V">peittyä punaisin täplin</tf>
 
         <td pos="V">peittyä punaiseen syheröön</td>
-
-        <td pos="V">peittyä punaisin täplin</td>
       </tg>
     </mg>
   </e>
@@ -43769,7 +43801,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V">kuuroittua</t>
+        <t pos="V">kuuroittaa</t>
       </tg>
     </mg>
   </e>
@@ -43789,7 +43821,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V">kuuroittaa</t>
+        <t pos="V">kuuroittua</t>
       </tg>
     </mg>
   </e>
@@ -44284,10 +44316,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>3sg</defNative>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">padottua</t>
       </tg>
     </mg>
   </e>
@@ -44304,10 +44336,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>momentaaniverbi пӱӓш; пӱӓлтен шӹндӓш</defNative>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <tf pos="V">padota pikaisesti</tf>
       </tg>
     </mg>
   </e>
