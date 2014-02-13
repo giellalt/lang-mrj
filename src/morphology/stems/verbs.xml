@@ -46221,11 +46221,52 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Васикован орфографиштӹ: рийӓш; прейӓш.</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">mädäntyä</t>
+
+        <tCtn>
+          <t>mädäntyä</t>
+
+          <re>olki (aumassa)</re>
+        </tCtn>
+
+        <t pos="V">hautua liikaa</t>
+
+        <t pos="V">paistua liikaa</t>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">рийӓш</l>
+
+      <stg>
+        <st Contlex="V_ЕМ">рийӹ</st>
+      </stg>
+
+      <stress>ри•йӓш</stress>
+    </lg>
+
+    <mg>
+      <defNative>Васикован орфографиштӹ: рийӓш. Саваткова: Сухин говорышты
+      шужымашым анжыкта.</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="V">nälkiintyä</t>
+
+        <tf pos="V">olla nälkäinen</tf>
+
+        <tf pos="V">olla nälässään</tf>
+      </tg>
+
+      <xg>
+        <x>Ой кыце риенӓм!</x>
+
+        <xt>Voi mikä kauhea nälkä (minulla)!</xt>
+      </xg>
     </mg>
   </e>
 
