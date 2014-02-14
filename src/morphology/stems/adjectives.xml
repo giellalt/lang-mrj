@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xml:lang="mrj" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mrj">
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e>
     <lg>
       <l pos="A">Йылымбал</l>
@@ -808,6 +808,8 @@
 
       <tg xml:lang="fin">
         <tf pos="A">aakkosten kanssa oleva</tf>
+
+        <tf pos="A">aapista omistava</tf>
       </tg>
     </mg>
   </e>
@@ -827,6 +829,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <tf pos="A">ilman aapista oleva</tf>
+
         <tf pos="A">ilman aakkosia oleva</tf>
       </tg>
     </mg>
@@ -893,6 +897,10 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <t pos="A">juhlaton</t>
+
+        <t pos="A">pyhäpäivätön</t>
+
         <tf pos="A">ilman pyhäpäiviä oleva</tf>
       </tg>
     </mg>
@@ -913,11 +921,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <tf pos="A">erotuksetta oleva</tf>
-
         <t pos="A">erotukseton</t>
 
         <tf pos="A">ilman eroa oleva</tf>
+
+        <tf pos="A">erotuksetta oleva</tf>
       </tg>
     </mg>
   </e>
@@ -1027,9 +1035,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <tf pos="A">aksiomin kanssa</tf>
-
         <tf pos="A">aksioomaa sisältävä</tf>
+
+        <tf pos="A">aksiomin kanssa oleva</tf>
       </tg>
     </mg>
   </e>
@@ -1094,6 +1102,8 @@
 
       <tg xml:lang="fin">
         <tf pos="A">ilman pöytäkirjaa oleva</tf>
+
+        <t pos="A">pöytäkirjaton</t>
 
         <tCtn>
           <t>ilman pöytäkirjaa oleva</t>
@@ -1230,6 +1240,8 @@
 
       <tg xml:lang="fin">
         <tf pos="A">sananpainolla oleva</tf>
+
+        <tf pos="A">korostuksellinen</tf>
 
         <tCtn>
           <t>korostuksella</t>
@@ -1593,6 +1605,10 @@
 
         <t pos="A">pettävä</t>
 
+        <t pos="A">ansallinen</t>
+
+        <t pos="A">salakuoppainen</t>
+
         <tCtn>
           <t>salakuoppaa sisältävä</t>
 
@@ -1627,7 +1643,7 @@
 
         <tf pos="A">ilman petosta oleva</tf>
 
-        <tf pos="A">ilman ansaa oleva</tf>
+        <tf pos="A">ilman salakuoppaa oleva</tf>
       </tg>
     </mg>
   </e>
@@ -1731,6 +1747,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <tf pos="A">niityn kanssa oleva</tf>
+
         <tf pos="A">niittyjä täynnä oleva</tf>
       </tg>
     </mg>
@@ -1804,8 +1822,6 @@
         <t pos="A">alumiinitön</t>
 
         <tf pos="A">ilman alumiiniä oleva</tf>
-
-        <tf pos="A">alumiinitta oleva</tf>
       </tg>
     </mg>
   </e>
@@ -2025,7 +2041,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>amerikkalainen</t>
+        <tf pos="A">amerikkalainen</tf>
       </tg>
     </mg>
   </e>
@@ -2209,7 +2225,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <tf pos="A">ilman lankkua</tf>
+        <tf pos="A">ilman lankkua oleva</tf>
 
         <tf pos="A">ilman ohutta lautaa</tf>
       </tg>
@@ -2285,6 +2301,8 @@
       <tg xml:lang="fin">
         <t pos="A">tuleva</t>
 
+        <t pos="A">tulevaisuudessa tapahtuva</t>
+
         <tCtn>
           <t>tulevaisuudessa tapahtuva</t>
 
@@ -2320,12 +2338,6 @@
         <x>анзыл и</x>
 
         <xt>sitä edellinen vuosi</xt>
-      </xg>
-
-      <xg>
-        <x>анзыл ин</x>
-
-        <xt>toissa vuonna</xt>
       </xg>
     </mg>
   </e>
@@ -3267,7 +3279,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">armeijaa sisältävä</t>
       </tg>
     </mg>
   </e>
@@ -3477,7 +3489,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">asfalttinen</t>
       </tg>
     </mg>
   </e>
@@ -3497,7 +3509,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">asfaltiton</t>
       </tg>
     </mg>
   </e>
@@ -3517,7 +3529,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">ateljeetön</t>
+
+        <tf pos="A">ilman ateljeetä oleva</tf>
       </tg>
     </mg>
   </e>
@@ -3537,7 +3551,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">ateljeellinen</t>
+
+        <tf pos="A">ateljeeä sisältävä</tf>
       </tg>
     </mg>
   </e>
@@ -3557,7 +3573,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilmakehäinen</t>
+
+        <tf pos="A">ilmapiiriä sisältävä</tf>
       </tg>
     </mg>
   </e>
@@ -3577,7 +3595,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">ilmapiirissä oleva</t>
       </tg>
     </mg>
   </e>
