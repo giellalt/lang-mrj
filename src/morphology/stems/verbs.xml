@@ -41850,6 +41850,34 @@
 
   <e>
     <lg>
+      <l pos="V">пынгаш</l>
+
+      <stg>
+        <st Contlex="V_ЕМ">пынгы</st>
+      </stg>
+
+      <stress>пы•нгаш</stress>
+    </lg>
+
+    <mg>
+      <defNative>рокмӱкш пынга. Сиремӓн неркӓштӹ ыраж, тӹшец, пынген,
+      рокмӱкшвлӓ лӓктӹт. Арк.Канюшков. На бугорке земли дыра, оттуда с
+      жужжаньем вылетают земляные пчёлы.</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="V">surista</t>
+
+        <tCtn>
+          <t>surisee</t>
+
+          <re>kimalainen</re>
+        </tCtn>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V">пынзалаш</l>
 
       <stg>
@@ -47396,10 +47424,32 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>рӹшкӓлт кенӓтӹш</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">vanheta</t>
+
+        <tf pos="V">menettää hehkuaan</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">рӹшкӓлтӓш</l>
+
+      <stg>
+        <st Contlex="V_ЕМ">рӹшкӓлтӹ</st>
+      </stg>
+
+      <stress>рӹшкӓ•лтӓш</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="V">ravistaa</t>
       </tg>
     </mg>
   </e>
@@ -47436,7 +47486,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>пӧртӹм рӹшкӹктӓрӓт воксек</defNative>
 
       <tg xml:lang="fin">
         <tf pos="V">vapisuttaa voimakkaasti</tf>
