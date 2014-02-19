@@ -16,6 +16,10 @@
     </lg>
 
     <mg>
+      <semantics>
+        <sem class="HUM_V"/>
+      </semantics>
+
       <defNative/>
 
       <tg xml:lang="fin">
@@ -44,6 +48,10 @@
     </lg>
 
     <mg>
+      <semantics>
+        <sem class="HUM_V"/>
+      </semantics>
+
       <defNative/>
 
       <tg xml:lang="fin">
@@ -45290,7 +45298,17 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V">kiertää; rullata; kääriä; kelata; vääntää; vyyhtiä</t>
+        <t pos="V">kiertää</t>
+
+        <t pos="V">rullata</t>
+
+        <t pos="V">kääriä</t>
+
+        <t pos="V">kelata</t>
+
+        <t pos="V">vääntää</t>
+
+        <t pos="V">vyyhtiä</t>
 
         <t pos="V">ahmia</t>
       </tg>
@@ -45354,7 +45372,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V">leikata; leikellä; veistellä</t>
+        <t pos="V">leikata</t>
+
+        <t pos="V">leikellä</t>
+
+        <t pos="V">veistellä</t>
       </tg>
     </mg>
   </e>
@@ -45374,7 +45396,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V">leikata; sahata; veistää</t>
+        <t pos="V">leikata</t>
+
+        <t pos="V">sahata</t>
+
+        <t pos="V">veistää</t>
       </tg>
     </mg>
   </e>
