@@ -51,8 +51,13 @@
       </m>
 
       <tg xml:lang="fin">
-        <tf pos="Po">jnkin suuntaan; jnkin puoleen; jnkin päin; jtkin
-        kohti</tf>
+        <tf pos="Po">jnkin suuntaan</tf>
+
+        <tf pos="Po">jnkin puoleen</tf>
+
+        <tf pos="Po">jnkin päin</tf>
+
+        <tf pos="Po">jtkin kohti</tf>
       </tg>
     </mg>
   </e>
@@ -78,8 +83,13 @@
       </m>
 
       <tg xml:lang="fin">
-        <tf pos="Po">jnkin suuntaan; jnkin puoleen; jnkin päin; jtkin
-        kohti</tf>
+        <tf pos="Po">jnkin suuntaan</tf>
+
+        <tf pos="Po">jnkin puoleen</tf>
+
+        <tf pos="Po">jnkin päin</tf>
+
+        <tf pos="Po">jtkin kohti</tf>
       </tg>
     </mg>
   </e>
@@ -105,9 +115,13 @@
       </m>
 
       <tg xml:lang="fin">
-        <tf pos="Po">suunnilleen jnkin suuntaan; johonkin jnkin suuntaan</tf>
+        <tf pos="Po">suunnilleen jnkin suuntaan</tf>
 
-        <tf pos="Po">sinnepäin; tännepäin</tf>
+        <tf pos="Po">johonkin jnkun suuntaan</tf>
+
+        <tf pos="Po">sinnepäin</tf>
+
+        <tf pos="Po">tännepäin</tf>
 
         <tCtn>
           <t>ти векӹлӓ</t>
@@ -169,7 +183,11 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Po">jnkun puolellа; jnkin suunnallа; jnkin tahollа</t>
+        <t pos="Po">jnkun puolellа</t>
+
+        <t pos="Po">jnkin suunnallа</t>
+
+        <t pos="Po">jnkin tahollа</t>
       </tg>
     </mg>
   </e>
@@ -229,7 +247,11 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Po">jnkin puolelle; jnkin suunnalle; jnkin taholle</t>
+        <t pos="Po">jnkin puolelle</t>
+
+        <t pos="Po">jnkin suunnalle</t>
+
+        <t pos="Po">jnkin taholle</t>
       </tg>
 
       <xg>
@@ -262,14 +284,20 @@
     <mg>
       <m>
         <head>
-          <!--МаФМ: päämäärän ilmaisu (puolesta; tähden; takia; vuoksi); syyn ilmaisu (takia; vuoksi); jnk sijasta; jnk puolesta.  -->
+          <!--МаФинМутер: päämäärän ilmaisu (puolesta; tähden; takia; vuoksi); syyn ilmaisu (takia; vuoksi); jnk sijasta; jnk puolesta.  -->
         </head>
 
         <defNative>puhekielessä mahd: яжо пӓшӓ вец!</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Po">puolesta; tähden; takia; vuoksi</t>
+        <t pos="Po">jnkin puolesta</t>
+
+        <t pos="Po">jnkin tähden</t>
+
+        <t pos="Po">jnkin takia</t>
+
+        <t pos="Po">jnkin vuoksi</t>
 
         <tCtn>
           <t>яжо лӓктӹш верц шалгаш</t>
@@ -277,7 +305,9 @@
           <re>hyvien tulosten vuoksi</re>
         </tCtn>
 
-        <tf pos="Po">jnkun sijasta; jnkun puolesta</tf>
+        <tf pos="Po">jnkun sijasta</tf>
+
+        <tf pos="Po">jnkun puolesta</tf>
 
         <tCtn>
           <t>ӹшке верцшӹ колтыш</t>
@@ -311,15 +341,23 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Po">puolesta; tähden; takia; vuoksi</t>
+        <t pos="Po">jnkin puolesta</t>
+
+        <t pos="Po">jtkin tähden</t>
+
+        <t pos="Po">jnkin takia</t>
+
+        <t pos="Po">jnkin vuoksi</t>
 
         <tCtn>
-          <t>мӹнь верцӹнем</t>
+          <t>мӹнь ӹшке верцӹнем лӱдӓм</t>
 
-          <re>minun takiani</re>
+          <re>minä pelkään itseni takia</re>
         </tCtn>
 
-        <tf pos="Po">jnkun sijasta; jnkun puolesta</tf>
+        <tf pos="Po">jnkun sijasta</tf>
+
+        <tf pos="Po">jnkun puolesta</tf>
 
         <tCtn>
           <t>ӹшке верцӹнжӹ колтыш</t>
@@ -347,11 +385,13 @@
       <m>
         <head/>
 
-        <defNative>велӹц</defNative>
+        <defNative>Саваткова: вец = велӹц</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <tf pos="Po">jnkin puoleltа; jltakin suunnaltа</tf>
+        <tf pos="Po">jnkin puoleltа</tf>
+
+        <tf pos="Po">jltakin suunnaltа</tf>
       </tg>
 
       <xg>
@@ -379,11 +419,13 @@
       <m>
         <head/>
 
-        <defNative>вецӹн-postpositiosta muodost</defNative>
+        <defNative>вецӹн-postpositiosta muodostettu</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <tf pos="Po">jostain jnkin puoleltа; suunnilleen jnkin suunnaltа</tf>
+        <tf pos="Po">jostain jnkin puoleltа</tf>
+
+        <tf pos="Po">suunnilleen jltakin suunnaltа</tf>
       </tg>
     </mg>
   </e>
@@ -409,8 +451,13 @@
       </m>
 
       <tg xml:lang="fin">
-        <tf pos="Po">jnkin luona; jnkin vieressä; jnkin ääressä; jnkin
-        lähellä</tf>
+        <tf pos="Po">jnkin luona</tf>
+
+        <tf pos="Po">jnkin vieressä</tf>
+
+        <tf pos="Po">jnkin ääressä</tf>
+
+        <tf pos="Po">jnkin lähellä</tf>
       </tg>
 
       <xg>
@@ -444,16 +491,11 @@
       </m>
 
       <tg xml:lang="fin">
-        <tf pos="Po">ollessa + N</tf>
-
         <tf pos="Po">-päin</tf>
+
+        <td pos="Po">mm.pukeutunut jhnkin: N (Nom) + вуя esimerkiksi савыц вуя
+        "ollessa rättipäinen"</td>
       </tg>
-
-      <xg>
-        <x>вес вуя</x>
-
-        <xt>toisin päin</xt>
-      </xg>
 
       <xg>
         <x>цӓрӓ вуя</x>
@@ -465,6 +507,12 @@
         <x>ӹшке вуя</x>
 
         <xt>itsenäisesti</xt>
+      </xg>
+
+      <xg>
+        <x>вес вуя шагалтемӓ!</x>
+
+        <xt>laitahan toisin päin</xt>
       </xg>
     </mg>
   </e>
@@ -490,7 +538,11 @@
       </m>
 
       <tg xml:lang="fin">
-        <tf pos="Po">jnkun asemesta; jnkun sijaan; jnkin sijasta</tf>
+        <tf pos="Po">jnkun asemesta</tf>
+
+        <tf pos="Po">jnkun sijaan</tf>
+
+        <tf pos="Po">jnkin sijasta</tf>
       </tg>
     </mg>
   </e>
@@ -516,7 +568,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <tf pos="Po">jnkin päälle; jnkin ylle</tf>
+        <tf pos="Po">jnkin päälle</tf>
+
+        <tf pos="Po">jnkin ylle</tf>
       </tg>
     </mg>
   </e>
@@ -538,11 +592,13 @@
       <m>
         <head/>
 
-        <defNative>рашемдӹмӹлӓ</defNative>
+        <defNative>рашемдӹмӹлӓ..</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <tf>suuntaan</tf>
+        <tf pos="Po">jnkin päällepäin</tf>
+
+        <tf pos="Po">suunnilleen jnkin ylle</tf>
       </tg>
     </mg>
   </e>
@@ -563,15 +619,57 @@
     <mg>
       <m>
         <head>
-          <!--Саваткова: Послелог передается с предлогом "с" (стӧл вӹлец -  со стола); несмотря на то; что (улы вӹлец; попымы вӹлец)-->
+          <!--Саваткова: Послелог передается с предлогом "с" (стӧл вӹлец -  со стола); sojuz несмотря на то что (улы вӹлец; попымы вӹлец)-->
         </head>
 
         <defNative/>
       </m>
 
       <tg xml:lang="fin">
-        <tf pos="Po">jnkin päältä; jnkin yltä</tf>
+        <tf pos="Po">jnkin päältä</tf>
+
+        <tf pos="Po">jnkin yltä</tf>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">вӹлец</l>
+
+      <stg>
+        <st Contlex="POSTP_">вӹлец</st>
+      </stg>
+
+      <stress>вӹле•ц</stress>
+    </lg>
+
+    <pos>Po</pos>
+
+    <mg>
+      <m>
+        <head>
+          <!--Саваткова: несмотря на то что (улы вӹлец; попымы вӹлец)-->
+        </head>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <tf pos="Conj">vaikka</tf>
+      </tg>
+
+      <xg>
+        <x>улы вӹлец</x>
+
+        <xt>vaikka on olemassa</xt>
+      </xg>
+
+      <xg>
+        <x>попымы вӹлец</x>
+
+        <xt>vaikka on sovittu</xt>
+      </xg>
     </mg>
   </e>
 
@@ -596,7 +694,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <tf pos="Po">jnkin päälle; jnkin ylle</tf>
+        <tf pos="Po">jnkin päälle</tf>
+
+        <tf pos="Po">jnkin ylle</tf>
       </tg>
     </mg>
   </e>
@@ -620,7 +720,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <tf pos="Po">jnkin päällä; jnkin yllä</tf>
+        <tf pos="Po">jnkin päällä</tf>
+
+        <tf pos="Po">jnkin yllä</tf>
       </tg>
     </mg>
   </e>
@@ -646,7 +748,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>päälle; ylle</t>
+        <tf pos="Po">jnkin päälle</tf>
+
+        <tf pos="Po">jnkin ylle</tf>
       </tg>
     </mg>
   </e>
@@ -672,7 +776,15 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>kuten; lailla; tapaan; tapainen</t>
+        <tf pos="Po">jnkin tapaan</tf>
+
+        <tf pos="Po">jnkin lailla</tf>
+
+        <tf pos="Conj">(ikään) kuin</tf>
+
+        <tf pos="Conj">kuten</tf>
+
+        <tf pos="A">jnkin tapainen</tf>
       </tg>
     </mg>
   </e>
@@ -698,17 +810,27 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>lailla; tapaan; kuten</t>
+        <tf pos="Po">jnkin tapaan</tf>
 
-        <tf>oli vähällä</tf>
+        <tf pos="Po">jnkin lailla</tf>
 
-        <tf>oli melkein</tf>
+        <tf pos="Conj">ihan kuten</tf>
+
+        <tf pos="Adv">melkein</tf>
+
+        <tf pos="Adv">(oli) vähällä</tf>
       </tg>
 
       <xg>
         <x>кенвазеш ганьок</x>
 
         <xt>oli vähällä pudota</xt>
+      </xg>
+
+      <xg>
+        <x>нӓлӓм ганьок ыльы</x>
+
+        <xt>melkein olin ostamassa</xt>
       </xg>
     </mg>
   </e>
@@ -734,7 +856,15 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>lailla; tapaan; kuten</t>
+        <tf pos="Po">jnkin tapaan</tf>
+
+        <tf pos="Po">jnkin lailla</tf>
+
+        <tf pos="Conj">(ikään) kuin</tf>
+
+        <tf pos="Conj">kuten</tf>
+
+        <tf pos="A">jnkin tapainen</tf>
       </tg>
     </mg>
   </e>
