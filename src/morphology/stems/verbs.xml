@@ -47799,7 +47799,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V">sytyttää palamaan</t>
+        <tf pos="V">sytyttää palamaan</tf>
       </tg>
     </mg>
   </e>
@@ -48435,7 +48435,10 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">pelleillä</t>
+
+        <td pos="V">vierailla maalaistalossa naamiopukuisina hahmoina
+        joulupyhien aikana</td>
       </tg>
     </mg>
   </e>
@@ -48538,6 +48541,26 @@
         <t pos="V">lyödä</t>
 
         <t pos="V">iskeä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">севӓш</l>
+
+      <stg>
+        <st Contlex="V_ЕМ">севӹ</st>
+      </stg>
+
+      <stress>се•вӓш</stress>
+    </lg>
+
+    <mg>
+      <defNative>sg3</defNative>
+
+      <tg xml:lang="fin">
+        <tf pos="V">saada häkämyrkytys</tf>
       </tg>
     </mg>
   </e>
