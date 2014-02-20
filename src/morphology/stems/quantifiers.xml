@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mrj"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mrj">
-  <e>
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <e>
       <lg>
          <l pos="Num">вӹзӹмшӹ</l>
          <stg>
@@ -21,7 +21,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">вӹзӹт</l>
          <stg>
@@ -36,11 +36,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">вӹц</l>
          <stg>
@@ -59,7 +59,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">вӹцлӹ</l>
          <stg>
@@ -78,7 +78,7 @@
          </tg>
       </mg>
    </e>
-  <e xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" exclude="fst">
+   <e exclude="fst">
       <lg>
          <l pos="Num">вӹцлӹшӹ</l>
          <stg>
@@ -97,7 +97,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">вӹцшӱдӹ</l>
          <stg>
@@ -116,7 +116,7 @@
          </tg>
       </mg>
    </e>
-  <e xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" exclude="fst">
+   <e exclude="fst">
       <lg>
          <l pos="Num">вӹцшӱдӹшӹ</l>
          <stg>
@@ -131,11 +131,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">ик</l>
          <stg>
@@ -157,7 +157,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">ик-кок</l>
          <stg>
@@ -172,11 +172,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">иктӓк-пелӓк</l>
          <stg>
@@ -191,11 +191,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">иктӹ</l>
          <stg>
@@ -210,11 +210,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">иктӹт</l>
          <stg>
@@ -229,11 +229,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">икшӹ</l>
          <stg>
@@ -248,11 +248,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">кок</l>
          <stg>
@@ -271,7 +271,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">коклы</l>
          <stg>
@@ -290,7 +290,7 @@
          </tg>
       </mg>
    </e>
-  <e xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" exclude="fst">
+   <e exclude="fst">
       <lg>
          <l pos="Num">коклышы</l>
          <stg>
@@ -305,11 +305,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">кокты</l>
          <stg>
@@ -324,11 +324,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">коктыт</l>
          <stg>
@@ -343,11 +343,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">кокшы</l>
          <stg>
@@ -366,7 +366,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">кокшӱдӹ</l>
          <stg>
@@ -385,7 +385,7 @@
          </tg>
       </mg>
    </e>
-  <e xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" exclude="fst">
+   <e exclude="fst">
       <lg>
          <l pos="Num">кокшӱдӹшӹ</l>
          <stg>
@@ -404,7 +404,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">куд</l>
          <stg>
@@ -419,11 +419,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">куд-шӹм</l>
          <stg>
@@ -438,11 +438,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">кудлу</l>
          <stg>
@@ -457,11 +457,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">кудлушы</l>
          <stg>
@@ -476,11 +476,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">кудшӱдӹ</l>
          <stg>
@@ -499,7 +499,7 @@
          </tg>
       </mg>
    </e>
-  <e xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" exclude="fst">
+   <e exclude="fst">
       <lg>
          <l pos="Num">кудшӱдӹшӹ</l>
          <stg>
@@ -518,7 +518,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">кудымшы</l>
          <stg>
@@ -533,11 +533,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">кудыт</l>
          <stg>
@@ -552,11 +552,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">кым</l>
          <stg>
@@ -575,7 +575,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">кымлы</l>
          <stg>
@@ -590,11 +590,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">кымлышы</l>
          <stg>
@@ -609,11 +609,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" exclude="fst">
+   <e exclude="fst">
       <lg>
          <l pos="Num">кымшы</l>
          <stg>
@@ -632,7 +632,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">кымшӱдӹ</l>
          <stg>
@@ -651,7 +651,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">кымыт</l>
          <stg>
@@ -666,11 +666,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">кӓндӓкш</l>
          <stg>
@@ -689,7 +689,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">кӓндӓкшлу</l>
          <stg>
@@ -708,7 +708,7 @@
          </tg>
       </mg>
    </e>
-  <e xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" exclude="fst">
+   <e exclude="fst">
       <lg>
          <l pos="Num">кӓндӓкшлушы</l>
          <stg>
@@ -727,7 +727,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">кӓндӓкшшӱдӹ</l>
          <stg>
@@ -746,7 +746,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">кӓндӓкшшӱдӹшӹ</l>
          <stg>
@@ -765,7 +765,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">кӓндӓкшӹ</l>
          <stg>
@@ -780,11 +780,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">кӓндӓкшӹмшӹ</l>
          <stg>
@@ -799,11 +799,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">лу</l>
          <stg>
@@ -822,7 +822,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">луатвӹзӹт</l>
          <stg>
@@ -837,11 +837,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">луатвӹц</l>
          <stg>
@@ -860,7 +860,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">луатик</l>
          <stg>
@@ -879,7 +879,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">луатиктӹ</l>
          <stg>
@@ -894,11 +894,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">луаткок</l>
          <stg>
@@ -917,7 +917,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">луаткокты</l>
          <stg>
@@ -932,11 +932,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">луаткуд</l>
          <stg>
@@ -955,7 +955,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">луаткудыт</l>
          <stg>
@@ -970,11 +970,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">луаткым</l>
          <stg>
@@ -993,7 +993,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">луаткымыт</l>
          <stg>
@@ -1008,11 +1008,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">луаткӓндӓкш</l>
          <stg>
@@ -1031,7 +1031,7 @@
          </tg>
       </mg>
    </e>
-  <e xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" exclude="fst">
+   <e exclude="fst">
       <lg>
          <l pos="Num">луаткӓндӓкшӹ</l>
          <stg>
@@ -1050,7 +1050,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">луатнӹл</l>
          <stg>
@@ -1069,7 +1069,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">луатнӹлӹт</l>
          <stg>
@@ -1084,11 +1084,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">луатшӹм</l>
          <stg>
@@ -1107,7 +1107,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">луатшӹмӹт</l>
          <stg>
@@ -1122,11 +1122,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">луатӹндекш</l>
          <stg>
@@ -1141,11 +1141,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">луатӹндекшӹ</l>
          <stg>
@@ -1160,11 +1160,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">луцкы</l>
          <stg>
@@ -1179,11 +1179,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">лушы</l>
          <stg>
@@ -1198,11 +1198,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">миллиард</l>
          <stg>
@@ -1217,11 +1217,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">миллион</l>
          <stg>
@@ -1236,11 +1236,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">нӹл</l>
          <stg>
@@ -1255,11 +1255,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">нӹллӹ</l>
          <stg>
@@ -1274,11 +1274,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">нӹллӹшӹ</l>
          <stg>
@@ -1293,11 +1293,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">нӹлшӱдӹ</l>
          <stg>
@@ -1312,11 +1312,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">нӹлшӱдӹшӹ</l>
          <stg>
@@ -1331,11 +1331,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">нӹлӹмшӹ</l>
          <stg>
@@ -1350,11 +1350,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">нӹлӹт</l>
          <stg>
@@ -1369,11 +1369,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">триллион</l>
          <stg>
@@ -1388,11 +1388,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">тӹжем</l>
          <stg>
@@ -1407,11 +1407,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">тӹжемшӹ</l>
          <stg>
@@ -1426,11 +1426,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">шӱдӹ</l>
          <stg>
@@ -1445,11 +1445,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">шӱдӹшӹ</l>
          <stg>
@@ -1464,11 +1464,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">шӹм</l>
          <stg>
@@ -1483,11 +1483,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">шӹмлу</l>
          <stg>
@@ -1502,11 +1502,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">шӹмлушы</l>
          <stg>
@@ -1521,11 +1521,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">шӹмшӱдӹ</l>
          <stg>
@@ -1540,11 +1540,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">шӹмшӱдӹшӹ</l>
          <stg>
@@ -1559,11 +1559,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">шӹмшӹ</l>
          <stg>
@@ -1578,11 +1578,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">шӹмӹт</l>
          <stg>
@@ -1597,11 +1597,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">ӹндекш</l>
          <stg>
@@ -1616,11 +1616,11 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Num"></t>
+            <t pos="Num"/>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">ӹндекшлу</l>
          <stg>
@@ -1639,7 +1639,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">ӹндекшлушы</l>
          <stg>
@@ -1658,7 +1658,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">ӹндекшшӱдӹ</l>
          <stg>
@@ -1677,7 +1677,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">ӹндекшшӱдӹшӹ</l>
          <stg>
@@ -1696,7 +1696,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">ӹндекшӹ</l>
          <stg>
@@ -1715,7 +1715,7 @@
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="Num">ӹндекшӹмшӹ</l>
          <stg>
