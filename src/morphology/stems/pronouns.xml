@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mrj"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mrj">
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <e>
       <lg>
          <l pos="Pron">вес</l>
@@ -17,7 +17,9 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Pron">toinen; muu; seuraava</t>
+            <t pos="Pron">toinen</t>
+            <t pos="Pron">muu</t>
+            <t pos="Pron">seuraava</t>
          </tg>
       </mg>
    </e>
@@ -36,7 +38,9 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Pron">toinen; muu; seuraava</t>
+            <t pos="Pron">toinen</t>
+            <t pos="Pron">muu</t>
+            <t pos="Pron">seuraava</t>
          </tg>
       </mg>
    </e>
@@ -113,7 +117,8 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Pron">jokin; jonkinlainen</t>
+            <t pos="Pron">jokin</t>
+            <t pos="Pron">jonkinlainen</t>
          </tg>
       </mg>
    </e>
@@ -323,7 +328,8 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Pron">jokin; jotakin</t>
+            <t pos="Pron">jokin</t>
+            <t pos="Pron">jotakin</t>
          </tg>
       </mg>
    </e>
@@ -475,7 +481,8 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Pron">joku; jotkut</t>
+            <t pos="Pron">joku</t>
+            <t pos="Pron">jotkut</t>
          </tg>
       </mg>
    </e>
@@ -494,7 +501,8 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Pron">kukaan; yksikään</t>
+            <t pos="Pron">kukaan</t>
+            <t pos="Pron">yksikään</t>
          </tg>
       </mg>
    </e>
@@ -589,7 +597,8 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Pron">yksi; sama</t>
+            <t pos="Pron">yksi</t>
+            <t pos="Pron">sama</t>
          </tg>
       </mg>
    </e>
@@ -631,7 +640,8 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Pron">yksi; sama</t>
+            <t pos="Pron">yksi</t>
+            <t pos="Pron">sama</t>
          </tg>
       </mg>
    </e>
@@ -726,7 +736,8 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Pron">jokainen; joka</t>
+            <t pos="Pron">jokainen</t>
+            <t pos="Pron">joka</t>
          </tg>
       </mg>
    </e>
@@ -935,7 +946,10 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Pron">kuka; kumpi; mikä; joka</t>
+            <t pos="Pron">kuka</t>
+            <t pos="Pron">kumpi</t>
+            <t pos="Pron">mikä</t>
+            <t pos="Pron">joka</t>
          </tg>
       </mg>
    </e>
@@ -1144,7 +1158,8 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Pron">milloin; koska</t>
+            <t pos="Pron">milloin</t>
+            <t pos="Pron">koska</t>
          </tg>
       </mg>
    </e>
@@ -1163,7 +1178,8 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Pron">joskus; jolloinkin</t>
+            <t pos="Pron">joskus</t>
+            <t pos="Pron">jolloinkin</t>
             <tf pos="Pron">ennemmin tai myöhemmin</tf>
          </tg>
       </mg>
@@ -1355,7 +1371,8 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Pron">miten; kuten</t>
+            <t pos="Pron">miten</t>
+            <t pos="Pron">kuten</t>
             <tf pos="Pron">millä tavalla</tf>
          </tg>
       </mg>
@@ -2156,7 +2173,8 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Pron">jokin; jotakin</t>
+            <t pos="Pron">jokin</t>
+            <t pos="Pron">jotakin</t>
          </tg>
       </mg>
    </e>
@@ -2673,7 +2691,8 @@
             <defNative>синоним: молы</defNative>
          </m>
          <tg xml:lang="fin">
-            <t pos="Pron">muu; toinen</t>
+            <t pos="Pron">muu</t>
+            <t pos="Pron">toinen</t>
          </tg>
       </mg>
    </e>
@@ -2730,7 +2749,8 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Pron">muu; toinen</t>
+            <t pos="Pron">muu</t>
+            <t pos="Pron">toinen</t>
          </tg>
       </mg>
    </e>
@@ -2825,7 +2845,8 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <t pos="Pron">koskaan; milloinkaan</t>
+            <t pos="Pron">koskaan</t>
+            <t pos="Pron">milloinkaan</t>
          </tg>
       </mg>
    </e>
