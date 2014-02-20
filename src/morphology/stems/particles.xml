@@ -1,1202 +1,1517 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mrj">
+   xml:lang="mrj" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e>
-      <lg>
-         <l pos="Pcle">айда</l>
-         <stg>
-            <st Contlex="PCLE_">айда</st>
-         </stg>
-         <stress>айда•</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">айда</l>
+
+      <stg>
+        <st Contlex="PCLE_">айда</st>
+      </stg>
+
+      <stress>айда•</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">-pa</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">ане</l>
-         <stg>
-            <st Contlex="PCLE_">ане</st>
-         </stg>
-         <stress>а•не</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">ане</l>
+
+      <l_ref pos="Pcle">мане</l_ref>
+
+      <stg>
+        <st Contlex="PCLE_">ане</st>
+      </stg>
+
+      <stress>а•не</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">kyllä</t>
+
+        <t pos="Pcle">niin</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">ат</l>
-         <stg>
-            <st Contlex="PCLE_">ат</st>
-         </stg>
-         <stress>ат</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">ат</l>
+
+      <stg>
+        <st Contlex="PCLE_">ат</st>
+      </stg>
+
+      <stress>ат</stress>
+    </lg>
+
+    <mg>
+      <defNative>liitepartikkeli (утвердительный частицӹ)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">myöskin</t>
+
+        <t pos="Pcle">myöskään</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">ач</l>
-         <stg>
-            <st Contlex="PCLE_">ач</st>
-         </stg>
-         <stress>ач</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">ач</l>
+
+      <stg>
+        <st Contlex="PCLE_">ач</st>
+      </stg>
+
+      <stress>ач</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">-han</t>
+
+        <t pos="Pcle">-hän</t>
+
+        <t pos="Pcle">-pas</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">веле</l>
-         <stg>
-            <st Contlex="PCLE_">веле</st>
-         </stg>
-         <stress>ве•ле</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">аха</l>
+
+      <stg>
+        <st Contlex="PCLE_">аха</st>
+      </stg>
+
+      <stress>аха</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">kyllä</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">вет</l>
-         <stg>
-            <st Contlex="PCLE_">вет</st>
-         </stg>
-         <stress>вет</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">веле</l>
+
+      <stg>
+        <st Contlex="PCLE_">веле</st>
+      </stg>
+
+      <stress>ве•ле</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">вуйта</l>
-         <stg>
-            <st Contlex="PCLE_">вуйта</st>
-         </stg>
-         <stress>ву•йта</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">вет</l>
+
+      <stg>
+        <st Contlex="PCLE_">вет</st>
+      </stg>
+
+      <stress>вет</stress>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>(усилительный чӓстицӹ)</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">-han</t>
+
+        <t pos="Pcle">-hän</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">вый</l>
-         <stg>
-            <st Contlex="PCLE_">вый</st>
-         </stg>
-         <stress>вый</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">вуйта</l>
+
+      <stg>
+        <st Contlex="PCLE_">вуйта</st>
+      </stg>
+
+      <stress>ву•йта</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">mukamas</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">вӓк</l>
-         <stg>
-            <st Contlex="PCLE_">вӓк</st>
-         </stg>
-         <stress>вӓк</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">вый</l>
+
+      <stg>
+        <st Contlex="PCLE_">вый</st>
+      </stg>
+
+      <stress>вый</stress>
+    </lg>
+
+    <mg>
+      <defNative>Килемар монгырышты кычылтыт (= бы)</defNative>
+
+      <tg xml:lang="fin">
+        <td pos="Pcle">tämän vastineeksi käytetään suomen kielessä
+        konditionaalia</td>
+      </tg>
+
+      <xg>
+        <x>Соромно вый кешӹц</x>
+
+        <xt>Silti menisit</xt>
+
+        <xt>siltihän menisit</xt>
+      </xg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">вӓл</l>
-         <stg>
-            <st Contlex="PCLE_">вӓл</st>
-         </stg>
-         <stress>вӓл</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">вӓк</l>
+
+      <stg>
+        <st Contlex="PCLE_">вӓк</st>
+      </stg>
+
+      <stress>вӓк</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">jopa</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">гӹнь</l>
-         <stg>
-            <st Contlex="PCLE_">гӹнь</st>
-         </stg>
-         <stress>гӹнь</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">вӓл</l>
+
+      <stg>
+        <st Contlex="PCLE_">вӓл</st>
+      </stg>
+
+      <stress>вӓл</stress>
+    </lg>
+
+    <mg>
+      <defNative>Саваткован вопросительный част; (К: терген ядмы
+      чӓстицӹ)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">-han</t>
+
+        <t pos="Pcle">-hän</t>
+
+        <t pos="Pcle">oikeasti</t>
+
+        <t pos="Pcle">vältämättä</t>
+      </tg>
+
+      <xg>
+        <x>Келешок вӓл?</x>
+
+        <xt>Tarvitseeko oikeasti?</xt>
+
+        <xt>Tarvitseeko ihan vältämättä?</xt>
+      </xg>
+
+      <xg>
+        <x>Кышты каштат вӓл?</x>
+
+        <xt>Missähän viivyttelet?</xt>
+      </xg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">гӹньӹ</l>
-         <stg>
-            <st Contlex="PCLE_">гӹньӹ</st>
-         </stg>
-         <stress>гӹньӹ</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">гӹнь</l>
+
+      <stg>
+        <st Contlex="PCLE_">гӹнь</st>
+      </stg>
+
+      <stress>гӹнь</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">taas</t>
+
+        <t pos="Pcle">-han</t>
+
+        <t pos="Pcle">-hän</t>
+
+        <t pos="Pcle">-pA</t>
+      </tg>
+
+      <xg>
+        <x>Ӹшке гӹнь кеӓ</x>
+
+        <xt>Itsepä menee</xt>
+      </xg>
+
+      <xg>
+        <x>Шыжаржы гӹнь когон мышта.</x>
+
+        <xt>taas hänen pikkusiskonsa osaa tosi hyvin</xt>
+      </xg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">гӹнят</l>
-         <stg>
-            <st Contlex="PCLE_">гӹнят</st>
-         </stg>
-         <stress>гӹня•т</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">гӹньӹ</l>
+
+      <stg>
+        <st Contlex="PCLE_">гӹньӹ</st>
+      </stg>
+
+      <stress>гӹньӹ</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">taas</t>
+
+        <t pos="Pcle">-han</t>
+
+        <t pos="Pcle">-hän</t>
+
+        <t pos="Pcle">-pa</t>
+
+        <t pos="Pcle">-pä</t>
+      </tg>
+
+      <xg>
+        <x>Ӹшкежӹ гӹньӹ тамамат нӓлеш</x>
+
+        <xt>Itsehän ostelee vaikka mitä</xt>
+      </xg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">дажы</l>
-         <stg>
-            <st Contlex="PCLE_">дажы</st>
-         </stg>
-         <stress>да•жы</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">гӹнят</l>
+
+      <stg>
+        <st Contlex="PCLE_">гӹнят</st>
+      </stg>
+
+      <stress>гӹня•т</stress>
+    </lg>
+
+    <mg>
+      <defNative>Саваткова: неопр.част. (JK: adverbi)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">-kin</t>
+      </tg>
+
+      <xg>
+        <x>кӱ-гӹнят толеш сӓй</x>
+
+        <xt>ehkä joku tulee</xt>
+      </xg>
+
+      <xg>
+        <x>тӹнь мам-гӹнят дӓ пӓлет</x>
+
+        <xt>sinäpä tiedät jotakin</xt>
+      </xg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">доко</l>
-         <stg>
-            <st Contlex="PCLE_">доко</st>
-         </stg>
-         <stress>до•ко</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">дажы</l>
+
+      <stg>
+        <st Contlex="PCLE_">дажы</st>
+      </stg>
+
+      <stress>да•жы</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">jopa</t>
+      </tg>
+
+      <xg>
+        <x>мӹнят дажы ужынам</x>
+
+        <xt>jopa minäkin olen nähnyt</xt>
+      </xg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">дык</l>
-         <stg>
-            <st Contlex="PCLE_">дык</st>
-         </stg>
-         <stress>дык</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">доко</l>
+
+      <stg>
+        <st Contlex="PCLE_">доко</st>
+      </stg>
+
+      <stress>до•ко</stress>
+    </lg>
+
+    <mg>
+      <defNative>Васикова (доко) частицеш пиштӓ а Саваткова (токо; токой)
+      вводн.шамак ылеш манеш (токо-токо)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">kuulemma</t>
+
+        <t pos="Pcle">näemmä</t>
+
+        <t pos="Pcle">-pA</t>
+
+        <t pos="Pcle">justiinsa</t>
+      </tg>
+
+      <xg>
+        <x>мӹнь тенге ӹштем доко</x>
+
+        <xt>minäpä teen näin</xt>
+      </xg>
+
+      <xg>
+        <x>шоляжы тӹштӹ пӓшӓлӓ доко</x>
+
+        <xt>hänen pikkuveljensä näemmä työskentelee siellä</xt>
+      </xg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">дӓ</l>
-         <stg>
-            <st Contlex="PCLE_">дӓ</st>
-         </stg>
-         <stress>дӓ</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">дык</l>
+
+      <stg>
+        <st Contlex="PCLE_">дык</st>
+      </stg>
+
+      <stress>дык</stress>
+    </lg>
+
+    <mg>
+      <defNative>гӹнь</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">taas</t>
+
+        <t pos="Pcle">-han</t>
+
+        <t pos="Pcle">-hän</t>
+
+        <t pos="Pcle">-pa</t>
+
+        <t pos="Pcle">-pä</t>
+      </tg>
+
+      <xg>
+        <x>тенге дык яра</x>
+
+        <xt>niin taas sopii</xt>
+      </xg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">и</l>
-         <stg>
-            <st Contlex="PCLE_">и</st>
-         </stg>
-         <stress>и</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">дӓ</l>
+
+      <stg>
+        <st Contlex="PCLE_">дӓ</st>
+      </stg>
+
+      <stress>дӓ</stress>
+    </lg>
+
+    <mg>
+      <defNative>Саваткова вводн.шамак: предложени тӹнгӓлтӹштӹ
+      кычылталтеш</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">niin</t>
+
+        <t pos="Pcle">niinpä</t>
+      </tg>
+
+      <xg>
+        <x>Дӓ, тӧрӧкок ат чонгештӹ (1981:30)</x>
+
+        <xt>Niinpä, et voi lentää heti</xt>
+      </xg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">ижӹ</l>
-         <stg>
-            <st Contlex="PCLE_">ижӹ</st>
-         </stg>
-         <stress>и•жӹ</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">и</l>
+
+      <stg>
+        <st Contlex="PCLE_">и</st>
+      </stg>
+
+      <stress>и</stress>
+    </lg>
+
+    <mg>
+      <defNative>Саваткова: усилительн.част.</defNative>
+
+      <tg xml:lang="fin">
+        <tf pos="Pcle">sitä myös</tf>
+
+        <t pos="Pcle">-han</t>
+
+        <t pos="Pcle">-hän</t>
+
+        <t pos="Pcle">-pa</t>
+
+        <t pos="Pcle">-pä</t>
+      </tg>
+
+      <xg>
+        <x>тенгеок и келеш! (1981:33)</x>
+
+        <xt>niin sitä pitää!</xt>
+      </xg>
+
+      <xg>
+        <x>тӹдок попен и (1981:33)</x>
+
+        <xt>hänhän sanoi</xt>
+      </xg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">икманаш</l>
-         <stg>
-            <st Contlex="PCLE_">икманаш</st>
-         </stg>
-         <stress>икма•наш</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">ижӹ</l>
+
+      <stg>
+        <st Contlex="PCLE_">ижӹ</st>
+      </stg>
+
+      <stress>и•жӹ</stress>
+    </lg>
+
+    <mg>
+      <defNative>Sav :33 наконец, только (К: adv: vasta/vihdoin; ainoastaan);
+      pcle (-ko разве); (усилительн.част) jopa</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">jopa</t>
+      </tg>
+
+      <xg>
+        <x>Тӹдӹ канден ижӹ пуа. (1981:33)</x>
+
+        <xt>Hän jopa tuo perille asti.</xt>
+      </xg>
+
+      <xg>
+        <x>Ижӹ пӹтӓри ма? (1981:33)</x>
+
+        <xt>Onko ensimmäistä kertaa?</xt>
+      </xg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">итӓй</l>
-         <stg>
-            <st Contlex="PCLE_">итӓй</st>
-         </stg>
-         <stress>и•тӓй</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">икманаш</l>
+
+      <stg>
+        <st Contlex="PCLE_">икманаш</st>
+      </stg>
+
+      <stress>икма•наш</stress>
+    </lg>
+
+    <mg>
+      <defNative>Тергӓш! ühe s6naga; yleensä; ylipäänsä (вообще)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">ylipäänsä</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">итӓй-тырлай</l>
-         <stg>
-            <st Contlex="PCLE_">итӓй-тырлай</st>
-         </stg>
-         <stress>и•тӓй-ты•рлай</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">ито</l>
+
+      <stg>
+        <st Contlex="PCLE_">ито</st>
+      </stg>
+
+      <stress>ито•</stress>
+    </lg>
+
+    <pos>Pcle</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>усилительная частица</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">jopa</t>
+
+        <t pos="Pcle">edes</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">йо</l>
-         <stg>
-            <st Contlex="PCLE_">йо</st>
-         </stg>
-         <stress>йо</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">итӓй</l>
+
+      <stg>
+        <st Contlex="PCLE_">итӓй</st>
+      </stg>
+
+      <stress>и•тӓй</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">йок</l>
-         <stg>
-            <st Contlex="PCLE_">йок</st>
-         </stg>
-         <stress>йок</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">итӓй-тырлай</l>
+
+      <stg>
+        <st Contlex="PCLE_">итӓй-тырлай</st>
+      </stg>
+
+      <stress>и•тӓй-ты•рлай</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">йӓ</l>
-         <stg>
-            <st Contlex="PCLE_">йӓ</st>
-         </stg>
-         <stress>йӓ</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">йо</l>
+
+      <stg>
+        <st Contlex="PCLE_">йо</st>
+      </stg>
+
+      <stress>йо</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">йӓмӓдӓ</l>
-         <stg>
-            <st Contlex="PCLE_">йӓмӓдӓ</st>
-         </stg>
-         <stress>йӓ•мӓдӓ</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">йок</l>
+
+      <stg>
+        <st Contlex="PCLE_">йок</st>
+      </stg>
+
+      <stress>йок</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">кад</l>
-         <stg>
-            <st Contlex="PCLE_">кад</st>
-         </stg>
-         <stress>кад</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">йӓ</l>
+
+      <stg>
+        <st Contlex="PCLE_">йӓ</st>
+      </stg>
+
+      <stress>йӓ</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">кадай</l>
-         <stg>
-            <st Contlex="PCLE_">кадай</st>
-         </stg>
-         <stress>ка•дай</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">йӓмӓдӓ</l>
+
+      <stg>
+        <st Contlex="PCLE_">йӓмӓдӓ</st>
+      </stg>
+
+      <stress>йӓ•мӓдӓ</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">каи</l>
-         <stg>
-            <st Contlex="PCLE_">каи</st>
-         </stg>
-         <stress>ка•и</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">кад</l>
+
+      <stg>
+        <st Contlex="PCLE_">кад</st>
+      </stg>
+
+      <stress>кад</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">кай</l>
-         <stg>
-            <st Contlex="PCLE_">кай</st>
-         </stg>
-         <stress>кай</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">кадай</l>
+
+      <stg>
+        <st Contlex="PCLE_">кадай</st>
+      </stg>
+
+      <stress>ка•дай</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">керек</l>
-         <stg>
-            <st Contlex="PCLE_">керек</st>
-         </stg>
-         <stress>кере•к</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">каи</l>
+
+      <stg>
+        <st Contlex="PCLE_">каи</st>
+      </stg>
+
+      <stress>ка•и</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">коли</l>
-         <stg>
-            <st Contlex="PCLE_">коли</st>
-         </stg>
-         <stress>ко•ли</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">кай</l>
+
+      <stg>
+        <st Contlex="PCLE_">кай</st>
+      </stg>
+
+      <stress>кай</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">колой</l>
-         <stg>
-            <st Contlex="PCLE_">колой</st>
-         </stg>
-         <stress>ко•лой</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">керек</l>
+
+      <stg>
+        <st Contlex="PCLE_">керек</st>
+      </stg>
+
+      <stress>кере•к</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">edes</t>
+
+        <t pos="Pcle">vaikka</t>
+      </tg>
+
+      <xg>
+        <x>керек ик шаям ыдырал</x>
+
+        <xt>kirjoita edes yksi sana</xt>
+      </xg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">ма</l>
-         <stg>
-            <st Contlex="Pcle-Qst">ма</st>
-         </stg>
-         <stress>ма</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">коли</l>
+
+      <stg>
+        <st Contlex="PCLE_">коли</st>
+      </stg>
+
+      <stress>ко•ли</stress>
+    </lg>
+
+    <mg>
+      <defNative>Саваткова: частица</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">oikeastiko</t>
+      </tg>
+
+      <xg>
+        <x>Коли агыл вӓл?</x>
+
+        <xt>Eikö olekaan niin?</xt>
+      </xg>
+
+      <xg>
+        <x>Коли вӓл?</x>
+
+        <xt>ihan oikeastiko näin?</xt>
+      </xg>
+
+      <xg>
+        <x>Коли тенге ӹштен?</x>
+
+        <xt>Ihanko tosiaan teki näin?</xt>
+      </xg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">мане</l>
-         <stg>
-            <st Contlex="PCLE_">мане</st>
-         </stg>
-         <stress>ма•не</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">колой</l>
+
+      <stg>
+        <st Contlex="PCLE_">колой</st>
+      </stg>
+
+      <stress>ко•лой</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">маншаш</l>
-         <stg>
-            <st Contlex="PCLE_">маншаш</st>
-         </stg>
-         <stress>ма•ншаш</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">ма</l>
+
+      <stg>
+        <st Contlex="Pcle-Qst">ма</st>
+      </stg>
+
+      <stress>ма</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">мол</l>
-         <stg>
-            <st Contlex="PCLE_">мол</st>
-         </stg>
-         <stress>мол</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">мане</l>
+
+      <l_ref pos="Pcle">ане</l_ref>
+
+      <stg>
+        <st Contlex="PCLE_">мане</st>
+      </stg>
+
+      <stress>ма•не</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">kyllä</t>
+
+        <t pos="Pcle">niin</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">нечывы</l>
-         <stg>
-            <st Contlex="PCLE_">нечывы</st>
-         </stg>
-         <stress>не•чывы</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">маншаш</l>
+
+      <stg>
+        <st Contlex="PCLE_">маншаш</st>
+      </stg>
+
+      <stress>ма•ншаш</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">нӓ</l>
-         <stg>
-            <st Contlex="PCLE_">нӓ</st>
-         </stg>
-         <stress>нӓ</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">мол</l>
+
+      <stg>
+        <st Contlex="PCLE_">мол</st>
+      </stg>
+
+      <stress>мол</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">нӓӓй</l>
-         <stg>
-            <st Contlex="PCLE_">нӓӓй</st>
-         </stg>
-         <stress>нӓӓй</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">нечывы</l>
+
+      <stg>
+        <st Contlex="PCLE_">нечывы</st>
+      </stg>
+
+      <stress>не•чывы</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">пускай</l>
-         <stg>
-            <st Contlex="PCLE_">пускай</st>
-         </stg>
-         <stress>пуска•й</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">нӓ</l>
+
+      <stg>
+        <st Contlex="PCLE_">нӓ</st>
+      </stg>
+
+      <stress>нӓ</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">разве</l>
-         <stg>
-            <st Contlex="PCLE_">разве</st>
-         </stg>
-         <stress>ра•зве</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">нӓӓй</l>
+
+      <stg>
+        <st Contlex="PCLE_">нӓӓй</st>
+      </stg>
+
+      <stress>нӓӓй</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">содыки</l>
-         <stg>
-            <st Contlex="PCLE_">содыки</st>
-         </stg>
-         <stress>со•дыки</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">пускай</l>
+
+      <stg>
+        <st Contlex="PCLE_">пускай</st>
+      </stg>
+
+      <stress>пуска•й</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">сӓй</l>
-         <stg>
-            <st Contlex="PCLE_">сӓй</st>
-         </stg>
-         <stress>сӓй</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">разве</l>
+
+      <stg>
+        <st Contlex="PCLE_">разве</st>
+      </stg>
+
+      <stress>ра•зве</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">теве</l>
-         <stg>
-            <st Contlex="PCLE_">теве</st>
-         </stg>
-         <stress>те•ве</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">содыки</l>
+
+      <stg>
+        <st Contlex="PCLE_">содыки</st>
+      </stg>
+
+      <stress>со•дыки</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">тек</l>
-         <stg>
-            <st Contlex="PCLE_">тек</st>
-         </stg>
-         <stress>тек</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">сӓй</l>
+
+      <stg>
+        <st Contlex="PCLE_">сӓй</st>
+      </stg>
+
+      <stress>сӓй</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">тӹве</l>
-         <stg>
-            <st Contlex="PCLE_">тӹве</st>
-         </stg>
-         <stress>тӹ•ве</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">теве</l>
+
+      <stg>
+        <st Contlex="PCLE_">теве</st>
+      </stg>
+
+      <stress>те•ве</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">уке</l>
-         <stg>
-            <st Contlex="PCLE_">уке</st>
-         </stg>
-         <stress>у•ке</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">тек</l>
+
+      <stg>
+        <st Contlex="PCLE_">тек</st>
+      </stg>
+
+      <stress>тек</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">улы</l>
-         <stg>
-            <st Contlex="PCLE_">улы</st>
-         </stg>
-         <stress>у•лы</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">тӹве</l>
+
+      <stg>
+        <st Contlex="PCLE_">тӹве</st>
+      </stg>
+
+      <stress>тӹ•ве</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">цурат</l>
-         <stg>
-            <st Contlex="PCLE_">цурат</st>
-         </stg>
-         <stress>цура•т</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">уке</l>
+
+      <stg>
+        <st Contlex="PCLE_">уке</st>
+      </stg>
+
+      <stress>у•ке</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">цуратат</l>
-         <stg>
-            <st Contlex="PCLE_">цуратат</st>
-         </stg>
-         <stress>цурата•т</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">улы</l>
+
+      <stg>
+        <st Contlex="PCLE_">улы</st>
+      </stg>
+
+      <stress>у•лы</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">ыжат</l>
-         <stg>
-            <st Contlex="PCLE_">ыжат</st>
-         </stg>
-         <stress>ыжа•т</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">цурат</l>
+
+      <stg>
+        <st Contlex="PCLE_">цурат</st>
+      </stg>
+
+      <stress>цура•т</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">ӓй</l>
-         <stg>
-            <st Contlex="PCLE_">ӓй</st>
-         </stg>
-         <stress>ӓй</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">цуратат</l>
+
+      <stg>
+        <st Contlex="PCLE_">цуратат</st>
+      </stg>
+
+      <stress>цурата•т</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">ӓл</l>
-         <stg>
-            <st Contlex="PCLE_">ӓл</st>
-         </stg>
-         <stress>ӓл</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">ыжат</l>
+
+      <stg>
+        <st Contlex="PCLE_">ыжат</st>
+      </stg>
+
+      <stress>ыжа•т</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">ӓлдок</l>
-         <stg>
-            <st Contlex="PCLE_">ӓлдок</st>
-         </stg>
-         <stress>ӓ•лдок</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">ӓй</l>
+
+      <stg>
+        <st Contlex="PCLE_">ӓй</st>
+      </stg>
+
+      <stress>ӓй</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">ӓлдӓ</l>
-         <stg>
-            <st Contlex="PCLE_">ӓлдӓ</st>
-         </stg>
-         <stress>ӓ•лдӓ</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">ӓл</l>
+
+      <stg>
+        <st Contlex="PCLE_">ӓл</st>
+      </stg>
+
+      <stress>ӓл</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">ӓлдӓдӓ</l>
-         <stg>
-            <st Contlex="PCLE_">ӓлдӓдӓ</st>
-         </stg>
-         <stress>ӓлдӓ•дӓ</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">ӓлдок</l>
+
+      <stg>
+        <st Contlex="PCLE_">ӓлдок</st>
+      </stg>
+
+      <stress>ӓ•лдок</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">ӓлдӓй</l>
-         <stg>
-            <st Contlex="PCLE_">ӓлдӓй</st>
-         </stg>
-         <stress>ӓ•лдӓй</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">ӓлдӓ</l>
+
+      <stg>
+        <st Contlex="PCLE_">ӓлдӓ</st>
+      </stg>
+
+      <stress>ӓ•лдӓ</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">ӓлок</l>
-         <stg>
-            <st Contlex="PCLE_">ӓлок</st>
-         </stg>
-         <stress>ӓ•лок</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">ӓлдӓдӓ</l>
+
+      <stg>
+        <st Contlex="PCLE_">ӓлдӓдӓ</st>
+      </stg>
+
+      <stress>ӓлдӓ•дӓ</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">ӓлӓй</l>
-         <stg>
-            <st Contlex="PCLE_">ӓлӓй</st>
-         </stg>
-         <stress>ӓ•лӓй</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">ӓлдӓй</l>
+
+      <stg>
+        <st Contlex="PCLE_">ӓлдӓй</st>
+      </stg>
+
+      <stress>ӓ•лдӓй</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">ӓлӹмӓ</l>
-         <stg>
-            <st Contlex="PCLE_">ӓлӹмӓ</st>
-         </stg>
-         <stress>ӓ•лӹмӓ</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">ӓлок</l>
+
+      <stg>
+        <st Contlex="PCLE_">ӓлок</st>
+      </stg>
+
+      <stress>ӓ•лок</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">ӓркӓтӓ</l>
-         <stg>
-            <st Contlex="PCLE_">ӓркӓтӓ</st>
-         </stg>
-         <stress>ӓркӓтӓ</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">ӓлӓй</l>
+
+      <stg>
+        <st Contlex="PCLE_">ӓлӓй</st>
+      </stg>
+
+      <stress>ӓ•лӓй</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Pcle">ӹшкӓлӓ</l>
-         <stg>
-            <st Contlex="PCLE_">ӹшкӓлӓ</st>
-         </stg>
-         <stress>ӹшкӓ•лӓ</stress>
-      </lg>
-      <pos>Pcle</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">ӓлӹмӓ</l>
+
+      <stg>
+        <st Contlex="PCLE_">ӓлӹмӓ</st>
+      </stg>
+
+      <stress>ӓ•лӹмӓ</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">ӓркӓтӓ</l>
+
+      <stg>
+        <st Contlex="PCLE_">ӓркӓтӓ</st>
+      </stg>
+
+      <stress>ӓркӓтӓ</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">ӹшкӓлӓ</l>
+
+      <stg>
+        <st Contlex="PCLE_">ӹшкӓлӓ</st>
+      </stg>
+
+      <stress>ӹшкӓ•лӓ</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
 </r>
