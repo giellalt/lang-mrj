@@ -1,746 +1,1082 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mrj">
+   xml:lang="mrj" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e>
-      <lg>
-         <l pos="Interj">а</l>
-         <stg>
-            <st Contlex="INTERJ_">а</st>
-         </stg>
-         <stress>а</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">а</l>
+
+      <stg>
+        <st Contlex="INTERJ_">а</st>
+      </stg>
+
+      <stress>а</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="Interj">hoi</t>
+
+        <t pos="Interj">niin</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">ага</l>
-         <stg>
-            <st Contlex="INTERJ_">ага</st>
-         </stg>
-         <stress>ага•</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">а-а-а</l>
+
+      <stg>
+        <st Contlex="INTERJ_">а-а-а</st>
+      </stg>
+
+      <stress>а-а-а</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="Interj">selvä</t>
+
+        <t pos="Interj">ok</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">ай</l>
-         <stg>
-            <st Contlex="INTERJ_">ай</st>
-         </stg>
-         <stress>ай</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">ай</l>
+
+      <stg>
+        <st Contlex="INTERJ_">ай</st>
+      </stg>
+
+      <stress>ай</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="Interj">ai</t>
+
+        <t pos="Interj">ai ai</t>
+
+        <t pos="Interj">hups</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">алло</l>
-         <stg>
-            <st Contlex="INTERJ_">алло</st>
-         </stg>
-         <stress>алло•</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">айда</l>
+
+      <stg>
+        <st Contlex="INTERJ_">айда</st>
+      </stg>
+
+      <stress>айда•</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Interj">mennään!</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">альок</l>
-         <stg>
-            <st Contlex="INTERJ_">альок</st>
-         </stg>
-         <stress>альок</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">алло</l>
+
+      <stg>
+        <st Contlex="INTERJ_">алло</st>
+      </stg>
+
+      <stress>алло•</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="Interj">hallo</t>
+
+        <t pos="Interj">hei</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">атат</l>
-         <stg>
-            <st Contlex="INTERJ_">атат</st>
-         </stg>
-         <stress>атат</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">альок</l>
+
+      <stg>
+        <st Contlex="INTERJ_">альок</st>
+      </stg>
+
+      <stress>альок</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">батюшки</l>
-         <stg>
-            <st Contlex="INTERJ_">батюшки</st>
-         </stg>
-         <stress>ба•тюшки</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">атат</l>
+
+      <stg>
+        <st Contlex="INTERJ_">атат</st>
+      </stg>
+
+      <stress>атат</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">йывылдик</l>
-         <stg>
-            <st Contlex="INTERJ_">йывылдик</st>
-         </stg>
-         <stress>йывылди•к</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">аха</l>
+
+      <stg>
+        <st Contlex="INTERJ_">аха</st>
+      </stg>
+
+      <stress>аха•</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="Interj">ahaa</t>
+
+        <t pos="Interj">niin</t>
+
+        <t pos="Interj">niinhän</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">караул</l>
-         <stg>
-            <st Contlex="INTERJ_">караул</st>
-         </stg>
-         <stress>карау•л</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">йывылдик</l>
+
+      <stg>
+        <st Contlex="INTERJ_">йывылдик</st>
+      </stg>
+
+      <stress>йывылди•к</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">кӹш</l>
-         <stg>
-            <st Contlex="INTERJ_">кӹш</st>
-         </stg>
-         <stress>кӹш</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">караул</l>
+
+      <stg>
+        <st Contlex="INTERJ_">караул</st>
+      </stg>
+
+      <stress>карау•л</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="Interj">apua</t>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">макар</l>
-         <stg>
-            <st Contlex="INTERJ_">макар</st>
-         </stg>
-         <stress>макар</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Pcle">коли</l>
+
+      <stg>
+        <st Contlex="PCLE_">коли</st>
+      </stg>
+
+      <stress>ко•ли</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">niinkö</t>
+
+        <tf pos="Pcle">ihanko totta</tf>
+      </tg>
+
+      <xg>
+        <x>Коли?</x>
+
+        <xt>Ihanko totta?</xt>
+      </xg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">мотри</l>
-         <stg>
-            <st Contlex="INTERJ_">мотри</st>
-         </stg>
-         <stress>мотри•</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">кӹш</l>
+
+      <stg>
+        <st Contlex="INTERJ_">кӹш</st>
+      </stg>
+
+      <stress>кӹш</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">мотрӓй</l>
-         <stg>
-            <st Contlex="INTERJ_">мотрӓй</st>
-         </stg>
-         <stress>мотрӓй</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">макар</l>
+
+      <stg>
+        <st Contlex="INTERJ_">макар</st>
+      </stg>
+
+      <stress>макар</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">нӓ</l>
-         <stg>
-            <st Contlex="INTERJ_">нӓ</st>
-         </stg>
-         <stress>нӓ</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">мотри</l>
+
+      <stg>
+        <st Contlex="INTERJ_">мотри</st>
+      </stg>
+
+      <stress>мотри•</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">нӓмӓ</l>
-         <stg>
-            <st Contlex="INTERJ_">нӓмӓ</st>
-         </stg>
-         <stress>нӓмӓ</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">мотрӓй</l>
+
+      <stg>
+        <st Contlex="INTERJ_">мотрӓй</st>
+      </stg>
+
+      <stress>мотрӓй</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">нӓӓй</l>
-         <stg>
-            <st Contlex="INTERJ_">нӓӓй</st>
-         </stg>
-         <stress>нӓӓй</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">нӓ</l>
+
+      <stg>
+        <st Contlex="INTERJ_">нӓ</st>
+      </stg>
+
+      <stress>нӓ</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">пыйца</l>
-         <stg>
-            <st Contlex="INTERJ_">пыйца</st>
-         </stg>
-         <stress>пы•йца</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">нӓмӓ</l>
+
+      <stg>
+        <st Contlex="INTERJ_">нӓмӓ</st>
+      </stg>
+
+      <stress>нӓмӓ</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">пытьыри</l>
-         <stg>
-            <st Contlex="INTERJ_">пытьыри</st>
-         </stg>
-         <stress>пытьы•ри</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">нӓӓй</l>
+
+      <stg>
+        <st Contlex="INTERJ_">нӓӓй</st>
+      </stg>
+
+      <stress>нӓӓй</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">пӧчӧк</l>
-         <stg>
-            <st Contlex="INTERJ_">пӧчӧк</st>
-         </stg>
-         <stress>пӧ•чӧк</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">пыйца</l>
+
+      <stg>
+        <st Contlex="INTERJ_">пыйца</st>
+      </stg>
+
+      <stress>пы•йца</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">роккаляге</l>
-         <stg>
-            <st Contlex="INTERJ_">роккаляге</st>
-         </stg>
-         <stress>роккаляге•</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">пытьыри</l>
+
+      <stg>
+        <st Contlex="INTERJ_">пытьыри</st>
+      </stg>
+
+      <stress>пытьы•ри</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">сӧ</l>
-         <stg>
-            <st Contlex="INTERJ_">сӧ</st>
-         </stg>
-         <stress>сӧ</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">пӧчӧк</l>
+
+      <stg>
+        <st Contlex="INTERJ_">пӧчӧк</st>
+      </stg>
+
+      <stress>пӧ•чӧк</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">сӧвичӹ</l>
-         <stg>
-            <st Contlex="INTERJ_">сӧвичӹ</st>
-         </stg>
-         <stress>сӧви•чӹ</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">роккаляге</l>
+
+      <stg>
+        <st Contlex="INTERJ_">роккаляге</st>
+      </stg>
+
+      <stress>роккаляге•</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">сӧгуды</l>
-         <stg>
-            <st Contlex="INTERJ_">сӧгуды</st>
-         </stg>
-         <stress>сӧгу•ды</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">сӧ</l>
+
+      <stg>
+        <st Contlex="INTERJ_">сӧ</st>
+      </stg>
+
+      <stress>сӧ</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">сӧдӱгӹ</l>
-         <stg>
-            <st Contlex="INTERJ_">сӧдӱгӹ</st>
-         </stg>
-         <stress>сӧдӱ•гӹ</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">сӧвичӹ</l>
+
+      <stg>
+        <st Contlex="INTERJ_">сӧвичӹ</st>
+      </stg>
+
+      <stress>сӧви•чӹ</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">сӱнзӹ</l>
-         <stg>
-            <st Contlex="INTERJ_">сӱнзӹ</st>
-         </stg>
-         <stress>сӱ•нзӹ</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">сӧгуды</l>
+
+      <stg>
+        <st Contlex="INTERJ_">сӧгуды</st>
+      </stg>
+
+      <stress>сӧгу•ды</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">тига</l>
-         <stg>
-            <st Contlex="INTERJ_">тига</st>
-         </stg>
-         <stress>ти•га</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">сӧдӱгӹ</l>
+
+      <stg>
+        <st Contlex="INTERJ_">сӧдӱгӹ</st>
+      </stg>
+
+      <stress>сӧдӱ•гӹ</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">тырлай</l>
-         <stg>
-            <st Contlex="INTERJ_">тырлай</st>
-         </stg>
-         <stress>ты•рлай</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">сӱнзӹ</l>
+
+      <stg>
+        <st Contlex="INTERJ_">сӱнзӹ</st>
+      </stg>
+
+      <stress>сӱ•нзӹ</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">тырлай-итӓй</l>
-         <stg>
-            <st Contlex="INTERJ_">тырлай-итӓй</st>
-         </stg>
-         <stress>ты•рлай-и•тӓй</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">тига</l>
+
+      <stg>
+        <st Contlex="INTERJ_">тига</st>
+      </stg>
+
+      <stress>ти•га</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">чук-чук</l>
-         <stg>
-            <st Contlex="INTERJ_">чук-чук</st>
-         </stg>
-         <stress>чу•к-чу•к</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">тырлай</l>
+
+      <stg>
+        <st Contlex="INTERJ_">тырлай</st>
+      </stg>
+
+      <stress>ты•рлай</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">чур</l>
-         <stg>
-            <st Contlex="INTERJ_">чур</st>
-         </stg>
-         <stress>чур</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">тырлай-итӓй</l>
+
+      <stg>
+        <st Contlex="INTERJ_">тырлай-итӓй</st>
+      </stg>
+
+      <stress>ты•рлай-и•тӓй</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">ша</l>
-         <stg>
-            <st Contlex="INTERJ_">ша</st>
-         </stg>
-         <stress>ша</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">чук-чук</l>
+
+      <stg>
+        <st Contlex="INTERJ_">чук-чук</st>
+      </stg>
+
+      <stress>чу•к-чу•к</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">шабаш</l>
-         <stg>
-            <st Contlex="INTERJ_">шабаш</st>
-         </stg>
-         <stress>шаба•ш</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">чур</l>
+
+      <stg>
+        <st Contlex="INTERJ_">чур</st>
+      </stg>
+
+      <stress>чур</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">шатын</l>
-         <stg>
-            <st Contlex="INTERJ_">шатын</st>
-         </stg>
-         <stress>ша•тын</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">ша</l>
+
+      <stg>
+        <st Contlex="INTERJ_">ша</st>
+      </stg>
+
+      <stress>ша</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">шеремет</l>
-         <stg>
-            <st Contlex="INTERJ_">шеремет</st>
-         </stg>
-         <stress>шере•мет</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">шабаш</l>
+
+      <stg>
+        <st Contlex="INTERJ_">шабаш</st>
+      </stg>
+
+      <stress>шаба•ш</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">шӹл</l>
-         <stg>
-            <st Contlex="INTERJ_">шӹл</st>
-         </stg>
-         <stress>шӹл</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">шатын</l>
+
+      <stg>
+        <st Contlex="INTERJ_">шатын</st>
+      </stg>
+
+      <stress>ша•тын</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">эр-эр</l>
-         <stg>
-            <st Contlex="INTERJ_">эр-эр</st>
-         </stg>
-         <stress>эр-эр</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">шеремет</l>
+
+      <stg>
+        <st Contlex="INTERJ_">шеремет</st>
+      </stg>
+
+      <stress>шере•мет</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">ӓлдӓ</l>
-         <stg>
-            <st Contlex="INTERJ_">ӓлдӓ</st>
-         </stg>
-         <stress>ӓ•лдӓ</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">шӹл</l>
+
+      <stg>
+        <st Contlex="INTERJ_">шӹл</st>
+      </stg>
+
+      <stress>шӹл</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">ӓлдӓдӓ</l>
-         <stg>
-            <st Contlex="INTERJ_">ӓлдӓдӓ</st>
-         </stg>
-         <stress>ӓлдӓ•дӓ</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">эр-эр</l>
+
+      <stg>
+        <st Contlex="INTERJ_">эр-эр</st>
+      </stg>
+
+      <stress>эр-эр</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
   <e>
-      <lg>
-         <l pos="Interj">ӹш-ш</l>
-         <stg>
-            <st Contlex="INTERJ_">ӹш-ш</st>
-         </stg>
-         <stress>ӹш-ш</stress>
-      </lg>
-      <pos>Interj</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+    <lg>
+      <l pos="Interj">ӓлдӓ</l>
+
+      <stg>
+        <st Contlex="INTERJ_">ӓлдӓ</st>
+      </stg>
+
+      <stress>ӓ•лдӓ</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">ӓлдӓдӓ</l>
+
+      <stg>
+        <st Contlex="INTERJ_">ӓлдӓдӓ</st>
+      </stg>
+
+      <stress>ӓлдӓ•дӓ</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Interj">ӹш-ш</l>
+
+      <stg>
+        <st Contlex="INTERJ_">ӹш-ш</st>
+      </stg>
+
+      <stress>ӹш-ш</stress>
+    </lg>
+
+    <pos>Interj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
 </r>
