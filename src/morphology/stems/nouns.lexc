@@ -413,6 +413,7 @@ LEXICON nouns
 аэростат:аэростат N_КОЛ  "ilmapallo" ;
 аэымангмаш:аэымангмаш N_КОЛ  "?!" ;
 аяр:аяр N_КОЛ  "aurinko" ;
+аяр-вырвыр:аяр-вырвыр N_КОЛ_SUB  "leppäkerttu" ;
 аяреммӓш:аяреммӓш N_КОЛ  "selkeneminen" ;
 аярлӹпӹ:аярлӹпӹ N_ТӸРВӸ  "leppäkerttu" ;
 аярталмаш:аярталмаш N_КОЛ  "auringon pilkahdus" ;
@@ -919,7 +920,7 @@ LEXICON nouns
 выжалымаш-нӓлмӓш:выжалымаш-нӓлмӓш N_КОЛ  "osto-myynti" ;
 выжгатаэммӓш:выжгатаэммӓш N_КОЛ  "kuohkeutuminen" ;
 выжик:выжик N_КОЛ  "kasauma" ;
-вызык:вызык N_КОЛ  "kasauma" ;
+вызык:вызык N_КОЛ_SUB  "kasauma" ;
 вызык:выжик N_КОЛ  "kasauma" ;
 выльгыжалтмаш:выльгыжалтмаш N_КОЛ  "pitkään liehuminen" ;
 выльгыжмаш:выльгыжмаш N_КОЛ  "liehuminen" ;
@@ -930,6 +931,7 @@ LEXICON nouns
 выльдырцан:выльдырцы N_КОЛ  "viiriäinen" ;
 выльымаш:выльымаш N_КОЛ  "näivettyminen" ;
 выргем:выргем N_КОЛ  "vaate" ;
+вырвыр:вырвыр N_КОЛ  "hyrrä" ;
 выргыжмаш:выргыжмаш N_КОЛ  "murehtiminen" ;
 выргыжтарымаш:выргыжтарымаш N_КОЛ  "huolestuttaminen" ;
 вырдымактымаш:вырдымактымаш N_КОЛ  "lepattaminen" ;

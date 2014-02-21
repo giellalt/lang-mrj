@@ -9130,6 +9130,36 @@
 
   <e>
     <lg>
+      <l pos="N">аяр-вырвыр</l>
+
+      <l_ref pos="N">выри-вырвыр</l_ref>
+
+      <l_ref pos="N">аярлӹпӹ</l_ref>
+
+      <stg>
+        <st Contlex="N_КОЛ_SUB">аяр-вырвыр</st>
+      </stg>
+
+      <stress>ая•р-вырвыр</stress>
+    </lg>
+
+    <mg>
+      <m>
+        <head/>
+
+        <semRel semRelType="synonym">аяр лӹпӹ</semRel>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N">leppäkerttu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">аяреммӓш</l>
 
       <stg>
@@ -14262,6 +14292,10 @@
 
       <tg xml:lang="fin">
         <t pos="N">isopihtihäntä</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">уховертка</t>
       </tg>
     </mg>
   </e>
@@ -20351,7 +20385,7 @@
       <l pos="N">вызык</l>
 
       <stg>
-        <st Contlex="N_КОЛ">вызык</st>
+        <st Contlex="N_КОЛ_SUB">вызык</st>
 
         <st Contlex="N_КОЛ">выжик</st>
       </stg>
@@ -20360,7 +20394,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Виловат говор</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">kasauma</t>
@@ -20588,6 +20622,28 @@
 
   <e>
     <lg>
+      <l pos="N">вырвыр</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">вырвыр</st>
+      </stg>
+
+      <stress>вы•рвыр</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">hyrrä</t>
+
+        <t pos="N">tarapaappa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">выргыжмаш</l>
 
       <stg>
@@ -20679,6 +20735,8 @@
   <e>
     <lg>
       <l pos="N">выри-вырвыр</l>
+
+      <l_ref pos="N">аяр-вырвыр</l_ref>
 
       <stg>
         <st Contlex="N_КОЛ">выри-вырвыр</st>
