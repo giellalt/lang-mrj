@@ -10,14 +10,10 @@
          </stg>
          <stress>вашта•реш</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
-            <tf>jtakin vastaan</tf>
+            <t pos="Po" compl="Par">vastaan</t>
          </tg>
       </mg>
    </e>
@@ -31,15 +27,12 @@
          <stress>век</stress>
       </lg>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
-            <tf pos="Po">jnkin suuntaan</tf>
-            <tf pos="Po">jnkin puoleen</tf>
-            <tf pos="Po">jnkin päin</tf>
-            <tf pos="Po">jtkin kohti</tf>
+            <t pos="Po" compl="Gen">suuntaan</t>
+            <t pos="Po" compl="Gen">puoleen</t>
+            <t pos="Po" compl="Gen">päin</t>
+            <t pos="Po" compl="Par">kohti</t>
          </tg>
       </mg>
    </e>
@@ -53,15 +46,12 @@
          <stress>ве•кӹ</stress>
       </lg>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
-            <tf pos="Po">jnkin suuntaan</tf>
-            <tf pos="Po">jnkin puoleen</tf>
-            <tf pos="Po">jnkin päin</tf>
-            <tf pos="Po">jtkin kohti</tf>
+            <t pos="Po" compl="Gen">suuntaan</t>
+            <t pos="Po" compl="Gen">puoleen</t>
+            <t pos="Po" compl="Gen">päin</t>
+            <t pos="Po" compl="Par">kohti</t>
          </tg>
       </mg>
    </e>
@@ -75,24 +65,22 @@
          <stress>ве•кӹлӓ</stress>
       </lg>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <tf pos="Po">suunnilleen jnkin suuntaan</tf>
-            <tf pos="Po">johonkin jnkun suuntaan</tf>
-            <tf pos="Po">sinnepäin</tf>
-            <tf pos="Po">tännepäin</tf>
-            <tCtn>
-               <t>ти векӹлӓ</t>
-               <re>tännepäin</re>
-            </tCtn>
-            <tCtn>
-               <t>тӹ векӹлӓ</t>
-               <re>sinnepäin</re>
-            </tCtn>
+            <tf pos="Po">johonkin suuntaan</tf>
+            <t pos="Po" compl="Hum,Gen">suuntaan</t>
+            <t pos="Adv">sinnepäin</t>
+            <t pos="Adv">tännepäin</t>
          </tg>
+            <xg>
+               <x>ти векӹлӓ</x>
+               <xt>tännepäin</xt>
+            </xg>
+            <xg>
+               <x>тӹ векӹлӓ</x>
+               <xt>sinnepäin</xt>
+            </xg>
       </mg>
    </e>
    <e>
@@ -103,14 +91,13 @@
          </stg>
          <stress>ве•лдӹк</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative>synonyymi:</defNative>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Po">jnkin takia</tf>
+            <t pos="Po" compl="Gen">takia</t>
          </tg>
       </mg>
    </e>
@@ -123,14 +110,11 @@
          <stress>ве•лнӹ</stress>
       </lg>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
-            <t pos="Po">jnkun puolellа</t>
-            <t pos="Po">jnkin suunnallа</t>
-            <t pos="Po">jnkin tahollа</t>
+            <t pos="Po" compl="Hum,Gen">puolellа</t>
+            <t pos="Po" compl="Gen">suunnallа</t>
+            <t pos="Po" compl="Gen">tahollа</t>
          </tg>
       </mg>
    </e>
@@ -142,12 +126,8 @@
          </stg>
          <stress>ве•лӓ</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <tf pos="Po">vain -silla(an)</tf>
             <tf pos="Adv">-silla(an)</tf>
@@ -166,16 +146,12 @@
          </stg>
          <stress>ве•лӓн</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
-            <t pos="Po">jnkin puolelle</t>
-            <t pos="Po">jnkin suunnalle</t>
-            <t pos="Po">jnkin taholle</t>
+            <t pos="Po" compl="Gen">puolelle</t>
+            <t pos="Po" compl="Gen">suunnalle</t>
+            <t pos="Po" compl="Gen">taholle</t>
          </tg>
          <xg>
             <x>вес велӓн</x>
@@ -195,30 +171,30 @@
          </stg>
          <stress>верц</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head>
                <!--МаФинМутер: päämäärän ilmaisu (puolesta; tähden; takia; vuoksi); syyn ilmaisu (takia; vuoksi); jnk sijasta; jnk puolesta.  -->
-            </head>
             <defNative>puhekielessä mahd: яжо пӓшӓ вец!</defNative>
-         </m>
          <tg xml:lang="fin">
-            <t pos="Po">jnkin puolesta</t>
-            <t pos="Po">jnkin tähden</t>
-            <t pos="Po">jnkin takia</t>
-            <t pos="Po">jnkin vuoksi</t>
-            <tCtn>
-               <t>яжо лӓктӹш верц шалгаш</t>
-               <re>hyvien tulosten vuoksi</re>
-            </tCtn>
-            <tf pos="Po">jnkun sijasta</tf>
-            <tf pos="Po">jnkun puolesta</tf>
-            <tCtn>
-               <t>ӹшке верцшӹ колтыш</t>
-               <re>lähetti itsensä puolesta</re>
-            </tCtn>
+            <t pos="Po" compl="Gen">puolesta</t>
+            <t pos="Po" compl="Gen">tähden</t>
+            <t pos="Po" compl="Gen">takia</t>
+            <t pos="Po" compl="Gen">vuoksi</t>
          </tg>
+            <xg>
+               <x>яжо лӓктӹш верц шалгаш</x>
+               <xt>hyvien tulosten vuoksi</xt>
+            </xg>
+      </mg>
+      <mg>
+            <defNative/>
+         <tg>
+            <t pos="Po" compl="Hum,Gen">sijasta</t>
+            <t pos="Po" compl="Hum,Gen">puolesta</t>
+         </tg>
+            <xg>
+               <x>ӹшке верцшӹ колтыш</x>
+               <xt>lähetti itsensä puolesta</xt>
+            </xg>
       </mg>
    </e>
    <e>
@@ -230,23 +206,19 @@
          </stg>
          <stress>ве•рцӹн</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
-            <t pos="Po">jnkin puolesta</t>
-            <t pos="Po">jtkin tähden</t>
-            <t pos="Po">jnkin takia</t>
-            <t pos="Po">jnkin vuoksi</t>
+            <t pos="Po" compl="Gen">puolesta</t>
+            <t pos="Po" compl="Gen">tähden</t>
+            <t pos="Po" compl="Gen">takia</t>
+            <t pos="Po" compl="Gen">vuoksi</t>
             <tCtn>
                <t>мӹнь ӹшке верцӹнем лӱдӓм</t>
                <re>minä pelkään itseni takia</re>
             </tCtn>
-            <tf pos="Po">jnkun sijasta</tf>
-            <tf pos="Po">jnkun puolesta</tf>
+            <t pos="Po" compl="Hum,Gen">sijasta</t>
+            <t pos="Po" compl="Hum,Gen">puolesta</t>
             <tCtn>
                <t>ӹшке верцӹнжӹ колтыш</t>
                <re>lähetti itse(ä)nsä puolesta</re>
@@ -269,7 +241,7 @@
             <defNative>Саваткова: вец = велӹц</defNative>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Po">jnkin puoleltа</tf>
+            <t pos="Po" compl="Gen">puoleltа</t>
             <tf pos="Po">jltakin suunnaltа</tf>
          </tg>
          <xg>
@@ -286,7 +258,6 @@
          </stg>
          <stress>ве•цӹнлӓ</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -306,17 +277,13 @@
          </stg>
          <stress>во•ктен</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
-            <tf pos="Po">jnkin luona</tf>
-            <tf pos="Po">jnkin vieressä</tf>
-            <tf pos="Po">jnkin ääressä</tf>
-            <tf pos="Po">jnkin lähellä</tf>
+            <t pos="Po" compl="Gen">luona</t>
+            <t pos="Po" compl="Gen">vieressä</t>
+            <t pos="Po" compl="Gen">ääressä</t>
+            <t pos="Po" compl="Gen">lähellä</t>
          </tg>
          <xg>
             <x>сола воктен кашташ</x>
@@ -333,14 +300,10 @@
          </stg>
          <stress>ву•я</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
-            <tf pos="Po">-päin</tf>
+            <t pos="Po">-päin</t>
             <td pos="Po">mm.pukeutunut jhnkin: N (Nom) + вуя esimerkiksi савыц вуя "ollessa rättipäinen"</td>
          </tg>
          <xg>
@@ -365,16 +328,12 @@
          </stg>
          <stress>вӓ•реш</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
-            <tf pos="Po">jnkun asemesta</tf>
-            <tf pos="Po">jnkun sijaan</tf>
-            <tf pos="Po">jnkin sijasta</tf>
+            <t pos="Po" compl="Hum,Gen">asemesta</t>
+            <t pos="Po" compl="Hum,Gen">sijaan</t>
+            <t pos="Po" compl="Gen">sijasta</t>
          </tg>
       </mg>
    </e>
@@ -386,15 +345,14 @@
          </stg>
          <stress>вӹ•кӹ</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative>вӹлкӹ</defNative>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Po">jnkin päälle</tf>
-            <tf pos="Po">jnkin ylle</tf>
+            <t pos="Po" compl="Gen">päälle</t>
+            <t pos="Po" compl="Gen">ylle</t>
          </tg>
       </mg>
    </e>
@@ -406,14 +364,13 @@
          </stg>
          <stress>вӹ•кӹлӓ</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative>рашемдӹмӹлӓ..</defNative>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Po">jnkin päällepäin</tf>
+            <t pos="Po" compl="Gen">päällepäin</t>
             <tf pos="Po">suunnilleen jnkin ylle</tf>
          </tg>
       </mg>
@@ -426,7 +383,6 @@
          </stg>
          <stress>вӹле•ц</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
          <m>
             <head>
@@ -435,8 +391,8 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Po">jnkin päältä</tf>
-            <tf pos="Po">jnkin yltä</tf>
+            <t pos="Po" compl="Gen">päältä</t>
+            <t pos="Po" compl="Gen">yltä</t>
          </tg>
       </mg>
    </e>
@@ -448,7 +404,6 @@
          </stg>
          <stress>вӹле•ц</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
          <m>
             <head>
@@ -457,7 +412,7 @@
             <defNative/>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Conj">vaikka</tf>
+            <t pos="Conj">vaikka</t>
          </tg>
          <xg>
             <x>улы вӹлец</x>
@@ -477,15 +432,14 @@
          </stg>
          <stress>вӹ•лкӹ</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative>вӹкӹ</defNative>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Po">jnkin päälle</tf>
-            <tf pos="Po">jnkin ylle</tf>
+            <t pos="Po" compl="Gen">päälle</t>
+            <t pos="Po" compl="Gen">ylle</t>
          </tg>
       </mg>
    </e>
@@ -498,13 +452,10 @@
          <stress>вӹ•лнӹ</stress>
       </lg>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
-            <tf pos="Po">jnkin päällä</tf>
-            <tf pos="Po">jnkin yllä</tf>
+            <t pos="Po" compl="Gen">päällä</t>
+            <t pos="Po" compl="Gen">yllä</t>
          </tg>
       </mg>
    </e>
@@ -516,15 +467,11 @@
          </stg>
          <stress>вӹ•лӓн</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
-            <tf pos="Po">jnkin päälle</tf>
-            <tf pos="Po">jnkin ylle</tf>
+            <t pos="Po" compl="Gen">päälle</t>
+            <t pos="Po" compl="Gen">ylle</t>
          </tg>
       </mg>
    </e>
@@ -536,17 +483,16 @@
          </stg>
          <stress>гань</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative>синоним: ганьы</defNative>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Po">jnkin tapaan</tf>
-            <tf pos="Po">jnkin lailla</tf>
+            <t pos="Po" compl="Gen">tapaan</t>
+            <t pos="Po" compl="Gen">lailla</t>
             <tf pos="Conj">(ikään) kuin</tf>
-            <tf pos="Conj">kuten</tf>
+            <t pos="Conj">kuten</t>
             <tf pos="A">jnkin tapainen</tf>
          </tg>
       </mg>
@@ -559,17 +505,13 @@
          </stg>
          <stress>га•ньок</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
-            <tf pos="Po">jnkin tapaan</tf>
-            <tf pos="Po">jnkin lailla</tf>
+            <t pos="Po" compl="Gen">tapaan</t>
+            <t pos="Po" compl="Gen">lailla</t>
             <tf pos="Conj">ihan kuten</tf>
-            <tf pos="Adv">melkein</tf>
+            <t pos="Adv">melkein</t>
             <tf pos="Adv">(oli) vähällä</tf>
          </tg>
          <xg>
@@ -590,17 +532,16 @@
          </stg>
          <stress>ганьы</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative>синоним: гань</defNative>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Po">jnkin tapaan</tf>
-            <tf pos="Po">jnkin lailla</tf>
+            <t pos="Po" compl="Gen">tapaan</t>
+            <t pos="Po" compl="Gen">lailla</t>
             <tf pos="Conj">(ikään) kuin</tf>
-            <tf pos="Conj">kuten</tf>
+            <t pos="Conj">kuten</t>
             <tf pos="A">jnkin tapainen</tf>
          </tg>
       </mg>
@@ -613,16 +554,12 @@
          </stg>
          <stress>гач</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>yli; ylitse; poikki</t>
-            <tf>jnk läpi</tf>
-            <tf>jnk avulla; jnk kautta; jnk välityksellä</tf>
+            <t pos="Po" compl="Gen">läpi</t>
+            <t pos="Po" compl="Gen">avulla</t><t pos="Po" compl="Gen">kautta</t><t pos="Po" compl="Gen">välityksellä</t>
          </tg>
       </mg>
    </e>
@@ -634,12 +571,8 @@
          </stg>
          <stress>ги•шӓн</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>takia; vuoksi</t>
             <td>ilmaistaan Elatiivilla: esim. puhua hänestä</td>
@@ -662,12 +595,8 @@
          </stg>
          <stress>го•дшен</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>alkaen</t>
          </tg>
@@ -681,12 +610,8 @@
          </stg>
          <stress>го•дым</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>aikana</t>
          </tg>
@@ -700,12 +625,8 @@
          </stg>
          <stress>гӹц</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>-sta</t>
             <td>ilmaistaan siirtymistä paikasta sm Elatiivilla: esim. poistui tallista</td>
@@ -725,7 +646,6 @@
          </stg>
          <stress>гӹцӹн</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -744,12 +664,8 @@
          </stg>
          <stress>до•кы</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>luo</t>
             <t>luokse</t>
@@ -766,10 +682,7 @@
          <stress>до•но</stress>
       </lg>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t pos="Po">kanssa</t>
             <t pos="Po">kera</t>
@@ -789,12 +702,8 @@
          </stg>
          <stress>до•ны</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>luona</t>
          </tg>
@@ -808,12 +717,8 @@
          </stg>
          <stress>до•ран</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>luokse; viereen</t>
             <t>luona; vieressä</t>
@@ -829,7 +734,6 @@
          </stg>
          <stress>до•рц</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
          <m>
             <head>
@@ -850,12 +754,8 @@
          </stg>
          <stress>до•рцын</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>luota; vierestä</t>
          </tg>
@@ -869,12 +769,8 @@
          </stg>
          <stress>дӓ•нгӹнь</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t/>
          </tg>
@@ -888,7 +784,6 @@
          </stg>
          <stress>йӹ•де</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
          <m>
             <head>
@@ -915,12 +810,8 @@
          </stg>
          <stress>йӹр</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>ympäri</t>
          </tg>
@@ -934,12 +825,8 @@
          </stg>
          <stress>кытла•шты</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>kohdalla</t>
          </tg>
@@ -953,12 +840,8 @@
          </stg>
          <stress>ли•шнӹ</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>lähellä</t>
          </tg>
@@ -972,12 +855,8 @@
          </stg>
          <stress>ло•гӹц</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t pos="Po">keskuudesta</t>
             <t pos="Po">seasta</t>
@@ -994,7 +873,6 @@
          </stg>
          <stress>ло•ш</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1018,12 +896,8 @@
          </stg>
          <stress>ло•шкы</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t pos="Po">keskelle</t>
             <t pos="Po">keskuuteen</t>
@@ -1041,7 +915,6 @@
          </stg>
          <stress>ло•шты</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
          <m>
             <head>
@@ -1068,12 +941,8 @@
          </stg>
          <stress>лоэ•ш</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t pos="Po">väliin</t>
          </tg>
@@ -1091,14 +960,13 @@
          </stg>
          <stress>лӹве•ц</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative>kts myös: лӹвецӹн</defNative>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Po">jnkin (esineen) alta</tf>
+            <tf pos="Po" compl="Gen">(esineen) alta</tf>
          </tg>
       </mg>
    </e>
@@ -1110,14 +978,13 @@
          </stg>
          <stress>лӹве•цӹн</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative>kts myös vrt: лӹвец</defNative>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Po">jnkin alta</tf>
+            <t pos="Po" compl="Gen">alta</t>
             <t pos="Adv">alta</t>
          </tg>
       </mg>
@@ -1130,14 +997,13 @@
          </stg>
          <stress>лӹвӓ•к</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
          <m>
             <head/>
             <defNative>лӹвӓкӹ</defNative>
          </m>
          <tg xml:lang="fin">
-            <tf pos="Po">jnkin alle</tf>
+            <t pos="Po" compl="Gen">alle</t>
          </tg>
       </mg>
    </e>
@@ -1149,14 +1015,10 @@
          </stg>
          <stress>лӹвӓ•кӹ</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
-            <tf pos="Po">jnkin alle</tf>
+            <t pos="Po" compl="Gen">alle</t>
             <t pos="Adv">alle</t>
          </tg>
       </mg>
@@ -1169,12 +1031,8 @@
          </stg>
          <stress>лӹвӓ•лнӹ</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t pos="Po">alla</t>
          </tg>
@@ -1206,12 +1064,8 @@
          </stg>
          <stress>лӹвӓ•ц</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>alta</t>
          </tg>
@@ -1225,7 +1079,6 @@
          </stg>
          <stress>лӹвӓ•цӹн</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
          <m>
             <head/>
@@ -1244,12 +1097,8 @@
          </stg>
          <stress>лӹ•меш</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>nimeen; nimessä</t>
          </tg>
@@ -1263,12 +1112,8 @@
          </stg>
          <stress>мы•ч</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t/>
          </tg>
@@ -1282,12 +1127,8 @@
          </stg>
          <stress>мыче•ц</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t/>
          </tg>
@@ -1301,12 +1142,8 @@
          </stg>
          <stress>мы•чкы</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>pitkin</t>
             <t>läpi</t>
@@ -1321,12 +1158,8 @@
          </stg>
          <stress>мы•чны</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t/>
          </tg>
@@ -1340,12 +1173,8 @@
          </stg>
          <stress>мы•чыц</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t/>
          </tg>
@@ -1359,12 +1188,8 @@
          </stg>
          <stress>мӱнкӧ</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t/>
          </tg>
@@ -1378,12 +1203,8 @@
          </stg>
          <stress>нӓ•рӹ</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t/>
          </tg>
@@ -1397,12 +1218,8 @@
          </stg>
          <stress>па•штек</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>jälkeen</t>
             <t>perään</t>
@@ -1417,12 +1234,8 @@
          </stg>
          <stress>пе•лен</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t/>
          </tg>
@@ -1436,12 +1249,8 @@
          </stg>
          <stress>са•га</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>vieressä</t>
          </tg>
@@ -1455,12 +1264,8 @@
          </stg>
          <stress>се•мӹнь</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t/>
          </tg>
@@ -1474,12 +1279,8 @@
          </stg>
          <stress>сы•лны</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t/>
          </tg>
@@ -1493,12 +1294,8 @@
          </stg>
          <stress>те•мӹнь</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t/>
          </tg>
@@ -1512,12 +1309,8 @@
          </stg>
          <stress>те•рвен</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t/>
          </tg>
@@ -1531,12 +1324,8 @@
          </stg>
          <stress>ту•ре</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>kohdalla</t>
          </tg>
@@ -1550,12 +1339,8 @@
          </stg>
          <stress>туре•шкӹ</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t/>
          </tg>
@@ -1569,12 +1354,8 @@
          </stg>
          <stress>турешты</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t/>
          </tg>
@@ -1588,12 +1369,8 @@
          </stg>
          <stress>утла•</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t/>
          </tg>
@@ -1607,12 +1384,8 @@
          </stg>
          <stress>шагы•шеш</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t/>
          </tg>
@@ -1626,12 +1399,8 @@
          </stg>
          <stress>ша•йык</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t/>
          </tg>
@@ -1645,12 +1414,8 @@
          </stg>
          <stress>ша•йыкы</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t/>
          </tg>
@@ -1664,12 +1429,8 @@
          </stg>
          <stress>ша•йылан</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t/>
          </tg>
@@ -1683,12 +1444,8 @@
          </stg>
          <stress>ша•йылны</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t>takana</t>
          </tg>
@@ -1702,12 +1459,8 @@
          </stg>
          <stress>ша•йыц</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t/>
          </tg>
@@ -1721,12 +1474,8 @@
          </stg>
          <stress>ша•йыцын</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t/>
          </tg>
@@ -1740,12 +1489,8 @@
          </stg>
          <stress>ша•кшеш</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t/>
          </tg>
@@ -1759,12 +1504,8 @@
          </stg>
          <stress>шот</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t/>
          </tg>
@@ -1778,12 +1519,8 @@
          </stg>
          <stress>шотеш</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t/>
          </tg>
@@ -1797,12 +1534,8 @@
          </stg>
          <stress>шо•тышты</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t/>
          </tg>
@@ -1816,12 +1549,8 @@
          </stg>
          <stress>я•кте</stress>
       </lg>
-      <pos>Po</pos>
       <mg>
-         <m>
-            <head/>
             <defNative/>
-         </m>
          <tg xml:lang="fin">
             <t/>
          </tg>
