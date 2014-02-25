@@ -787,21 +787,27 @@
 
   <e>
     <lg>
-      <l pos="Pcle">каи</l>
+      <l pos="Pcle">как</l>
 
       <stg>
-        <st Contlex="PCLE_">каи</st>
+        <st Contlex="PCLE_">как</st>
       </stg>
 
-      <stress>ка•и</stress>
+      <stress>как</stress>
     </lg>
 
     <mg>
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <td pos="Pcle">äkinnäisen toiminnan ilmaisu verbin yhteydessä</td>
       </tg>
+
+      <xg>
+        <x>тӹдӹ как сӹгӹрӓл колтыш (JK)</x>
+
+        <xt>hän kun karjahti</xt>
+      </xg>
     </mg>
   </e>
 
@@ -1097,6 +1103,64 @@
 
   <e>
     <lg>
+      <l pos="Pcle">самой</l>
+
+      <stg>
+        <st Contlex="PCLE_">самой</st>
+      </stg>
+
+      <stress>са•мой</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">just</t>
+
+        <tf pos="Pcle">justiinsa</tf>
+      </tg>
+
+      <xg>
+        <x>тидӹ самой тенге и ылеш (JK)</x>
+
+        <xt>tämä onkin justiinsa näin</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">смӧрт</l>
+
+      <stg>
+        <st Contlex="PCLE_">смӧрт</st>
+      </stg>
+
+      <stress>смӧрт</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <tf pos="Pcle">tosi paljon</tf>
+
+        <tf pos="Pcle">ollenkaan</tf>
+
+        <t pos="Pcle">pahus</t>
+      </tg>
+
+      <xg>
+        <x>смӧрт техеньӹм ам яраты (2008:250)</x>
+
+        <xt>en tykkää ollenkaan tällaista</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Pcle">содыки</l>
 
       <stg>
@@ -1110,7 +1174,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <t pos="Pcle">kuitenkin</t>
       </tg>
     </mg>
   </e>
@@ -1130,7 +1194,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <t pos="Pcle">ilmeisesti</t>
+
+        <t pos="Pcle">näköjään</t>
       </tg>
     </mg>
   </e>
