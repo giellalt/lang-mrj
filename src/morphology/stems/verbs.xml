@@ -49776,7 +49776,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V">hieman ärsyttää</t>
+        <tf pos="V">hieman ärsyttää</tf>
       </tg>
     </mg>
   </e>
@@ -49799,6 +49799,12 @@
         <t pos="V">sapettaa</t>
 
         <t pos="V">ärsyttää</t>
+
+        <t pos="V">ivata</t>
+
+        <tf pos="V">harjoittaa ilkivaltaa</tf>
+
+        <tf pos="V">tuntea vahingoniloa</tf>
       </tg>
     </mg>
   </e>
@@ -49818,7 +49824,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V">näyttää valoa</t>
+        <tf pos="V">näyttää valoa</tf>
       </tg>
     </mg>
   </e>
@@ -49847,18 +49853,22 @@
     <lg>
       <l pos="V">сотемӓлтӓш</l>
 
+      <l_ref pos="V">сотемӓш</l_ref>
+
       <stg>
-        <st Contlex="V_АМ">сотемӓлт</st>
+        <st Contlex="V_АМ">сотемӓлтӓш</st>
       </stg>
 
       <stress>сотемӓ•лтӓш</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sg3</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">sarastaa</t>
+
+        <t pos="V">koittaa</t>
       </tg>
     </mg>
   </e>
@@ -49867,18 +49877,22 @@
     <lg>
       <l pos="V">сотемӓш</l>
 
+      <l_ref pos="V">сотемӓлтӓш</l_ref>
+
       <stg>
-        <st Contlex="V_АМ">сотем</st>
+        <st Contlex="V_АМ">сотемӓш</st>
       </stg>
 
       <stress>соте•мӓш</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sg3</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">sarastaa</t>
+
+        <t pos="V">koittaa</t>
       </tg>
     </mg>
   </e>
