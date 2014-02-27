@@ -25,7 +25,59 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Aapo</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Австрали</l>
+
+      <stg>
+        <st Contlex="PROP_ОЛМА">Австрали</st>
+      </stg>
+
+      <stress>Австра•ли</stress>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Australia</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Австри</l>
+
+      <stg>
+        <st Contlex="PROP_ОЛМА">Австри</st>
+      </stg>
+
+      <stress>А•встри</stress>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Itä-Valta</t>
       </tg>
     </mg>
   </e>
@@ -51,20 +103,20 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Alina</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N" type="Prop">Алык</l>
+      <l pos="N" type="Prop">Ази</l>
 
       <stg>
-        <st Contlex="PROP_">Алык</st>
+        <st Contlex="PROP_ОЛМА">Ази</st>
       </stg>
 
-      <stress>А•лык</stress>
+      <stress>А•зи</stress>
     </lg>
 
     <pos>Prop</pos>
@@ -73,11 +125,121 @@
       <m>
         <head/>
 
-        <defNative>Алык мары</defNative>
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Aasia</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Алык мары</l>
+
+      <stg>
+        <st Contlex="PROP_">Алык мары</st>
+      </stg>
+
+      <stress>А•лыкмары</stress>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>Алык мары = Цӓрлӓ мары</defNative>
       </m>
 
       <tg xml:lang="fin">
         <t pos="N" type="Prop">Niittymarialue</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Аля</l>
+
+      <stg>
+        <st Contlex="PROP_ОЛМА">Аля</st>
+      </stg>
+
+      <stress>А•ля</stress>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Alya</t>
+
+        <td pos="N" type="Prop">Allan deminutiivinen muoto</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Аляска</l>
+
+      <stg>
+        <st Contlex="PROP_КАРТА">Аляска</st>
+      </stg>
+
+      <stress>Аля•ска</stress>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Alaska</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Америка</l>
+
+      <l_ref pos="Prop">АУШ</l_ref>
+
+      <stg>
+        <st Contlex="PROP_КАРТА">Америка</st>
+      </stg>
+
+      <stress>Аме•рика</stress>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Yhdysvallat</t>
+
+        <t pos="N" type="Prop">USA</t>
       </tg>
     </mg>
   </e>
@@ -103,7 +265,119 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop">Annan tai Anjan deminutiivinen muoto</t>
+        <td pos="N" type="Prop">Annan tai Anjan deminutiivinen muoto</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Америка</l>
+
+      <l_ref pos="Prop">АУШ</l_ref>
+
+      <stg>
+        <st Contlex="PROP_КАРТА">Америка</st>
+      </stg>
+
+      <stress>Аме•рика</stress>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Yhdysvallat</t>
+
+        <t pos="N" type="Prop">USA</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N" type="Prop">АУШ</l>
+
+      <l_ref pos="Prop">Америка</l_ref>
+
+      <stg>
+        <st Contlex="PROP_КАРТА">АУШ</st>
+      </stg>
+
+      <stress>АУШ</stress>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">USA</t>
+
+        <t pos="N" type="Prop">Yhdysvallat</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Бельги</l>
+
+      <stg>
+        <st Contlex="PROP_ОЛМА">Бельги</st>
+      </stg>
+
+      <stress>Бе•льги</stress>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Belgia</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Болгари</l>
+
+      <stg>
+        <st Contlex="PROP_ОЛМА">Болгари</st>
+      </stg>
+
+      <stress>Болга•ри</stress>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Bulgaria</t>
       </tg>
     </mg>
   </e>
@@ -129,8 +403,66 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Boris</t>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Бразили</l>
+
+      <stg>
+        <st Contlex="PROP_ОЛМА">Бразили</st>
+      </stg>
+
+      <stress>Брази•ли</stress>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Brasilia</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Вадывел</l>
+
+      <stg>
+        <st Contlex="PROP_КОЛ">Вадывел</st>
+      </stg>
+
+      <stress>Ва•дывел</stress>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Länsi</t>
+      </tg>
+
+      <xg>
+        <x>Вадывелнӹ техень принцип (JK)</x>
+
+        <xt>Lännessä on tällainen systeemi</xt>
+      </xg>
     </mg>
   </e>
 
@@ -181,7 +513,61 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Veronika</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Голланди</l>
+
+      <stg>
+        <st Contlex="PROP_ОЛМА">Голланди</st>
+      </stg>
+
+      <stress>Голла•нди</stress>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Alankomaat</t>
+
+        <t pos="N" type="Prop">Hollanti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Грузи</l>
+
+      <stg>
+        <st Contlex="PROP_ОЛМА">Грузи</st>
+      </stg>
+
+      <stress>Гру•зи</stress>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Georgia</t>
       </tg>
     </mg>
   </e>
@@ -207,7 +593,33 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Eurooppa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Египет</l>
+
+      <stg>
+        <st Contlex="PROP_КОЛ">Египет</st>
+      </stg>
+
+      <stress>Еги•пет</stress>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Egypti</t>
       </tg>
     </mg>
   </e>
@@ -233,7 +645,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Yelise</t>
       </tg>
     </mg>
   </e>
@@ -259,7 +671,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Yeliseevna</t>
       </tg>
     </mg>
   </e>
@@ -285,7 +697,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Yelisei</t>
       </tg>
     </mg>
   </e>
@@ -311,7 +723,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Ivan</t>
+
+        <td pos="N" type="Prop">Juha tai Juhana</td>
       </tg>
     </mg>
   </e>
@@ -337,7 +751,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <td pos="N" type="Prop">Juhananpoika</td>
       </tg>
     </mg>
   </e>
@@ -363,7 +777,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <td pos="N" type="Prop">Juhanantytär</td>
       </tg>
     </mg>
   </e>
@@ -389,7 +803,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Igor</t>
       </tg>
     </mg>
   </e>
@@ -415,7 +829,33 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Iljin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Испани</l>
+
+      <stg>
+        <st Contlex="PROP_ОЛМА">Испани</st>
+      </stg>
+
+      <stress>Испа•ни</stress>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Hispania</t>
       </tg>
     </mg>
   </e>
@@ -441,7 +881,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Volga</t>
+
+        <td pos="N" type="Prop">Volgan vuorimarinkielinen nimitys</td>
       </tg>
     </mg>
   </e>
@@ -467,7 +909,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <td pos="N" type="Prop">Taka-Volgan alue</td>
+
+        <td pos="N" type="Prop">Volga-joen vasemman rannan puoleinen alue</td>
       </tg>
     </mg>
   </e>
@@ -477,7 +921,7 @@
       <l pos="N" type="Prop">Йынгы</l>
 
       <stg>
-        <st Contlex="PROP_">Йынгы</st>
+        <st Contlex="PROP_ТӸРВӸ">Йынгы</st>
       </stg>
 
       <stress>Йы•нгы</stress>
@@ -493,8 +937,20 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Junga</t>
       </tg>
+
+      <xg>
+        <x>Изи Йынгы</x>
+
+        <xt/>
+      </xg>
+
+      <xg>
+        <x>Кого Йынгы</x>
+
+        <xt/>
+      </xg>
     </mg>
   </e>
 
@@ -1040,6 +1496,32 @@
 
       <tg xml:lang="fin">
         <t pos="N" type="Prop"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Турци</l>
+
+      <stg>
+        <st Contlex="PROP_">Турци</st>
+      </stg>
+
+      <stress>Ту•рци</stress>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Turkki</t>
       </tg>
     </mg>
   </e>

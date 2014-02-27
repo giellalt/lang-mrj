@@ -146,6 +146,36 @@
 
   <e>
     <lg>
+      <l pos="Adv">андак</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">андак</st>
+      </stg>
+
+      <stress>а•ндак</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ajoissa</t>
+
+        <t pos="Adv">heti</t>
+
+        <t pos="Adv">samantien</t>
+
+        <t pos="Adv">etukäteen</t>
+
+        <t pos="Adv">alussa</t>
+
+        <t pos="Adv">ensiksi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Adv">анзык</l>
 
       <stg>
@@ -1843,7 +1873,7 @@
       <xg>
         <x>Эдемӹм вӹлец анжен пӓлӓш ясы нелӹ.</x>
 
-        <xt>Ihmisestä on vaikea tietää päältäpäin (katsoen). </xt>
+        <xt>Ihmisestä on vaikea tietää päältäpäin (katsoen).</xt>
       </xg>
     </mg>
   </e>
