@@ -850,6 +850,28 @@
 
   <e>
     <lg>
+      <l pos="N">автостанци</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">автостанци</st>
+      </stg>
+
+      <stress>автоста•нци</stress>
+    </lg>
+
+    <mg>
+      <defNative>Цикмӓштӹшӹ автовокзалын лӹмжӹ</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">autolinja-pääasema</t>
+
+        <td pos="N">Tsikmässä lähibussien päätypysäkki ja bussiasema</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">авызи</l>
 
       <stg>
@@ -2218,10 +2240,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative> (лат. Caragána arboréscens)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">siperianhernepensas</t>
       </tg>
     </mg>
   </e>
@@ -2408,6 +2430,30 @@
 
       <tg xml:lang="fin">
         <t pos="N">akku</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">акли</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">акли</st>
+      </stg>
+
+      <stress>а•кли</stress>
+    </lg>
+
+    <mg>
+      <defNative>Ӹлӹмӓштӹ акли уке. (JK)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">mahdottomuus</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">невозможное</t>
       </tg>
     </mg>
   </e>
@@ -4912,34 +4958,6 @@
 
   <e>
     <lg>
-      <l pos="Adv">анзыкыла</l>
-
-      <stg>
-        <st Contlex="ADV_">анзыкыла</st>
-      </stg>
-
-      <stress>а•нзыкыла</stress>
-    </lg>
-
-    <pos>Adv</pos>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N">eteenpäin</t>
-      </tg>
-
-      <xg>
-        <x>анзыкыла!</x>
-
-        <xt>eteenpäin!</xt>
-      </xg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="N">анзыкылашы</l>
 
       <stg>
@@ -4950,14 +4968,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>kts myös Adj.</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">tulevaisuus</t>
-
-        <t pos="A">tuleva</t>
-
-        <t pos="A">tulevaisuudessa tapahtuva</t>
       </tg>
     </mg>
   </e>
@@ -159323,7 +159337,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vakiomalli</t>
+
+        <t pos="N">standardi</t>
+
+        <t pos="N">kaavamaisuus</t>
       </tg>
     </mg>
   </e>
@@ -159343,7 +159361,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">työpenkki</t>
+
+        <t pos="N">alusta</t>
+
+        <t pos="N">työkone</t>
+
+        <t pos="N">höyläkone</t>
+
+        <t pos="N">sorvi</t>
       </tg>
     </mg>
   </e>
@@ -159363,7 +159389,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">asema</t>
       </tg>
     </mg>
   </e>
@@ -159371,6 +159397,8 @@
   <e>
     <lg>
       <l pos="N">старайымаш</l>
+
+      <l_ref pos="N">цацымаш</l_ref>
 
       <stg>
         <st Contlex="N_КОЛ">старайымаш</st>
@@ -159380,10 +159408,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>myös tietyissä kontekstissä: илештӹлмӓш</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sinnittely</t>
+
+        <t pos="N">koettaminen</t>
       </tg>
     </mg>
   </e>
@@ -159403,7 +159433,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lähtö</t>
+
+        <t pos="N">startti</t>
+
+        <t pos="N">lähtömerkki</t>
       </tg>
     </mg>
   </e>
@@ -159420,7 +159454,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>vir: käiviti</defNative>
 
       <tg xml:lang="fin">
         <t pos="N"/>
@@ -159443,7 +159477,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">startaaminen</t>
       </tg>
     </mg>
   </e>
@@ -159463,7 +159497,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tilastotiede</t>
       </tg>
     </mg>
   </e>
@@ -159483,7 +159517,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kuvapatsas</t>
       </tg>
     </mg>
   </e>
@@ -159503,7 +159537,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">asema</t>
       </tg>
     </mg>
   </e>
@@ -159523,7 +159557,31 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">artikkeli</t>
+
+        <t pos="N">kirjoitus</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">статья</l>
+
+      <stg>
+        <st Contlex="NTag">статья</st>
+      </stg>
+
+      <stress>статья•</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">pykälä</t>
+
+        <t pos="N">artikla</t>
       </tg>
     </mg>
   </e>
@@ -159543,7 +159601,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sairaalahoito</t>
+
+        <te pos="N">vakituinen laitos</te>
       </tg>
     </mg>
   </e>
@@ -159560,10 +159620,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>забастовкы ( JK)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lakko</t>
       </tg>
     </mg>
   </e>
@@ -159583,7 +159643,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">hylly</t>
+
+        <te pos="N">koko seinän hylly</te>
+
+        <t pos="N">teline</t>
       </tg>
     </mg>
   </e>
@@ -159603,7 +159667,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">seinälehti</t>
       </tg>
     </mg>
   </e>
@@ -159623,7 +159687,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">näyteteline</t>
       </tg>
     </mg>
   </e>
@@ -159643,7 +159707,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pikakirjoite</t>
+
+        <t pos="N">stenogrammi</t>
       </tg>
     </mg>
   </e>
@@ -159663,7 +159729,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pikakirjoitus</t>
+
+        <t pos="N">stenografia</t>
       </tg>
     </mg>
   </e>
@@ -159683,7 +159751,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pikakirjoittaja</t>
+
+        <t pos="N">pikakirjuri</t>
+
+        <t pos="N">stenografi</t>
       </tg>
     </mg>
   </e>
@@ -159703,7 +159775,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">seinä</t>
       </tg>
     </mg>
   </e>
@@ -159720,10 +159792,16 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>кӱкшӹц</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">aste</t>
+
+        <t pos="N">taso</t>
+
+        <t pos="N">oppiarvo</t>
+
+        <te pos="N">potenssi (matem.)</te>
       </tg>
     </mg>
   </e>
