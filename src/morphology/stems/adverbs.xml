@@ -229,8 +229,38 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv">eteen; eteenpäin</t>
+        <t pos="Adv">eteen</t>
+
+        <t pos="Adv">eteenpäin</t>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">анзыкыла</l>
+
+      <stg>
+        <st Contlex="ADV_">анзыкыла</st>
+      </stg>
+
+      <stress>а•нзыкыла</stress>
+    </lg>
+
+    <pos>Adv</pos>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">eteenpäin</t>
+      </tg>
+
+      <xg>
+        <x>Анзыкыла ке!</x>
+
+        <xt>Mene eteenpäin!</xt>
+      </xg>
     </mg>
   </e>
 
