@@ -206,11 +206,17 @@
     </lg>
 
     <mg>
-      <defNative>шамаклан: намалтышым анзык-шайык сӓкӓлтен</defNative>
+      <defNative/>
 
       <tg xml:lang="fin">
         <td pos="Adv">muunmuassa tarkoittaa: molemmin puolin olkaa</td>
       </tg>
+
+      <xg>
+        <x>намалтышым анзык-шайык сӓкӓлтен</x>
+
+        <xt>selässään kantamukset molemmin puolin olkaa</xt>
+      </xg>
     </mg>
   </e>
 
@@ -226,7 +232,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>анзык</defNative>
 
       <tg xml:lang="fin">
         <t pos="Adv">eteen</t>
@@ -736,22 +742,40 @@
 
   <e>
     <lg>
-      <l pos="Adv">вӓрӓн-вӓрӹшкӹ</l>
+      <l pos="???"/>
 
       <stg>
-        <st Contlex="ADV_">вӓрӓн-вӓрӹшкӹ</st>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg/>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">вашт</l>
+
+      <stg>
+        <st Contlex="ADV_">вашт</st>
       </stg>
 
-      <stress>вӓрӓ•н-вӓ•рӹшкӹ</stress>
+      <stress>вашт</stress>
     </lg>
+
+    <pos>Adv</pos>
 
     <mg>
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv">paikkoilleen</t>
+        <t pos="Adv">läpi</t>
 
-        <t pos="Adv">järjestykseen</t>
+        <t pos="Adv">lävitse</t>
+
+        <t pos="Adv">läpikotaisin</t>
+
+        <t pos="Adv">kokonaan</t>
       </tg>
     </mg>
   </e>
@@ -1282,6 +1306,32 @@
 
   <e>
     <lg>
+      <l pos="Adv">вуйсӓрӓ</l>
+
+      <stg>
+        <st Contlex="ADV_">вуйсӓрӓ</st>
+      </stg>
+
+      <stress>вуйсӓ•рӓ</stress>
+    </lg>
+
+    <pos>Adv</pos>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <tf pos="Adv">päätä pahkaa</tf>
+
+        <tf pos="Adv">suin päin</tf>
+
+        <tf pos="Adv">pää kolmantena jalkana</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Adv">вуйын-вуйстык</l>
 
       <stg>
@@ -1662,10 +1712,34 @@
     </lg>
 
     <mg>
+      <defNative>вӓрӓн-вӓрӹштӹ</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">järjestyksessä</t>
+
+        <t pos="Adv">paikkoillaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">вӓрӓн-вӓрӹшкӹ</l>
+
+      <stg>
+        <st Contlex="ADV_">вӓрӓн-вӓрӹшкӹ</st>
+      </stg>
+
+      <stress>вӓрӓ•н-вӓ•рӹшкӹ</stress>
+    </lg>
+
+    <mg>
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">paikkoilleen</t>
+
+        <t pos="Adv">järjestykseen</t>
       </tg>
     </mg>
   </e>
@@ -2204,6 +2278,32 @@
 
       <tg xml:lang="fin">
         <t pos="Adv"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ивештӓ</l>
+
+      <stg>
+        <st Contlex="ADV_">ивештӓ</st>
+      </stg>
+
+      <stress>иве•штӓ</stress>
+    </lg>
+
+    <pos>Adv</pos>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">salaa</t>
+
+        <t pos="Adv">salaisesti</t>
+
+        <t pos="Adv">salavihkaa</t>
       </tg>
     </mg>
   </e>
@@ -3404,6 +3504,28 @@
 
       <tg xml:lang="fin">
         <t pos="Adv"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ирет-вадет</l>
+
+      <stg>
+        <st Contlex="ADV_">ирет-вадет</st>
+      </stg>
+
+      <stress>ире•т-ваде•т</stress>
+    </lg>
+
+    <pos>Adv</pos>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <te pos="Adv">aammuin-illoin</te>
       </tg>
     </mg>
   </e>
