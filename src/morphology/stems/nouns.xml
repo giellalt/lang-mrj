@@ -76232,10 +76232,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>тетерев-косач (teeri; лат. Lyrurus tetrix)</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">teeri</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">тетерев</t>
       </tg>
     </mg>
   </e>
@@ -103066,6 +103070,8 @@
     <lg>
       <l pos="N">нарынзыгек</l>
 
+      <l_ref pos="N">ӹжӹмӹр</l_ref>
+
       <stg>
         <st Contlex="N_КОЛ">нарынзыгек</st>
       </stg>
@@ -103082,6 +103088,10 @@
 
       <tg xml:lang="fin">
         <t pos="N">kuhankeittäjä</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">иволга</t>
       </tg>
     </mg>
   </e>
@@ -160501,7 +160511,7 @@
       </tg>
 
       <xg>
-        <x>шӹре строчка </x>
+        <x>шӹре строчка</x>
 
         <xt>tiheä tikkaus</xt>
       </xg>
@@ -160881,7 +160891,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">siivoustalkoot</t>
+
+        <t pos="N">talkoot</t>
       </tg>
     </mg>
   </e>
@@ -160901,7 +160913,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tukiraha</t>
+
+        <t pos="N">tukiainen</t>
+
+        <t pos="N">apuraha</t>
+
+        <t pos="N">maataloustuki</t>
       </tg>
     </mg>
   </e>
@@ -160918,10 +160936,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>gramm.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">subjekti</t>
+
+        <t pos="N">persoona</t>
       </tg>
     </mg>
   </e>
@@ -160941,7 +160961,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">muistoesine</t>
       </tg>
     </mg>
   </e>
@@ -160961,7 +160981,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">riippumattomuus</t>
+
+        <t pos="N">itsenäisyys</t>
+
+        <t pos="N">suvereniteetti</t>
       </tg>
     </mg>
   </e>
@@ -160981,7 +161005,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">suvorovilainen</t>
+
+        <td pos="N">Suvorovin sotakoulun kasvatti</td>
       </tg>
     </mg>
   </e>
@@ -161001,7 +161027,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">oikeus</t>
+
+        <t pos="N">tuomioistuin</t>
+
+        <t pos="N">oikeudenkäynti</t>
       </tg>
     </mg>
   </e>
@@ -161018,11 +161048,19 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>kts myös: першӓ = сӓмӹрӹк судак (Саваткова1981:118);
+      ru.wikipedia: бёрш (першӓ) = Йыл судак (лат. Sander volgensis); говор:
+      судок</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kuha</t>
       </tg>
+
+      <xg>
+        <x>кукшы судак</x>
+
+        <xt>laiha ihminen</xt>
+      </xg>
     </mg>
   </e>
 
@@ -161038,10 +161076,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>говор: судна</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kuljetuslaiva</t>
+
+        <t pos="N">alus</t>
       </tg>
     </mg>
   </e>
@@ -161058,10 +161098,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>говор: суя</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tuomari</t>
+
+        <t pos="N">erotuomari</t>
       </tg>
     </mg>
   </e>
@@ -161078,11 +161120,17 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>глухарь (лат. Tetrao urogallus)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">metso</t>
       </tg>
+
+      <xg>
+        <x>сузы пын</x>
+
+        <xt>olki</xt>
+      </xg>
     </mg>
   </e>
 
@@ -161101,7 +161149,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <td pos="N">pakotus tuomitsemaan</td>
       </tg>
     </mg>
   </e>
@@ -161121,7 +161169,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">oikeuskäsittely</t>
+
+        <t pos="N">oikeudenkäynti</t>
       </tg>
     </mg>
   </e>
