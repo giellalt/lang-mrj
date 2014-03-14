@@ -14518,20 +14518,42 @@
 
   <e>
     <lg>
-      <l pos="Adv">татыриныште</l>
+      <l pos="Adv">татырин годым</l>
 
       <stg>
-        <st Contlex="ADV_">татыриныште</st>
+        <st Contlex="ADV_">татырин годым</st>
       </stg>
 
-      <stress>татыриныште</stress>
+      <stress>татыри•н годым</stress>
     </lg>
 
     <mg>
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">muinoin</t>
+
+        <tf pos="Adv">ennen vanhaan</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">татыринӹштӹ</l>
+
+      <stg>
+        <st Contlex="ADV_">татыринӹштӹ</st>
+      </stg>
+
+      <stress>татыри•нӹштӹ</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <tf pos="Adv">tuntemattomassa paikassa</tf>
       </tg>
     </mg>
   </e>
