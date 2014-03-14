@@ -52636,7 +52636,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V">päästää käsistä</t>
+        <tf pos="V">päästää käsistä</tf>
       </tg>
     </mg>
   </e>
@@ -52994,7 +52994,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <t pos="V">aukoa</t>
+
         <tf pos="V">tallata kovaksi</tf>
+
+        <td pos="V">seurata jnk jalanjälkiä</td>
+
+        <td pos="V">seurata jnk esimerkkiä</td>
       </tg>
     </mg>
   </e>
@@ -53299,6 +53305,8 @@
         <tf pos="V">siirtää sivummalle</tf>
 
         <tf pos="V">siirtää edemmäs</tf>
+
+        <t pos="V">loitontaa</t>
       </tg>
     </mg>
   </e>
@@ -53405,6 +53413,34 @@
 
       <tg xml:lang="fin">
         <tf pos="V">liikua vaivalloisesti</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">татырланаш</l>
+
+      <stg>
+        <st Contlex="V_ЕМ">татырланаш</st>
+      </stg>
+
+      <stress>татырла•наш</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="V">ponnistella</t>
+
+        <tf pos="V">yrittää voimiensa takaa</tf>
+
+        <tf pos="V">sisukkaasti sinnitellä</tf>
+
+        <t pos="V">uurastaa</t>
+
+        <t pos="V">ahkeroida</t>
       </tg>
     </mg>
   </e>
