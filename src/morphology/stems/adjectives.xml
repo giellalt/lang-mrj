@@ -15869,6 +15869,8 @@
         <t pos="A">pieni</t>
 
         <t pos="A">matala</t>
+
+        <t pos="A">pienikokoinen</t>
       </tg>
     </mg>
   </e>
@@ -28304,7 +28306,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">iso</t>
+
+        <t pos="A">suuri</t>
+
+        <t pos="A">äänekäs</t>
+
+        <t pos="A">isokokoinen</t>
       </tg>
     </mg>
   </e>
@@ -28324,7 +28332,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">isompi</t>
+
+        <t pos="A">suurempi</t>
       </tg>
     </mg>
   </e>
@@ -51666,7 +51676,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">oranssi</t>
+
+        <te pos="A">tummankeltainen</te>
       </tg>
     </mg>
   </e>
@@ -81630,7 +81642,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">tanakka</t>
+
+        <t pos="A">tukeva</t>
+
+        <t pos="A">tiivisrakenteinen</t>
+
+        <t pos="A">tukevarakenteinen</t>
       </tg>
     </mg>
   </e>
@@ -92898,7 +92916,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">valpas</t>
       </tg>
     </mg>
   </e>
@@ -102612,7 +102630,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">viisas</t>
+
+        <t pos="A">älykäs</t>
+
+        <t pos="A">järkevä</t>
+
+        <t pos="A">henkevä</t>
       </tg>
     </mg>
   </e>
@@ -102632,7 +102656,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">tyhmä</t>
+
+        <t pos="A">järjetön</t>
+
+        <t pos="A">älytön</t>
+
+        <t pos="A">hullu</t>
+
+        <t pos="A">pölhö</t>
       </tg>
     </mg>
   </e>
@@ -103752,7 +103784,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">viileä</t>
       </tg>
     </mg>
   </e>
@@ -103792,7 +103824,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">äänetön</t>
       </tg>
     </mg>
   </e>
@@ -104196,7 +104228,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">punainen</t>
       </tg>
     </mg>
   </e>
@@ -104276,7 +104308,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">punainen</t>
       </tg>
     </mg>
   </e>
@@ -104296,7 +104328,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">punaisensävyinen</t>
       </tg>
     </mg>
   </e>
@@ -104416,7 +104448,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">laiska</t>
       </tg>
     </mg>
   </e>
