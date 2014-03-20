@@ -53948,16 +53948,40 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V">vaatia</t>
+        <t pos="V">tarkistaa</t>
+
+        <t pos="V">tarkastaa</t>
 
         <t pos="V">tutkia</t>
+
+        <t pos="V">vaatia</t>
+
+        <tf pos="V">tutkia asia</tf>
+
+        <tf pos="V">toimittaa tutkimusta</tf>
+
+        <t pos="V">urkia</t>
       </tg>
+
+      <xg>
+        <x>терген лыкташ</x>
+
+        <xt>suorittaa tarkastus</xt>
+      </xg>
+
+      <xg>
+        <x>терген нӓлӓш</x>
+
+        <xt>suorittaa tarkastus</xt>
+      </xg>
     </mg>
   </e>
 
   <e>
     <lg>
       <l pos="V">терпӓш</l>
+
+      <l_ref pos="N">тырхаш</l_ref>
 
       <stg>
         <st Contlex="V_ЕМ">терпӹ</st>
@@ -53971,6 +53995,10 @@
 
       <tg xml:lang="fin">
         <t pos="V">kestää</t>
+
+        <t pos="V">jaksaa</t>
+
+        <t pos="V">sietää</t>
       </tg>
     </mg>
   </e>
@@ -56209,6 +56237,10 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <t pos="V">kestää</t>
+
+        <t pos="V">sietää</t>
+
         <t pos="V">kärsiä</t>
       </tg>
     </mg>
@@ -56276,6 +56308,30 @@
         <t pos="V">muovailla</t>
 
         <t pos="V">muotoilla</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">тышкаш</l>
+
+      <stg>
+        <st Contlex="V_ЕМ">тышкы</st>
+      </stg>
+
+      <stress>ты•шкаш</stress>
+    </lg>
+
+    <mg>
+      <defNative>кагыльым тышкаш</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="V">leipoa</t>
+
+        <tf pos="V">valmistaa piirakat</tf>
+
+        <tf pos="V">paistaa piirakoita</tf>
       </tg>
     </mg>
   </e>
