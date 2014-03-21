@@ -64536,7 +64536,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N">saivartelija</t>
+        <t pos="N">oikuttelija</t>
+
+        <t pos="N">kämpyrä</t>
       </tg>
     </mg>
   </e>
@@ -66335,6 +66337,32 @@
 
       <tg xml:lang="fin">
         <t pos="N">lastaaminen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">крӓгӓ</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">крӓгӓ</st>
+      </stg>
+
+      <stress>крӓ•гӓ</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">saituri</t>
+
+        <t pos="N">pihi</t>
+
+        <t pos="N">kitupiikki</t>
+
+        <td pos="N">oikuttelija (JK)</td>
       </tg>
     </mg>
   </e>
@@ -79036,6 +79064,18 @@
         <t pos="N">oikuttelu</t>
       </tg>
     </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="???"/>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg/>
   </e>
 
   <e>
@@ -105528,6 +105568,26 @@
 
   <e>
     <lg>
+      <l pos="N">нечкӹ лӹм</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">нечкӹ лӹм</st>
+      </stg>
+
+      <stress>не•чкӹ лӹм</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">lempinimi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">нечкӹлӹмӓш</l>
 
       <stg>
@@ -109554,7 +109614,9 @@
       <l pos="N">одор</l>
 
       <stg>
-        <st Contlex="N_КОЛ">одор</st>
+        <st Contlex="N_КОЛ_SUB">одор</st>
+
+        <st Contlex="N_КОЛ">одыра</st>
       </stg>
 
       <stress>одор</stress>
@@ -109632,11 +109694,11 @@
       <m>
         <head/>
 
-        <defNative>одыра пашкар</defNative>
+        <defNative>kts одыра пашкар</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N">kiukkupussi</t>
+        <t pos="N">oikku</t>
 
         <t pos="N">oikuttelija</t>
 
@@ -109665,6 +109727,30 @@
         <t pos="N">kiukuttelu</t>
 
         <t pos="N">saivartelu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">одыра пашкар</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">одыра пашкар</st>
+      </stg>
+
+      <stress>оды•ра па•шкар; одыра•пашкар</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">kiukkupussi</t>
+
+        <t pos="N">oikuttelija</t>
+
+        <t pos="N">kiukuttelija</t>
       </tg>
     </mg>
   </e>
@@ -112257,11 +112343,11 @@
       <m>
         <head/>
 
-        <defNative>синоним: одыра</defNative>
+        <defNative>синоним: одыра; орда мешӓк</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N">kiukkupussi</t>
+        <t pos="N">oikku</t>
 
         <t pos="N">oikuttelija</t>
 
@@ -112288,6 +112374,30 @@
         <t pos="N">oikuttelu</t>
 
         <t pos="N">kiukuttelu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">орда мешӓк</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">орда мешӓк</st>
+      </stg>
+
+      <stress>орда• мешӓк</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">kiukkupussi</t>
+
+        <t pos="N">oikuttelija</t>
+
+        <t pos="N">kiukuttelija</t>
       </tg>
     </mg>
   </e>
@@ -177821,7 +177931,7 @@
     </lg>
 
     <mg>
-      <defNative>Саваткова (1981:156) кок-кым иӓш ожы </defNative>
+      <defNative>Саваткова (1981:156) кок-кым иӓш ожы</defNative>
 
       <tg xml:lang="fin">
         <td pos="N">kaksivuotinen hevonen</td>

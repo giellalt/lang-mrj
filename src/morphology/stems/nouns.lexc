@@ -2952,7 +2952,7 @@ LEXICON nouns
 котлован:котлован N_КОЛ  "peruskuoppa" ;
 котомка:котомка N_ОЛМА  "reppu" ;
 котыр:котыр N_КОЛ  "ruvettuma" ;
-котыр:котыр N_КОЛ  "saivartelija" ;
+котыр:котыр N_КОЛ  "oikuttelija" ;
 котырангдымаш:котырангдымаш N_КОЛ  "ruvetuttaminen" ;
 котырангмаш:котырангмаш N_КОЛ  "ruvettuminen" ;
 котырланымаш:котырланымаш N_КОЛ  "saivarteleminen" ;
@@ -3041,6 +3041,7 @@ LEXICON nouns
 крузы:крузы N_ТӸРВӸ  "rousku" ;
 крузыдымаш:крузыдымаш N_КОЛ  "lastaamattomuus" ;
 крузымаш:крузымаш N_КОЛ  "lastaaminen" ;
+крӓгӓ:крӓгӓ N_ОЛМА  "saituri" ;
 крӓгӓлӓнӹмӓш:крӓгӓлӓнӹмӓш N_КОЛ  "oikuttelu" ;
 крӓж:крӓж N_КОЛ  "pölkky" ;
 крӓпля:крӓпля NTag  "harava" ;
@@ -3630,6 +3631,7 @@ LEXICON nouns
 кӹцӹзӹлӓнӹмӓш:кӹцӹзӹлӓнӹмӓш N_КОЛ  "kerjääminen" ;
 кӹч:кӹч N_КОЛ  "kynsi" ;
 кӹчӓкӓлӓнӹмӓш:кӹчӓкӓлӓнӹмӓш N_КОЛ  "kiukuttelu" ;
+   "" ;
 кӹчӓлдӹмӓш:кӹчӓлдӹмӓш N_КОЛ  "etsimättömyys" ;
 кӹчӓлмӓш:кӹчӓлмӓш N_КОЛ  "etsiminen" ;
 кӹчӓлтӹлмӓш:кӹчӓлтӹлмӓш N_КОЛ  "saivarteleminen" ;
@@ -4853,6 +4855,7 @@ LEXICON nouns
 нечкештмӓш:нечкештмӓш N_КОЛ  "lellitellyksi tuleminen" ;
 нечкӹ:нечкӹ N_ТӸРВӸ  "lellilapsi" ;
 нечкӹлӓнӹмӓш:нечкӹлӓнӹмӓш N_КОЛ  "oikuttelu" ;
+нечкӹ% лӹм:нечкӹ% лӹм N_КОЛ  "lempinimi" ;
 нечкӹлӹмӓш:нечкӹлӹмӓш N_КОЛ  "hemmotteleminen" ;
 ни:ни N_ОЛМА  "niini" ;
 нигорш:нигорш N_КОЛ  "niinipuun kuoren ulkoinen osa" ;
@@ -5032,11 +5035,13 @@ LEXICON nouns
 одеколон:одеколон N_КОЛ  "kölninvesi" ;
 одеял:одеял N_КОЛ  "peitto" ;
 одоклымаш:одоклымаш N_КОЛ  "myöntely" ;
-одор:одор N_КОЛ  "oikku" ;
+одор:одор N_КОЛ_SUB  "oikku" ;
+одор:одыра N_КОЛ  "oikku" ;
 оды:оды N_ОЛМА  "udmurtti" ;
 одыла:одыла N_ОЛМА  "tupsuilla somistettu vyö" ;
-одыра:одыра N_ОЛМА  "kiukkupussi" ;
+одыра:одыра N_ОЛМА  "oikku" ;
 одыраланымаш:одыраланымаш N_КОЛ  "oikuttelu" ;
+одыра% пашкар:одыра% пашкар N_КОЛ  "kiukkupussi" ;
 ожаш:ожаш N_КОЛ  "koiras" ;
 ожы:ожы N_ТӸРВӸ  "ori" ;
 ожыланымаш:ожыланымаш N_КОЛ  "raivoaminen" ;
@@ -5150,8 +5155,9 @@ LEXICON nouns
 орган:орган N_КОЛ  "elin" ;
 организуйыдымаш:организуйыдымаш N_КОЛ  "järjestämättömyys" ;
 организуйымаш:организуйымаш N_КОЛ  "järjestäminen" ;
-орда:орда N_ОЛМА  "kiukkupussi" ;
+орда:орда N_ОЛМА  "oikku" ;
 ордаланымаш:ордаланымаш N_КОЛ  "oikuttelu" ;
+орда% мешӓк:орда% мешӓк N_КОЛ  "kiukkupussi" ;
 орден:орден N_КОЛ  "kunniamerkki" ;
 ордер:ордер N_КОЛ  "määräys" ;
 орен:орен N_КОЛ  "kirnupiimä" ;
