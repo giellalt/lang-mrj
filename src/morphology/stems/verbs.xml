@@ -53867,6 +53867,12 @@
         <tf pos="V">syödä kyllikseen</tf>
 
         <tf pos="V">tulla kylläiseksi</tf>
+
+        <t pos="V">toteutua</t>
+
+        <tf pos="V">tulla täyteen</tf>
+
+        <tf pos="V">kulua umpeen</tf>
       </tg>
     </mg>
   </e>
@@ -53889,6 +53895,12 @@
         <t pos="V">täyttää</t>
 
         <tf pos="V">sulloa täyteen</tf>
+
+        <tf pos="V">kaataa täyteen</tf>
+
+        <t pos="V">suorittaa</t>
+
+        <tf pos="V">täyttää vuosia</tf>
       </tg>
     </mg>
   </e>
@@ -53928,6 +53940,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <t pos="V">kunnostaa</t>
+
         <t pos="V">korjata</t>
       </tg>
     </mg>
