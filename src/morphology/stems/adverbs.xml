@@ -7956,10 +7956,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>безличн.сказуем. predikatiivi (verbin määrite)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <tf pos="Adv">on rauhotonta</tf>
+
+        <tf pos="Adv">on ahdasta</tf>
       </tg>
     </mg>
   </e>
@@ -7979,7 +7981,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ahtaasti</t>
       </tg>
     </mg>
   </e>
@@ -8019,7 +8021,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">korkeasti</t>
       </tg>
     </mg>
   </e>
@@ -8036,10 +8038,16 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: кӱселӓ палшен пуаш - auttaa vastavuoroisesti</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">vastavuoroisesti</t>
+
+        <t pos="Adv">molemminpuolisesti</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Adv">взаимно</t>
       </tg>
     </mg>
   </e>
@@ -8059,7 +8067,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">molemminpuolisesti</t>
       </tg>
     </mg>
   </e>
@@ -8076,10 +8084,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>vrt кӱсӹн пуаш = кӱслӓш; JK: кӱсӹлӓ ӹлӓш</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">lainaksi</t>
+
+        <td pos="Adv">velaksi elämisestä (JK)</td>
       </tg>
     </mg>
   </e>
@@ -8096,10 +8106,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>кӱсӹн пуаш; кӱсӹн нӓлӓш</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">lainaksi</t>
       </tg>
     </mg>
   </e>
@@ -8107,6 +8117,8 @@
   <e>
     <lg>
       <l pos="Adv">кӱш</l>
+
+      <l_ref pos="Adv">кӱшкӹ</l_ref>
 
       <stg>
         <st Contlex="ADV_">кӱш</st>
@@ -8119,7 +8131,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ylös</t>
+
+        <t pos="Adv">ylhäälle</t>
+
+        <t pos="Adv">korkealle</t>
       </tg>
     </mg>
   </e>
@@ -8139,7 +8155,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">korkealle</t>
+
+        <t pos="Adv">ylös</t>
+
+        <t pos="Adv">ylhäälle</t>
       </tg>
     </mg>
   </e>
@@ -8159,7 +8179,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ylöspäin</t>
       </tg>
     </mg>
   </e>
@@ -8179,7 +8199,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">korkealla</t>
+
+        <t pos="Adv">yllä</t>
+
+        <t pos="Adv">ylhäällä</t>
       </tg>
     </mg>
   </e>
@@ -8199,8 +8223,20 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ylle</t>
+
+        <t pos="Adv">yllä</t>
+
+        <t pos="Adv">ylhäälle</t>
+
+        <t pos="Adv">ylhäällä</t>
       </tg>
+
+      <xg>
+        <x>кӱшӓн сирӹмӹ (1981:67)</x>
+
+        <xt>yllä mainittu</xt>
+      </xg>
     </mg>
   </e>
 
