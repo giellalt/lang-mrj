@@ -15124,7 +15124,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Ямангаш говорыштышы шамак (1981:17)</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">kalastusneuvot</t>
@@ -15227,6 +15227,8 @@
   <e>
     <lg>
       <l pos="N">варак</l>
+
+      <l_ref pos="N">варака</l_ref>
 
       <stg>
         <st Contlex="N_КОЛ">варак</st>
@@ -21676,7 +21678,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Отарсола говорышты (1981:19)</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">mätäs</t>
@@ -101649,7 +101651,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <t pos="N">kauhtana</t>
+
         <t pos="N">kaftaani</t>
+
+        <td pos="N">villamekko (mhr)</td>
       </tg>
     </mg>
   </e>
