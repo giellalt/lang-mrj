@@ -1079,8 +1079,8 @@
     </lg>
 
     <mg>
-      <defNative>? Siirrä osa/kokonaan postpositioihin: шӹргӹ век(ӹ)
-      </defNative>
+      <defNative>? Siirrä osa/kokonaan postpositioihin: шӹргӹ
+      век(ӹ)</defNative>
 
       <tg xml:lang="fin">
         <t pos="Adv">puolelle</t>
@@ -1193,6 +1193,34 @@
 
   <e>
     <lg>
+      <l pos="Adv">веси</l>
+
+      <stg>
+        <st Contlex="ADV_">веси</st>
+      </stg>
+
+      <stress>ве•си</stress>
+    </lg>
+
+    <mg>
+      <defNative>_SUB</defNative>
+
+      <tg xml:lang="fin">
+        <tf pos="Adv">ensi vuonna</tf>
+      </tg>
+
+      <xg>
+        <x>веси - вес курым (1981:20)</x>
+
+        <xt>saa nähdä</xt>
+
+        <xt>ensi vuosi - toinen aika (=liter.)</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Adv">весиргодым</l>
 
       <stg>
@@ -1226,7 +1254,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">toiste</t>
+
+        <tf pos="Adv">joskus toiste</tf>
+
+        <tf pos="Adv">joskus tulevaisuudessa</tf>
       </tg>
     </mg>
   </e>
@@ -1243,10 +1275,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>викнӹ_SUB</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">nähtävästi</t>
+
+        <t pos="Adv">ilmeisesti</t>
       </tg>
     </mg>
   </e>
@@ -1266,7 +1300,33 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">suoraan</t>
+
+        <t pos="Adv">suoranaisesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">викнӹ</l>
+
+      <l_ref pos="Adv">виднӹ</l_ref>
+
+      <stg>
+        <st Contlex="ADV_">викнӹ</st>
+      </stg>
+
+      <stress>ви•кнӹ</stress>
+    </lg>
+
+    <mg>
+      <defNative>викнӹ_SUB</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">nähtävästi</t>
+
+        <t pos="Adv">ilmeisesti</t>
       </tg>
     </mg>
   </e>
@@ -1283,10 +1343,17 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Саваткова синоним семӹнь анж: вик ак уж - hän ei näe
+      ollenkaan</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">aivan</t>
+
+        <t pos="Adv">kerrassaan</t>
+
+        <td pos="Adv">negaatiossa: ei ensinkään</td>
+
+        <td pos="Adv">negaatiossa: ei ollenkaan</td>
       </tg>
     </mg>
   </e>
@@ -1306,7 +1373,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">avonnaisesti</t>
       </tg>
     </mg>
   </e>
@@ -1346,7 +1413,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">aivan</t>
+
+        <t pos="Adv">ihan</t>
+
+        <t pos="Adv">kerrassaan</t>
+
+        <td pos="Adv">negaatiossa: ei ollenkaan</td>
       </tg>
     </mg>
   </e>
@@ -1366,7 +1439,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">täysin</t>
+
+        <td pos="Adv">negaatiossa: ei ollenkaan</td>
       </tg>
     </mg>
   </e>
@@ -1383,10 +1458,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>воксешок; Вилов.говор: воксешешок</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ikuisesti</t>
       </tg>
     </mg>
   </e>
@@ -1406,7 +1481,9 @@
       <defNative>paikallisadverbi: воктенем шӹнзӓ</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv">lähellä; lähelläni</t>
+        <t pos="Adv">lähellä</t>
+
+        <t pos="Adv">lähelläni</t>
       </tg>
 
       <xg>
@@ -1432,7 +1509,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv">vinosti; vinoon; viistoon</t>
+        <t pos="Adv">vinosti</t>
+
+        <t pos="Adv">vinoon</t>
+
+        <t pos="Adv">viistoon</t>
       </tg>
     </mg>
   </e>
@@ -1489,7 +1570,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>N &gt; mwe "вуйге-пачге" on aivinakankaan nimitys</defNative>
 
       <tg xml:lang="fin">
         <t pos="Adv"/>
@@ -1512,7 +1593,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">alaspäin</t>
+
+        <tf pos="Adv">kasvot alaspäin</tf>
       </tg>
     </mg>
   </e>
@@ -1532,8 +1615,16 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">alaspäin</t>
+
+        <t pos="Adv">nurinpäin (JK)</t>
       </tg>
+
+      <xg>
+        <x>вуйстыкла эдем лиӓш ак кел (JK)</x>
+
+        <xt>ei tarvi olla päinvastoin tekevä ihminen</xt>
+      </xg>
     </mg>
   </e>
 
@@ -1578,7 +1669,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <tf pos="Adv">pää alaspäin</tf>
       </tg>
     </mg>
   </e>
@@ -1598,7 +1689,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <tf pos="Adv">mullin mallin</tf>
+
+        <t pos="Adv">kuperkeikkaa</t>
+
+        <tf pos="Adv">nurin niskoin</tf>
+
+        <tf pos="Adv">päätä pahkaa</tf>
       </tg>
     </mg>
   </e>
@@ -1688,8 +1785,20 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <tf pos="Adv">kädestä suuhun</tf>
+
+        <tCtn>
+          <t>kädestä suuhun</t>
+
+          <re>eläminen</re>
+        </tCtn>
       </tg>
+
+      <xg>
+        <x>вуя-вӓшӓ лиӓш (1981:25)</x>
+
+        <xt>törmätä yhteen yllättäen</xt>
+      </xg>
     </mg>
   </e>
 
@@ -1788,7 +1897,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">hetkeksi</t>
       </tg>
     </mg>
   </e>
@@ -1825,10 +1934,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>ти выртын - tällä hetkellä</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">hetkellä</t>
       </tg>
     </mg>
   </e>
@@ -1848,7 +1957,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">hetkessä</t>
+
+        <t pos="Adv">nopeasti</t>
+
+        <tf pos="Adv">lyhyessä ajassa</tf>
       </tg>
     </mg>
   </e>
@@ -1868,8 +1981,16 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">lainaksi</t>
+
+        <t pos="Adv">lainaa</t>
       </tg>
+
+      <xg>
+        <x>вычымеш ат пу вӓл? (1981:27)</x>
+
+        <xt>lainaisitko?</xt>
+      </xg>
     </mg>
   </e>
 
@@ -1908,8 +2029,16 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">paikassa</t>
+
+        <t pos="Adv">kohdassa</t>
       </tg>
+
+      <xg>
+        <x>теве ик вӓре, вара вес вӓре (JK)</x>
+
+        <xt>milloin yhdessä milloin toisessa paikassa</xt>
+      </xg>
     </mg>
   </e>
 
@@ -1928,7 +2057,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">paikkoittain</t>
       </tg>
     </mg>
   </e>
@@ -1992,7 +2121,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <tf pos="Adv">siellä täällä</tf>
       </tg>
     </mg>
   </e>
@@ -2012,7 +2141,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">toisilleen</t>
+
+        <tf pos="Adv">toinen toista</tf>
+
+        <tf pos="Adv">toinen toiselle</tf>
+
+        <t pos="Adv">yhteen</t>
+
+        <t pos="Adv">vastakkain</t>
       </tg>
     </mg>
   </e>
@@ -2032,7 +2169,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <tf pos="Adv">toinen toista vasten</tf>
+
+        <tCtn>
+          <t>toinen toista vasten</t>
+
+          <re>laittaa tikit tai ommella</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -2040,6 +2183,8 @@
   <e>
     <lg>
       <l pos="Adv">вӓшке</l>
+
+      <l_ref pos="Adv">йӹле</l_ref>
 
       <stg>
         <st Contlex="ADV_">вӓшке</st>
@@ -2052,7 +2197,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">nopeasti</t>
       </tg>
     </mg>
   </e>
@@ -2072,8 +2217,14 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">vastakkain</t>
       </tg>
+
+      <xg>
+        <x>вӓшлӓ ташкаш (1981:20)</x>
+
+        <xt>tallata kenkiä sisäänpäin</xt>
+      </xg>
     </mg>
   </e>
 
@@ -2092,7 +2243,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <tf pos="Adv">toinen toista vastavuoroisesti</tf>
+
+        <tCtn>
+          <t>toinen toista vastavuoroisesti</t>
+
+          <re>auttaa</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -2112,7 +2269,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">viidestään</t>
       </tg>
     </mg>
   </e>
@@ -2165,6 +2322,34 @@
 
   <e>
     <lg>
+      <l pos="Adv">вӹкӹ-вӹкӹ</l>
+
+      <stg>
+        <st Contlex="ADV_">вӹкӹ-вӹкӹ</st>
+      </stg>
+
+      <stress>вӹкӹ•вӹкӹ</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK (пыртенӓм)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">päällekkäin</t>
+
+        <td pos="Adv">yks toisensa päällepäin</td>
+      </tg>
+
+      <xg>
+        <x>тыгырвлӓм вӹкӹ-вӹкӹ оптен ми (JK)</x>
+
+        <xt>aloita vaatteiden laittaminen (viikattuna) päällekkäin</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Adv">вӹкӹлӓ</l>
 
       <stg>
@@ -2178,8 +2363,14 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">päällepäin</t>
       </tg>
+
+      <xg>
+        <x>вӹкӹлӓ аралаш (JK)</x>
+
+        <xt>latoa päällepäin</xt>
+      </xg>
     </mg>
   </e>
 
@@ -2204,11 +2395,13 @@
       </m>
 
       <tg xml:lang="fin">
-        <tf pos="Po">päältä; ylhältä</tf>
+        <t pos="Po">päältä</t>
+
+        <t pos="Po">ylhältä</t>
       </tg>
 
       <xg>
-        <x>Эдемӹм вӹлец анжен пӓлӓш ясы нелӹ.</x>
+        <x>Эдемӹм вӹлец анжен пӓлӓш нелӹ.</x>
 
         <xt>Ihmisestä on vaikea tietää päältäpäin (katsoen).</xt>
       </xg>
@@ -2227,10 +2420,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>_SUB; вӹкӹ</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">päälle</t>
+
+        <t pos="Adv">ylle</t>
+
+        <t pos="Adv">ylös</t>
       </tg>
     </mg>
   </e>
@@ -2250,8 +2447,21 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">päällä</t>
+
+        <td pos="Adv">-llä</td>
+
+        <t pos="Adv">ylhäällä</t>
+
+        <td pos="Adv">vastuulla (omistusliitteen kanssa) esim. мӹнь вӹлнем
+        цилӓ пӓшӓ</td>
       </tg>
+
+      <xg>
+        <x>тӹдӹ вӹлнӹ йыла шалга (1981:28)</x>
+
+        <xt>asia riippuu hänestä</xt>
+      </xg>
     </mg>
   </e>
 
@@ -2270,8 +2480,16 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <tf pos="Adv">yks toisensa jälkeen</tf>
+
+        <tf pos="Adv">yks toisensa päällepäin</tf>
       </tg>
+
+      <xg>
+        <x>вӹлшелӓ пӓшӓ (1981:28)</x>
+
+        <xt>vastakkainen apu työssä</xt>
+      </xg>
     </mg>
   </e>
 
@@ -2290,7 +2508,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">päälle</t>
       </tg>
     </mg>
   </e>
@@ -2310,7 +2528,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">päällekkäin</t>
+
+        <tf pos="Adv">moneen kertaan</tf>
       </tg>
     </mg>
   </e>
