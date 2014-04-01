@@ -26,6 +26,28 @@
 
   <e>
     <lg>
+      <l pos="Adv">ажнышен</l>
+
+      <l_ref pos="Adv">первишен</l_ref>
+
+      <stg>
+        <st Contlex="ADV_">ажнышен</st>
+      </stg>
+
+      <stress>ажныше•н</stress>
+    </lg>
+
+    <mg>
+      <defNative>ADV</defNative>
+
+      <tg xml:lang="fin">
+        <tf pos="Adv">muinaisajoista alkaen</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Adv">айыртемӹн</l>
 
       <stg>
@@ -2122,7 +2144,21 @@
 
       <tg xml:lang="fin">
         <tf pos="Adv">siellä täällä</tf>
+
+        <t pos="Adv">harvakseen</t>
       </tg>
+
+      <xg>
+        <x>вӓрӹн-вӓрӹн пӧртвлӓ кайыт (JK)</x>
+
+        <xt>siellä täällä näkyi taloja</xt>
+      </xg>
+
+      <xg>
+        <x>вӓрӹн-вӓрӹн (веле) изимӧр кушкеш (JK)</x>
+
+        <xt>metsämansikkoita on harvakseen</xt>
+      </xg>
     </mg>
   </e>
 
@@ -2550,8 +2586,14 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">vuodatusveressä</t>
       </tg>
+
+      <xg>
+        <x>Нӹнӹ вӹрвузык шагалыт ыльы. (К. Беляев)</x>
+
+        <xt>Они оказывались все в крови.</xt>
+      </xg>
     </mg>
   </e>
 
@@ -2570,7 +2612,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">täplikkäin</t>
+
+        <t pos="Adv">täplikkäästi</t>
       </tg>
     </mg>
   </e>
@@ -2587,10 +2631,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Саваткован уке; JK: kts myös Pcle (kas)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ihanko</t>
       </tg>
     </mg>
   </e>
@@ -2607,10 +2651,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: _SUB</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">valtavasti</t>
+
+        <tf pos="Adv">tosi paljon</tf>
       </tg>
     </mg>
   </e>
@@ -2627,10 +2673,17 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>vrt жепӓш</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">väliaikaisesti</t>
+
+        <tf pos="Adv">joksikin aikaa</tf>
+
+        <tf pos="Adv">vähäksi aikaa</tf>
+
+        <td pos="Adv">myös määritteen tapaisesti: sopivasti; oikeaan aikaan
+        esim. жепеш тольыц [какрас тольыц]</td>
       </tg>
     </mg>
   </e>
@@ -2650,7 +2703,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ajallaan</t>
+
+        <t pos="Adv">parahiksi</t>
       </tg>
     </mg>
   </e>
@@ -2667,11 +2722,19 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Саваткован уке.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <td pos="Adv">jnk aikana</td>
       </tg>
+
+      <xg>
+        <x>кӹрмӓ жепӹн (JK)</x>
+
+        <xt>työkiireiden aikana</xt>
+
+        <xt>кӹрмӓ жеп годым</xt>
+      </xg>
     </mg>
   </e>
 
@@ -2690,7 +2753,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">silloin tällöin</t>
+
+        <tf pos="Adv">aika harvoin</tf>
       </tg>
     </mg>
   </e>
@@ -2710,7 +2775,35 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ajoissa</t>
+
+        <t pos="Adv">ajallaan</t>
+
+        <t pos="Adv">parahiksi</t>
+
+        <tf pos="Adv">sovittuun aikaan</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">жепӹштӹжӹ</l>
+
+      <stg>
+        <st Contlex="ADV_">жепӹштӹжӹ</st>
+      </stg>
+
+      <stress>же•пӹштӹжӹ</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK (lisäsin)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">aikanaan</t>
+
+        <t pos="Adv">aikoinaan</t>
       </tg>
     </mg>
   </e>
@@ -9721,6 +9814,32 @@
 
       <tg xml:lang="fin">
         <t pos="Adv"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">лычы-лычы</l>
+
+      <stg>
+        <st Contlex="ADV_">лычы-лычы</st>
+      </stg>
+
+      <stress>лычы•-лычы</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK (lisäsin); лычы-лычы шайыштыт (1981:86); лычы-лычы шая
+      (1981:29) vrt ainoastaan ilmaisuna esiintyvän kanssa: вӹчӹ-вӹчӹ
+      шая</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">hellästi</t>
+
+        <t pos="Adv">rauhallisesti</t>
+
+        <t pos="Adv">sovussa</t>
       </tg>
     </mg>
   </e>
@@ -22698,8 +22817,20 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">sovussa</t>
+
+        <t pos="Adv">sovinnossa</t>
+
+        <t pos="Adv">sopusoinnussa</t>
+
+        <tf pos="Adv">sulassa sovussa</tf>
       </tg>
+
+      <xg>
+        <x>ӱӓк-мӱӓк ӹлӓт (1981:177)</x>
+
+        <xt>elävät sulassa sovussa</xt>
+      </xg>
     </mg>
   </e>
 
