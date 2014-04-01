@@ -138,14 +138,20 @@
         <st Contlex="NTag">авада</st>
       </stg>
 
-      <stress>авада</stress>
+      <stress>ава•да</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>авада-кедавра; англ. Avada Kedavra</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N">?!</t>
+        <t pos="N">kirous</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">проклятие</t>
+
+        <tf pos="N">заклятие смерти</tf>
       </tg>
     </mg>
   </e>
@@ -171,7 +177,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N">XX</t>
+        <tf pos="N">liikkuminen kontaten</tf>
       </tg>
     </mg>
   </e>
@@ -213,10 +219,12 @@
       <tg xml:lang="fin">
         <t pos="N">etumaksu</t>
 
+        <t pos="N">ennakkomaksu</t>
+
         <tCtn>
           <t>ennakkomaksu</t>
 
-          <re/>
+          <re>ilmoittautumismaksu</re>
         </tCtn>
       </tg>
     </mg>
@@ -599,7 +607,42 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N">?!</t>
+        <td pos="N">ylimääräinen kiireellinen työ</td>
+      </tg>
+
+      <tg xml:lang="fin">
+        <td pos="N">к своей повседневной добавляется дополн срочная работа и
+        сроки поджимают</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">аврал</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">аврал</st>
+      </stg>
+
+      <stress>авра•л</stress>
+    </lg>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>англ йӹлмӹ гӹц over all</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <tf pos="N">yleinen työ</tf>
+
+        <td pos="N">yhteisvoimin suoritettava yleinen työ merilaivalla</td>
+      </tg>
+
+      <tg xml:lang="rus">
+        <td pos="N">работа на морском судне где участвует вся команда</td>
       </tg>
     </mg>
   </e>
@@ -927,26 +970,6 @@
 
         <xt>ikävystyttää jtkt</xt>
       </xg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">агарме</l>
-
-      <stg>
-        <st Contlex="NTag">агарме</st>
-      </stg>
-
-      <stress>агарме</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N">?!</t>
-      </tg>
     </mg>
   </e>
 
@@ -1463,7 +1486,7 @@
       <l pos="N">ажак вӓтӹ</l>
 
       <stg>
-        <st Contlex="N_ТӸРВӸ_SUB">ажак-вӓт</st>
+        <st Contlex="N_ТӸРВӸ_SUB">ажак вӓтӹ</st>
       </stg>
 
       <stress>ажа•к вӓтӹ</stress>
@@ -1474,6 +1497,26 @@
 
       <tg xml:lang="fin">
         <t pos="N">leskeksi jäänyt nainen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">ажак мары</l>
+
+      <stg>
+        <st Contlex="N_ТӸРВӸ_SUB">ажак мары</st>
+      </stg>
+
+      <stress>ажа•к мары</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">leskeksi jäänyt mies</t>
       </tg>
     </mg>
   </e>
@@ -1506,26 +1549,6 @@
 
           <re>osoittamalla</re>
         </tCtn>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">ажнышен</l>
-
-      <stg>
-        <st Contlex="N_КОЛ">ажнышен</st>
-      </stg>
-
-      <stress>ажныше•н</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N">?!</t>
       </tg>
     </mg>
   </e>
@@ -1799,17 +1822,18 @@
       <l pos="N">айзури</l>
 
       <stg>
-        <st Contlex="N_ОЛМА">айзури</st>
+        <st Contlex="N_ОЛМА_SUB">айзури</st>
       </stg>
 
       <stress>айзу•ри</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>азур, лазурь (фр. azur) название некоторых оттенков синего
+      цвета от небесно голубого до насыщенно синего</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N">?!</t>
+        <td pos="N">sinisensävyinen väri</td>
       </tg>
     </mg>
   </e>
@@ -2894,20 +2918,46 @@
 
   <e>
     <lg>
+      <l pos="N">ала</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">ала</st>
+      </stg>
+
+      <stress>а•ла</stress>
+    </lg>
+
+    <mg>
+      <defNative>vanh.</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">omavaltaisuus</t>
+      </tg>
+
+      <xg>
+        <x>алам нӓлӹн (2008:12)</x>
+
+        <xt>alkoi toimia omavaltaisesti</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">алава</l>
 
       <stg>
-        <st Contlex="N_ОЛМА">алава</st>
+        <st Contlex="N_ОЛМА_SUB">алава</st>
       </stg>
 
       <stress>алава</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: ялава</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N">?!</t>
+        <t pos="N">ripsut (JK)</t>
       </tg>
     </mg>
   </e>
@@ -3097,17 +3147,17 @@
       <l pos="N">аланыш</l>
 
       <stg>
-        <st Contlex="N_КОЛ">аланыш</st>
+        <st Contlex="N_КОЛ_SUB">аланыш</st>
       </stg>
 
       <stress>аланыш</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>(JK) ик аланышы = халык</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N">?!</t>
+        <t pos="N">kansa</t>
       </tg>
     </mg>
   </e>
@@ -3129,12 +3179,18 @@
           <!--`ик аланышы´ фраза `халык´ манмым анжыкта-->
         </head>
 
-        <defNative>ик аланышы</defNative>
+        <defNative>vanh.</defNative>
       </m>
 
       <tg xml:lang="fin">
         <t pos="N">kansa</t>
       </tg>
+
+      <xg>
+        <x>ик аланышы</x>
+
+        <xt>kansa</xt>
+      </xg>
     </mg>
   </e>
 
@@ -3852,26 +3908,6 @@
 
       <tg xml:lang="fin">
         <t pos="N">niitty</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">аль</l>
-
-      <stg>
-        <st Contlex="N_КОЛ">аль</st>
-      </stg>
-
-      <stress>аль</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N">?!</t>
       </tg>
     </mg>
   </e>
@@ -22480,6 +22516,28 @@
 
   <e>
     <lg>
+      <l pos="N">вӹд лаза</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">вӹд лаза</st>
+      </stg>
+
+      <stress>вӹ•д лаза</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">lätäkkö</t>
+
+        <tf pos="N">laskuveden paikka</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">вӹднедӹ</l>
 
       <stg>
@@ -22493,11 +22551,20 @@
       <m>
         <head/>
 
-        <defNative>шуды</defNative>
+        <defNative>лат. Batrachium</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N">?</t>
+        <t pos="N">konnanleinikki</t>
+
+        <td pos="N">pienien vesistöjen ja kosteiden kasvupaikkojen leinikkien
+        suvun myrkyllisimpiä lajia</td>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">шелковник</t>
+
+        <tf pos="N">водяной лютик</tf>
       </tg>
     </mg>
   </e>
@@ -22716,7 +22783,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>вӹдшуа</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">tulva</t>
@@ -200715,8 +200782,52 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">puhe</t>
+
+        <t pos="N">puheet</t>
+
+        <t pos="N">kulkupuheet</t>
+
+        <t pos="N">kertomus</t>
+
+        <tf pos="N">lyhyt viesti</tf>
+
+        <tf pos="N">sepustus</tf>
+
+        <tf pos="N"/>
       </tg>
+
+      <xg>
+        <x>вӹчӹ-вӹчӹ шая (1981:29)</x>
+
+        <xt>hellä puhe</xt>
+      </xg>
+
+      <xg>
+        <x>лычы-лычы шая (1981:29)</x>
+
+        <xt>hellä puhe</xt>
+      </xg>
+
+      <xg>
+        <x>худа шая (1981:198)</x>
+
+        <xt>kiroilu</xt>
+
+        <xt>kirosana</xt>
+      </xg>
+
+      <xg>
+        <x>шая лӓктеш (1981:198)</x>
+
+        <xt>kulkupuheet leviää</xt>
+      </xg>
+
+      <xg>
+        <x>шаям ӹштӹмӓш (JK)</x>
+
+        <xt>juksaaminen</xt>
+      </xg>
     </mg>
   </e>
 
