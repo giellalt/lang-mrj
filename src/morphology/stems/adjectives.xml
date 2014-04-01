@@ -9428,7 +9428,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">täplikäs</t>
       </tg>
     </mg>
   </e>
@@ -9533,10 +9533,36 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>(1981:29) вӹслӓн; вӹслӓш; вӹцлӓш</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">viiskymppinen</t>
+
+        <tCtn>
+          <t>viiskymppinen</t>
+
+          <re>raha</re>
+        </tCtn>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">вӹцлӓш</l>
+
+      <stg>
+        <st Contlex="A_">вӹцлӓш</st>
+      </stg>
+
+      <stress>вӹ•цлӓш</stress>
+    </lg>
+
+    <mg>
+      <defNative>(1981:29) вӹслӓн; вӹслӓш; вӹцлӓн</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="A">viisikymppinen</t>
       </tg>
     </mg>
   </e>
@@ -9557,6 +9583,26 @@
 
       <tg xml:lang="fin">
         <t pos="A"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">вӹчӹ-вӹчӹ</l>
+
+      <stg>
+        <st Contlex="A_">вӹчӹ-вӹчӹ</st>
+      </stg>
+
+      <stress>вӹчӹ•-вӹчӹ</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK (lisäsin): ainoastaan ilmaisuna: вӹчӹ-вӹчӹ шая</defNative>
+
+      <tg xml:lang="fin">
+        <td pos="A">hellä (puhe)</td>
       </tg>
     </mg>
   </e>
@@ -13536,8 +13582,46 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">ikuinen</t>
       </tg>
+
+      <xg>
+        <x>жепӓн агыл (1981:31)</x>
+
+        <xt>ei ole ikuinen</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">жепӓш</l>
+
+      <stg>
+        <st Contlex="A_">жепӓш</st>
+      </stg>
+
+      <stress>же•пӓш</stress>
+    </lg>
+
+    <mg>
+      <defNative>kts vrt жепеш_ADV</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="A">sopiva</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">впору</t>
+
+        <tf pos="A">как раз</tf>
+      </tg>
+
+      <xg>
+        <x>калпакем жепӓш (1981:31)</x>
+
+        <xt>hattuni on (parahiksi) sopiva</xt>
+      </xg>
     </mg>
   </e>
 
@@ -13553,10 +13637,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав уке.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">oikeanaikainen</t>
+
+        <t pos="A">sopivanaikainen</t>
       </tg>
     </mg>
   </e>
@@ -45040,7 +45126,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">luminen</t>
       </tg>
     </mg>
   </e>
@@ -45060,7 +45146,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">lumeton</t>
       </tg>
     </mg>
   </e>
@@ -45241,6 +45327,28 @@
 
       <tg xml:lang="fin">
         <t pos="A"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">лычы-лычы</l>
+
+      <stg>
+        <st Contlex="A_">лычы-лычы</st>
+      </stg>
+
+      <stress>лычы•-лычы</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK (lisäsin); лычы-лычы шайыштыт (1981:86); лычы-лычы шая
+      (1981:29), vrt ainoastaan ilmaisuna esiintyvän kanssa: вӹчӹ-вӹчӹ
+      шая</defNative>
+
+      <tg xml:lang="fin">
+        <td pos="A">hellä (puhe)</td>
       </tg>
     </mg>
   </e>
@@ -107529,6 +107637,32 @@
 
   <e>
     <lg>
+      <l pos="A">ӱӓк-мӱӓк</l>
+
+      <stg>
+        <st Contlex="A_">ӱӓк-мӱӓк</st>
+      </stg>
+
+      <stress>ӱӓ•к-мӱӓк</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK (пыртенӓм); kts myös ADV</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="A">kuherrus=</t>
+      </tg>
+
+      <xg>
+        <x>ӱӓк-мӱӓк жеп (1992:58) </x>
+
+        <xt>kuherruskuukausi</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="A">ӱӓн</l>
 
       <stg>
@@ -107542,7 +107676,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">runsasrasvainen</t>
+
+        <t pos="A">voinen</t>
       </tg>
     </mg>
   </e>
