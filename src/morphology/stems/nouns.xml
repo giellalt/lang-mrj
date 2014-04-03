@@ -35348,6 +35348,62 @@
 
   <e>
     <lg>
+      <l pos="N">илче</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">илче</st>
+      </stg>
+
+      <stress>и•лче</stress>
+    </lg>
+
+    <sources>
+      <media mediaID="wikipedia"/>
+    </sources>
+
+    <mg>
+      <defNative>район</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">lääni</t>
+
+        <td pos="N">turkkilainen alueyksikkö</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">иль</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">иль</st>
+
+        <st Contlex="N_КОЛ">ил</st>
+      </stg>
+
+      <stress>иль</stress>
+    </lg>
+
+    <sources>
+      <media mediaID="wikipedia"/>
+    </sources>
+
+    <mg>
+      <defNative>провинци</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">maakunta</t>
+
+        <t pos="N">provinssi</t>
+
+        <td pos="N">turkkilainen alueyksikkö</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">ильӹ</l>
 
       <stg>
@@ -36824,6 +36880,10 @@
 
       <stress>интерне•т</stress>
     </lg>
+
+    <sources>
+      <media mediaID="wikipedia"/>
+    </sources>
 
     <mg>
       <defNative/>
@@ -85516,8 +85576,10 @@
         <t pos="N">päämies</t>
 
         <t pos="N">kymmenysmies</t>
+      </tg>
 
-        <t pos="N">kupias</t>
+      <tg xml:lang="rus">
+        <t pos="N">десятский</t>
       </tg>
     </mg>
   </e>
@@ -85600,6 +85662,40 @@
 
       <tg xml:lang="fin">
         <t pos="N">harmaavaris</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">лужавуй</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">лужавуй</st>
+      </stg>
+
+      <stress>лу•жавуй</stress>
+    </lg>
+
+    <sources>
+      <media mediaID="wikipedia">Акпарс</media>
+    </sources>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">ruhtinas</t>
+
+        <t pos="N">upseeri</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">сотник</t>
+
+        <t pos="N">сотенный князь</t>
+
+        <td pos="N">марийский феодальный титул</td>
       </tg>
     </mg>
   </e>
@@ -225769,20 +225865,20 @@
 
   <e>
     <lg>
-      <l pos="N">ӹлӹж-кӹньӹлше</l>
+      <l pos="N">ӹлӹж-кӹньӹлшӹ</l>
 
       <stg>
-        <st Contlex="NTag">ӹлӹж-кӹньӹлше</st>
+        <st Contlex="N_ТӸРВӸ">ӹлӹж-кӹньӹлшӹ</st>
       </stg>
 
-      <stress>ӹлӹж-кӹньӹлше</stress>
+      <stress>ӹ•лӹж-кӹньӹлшӹ</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Васикованат уке.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <td pos="N">saduissa esiintyvä tai kirkollinen termi ylösnousija</td>
       </tg>
     </mg>
   </e>
@@ -225823,6 +225919,30 @@
 
       <tg xml:lang="fin">
         <t pos="N"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">ӹлӹзӹ</l>
+
+      <stg>
+        <st Contlex="N_ТӸРВӸ">ӹлӹзӹ</st>
+      </stg>
+
+      <stress>ӹлӹ•зӹ</stress>
+    </lg>
+
+    <sources>
+      <media mediaID="wikipedia"/>
+    </sources>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">asukas</t>
       </tg>
     </mg>
   </e>
