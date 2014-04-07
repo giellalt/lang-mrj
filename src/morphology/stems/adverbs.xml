@@ -48,6 +48,41 @@
 
   <e>
     <lg>
+      <l pos="Adv">айыртем</l>
+
+      <stg>
+        <st Contlex="ADV_">айыртем</st>
+      </stg>
+
+      <stress>айырте•м</stress>
+    </lg>
+
+    <sources>
+      <media mediaID="book">И.Сергеев 2007: Н.Володькинӹн творчествыжы.</media>
+    </sources>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">selvästi</t>
+
+        <t pos="Adv">erittäin</t>
+      </tg>
+
+      <xg>
+        <x>Кокэн ӹшкӹмжӹм айыртем кого эдемеш шотлыде (Jolasal 2007)</x>
+
+        <xt>Koken ei pitänyt itseään erittäin tärkeänä ihmisenä</xt>
+
+        <xt>Runoilija Koken ei pitänyt itseään erityisen arvokkaaksi
+        ihmiseksi</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Adv">айыртемӹн</l>
 
       <stg>
@@ -1839,7 +1874,41 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">kevyesti</t>
+
+        <t pos="Adv">pehmoisesti</t>
+
+        <t pos="Adv">pehmeästi</t>
+
+        <t pos="Adv">sulavasti</t>
+      </tg>
+
+      <xg>
+        <x>мардеж выжге ӹфӹлӓлеш (1981:25)</x>
+
+        <xt>tuuli puhaltaa kevyesti</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">вызге</l>
+
+      <stg>
+        <st Contlex="ADV_">вызге</st>
+      </stg>
+
+      <stress>вы•зге</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK (пыртенӓм)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">poreillen</t>
+
+        <t pos="Adv">porehtien</t>
       </tg>
     </mg>
   </e>
@@ -16581,6 +16650,34 @@
       <tg xml:lang="fin">
         <t pos="Adv"/>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тор</l>
+
+      <stg>
+        <st Contlex="ADV_">тор</st>
+      </stg>
+
+      <stress>тор</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK (пыртенӓм); Сав улы.</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ahtaasti</t>
+
+        <t pos="Adv">tiiviisti</t>
+      </tg>
+
+      <xg>
+        <x>тиштӹ пӧртвлӓ тор шӹнзен кеӓт (JK)</x>
+
+        <xt>täällä on taloja tiiviisti toisensa vieressä</xt>
+      </xg>
     </mg>
   </e>
 

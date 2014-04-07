@@ -194,7 +194,7 @@
     </lg>
 
     <mg>
-      <defNative>Килемар монгырышты кычылтыт (= бы)</defNative>
+      <defNative>_SUB Килемар монгырышты кычылтыт (= бы)</defNative>
 
       <tg xml:lang="fin">
         <td pos="Pcle">tämän vastineeksi käytetään suomen kielessä
@@ -914,6 +914,41 @@
       <tg xml:lang="fin">
         <t pos="Pcle"/>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">лигецӹ</l>
+
+      <stg>
+        <st Contlex="PCLE_">лигецӹ</st>
+      </stg>
+
+      <stress>лиге•цӹ</stress>
+    </lg>
+
+    <sources>
+      <media mediaID="book">В.Кокэн 1992: Шошымлана шӹжӹ.</media>
+    </sources>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <td pos="Pcle">tämän vastineeksi käytetään suomen kielessä
+        konditionaalia</td>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Pcle">бы</t>
+      </tg>
+
+      <xg>
+        <x/>
+
+        <xt/>
+      </xg>
     </mg>
   </e>
 
