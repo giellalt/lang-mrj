@@ -22366,10 +22366,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: шӱжӹ кӹнӓлӓш тӹнгӓльӹ</defNative>
 
       <tg xml:lang="fin">
-        <t pos="V">punertaa?</t>
+        <t pos="V">punehtua</t>
       </tg>
     </mg>
   </e>
@@ -45500,6 +45500,8 @@
 
       <tg xml:lang="fin">
         <tf pos="V">tehdä nopeaksi</tf>
+
+        <tf pos="V">nopeuttaa jotakuta</tf>
       </tg>
     </mg>
   </e>
@@ -47166,6 +47168,8 @@
 
       <tg xml:lang="fin">
         <tf pos="V">punertaa hieman</tf>
+
+        <tf pos="V">värittää haalean punaiseksi</tf>
       </tg>
     </mg>
   </e>
@@ -47187,7 +47191,9 @@
       <tg xml:lang="fin">
         <t pos="V">punertaa</t>
 
-        <t pos="V">punehtia</t>
+        <tf pos="V">laittaa puuteria</tf>
+
+        <tf pos="V">värittää vaaleanpunaiseksi</tf>
       </tg>
     </mg>
   </e>
@@ -47208,6 +47214,10 @@
 
       <tg xml:lang="fin">
         <t pos="V">punertua</t>
+
+        <tf pos="V">tulla vaalean punaiseksi</tf>
+
+        <tf pos="V">värjäytyä vaaleanpunaisen väriseksi</tf>
       </tg>
     </mg>
   </e>
@@ -47228,6 +47238,8 @@
 
       <tg xml:lang="fin">
         <tf pos="V">tulla punertavaksi</tf>
+
+        <t pos="V">punehtua</t>
       </tg>
     </mg>
   </e>
@@ -47270,6 +47282,8 @@
         <t pos="V">likaantua</t>
 
         <t pos="V">tahriintua</t>
+
+        <tf pos="V">tulla multaiseksi</tf>
       </tg>
     </mg>
   </e>
@@ -47312,6 +47326,8 @@
 
       <tg xml:lang="fin">
         <tf pos="V">pyytää hakkaamaan</tf>
+
+        <tf pos="V">panna hakkaamaan</tf>
       </tg>
     </mg>
   </e>
@@ -59001,6 +59017,8 @@
     <lg>
       <l pos="V">укшангаш</l>
 
+      <l_ref pos="V">важмалташ</l_ref>
+
       <stg>
         <st Contlex="V_АМ">укшанг</st>
       </stg>
@@ -64431,7 +64449,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>чинялтен шӹндӓш</defNative>
 
       <tg xml:lang="fin">
         <tf pos="V">korjata nopeasti</tf>
@@ -65093,6 +65111,8 @@
 
       <tg xml:lang="fin">
         <tf pos="V">juostaa hyvin nopeasti</tf>
+
+        <tf pos="V">lähteä vaivihkaa</tf>
       </tg>
     </mg>
   </e>
@@ -77953,7 +77973,7 @@
       <m>
         <head/>
 
-        <defNative>переносн: ӓнгӓлтен колташ</defNative>
+        <defNative/>
       </m>
 
       <tg xml:lang="fin">
@@ -77961,7 +77981,33 @@
 
         <t pos="V">nojautua</t>
 
-        <td pos="V">läimäyttää tai lyödä</td>
+        <t pos="V">sovittaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">ӓнгӓлтӓш</l>
+
+      <stg>
+        <st Contlex="V_ЕМ">ӓнгӓлтӹ</st>
+      </stg>
+
+      <stress>ӓнгӓ•лтӓш</stress>
+    </lg>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>переносн: ӓнгӓлтен колташ</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="V">läimäyttää</t>
+
+        <td pos="V">lyödä jtk</td>
       </tg>
     </mg>
   </e>
