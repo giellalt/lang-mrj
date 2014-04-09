@@ -1879,7 +1879,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t/>
+        <t compl="Par" pos="Po">kohti</t>
+
+        <t compl="Gen" pos="Po">kimpussa</t>
       </tg>
     </mg>
   </e>
@@ -1896,11 +1898,17 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>kts myös ADV турештӹ</defNative>
 
       <tg xml:lang="fin">
-        <t>kohdalla</t>
+        <t pos="Po">kohdalla</t>
       </tg>
+
+      <xg>
+        <x>вуем туре кӱшнӹ тама царгалт кеш (1957:10)</x>
+
+        <xt>pääni kohdalla jokin rasahti</xt>
+      </xg>
     </mg>
   </e>
 
@@ -1919,27 +1927,29 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t/>
+        <t compl="Gen" pos="Po">kohdalle</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Po">турешты</l>
+      <l pos="Po">турештӹ</l>
 
       <stg>
-        <st Contlex="POSTP_">турешты</st>
+        <st Contlex="POSTP_">турештӹ</st>
       </stg>
 
-      <stress>турешты</stress>
+      <stress>туре•штӹ</stress>
     </lg>
 
     <mg>
       <defNative/>
 
       <tg xml:lang="fin">
-        <t/>
+        <t compl="Gen" pos="Po">kohdalla</t>
+
+        <t compl="Par" pos="Po">vastapäätä</t>
       </tg>
     </mg>
   </e>
