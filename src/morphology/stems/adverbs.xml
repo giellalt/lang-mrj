@@ -17105,6 +17105,8 @@
     <lg>
       <l pos="Adv">турашкы</l>
 
+      <l_ref pos="Adv">турeшкӹ</l_ref>
+
       <stg>
         <st Contlex="ADV_">турашкы</st>
       </stg>
@@ -17116,8 +17118,66 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">kohdalle</t>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">турашты</l>
+
+      <l_ref pos="Adv">турeштӹ</l_ref>
+
+      <stg>
+        <st Contlex="ADV_">турашты</st>
+      </stg>
+
+      <stress>тура•шты</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kohdalla</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">туреш</l>
+
+      <stg>
+        <st Contlex="ADV_">туреш</st>
+      </stg>
+
+      <stress>ту•реш</stress>
+    </lg>
+
+    <mg>
+      <defNative>туреш лиӓш - törmätä (tavoittaa yllättävästi)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">itsekseen</t>
+
+        <t pos="Adv">yksikseen</t>
+      </tg>
+
+      <xg>
+        <x> ӹшке турешӹжӹ ӹлӓ (1981:165)</x>
+
+        <xt>elää yksikseen</xt>
+      </xg>
+
+      <xg>
+        <x>мӓ турешнӓ ӹштенӓ (1981:165)</x>
+
+        <xt>me teemme niin kuin haluamme</xt>
+
+        <xt>me teemme itsenäisesti</xt>
+      </xg>
     </mg>
   </e>
 
@@ -17136,8 +17196,80 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">vastaan</t>
+
+        <t pos="Adv">kohdalle</t>
+
+        <tCtn>
+          <t>kohdalle</t>
+
+          <re>osua</re>
+        </tCtn>
       </tg>
+
+      <xg>
+        <x>туреш лиӓш (1981:165)</x>
+
+        <xt>törmätä</xt>
+
+        <xt>tavoittaa yllättävästi</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">турешкӹ</l>
+
+      <l_ref pos="Adv">турашкы</l_ref>
+
+      <stg>
+        <st Contlex="ADV_">турешкӹ</st>
+      </stg>
+
+      <stress>туре•шкӹ</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kohdalle</t>
+      </tg>
+
+      <xg>
+        <x>турешкӹнӓ мадаш кем (JK)</x>
+
+        <xt>menen talomme kohdalle (sen lähellä) leikkimään</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">турештӹ</l>
+
+      <l_ref pos="Adv">турашты</l_ref>
+
+      <stg>
+        <st Contlex="ADV_">турештӹ</st>
+      </stg>
+
+      <stress>туре•штӹ</stress>
+    </lg>
+
+    <mg>
+      <defNative>kts myös Postpositio!</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kohdalla</t>
+      </tg>
+
+      <xg>
+        <x>турештӹдӓ мадаш ак ли (JK)</x>
+
+        <xt>talonne kohdalla (sen lähellä) ei pysty leikkimään</xt>
+      </xg>
     </mg>
   </e>
 
