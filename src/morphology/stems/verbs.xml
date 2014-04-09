@@ -4207,6 +4207,12 @@
 
         <tf pos="V">johtaa työtä</tf>
       </tg>
+
+      <xg>
+        <x>йӱксӹ шӱм виктӓрӹш (1957:16)</x>
+
+        <xt>joutsen suoristi kaulaansa</xt>
+      </xg>
     </mg>
   </e>
 
@@ -27904,7 +27910,7 @@
       <l pos="V">лӱӓш</l>
 
       <stg>
-        <st Contlex="V_ЕМ">лӱӹ</st>
+        <st Contlex="V_ЕМ">лӱ</st>
       </stg>
 
       <stress>лӱ•ӓш</stress>
@@ -27918,6 +27924,12 @@
 
         <t pos="V">laukaista</t>
       </tg>
+
+      <xg>
+        <x>тӧргештӹ, ӓль лӱэн шуэм (1957:29)</x>
+
+        <xt>hyppää, muuten ammun</xt>
+      </xg>
     </mg>
   </e>
 
@@ -44494,10 +44506,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: ilveillä - кривляться</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">kumarrella</t>
+
+        <td pos="V">ilveillä (JK)</td>
       </tg>
     </mg>
   </e>
@@ -61196,7 +61210,15 @@
         <t pos="V">pirstoutua</t>
 
         <t pos="V">hajota</t>
+
+        <t pos="V">haljeta</t>
       </tg>
+
+      <xg>
+        <x>вуем туре укш царгалт кеш (JK)</x>
+
+        <xt>pääni kohdalla oksa rasahti</xt>
+      </xg>
     </mg>
   </e>
 
@@ -78044,10 +78066,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>ӓнгӹрӓлтен тольы - стащил свистнул</defNative>
 
-      <tg>
-        <t>torkuttaa</t>
+      <tg xml:lang="fin">
+        <t pos="V">varastaa</t>
+
+        <tf pos="V">ottaa itselleen</tf>
       </tg>
     </mg>
   </e>
@@ -78067,15 +78091,15 @@
       <m>
         <head/>
 
-        <defNative>ӓнгӹрӓлтен тольы - стащил свистнул</defNative>
+        <defNative/>
       </m>
 
       <tg xml:lang="fin">
-        <td pos="V">koukata jalalla</td>
+        <tf pos="V">koukata jalalla</tf>
 
-        <td pos="V">koukata kädellä; tarttua kädellä</td>
+        <tf pos="V">koukata kädellä</tf>
 
-        <tf pos="V">ottaa itselleen</tf>
+        <tf pos="V">tarttua kädellä</tf>
       </tg>
     </mg>
   </e>
@@ -78095,6 +78119,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <tf pos="V">kalastaa hieman</tf>
+
         <tf pos="V">torkkua hieman</tf>
       </tg>
     </mg>
@@ -78198,11 +78224,17 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>ӓптӹргӓл колташ</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">hätääntyä</t>
       </tg>
+
+      <xg>
+        <x/>
+
+        <xt/>
+      </xg>
     </mg>
   </e>
 

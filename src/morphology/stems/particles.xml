@@ -26,6 +26,37 @@
 
   <e>
     <lg>
+      <l pos="Pcle">-ай</l>
+
+      <stg>
+        <st Contlex="PCLE_">-ай</st>
+      </stg>
+
+      <stress>-ай</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">-pA</t>
+
+        <td pos="Pcle">imperatiiviverbin liittepartikkelina ilmaisee
+        kohteliasta käskyä tai pyyntöä</td>
+      </tg>
+
+      <xg>
+        <x>Сирмӓшетӹм колтай! (JK)</x>
+
+        <xt>Voisitko lähettää kirjeesi.</xt>
+
+        <xt>Lähetäpä nyt kirjesi.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Pcle">ане</l>
 
       <l_ref pos="Pcle">мане</l_ref>
@@ -720,7 +751,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <t pos="Pcle">noh</t>
+
+        <tf pos="Pcle">äläpäs nyt</tf>
       </tg>
     </mg>
   </e>
@@ -740,7 +773,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <tf pos="Pcle">noh </tf>
+
+        <tf pos="Pcle">älkääpä nyt</tf>
       </tg>
     </mg>
   </e>
@@ -760,7 +795,10 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <td pos="Pcle">anna!</td>
+
+        <td pos="Pcle">tämä sana sellaiseinaan vastaa suoraa käskyä - vastine
+        suomeksi: Anna! Anna mulle!</td>
       </tg>
     </mg>
   </e>
@@ -777,11 +815,25 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>vrt myös кат!</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <t pos="Pcle">annapas</t>
+
+        <t pos="Pcle">anna</t>
+
+        <td pos="Pcle">tämä sana sellaiseina yksinään vastaa suomen kielessä
+        Annapa! (mutta kohteliaampaa ilmaisua)</td>
+
+        <td pos="Pcle">tämä imperatiivipartikkeli verbin yhteydessä tarkoittaa
+        Anna mun tehdä, anna meidän tehdä.</td>
       </tg>
+
+      <xg>
+        <x>Кадай ӹштем! (JK)</x>
+
+        <xt>Annapas minä teen.</xt>
+      </xg>
     </mg>
   </e>
 
@@ -826,7 +878,30 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <td pos="Pcle"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">кат</l>
+
+      <stg>
+        <st Contlex="PCLE_">кат</st>
+      </stg>
+
+      <stress>кат</stress>
+    </lg>
+
+    <mg>
+      <defNative>_SUB. JK (пыртенӓм)</defNative>
+
+      <tg xml:lang="fin">
+        <td pos="Pcle">anna!</td>
+
+        <td pos="Pcle">tämä sana sellaiseinaan vastaa suomen kielessä Anna!
+        Anna mulle!</td>
       </tg>
     </mg>
   </e>
@@ -1273,6 +1348,10 @@
       <tg xml:lang="fin">
         <t pos="Pcle"/>
       </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Pcle">пусть</t>
+      </tg>
     </mg>
   </e>
 
@@ -1291,7 +1370,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <t pos="Pcle">näes</t>
+
+        <tf pos="Pcle">kas tässä</tf>
       </tg>
     </mg>
   </e>
@@ -1311,7 +1392,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <tf pos="Pcle">ei ole</tf>
       </tg>
     </mg>
   </e>
@@ -1331,7 +1412,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <t pos="Pcle">olemassa</t>
+
+        <tf pos="Pcle">on olemassa</tf>
       </tg>
     </mg>
   </e>
@@ -1398,6 +1481,28 @@
 
   <e>
     <lg>
+      <l pos="Pcle">ылгецӹ</l>
+
+      <stg>
+        <st Contlex="PCLE_">ылгецӹ</st>
+      </stg>
+
+      <stress>ылге•цӹ</stress>
+    </lg>
+
+    <mg>
+      <defNative>уступительный союз</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">jospa</t>
+
+        <td pos="Pcle">sillä ilmaistaan voimakasta tahtoa tehdä jotakin</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Pcle">ӓй</l>
 
       <stg>
@@ -1411,8 +1516,35 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <t pos="Pcle">eikös</t>
+
+        <t pos="Pcle">etkös</t>
+
+        <t pos="Pcle">emmekö</t>
+
+        <t pos="Pcle">ettekö</t>
+
+        <t pos="Pcle">eivätkö</t>
+
+        <td pos="Pcle">lauseen alussa kysymyspartikkeli</td>
+
+        <td pos="Pcle">imperatiiviverbin liittepartikkelina ilmaisee
+        kohteliasta käskyä</td>
+
+        <tf pos="Pcle">=pA</tf>
       </tg>
+
+      <xg>
+        <x>Ӓй тидӹмӓт ӹштен ам керд? (JK)</x>
+
+        <xt>Enkös mukamas pysty tekemään tätäkään.</xt>
+      </xg>
+
+      <xg>
+        <x>Урокетӹм ӹштӓй! (JK)</x>
+
+        <xt>Teepä kotiläksyjäsi!</xt>
+      </xg>
     </mg>
   </e>
 

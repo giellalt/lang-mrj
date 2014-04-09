@@ -939,6 +939,8 @@ ja konjunktio (jos; vaikka; jollei) - уступительные союзы-->
     <lg>
       <l pos="Conj">ӓли</l>
 
+      <l_ref pos="Conj">ӓль</l_ref>
+
       <stg>
         <st Contlex="CONJ_">ӓли</st>
       </stg>
@@ -967,6 +969,8 @@ ja konjunktio (jos; vaikka; jollei) - уступительные союзы-->
     <lg>
       <l pos="Conj">ӓль</l>
 
+      <l_ref pos="Conj">ӓли</l_ref>
+
       <stg>
         <st Contlex="CONJ_">ӓль</st>
       </stg>
@@ -989,7 +993,15 @@ ja konjunktio (jos; vaikka; jollei) - уступительные союзы-->
         <t>taikka</t>
 
         <t>eli</t>
+
+        <td>muuten (1957:29)</td>
       </tg>
+
+      <xg>
+        <x>тӧргештӹ, ӓль лӱэн шуэм (1957:29)</x>
+
+        <xt>hyppää, muuten ammun</xt>
+      </xg>
     </mg>
   </e>
 
