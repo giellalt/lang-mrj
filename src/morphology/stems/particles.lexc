@@ -2,6 +2,7 @@
 LEXICON particles
 
 айда:айда PCLE_  "-pa" ;
+-ай:-ай PCLE_  "-pA" ;
 ане:ане PCLE_  "kyllä" ;
 ат:ат PCLE_  "myöskin" ;
 ач:ач PCLE_  "-han" ;
@@ -27,12 +28,13 @@ LEXICON particles
 итӓй-тырлай:итӓй-тырлай PCLE_  "" ;
 йо:йо PCLE_  "" ;
 йок:йок PCLE_  "" ;
-йӓ:йӓ PCLE_  "" ;
-йӓмӓдӓ:йӓмӓдӓ PCLE_  "" ;
-кад:кад PCLE_  "" ;
-кадай:кадай PCLE_  "" ;
+йӓ:йӓ PCLE_  "noh" ;
+йӓмӓдӓ:йӓмӓдӓ PCLE_  "noh" ;
+кад:кад PCLE_  "anna!" ;
+кадай:кадай PCLE_  "annapas" ;
 как:как PCLE_  "äkinnäisen toiminnan ilmaisu verbin yhteydessä" ;
 кай:кай PCLE_  "" ;
+кат:кат PCLE_  "anna!" ;
 керек:керек PCLE_  "edes" ;
 коли:коли PCLE_  "oikeastiko" ;
 колой:колой PCLE_  "" ;
@@ -52,13 +54,14 @@ LEXICON particles
 сӓй:сӓй PCLE_  "ilmeisesti" ;
 теве:теве PCLE_  "" ;
 тек:тек PCLE_  "" ;
-тӹве:тӹве PCLE_  "" ;
-уке:уке PCLE_  "" ;
-улы:улы PCLE_  "" ;
+тӹве:тӹве PCLE_  "näes" ;
+уке:уке PCLE_  "ei ole" ;
+улы:улы PCLE_  "olemassa" ;
 цурат:цурат PCLE_  "" ;
 цуратат:цуратат PCLE_  "" ;
 ыжат:ыжат PCLE_  "" ;
-ӓй:ӓй PCLE_  "" ;
+ылгецӹ:ылгецӹ PCLE_  "jospa" ;
+ӓй:ӓй PCLE_  "eikös" ;
 ӓл:ӓл PCLE_  "" ;
 ӓлдок:ӓлдок PCLE_  "" ;
 ӓлдӓ:ӓлдӓ PCLE_  "" ;
