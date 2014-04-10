@@ -222965,6 +222965,8 @@
         <x>ӓнгӓ-йӹрӓн пӓшӓ (1981:14)</x>
 
         <xt>peltotyöt</xt>
+
+        <xt>toukotyöt</xt>
       </xg>
     </mg>
   </e>
@@ -223634,7 +223636,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">häirintä</t>
+
+        <t pos="N">häiritseminen</t>
+
+        <t pos="N">hämmästyttäminen</t>
+
+        <t pos="N">jankuttaminen</t>
+
+        <t pos="N">estääminen</t>
       </tg>
     </mg>
   </e>
@@ -223651,10 +223661,24 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK (синоним семӹнь кӹзӹт кычылтмы шамак): проста</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">töllistelijä</t>
+
+        <t pos="N">tollo</t>
+
+        <tf pos="N">yksinkertainen ihminen</tf>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">простофиля</t>
+
+        <t pos="N">недотёпа</t>
+
+        <t pos="N">разиня</t>
+
+        <t pos="N">простак</t>
       </tg>
     </mg>
   </e>
@@ -223674,8 +223698,14 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">seppä</t>
       </tg>
+
+      <xg>
+        <x>ӱштӹ ӓпшӓт (1981:15)</x>
+
+        <xt>pakkanen</xt>
+      </xg>
     </mg>
   </e>
 
@@ -223691,10 +223721,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав уке. Васик уке. JK: шиштӹ?</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <td pos="N">tikka</td>
       </tg>
     </mg>
   </e>
@@ -223714,7 +223744,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">paja</t>
+
+        <t pos="N">työpaja</t>
       </tg>
     </mg>
   </e>
@@ -223734,7 +223766,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">sepän työn tekeminen</tf>
+
+        <t pos="N">seppätyöt</t>
+
+        <t pos="N">sepustus</t>
       </tg>
     </mg>
   </e>
@@ -223751,10 +223787,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>vanh.(1981:14)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <td pos="N">kevättulvan jälkeinen lätäkkö</td>
+      </tg>
+
+      <tg xml:lang="rus">
+        <td pos="N">лужа после весеннего разлива</td>
       </tg>
     </mg>
   </e>
@@ -223774,8 +223814,22 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ruumenet</t>
+
+        <t pos="N">ruumenrehu</t>
       </tg>
+
+      <xg>
+        <x>шошым векӹлӓ вольыклан ӓрвӓм пукшат (JK)</x>
+
+        <xt>keväämmällä annetaan karjalle ruumenrehuja </xt>
+      </xg>
+
+      <xg>
+        <x>вуйыштыжы (1981:15)</x>
+
+        <xt>tyhmä ӓрвӓ</xt>
+      </xg>
     </mg>
   </e>
 
