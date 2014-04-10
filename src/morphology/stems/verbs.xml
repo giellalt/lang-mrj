@@ -25201,7 +25201,7 @@
 
         <t pos="V">käydä</t>
 
-        <t pos="V">vasikoida</t>
+        <t pos="V">poikia</t>
 
         <t pos="V">vuonia</t>
 
@@ -25227,15 +25227,33 @@
       </tg>
 
       <xg>
-        <x>лиэш</x>
+        <x>лиэш!</x>
 
-        <xt>tulee olemaan</xt>
+        <xt>saa</xt>
+
+        <xt>on luvattu</xt>
+
+        <xt>on sallittu</xt>
       </xg>
 
       <xg>
-        <x>тене яжо шурны лин</x>
+        <x>весин семинар лиэш (JK)</x>
+
+        <xt>seminaari tulee olemaan ensi vuonna</xt>
+
+        <xt>seminaari järjestetään ensi vuonna</xt>
+      </xg>
+
+      <xg>
+        <x>тене яжо шурны лин (1981:79)</x>
 
         <xt>tänä vuonna vilja on tuleentunut</xt>
+      </xg>
+
+      <xg>
+        <x>ирок ышкална лин (JK)</x>
+
+        <xt>lehmämme on poikinut aamulla</xt>
       </xg>
     </mg>
   </e>
@@ -34983,7 +35001,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>качкаш</defNative>
 
       <tg xml:lang="fin">
         <t pos="V" register="motherese">syödä</t>
@@ -43953,7 +43971,31 @@
       <tg xml:lang="fin">
         <tf pos="V">nukkua päiväunia</tf>
 
-        <tf pos="V">hieman nukkua</tf>
+        <tf pos="V">nukkua hieman</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">пӓпӓлӓлӓш</l>
+
+      <l_ref pos="V">пӓпӓлтӓш</l_ref>
+
+      <stg>
+        <st Contlex="V_ЕМ">пӓпӓлӓлӓш</st>
+      </stg>
+
+      <stress>пӓпӓлӓ•лӓш</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK (пыртенӓм) изивлӓлӓн изиш амалалмым анжыкта</defNative>
+
+      <tg xml:lang="fin">
+        <tf pos="V">nukkua hieman</tf>
+
+        <tf pos="V">torkkua hieman</tf>
       </tg>
     </mg>
   </e>
@@ -43975,7 +44017,7 @@
           <register register="motherese"/>
         </head>
 
-        <defNative/>
+        <defNative>амалаш</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -78283,7 +78325,11 @@
       <tg xml:lang="fin">
         <t pos="V">häiritä</t>
 
+        <t pos="V">jankuttaa</t>
+
         <tf pos="V">saattaa hämilleen</tf>
+
+        <td pos="V">estää jonkun tekemästä (1981:14)</td>
       </tg>
     </mg>
   </e>
@@ -78293,21 +78339,52 @@
       <l pos="V">ӓптӹрӓтӓш</l>
 
       <stg>
-        <st Contlex="V_ЕМ">ӓптӹрӓтӹ</st>
+        <st Contlex="V_ЕМ_SUB">ӓптӹрӓтӹ</st>
       </stg>
 
-      <stress>ӓптӹрӓтӓш</stress>
+      <stress>ӓптӹрӓ•тӓш</stress>
     </lg>
 
     <mg>
       <m>
         <head/>
 
-        <defNative>mhr</defNative>
+        <defNative>Саваткован уке. Васикован уке. JK: mhr?</defNative>
       </m>
 
       <tg xml:lang="fin">
         <tf pos="V">hämmentää mieltä</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">ӓптӹрӓш</l>
+
+      <stg>
+        <st Contlex="V_ЕМ_SUB">ӓптӹрӹ</st>
+      </stg>
+
+      <stress>ӓптӹ•рӓш</stress>
+    </lg>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>Васикован уке. Сав анешлӓ улы (1981:14) но говор манын пӓлӹ
+        уке.</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="V">häiritä</t>
+
+        <tf pos="V">saattaa hämilleen</tf>
+
+        <t pos="V">estää</t>
+
+        <t pos="V">jankuttaa</t>
       </tg>
     </mg>
   </e>
@@ -80913,30 +80990,6 @@
       <l pos="V">ӹштӓш</l>
 
       <stg>
-        <st Contlex="V_АМ">ӹшт</st>
-      </stg>
-
-      <stress>ӹ•штӓш</stress>
-    </lg>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative>синоним: шыпшылаш</defNative>
-      </m>
-
-      <tg xml:lang="fin">
-        <t pos="V">lypsää</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="V">ӹштӓш</l>
-
-      <stg>
         <st Contlex="V_ЕМ">ӹштӹ</st>
       </stg>
 
@@ -80964,6 +81017,74 @@
         <tf pos="V">saada aikaan</tf>
 
         <tf pos="V">tehdä päätös</tf>
+      </tg>
+
+      <xg>
+        <x>пӓшӓм ӹштӓш</x>
+
+        <xt>tehdä työtä</xt>
+      </xg>
+
+      <xg>
+        <x>ӓнгӓ-йӹрӓн пӓшӓм ӹштӓш (1981:14)</x>
+
+        <xt>tehdä peltotöitä</xt>
+
+        <xt>tehdä toukotöitä</xt>
+
+        <xt>muokata peltoa (JK)</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">ӹштӓш</l>
+
+      <stg>
+        <st Contlex="V_ЕМ">ӹштӹ</st>
+      </stg>
+
+      <stress>ӹ•штӓш</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK: Техеньӹм пырташ агыл?</defNative>
+
+      <tg xml:lang="fin">
+        <td pos="V">synnyttämisestä ilmaisuna ӓзӓм ӹштӓш</td>
+      </tg>
+
+      <xg>
+        <x>ӓзӓм ӹштӓш</x>
+
+        <xt>synnyttää</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">ӹштӓш</l>
+
+      <stg>
+        <st Contlex="V_ЕМ">ӹштӹ</st>
+      </stg>
+
+      <stress>ӹ•штӓш</stress>
+    </lg>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>синоним: шыпшылаш</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <td pos="V">lypsää</td>
+
+        <td pos="V">lypsäämisestä ilmaisuna ышкалым ӹштӓш</td>
       </tg>
     </mg>
   </e>
