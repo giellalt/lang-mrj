@@ -1833,6 +1833,7 @@ LEXICON verbs
 пӓнгдӓш:пӓнгдӹ V_ЕМ  "kärventää" ;
 пӓнгӓш:пӓнг V_АМ  "kärventyä" ;
 пӓпӓлтӓш:пӓпӓлтӹ V_ЕМ  "nukkua päiväunia" ;
+пӓпӓлӓлӓш:пӓпӓлӓлӓш V_ЕМ  "nukkua hieman" ;
 пӓпӓш:пӓпӹ V_ЕМ  "nukkua" ;
 пӓрдӓлӓш:пӓрдӓл V_АМ  "lojua" ;
 пӓрдӓлӹктӓш:пӓрдӓлӹктӹ V_ЕМ  "lojuttaa" ;
@@ -3366,7 +3367,8 @@ LEXICON verbs
 ӓптӹргӓлӓш:ӓптӹргӓл V_АМ  "hätääntyä" ;
 ӓптӹргӓш:ӓптӹргӹ V_ЕМ  "hävetä" ;
 ӓптӹртӓш:ӓптӹртӹ V_ЕМ  "häiritä" ;
-ӓптӹрӓтӓш:ӓптӹрӓтӹ V_ЕМ  "hämmentää mieltä" ;
+ӓптӹрӓтӓш:ӓптӹрӓтӹ V_ЕМ_SUB  "hämmentää mieltä" ;
+ӓптӹрӓш:ӓптӹрӹ V_ЕМ_SUB  "häiritä" ;
 ӓпшӓтлӓш:ӓпшӓтлӹ V_ЕМ  "tehdä sepän töitä" ;
 ӓргӓлтӓш:ӓргӓлт V_АМ  "sotkeutua" ;
 ӓргӓлтӓш:ӓргӓлтӹ V_ЕМ  "sotkea" ;
@@ -3473,8 +3475,9 @@ LEXICON verbs
 ӹштӓлтӓш:ӹштӓлтӹ V_ЕМ  "tehdä nopeasti" ;
 ӹштӓлӓш:ӹштӓл V_АМ  "vyöttää itsensä" ;
 ӹштӓш:ӹшт V_АМ  "lakaista" ;
-ӹштӓш:ӹшт V_АМ  "lypsää" ;
 ӹштӓш:ӹштӹ V_ЕМ  "tehdä" ;
+ӹштӓш:ӹштӹ V_ЕМ  "synnyttämisestä ilmaisuna ӓзӓм ӹштӓш" ;
+ӹштӓш:ӹштӹ V_ЕМ  "lypsää" ;
 ӹштӹкӓлӓш:ӹштӹкӓлӹ V_ЕМ  "tehdä pientä työtä" ;
 ӹштӹлтӓрӓш:ӹштӹлтӓрӹ V_ЕМ  "pyytää pyyhkäisemään" ;
 ӹштӹлӓлтӓш:ӹштӹлӓлт V_АМ  "pyyhkiytyä" ;
