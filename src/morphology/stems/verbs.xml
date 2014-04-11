@@ -78496,7 +78496,19 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <td pos="V">luoda loimilangat</td>
+        <tf pos="V">luoda loimilangat (1981:15)</tf>
+
+        <tf pos="V">kutoa verkkoa</tf>
+
+        <tCtn>
+          <t>kutoa verkkoa</t>
+
+          <re>hämähäkki</re>
+        </tCtn>
+
+        <tf pos="V">vyyhdätä</tf>
+
+        <td pos="V">kuvaannollisesti: kietoa jku valheen verkkoon</td>
       </tg>
     </mg>
   </e>
@@ -78517,6 +78529,8 @@
 
       <tg xml:lang="fin">
         <td pos="V">kietoilla hämähäkkiverkkoon</td>
+
+        <td pos="V">kuvaannollisesti: kietoilla jku valheen verkkoon</td>
       </tg>
     </mg>
   </e>
@@ -78636,7 +78650,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <tf pos="V">joutua pyydykseen; mennä ansaan</tf>
+        <tf pos="V">joutua pyydykseen</tf>
+
+        <tf pos="V">mennä ansaan</tf>
       </tg>
     </mg>
   </e>
