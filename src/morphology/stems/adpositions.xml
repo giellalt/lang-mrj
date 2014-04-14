@@ -16,7 +16,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>vrt тореш</defNative>
 
       <tg xml:lang="fin">
         <t compl="Par" pos="Po">vastaan</t>
@@ -831,7 +831,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: vrt тореш</defNative>
 
       <tg xml:lang="fin">
         <t>yli; ylitse; poikki</t>
@@ -1883,6 +1883,50 @@
 
         <t compl="Gen" pos="Po">kimpussa</t>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">тореш</l>
+
+      <stg>
+        <st Contlex="POSTP_">тореш</st>
+
+        <st Contlex="POSTP_">гач</st>
+      </stg>
+
+      <stress>то•реш</stress>
+    </lg>
+
+    <mg>
+      <defNative>ӧлицӓ тореш = ӧлицӓ гач (1981:161)</defNative>
+
+      <tg xml:lang="fin">
+        <t compl="Par" pos="Po">poikin</t>
+
+        <t compl="Gen" pos="Po">poikki</t>
+
+        <t compl="Gen" pos="Po">yli</t>
+      </tg>
+
+      <xg>
+        <x>ӧлицӓ тореш (1981:161)</x>
+
+        <xt>kadun yli</xt>
+
+        <xt>kadun poikki tai kadun poikitse</xt>
+
+        <xt>poikki kadun</xt>
+
+        <xt>katua poikin</xt>
+      </xg>
+
+      <xg>
+        <x>корны тореш (1981:161)</x>
+
+        <xt>tien yli</xt>
+      </xg>
     </mg>
   </e>
 
