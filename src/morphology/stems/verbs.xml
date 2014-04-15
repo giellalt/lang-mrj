@@ -8326,9 +8326,33 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <t pos="V">yleistyä</t>
+
+        <td pos="V">yhdistyä (JK)</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">иктештӓш</l>
+
+      <stg>
+        <st Contlex="V_ЕМ">иктештӹ</st>
+      </stg>
+
+      <stress>икте•штӓш</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK (пыртенӓм) Саваткован улы: иктешлӓш = иктештӓш</defNative>
+
+      <tg xml:lang="fin">
         <t pos="V">yleistää</t>
 
-        <te pos="V">yhdistää samaksi</te>
+        <t pos="V">yhdistää</t>
+
+        <te pos="V">yhdistää samaksi (JK)</te>
       </tg>
     </mg>
   </e>
@@ -55430,6 +55454,10 @@
 
       <tg xml:lang="fin">
         <tf pos="V">polkea paikallaan</tf>
+
+        <t pos="V">maleksia</t>
+
+        <t pos="V">vetelehtiä</t>
       </tg>
     </mg>
   </e>
