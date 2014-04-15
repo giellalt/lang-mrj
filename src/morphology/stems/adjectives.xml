@@ -87378,6 +87378,30 @@
 
   <e>
     <lg>
+      <l pos="A">тупыр</l>
+
+      <stg>
+        <st Contlex="A_">тупыр</st>
+      </stg>
+
+      <stress>ту•пыр</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <te pos="A">oikukas (kuvaannoll.)</te>
+
+        <te pos="A">itsepintainen</te>
+
+        <te pos="A">taipumaton</te>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="A">тупӹрдӓн</l>
 
       <stg>
@@ -87431,7 +87455,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">jyrkkä</t>
+
+        <td pos="A">kova tai cool (JK)</td>
       </tg>
     </mg>
   </e>
@@ -87531,7 +87557,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">oikukas</t>
+
+        <t pos="A">oikutteleva</t>
       </tg>
     </mg>
   </e>
