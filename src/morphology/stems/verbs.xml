@@ -55649,6 +55649,24 @@
       <tg xml:lang="fin">
         <t pos="V">kovettua</t>
 
+        <t pos="V">paleltua</t>
+
+        <t pos="V">jähmettyä</t>
+
+        <tCtn>
+          <t>jähmettyä</t>
+
+          <re>pehmeän aineen</re>
+        </tCtn>
+
+        <t pos="V">kohmettua</t>
+
+        <tCtn>
+          <t>kohmettua</t>
+
+          <re>elollisen olion tai pehmeän aineen</re>
+        </tCtn>
+
         <tf pos="V">kohmettua kylmästä</tf>
       </tg>
     </mg>
@@ -55673,6 +55691,8 @@
       </m>
 
       <tg xml:lang="fin">
+        <t pos="V">palelluttaa</t>
+
         <td pos="V">päästä käpristyä</td>
 
         <td pos="V">päästä supistua</td>
@@ -55723,14 +55743,30 @@
       <m>
         <head/>
 
-        <defNative>тусарен анжалаш</defNative>
+        <defNative>тусарен анжалаш - </defNative>
       </m>
 
       <tg xml:lang="fin">
         <tf pos="V">kohdistaa katse</tf>
 
+        <t pos="V">tarkkailla</t>
+
         <tf pos="V">panna merkille</tf>
+
+        <td pos="V">tujottaa (JK)</td>
       </tg>
+
+      <xg>
+        <x>омыным тусараш (1981:165)</x>
+
+        <xt>etsiä unista enteitä</xt>
+      </xg>
+
+      <xg>
+        <x>сравачым кыш пиштӹмӹжӹм тусарет ма (JK)</x>
+
+        <xt>tarkkailetko mihin on (isä) laittamassa avaimia</xt>
+      </xg>
     </mg>
   </e>
 

@@ -11619,6 +11619,40 @@
 
   <e>
     <lg>
+      <l pos="Adv">ниманярат</l>
+
+      <l_ref pos="Adv">тухат</l_ref>
+
+      <stg>
+        <st Contlex="ADV_">ниманярат</st>
+      </stg>
+
+      <stress>ниманяра•т</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ollenkaan</t>
+
+        <t pos="Adv">vähästäkään</t>
+
+        <t pos="Adv">yhtään</t>
+      </tg>
+
+      <xg>
+        <x>тухат ӹнянӓш ак ли (1981:166)</x>
+
+        <xt>ei voi uskoa ollenkaan</xt>
+
+        <xt>ei voi luottaa yhtään</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Adv">нуждан</l>
 
       <stg>
@@ -11954,6 +11988,45 @@
       <tg xml:lang="fin">
         <t pos="Adv"/>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">олак</l>
+
+      <stg>
+        <st Contlex="ADV_">олак</st>
+      </stg>
+
+      <stress>ола•к</stress>
+    </lg>
+
+    <mg>
+      <defNative>(пыртенӓм) Сав (1981:106) JK: лицӓдӹмӹ ойвлӓштӹ
+      вӓшлиӓлтеш</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">yksin</t>
+
+        <tf pos="Adv">täysin yksin</tf>
+
+        <td pos="Adv">yksin yksinäisyyttään (JK)</td>
+
+        <td pos="Adv">pakottoman vapaasti (JK)</td>
+      </tg>
+
+      <xg>
+        <x>мадашышты олак (1981:106)</x>
+
+        <xt>(he) voivat leikkiä vapaasti</xt>
+      </xg>
+
+      <xg>
+        <x>олакеш кодаш</x>
+
+        <xt>jäädä täysin yksin</xt>
+      </xg>
     </mg>
   </e>
 
@@ -16655,6 +16728,37 @@
 
   <e>
     <lg>
+      <l pos="Adv">топок</l>
+
+      <l_ref pos="Adv">тыпок</l_ref>
+
+      <stg>
+        <st Contlex="ADV_">топок</st>
+      </stg>
+
+      <stress>то•пок</stress>
+    </lg>
+
+    <mg>
+      <defNative>_SUB? JK пыртенӓм (колынам: топок качкын
+      шӹндӹшӹм)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kyllälti</t>
+
+        <t pos="Adv">kyllikseen</t>
+
+        <tCtn>
+          <t>kyllälti</t>
+
+          <re>syömisestä</re>
+        </tCtn>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Adv">тор</l>
 
       <stg>
@@ -16887,10 +16991,26 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Васик: трӱк(ок)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">äkkia</t>
+
+        <t pos="Adv">yhtäkkiä</t>
+
+        <t pos="Adv">äkkiarvaamatta</t>
+
+        <t pos="Adv">odottamatta</t>
+
+        <td pos="Adv">heti (1981:163)</td>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Adv">внезапно</t>
+
+        <t pos="Adv">вдруг</t>
+
+        <t pos="Adv">сразу</t>
       </tg>
     </mg>
   </e>
@@ -16907,10 +17027,16 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Саваткован уке. Васик: трӱк(ок)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">yhtäkkiä</t>
+
+        <t pos="Adv">odottamatta</t>
+
+        <td pos="Adv">äkitseltään (JK)</td>
+
+        <td pos="Adv">heti (1981:163)</td>
       </tg>
     </mg>
   </e>
@@ -16927,10 +17053,46 @@
     </lg>
 
     <mg>
+      <defNative>Сав уке. JK: samalla kertaa?</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">heti</t>
+
+        <td pos="Adv">kerralla (JK)</td>
+      </tg>
+
+      <xg>
+        <x>трӱкӹштӹ цилӓ ӹштен шуаш ак ли (JK)</x>
+
+        <xt>ei voi tehdä kaikkea heti</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">туамбал</l>
+
+      <stg>
+        <st Contlex="ADV_">туамбал</st>
+      </stg>
+
+      <stress>туа•мбал</stress>
+    </lg>
+
+    <mg>
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">turhaan</t>
+
+        <t pos="Adv">aiheettomasti</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Adv">тщетно</t>
+
+        <t pos="Adv">напрасно</t>
       </tg>
     </mg>
   </e>
@@ -16950,7 +17112,14 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">umpimähkään</t>
+
+        <td pos="Adv">epämääräiseen suuntaan (1981:163) tai randomisti
+        (JK)</td>
+      </tg>
+
+      <tg xml:lang="rus">
+        <td pos="Adv">наобум</td>
       </tg>
     </mg>
   </e>
@@ -17130,7 +17299,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">jyrkästi</t>
       </tg>
     </mg>
   </e>
@@ -17322,7 +17491,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <td pos="Adv">myötätuuleen (JK)</td>
       </tg>
     </mg>
   </e>
@@ -17330,6 +17499,8 @@
   <e>
     <lg>
       <l pos="Adv">тухат</l>
+
+      <l_ref pos="Adv">ниманярат</l_ref>
 
       <stg>
         <st Contlex="ADV_">тухат</st>
@@ -17339,10 +17510,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>vanh. Васик (ниманярат)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ollenkaan</t>
+
+        <t pos="Adv">vähästäkään</t>
+
+        <t pos="Adv">yhtään</t>
       </tg>
     </mg>
   </e>
@@ -17422,7 +17597,48 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">hiljaa</t>
+
+        <t pos="Adv">rauhallisesti</t>
+
+        <td pos="Adv">hiljeentyneesti (JK)</td>
+      </tg>
+
+      <xg>
+        <x>тып шӹнзӓлтӓ (JK)</x>
+
+        <xt>istuu hissukseen</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тыпок</l>
+
+      <l_ref pos="Adv">топок</l_ref>
+
+      <stg>
+        <st Contlex="ADV_">тыпок</st>
+      </stg>
+
+      <stress>ты•пок</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK пыртенӓм (1981:168); (техенят улы: топок качкын шӹндӹшӹм
+      (JK))</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kyllälti</t>
+
+        <t pos="Adv">kyllikseen</t>
+
+        <tCtn>
+          <t>kyllälti</t>
+
+          <re>syömisestä</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -17479,10 +17695,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав уке. Васик уке.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <td pos="Adv">kärsivällisesti (JK)</td>
       </tg>
     </mg>
   </e>
@@ -17502,7 +17718,17 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">hiljaa</t>
+
+        <t pos="Adv">hiljaisesti</t>
+
+        <tf pos="Adv">hiljakseen</tf>
+
+        <tf pos="Adv">hissukseen</tf>
+
+        <td pos="Adv">hiljaisemmin тырын = тырынрак</td>
+
+        <td pos="Adv">käskynä voi tarkoittaa ilmaisua: Ole hiljaa!</td>
       </tg>
     </mg>
   </e>
