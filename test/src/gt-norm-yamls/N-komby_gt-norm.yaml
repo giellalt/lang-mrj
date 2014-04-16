@@ -37,21 +37,21 @@ Tests:
      комбы+N+Pl+Abe: комбывлӓде
 
 #Sg,PxSg1
-     комбы+N+PxSg1+Sg+Nom: комбем 
-     комбы+N+PxSg1+Sg+Gen: комбемӹн
-     комбы+N+PxSg1+Sg+Acc: комбемӹм
-     комбы+N+PxSg1+Sg+Com: комбемге
-     комбы+N+PxSg1+Sg+Dat: комбемлӓн
+     комбы+N+Sg+PxSg1+Nom: комбем 
+     комбы+N+Sg+PxSg1+Gen: комбемӹн
+     комбы+N+Sg+PxSg1+Acc: комбемӹм
+     комбы+N+Sg+PxSg1+Com: комбемге
+     комбы+N+Sg+PxSg1+Dat: комбемлӓн
      комбы+N+Sg+Dat+PxSg1: комбыланем
      комбы+N+Sg+Ine+PxSg1: комбыштем
      комбы+N+Sg+Ill+PxSg1: комбышкем
      комбы+N+Sg+Lat+PxSg1: комбешем
-     комбы+N+PxSg1+Sg+Comp: комбемлӓ 
+     комбы+N+Sg+PxSg1+Comp: комбемлӓ 
      комбы+N+Sg+Comp+PxSg1: комбылаэм 
-     комбы+N+PxSg1+Sg+Abe: комбемде
+     комбы+N+Sg+PxSg1+Abe: комбемде
 
 #Pl,PxSg1     
-     комбы+N+Pl+Nom+PxSg1: комбывлӓэм
+     комбы+N+Pl+PxSg1+Nom: комбывлӓэм
 #тенге манаш лиэш: кынам посессив анзылны, шамаквлӓ деминутив сӹрӓн лит.
 #    комбы+N+PxSg1+Pl+Nom: комбемвлӓ
 #    комбы+N+PxSg1+Pl+Gen: комбемвлӓн
@@ -76,20 +76,20 @@ Tests:
 #комбыжы,
  
 #PxPl1
-     комбы+N+PxPl1+Sg+Nom: комбына 
-     комбы+N+PxPl1+Sg+Gen: комбынан
-     комбы+N+PxPl1+Sg+Acc: комбынам
-     комбы+N+PxPl1+Sg+Com: комбынаге
-     комбы+N+PxPl1+Sg+Dat: комбыналан
+     комбы+N+Sg+PxPl1+Nom: комбына 
+     комбы+N+Sg+PxPl1+Gen: комбынан
+     комбы+N+Sg+PxPl1+Acc: комбынам
+     комбы+N+Sg+PxPl1+Com: комбынаге
+     комбы+N+Sg+PxPl1+Dat: комбыналан
      комбы+N+Sg+Dat+PxPl1: комбыланна
      комбы+N+Sg+Ine+PxPl1: комбыштына
      комбы+N+Sg+Ill+PxPl1: комбышкына
      комбы+N+Sg+Lat+PxPl1: комбешнӓ
-     комбы+N+PxPl1+Sg+Comp: комбынала 
+     комбы+N+Sg+PxPl1+Comp: комбынала 
      комбы+N+Sg+Comp+PxPl1: комбылана 
-     комбы+N+PxPl1+Sg+Abe: комбынаде
+     комбы+N+Sg+PxPl1+Abe: комбынаде
      
-     комбы+N+Pl+Nom+PxPl1: комбывлӓнӓ    
+     комбы+N+Pl+PxPl1+Nom: комбывлӓнӓ    
 #тенге манаш лиэш: кынам посессив анзылны, шамаквлӓ деминутив сӹрӓн лит.
 #    комбы+N+PxPl1+Pl+Nom: комбынавлӓ
      комбы+N+Pl+PxPl1+Gen: комбывлӓнӓн
@@ -112,20 +112,20 @@ Tests:
 #    комбы+N+PxPl1+Pl+Abe: комбынавлӓде
 
 #PxPl2
-     комбы+N+PxPl2+Sg+Nom: комбыда 
-     комбы+N+PxPl2+Sg+Gen: комбыдан
-     комбы+N+PxPl2+Sg+Acc: комбыдам
-     комбы+N+PxPl2+Sg+Com: комбыдаге
-     комбы+N+PxPl2+Sg+Dat: комбыдалан
+     комбы+N+Sg+PxPl2+Nom: комбыда 
+     комбы+N+Sg+PxPl2+Gen: комбыдан
+     комбы+N+Sg+PxPl2+Acc: комбыдам
+     комбы+N+Sg+PxPl2+Com: комбыдаге
+     комбы+N+Sg+PxPl2+Dat: комбыдалан
      комбы+N+Sg+Dat+PxPl2: комбыланда
      комбы+N+Sg+Ine+PxPl2: комбыштыда
      комбы+N+Sg+Ill+PxPl2: комбышкыда
      комбы+N+Sg+Lat+PxPl2: комбешдӓ
-     комбы+N+PxPl2+Sg+Comp: комбыдала
+     комбы+N+Sg+PxPl2+Comp: комбыдала
      комбы+N+Sg+Comp+PxPl2: комбылада
-     комбы+N+PxPl2+Sg+Abe: комбыдаде
+     комбы+N+Sg+PxPl2+Abe: комбыдаде
      
-     комбы+N+Pl+Nom+PxPl2: комбывлӓдӓ
+     комбы+N+Pl+PxPl2+Nom: комбывлӓдӓ
 #мӹлӓм тенгелӓ чучеш, тенге манаш лиэш: кынам посессив анзылны, шамаквлӓ деминутив сӹрӓн лит.
 #    комбы+N+PxPl2+Pl+Nom: комбыдавлӓ
      комбы+N+Pl+PxPl2+Gen: комбывлӓдӓн
@@ -148,19 +148,19 @@ Tests:
 #    комбы+N+PxPl2+Pl+Abe: комбыдавлӓде
      
 #PxPl3
-     комбы+N+PxPl3+Sg+Nom: комбышты 
-     комбы+N+PxPl3+Sg+Gen: комбыштын
-     комбы+N+PxPl3+Sg+Acc: комбыштым
-     комбы+N+PxPl3+Sg+Com: комбыштыге
-     комбы+N+PxPl3+Sg+Dat: комбыштылан
+     комбы+N+Sg+PxPl3+Nom: комбышты 
+     комбы+N+Sg+PxPl3+Gen: комбыштын
+     комбы+N+Sg+PxPl3+Acc: комбыштым
+     комбы+N+Sg+PxPl3+Com: комбыштыге
+     комбы+N+Sg+PxPl3+Dat: комбыштылан
      комбы+N+Sg+Dat+PxPl3: комбыланышты
      комбы+N+Sg+Ine+PxPl3: комбыштышты
      комбы+N+Sg+Ill+PxPl3: комбышкышты
      комбы+N+Sg+Lat+PxPl3: комбешӹштӹ
-     комбы+N+PxPl3+Sg+Comp: комбыштыла 
-     комбы+N+PxPl3+Sg+Abe: комбыштыде
+     комбы+N+Sg+PxPl3+Comp: комбыштыла 
+     комбы+N+Sg+PxPl3+Abe: комбыштыде
      
-     комбы+N+Pl+Nom+PxPl3: комбывлӓштӹ
+     комбы+N+Pl+PxPl3+Nom: комбывлӓштӹ
      комбы+N+Pl+PxPl3+Gen: комбывлӓштӹн
      комбы+N+Pl+PxPl3+Acc: комбывлӓштӹм
      комбы+N+Pl+PxPl3+Com: комбывлӓштӹге
