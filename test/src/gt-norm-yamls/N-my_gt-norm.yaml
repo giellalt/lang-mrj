@@ -36,21 +36,21 @@ Tests:
      мӱ+N+Pl+Comp: мӱвлӓлӓ
      мӱ+N+Pl+Abe: мӱвлӓде
 
-#     мӱ+N+PxSg1+Sg+Nom: мӱэм
-     мӱ+N+PxSg1+Sg+Nom: мӱэм
-     мӱ+N+PxSg1+Sg+Gen: мӱэмӹн
-     мӱ+N+PxSg1+Sg+Acc: мӱэмӹм
-     мӱ+N+PxSg1+Sg+Com: мӱэмге
-     мӱ+N+PxSg1+Sg+Dat: мӱэмлӓн
+#     мӱ+N+Sg+PxSg1+Nom: мӱэм
+     мӱ+N+Sg+PxSg1+Nom: мӱэм
+     мӱ+N+Sg+PxSg1+Gen: мӱэмӹн
+     мӱ+N+Sg+PxSg1+Acc: мӱэмӹм
+     мӱ+N+Sg+PxSg1+Com: мӱэмге
+     мӱ+N+Sg+PxSg1+Dat: мӱэмлӓн
      мӱ+N+Sg+Ine+PxSg1: мӱштем
      мӱ+N+Sg+Ill+PxSg1: мӱшкем
      мӱ+N+Sg+Lat+PxSg1: мӱэшем
 #     мӱ+N+PxSg1+Sg+Comp: [мӱлӓэм, мӱэмлӓ] 
      мӱ+N+Sg+Comp+PxSg1: мӱлӓэм # teoreett tai toissijais.versio_jk
-     мӱ+N+PxSg1+Sg+Comp: мӱэмлӓ 
+     мӱ+N+Sg+PxSg1+Comp: мӱэмлӓ 
 #     мӱ+N+PxSg1+Sg+Abe: [мӱдеэм, мӱэмде] 
      мӱ+N+Sg+Abe+PxSg1: мӱдеэм # teoreett tai toissijais.versio_jk
-     мӱ+N+PxSg1+Sg+Abe: мӱэмде 
+     мӱ+N+Sg+PxSg1+Abe: мӱэмде 
 #     мӱ+N+PxSg1+Pl+Nom: [мӱвлӓэм, мӱэмвлӓ] # х3
      мӱ+N+Pl+Nom+PxSg1: мӱвлӓэм 
      мӱ+N+PxSg1+Pl+Nom: мӱэмвлӓ

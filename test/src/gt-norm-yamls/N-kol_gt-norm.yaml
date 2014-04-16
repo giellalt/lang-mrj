@@ -36,21 +36,21 @@ Tests:
      кол+N+Pl+Comp: колвлӓлӓ
      кол+N+Pl+Abe: колвлӓде
 
-#     кол+N+PxSg1+Sg+Nom: [колем, колэм] # х2 колэмжӹ
-     кол+N+PxSg1+Sg+Nom: колем
-     кол+N+PxSg1+Sg+Gen: колемӹн
-     кол+N+PxSg1+Sg+Acc: колемӹм
-     кол+N+PxSg1+Sg+Com: колемге
-     кол+N+PxSg1+Sg+Dat: колемлӓн
+#     кол+N+Sg+PxSg1+Nom: [колем, колэм] # х2 колэмжӹ
+     кол+N+Sg+PxSg1+Nom: колем
+     кол+N+Sg+PxSg1+Gen: колемӹн
+     кол+N+Sg+PxSg1+Acc: колемӹм
+     кол+N+Sg+PxSg1+Com: колемге
+     кол+N+Sg+PxSg1+Dat: колемлӓн
      кол+N+Sg+Ine+PxSg1: колыштем
      кол+N+Sg+Ill+PxSg1: колышкем
      кол+N+Sg+Lat+PxSg1: колешем
 #     кол+N+PxSg1+Sg+Comp: [коллаэм, колемлӓ] 
      кол+N+Sg+Comp+PxSg1: коллаэм 
-     кол+N+PxSg1+Sg+Comp: колемлӓ 
+     кол+N+Sg+PxSg1+Comp: колемлӓ 
 #     кол+N+PxSg1+Sg+Abe: [колдеэм, колемде] 
      кол+N+Sg+Abe+PxSg1: колдеэм
-     кол+N+PxSg1+Sg+Abe: колемде 
+     кол+N+Sg+PxSg1+Abe: колемде 
 #     кол+N+PxSg1+Pl+Nom: [колвлӓэм, колемвлӓ] # х3
      кол+N+Pl+Nom+PxSg1: колвлӓэм
      кол+N+PxSg1+Pl+Nom: колемвлӓ
@@ -78,16 +78,16 @@ Tests:
      кол+N+Pl+PxSg1+Abe: колвлӓэмде
      кол+N+PxSg1+Pl+Abe: колемвлӓде
 
-     кол+N+PxSg2+Sg+Nom: колет
-     кол+N+PxSg2+Sg+Gen: колетӹн
-     кол+N+PxSg2+Sg+Acc: колетӹм
-     кол+N+PxSg2+Sg+Com: колетге
-     кол+N+PxSg2+Sg+Dat: колетлӓн
+     кол+N+Sg+PxSg2+Nom: колет
+     кол+N+Sg+PxSg2+Gen: колетӹн
+     кол+N+Sg+PxSg2+Acc: колетӹм
+     кол+N+Sg+PxSg2+Com: колетге
+     кол+N+Sg+PxSg2+Dat: колетлӓн
      кол+N+Sg+Ine+PxSg2: колыштет #??
      кол+N+Sg+Ill+PxSg2: колышкет
-     кол+N+PxSg2+Sg+Lat: колетӹш
-     кол+N+PxSg2+Sg+Comp: колетлӓ #
-     кол+N+PxSg2+Sg+Abe: колетде
+     кол+N+Sg+PxSg2+Lat: колетӹш
+     кол+N+Sg+PxSg2+Comp: колетлӓ #
+     кол+N+Sg+PxSg2+Abe: колетде
      кол+N+Pl+Nom+PxSg2: колвлӓэт
      кол+N+PxSg2+Pl+Gen: колетвлӓн #
      кол+N+PxSg2+Pl+Acc: колетвлӓм
@@ -99,17 +99,17 @@ Tests:
      кол+N+PxSg2+Pl+Comp: колетвлӓлӓ
      кол+N+PxSg2+Pl+Abe: колетвлӓде
 
-     кол+N+PxSg3+Sg+Nom: колжы
-     кол+N+PxSg3+Sg+Gen: колжын
-     кол+N+PxSg3+Sg+Acc: колжым
-     кол+N+PxSg3+Sg+Com: колжыге 
-     кол+N+PxSg3+Sg+Dat: колжылан 
+     кол+N+Sg+PxSg3+Nom: колжы
+     кол+N+Sg+PxSg3+Gen: колжын
+     кол+N+Sg+PxSg3+Acc: колжым
+     кол+N+Sg+PxSg3+Com: колжыге 
+     кол+N+Sg+PxSg3+Dat: колжылан 
      кол+N+Sg+Ine+PxSg3: колыштыжы #??
      кол+N+Sg+Ill+PxSg3: колышкыжы #??
      кол+N+Sg+Lat+PxSg3: колешӹжӹ #
-     кол+N+PxSg3+Sg+Comp: колжыла
-     кол+N+PxSg3+Sg+Abe: колжыде
-     кол+N+Pl+Nom+PxSg3: колвлӓжӹ
+     кол+N+Sg+PxSg3+Comp: колжыла
+     кол+N+Sg+PxSg3+Abe: колжыде
+     кол+N+Pl+PxSg3+Nom: колвлӓжӹ
      кол+N+Pl+PxSg3+Gen: колвлӓжӹн
      кол+N+Pl+PxSg3+Acc: колвлӓжӹм
      кол+N+Pl+PxSg3+Com: колвлӓжӹге
