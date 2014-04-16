@@ -19,7 +19,13 @@ LEXICON N_ТӸРВӸ_SUB !!= * @CODE@
 !! !!Standard
 
 LEXICON N_КОЛ !!= @CODE@ кол:кол
-+N: NMN_КОЛ ;
+ N_КОЛ-SG ;
+ N_КОЛ-PL ;
+
+LEXICON N_КОЛ-SG
++N: NMN_КОЛ-SG ;
+LEXICON N_КОЛ-PL
++N: NMN_КОЛ-PL ;
 
 LEXICON N_ТӸРВӸ !!= * @CODE@ тӹрвӹ:тӹрвӹ
 !! The stem vowel "е" is found with possessor indices and the lative
@@ -33,9 +39,16 @@ LEXICON N_КАРТА !!= * @CODE@ карта:карта
 +N: NMN_КАРТА ;
 
 LEXICON NMN_КОЛ !!= @CODE@ кол:кол
- NMN_OBLIQUE-INDEFINITE ;
- NMN_OBLIQUE-POSSESSA ;
+ NMN_КОЛ-SG ;
+ NMN_КОЛ-PL ;
+LEXICON NMN_КОЛ-SG
 +Sg+Nom: 	  K	; 
+ NMN_OBLIQUE-INDEFINITE-SG ;
+ NMN_OBLIQUE-POSSESSA-SG ;
+
+LEXICON NMN_КОЛ-PL
+ NMN_OBLIQUE-INDEFINITE-PL ;
+ NMN_OBLIQUE-POSSESSA-PL ;
 
 LEXICON NMN_ТӸРВӸ !!= * @CODE@ тӹрвӹ:тӹрвӹ
 !! The stem vowel "е" is found with possessor indices and the lative
@@ -114,6 +127,9 @@ LEXICON N_ӒВӒ !!= @CODE@  ӓвӓ:ӓвӓ
 !!2013-10-18!+N+Sg+Lat+PxSg3:%>эш%{ыӹØ%}ж%{ыӹØ%}	   K  ;
 
 LEXICON NMN_OBLIQUE-INDEFINITE
+ NMN_OBLIQUE-INDEFINITE-SG ;
+ NMN_OBLIQUE-INDEFINITE-PL ;
+LEXICON NMN_OBLIQUE-INDEFINITE-SG
 +Sg+Gen:%>%{ыӹØ%}н K ; ! 
 +Sg+Acc:%>%{ыӹØ%}м K ; !
 +Sg+Com:%>ге K ; ! (with a village)
@@ -124,6 +140,8 @@ LEXICON NMN_OBLIQUE-INDEFINITE
 +Sg+Lat:%>еш K ; ! (into a village)
 +Sg+Comp:%>л%{аӓ%} K ; ! (like a village)
 +Sg+Abe:%>де K ; ! (without a village)
+
+LEXICON NMN_OBLIQUE-INDEFINITE-PL
 !!
 +Pl+Nom:%>влӓ 	  K	; 
 +Pl+Gen:%>влӓн K ; ! 
@@ -162,6 +180,10 @@ LEXICON N_01
 +Pl+Abe:влӓ%>де K ; ! (without a village)
 
 LEXICON NMN_OBLIQUE-POSSESSA
+ NMN_OBLIQUE-POSSESSA-SG ;
+ NMN_OBLIQUE-POSSESSA-PL ;
+
+LEXICON NMN_OBLIQUE-POSSESSA-SG
 !! PxSg1+NB+CASE
 !! singular possessa
 +PxSg1+Sg+Nom:%>ем K ;
@@ -184,6 +206,63 @@ LEXICON NMN_OBLIQUE-POSSESSA
 +Sg+Comp+PxSg1:%>л%{аӓ%}%>эм      K  ;
 +Sg+Abe+PxSg1:%>деэм	   K  ;
 +PxSg1+Sg+Abe:%>емде	   K  ;
+!!PxSg2
+ PXSG2-SG-ABE 		   ;
+ PXSG2-SG-ACC 		   ;
+ PXSG2-SG-COM 		   ;
+ PXSG2-SG-COMP 		   ;
+ PXSG2-SG-DAT		   ;
+ PXSG2-SG-GEN 		   ;
+ PXSG2-SG-ILL		   ;
+ PXSG2-SG-INE		   ;
+ PXSG2-SG-LAT		   ;
+ PXSG2-SG-NOM 		   ;
+!!PxSg3
+ PXSG3-SG-ABE 		   ;
+ PXSG3-SG-ACC 		   ;
+ PXSG3-SG-COM 		   ;
+ PXSG3-SG-COMP 		   ;
+ PXSG3-SG-DAT		   ;
+ PXSG3-SG-GEN 		   ;
+ PXSG3-SG-ILL		   ;
+ PXSG3-SG-INE		   ;
+ PXSG3-SG-LAT		   ;
+ PXSG3-SG-NOM 		   ;
+!!PxPl1
+ PXPL1-SG-ABE 		   ;
+ PXPL1-SG-ACC 		   ;
+ PXPL1-SG-COM 		   ;
+ PXPL1-SG-COMP 		   ;
+ PXPL1-SG-DAT		   ;
+ PXPL1-SG-GEN 		   ;
+ PXPL1-SG-ILL		   ;
+ PXPL1-SG-INE		   ;
+ PXPL1-SG-LAT		   ;
+ PXPL1-SG-NOM 		   ;
+!!PxPl2
+ PXPL2-SG-ABE 		   ;
+ PXPL2-SG-ACC 		   ;
+ PXPL2-SG-COM 		   ;
+ PXPL2-SG-COMP 		   ;
+ PXPL2-SG-DAT		   ;
+ PXPL2-SG-GEN 		   ;
+ PXPL2-SG-ILL		   ;
+ PXPL2-SG-INE		   ;
+ PXPL2-SG-LAT		   ;
+ PXPL2-SG-NOM 		   ;
+!!PxPl3
+ PXPL3-SG-ABE 		   ;
+ PXPL3-SG-ACC 		   ;
+ PXPL3-SG-COM 		   ;
+ PXPL3-SG-COMP 		   ;
+ PXPL3-SG-DAT		   ;
+ PXPL3-SG-GEN 		   ;
+ PXPL3-SG-ILL		   ;
+ PXPL3-SG-INE		   ;
+ PXPL3-SG-LAT		   ;
+ PXPL3-SG-NOM 		   ;
+
+LEXICON NMN_OBLIQUE-POSSESSA-PL
 ! plural possessa
 +Pl+Nom+PxSg1:%>влӓэм	   K  ;
 +PxSg1+Pl+Nom:%>емвлӓ	   K  ;
@@ -212,16 +291,6 @@ LEXICON NMN_OBLIQUE-POSSESSA
 +PxSg1+Pl+Abe:%>емвлӓде   K  ;
 
 !!PxSg2
- PXSG2-SG-ABE 		   ;
- PXSG2-SG-ACC 		   ;
- PXSG2-SG-COM 		   ;
- PXSG2-SG-COMP 		   ;
- PXSG2-SG-DAT		   ;
- PXSG2-SG-GEN 		   ;
- PXSG2-SG-ILL		   ;
- PXSG2-SG-INE		   ;
- PXSG2-SG-LAT		   ;
- PXSG2-SG-NOM 		   ;
  PXSG2-PL-ABE 		   ;
  PXSG2-PL-ACC 		   ;
  PXSG2-PL-COM 		   ;
@@ -234,16 +303,6 @@ LEXICON NMN_OBLIQUE-POSSESSA
  PXSG2-PL-NOM 		   ;
 
 !!PxSg3
- PXSG3-SG-ABE 		   ;
- PXSG3-SG-ACC 		   ;
- PXSG3-SG-COM 		   ;
- PXSG3-SG-COMP 		   ;
- PXSG3-SG-DAT		   ;
- PXSG3-SG-GEN 		   ;
- PXSG3-SG-ILL		   ;
- PXSG3-SG-INE		   ;
- PXSG3-SG-LAT		   ;
- PXSG3-SG-NOM 		   ;
  PXSG3-PL-ABE 		   ;
  PXSG3-PL-ACC 		   ;
  PXSG3-PL-COM 		   ;
@@ -256,16 +315,6 @@ LEXICON NMN_OBLIQUE-POSSESSA
  PXSG3-PL-NOM 		   ;
 
 !!PxPl1
- PXPL1-SG-ABE 		   ;
- PXPL1-SG-ACC 		   ;
- PXPL1-SG-COM 		   ;
- PXPL1-SG-COMP 		   ;
- PXPL1-SG-DAT		   ;
- PXPL1-SG-GEN 		   ;
- PXPL1-SG-ILL		   ;
- PXPL1-SG-INE		   ;
- PXPL1-SG-LAT		   ;
- PXPL1-SG-NOM 		   ;
  PXPL1-PL-ABE 		   ;
  PXPL1-PL-ACC 		   ;
  PXPL1-PL-COM 		   ;
@@ -278,16 +327,6 @@ LEXICON NMN_OBLIQUE-POSSESSA
  PXPL1-PL-NOM 		   ;
 
 !!PxPl2
- PXPL2-SG-ABE 		   ;
- PXPL2-SG-ACC 		   ;
- PXPL2-SG-COM 		   ;
- PXPL2-SG-COMP 		   ;
- PXPL2-SG-DAT		   ;
- PXPL2-SG-GEN 		   ;
- PXPL2-SG-ILL		   ;
- PXPL2-SG-INE		   ;
- PXPL2-SG-LAT		   ;
- PXPL2-SG-NOM 		   ;
  PXPL2-PL-ABE 		   ;
  PXPL2-PL-ACC 		   ;
  PXPL2-PL-COM 		   ;
@@ -300,16 +339,6 @@ LEXICON NMN_OBLIQUE-POSSESSA
  PXPL2-PL-NOM 		   ;
 
 !!PxPl3
- PXPL3-SG-ABE 		   ;
- PXPL3-SG-ACC 		   ;
- PXPL3-SG-COM 		   ;
- PXPL3-SG-COMP 		   ;
- PXPL3-SG-DAT		   ;
- PXPL3-SG-GEN 		   ;
- PXPL3-SG-ILL		   ;
- PXPL3-SG-INE		   ;
- PXPL3-SG-LAT		   ;
- PXPL3-SG-NOM 		   ;
  PXPL3-PL-ABE 		   ;
  PXPL3-PL-ACC 		   ;
  PXPL3-PL-COM 		   ;
