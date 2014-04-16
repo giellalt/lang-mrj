@@ -102032,6 +102032,9 @@
         <tf pos="N">aivinakankaan pala</tf>
 
         <t pos="N">palttinapala</t>
+
+        <td pos="N">aivinan kangaspala hautajaisissa järjestysavustajalle
+        (JK)</td>
       </tg>
     </mg>
   </e>
@@ -125444,10 +125447,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: платьы</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">mekko</t>
+
+        <t pos="N">leninki</t>
       </tg>
     </mg>
   </e>
@@ -125514,6 +125519,8 @@
 
       <tg xml:lang="fin">
         <t pos="N">mekkokangas</t>
+
+        <t pos="N">leninkikangas</t>
       </tg>
     </mg>
   </e>
@@ -177118,10 +177125,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>histor. vanh. кистень</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <td pos="N">piikkipalloinen ruoska</td>
       </tg>
     </mg>
   </e>
@@ -177138,10 +177145,18 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>(Виловат) тавалымаш</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">erottaminen</t>
+
+        <tCtn>
+          <t>erottaminen</t>
+
+          <re>tappelijoiden</re>
+        </tCtn>
+
+        <tf pos="N">irrottaminen toisistaan</tf>
       </tg>
     </mg>
   </e>
@@ -177161,7 +177176,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">juoksettuminen</t>
+
+        <t pos="N">kokkaroituminen</t>
       </tg>
     </mg>
   </e>
@@ -177181,7 +177198,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">juustouttaminen</t>
       </tg>
     </mg>
   </e>
@@ -177208,6 +177225,28 @@
 
   <e>
     <lg>
+      <l pos="N">тывыртышвӹд</l>
+
+      <stg>
+        <st Contlex="N_КОЛ_SUB">тывыртышвӹд</st>
+
+        <st Contlex="N_КОЛ_SUB">тывыртыш вӹд</st>
+      </stg>
+
+      <stress>тывырты•швӹд</stress>
+    </lg>
+
+    <mg>
+      <defNative>(1981:166) Васикова: тывыртыш вӹд</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">hera</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">тыгыдем</l>
 
       <stg>
@@ -177218,11 +177257,35 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>vanh. matem.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">murtoluku</t>
       </tg>
+
+      <xg>
+        <x>луаш тыгыдем (JK)</x>
+
+        <xt>kymmenmurtoluku</xt>
+
+        <xt>desimaaliluku</xt>
+      </xg>
+
+      <xg>
+        <x>тӧр тыгыдем (JK)</x>
+
+        <xt>varsinainen murtoluku</xt>
+
+        <xt>правильная дробь</xt>
+      </xg>
+
+      <xg>
+        <x>тӧрсӹр анешлӓ тыгыдем (JK)</x>
+
+        <xt>epämurtoluku</xt>
+
+        <xt>неправильная дробь</xt>
+      </xg>
     </mg>
   </e>
 
@@ -177253,6 +177316,31 @@
 
   <e>
     <lg>
+      <l pos="N">тыгыды пишол</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">тыгыды пишол</st>
+      </stg>
+
+      <stress>тыгы•ды пишол</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK (пыртенӓм) Сав улы. тыгыды пишол = тысячелистник
+      (1981:167)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">kärsimö</t>
+
+        <t pos="N">siankärsämö</t>
+
+        <td pos="N">sian kärsämö (Achillea millefolium)</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">тыгын</l>
 
       <stg>
@@ -177266,7 +177354,17 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kokka</t>
+
+        <td pos="N">keula (JK)</td>
+
+        <td pos="N">veneen kaareva osa</td>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">кривулина</t>
+
+        <td pos="N">изогнутая часть лодки</td>
       </tg>
     </mg>
   </e>
@@ -177289,6 +177387,10 @@
         <t pos="N">paita</t>
 
         <t pos="N">yöpaita</t>
+
+        <t pos="N">puku</t>
+
+        <td pos="N">pyykki (JK)</td>
       </tg>
     </mg>
   </e>
@@ -177336,7 +177438,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">paitakangas</t>
+
+        <td pos="N">häälahja mieshenkilölle (JK)</td>
       </tg>
     </mg>
   </e>
@@ -177353,10 +177457,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав уке. Vrt мӹнервач</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">helma</t>
+
+        <tf pos="N">paidan alaosa (JK)</tf>
       </tg>
     </mg>
   </e>
@@ -177373,10 +177479,23 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>отрез полотна холста (1981:167) Vrt мӹнервач</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">palttinapala</t>
+
+        <tf pos="N">aivinan kuponkikangas</tf>
+
+        <td pos="N">palttinapala häälahjana sulhasen sukulaisille
+        (1981:167)</td>
+
+        <td pos="N">lahjana sukulaisilta kokelaalle parin metrin pituinen
+        palttinapala (1981:167)</td>
+
+        <td pos="N">aivinakankaan pala hautajaisissa järjestysapulaisille
+        (JK)</td>
+
+        <td pos="N">paidan vartalo-osa (JK)</td>
       </tg>
     </mg>
   </e>

@@ -12721,7 +12721,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">päivämääräinen</t>
+
+        <t pos="A">=eräpäiväinen</t>
       </tg>
     </mg>
   </e>
@@ -12741,7 +12743,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">päivämäärä</t>
       </tg>
     </mg>
   </e>
@@ -12761,7 +12763,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <tf pos="A">huvilaa omistava</tf>
+
+        <t pos="A">huvila=</t>
       </tg>
     </mg>
   </e>
@@ -12781,7 +12785,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">huvilaton</t>
       </tg>
     </mg>
   </e>
@@ -56417,7 +56421,7 @@
       </tg>
 
       <tg xml:lang="rus">
-        <t pos="A"> уединённый</t>
+        <t pos="A">уединённый</t>
 
         <t pos="A">укромный</t>
 
