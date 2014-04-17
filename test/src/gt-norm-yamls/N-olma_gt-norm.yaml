@@ -36,18 +36,18 @@ Tests:
      олма+N+Pl+Comp: олмавлӓлӓ
      олма+N+Pl+Abe: олмавлӓде
      
-     олма+N+PxSg1+Sg+Nom: олмаэм
-     олма+N+PxSg1+Sg+Gen: олмаэмӹн
-     олма+N+PxSg1+Sg+Acc: олмаэмӹм
-     олма+N+PxSg1+Sg+Com: олмаэмге
-     олма+N+PxSg1+Sg+Dat: олмаэмлӓн
+     олма+N+Sg+PxSg1+Nom: олмаэм
+     олма+N+Sg+PxSg1+Gen: олмаэмӹн
+     олма+N+Sg+PxSg1+Acc: олмаэмӹм
+     олма+N+Sg+PxSg1+Com: олмаэмге
+     олма+N+Sg+PxSg1+Dat: олмаэмлӓн
      олма+N+Sg+Ine+PxSg1: олмаэштем
      олма+N+Sg+Ill+PxSg1: олмаэшкем
      олма+N+Sg+Lat+PxSg1: олмаэшем
-     олма+N+PxSg1+Sg+Comp: олмаэмлӓ 
-     олма+N+PxSg1+Sg+Abe: олмаэмде 
+     олма+N+Sg+PxSg1+Comp: олмаэмлӓ 
+     олма+N+Sg+PxSg1+Abe: олмаэмде 
      олма+N+PxSg1+Pl+Nom: олмаэмвлӓ
-     олма+N+Pl+Nom+PxSg1: олмавлӓэм
+     олма+N+Pl+PxSg1+Nom: олмавлӓэм
      олма+N+Pl+PxSg1+Gen: олмавлӓэмӹн
      олма+N+PxSg1+Pl+Gen: олмаэмвлӓн
      олма+N+Pl+PxSg1+Acc: олмавлӓэмӹм
@@ -60,7 +60,7 @@ Tests:
      олма+N+PxSg1+Pl+Ine: олмаэмвлӓштӹ
      олма+N+Pl+Ill+PxSg1: олмавлӓшкем
      олма+N+PxSg1+Pl+Ill: олмаэмвлӓшкӹ
-     олма+N+Pl+PxSg1+Lat: олмавлӓэшем
+     олма+N+Pl+Lat+PxSg1: олмавлӓэшем
      олма+N+PxSg1+Pl+Lat: олмаэмвлӓэш
      олма+N+Pl+PxSg1+Comp: олмавлӓэмлӓ
      олма+N+PxSg1+Pl+Comp: олмаэмвлӓлӓ
