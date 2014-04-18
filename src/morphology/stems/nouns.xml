@@ -17044,6 +17044,30 @@
 
   <e>
     <lg>
+      <l pos="N">википеди</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">википеди</st>
+      </stg>
+
+      <stress>википе•ди</stress>
+    </lg>
+
+    <sources>
+      <media mediaID="wikipedia"/>
+    </sources>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">wikipedia</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">виктори</l>
 
       <stg>
@@ -17194,7 +17218,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>kts myös пишол</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">virna</t>
@@ -17204,6 +17228,12 @@
         <x>викӹ шуды</x>
 
         <xt>virna</xt>
+      </xg>
+
+      <xg>
+        <x>викӹм салаш кеэм (JK)</x>
+
+        <xt>menen niittämään virnaa</xt>
       </xg>
     </mg>
   </e>
@@ -30712,7 +30742,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>kts myös аханицӓлӓнӓш</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">telmiminen</t>
@@ -33616,13 +33646,15 @@
 
       <stg>
         <st Contlex="N_КОЛ">зубрымаш</st>
+
+        <st Contlex="N_КОЛ">тулымаш</st>
       </stg>
 
       <stress>зу•брымаш</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>kts myös тулымаш</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">pänttääminen</t>
@@ -124882,7 +124914,8 @@
       <m>
         <head/>
 
-        <defNative>бот. вязель (Coronílla) пырса йиш гӹц</defNative>
+        <defNative>бот. вязель (Coronílla) пырса йиш гӹц; kts myös
+        викӹ</defNative>
       </m>
 
       <tg xml:lang="fin">
