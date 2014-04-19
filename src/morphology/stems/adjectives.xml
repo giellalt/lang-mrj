@@ -1706,7 +1706,6 @@
       <tg xml:lang="fin">
         <t pos="A">englantilainen</t>
         <td pos="A">englannin (kieli)</td>
-      </tg>
       <xg>
         <x>англ йӹлмӹ</x>
         <xt>englannin kieli</xt>
@@ -1715,6 +1714,7 @@
         <x>тӹдӹ англла яжон шайыштеш (JK)</x>
         <xt>hän puhuu englantia hyvin</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -1750,11 +1750,11 @@
       <tg xml:lang="fin">
         <t pos="A">tuleva</t>
         <te pos="A">tulevaisuudessa tapahtuva</te>
-      </tg>
       <xg>
         <x/>
         <xt/>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -1791,11 +1791,11 @@
         <t pos="A">etumainen</t>
         <t pos="A">etu=</t>
         <t pos="A">edellinen</t>
-      </tg>
       <xg>
         <x>анзыл и</x>
         <xt>sitä edellinen vuosi</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -2199,11 +2199,11 @@
       <tg xml:lang="fin">
         <tf pos="A">puitteilla varustettu</tf>
         <tf pos="A">ikkunaraameilla oleva</tf>
-      </tg>
       <xg>
         <x>аратаан тир</x>
         <xt>reslareki</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -2280,11 +2280,11 @@
       <defNative/>
       <tg xml:lang="fin">
         <t pos="A">harjainen</t>
-      </tg>
       <xg>
         <x>шим аржаан алаша</x>
         <xt>mustaa harjaa omaava hevonen</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -2604,12 +2604,12 @@
       <tg xml:lang="fin">
         <t pos="A">raitis</t>
         <t pos="A">selvä</t>
-      </tg>
       <xg>
         <x>ары вуян</x>
         <xt>selvinpäin oleva</xt>
         <xt>raitis</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -2871,11 +2871,11 @@
       <defNative/>
       <tg xml:lang="fin">
         <tf pos="A">jnkl askeleella oleva</tf>
-      </tg>
       <xg>
         <x>шӹре ашкылан</x>
         <xt>tiheät askeleet</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -4433,11 +4433,11 @@
       <defNative/>
       <tg xml:lang="fin">
         <t pos="A">liemetön</t>
-      </tg>
       <xg>
         <x>бульондымы лем лин ак керд (JK)</x>
         <xt>soppa ei voi olla liemetön</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -4723,11 +4723,11 @@
       <defNative/>
       <tg xml:lang="fin">
         <t pos="A">utarinen</t>
-      </tg>
       <xg>
         <x>изи вадаран ышкал (JK)</x>
         <xt>lehmä jolla on pienet utareet</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -4761,11 +4761,11 @@
         <tf pos="A">iltaisin tapahtuva</tf>
         <tf pos="A">iltaisin oleva</tf>
         <t pos="A">ilta=</t>
-      </tg>
       <xg>
         <x>вадешшӹ концертеш йӓмдӹлӓлтӓш (JK)</x>
         <xt>harjoitella iltakonserttia varten</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -4796,11 +4796,11 @@
       <defNative/>
       <tg xml:lang="fin">
         <t pos="A">haltia=</t>
-      </tg>
       <xg>
         <x>вадыжан йӓр вуйта улы маныт (JK)</x>
         <xt>on mukamas olemassa järvi jossa elää haltia</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -4847,11 +4847,11 @@
       <tg xml:lang="fin">
         <t pos="A">=juurinen</t>
         <t pos="A">=vartaloinen</t>
-      </tg>
       <xg>
         <x>ик важан шамаквлӓ (JK)</x>
         <xt>yksivartaloiset sanat</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -4867,13 +4867,13 @@
       <tg xml:lang="fin">
         <t pos="A">koppurainen</t>
         <t pos="A">juovikas</t>
-      </tg>
       <xg>
         <x>важаран пу</x>
         <xt>vääristynyt puu</xt>
         <xt>koppurainen puu</xt>
         <xt>корявая древесина</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -4903,12 +4903,12 @@
       <defNative/>
       <tg xml:lang="fin">
         <t pos="A">risteyksellinen</t>
-      </tg>
       <xg>
         <x>важикӓн корны (JK)</x>
         <xt>risteyksellinen tie</xt>
         <xt>haarainen tie</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -4955,7 +4955,6 @@
       <tg xml:lang="fin">
         <t pos="A">piikkinen</t>
         <t pos="A">haarainen</t>
-      </tg>
       <xg>
         <x>важын шеньӹк (Сав)</x>
         <xt>puinen talikko</xt>
@@ -4965,6 +4964,7 @@
         <x>важын ялаш доно кыргыжталаш (JK)</x>
         <xt>juoksennella pienlasten housuisillaan</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -5012,7 +5012,6 @@
         <t pos="A">vaalea</t>
         <t pos="A">-sävyinen</t>
         <t pos="A">-vivahteinen</t>
-      </tg>
       <xg>
         <x>сары валган пеледӹш (1981:17)</x>
         <xt>vaalean keltainen kukka</xt>
@@ -5023,6 +5022,7 @@
         <xt>kirkas taivas</xt>
         <xt>pilvitön taivas</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -5042,7 +5042,6 @@
         <t pos="A">vaalea</t>
         <t pos="A">selkeä (JK)</t>
         <t pos="A">kirkas</t>
-      </tg>
       <xg>
         <x>йыдым валгыды ыльы (JK)</x>
         <xt>yöllä oli valoisaa</xt>
@@ -5051,6 +5050,7 @@
         <x>соты валган пӹлгом</x>
         <xt>kirkas taivas</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -5145,11 +5145,11 @@
       <tg xml:lang="fin">
         <tf pos="A">halkeamilla oleva</tf>
         <tf pos="A">halkeamia sisältävä</tf>
-      </tg>
       <xg>
         <x>варакаан пӱшӓнгӹ (1981:18)</x>
         <xt>halkeamia sisältävä puu</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -5183,7 +5183,6 @@
         <t pos="A">muu</t>
         <td pos="A">=jälkeinen</td>
         <td pos="A">=puoli esim. perheenjäsenenä: вараш ӓтя - isäpuoli</td>
-      </tg>
       <xg>
         <x>вараш ӓтя (JK)</x>
         <xt>isäpuoli</xt>
@@ -5192,6 +5191,7 @@
         <x>вырсы гӹц варашы жеп (JK)</x>
         <xt>sodanjälkeinen aika</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -5254,7 +5254,6 @@
         <t pos="A">pumpulinen</t>
         <t pos="A">pumpuli=</t>
         <t pos="A">vanu=</t>
-      </tg>
       <xg>
         <x>ваткан ала (JK)</x>
         <xt>pumpulipeitto</xt>
@@ -5263,6 +5262,7 @@
         <x>ваткан мӹжӓр (1981:18)</x>
         <xt>vanukaftaani</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -5405,11 +5405,11 @@
       <tg xml:lang="fin">
         <t pos="A">=tähteinen</t>
         <t pos="A">likainen (JK)</t>
-      </tg>
       <xg>
         <x>тарык велӹкӓн цӓшкӓ (JK)</x>
         <xt>kuppi on piimäntähteinen</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -5458,11 +5458,11 @@
         <t pos="A">pystysuora</t>
         <t pos="A">luotisuora</t>
         <t pos="A">vertikaalinen</t>
-      </tg>
       <xg>
         <x>вертикальный корны</x>
         <xt>pystysuora viiva</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -5984,7 +5984,6 @@
         <t pos="A">ohut</t>
         <t pos="A">harva</t>
         <t pos="A">heikko</t>
-      </tg>
       <xg>
         <x>вишкӹдӹ лем</x>
         <xt>laiha keitto</xt>
@@ -5993,6 +5992,7 @@
         <x>вишкӹдӹ ӱп</x>
         <xt>ohuet hiukset</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -6076,7 +6076,6 @@
       <tg xml:lang="fin">
         <t pos="A">suora</t>
         <t pos="A">suorarunkoinen</t>
-      </tg>
       <xg>
         <x>виӓш ӱп (1981:21)</x>
         <xt>suorat hiukset</xt>
@@ -6085,6 +6084,7 @@
         <x>виӓш пӱшӓнгӹ (1981:21)</x>
         <xt>suorarunkoinen puu</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -6541,11 +6541,11 @@
       <tg xml:lang="fin">
         <t pos="A">varreton</t>
         <t pos="A">rungoton</t>
-      </tg>
       <xg>
         <x>вурдыдымы кӹзӹ (JK)</x>
         <xt>varreton veitsi</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -6600,7 +6600,6 @@
         <t pos="A">viisas</t>
         <t pos="A">=päinen</t>
         <t pos="A">=tähkäpäinen</t>
-      </tg>
       <xg>
         <x>ары вуян</x>
         <xt>selvinpäin oleva</xt>
@@ -6610,6 +6609,7 @@
         <x>цӓрӓ вуян</x>
         <xt>paljainpäin oleva</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -6722,11 +6722,11 @@
           <t>nopeasti valmistettava</t>
           <re>keitto</re>
         </tCtn>
-      </tg>
       <xg>
         <x>выр кӱшӹ лемӹм пукшем (1981:26)</x>
         <xt>tarjoan nopeasti valmistettua keittoa</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -6743,12 +6743,12 @@
         <t pos="A">pukeutunut</t>
         <tf pos="A">pukeissa oleva</tf>
         <tf pos="A">=pukeutunut</tf>
-      </tg>
       <xg>
         <x>яжо выргемӓн (JK)</x>
         <xt>hyvin pukeutunut</xt>
         <xt>tyylikkäästi pukeutunut</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -6763,11 +6763,11 @@
       <defNative>JK: вырлыкаш тури = семенӓ тури</defNative>
       <tg xml:lang="fin">
         <tf pos="A">siemen=</tf>
-      </tg>
       <xg>
         <x>вырлыкаш пӹрцӹ</x>
         <xt>siemenvilja</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -6842,11 +6842,11 @@
       <defNative>Сав: выцалуан; Васик: выца луан</defNative>
       <tg xml:lang="fin">
         <tf pos="A">=lantioluinen</tf>
-      </tg>
       <xg>
         <x>тӹдӹ ӓнгӹсӹр выцаан (JK)</x>
         <xt>hänellä on kapeat lantioluut</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -6970,12 +6970,12 @@
       <tg xml:lang="fin">
         <t pos="A">mättäinen</t>
         <t pos="A">kumpurainen</t>
-      </tg>
       <xg>
         <x>вӓршӓкӓӓн вӓр (JK)</x>
         <xt>kumpurainen soinen alue</xt>
         <xt>(suo)kumpurainen alue</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -7057,7 +7057,6 @@
       <tg xml:lang="fin">
         <tf pos="A">=seurauksellinen</tf>
         <tf pos="A">=tähteinen</tf>
-      </tg>
       <xg>
         <x>шадыра вӓшӓкӓн (1981:20)</x>
         <xt>isorokon jäljillä oleva</xt>
@@ -7066,6 +7065,7 @@
         <x>шадыра вӓшӓкӓн пӱэргӹ (JK)</x>
         <xt>mieshenkilö jolla on isorokon jälkiä (kasvoissa)</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -7207,11 +7207,11 @@
       <tg xml:lang="fin">
         <t pos="A">kostea</t>
         <t pos="A">märkä</t>
-      </tg>
       <xg>
         <x>вӹдӹжгӹ рок</x>
         <xt>kostea maaperä</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -8712,11 +8712,11 @@
         <tf pos="A">siviili=</tf>
         <t pos="A">avoliittoinen</t>
         <tf pos="A">kansalais=</tf>
-      </tg>
       <xg>
         <x>гражданский бракышты ӹлӓт (JK)</x>
         <xt>asuvat avoliitossa</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -8765,11 +8765,11 @@
       <tg xml:lang="fin">
         <t pos="A">grammaattinen</t>
         <t pos="A">kielioppillinen</t>
-      </tg>
       <xg>
         <x>тӹньӹн грамматический самыньвлӓэт шукы (JK)</x>
         <xt>sinulla on paljon kielioppillisia virheitä</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -9247,12 +9247,12 @@
       <defNative/>
       <tg xml:lang="fin">
         <tf pos="A">telaketju=</tf>
-      </tg>
       <xg>
         <x>гусеницӓн трактор (JK)</x>
         <xt>tankkitraktori</xt>
         <xt>telaketjutraktori</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -10682,11 +10682,11 @@
       <defNative/>
       <tg xml:lang="fin">
         <t pos="A">ikuinen</t>
-      </tg>
       <xg>
         <x>жепӓн агыл (1981:31)</x>
         <xt>ei ole ikuinen</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -10705,11 +10705,11 @@
       <tg xml:lang="rus">
         <t pos="A">впору</t>
         <tf pos="A">как раз</tf>
-      </tg>
       <xg>
         <x>калпакем жепӓш (1981:31)</x>
         <xt>hattuni on (parahiksi) sopiva</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -42085,7 +42085,6 @@
         <t pos="A">уединённый</t>
         <t pos="A">укромный</t>
         <t pos="A">свободный</t>
-      </tg>
       <xg>
         <x>олак вӓр (1981:106)</x>
         <xt>rauhaisa paikka</xt>
@@ -42098,6 +42097,7 @@
         <x>вӓкш олак (1981:106)</x>
         <xt>myllyllä on hiljaista</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -63981,11 +63981,11 @@
           <t>kapea</t>
           <re>tie</re>
         </tCtn>
-      </tg>
       <xg>
         <x>тор когокорны доно кыдалмы ак шо (JK)</x>
         <xt>kapealla maantiellä ei haluaisi ajaa</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -65042,7 +65042,6 @@
         <t pos="A">synnyin=</t>
         <t pos="A">syntymä=</t>
         <td pos="A">ilmaisussa äidinkieli туан йӹлмӹ</td>
-      </tg>
       <xg>
         <x>туан йӹлмӹ</x>
         <xt>äidinkieli</xt>
@@ -65051,6 +65050,7 @@
         <x>туан велем (JK)</x>
         <xt>kotiseutuni</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -65793,12 +65793,12 @@
       <defNative/>
       <tg xml:lang="fin">
         <t pos="A">hiljainen</t>
-      </tg>
       <xg>
         <x>тып лиӓш (1981:168)</x>
         <xt>tulla hiljaiseksi</xt>
         <xt>hiljeentyä</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -65819,12 +65819,12 @@
         <t pos="A">leppoisa</t>
         <t pos="A">seesteinen</t>
         <t pos="A">tyyni</t>
-      </tg>
       <xg>
         <x>тыр вӓр (JK)</x>
         <xt>rauhallinen paikka</xt>
         <xt>hiljainen paikka</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -66912,11 +66912,11 @@
       <defNative>JK (пыртенӓм) Саваткован фразы семӹнь (1981:166)</defNative>
       <tg xml:lang="fin">
         <t pos="A">vastenmielinen</t>
-      </tg>
       <xg>
         <x>тӱэшлӓ эдем (1981:166)</x>
         <xt>vastenmielinen ihminen</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -81449,11 +81449,11 @@
       <defNative>JK (пыртенӓм); kts myös ADV</defNative>
       <tg xml:lang="fin">
         <t pos="A">kuherrus=</t>
-      </tg>
       <xg>
         <x>ӱӓк-мӱӓк жеп (1992:58)</x>
         <xt>kuherruskuukausi</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -81787,12 +81787,12 @@
         <t pos="A">luottavainen</t>
         <t pos="A">luottava</t>
         <t pos="A">vakuuttunut</t>
-      </tg>
       <xg>
         <x>йымылан ӹнянӹшӹ (JK)</x>
         <xt>uskonnollinen</xt>
         <xt>jumalaanuskovainen (mhr)</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
