@@ -33,12 +33,12 @@
         <t pos="Pcle">-pA</t>
         <td pos="Pcle">imperatiiviverbin liittepartikkelina ilmaisee
         kohteliasta käskyä tai pyyntöä</td>
-      </tg>
       <xg>
         <x>Сирмӓшетӹм колтай! (JK)</x>
         <xt>Voisitko lähettää kirjeesi.</xt>
         <xt>Lähetäpä nyt kirjesi.</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -169,12 +169,12 @@
       <tg xml:lang="fin">
         <td pos="Pcle">tämän vastineeksi käytetään suomen kielessä
         konditionaalia</td>
-      </tg>
       <xg>
         <x>Соромно вый кешӹц</x>
         <xt>Silti menisit</xt>
         <xt>siltihän menisit</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -208,7 +208,6 @@
         <t pos="Pcle">-hän</t>
         <t pos="Pcle">oikeasti</t>
         <t pos="Pcle">vältämättä</t>
-      </tg>
       <xg>
         <x>Келешок вӓл?</x>
         <xt>Tarvitseeko oikeasti?</xt>
@@ -218,6 +217,7 @@
         <x>Кышты каштат вӓл?</x>
         <xt>Missähän viivyttelet?</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -235,7 +235,6 @@
         <t pos="Pcle">-han</t>
         <t pos="Pcle">-hän</t>
         <t pos="Pcle">-pA</t>
-      </tg>
       <xg>
         <x>Ӹшке гӹнь кеӓ</x>
         <xt>Itsepä menee</xt>
@@ -244,6 +243,7 @@
         <x>Шыжаржы гӹнь когон мышта.</x>
         <xt>taas hänen pikkusiskonsa osaa tosi hyvin</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -262,11 +262,11 @@
         <t pos="Pcle">-hän</t>
         <t pos="Pcle">-pa</t>
         <t pos="Pcle">-pä</t>
-      </tg>
       <xg>
         <x>Ӹшкежӹ гӹньӹ тамамат нӓлеш</x>
         <xt>Itsehän ostelee vaikka mitä</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -281,7 +281,6 @@
       <defNative>Саваткова: неопр.част. (JK: adverbi)</defNative>
       <tg xml:lang="fin">
         <t pos="Pcle">-kin</t>
-      </tg>
       <xg>
         <x>кӱ-гӹнят толеш сӓй</x>
         <xt>ehkä joku tulee</xt>
@@ -290,6 +289,7 @@
         <x>тӹнь мам-гӹнят дӓ пӓлет</x>
         <xt>sinäpä tiedät jotakin</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -304,11 +304,11 @@
       <defNative>даже</defNative>
       <tg xml:lang="fin">
         <t pos="Pcle">jopa</t>
-      </tg>
       <xg>
         <x>мӹнят дажы ужынам</x>
         <xt>jopa minäkin olen nähnyt</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -327,7 +327,6 @@
         <t pos="Pcle">näemmä</t>
         <t pos="Pcle">-pA</t>
         <t pos="Pcle">justiinsa</t>
-      </tg>
       <xg>
         <x>мӹнь тенге ӹштем доко</x>
         <xt>minäpä teen näin</xt>
@@ -336,6 +335,7 @@
         <x>шоляжы тӹштӹ пӓшӓлӓ доко</x>
         <xt>hänen pikkuveljensä näemmä työskentelee siellä</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -354,11 +354,11 @@
         <t pos="Pcle">-hän</t>
         <t pos="Pcle">-pa</t>
         <t pos="Pcle">-pä</t>
-      </tg>
       <xg>
         <x>тенге дык яра</x>
         <xt>niin taas sopii</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -375,11 +375,11 @@
       <tg xml:lang="fin">
         <t pos="Pcle">niin</t>
         <t pos="Pcle">niinpä</t>
-      </tg>
       <xg>
         <x>Дӓ, тӧрӧкок ат чонгештӹ (1981:30)</x>
         <xt>Niinpä, et voi lentää heti</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -398,7 +398,6 @@
         <t pos="Pcle">-hän</t>
         <t pos="Pcle">-pa</t>
         <t pos="Pcle">-pä</t>
-      </tg>
       <xg>
         <x>тенгеок и келеш! (1981:33)</x>
         <xt>niin sitä pitää!</xt>
@@ -407,6 +406,7 @@
         <x>тӹдок попен и (1981:33)</x>
         <xt>hänhän sanoi</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -422,7 +422,6 @@
       pcle (-ko разве); (усилительн.част) jopa</defNative>
       <tg xml:lang="fin">
         <t pos="Pcle">jopa</t>
-      </tg>
       <xg>
         <x>Тӹдӹ канден ижӹ пуа. (1981:33)</x>
         <xt>Hän jopa tuo perille asti.</xt>
@@ -431,6 +430,7 @@
         <x>Ижӹ пӹтӓри ма? (1981:33)</x>
         <xt>Onko ensimmäistä kertaa?</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -594,11 +594,11 @@
         Annapa! (mutta kohteliaampaa ilmaisua)</td>
         <td pos="Pcle">tämä imperatiivipartikkeli verbin yhteydessä tarkoittaa
         Anna mun tehdä, anna meidän tehdä.</td>
-      </tg>
       <xg>
         <x>Кадай ӹштем! (JK)</x>
         <xt>Annapas minä teen.</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -613,11 +613,11 @@
       <defNative/>
       <tg xml:lang="fin">
         <td pos="Pcle">äkinnäisen toiminnan ilmaisu verbin yhteydessä</td>
-      </tg>
       <xg>
         <x>тӹдӹ как сӹгӹрӓл колтыш (JK)</x>
         <xt>hän kun karjahti</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -665,11 +665,11 @@
       <tg xml:lang="fin">
         <t pos="Pcle">edes</t>
         <t pos="Pcle">vaikka</t>
-      </tg>
       <xg>
         <x>керек ик шаям ыдырал</x>
         <xt>kirjoita edes yksi sana</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -684,7 +684,6 @@
       <defNative>Саваткова: частица</defNative>
       <tg xml:lang="fin">
         <t pos="Pcle">oikeastiko</t>
-      </tg>
       <xg>
         <x>Коли агыл вӓл?</x>
         <xt>Eikö olekaan niin?</xt>
@@ -697,6 +696,7 @@
         <x>Коли тенге ӹштен?</x>
         <xt>Ihanko tosiaan teki näin?</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -733,11 +733,11 @@
       </tg>
       <tg xml:lang="rus">
         <t pos="Pcle">бы</t>
-      </tg>
       <xg>
         <x/>
         <xt/>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -890,11 +890,11 @@
       <tg xml:lang="fin">
         <t pos="Pcle">just</t>
         <tf pos="Pcle">justiinsa</tf>
-      </tg>
       <xg>
         <x>тидӹ самой тенге и ылеш (JK)</x>
         <xt>tämä onkin justiinsa näin</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -911,11 +911,11 @@
         <tf pos="Pcle">tosi paljon</tf>
         <tf pos="Pcle">ollenkaan</tf>
         <t pos="Pcle">pahus</t>
-      </tg>
       <xg>
         <x>смӧрт техеньӹм ам яраты (2008:250)</x>
         <xt>en tykkää ollenkaan tällaista</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
@@ -1110,7 +1110,6 @@
         <td pos="Pcle">imperatiiviverbin liittepartikkelina ilmaisee
         kohteliasta käskyä</td>
         <tf pos="Pcle">=pA</tf>
-      </tg>
       <xg>
         <x>Ӓй тидӹмӓт ӹштен ам керд? (JK)</x>
         <xt>Enkös mukamas pysty tekemään tätäkään.</xt>
@@ -1119,6 +1118,7 @@
         <x>Урокетӹм ӹштӓй! (JK)</x>
         <xt>Teepä kotiläksyjäsi!</xt>
       </xg>
+     </tg>
     </mg>
   </e>
   <e>
