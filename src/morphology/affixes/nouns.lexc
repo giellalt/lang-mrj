@@ -440,7 +440,7 @@ LEXICON PXSG1-PL-LAT
 +PxSg1+Pl+Lat:%>емвлӓш   K  ;
 
 LEXICON PXSG1-PL-NOM 
-+Pl+Nom+PxSg1:%>влӓэм	   K  ;
++Pl+PxSg1+Nom:%>влӓэм	   K  ;
 +PxSg1+Pl+Nom:%>емвлӓ	   K  ;
 
 !!
@@ -635,7 +635,7 @@ LEXICON PXPL1-SG-INE
 +Sg+Ine+PxPl1:%>%{ыӹØ%}шт%{ыӹØ%}%>н%{аӓ%}	K	;
 
 LEXICON PXPL1-SG-LAT 
-+Sg+Lat+PxPl1:%>ешн%{аӓ%}	K	;
++Sg+Lat+PxPl1:%>еш%>н%{аӓ%}	K	;
 
 LEXICON PXPL1-SG-NOM 
 +Sg+PxPl1+Nom:%>н%{аӓ%}	K	;
