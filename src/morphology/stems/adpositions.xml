@@ -7,1626 +7,2251 @@
   <e>
     <lg>
       <l pos="Po">ваштареш</l>
+
       <stg>
         <st Contlex="POSTP_">ваштареш</st>
       </stg>
+
       <stress>вашта•реш</stress>
     </lg>
+
     <mg>
       <defNative>vrt тореш</defNative>
+
       <tg xml:lang="fin">
         <t compl="Par" pos="Po">vastaan</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">век</l>
+
       <l_ref pos="Po">векӹ</l_ref>
+
       <stg>
         <st Contlex="POSTP_">век</st>
       </stg>
+
       <stress>век</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t compl="Gen" pos="Po">suuntaan</t>
+
         <t compl="Gen" pos="Po">puoleen</t>
+
         <t compl="Gen" pos="Po">päin</t>
+
         <t compl="Par" pos="Po">kohti</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">векӹ</l>
+
       <l_ref pos="Po">век</l_ref>
+
       <stg>
         <st Contlex="POSTP_">векӹ</st>
       </stg>
+
       <stress>ве•кӹ</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t compl="Gen" pos="Po">suuntaan</t>
+
         <t compl="Gen" pos="Po">puoleen</t>
+
         <t compl="Par" pos="Po">kohti</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">векӹлӓ</l>
+
       <stg>
         <st Contlex="POSTP_">векӹлӓ</st>
       </stg>
+
       <stress>ве•кӹлӓ</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t compl="All" pos="Po">päin</t>
+
         <td pos="Po">johonkin suuntaan</td>
+
         <t compl="Hum:Gen,All" pos="Po">suuntaan</t>
+      </tg>
+
       <xg>
         <x>ти векӹлӓ</x>
+
         <xt>tännepäin</xt>
       </xg>
+
       <xg>
         <x>тӹ векӹлӓ</x>
+
         <xt>sinnepäin</xt>
       </xg>
+
       <xg>
         <x>ӹшке векӹлӓжӹ</x>
+
         <xt>omalle puolelleen</xt>
+
         <xt>itselleen</xt>
       </xg>
-     </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">велдӹк</l>
+
       <stg>
         <st Contlex="POSTP_">велдӹк</st>
       </stg>
+
       <stress>ве•лдӹк</stress>
     </lg>
+
     <mg>
       <m>
         <head/>
+
         <defNative>synonyymi:</defNative>
       </m>
+
       <tg xml:lang="fin">
         <t compl="Gen" pos="Po">takia</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">велен</l>
+
       <stg>
         <st Contlex="POSTP_">велен</st>
       </stg>
+
       <stress>веле•н</stress>
     </lg>
+
     <mg>
       <m>
         <head/>
+
         <defNative/>
       </m>
+
       <tg xml:lang="fin">
         <t compl="Gen" pos="Po">kimpussa</t>
+
         <td pos="Po">luona tai lähellä</td>
+      </tg>
+
       <xg>
         <x>изивлӓ тӹнь веленет пижӹнӹт (1981:20)</x>
+
         <xt>lapset ovat sinun kimpussasi</xt>
+
         <xt>lapset tarrautuivat sinuun</xt>
       </xg>
+
       <xg>
         <x>веленем ит кечӹ! (JK)</x>
+
         <xt>älä kiehnä (minun lähelläni)</xt>
       </xg>
-     </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">велнӹ</l>
+
       <stg>
         <st Contlex="POSTP_">велнӹ</st>
       </stg>
+
       <stress>ве•лнӹ</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t compl="Hum,Gen" pos="Po">puolellа</t>
+
         <t compl="Gen" pos="Po">suunnallа</t>
+
         <t compl="Gen" pos="Po">tahollа</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">велӓ</l>
+
       <stg>
         <st Contlex="POSTP_">велӓ</st>
       </stg>
+
       <stress>ве•лӓ</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <tf pos="Po">vain -silla(an)</tf>
+
         <tf pos="Adv">-silla(an)</tf>
+      </tg>
+
       <xg>
         <x>тыгыр велӓ</x>
+
         <xt>vain paitasillaan</xt>
       </xg>
-     </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">велӓн</l>
+
       <stg>
         <st Contlex="POSTP_">велӓн</st>
       </stg>
+
       <stress>ве•лӓн</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t compl="Gen" pos="Po">puolelle</t>
+
         <t compl="Gen" pos="Po">suunnalle</t>
+
         <t compl="Gen" pos="Po">taholle</t>
+      </tg>
+
       <xg>
         <x>вес велӓн</x>
+
         <xt>toiselle puolelle</xt>
       </xg>
+
       <xg>
         <x>ти велӓн</x>
+
         <xt>tälle puolelle</xt>
       </xg>
-     </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">верц</l>
+
       <stg>
         <st Contlex="POSTP_">верц</st>
       </stg>
+
       <stress>верц</stress>
     </lg>
+
     <mg>
       <!--МаФинМутер: päämäärän ilmaisu (puolesta; tähden; takia; vuoksi); syyn ilmaisu (takia; vuoksi); jnk sijasta; jnk puolesta.  -->
+
       <defNative>puhekielessä mahd: яжо пӓшӓ вец!</defNative>
+
       <tg xml:lang="fin">
         <t compl="Gen" pos="Po">puolesta</t>
+
         <t compl="Gen" pos="Po">tähden</t>
+
         <t compl="Gen" pos="Po">takia</t>
+
         <t compl="Gen" pos="Po">vuoksi</t>
+      </tg>
+
       <xg>
         <x>яжо лӓктӹш верц шалгаш</x>
+
         <xt>hyvien tulosten vuoksi</xt>
       </xg>
-     </tg>
     </mg>
+
     <mg>
       <defNative/>
+
       <tg>
         <t compl="Hum,Gen" pos="Po">sijasta</t>
+
         <t compl="Hum,Gen" pos="Po">puolesta</t>
+      </tg>
+
       <xg>
         <x>ӹшке верцшӹ колтыш</x>
+
         <xt>lähetti itsensä puolesta</xt>
       </xg>
-     </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">верцӹн</l>
+
       <l_ref pos="Po">верц</l_ref>
+
       <stg>
         <st Contlex="POSTP_">верцӹн</st>
       </stg>
+
       <stress>ве•рцӹн</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t compl="Gen" pos="Po">puolesta</t>
+
         <t compl="Gen" pos="Po">tähden</t>
+
         <t compl="Gen" pos="Po">takia</t>
+
         <t compl="Gen" pos="Po">vuoksi</t>
+
         <tCtn>
           <t>мӹнь ӹшке верцӹнем лӱдӓм</t>
+
           <re>minä pelkään itseni takia</re>
         </tCtn>
+
         <t compl="Hum,Gen" pos="Po">sijasta</t>
+
         <t compl="Hum,Gen" pos="Po">puolesta</t>
+
         <tCtn>
           <t>ӹшке верцӹнжӹ колтыш</t>
+
           <re>lähetti itse(ä)nsä puolesta</re>
         </tCtn>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">вец</l>
+
       <l_ref pos="Po">велӹц</l_ref>
+
       <stg>
         <st Contlex="POSTP_">вец</st>
       </stg>
+
       <stress>вец</stress>
     </lg>
+
     <mg>
       <m>
         <head/>
+
         <defNative>Саваткова: вец = велӹц</defNative>
       </m>
+
       <tg xml:lang="fin">
         <t compl="Gen" pos="Po">puoleltа</t>
+
         <tf pos="Po">jltakin suunnaltа</tf>
+      </tg>
+
       <xg>
         <x>хала вец толеш</x>
+
         <xt>tulee kaupungin suunalta</xt>
       </xg>
-     </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">вецӹнлӓ</l>
+
       <stg>
         <st Contlex="POSTP_">вецӹнлӓ</st>
       </stg>
+
       <stress>ве•цӹнлӓ</stress>
     </lg>
+
     <mg>
       <m>
         <head/>
+
         <defNative>вецӹн-postpositiosta muodostettu</defNative>
       </m>
+
       <tg xml:lang="fin">
         <tf pos="Po">jostain jnkin puoleltа</tf>
+
         <tf pos="Po">suunnilleen jltakin suunnaltа</tf>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">воктен</l>
+
       <stg>
         <st Contlex="POSTP_">воктен</st>
       </stg>
+
       <stress>во•ктен</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t compl="Gen" pos="Po">luona</t>
+
         <t compl="Gen" pos="Po">vieressä</t>
+
         <t compl="Gen" pos="Po">ääressä</t>
+
         <t compl="Gen" pos="Po">lähellä</t>
+      </tg>
+
       <xg>
         <x>сола воктен кашташ</x>
+
         <xt>kylän lähellä kuljeskella</xt>
+
         <xt>pyöriä pitkin kylää</xt>
       </xg>
-     </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">вуя</l>
+
       <stg>
         <st Contlex="POSTP_">вуя</st>
       </stg>
+
       <stress>ву•я</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t pos="Po">-päin</t>
+
         <td pos="Po">mm.pukeutunut jhnkin: N (Nom) + вуя esimerkiksi савыц вуя
         "ollessa rättipäinen"</td>
+      </tg>
+
       <xg>
         <x>цӓрӓ вуя</x>
+
         <xt>paljain päin</xt>
       </xg>
+
       <xg>
         <x>ӹшке вуя</x>
+
         <xt>itsenäisesti</xt>
       </xg>
+
       <xg>
         <x>вес вуя шагалтемӓ!</x>
+
         <xt>laitahan toisin päin</xt>
       </xg>
-     </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">вӓреш</l>
+
       <stg>
         <st Contlex="POSTP_">вӓреш</st>
       </stg>
+
       <stress>вӓ•реш</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t compl="Hum,Gen" pos="Po">asemesta</t>
+
         <t compl="Hum,Gen" pos="Po">sijaan</t>
+
         <t compl="Gen" pos="Po">sijasta</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">вӹкӹ</l>
+
       <stg>
         <st Contlex="POSTP_">вӹкӹ</st>
       </stg>
+
       <stress>вӹ•кӹ</stress>
     </lg>
+
     <mg>
       <m>
         <head/>
+
         <defNative>вӹлкӹ</defNative>
       </m>
+
       <tg xml:lang="fin">
         <t compl="Gen" pos="Po">päälle</t>
+
         <t compl="Gen" pos="Po">ylle</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">вӹкӹлӓ</l>
+
       <stg>
         <st Contlex="POSTP_">вӹкӹлӓ</st>
       </stg>
+
       <stress>вӹ•кӹлӓ</stress>
     </lg>
+
     <mg>
       <m>
         <head/>
+
         <defNative>рашемдӹмӹлӓ..</defNative>
       </m>
+
       <tg xml:lang="fin">
         <t compl="Gen" pos="Po">päällepäin</t>
+
         <tf pos="Po">suunnilleen jnkin ylle</tf>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">вӹлец</l>
+
       <stg>
         <st Contlex="POSTP_">вӹлец</st>
       </stg>
+
       <stress>вӹле•ц</stress>
     </lg>
+
     <mg>
       <m>
         <head>
           <!--Саваткова: Послелог передается с предлогом "с" (стӧл вӹлец -  со стола); sojuz несмотря на то что (улы вӹлец; попымы вӹлец)-->
         </head>
+
         <defNative/>
       </m>
+
       <tg xml:lang="fin">
         <t compl="Gen" pos="Po">päältä</t>
+
         <t compl="Gen" pos="Po">yltä</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">вӹлец</l>
+
       <stg>
         <st Contlex="POSTP_">вӹлец</st>
       </stg>
+
       <stress>вӹле•ц</stress>
     </lg>
+
     <mg>
       <m>
         <head>
           <!--Саваткова: несмотря на то что (улы вӹлец; попымы вӹлец)-->
         </head>
+
         <defNative/>
       </m>
+
       <tg xml:lang="fin">
         <t pos="Conj">vaikka</t>
+      </tg>
+
       <xg>
         <x>улы вӹлец</x>
+
         <xt>vaikka on olemassa</xt>
       </xg>
+
       <xg>
         <x>попымы вӹлец</x>
+
         <xt>vaikka on sovittu</xt>
       </xg>
-     </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">вӹлкӹ</l>
+
       <stg>
         <st Contlex="POSTP_">вӹлкӹ</st>
       </stg>
+
       <stress>вӹ•лкӹ</stress>
     </lg>
+
     <mg>
       <m>
         <head/>
+
         <defNative>вӹкӹ</defNative>
       </m>
+
       <tg xml:lang="fin">
         <t compl="Gen" pos="Po">päälle</t>
+
         <t compl="Gen" pos="Po">ylle</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">вӹлнӹ</l>
+
       <stg>
         <st Contlex="POSTP_">вӹлнӹ</st>
       </stg>
+
       <stress>вӹ•лнӹ</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t compl="Gen" pos="Po">päällä</t>
+
         <t compl="Gen" pos="Po">yllä</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">вӹлӓн</l>
+
       <stg>
         <st Contlex="POSTP_">вӹлӓн</st>
       </stg>
+
       <stress>вӹ•лӓн</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t compl="Gen" pos="Po">päälle</t>
+
         <t compl="Gen" pos="Po">ylle</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">гань</l>
+
       <stg>
         <st Contlex="POSTP_">гань</st>
       </stg>
+
       <stress>гань</stress>
     </lg>
+
     <mg>
       <m>
         <head/>
+
         <defNative>синоним: ганьы</defNative>
       </m>
+
       <tg xml:lang="fin">
         <t compl="Gen" pos="Po">tapaan</t>
+
         <t compl="Gen" pos="Po">lailla</t>
+
         <tf pos="Conj">(ikään) kuin</tf>
+
         <t pos="Conj">kuten</t>
+
         <tf pos="A">jnkin tapainen</tf>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">ганьок</l>
+
       <stg>
         <st Contlex="POSTP_">ганьок</st>
       </stg>
+
       <stress>га•ньок</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t compl="Gen" pos="Po">tapaan</t>
+
         <t compl="Gen" pos="Po">lailla</t>
+
         <tf pos="Conj">ihan kuten</tf>
+
         <t pos="Adv">melkein</t>
+
         <tf pos="Adv">(oli) vähällä</tf>
+      </tg>
+
       <xg>
         <x>кенвазеш ганьок</x>
+
         <xt>oli vähällä pudota</xt>
       </xg>
+
       <xg>
         <x>нӓлӓм ганьок ыльы</x>
+
         <xt>melkein olin ostamassa</xt>
       </xg>
-     </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">ганьы</l>
+
       <stg>
         <st Contlex="POSTP_">ганьы</st>
       </stg>
+
       <stress>ганьы</stress>
     </lg>
+
     <mg>
       <m>
         <head/>
+
         <defNative>синоним: гань</defNative>
       </m>
+
       <tg xml:lang="fin">
         <t compl="Gen" pos="Po">tapaan</t>
+
         <t compl="Gen" pos="Po">lailla</t>
+
         <tf pos="Conj">(ikään) kuin</tf>
+
         <t pos="Conj">kuten</t>
+
         <tf pos="A">jnkin tapainen</tf>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">гач</l>
+
       <stg>
         <st Contlex="POSTP_">гач</st>
       </stg>
+
       <stress>гач</stress>
     </lg>
+
     <mg>
       <defNative>JK: vrt тореш</defNative>
+
       <tg xml:lang="fin">
         <t>yli; ylitse; poikki</t>
+
         <t compl="Gen" pos="Po">läpi</t>
+
         <t compl="Gen" pos="Po">avulla</t>
+
         <t compl="Gen" pos="Po">kautta</t>
+
         <t compl="Gen" pos="Po">välityksellä</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">гишӓн</l>
+
       <stg>
         <st Contlex="POSTP_">гишӓн</st>
       </stg>
+
       <stress>ги•шӓн</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t>takia; vuoksi</t>
+
         <td>ilmaistaan Elatiivilla: esim. puhua hänestä</td>
+      </tg>
+
       <xg>
         <x>пӓшӓ гишӓн попаш</x>
+
         <xt>puhua työstä</xt>
       </xg>
+
       <xg>
         <x>тӹнь гишӓнет кешнӓ</x>
+
         <xt>menimme sinun takia</xt>
       </xg>
-     </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">годшен</l>
+
       <stg>
         <st Contlex="POSTP_">годшен</st>
       </stg>
+
       <stress>го•дшен</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t>alkaen</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">годым</l>
+
       <stg>
         <st Contlex="POSTP_">годым</st>
       </stg>
+
       <stress>го•дым</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t>aikana</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">гӹц</l>
+
       <stg>
         <st Contlex="POSTP_">гӹц</st>
       </stg>
+
       <stress>гӹц</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t>-sta</t>
+
         <td>ilmaistaan siirtymistä paikasta sm Elatiivilla: esim. poistui
         tallista</td>
+
         <td>kohteen ilmaisu sm Allatiivilla tai Illatiivilla: esim. pitää
         kädestä kiinni</td>
+
         <td>alkuperän ilmaisu sm Elatiivilla: esim. rukiista tehty leipä</td>
+
         <td>keinon ilmaisu sm Elatiivilla: esim. tuntea äänestä</td>
+
         <td>ajan ilmaisu Elat.plus lähtien tai alkaen: tästä viikosta
         lähtien</td>
+
         <td>verbirektio: pelkää heitä - нӹнӹ гӹц лӱдеш</td>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">гӹцӹн</l>
+
       <stg>
         <st Contlex="POSTP_">гӹцӹн</st>
       </stg>
+
       <stress>гӹцӹн</stress>
     </lg>
+
     <mg>
       <m>
         <head/>
+
         <defNative>синоним: гӹц</defNative>
       </m>
+
       <tg xml:lang="fin">
         <t>-sta</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">докы</l>
+
       <stg>
         <st Contlex="POSTP_">докы</st>
       </stg>
+
       <stress>до•кы</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t>luo</t>
+
         <t>luokse</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">доно</l>
+
       <stg>
         <st Contlex="POSTP_">доно</st>
+
         <st Contlex="POSTP_">дон</st>
       </stg>
+
       <stress>до•но</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t pos="Po">kanssa</t>
+
         <t pos="Po">kera</t>
+
         <td>kohteen ilmaisu: sm käytetään Adess.: тум ло доно - tammien
         keskellä</td>
+
         <td>keinon ilmaisu Adessiivillä: машинӓ доно - autolla</td>
+
         <td>syyn ilmaisu: сусу пар доно мыраш - laulaa ilosta</td>
+
         <td>määrän ilmaisu: тӹжемвлӓ доно - tuhansittain</td>
+
         <t/>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">доны</l>
+
       <stg>
         <st Contlex="POSTP_">доны</st>
       </stg>
+
       <stress>до•ны</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t>luona</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">доран</l>
+
       <stg>
         <st Contlex="POSTP_">доран</st>
       </stg>
+
       <stress>до•ран</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t>luokse; viereen</t>
+
         <t>luona; vieressä</t>
+
         <td>paikan ilmaisu Allatiivilla: сравачым нӹнӹ доран кодыш - avaimet
         jätti hetkeksi heille</td>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">дорц</l>
+
       <stg>
         <st Contlex="POSTP_">дорц</st>
       </stg>
+
       <stress>до•рц</stress>
     </lg>
+
     <mg>
       <m>
         <head>
           <!--Lisättävä merkityksiä-->
         </head>
+
         <defNative/>
       </m>
+
       <tg xml:lang="fin">
         <t>luota; vierestä</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">дорцын</l>
+
       <stg>
         <st Contlex="POSTP_">дорцын</st>
       </stg>
+
       <stress>до•рцын</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t>luota; vierestä</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">дӓнгӹнь</l>
+
       <stg>
         <st Contlex="POSTP_">дӓнгӹнь</st>
       </stg>
+
       <stress>дӓ•нгӹнь</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">йӹде</l>
+
       <stg>
         <st Contlex="POSTP_">йӹде</st>
       </stg>
+
       <stress>йӹ•де</stress>
     </lg>
+
     <mg>
       <m>
         <head>
           <!--mhr: еда - joka; jokainen; distributiivinen johdos.
 Саваткова: пӧртӓн йӹде кеӓш mennä koteihinsa; лыдышвлӓм корны йӹде ланзылаш selvittää runoa rivi riviltä-->
         </head>
+
         <defNative/>
       </m>
+
       <tg xml:lang="fin">
         <t>joka</t>
+      </tg>
+
       <xg>
         <x>вады йӹде</x>
+
         <xt>joka ilta</xt>
+
         <xt>iltaisin</xt>
       </xg>
-     </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">йӹр</l>
+
       <stg>
         <st Contlex="POSTP_">йӹр</st>
       </stg>
+
       <stress>йӹр</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t>ympäri</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">кытлашты</l>
+
       <stg>
         <st Contlex="POSTP_">кытлашты</st>
       </stg>
+
       <stress>кытла•шты</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t>kohdalla</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">лишнӹ</l>
+
       <stg>
         <st Contlex="POSTP_">лишнӹ</st>
       </stg>
+
       <stress>ли•шнӹ</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t>lähellä</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">логӹц</l>
+
       <stg>
         <st Contlex="POSTP_">логӹц</st>
       </stg>
+
       <stress>ло•гӹц</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t pos="Po">keskuudesta</t>
+
         <t pos="Po">seasta</t>
+
         <t pos="Po">joukosta</t>
+
         <td>siirtymistä paikasta Elat: стӧл логӹц - pöydästä</td>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">лош</l>
+
       <stg>
         <st Contlex="POSTP_">лош</st>
       </stg>
+
       <stress>ло•ш</stress>
     </lg>
+
     <mg>
       <m>
         <head/>
+
         <defNative>лошкы-n lyhyt muoto</defNative>
       </m>
+
       <tg xml:lang="fin">
         <t pos="Po">keskelle</t>
+
         <t pos="Po">keskuuteen</t>
+
         <t pos="Po">sekaan</t>
+
         <t pos="Po">joukkoon</t>
+
         <t pos="Po">ääreen</t>
+
         <td>paikan ilmaisu Illat: стӧл лош шӹц! - istu pöytään! istu pöydän
         ääreen!</td>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">лошкы</l>
+
       <stg>
         <st Contlex="POSTP_">лошкы</st>
       </stg>
+
       <stress>ло•шкы</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t pos="Po">keskelle</t>
+
         <t pos="Po">keskuuteen</t>
+
         <t pos="Po">sekaan</t>
+
         <t pos="Po">joukkoon</t>
+
         <td>paikan ilmaisu Illat: стӧл лошкы - pöytään</td>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">лошты</l>
+
       <stg>
         <st Contlex="POSTP_">лошты</st>
       </stg>
+
       <stress>ло•шты</stress>
     </lg>
+
     <mg>
       <m>
         <head>
           <!--Lisättävä esimerkkejä-->
         </head>
+
         <defNative/>
       </m>
+
       <tg xml:lang="fin">
         <t pos="Po">keskuudessa</t>
+
         <t pos="Po">seassa</t>
+
         <t pos="Po">joukossa</t>
+
         <t pos="Po">keskellä</t>
+
         <td>paikan ilmaisu Inessiivillä: стӧл лошты - pöydässä</td>
+
         <td>monikon possessiivisuff kanssa ilmaistaan esim. лоштына; лоштыда;
         лоштышты - keskenämme; keskenänne; keskenään</td>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">лоэш</l>
+
       <stg>
         <st Contlex="POSTP_">лоэш</st>
       </stg>
+
       <stress>лоэ•ш</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t pos="Po">väliin</t>
+      </tg>
+
       <xg>
         <x>лоэш кодет</x>
+
         <xt>jätät väliin</xt>
       </xg>
-     </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">лӹвец</l>
+
       <stg>
         <st Contlex="POSTP_">лӹвец</st>
       </stg>
+
       <stress>лӹве•ц</stress>
     </lg>
+
     <mg>
       <m>
         <head/>
+
         <defNative>kts myös: лӹвецӹн</defNative>
       </m>
+
       <tg xml:lang="fin">
         <tf compl="Gen" pos="Po">(esineen) alta</tf>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">лӹвецӹн</l>
+
       <stg>
         <st Contlex="POSTP_">лӹвецӹн</st>
       </stg>
+
       <stress>лӹве•цӹн</stress>
     </lg>
+
     <mg>
       <m>
         <head/>
+
         <defNative>kts myös vrt: лӹвец</defNative>
       </m>
+
       <tg xml:lang="fin">
         <t compl="Gen" pos="Po">alta</t>
+
         <t pos="Adv">alta</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">лӹвӓк</l>
+
       <stg>
         <st Contlex="POSTP_">лӹвӓк</st>
       </stg>
+
       <stress>лӹвӓ•к</stress>
     </lg>
+
     <mg>
       <m>
         <head/>
+
         <defNative>лӹвӓкӹ</defNative>
       </m>
+
       <tg xml:lang="fin">
         <t compl="Gen" pos="Po">alle</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">лӹвӓкӹ</l>
+
       <stg>
         <st Contlex="POSTP_">лӹвӓкӹ</st>
       </stg>
+
       <stress>лӹвӓ•кӹ</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t compl="Gen" pos="Po">alle</t>
+
         <t pos="Adv">alle</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">лӹвӓлнӹ</l>
+
       <stg>
         <st Contlex="POSTP_">лӹвӓлнӹ</st>
       </stg>
+
       <stress>лӹвӓ•лнӹ</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t pos="Po">alla</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">лӹвӓлӓн</l>
+
       <stg>
         <st Contlex="POSTP_">лӹвӓлӓн</st>
       </stg>
+
       <stress>лӹвӓ•лӓн</stress>
     </lg>
+
     <mg>
       <m>
         <head/>
+
         <defNative>vrt epäsäännöllinen Lat-merkityksellinen paikallisadverbi
         лӹвӓл-</defNative>
       </m>
+
       <tg xml:lang="fin">
         <t pos="Po">alle</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">лӹвӓц</l>
+
       <stg>
         <st Contlex="POSTP_">лӹвӓц</st>
       </stg>
+
       <stress>лӹвӓ•ц</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t>alta</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">лӹвӓцӹн</l>
+
       <stg>
         <st Contlex="POSTP_">лӹвӓцӹн</st>
       </stg>
+
       <stress>лӹвӓ•цӹн</stress>
     </lg>
+
     <mg>
       <m>
         <head/>
+
         <defNative>синоним: лӹвӓц</defNative>
       </m>
+
       <tg xml:lang="fin">
         <t>alta</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">лӹмеш</l>
+
       <stg>
         <st Contlex="POSTP_">лӹмеш</st>
       </stg>
+
       <stress>лӹ•меш</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t>nimeen; nimessä</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">мыч</l>
+
       <stg>
         <st Contlex="POSTP_">мыч</st>
       </stg>
+
       <stress>мы•ч</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">мычец</l>
+
       <stg>
         <st Contlex="POSTP_">мычец</st>
       </stg>
+
       <stress>мыче•ц</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">мычкы</l>
+
       <stg>
         <st Contlex="POSTP_">мычкы</st>
       </stg>
+
       <stress>мы•чкы</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t>pitkin</t>
+
         <t>läpi</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">мычны</l>
+
       <stg>
         <st Contlex="POSTP_">мычны</st>
       </stg>
+
       <stress>мы•чны</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">мычыц</l>
+
       <stg>
         <st Contlex="POSTP_">мычыц</st>
       </stg>
+
       <stress>мы•чыц</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">мӱнкӧ</l>
+
       <stg>
         <st Contlex="POSTP_">мӱнкӧ</st>
       </stg>
+
       <stress>мӱнкӧ</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">нӓрӹ</l>
+
       <stg>
         <st Contlex="POSTP_">нӓрӹ</st>
       </stg>
+
       <stress>нӓ•рӹ</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">паштек</l>
+
       <stg>
         <st Contlex="POSTP_">паштек</st>
       </stg>
+
       <stress>па•штек</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t>jälkeen</t>
+
         <t>perään</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">пелен</l>
+
       <stg>
         <st Contlex="POSTP_">пелен</st>
       </stg>
+
       <stress>пе•лен</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">сага</l>
+
       <stg>
         <st Contlex="POSTP_">сага</st>
       </stg>
+
       <stress>са•га</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t>vieressä</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">семӹнь</l>
+
       <stg>
         <st Contlex="POSTP_">семӹнь</st>
       </stg>
+
       <stress>се•мӹнь</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">сылны</l>
+
       <stg>
         <st Contlex="POSTP_">сылны</st>
       </stg>
+
       <stress>сы•лны</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">темӹнь</l>
+
       <stg>
         <st Contlex="POSTP_">темӹнь</st>
       </stg>
+
       <stress>те•мӹнь</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">тервен</l>
+
       <stg>
         <st Contlex="POSTP_">тервен</st>
       </stg>
+
       <stress>те•рвен</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t compl="Par" pos="Po">kohti</t>
+
         <t compl="Gen" pos="Po">kimpussa</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">тореш</l>
+
       <stg>
         <st Contlex="POSTP_">тореш</st>
+
         <st Contlex="POSTP_">гач</st>
       </stg>
+
       <stress>то•реш</stress>
     </lg>
+
     <mg>
       <defNative>ӧлицӓ тореш = ӧлицӓ гач (1981:161)</defNative>
+
       <tg xml:lang="fin">
         <t compl="Par" pos="Po">poikin</t>
+
         <t compl="Gen" pos="Po">poikki</t>
+
         <t compl="Gen" pos="Po">yli</t>
+      </tg>
+
       <xg>
         <x>ӧлицӓ тореш (1981:161)</x>
+
         <xt>kadun yli</xt>
+
         <xt>kadun poikki tai kadun poikitse</xt>
+
         <xt>poikki kadun</xt>
+
         <xt>katua poikin</xt>
       </xg>
+
       <xg>
         <x>корны тореш (1981:161)</x>
+
         <xt>tien yli</xt>
       </xg>
-     </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">туре</l>
+
       <stg>
         <st Contlex="POSTP_">туре</st>
       </stg>
+
       <stress>ту•ре</stress>
     </lg>
+
     <mg>
       <defNative>kts myös ADV турештӹ</defNative>
+
       <tg xml:lang="fin">
         <t pos="Po">kohdalla</t>
+      </tg>
+
       <xg>
         <x>вуем туре кӱшнӹ тама царгалт кеш (1957:10)</x>
+
         <xt>pääni kohdalla jokin rasahti</xt>
       </xg>
-     </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">турешкӹ</l>
+
       <stg>
         <st Contlex="POSTP_">турешкӹ</st>
       </stg>
+
       <stress>туре•шкӹ</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t compl="Gen" pos="Po">kohdalle</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">турештӹ</l>
+
       <stg>
         <st Contlex="POSTP_">турештӹ</st>
       </stg>
+
       <stress>туре•штӹ</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t compl="Gen" pos="Po">kohdalla</t>
+
         <t compl="Par" pos="Po">vastapäätä</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">утла</l>
+
       <stg>
         <st Contlex="POSTP_">утла</st>
       </stg>
+
       <stress>утла•</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">шагышеш</l>
+
       <stg>
         <st Contlex="POSTP_">шагышеш</st>
       </stg>
+
       <stress>шагы•шеш</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">шайык</l>
+
       <stg>
         <st Contlex="POSTP_">шайык</st>
       </stg>
+
       <stress>ша•йык</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">шайыкы</l>
+
       <stg>
         <st Contlex="POSTP_">шайыкы</st>
       </stg>
+
       <stress>ша•йыкы</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">шайылан</l>
+
       <stg>
         <st Contlex="POSTP_">шайылан</st>
       </stg>
+
       <stress>ша•йылан</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">шайылны</l>
+
       <stg>
         <st Contlex="POSTP_">шайылны</st>
       </stg>
+
       <stress>ша•йылны</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t>takana</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">шайыц</l>
+
       <stg>
         <st Contlex="POSTP_">шайыц</st>
       </stg>
+
       <stress>ша•йыц</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">шайыцын</l>
+
       <stg>
         <st Contlex="POSTP_">шайыцын</st>
       </stg>
+
       <stress>ша•йыцын</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">шакшеш</l>
+
       <stg>
         <st Contlex="POSTP_">шакшеш</st>
       </stg>
+
       <stress>ша•кшеш</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">шот</l>
+
       <stg>
         <st Contlex="POSTP_">шот</st>
       </stg>
+
       <stress>шот</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">шотеш</l>
+
       <stg>
         <st Contlex="POSTP_">шотеш</st>
       </stg>
+
       <stress>шотеш</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">шотышты</l>
+
       <stg>
         <st Contlex="POSTP_">шотышты</st>
       </stg>
+
       <stress>шо•тышты</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Po">якте</l>
+
       <stg>
         <st Contlex="POSTP_">якте</st>
       </stg>
+
       <stress>я•кте</stress>
     </lg>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t/>
       </tg>
