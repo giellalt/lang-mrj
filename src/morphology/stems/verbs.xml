@@ -41998,10 +41998,16 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав уке.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">ahtautua</t>
+
+        <tf pos="V">painautua jtkt vasten</tf>
+
+        <tf pos="V">puristautua yhteen</tf>
+
+        <td pos="V">kyyhöttää (JK)</td>
       </tg>
     </mg>
   </e>
@@ -42811,7 +42817,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V">tulla</t>
+        <tf pos="V">tulla sisään</tf>
 
         <t pos="V">astua</t>
 
@@ -42831,7 +42837,15 @@
       <xg>
         <x>толын пыраш</x>
 
-        <xt>tulla sisälle</xt>
+        <xt>ilmestyä yllättäen</xt>
+
+        <xt>ilmestyä odottamattomasti</xt>
+      </xg>
+
+      <xg>
+        <x/>
+
+        <xt/>
       </xg>
     </mg>
   </e>
@@ -44046,6 +44060,8 @@
 
       <tg xml:lang="fin">
         <t pos="V">nukkua</t>
+
+        <t pos="V">koisata</t>
 
         <t pos="V">tutia</t>
       </tg>
@@ -45797,7 +45813,15 @@
         <t pos="V">kietoutua</t>
 
         <t pos="V">kääriytyä</t>
+
+        <t pos="V">kiertyä</t>
       </tg>
+
+      <xg>
+        <x>пӹтӹрнӓлт шӹнзӓш (JK)</x>
+
+        <xt>sotkeutua</xt>
+      </xg>
     </mg>
   </e>
 
@@ -45836,7 +45860,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <t pos="V">ruuvata</t>
+
+        <tf pos="V">kiristää tiukemmaksi</tf>
+
         <tf pos="V">kiertää pienemmäksi</tf>
+
+        <t pos="V">pika-kääriä</t>
+
+        <t pos="V">kietoa</t>
       </tg>
     </mg>
   </e>
@@ -54705,7 +54737,7 @@
       <m>
         <head/>
 
-        <defNative>олма тотанг шӹнзӹн</defNative>
+        <defNative/>
       </m>
 
       <tg xml:lang="fin">
@@ -54719,6 +54751,12 @@
           <re>hedelmistä</re>
         </tCtn>
       </tg>
+
+      <xg>
+        <x>олма тотанг шӹнзӹн</x>
+
+        <xt>omena on saanut makeutta</xt>
+      </xg>
     </mg>
   </e>
 
@@ -66111,7 +66149,7 @@
       <m>
         <head/>
 
-        <defNative>йӓл вӹкӹ шален шӹнзетӹш!</defNative>
+        <defNative/>
       </m>
 
       <tg xml:lang="fin">
@@ -66121,6 +66159,12 @@
 
         <t pos="V">sälyttää</t>
       </tg>
+
+      <xg>
+        <x>йӓл вӹкӹ шален шӹнзетӹш!</x>
+
+        <xt>sinähän sälytät työt muille (JK)</xt>
+      </xg>
     </mg>
   </e>
 
@@ -66169,6 +66213,14 @@
 
         <td pos="V">ilmaisee tekemisen kestämistä tai jatkumista</td>
       </tg>
+
+      <xg>
+        <x>мам анжен шалгет? (JK)</x>
+
+        <xt>mitä tuijotat?</xt>
+
+        <xt>mitä katsot lakkaamatta?</xt>
+      </xg>
     </mg>
   </e>
 
@@ -66273,14 +66325,30 @@
       <m>
         <head/>
 
-        <defNative>пецкӓ шалдырген шӹнзӹн</defNative>
+        <defNative>perenosn. расстраиваться (о деле)</defNative>
       </m>
 
       <tg xml:lang="fin">
         <t pos="V">haristua</t>
 
         <t pos="V">ravistua</t>
+
+        <td pos="V">terveydentilasta viluttaa tai pakottaa</td>
       </tg>
+
+      <xg>
+        <x>монгыр шалдырга (1981:195)</x>
+
+        <xt>viluttaa</xt>
+
+        <xt>selkää pakottaa</xt>
+      </xg>
+
+      <xg>
+        <x>пецкӓ шалдырген шӹнзӹн (1981:195)</x>
+
+        <xt>tynnyri on pahasti haristunut</xt>
+      </xg>
     </mg>
   </e>
 
@@ -67974,6 +68042,12 @@
 
         <t pos="V">kihistä</t>
       </tg>
+
+      <xg>
+        <x>вӹд шолаш пырыш (JK)</x>
+
+        <xt>vesi kiehahti</xt>
+      </xg>
     </mg>
   </e>
 
@@ -73616,6 +73690,18 @@
 
         <td pos="V">ilmaisee tekemisen hetkellisyyttä tai päättyneisyyttä</td>
       </tg>
+
+      <xg>
+        <x>лемӹм шолташ шӹндӓш (JK)</x>
+
+        <xt>alkaa laittamaan keittoa (liter: keittoa kiehumaan laittaa)</xt>
+      </xg>
+
+      <xg>
+        <x>вӹр лӓкмеш парнявлӓжӹм шырал шӹндӓ</x>
+
+        <xt>pisti varpaansa verille</xt>
+      </xg>
     </mg>
   </e>
 
@@ -73664,11 +73750,11 @@
 
         <t pos="V">istutella</t>
 
-        <t pos="V">laittaa usein kasvamaan</t>
+        <tf pos="V">laittaa usein kasvamaan</tf>
 
-        <t pos="V">asetella istumaan</t>
+        <tf pos="V">asetella istumaan</tf>
 
-        <t pos="V">kehotella istumaan</t>
+        <tf pos="V">kehotella istumaan</tf>
       </tg>
     </mg>
   </e>
@@ -73708,15 +73794,9 @@
       </tg>
 
       <xg>
-        <x>вӹр лӓкмеш парнявлӓжӹм шырал шӹндӓ</x>
+        <x>пӧкенӹш пырен шӹнзӹ (JK)</x>
 
-        <xt>pisti varpaansa verille</xt>
-      </xg>
-
-      <xg>
-        <x/>
-
-        <xt/>
+        <xt>istahti tuolille</xt>
       </xg>
     </mg>
   </e>
@@ -73742,6 +73822,12 @@
 
         <t pos="V">sijata</t>
       </tg>
+
+      <xg>
+        <x>телевизорым анжен шӹнзедӓ (JK)</x>
+
+        <xt>istutte katselette telkkaria</xt>
+      </xg>
     </mg>
   </e>
 
