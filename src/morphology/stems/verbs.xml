@@ -44224,6 +44224,8 @@
     <lg>
       <l pos="V">пӧрдӓш</l>
 
+      <l_ref pos="N">сӓрнӹштӓш</l_ref>
+
       <stg>
         <st Contlex="V_АМ">пӧрд</st>
       </stg>
@@ -51552,6 +51554,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <t pos="V">nuohoaminen</t>
+
         <td pos="V">poistaa nokea savupiipusta</td>
       </tg>
     </mg>
@@ -51833,9 +51837,15 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>TRa: vrt nuuhata (kuljeksia ja etsiä)</defNative>
 
       <tg xml:lang="fin">
+        <t pos="V">pyöriä</t>
+
+        <tf pos="V">pyöriä paikallaan</tf>
+
+        <tf pos="V">harpoa edes-takaisin</tf>
+
         <td pos="V">kuljeksia samassa paikassa</td>
       </tg>
     </mg>
@@ -51844,6 +51854,8 @@
   <e>
     <lg>
       <l pos="V">сӓрнӹштӓш</l>
+
+      <l_ref pos="N">пӧрдӓш</l_ref>
 
       <stg>
         <st Contlex="V_АМ">сӓрнӹшт</st>
@@ -51856,6 +51868,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <t pos="V">kuljeksia</t>
+
         <tf pos="V">kulkea siellä täällä</tf>
       </tg>
     </mg>
