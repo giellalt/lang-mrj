@@ -53749,10 +53749,22 @@
       <defNative>Сав, Васик техень уке! JK: ненец_SUB? (ненецкий)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A">nenetsilainen</t>
+        <t pos="A">nenetsiläinen</t>
 
-        <t pos="A">nenetsilais=</t>
+        <tCtn>
+          <t>nenetsiläinen</t>
+
+          <re>kieli</re>
+        </tCtn>
+
+        <t pos="A">nenetsiläis=</t>
       </tg>
+
+      <xg>
+        <x>ненец йӹлмӹ (JK)</x>
+
+        <xt>nenetsiläinen kieli</xt>
+      </xg>
     </mg>
   </e>
 
@@ -53771,9 +53783,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">nenetsilainen</t>
+        <t pos="A">nenetsiläinen</t>
 
-        <t pos="A">nenetsilais=</t>
+        <t pos="A">nenetsiläis=</t>
       </tg>
     </mg>
   </e>
