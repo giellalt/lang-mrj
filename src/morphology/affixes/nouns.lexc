@@ -47,6 +47,22 @@ LEXICON N_КАРТА-SG
 LEXICON N_КАРТА-PL
 +N: NMN_КАРТА-PL ;
 
+LEXICON N_ПОЧТА !!= @CODE@  почта:почта
++N: NMN_OBLIQUE-INDEFINITE ;
++N: NMN_OBLIQUE-POSSESSA ;
++N+Sg+Nom: 	  K	; 
+
+LEXICON N_ОЛМА_SUB
++Use/Sub: N_ОЛМА ;
+LEXICON N_ОЛМА !!= @CODE@  олма:олма
+ N_ОЛМА-SG ;
+ N_ОЛМА-PL ;
+LEXICON N_ОЛМА-SG
++N: NMN_ОЛМА-SG ;
+LEXICON N_ОЛМА-PL
++N: NMN_ОЛМА-PL ;
+
+!!
 LEXICON NMN_КОЛ !!= @CODE@ кол:кол
  NMN_КОЛ-SG ;
  NMN_КОЛ-PL ;
@@ -87,6 +103,44 @@ LEXICON NMN_КАРТА-PL
 :%^А2ЫӸ NMN_OBLIQUE-INDEFINITE-PL ;
 :%^А2ЫӸ NMN_OBLIQUE-POSSESSA-PL ;
 
+LEXICON NMN_ОЛМА !!= @CODE@  олма:олма
+ NMN_ОЛМА-SG ;
+ NMN_ОЛМА-PL ;
+LEXICON NMN_ОЛМА-SG
++Sg+Nom:          K     ;
+ NMN_OBLIQUE-INDEFINITE-SG ;
+ NMN_OBLIQUE-POSSESSA-SG ;
++PxSg1+Sg+Nom:эм K ;
++PxSg2+Sg+Nom:ет K ;
++Sg+Lat+PxSg3:%>еш%{ыӹØ%}ж%{ыӹØ%}	   K  ;
+
+LEXICON NMN_ОЛМА-PL
+ NMN_OBLIQUE-INDEFINITE-PL ;
+ NMN_OBLIQUE-POSSESSA-PL ;
+
++PxSg1+Pl+Nom:эмвлӓ K ;
++PxSg1+Pl+Nom:мвлӓ K ;
++Pl+Nom+PxSg1:влӓэм K ;
++PxSg2+Pl+Nom:етвлӓ K ;
++PxSg2+Pl+Nom:твлӓ K ;
++Pl+Nom+PxSg2:влӓэт K ;
+
+LEXICON N_ӒВӒ !!= @CODE@  ӓвӓ:ӓвӓ
++N: NMN_OBLIQUE-INDEFINITE ;
++N:%^KIN NMN_OBLIQUE-POSSESSA ;
++N+Sg+Nom: 	  K	; 
++N+PxSg1+Sg+Nom:эм K ;
+!!2013-10-18!+N+PxSg1+Sg+Nom:м K ; !! Special
++N+PxSg1+Pl+Nom:эмвлӓ K ;
+!!2013-10-18!+N+PxSg1+Pl+Nom:мвлӓ K ;
+!!2013-10-18!+N+Pl+Nom+PxSg1:влӓэм K ;
++N+PxSg2+Sg+Nom:ет K ;
+!!2013-10-18!+N+PxSg2+Sg+Nom:т K ; !! Special
++N+PxSg2+Pl+Nom:етвлӓ K ;
+!!2013-10-18!+N+PxSg2+Pl+Nom:твлӓ K ;
+!!2013-10-18!+N+Pl+Nom+PxSg2:влӓэт K ;
+!!2013-10-18!+N+Sg+Lat+PxSg3:%>эш%{ыӹØ%}ж%{ыӹØ%}	   K  ;
+
 !!
  
 LEXICON SG-ABEACCCOMDATGEN
@@ -109,46 +163,6 @@ LEXICON PL-ABEACCCOMDATGENILLINELATNOM
 +Pl+Ine:%>влӓштӹ K ;
 +Pl+Lat:%>влӓэш K ;
 +Pl+Nom:%>влӓ K ;
-
-LEXICON N_ПОЧТА !!= @CODE@  почта:почта
-+N: NMN_OBLIQUE-INDEFINITE ;
-+N: NMN_OBLIQUE-POSSESSA ;
-+N+Sg+Nom: 	  K	; 
-
-LEXICON N_ОЛМА_SUB
-+Use/Sub: N_ОЛМА ;
-LEXICON N_ОЛМА !!= @CODE@  олма:олма
-+N: NMN_ОЛМА ;
-
-LEXICON NMN_ОЛМА !!= @CODE@  олма:олма
- NMN_OBLIQUE-INDEFINITE ;
- NMN_OBLIQUE-POSSESSA ;
-+Sg+Nom: 	  K	; 
-+PxSg1+Sg+Nom:эм K ;
-+PxSg1+Pl+Nom:эмвлӓ K ;
-+PxSg1+Pl+Nom:мвлӓ K ;
-+Pl+Nom+PxSg1:влӓэм K ;
-+PxSg2+Sg+Nom:ет K ;
-+PxSg2+Pl+Nom:етвлӓ K ;
-+PxSg2+Pl+Nom:твлӓ K ;
-+Pl+Nom+PxSg2:влӓэт K ;
-+Sg+Lat+PxSg3:%>еш%{ыӹØ%}ж%{ыӹØ%}	   K  ;
-
-LEXICON N_ӒВӒ !!= @CODE@  ӓвӓ:ӓвӓ
-+N: NMN_OBLIQUE-INDEFINITE ;
-+N:%^KIN NMN_OBLIQUE-POSSESSA ;
-+N+Sg+Nom: 	  K	; 
-+N+PxSg1+Sg+Nom:эм K ;
-!!2013-10-18!+N+PxSg1+Sg+Nom:м K ; !! Special
-+N+PxSg1+Pl+Nom:эмвлӓ K ;
-!!2013-10-18!+N+PxSg1+Pl+Nom:мвлӓ K ;
-!!2013-10-18!+N+Pl+Nom+PxSg1:влӓэм K ;
-+N+PxSg2+Sg+Nom:ет K ;
-!!2013-10-18!+N+PxSg2+Sg+Nom:т K ; !! Special
-+N+PxSg2+Pl+Nom:етвлӓ K ;
-!!2013-10-18!+N+PxSg2+Pl+Nom:твлӓ K ;
-!!2013-10-18!+N+Pl+Nom+PxSg2:влӓэт K ;
-!!2013-10-18!+N+Sg+Lat+PxSg3:%>эш%{ыӹØ%}ж%{ыӹØ%}	   K  ;
 
 LEXICON NMN_OBLIQUE-INDEFINITE
  NMN_OBLIQUE-INDEFINITE-SG ;
