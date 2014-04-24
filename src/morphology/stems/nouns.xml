@@ -25860,6 +25860,8 @@
 
       <l_ref pos="N">сӓндӓлӹктӹр</l_ref>
 
+      <l_ref pos="N">мӱлӓндӹдӹр</l_ref>
+
       <stg>
         <st Contlex="N_КОЛ">горизонт</st>
       </stg>
@@ -101808,6 +101810,18 @@
 
   <e>
     <lg>
+      <l pos="???"/>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg/>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">мӱкшпеледӹш</l>
 
       <stg>
@@ -101843,6 +101857,165 @@
 
       <tg xml:lang="fin">
         <t pos="N"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">мӱкшигӹ</l>
+
+      <stg>
+        <st Contlex="N_ТӸРВӸ_SUB">мӱкшигӹ</st>
+
+        <st Contlex="N_ТӸРВӸ">мӱкш игӹ</st>
+      </stg>
+
+      <stress>мӱкши•гӹ</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK (пыртенӓм) Сав улы (Орф 1978; 1981:94). Васик: мӱкш игӹ.
+      Niittymarissa muuten мӱкшиге tarkoittaa (uutta) mehiläisparvea. Vrt mrj
+      mehiläisparvi - ыгыршы.</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">mehiläistoukka</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">мӱкш игӹ</l>
+
+      <stg>
+        <st Contlex="N_ТӸРВӸ">мӱкш игӹ</st>
+
+        <st Contlex="N_ТӸРВӸ_SUB">мӱкшигӹ</st>
+      </stg>
+
+      <stress>мӱкш и•гӹ</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK (пыртенӓм, уке гӹнь кодеш ылын.) Васик: мӱкш игӹ. Сав:
+      мӱкшигӹ</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">mehiläistoukka</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">мӱкш пичӹ</l>
+
+      <stg>
+        <st Contlex="N_ТӸРВӸ">мӱкш пичӹ</st>
+      </stg>
+
+      <stress>мӱкш пи•чӹ</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK (пыртенӓм, уке гӹнь кодеш ылын.) Васик: мӱкш пичӹ. мӱкш
+      игӹ.</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">mehiläistoukka</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">мӱкш шыре</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">мӱкш шыре</st>
+
+        <st Contlex="N_ОЛМА_SUB">мӱкшшыре</st>
+      </stg>
+
+      <stress>мӱкш шыре</stress>
+    </lg>
+
+    <mg>
+      <defNative>(Пыртенӓм, уке гӹнь кодеш ылын.) Вас: мӱкш шыре. Сав:
+      мӱкшшыре.</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">kuhnuri</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">мӱкшшыре</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА_SUB">мӱкшшыре</st>
+
+        <st Contlex="N_ОЛМА">мӱкш шыре</st>
+      </stg>
+
+      <stress>мӱкшшы•ре</stress>
+    </lg>
+
+    <mg>
+      <defNative>(Пыртенӓм) Васик: мӱкш шыре. Сав: мӱкшшыре.</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">kuhnuri</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">мӱкшӓвӓ</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА_SUB">мӱкшӓвӓ</st>
+
+        <st Contlex="N_ОЛМА">мӱкш ӓвӓ</st>
+      </stg>
+
+      <stress>мӱ•кшӓвӓ</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK (пыртенӓм) Сав улы (Орф 1978; 1981:94). Васик: мӱкш
+      ӓвӓ</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">mehiläiskuningatar</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">мӱкш ӓвӓ</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">мӱкш ӓвӓ</st>
+
+        <st Contlex="N_ОЛМА_SUB">мӱкшӓвӓ</st>
+      </stg>
+
+      <stress>мӱ•кш ӓвӓ</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK (пыртенӓм, уке гӹнь кодеш ылын.) Васик: мӱкш ӓвӓ. Сав:
+      мӱкшӓвӓ</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">mehiläiskuningatar</t>
       </tg>
     </mg>
   </e>
@@ -101908,6 +102081,10 @@
     <lg>
       <l pos="N">мӱлӓндӹдӹр</l>
 
+      <l_ref pos="N">сӓндӓлӹктӹр</l_ref>
+
+      <l_ref pos="N">горизонт</l_ref>
+
       <stg>
         <st Contlex="N_КОЛ">мӱлӓндӹдӹр</st>
       </stg>
@@ -101916,12 +102093,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав улы. Васикованат улы!</defNative>
 
       <tg xml:lang="fin">
+        <t pos="N">horisontti</t>
+
         <t pos="N">taivaanranta</t>
 
-        <t pos="N">horisontti</t>
+        <t pos="N">näköpiiri</t>
       </tg>
     </mg>
   </e>
@@ -113924,7 +114103,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N">mehiläistarha</t>
+        <td pos="N">mehiläistarha(mhr)</td>
       </tg>
     </mg>
   </e>
@@ -119177,8 +119356,14 @@
     <lg>
       <l pos="N">пасека</l>
 
+      <l_ref pos="N">чельньӹк</l_ref>
+
+      <l_ref pos="N">мӱкш пичӹ</l_ref>
+
       <stg>
-        <st Contlex="N_КАРТА">пасека</st>
+        <st Contlex="N_КАРТА_SUB">пасека</st>
+
+        <st Contlex="N_КОЛ">чельньӹк</st>
       </stg>
 
       <stress>па•сека</stress>
@@ -119270,11 +119455,13 @@
       <m>
         <head/>
 
-        <defNative>пасо = пасо ныр</defNative>
+        <defNative>vanh. пасо = пасо ныр</defNative>
       </m>
 
       <tg xml:lang="fin">
         <tf pos="N">oraaton pelto</tf>
+
+        <td pos="N">elokorjuunjälkeinen pelto jolla voi laiduntaa</td>
       </tg>
     </mg>
   </e>
@@ -124499,12 +124686,18 @@
       <tg xml:lang="fin">
         <t pos="N">riidenmarja</t>
       </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">жимолость</t>
+      </tg>
     </mg>
   </e>
 
   <e>
     <lg>
       <l pos="N">писатель</l>
+
+      <l_ref pos="N">сирӹзӹ</l_ref>
 
       <stg>
         <st Contlex="N_КОЛ">писатель</st>
@@ -126968,7 +127161,9 @@
       <tg xml:lang="fin">
         <t pos="N">uroteko</t>
 
-        <t pos="N">urotyö: mainetyö</t>
+        <t pos="N">urotyö</t>
+
+        <t pos="N">mainetyö</t>
       </tg>
     </mg>
   </e>
@@ -164420,6 +164615,8 @@
     <lg>
       <l pos="N">сӓндӓлӹктӹр</l>
 
+      <l_ref pos="N">мӱлӓндӹдӹр</l_ref>
+
       <l_ref pos="N">горизонт</l_ref>
 
       <stg>
@@ -164430,7 +164627,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Васик улы. Сав уке!</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">horisontti</t>
@@ -198113,6 +198310,8 @@
   <e>
     <lg>
       <l pos="N">чельньӹк</l>
+
+      <l_ref pos="N">мӱкш пичӹ</l_ref>
 
       <stg>
         <st Contlex="N_КОЛ">чельньӹк</st>
