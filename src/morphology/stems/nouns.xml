@@ -17922,7 +17922,44 @@
         <t pos="N">navetta</t>
 
         <t pos="N">läävä</t>
+
+        <td pos="N">lämpöeristetty navetta (JK) vrt сарай lämpöeristämättä
+        navetta</td>
       </tg>
+
+      <xg>
+        <x>сасна витӓ</x>
+
+        <xt>sikala</xt>
+
+        <xt>(kuv.) sikolätti</xt>
+      </xg>
+
+      <xg>
+        <x>шарык витӓ (1981:22)</x>
+
+        <xt>lampola</xt>
+      </xg>
+
+      <xg>
+        <x>ышкал витӓ (1981:22)</x>
+
+        <xt>lehminavetta</xt>
+      </xg>
+
+      <xg>
+        <x>цӹвӹ витӓ (1981:22)</x>
+
+        <xt>kanala</xt>
+      </xg>
+
+      <xg>
+        <x>(kuv.) пирӹ витӓ гань ӱштӹ (1981:22)</x>
+
+        <xt>harakanpesä</xt>
+
+        <xt>kylmä kuin susinavetta</xt>
+      </xg>
     </mg>
   </e>
 
@@ -30698,6 +30735,95 @@
 
   <e>
     <lg>
+      <l pos="N">ежӹнг</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">ежӹнг</st>
+      </stg>
+
+      <stress>е•жӹнг</stress>
+    </lg>
+
+    <mg>
+      <defNative>muutamassa ilmauksessa esiintyvä!</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">voima</t>
+
+        <t pos="N">puhti</t>
+
+        <td pos="N">sisu (JK)</td>
+      </tg>
+
+      <xg>
+        <x>(kuv.) ежӹнг гӹц кеӓш (JK)</x>
+
+        <xt>tulla voimattomaksi</xt>
+      </xg>
+
+      <xg>
+        <x>(kuv.) ежӹнгем кеӓ (JK)</x>
+
+        <xt>alan voida huonosti</xt>
+      </xg>
+
+      <xg>
+        <x>(kuv.) ежӹнгем уке (1981:31)</x>
+
+        <xt>ei ole voimiani</xt>
+      </xg>
+
+      <xg>
+        <x>(kuv.) ял ежӹнгӹм нӓлеш (1981:31)</x>
+
+        <xt>jalat väsyvät</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">ек</l>
+
+      <stg>
+        <st Contlex="N_КОЛ_SUB">ек</st>
+
+        <st Contlex="N_КОЛ">колотньык</st>
+
+        <st Contlex="N_КОЛ">коритньӹк</st>
+
+        <st Contlex="N_КОЛ">неготньык</st>
+      </stg>
+
+      <stress>ек</stress>
+    </lg>
+
+    <mg>
+      <defNative>(Пыртенӓм) vanh.Vain ilmauksessa! Син-мвлӓ: коритньӹк.. (JK:
+      неготньык)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">lurjus</t>
+
+        <t pos="A">kelvoton</t>
+
+        <tCtn>
+          <t>kelvoton</t>
+
+          <re>kiroilusana</re>
+        </tCtn>
+      </tg>
+
+      <xg>
+        <x>(idiom.) рокым екӹм тыманавлӓ (1981:31)</x>
+
+        <xt>teitä kelvottomia!</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">екшук</l>
 
       <stg>
@@ -30708,7 +30834,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>folk.</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">haltia</t>
@@ -59499,16 +59625,29 @@
 
       <stg>
         <st Contlex="N_КОЛ">колотньык</st>
+
+        <st Contlex="N_КОЛ">коритньӹк</st>
+
+        <st Contlex="N_КОЛ">неготньык</st>
       </stg>
 
       <stress>коло•тньык</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Синоним: коритньӹк коритни (JK: неготньык) Vrt рокым екӹм
+      тыманавлӓ!</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">lurjus</t>
+
+        <t pos="N">kelvoton</t>
+
+        <tCtn>
+          <t>kelvoton</t>
+
+          <re>kiroilusana</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -63665,7 +63804,50 @@
 
   <e>
     <lg>
+      <l pos="N">коритни</l>
+
+      <l_ref pos="N">колотньык</l_ref>
+
+      <l_ref pos="N">коритньӹк</l_ref>
+
+      <l_ref pos="N">неготньык</l_ref>
+
+      <stg>
+        <st Contlex="N_КОЛ">коритни</st>
+      </stg>
+
+      <stress>кори•тни</stress>
+    </lg>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>негодяй. Синоним: коритньӹк колотньык (JK:
+        неготньык)</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N">lurjus</t>
+
+        <t pos="A">kelvoton</t>
+
+        <tCtn>
+          <t>kelvoton ihminen</t>
+
+          <re>kiroilusana</re>
+        </tCtn>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">коритньӹк</l>
+
+      <l_ref pos="N">колотньык</l_ref>
+
+      <l_ref pos="N">неготньык</l_ref>
 
       <stg>
         <st Contlex="N_КОЛ">коритньӹк</st>
@@ -63678,8 +63860,8 @@
       <m>
         <head/>
 
-        <defNative>синоним: коритни - негодник; колотньык -
-        негодяй</defNative>
+        <defNative>негодяй. Синоним: коритньӹк колотньык (JK:
+        неготньык)</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -63690,7 +63872,7 @@
         <tCtn>
           <t>kelvoton ihminen</t>
 
-          <re/>
+          <re>kiroilusana</re>
         </tCtn>
       </tg>
     </mg>

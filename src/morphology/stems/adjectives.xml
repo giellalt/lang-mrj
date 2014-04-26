@@ -7920,7 +7920,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">syytön</t>
+
+        <t pos="A">syyllistymätön</t>
       </tg>
     </mg>
   </e>
@@ -7940,7 +7942,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">syyllinen</t>
+
+        <td pos="A">syyllistynyt (JK)</td>
       </tg>
     </mg>
   </e>
@@ -7977,11 +7981,34 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>vanh. Саваткова идиомышты кычылт.ман.пуа
+      (1981:22)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">merkittävä</t>
+
+        <t pos="A">painava</t>
+
+        <t pos="A">vaikuttava</t>
+
+        <t pos="A">huomattava</t>
+
+        <t pos="A">jykevä</t>
+
+        <t pos="A">epämiellyttävä</t>
+
+        <t pos="A">vastenmielinen</t>
+
+        <t pos="A">inhottava</t>
       </tg>
+
+      <xg>
+        <x>вирлӹ шамак (1981:22)</x>
+
+        <xt>epämiellyttävä sana</xt>
+
+        <xt>hirvittävä ällöttävä puhe</xt>
+      </xg>
     </mg>
   </e>
 
@@ -7997,11 +8024,17 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>idiom.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">karkaus=</t>
       </tg>
+
+      <xg>
+        <x>високосный и</x>
+
+        <xt>karkausvuosi</xt>
+      </xg>
     </mg>
   </e>
 
@@ -8020,7 +8053,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">vaakaton</t>
       </tg>
     </mg>
   </e>
@@ -8040,7 +8073,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">vaaka=</t>
       </tg>
     </mg>
   </e>
@@ -8060,7 +8093,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <tf pos="A">näyteikkunalla varustettu</tf>
       </tg>
     </mg>
   </e>
@@ -8080,7 +8113,29 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">vitriinitön</t>
+
+        <t pos="A">näyteikkunaton</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">витӓдӹмӹ</l>
+
+      <stg>
+        <st Contlex="A_">витӓдӹмӹ</st>
+      </stg>
+
+      <stress>витӓ•дӹмӹ</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">navetaton</t>
       </tg>
     </mg>
   </e>
@@ -8100,8 +8155,16 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">navetta=</t>
+
+        <td pos="A">=navettainen</td>
       </tg>
+
+      <xg>
+        <x>шукы витӓӓн сурт (JK)</x>
+
+        <xt/>
+      </xg>
     </mg>
   </e>
 
@@ -14329,7 +14392,43 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">voimaton</t>
+
+        <t pos="A">ponneton</t>
+
+        <t pos="A">heikko</t>
+
+        <t pos="A">raukea</t>
+      </tg>
+
+      <xg>
+        <x>ежӹнгдӹмӹ вӓк кодаш (JK)</x>
+
+        <xt>tulla ihan voimattomaksi</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ежӹнгдӹмӹ</l>
+
+      <stg>
+        <st Contlex="A_">ежӹнгдӹмӹ</st>
+      </stg>
+
+      <stress>е•жӹнгдӹмӹ</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">mutkaton</t>
+
+        <t pos="A">sukupolveton</t>
+
+        <t pos="A">ketjuton</t>
       </tg>
     </mg>
   </e>
@@ -14349,8 +14448,50 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">mutkainen</t>
+
+        <td pos="A">monimutkainen (JK)</td>
       </tg>
+
+      <xg>
+        <x>(san.) пыч ежӹнгӓн, ӹлӹмӓшӓт ежӹнгӓн (1981:31)</x>
+
+        <xt>elämä on polveileva - ei ole tasaista</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ежӹнгӓн</l>
+
+      <stg>
+        <st Contlex="A_">ежӹнгӓн</st>
+      </stg>
+
+      <stress>е•жӹнгӓн</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">nivelikäs</t>
+
+        <t pos="A">nivelinen</t>
+
+        <td pos="A">=yhdyssiteinen</td>
+
+        <td pos="A">=renkainen</td>
+
+        <td pos="A">=hahloinen</td>
+      </tg>
+
+      <xg>
+        <x>шукы ежӹнгӓн цеп (JK)</x>
+
+        <xt>monirenkainen ketju</xt>
+      </xg>
     </mg>
   </e>
 
@@ -14369,7 +14510,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">hiottu</t>
+
+        <t pos="A">tasoitettu</t>
+
+        <td pos="A">hyvin käsitelty (JK)</td>
+
+        <td pos="A">raffinoitu (JK)</td>
       </tg>
     </mg>
   </e>
@@ -14389,7 +14536,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">luonnollinen</t>
+
+        <t pos="A">luontainen</t>
       </tg>
     </mg>
   </e>
@@ -14409,7 +14558,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">suksi=</t>
+
+        <tf pos="A">suksilla varustettu</tf>
       </tg>
     </mg>
   </e>
@@ -14429,8 +14580,14 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">sukseton</t>
       </tg>
+
+      <xg>
+        <x>ечӹдӹмӹвлӓлӓн келесӹнем (JK)</x>
+
+        <xt>haluaisin sanoa niille joilla ei ole suksia</xt>
+      </xg>
     </mg>
   </e>
 
@@ -30095,6 +30252,40 @@
 
   <e>
     <lg>
+      <l pos="A">колой</l>
+
+      <stg>
+        <st Contlex="A_">колой</st>
+      </stg>
+
+      <stress>ко•лой Синонимвлӓ: коритный коритни (JK: колой)</stress>
+    </lg>
+
+    <mg>
+      <defNative> Саваткован: Вводн.сл.</defNative>
+
+      <tg xml:lang="fin">
+        <td pos="A">kelvoton (JK)</td>
+
+        <td pos="A">hankala (JK)</td>
+
+        <tCtn>
+          <t>kelvoton</t>
+
+          <re>ihminen</re>
+        </tCtn>
+      </tg>
+
+      <xg>
+        <x>тӹдӹ колойок манам вет (JK)</x>
+
+        <xt>hänhän vasta onkin hankala</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="A">колониальный</l>
 
       <stg>
@@ -32889,6 +33080,35 @@
 
       <tg xml:lang="fin">
         <t pos="A"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">коритни</l>
+
+      <stg>
+        <st Contlex="A_">коритни</st>
+      </stg>
+
+      <stress/>
+    </lg>
+
+    <mg>
+      <defNative>Васик уке. (пыртенӓм)_SUB Синонимвлӓ: коритный коритни (JK:
+      колой)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="A">kelvoton</t>
+
+        <td pos="A">hankala (JK)</td>
+
+        <tCtn>
+          <t>kelvoton</t>
+
+          <re>ihminen</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -39589,6 +39809,8 @@
     <lg>
       <l pos="A">кӓкӓ</l>
 
+      <l_ref pos="A">кӓкӓргӹ</l_ref>
+
       <stg>
         <st Contlex="A_">кӓкӓ</st>
       </stg>
@@ -39597,11 +39819,18 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>(mrj_KK синеватый; _SUB кӓкӓ лицӓӓн (Кр.) tummaverinen;
+      tummakasvoinen</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">sinertyvä</t>
       </tg>
+
+      <xg>
+        <x>кӓкӓ цӹреӓн (1981:51)</x>
+
+        <xt>kalpea</xt>
+      </xg>
     </mg>
   </e>
 
@@ -39620,7 +39849,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">sinelmätön</t>
+
+        <t pos="A">mustelmaton</t>
       </tg>
     </mg>
   </e>
@@ -39637,11 +39868,20 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>(mrj_KK синеватый; _SUB ? (Кр.) tummaverinen; JK: кӓкӓргӹ
+      нерӓн пӱэргӹ</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">sinertyvä</t>
+
+        <td pos="A">paleltuneen värinen (JK)</td>
       </tg>
+
+      <xg>
+        <x>кӓкӓргӹ цӹреӓн (JK)</x>
+
+        <xt>paleltumaisillaan oleva</xt>
+      </xg>
     </mg>
   </e>
 
