@@ -66350,17 +66350,7 @@
         <t pos="V">haristua</t>
 
         <t pos="V">ravistua</t>
-
-        <td pos="V">terveydentilasta viluttaa tai pakottaa</td>
       </tg>
-
-      <xg>
-        <x>монгыр шалдырга (1981:195)</x>
-
-        <xt>viluttaa</xt>
-
-        <xt>selkää pakottaa</xt>
-      </xg>
 
       <xg>
         <x>пецкӓ шалдырген шӹнзӹн (1981:195)</x>
@@ -66390,6 +66380,36 @@
 
       <tg xml:lang="fin">
         <t pos="V">heikottaa</t>
+
+        <td pos="V">terveydentilasta viluttaa tai pakottaa</td>
+      </tg>
+
+      <xg>
+        <x>монгыр шалдырга (1981:195)</x>
+
+        <xt>viluttaa</xt>
+
+        <xt>selkää pakottaa</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">шалдырташ</l>
+
+      <stg>
+        <st Contlex="V_ЕМ">шалдырты</st>
+      </stg>
+
+      <stress>ша•лдырташ</stress>
+    </lg>
+
+    <mg>
+      <defNative>perenosn. расстраивать (о деле) - пыжаш? локтылаш</defNative>
+
+      <tg xml:lang="fin">
+        <tf pos="V">heikentää tai huonontaa</tf>
       </tg>
     </mg>
   </e>
@@ -66406,7 +66426,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: V_SUB (u znch semynj)</defNative>
 
       <tg xml:lang="fin">
         <tf pos="V">antaa haristua</tf>
