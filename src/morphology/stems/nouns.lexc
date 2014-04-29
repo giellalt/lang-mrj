@@ -4690,7 +4690,6 @@ LEXICON nouns
 мӱксе:мӱксе N_ОЛМА  "metsämehiläispöntöjen nakertamistuura" ;
 мӱктӹ:мӱктӹ N_ТӸРВӸ  "toutain" ;
 мӱкш:мӱкш N_КОЛ  "mehiläinen" ;
-   "" ;
 мӱкшпеледӹш:мӱкшпеледӹш N_КОЛ  "melissa" ;
 мӱкшпирӹ:мӱкшпирӹ N_ТӸРВӸ  "" ;
 мӱкшигӹ:мӱкшигӹ N_ТӸРВӸ_SUB  "mehiläistoukka" ;
@@ -4843,6 +4842,7 @@ LEXICON nouns
 негр:негр N_КОЛ  "neekeri" ;
 негритянка:негритянка N_КАРТА  "mustaihoinen nainen" ;
 негӹц:негӹц N_КОЛ  "perusta" ;
+негӹцлӓлтмӓш:негӹцлӓлтмӓш N_КОЛ  "pohjautuminen" ;
 негӹцлӹмӓш:негӹцлӹмӓш N_КОЛ  "perustaminen" ;
 недоимка:недоимка N_КАРТА  "verorästi" ;
 недӹк:недӹк N_КОЛ  "otiitti" ;
@@ -6984,7 +6984,8 @@ LEXICON nouns
 сагаэмдӹмӓш:сагаэмдӹмӓш N_КОЛ  "lähemmäksi siirtäminen" ;
 сагаэммӓш:сагаэммӓш N_КОЛ  "lähemmäksi siirtyminen" ;
 саго:саго N_ОЛМА  "" ;
-сад:сад N_КОЛ  "puutarha" ;
+саго:саго N_ОЛМА  "saagosurimot" ;
+сад:сад N_КОЛ  "siirtolapuutarha" ;
 садвичӹ:садвичӹ N_ТӸРВӸ  "kasvimaa" ;
 сазан:сазан N_КОЛ  "karppi" ;
 сазыргымаш:сазыргымаш N_КОЛ  "kuivuminen" ;
@@ -7064,7 +7065,7 @@ LEXICON nouns
 саркофаг:саркофаг N_КОЛ  "hauta-arkku" ;
 сарла:сарла N_ОЛМА  "sirppi" ;
 сарта:сарта N_ОЛМА  "kynttilä" ;
-сарыгек:сарыгек N_КОЛ  "" ;
+сарыгек:сарыгек N_КОЛ  "kuhankeittäjä" ;
 сарым:сарым N_КОЛ  "hamppu- tai pellavakuidun nippu" ;
 сарымлымаш:сарымлымаш N_КОЛ  "hamppu- tai pellavakuitunippujen tekeminen" ;
 саслыктымаш:саслыктымаш N_КОЛ  "pakottaminen huutoon" ;
@@ -7316,9 +7317,10 @@ LEXICON nouns
 совхоз:совхоз N_КОЛ  "sovhoosi" ;
 соглас:соглас N_КОЛ  "yhteisymmärys" ;
 соглашени:соглашени N_ОЛМА  "sopimus" ;
-согмы:согмы N_ТӸРВӸ  "" ;
+согмы:согмы N_ТӸРВӸ  "mielyttävä ihminen" ;
 согонь:согонь N_КОЛ  "neuvo" ;
 согоньлымаш:согоньлымаш N_КОЛ  "toivotus" ;
+согымы:согымы N_ТӸРВӸ  "mielyttävä ilme" ;
 сода:сода N_КАРТА  "ruokasooda" ;
 содом:содом N_КОЛ  "roju" ;
 содомайымаш:содомайымаш N_КОЛ  "rojuiseksi saattaminen" ;
@@ -7763,7 +7765,7 @@ LEXICON nouns
 таможня:таможня NTag  "tulli" ;
 танг:танг N_КОЛ  "hyvä ilme" ;
 тангата:тангата N_ОЛМА  "kanto" ;
-тангенс:тангенс N_КОЛ  "" ;
+тангенс:тангенс N_КОЛ  "tangentti" ;
 тангыж:тангыж N_КОЛ  "meri" ;
 тангыжъял:тангыжъял N_КОЛ  "merenlahti" ;
 тангыж% шонг:тангыж% шонг N_КОЛ  "ammoniakki" ;
@@ -10682,7 +10684,7 @@ LEXICON nouns
 ӹжӓл:ӹжӓл N_КОЛ  "" ;
 ӹжӓлӓйӹдӹмӓш:ӹжӓлӓйӹдӹмӓш N_КОЛ  "" ;
 ӹжӓлӓйӹмӓш:ӹжӓлӓйӹмӓш N_КОЛ  "" ;
-ӹжӹвӹр:ӹжӹвӹр N_КОЛ  "" ;
+ӹжӹвӹр:ӹжӹвӹр N_КОЛ  "kuhankeittäjä" ;
 ӹжӹмлӹмӓш:ӹжӹмлӹмӓш N_КОЛ  "" ;
 ӹзӓ:ӹзӓ N_ОЛМА  "isoveli" ;
 ӹзӓк-шоляк:ӹзӓк-шоляк N_КОЛ  "veljekset" ;
