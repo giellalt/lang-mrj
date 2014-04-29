@@ -633,7 +633,7 @@ LEXICON PXPL1-SG-COM
 +Sg+PxPl1+Com:%>н%{аӓ%}%>ге	K	;
 
 LEXICON PXPL1-SG-COMP
-Sg+Comp+PxPl1:%>л%{аӓ%}%>н%{аӓ%}       K       ;
++Sg+Comp+PxPl1:%>л%{аӓ%}%>н%{аӓ%}       K       ;
 +Sg+PxPl1+Comp:%>н%{аӓ%}%>л%{аӓ%}	K	;
 
 LEXICON PXPL1-SG-DAT 
@@ -669,11 +669,11 @@ LEXICON PXPL1-PL-DAT
 LEXICON PXPL1-PL-GEN 
 +Pl+PxPl1+Gen:%>влӓ%>н%{аӓ%}%>%{ыӹØ%}н	K	;
 LEXICON PXPL1-PL-ILL 
-+Pl+Ill+PxPl1:%>влӓ%>%{ыӹØ%}шк%{ыӹØ%}%>н%{аӓ%}	K	;
++Pl+Ill+PxPl1:%>влӓшкӹнӓ	K	;
 LEXICON PXPL1-PL-INE 
-+Pl+Ine+PxPl1:%>влӓ%>%{ыӹØ%}шт%{ыӹØ%}%>н%{аӓ%}	K	;
++Pl+Ine+PxPl1:%>влӓштӹнӓ	K	;
 LEXICON PXPL1-PL-LAT 
-+Pl+Lat+PxPl1:%>влӓ%>Е2ш%>н%{аӓ%}	K	;
++Pl+Lat+PxPl1:%>влӓэшнӓ	K	;
 LEXICON PXPL1-PL-NOM 
 +Pl+PxPl1+Nom:%>влӓ%>н%{аӓ%}	K	;
 !!PxPl2
@@ -684,7 +684,7 @@ LEXICON PXPL2-SG-ACC
 LEXICON PXPL2-SG-COM 
 +Sg+PxPl2+Com:%>д%{аӓ%}%>ге	K	;
 LEXICON PXPL2-SG-COMP
-Sg+Comp+PxPl2:%>л%{аӓ%}%>д%{аӓ%}       K       ;
++Sg+Comp+PxPl2:%>л%{аӓ%}%>д%{аӓ%}       K       ;
 +Sg+PxPl2+Comp:%>д%{аӓ%}%>л%{аӓ%}	K	;
 LEXICON PXPL2-SG-DAT 
 +Sg+PxPl2+Dat:%>д%{аӓ%}%>л%{аӓ%}н	K	;
