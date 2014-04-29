@@ -22,6 +22,7 @@ Alphabet
  %{ыӹØ%}:0 !!= * @CODE@ 
 
  %{ыӹе%}:0 !! * @CODE@ used in verb affix onset
+ %{ыӹэ%}:0 !! * @CODE@ used in noun affix onset ine, ill
  %{аӓе%}:0 !! * @CODE@ used in verb affix onset
 ! Ы2:ы
 ! Ы2:ӹ
@@ -140,6 +141,8 @@ Rules
            %> ж Ы2: %> _  ;
           [ а:ӹ | а:ы ] %^А2ЫӸ:0 %> _ ;
 
+
+
 "Onset vowel loss in suffix Е3"
 !! __@RULENAME@__  
    Е3:0 <=> [ ю | ӱ | у | ё | о | ӧ | и | е | э | а | ӓ ] %^KIN:0 %> _ ;
@@ -206,6 +209,19 @@ Rules
 !! __@RULENAME@__
 %{ыӹе%}:е <=> [ Cns: | й: ] [ ы: | ӹ: | %{ыӹØ%}: ]  %> _  ;
 ! [ ы: | ӹ: | %{ыӹØ%}: ]  %> _  ;
+            
+"Onset vowel %{ыӹэ%} realized in Ine and Ill suffixes %{ыӹэ%}:0"
+!! __@RULENAME@__
+ %{ыӹэ%}:0 <=> [ ы | ӹ ] %> _  ;
+!€# комбы%>%{ыӹэ%}штем
+!€0 комбы00штем
+
+"Onset vowel %{ыӹэ%} realized in Ine and Ill suffixes %{ыӹэ%}:0"
+!! __@RULENAME@__
+ %{ыӹэ%}:э <=> [ а | ӓ | я ] %> _  ;
+!€# олма%>%{ыӹэ%}штем
+!€0 олма0эштем
+
 
 !%{аӓ%}:я <=> Vow й:0 (ы:0|ӹ:0) %> _ [м|т|ш|%>|#] ;
 "Affix mid or final front %{аӓ%}:ӓ"
@@ -216,11 +232,13 @@ Rules
 !€0 комб00еш0нӓ
           :FrontVow Cns* %> р _ к ;
           Vow  ӹ: %> _ # ;
+          [ :FrontVow | :FrontLabVow ] %> Cns* _ ;
 ! [ LFC (ӹ:) [ :Cns (%>)| %> Cns:+ ] | :FrontVow Cns* %> ( %{ыӹØ%}: м ) | %> [ Е2:е | %{ыӹе%}:е | %{ыӹе%}:ӹ | %{ыӹе%}: м %{аӓ%}:ӓ ] [в|д|м|н|т|ш] Cns:* | Cns ӹ: %> ] _ [д|м|н|т|ш|%>|#] ;
 
 "Affix mid or final back %{аӓ%}:а"
 !! __@RULENAME@__  
  %{аӓ%}:а <=> [ :BackVow [ Cns* | й ] %> ( %{ыӹØ%}: м | %{ыӹе%}:ы м ( %{аӓ%}:а д ) | %{ыӹе%}:ы [н|д] ) | LBC [ й %> %{ыӹØ%}: м  | :Cns  %> |р|н|д|л]| Cns ы: %> ] _ [д|м|н|т|ш|к|%>|#];
+          [ :BackVow | :BackLabVow ] %> Cns* _ ;
           BackVow  й: %^ConsTransf:0 %> [ н | д ] _ [м|т|%>|#];
 !€ колт>%{ыӹØ%}д%{аӓ%}
 !€ колт0ыда
