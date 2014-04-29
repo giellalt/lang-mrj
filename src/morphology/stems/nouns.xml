@@ -101992,18 +101992,6 @@
 
   <e>
     <lg>
-      <l pos="???"/>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg/>
-  </e>
-
-  <e>
-    <lg>
       <l pos="N">мӱкшпеледӹш</l>
 
       <stg>
@@ -104275,6 +104263,8 @@
     <lg>
       <l pos="N">нарынзыгек</l>
 
+      <l_ref pos="N">сарыгек</l_ref>
+
       <l_ref pos="N">ӹжӹмӹр</l_ref>
 
       <stg>
@@ -104288,7 +104278,7 @@
       <m>
         <head/>
 
-        <defNative>ӹжӹмӹр иволга (Oriolus)</defNative>
+        <defNative>лат. Oriolus</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -105237,6 +105227,30 @@
         <t pos="N">perusteet</t>
 
         <tf pos="N">tiedon lähde</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">негӹцлӓлтмӓш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">негӹцлӓлтмӓш</st>
+      </stg>
+
+      <stress>негӹцлӓ•лтмӓш</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK (пыртенӓм). Васикован уке.</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">pohjautuminen</t>
+
+        <t pos="N">nojautuminen</t>
+
+        <tf pos="N">perustaksi oleminen</tf>
       </tg>
     </mg>
   </e>
@@ -151415,10 +151429,39 @@
     </lg>
 
     <mg>
-      <defNative>Виловат говорышты вӓшлиӓлтеш</defNative>
+      <defNative>Пӹзӹкныр (Кузнц.) дон Виловат говорышты
+      вӓшлиӓлтеш</defNative>
 
       <tg xml:lang="fin">
         <td pos="N"/>
+      </tg>
+
+      <tg xml:lang="rus">
+        <td pos="N">приспособление для перевозки навоза</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">саго</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">саго</st>
+      </stg>
+
+      <stress>са•го</stress>
+    </lg>
+
+    <mg>
+      <defNative>лат. Sagus</defNative>
+
+      <tg xml:lang="fin">
+        <td pos="N">saagosurimot</td>
+      </tg>
+
+      <tg xml:lang="rus">
+        <td pos="N">саго</td>
       </tg>
     </mg>
   </e>
@@ -151426,6 +151469,10 @@
   <e>
     <lg>
       <l pos="N">сад</l>
+
+      <l_ref pos="N">пичӹ</l_ref>
+
+      <l_ref pos="N">ӓнпичӹ</l_ref>
 
       <stg>
         <st Contlex="N_КОЛ">сад</st>
@@ -151438,8 +151485,16 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <t pos="N">siirtolapuutarha</t>
+
         <t pos="N">puutarha</t>
       </tg>
+
+      <xg>
+        <x>халавлӓ кӓнӹм кечӹвлӓ йӹде садыш каштыт (JK)</x>
+
+        <xt>kaupunkilaiset käyvät viikonloppuisin siirolapuutarhassa</xt>
+      </xg>
     </mg>
   </e>
 
@@ -153075,6 +153130,10 @@
     <lg>
       <l pos="N">сарыгек</l>
 
+      <l_ref pos="N">нарынзыгек</l_ref>
+
+      <l_ref pos="N">ӹжӹвӹр</l_ref>
+
       <stg>
         <st Contlex="N_КОЛ">сарыгек</st>
       </stg>
@@ -153083,10 +153142,18 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <m>
+        <head/>
+
+        <defNative>лат. Oriolus</defNative>
+      </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kuhankeittäjä</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">иволга</t>
       </tg>
     </mg>
   </e>
@@ -158533,10 +158600,11 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Васикова: яжо эдем (1994:353) Kts myös согымы (Саваткован
+      вариант)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">mielyttävä ihminen</tf>
       </tg>
     </mg>
   </e>
@@ -158592,6 +158660,32 @@
 
         <t pos="N">toivomus</t>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">согымы</l>
+
+      <stg>
+        <st Contlex="N_ТӸРВӸ">согымы</st>
+      </stg>
+
+      <stress>согымы</stress>
+    </lg>
+
+    <mg>
+      <defNative>Васик уке. Сав: идиомышты веле кычылталтеш</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">mielyttävä ilme</t>
+      </tg>
+
+      <xg>
+        <x>согымы цӹреӓн (1981:147)</x>
+
+        <xt>mielyttävää iloista ilmettä omaava</xt>
+      </xg>
     </mg>
   </e>
 
@@ -163704,7 +163798,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Васикован улы.</defNative>
 
       <tg xml:lang="fin">
         <t pos="N"/>
@@ -168306,10 +168400,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>matem.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tangentti</t>
+
+        <t pos="N">sivuaja</t>
       </tg>
     </mg>
   </e>
@@ -169527,7 +169623,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав уке. Васик-ат уке. JK: тӹдӹ тая ?</defNative>
 
       <tg xml:lang="fin">
         <t pos="N"/>
@@ -169547,7 +169643,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сев-Зап.нар.?</defNative>
 
       <tg xml:lang="fin">
         <t pos="N"/>
@@ -172252,7 +172348,8 @@
     </lg>
 
     <mg>
-      <defNative>Сав уке. Васикован улы.</defNative>
+      <defNative>Сав уке. Васикован улы. JK: punapajun värinen
+      kasvi?</defNative>
 
       <tg xml:lang="fin">
         <t pos="N"/>
@@ -228991,6 +229088,10 @@
     <lg>
       <l pos="N">ӹжӹвӹр</l>
 
+      <l_ref pos="N">нарынзыгек</l_ref>
+
+      <l_ref pos="N">сарыгек</l_ref>
+
       <stg>
         <st Contlex="N_КОЛ">ӹжӹвӹр</st>
       </stg>
@@ -228999,10 +229100,18 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <m>
+        <head/>
+
+        <defNative>лат. Oriolus</defNative>
+      </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kuhankeittäjä</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">иволга</t>
       </tg>
     </mg>
   </e>
