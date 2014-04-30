@@ -91717,6 +91717,26 @@
 
   <e>
     <lg>
+      <l pos="N">мартыгыр</l>
+
+      <stg>
+        <st Contlex="N_КОЛ_SUB">мартыгыр</st>
+      </stg>
+
+      <stress>ма•ртыгыр</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK /пыртенӓм) Васик уке.</defNative>
+
+      <tg xml:lang="fin">
+        <tf pos="N">marilainen kansallispuku</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">мартышка</l>
 
       <stg>
@@ -178298,7 +178318,7 @@
       <tg xml:lang="fin">
         <t pos="N">helma</t>
 
-        <tf pos="N">paidan alaosa (JK)</tf>
+        <td pos="N">paidan alaosa (JK)</td>
       </tg>
     </mg>
   </e>
@@ -200804,6 +200824,26 @@
 
   <e>
     <lg>
+      <l pos="N">шаваш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">шаваш</st>
+      </stg>
+
+      <stress>ша•ваш</stress>
+    </lg>
+
+    <mg>
+      <defNative>Сав улы. Васик уке.</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">loppu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">шавш</l>
 
       <stg>
@@ -200814,7 +200854,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав уке. Васик уке.</defNative>
 
       <tg xml:lang="fin">
         <t pos="N"/>
@@ -200837,7 +200877,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">saippua</t>
       </tg>
     </mg>
   </e>
@@ -200857,7 +200897,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vaahdottaminen</t>
+
+        <t pos="N">vaahdotus</t>
       </tg>
     </mg>
   </e>
@@ -200877,7 +200919,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vaahdotus</t>
+
+        <t pos="N">vaahdottuminen</t>
       </tg>
     </mg>
   </e>
@@ -200897,27 +200941,48 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">poimutakki</t>
+
+        <td pos="N">(vanh.) kaftaanin tapainen miesten päällystakki</td>
       </tg>
+
+      <xg>
+        <x>мартыгыр вӹлӓн шавырым лявӹргӹмӓш гӹц чиӓш (JK)</x>
+
+        <xt>pukea päällystakki kansallispuvun päälle likaantumisen
+        varalta</xt>
+      </xg>
+
+      <xg>
+        <x>шим парсын шавыр (1981:193)</x>
+
+        <xt>musta (naisten) poimutakki</xt>
+      </xg>
+
+      <xg>
+        <x>перви пӱэргӹвлӓӓт шавырым чиэнӹт (1981:193)</x>
+
+        <xt>ennenmuinoin miehetkin kantoivat kaftaani-takkeja</xt>
+      </xg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">шавыр-ӱштӧ</l>
+      <l pos="N">шавыр-ӹштӹ</l>
 
       <stg>
-        <st Contlex="NTag">шавыр-ӱштӧ</st>
+        <st Contlex="N_ТӸРВӸ">шавыр-ӹштӹ</st>
       </stg>
 
-      <stress>шавыр-ӱштӧ</stress>
+      <stress>ша•выр-ӹштӹ</stress>
     </lg>
 
     <mg>
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <td pos="N">takin päälle laitettava kirjottu vyö</td>
       </tg>
     </mg>
   </e>
@@ -200934,10 +200999,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав уке. Васик улы. JK: подол?</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">takkireunus</t>
+
+        <td pos="N">päällystakin alaosa (JK)</td>
       </tg>
     </mg>
   </e>
@@ -200945,6 +201012,8 @@
   <e>
     <lg>
       <l pos="N">шага</l>
+
+      <l_ref pos="N">шагавуй</l_ref>
 
       <stg>
         <st Contlex="N_ОЛМА">шага</st>
@@ -200957,8 +201026,16 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">aura</t>
+
+        <t pos="N">aatra</t>
       </tg>
+
+      <xg>
+        <x>(san.) шага дон шире веле уке (1981:193)</x>
+
+        <xt>epäjärjestys</xt>
+      </xg>
     </mg>
   </e>
 
@@ -200977,7 +201054,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">hankoaura</t>
+
+        <t pos="N">aura</t>
+
+        <t pos="N">atra</t>
+
+        <t pos="N">aatra</t>
       </tg>
     </mg>
   </e>
@@ -200997,7 +201080,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">auranvannas</t>
       </tg>
     </mg>
   </e>
@@ -201017,8 +201100,21 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pysähtyminen</t>
+
+        <t pos="N">seisahtuminen</t>
+
+        <t pos="N">astuminen</t>
+
+        <td pos="N">konverbirakenteessä äkkinäisen liikkeen ja/tai
+        päättyneisyyden ilmaisu</td>
       </tg>
+
+      <xg>
+        <x>ял вӹкӹ шагалмаш (1981:193)</x>
+
+        <xt>olla omillaan</xt>
+      </xg>
     </mg>
   </e>
 
@@ -201034,10 +201130,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: heinästä oleva - TRa: ruko (копно)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kuhilas</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <tf pos="N">бабки из снопов</tf>
       </tg>
     </mg>
   </e>
@@ -201057,7 +201157,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">kyntötöiden teettäminen</tf>
       </tg>
     </mg>
   </e>
@@ -201077,7 +201177,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pystyttely</t>
+
+        <t pos="N">asetteleminen</t>
+
+        <t pos="N">pysäyttely</t>
       </tg>
     </mg>
   </e>
@@ -201117,7 +201221,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kyntö</t>
+
+        <t pos="N">kyntäminen</t>
+
+        <t pos="N">auraus</t>
       </tg>
     </mg>
   </e>
@@ -213827,8 +213935,44 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">viha</t>
+
+        <t pos="N">suuttumus</t>
+
+        <t pos="N">kiukku</t>
+
+        <t pos="N">ärtymys</t>
+
+        <t pos="N">kiusa</t>
       </tg>
+
+      <xg>
+        <x>шӹдӹм кычаш (1981:213)</x>
+
+        <xt>kantaa vihankaunaa jkta kohtaan</xt>
+      </xg>
+
+      <xg>
+        <x>шӹдӹ шоэш</x>
+
+        <xt>pistää vihaksi</xt>
+
+        <xt>kismittää tai sapettaa</xt>
+      </xg>
+
+      <xg>
+        <x>шӹдӹм шоктат</x>
+
+        <xt>tuottavat harmia</xt>
+      </xg>
+
+      <xg>
+        <x>вӹлӓнем шӹдӹжӹм шӧрӹш (JK)</x>
+
+        <xt>purkasi vihaansa minuun</xt>
+
+        <xt>развеять излить злобу на ком-л.</xt>
+      </xg>
     </mg>
   </e>
 
