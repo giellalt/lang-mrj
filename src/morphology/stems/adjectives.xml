@@ -3954,7 +3954,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">matkatavara=</t>
+
+        <td pos="A">matkatavaroita mukanaan oleva</td>
+
+        <td pos="A">matkatavaran kanssa oleva</td>
+
+        <td pos="A">tietovaroja omaava</td>
       </tg>
     </mg>
   </e>
@@ -3974,7 +3980,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">matkatavaraton</t>
+
+        <t pos="A">pakaasiton</t>
+
+        <t pos="A">tietovaraton</t>
       </tg>
     </mg>
   </e>
@@ -4829,6 +4839,30 @@
 
   <e>
     <lg>
+      <l pos="A">бесцеремонный</l>
+
+      <stg>
+        <st Contlex="A_">бесцеремонный</st>
+      </stg>
+
+      <stress>бесцеремо•нный</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">kursailematon</t>
+
+        <t pos="A">häikäilemätön</t>
+
+        <t pos="A">siekailematon</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="A">библиографиӓн</l>
 
       <stg>
@@ -4842,7 +4876,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">bibliografinen</t>
+
+        <t pos="A">bibliografia=</t>
       </tg>
     </mg>
   </e>
@@ -19316,6 +19352,8 @@
     <lg>
       <l pos="A">ипдӹмӹ</l>
 
+      <l_ref pos="A">тылипдӹмӹ</l_ref>
+
       <stg>
         <st Contlex="A_">ипдӹмӹ</st>
       </stg>
@@ -19327,7 +19365,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kipinätön</t>
+
+        <t pos="A">säkenöimätön</t>
       </tg>
     </mg>
   </e>
@@ -19367,7 +19407,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">säkenöivä</t>
+
+        <t pos="A">kipinä=</t>
       </tg>
     </mg>
   </e>
@@ -19384,10 +19426,11 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Васик п.ш. семӹнь айыртемӹн пумы агыл: Ир жерӓ
+      (1994:</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">varhainen</t>
       </tg>
     </mg>
   </e>
@@ -19407,7 +19450,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">itämainen</t>
+
+        <t pos="A">itä=</t>
       </tg>
     </mg>
   </e>
@@ -19427,7 +19472,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">huominen</t>
+
+        <t pos="A">huomispäiväinen</t>
+
+        <tf pos="A">huomispäiväksi tarkoitettu</tf>
       </tg>
     </mg>
   </e>
@@ -19447,8 +19496,16 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">huominen</t>
+
+        <t pos="A">huomis=</t>
       </tg>
+
+      <xg>
+        <x>иргодшы кечӹ (JK)</x>
+
+        <xt/>
+      </xg>
     </mg>
   </e>
 
@@ -19487,8 +19544,38 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">puhdas</t>
+
+        <t pos="A">siisti</t>
+
+        <tCtn>
+          <t>siisti</t>
+
+          <re>vaate</re>
+        </tCtn>
+
+        <t pos="A">raikas</t>
       </tg>
+    </mg>
+
+    <mg>
+      <semantics>
+        <sem class="FOOD_A"/>
+      </semantics>
+
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">tuore</t>
+
+        <!--kala tai liha-->
+      </tg>
+
+      <xg>
+        <x>ире кол (1981:39)</x>
+
+        <xt>tuore kala</xt>
+      </xg>
     </mg>
   </e>
 
@@ -19507,7 +19594,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">aamuinen</t>
+
+        <t pos="A">aamu=</t>
       </tg>
     </mg>
   </e>
@@ -19548,6 +19637,26 @@
 
       <tg xml:lang="fin">
         <t pos="A"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ирӹ</l>
+
+      <stg>
+        <st Contlex="A_">ирӹкдӹмӹ</st>
+      </stg>
+
+      <stress>и•рӹкдӹмӹ</stress>
+    </lg>
+
+    <mg>
+      <defNative>_SUB Сав улат, пыртенӓм. Васикован уке.</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="A">varhainen</t>
       </tg>
     </mg>
   </e>
