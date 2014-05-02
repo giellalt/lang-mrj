@@ -3336,6 +3336,12 @@
 
         <xt>voi kirnuuntui</xt>
       </xg>
+
+      <xg>
+        <x>(usk.) сӹнзӓ ак вац сӓй (JK)</x>
+
+        <xt>toivottavasti ei tenhätä</xt>
+      </xg>
     </mg>
   </e>
 
@@ -41819,6 +41825,24 @@
 
         <t pos="V">rouskuttaa</t>
       </tg>
+
+      <xg>
+        <x>самынь пыдыртен шуаш (JK)</x>
+
+        <xt>vahingossa rikkoa</xt>
+      </xg>
+
+      <xg>
+        <x>такеш вуйым пыдыртен (1981:129)</x>
+
+        <xt>hän vaivasi päätään turhaan jllak</xt>
+      </xg>
+
+      <xg>
+        <x>(kuv.) ышым пыдырташ (1981:223)</x>
+
+        <xt>yrittää käsittää ymmärtää</xt>
+      </xg>
     </mg>
   </e>
 
@@ -66011,7 +66035,7 @@
       <m>
         <head/>
 
-        <defNative>ровотаяш шайыштен каштеш</defNative>
+        <defNative/>
       </m>
 
       <tg xml:lang="fin">
@@ -66021,6 +66045,22 @@
 
         <t pos="V">varjostaa</t>
       </tg>
+
+      <xg>
+        <x>ит шайышты</x>
+
+        <xt>älä häiritse</xt>
+
+        <xt>älä peitä tai varjosta</xt>
+      </xg>
+
+      <xg>
+        <x>ровотаяш шайыштен каштеш (1981:194)</x>
+
+        <xt>hän ei anna millään työrauhaa</xt>
+
+        <xt>hän käy häiritsemässä työntekoa</xt>
+      </xg>
     </mg>
   </e>
 
@@ -66203,7 +66243,15 @@
       <xg>
         <x>йӓл вӹкӹ шален шӹнзетӹш!</x>
 
+        <xt>sinähän sälytät syyt toisten niskoille</xt>
+
         <xt>sinähän sälytät työt muille (JK)</xt>
+      </xg>
+
+      <xg>
+        <x>шален шуаш (1981:195)</x>
+
+        <xt>sälyttää muille</xt>
       </xg>
     </mg>
   </e>
@@ -66276,7 +66324,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: шалгы•кташ</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">seisottaa</t>
@@ -66372,6 +66420,8 @@
         <t pos="V">haristua</t>
 
         <t pos="V">ravistua</t>
+
+        <td pos="V">(kuv.) raueta tyhjiin tai mennä myttyyn</td>
       </tg>
 
       <xg>
@@ -66431,7 +66481,11 @@
       <defNative>perenosn. расстраивать (о деле) - пыжаш? локтылаш</defNative>
 
       <tg xml:lang="fin">
-        <tf pos="V">heikentää tai huonontaa</tf>
+        <t pos="V">heikentää</t>
+
+        <t pos="V">huonontaa</t>
+
+        <tf pos="V">sekoittaa pakit</tf>
       </tg>
     </mg>
   </e>
@@ -66471,12 +66525,18 @@
       <m>
         <head/>
 
-        <defNative>эдем качде шална</defNative>
+        <defNative/>
       </m>
 
       <tg xml:lang="fin">
         <t pos="V">nääntyä</t>
       </tg>
+
+      <xg>
+        <x>эдем качде шална</x>
+
+        <xt>syömättä ihminen nääntyy</xt>
+      </xg>
     </mg>
   </e>
 
@@ -79013,7 +79073,7 @@
       <m>
         <head/>
 
-        <defNative>синоним: ӓтӹлӓнӓш</defNative>
+        <defNative>Сав: Виловатвлӓн вариантым пуэн: ӓтӹлӓнӓш</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -79102,7 +79162,27 @@
         <t pos="V">kasvattaa</t>
 
         <tf pos="V">hoitaa lapsia</tf>
+
+        <td pos="V">(kuv.) säästää</td>
+
+        <tCtn>
+          <t>(kuv.) säästää</t>
+
+          <re>rahaa</re>
+        </tCtn>
       </tg>
+
+      <xg>
+        <x>ӓшнӹм ӹдӹр (1981:15)</x>
+
+        <xt>ottolapsi tai kasvattityttölapsi</xt>
+      </xg>
+
+      <xg>
+        <x>ӓшнӹм эргӹ (1981:15)</x>
+
+        <xt>ottolapsi tai kasvattilapsi-poika</xt>
+      </xg>
     </mg>
   </e>
 
@@ -79138,7 +79218,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK kts myös: ӓшӹш нӓлӓш</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">muistella</t>
@@ -79150,6 +79230,8 @@
     <lg>
       <l pos="V">ӓштӓлӓш</l>
 
+      <l_ref pos="V">ӓштӹкӓлӓш</l_ref>
+
       <stg>
         <st Contlex="V_АМ">ӓштӓл</st>
       </stg>
@@ -79158,7 +79240,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: ӓштӹкӓлӓш &lt;ти вариант Сав уке.</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">muistaa hämärästi</t>
@@ -79188,6 +79270,28 @@
 
   <e>
     <lg>
+      <l pos="V">ӓштӹкӓлӓш</l>
+
+      <l_ref pos="V">ӓштӓлӓш</l_ref>
+
+      <stg>
+        <st Contlex="V_АМ">ӓштӹкӓл</st>
+      </stg>
+
+      <stress>ӓштӹкӓ•лӓш</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK пыртенӓм: ти вариант Сав уке. Васикован?</defNative>
+
+      <tg xml:lang="fin">
+        <tf pos="V">muistaa hämärästi</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V">ӓшӹндӓрӓлтӓш</l>
 
       <stg>
@@ -79202,6 +79306,8 @@
 
       <tg xml:lang="fin">
         <tf pos="V">muistua mieleen</tf>
+
+        <tf pos="V">jäädä mieleen</tf>
       </tg>
     </mg>
   </e>
@@ -79227,6 +79333,8 @@
       <tg xml:lang="fin">
         <t pos="V">muistella</t>
 
+        <td pos="V">muistaa hartaushetkenä esivanhempia </td>
+
         <td pos="V">nostaa malja esivanhempien muistoksi</td>
       </tg>
     </mg>
@@ -79251,6 +79359,12 @@
 
         <tf pos="V">pitää mielessä</tf>
       </tg>
+
+      <xg>
+        <x>колымешкӹ ӓшӹндӓрӓш (1981:16)</x>
+
+        <xt>muistaa kuolemaan asti</xt>
+      </xg>
     </mg>
   </e>
 
@@ -79289,7 +79403,7 @@
       <m>
         <head/>
 
-        <defNative>мам вара тидӹм ӓшӹндӓрӹлӓш</defNative>
+        <defNative/>
       </m>
 
       <tg xml:lang="fin">
@@ -79297,6 +79411,12 @@
 
         <tf pos="V">muistaa turhaan</tf>
       </tg>
+
+      <xg>
+        <x>мам вара тидӹм ӓшӹндӓрӹлӓш</x>
+
+        <xt>mitäpä näitä muistella (turhaan)</xt>
+      </xg>
     </mg>
   </e>
 
