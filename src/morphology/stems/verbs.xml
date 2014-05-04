@@ -44422,6 +44422,8 @@
     <lg>
       <l pos="V">пӧршӓнгдӓш</l>
 
+      <l_ref pos="V">ӧршӓнгдӓш</l_ref>
+
       <stg>
         <st Contlex="V_ЕМ">пӧршӓнгдӹ</st>
       </stg>
@@ -44441,6 +44443,8 @@
   <e>
     <lg>
       <l pos="V">пӧршӓнгӓш</l>
+
+      <l_ref pos="V">ӧршӓнгӓш</l_ref>
 
       <stg>
         <st Contlex="V_АМ">пӧршӓнг</st>
@@ -79333,7 +79337,7 @@
       <tg xml:lang="fin">
         <t pos="V">muistella</t>
 
-        <td pos="V">muistaa hartaushetkenä esivanhempia </td>
+        <td pos="V">muistaa hartaushetkenä esivanhempia</td>
 
         <td pos="V">nostaa malja esivanhempien muistoksi</td>
       </tg>
@@ -79441,7 +79445,11 @@
       <tg xml:lang="fin">
         <t pos="V">pahastua</t>
 
+        <tf pos="V">panna pahakseen</tf>
+
         <t pos="V">loukkaantua</t>
+
+        <t pos="V">moittia</t>
 
         <t pos="V">syyttää</t>
       </tg>
@@ -79463,7 +79471,7 @@
       <m>
         <head/>
 
-        <defNative>синоним: ӧрдӓлтӓш</defNative>
+        <defNative>Сав (1981:110) синоним: ӧрдӓлтӓш (Килемар)</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -79530,6 +79538,8 @@
         </tCtn>
 
         <tf pos="V">syöttää yli</tf>
+
+        <td pos="V">antaa mahdollisuus lihoa (1981:110; 2008:x)</td>
       </tg>
     </mg>
   </e>
@@ -79610,6 +79620,8 @@
     <lg>
       <l pos="V">ӧршӓнгдӓш</l>
 
+      <l_ref pos="V">пӧршӓнгдӓш</l_ref>
+
       <stg>
         <st Contlex="V_ЕМ">ӧршӓнгдӹ</st>
       </stg>
@@ -79629,6 +79641,8 @@
   <e>
     <lg>
       <l pos="V">ӧршӓнгӓш</l>
+
+      <l_ref pos="V">пӧршӓнгӓш</l_ref>
 
       <stg>
         <st Contlex="V_АМ">ӧршӓнг</st>
