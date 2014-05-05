@@ -1809,7 +1809,8 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>10-томан: шим аист = шим цӓрлӓ́нгӹ. Сав: цӓрлӓ́н(гӹ) - цапля
+      myös аист</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">haikara</t>
@@ -35811,10 +35812,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sev-Zap.govor?</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N">?!x</t>
+        <t pos="N"/>
       </tg>
     </mg>
   </e>
@@ -35831,10 +35832,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав уке. JK: imen'jä _OLMA?</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">nimipäivä</t>
+
+        <td pos="N">syntymäpäivä (JK)</td>
       </tg>
     </mg>
   </e>
@@ -38238,6 +38241,8 @@
       <tg xml:lang="fin">
         <t pos="N">kaide</t>
 
+        <t pos="N">kaidekoukku</t>
+
         <t pos="N">pirta</t>
       </tg>
     </mg>
@@ -38543,7 +38548,19 @@
         <t pos="N">loppusumma</t>
 
         <t pos="N">lopputulos</t>
+
+        <t pos="N">tulokset</t>
+
+        <t pos="N">yhteenveto</t>
       </tg>
+
+      <xg>
+        <x>итогым ӹштӓш (JK)</x>
+
+        <xt>tehdä yhteenveto (10)</xt>
+
+        <xt>laskea loppusumma (1992:71)</xt>
+      </xg>
     </mg>
   </e>
 
@@ -38574,9 +38591,9 @@
       <stg>
         <st Contlex="N_ОЛМА">итӹнӱ</st>
 
-        <st Contlex="NTag">ӱтӹнӱ</st>
+        <st Contlex="N_ОЛМА_SUB">ӱтӹнӱ</st>
 
-        <st Contlex="NTag">йӹтӹнӱ</st>
+        <st Contlex="N_ОЛМА_SUB">йӹтӹнӱ</st>
       </stg>
 
       <stress>итӹ•нӱ</stress>
@@ -38598,6 +38615,8 @@
   <e>
     <lg>
       <l pos="N">итӹр</l>
+
+      <l_ref pos="N">итӹрванды</l_ref>
 
       <stg>
         <st Contlex="N_КОЛ">итӹр</st>
@@ -44323,9 +44342,19 @@
         <t pos="N">puhe</t>
 
         <t pos="N">soitinkieli</t>
-
-        <t pos="N"/>
       </tg>
+
+      <xg>
+        <x/>
+
+        <xt/>
+      </xg>
+
+      <xg>
+        <x>цилӓштӹнок йӹлмӹштӹ лывырген кеш (1981:84)</x>
+
+        <xt>kaikilla </xt>
+      </xg>
     </mg>
   </e>
 
@@ -86709,10 +86738,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав уке. JK: лыйге кемӓш ?</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N">&lt;</t>
+        <t pos="N"/>
       </tg>
     </mg>
   </e>
@@ -86735,7 +86764,23 @@
         <t pos="N">nurkka</t>
 
         <t pos="N">kulma</t>
+
+        <td pos="N">tuvan osa (JK)</td>
       </tg>
+
+      <xg>
+        <x>ӱл лыкыш валаш (JK)</x>
+
+        <xt>mennä alakylälle</xt>
+
+        <xt>спуститься в нижний переулок села</xt>
+      </xg>
+
+      <xg>
+        <x>ӓрвӓтӹ лыкышты шӹнзӓ (JK)</x>
+
+        <xt>morsian istuu nurkkauksessa</xt>
+      </xg>
     </mg>
   </e>
 
@@ -101460,7 +101505,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>män'in'ÿk JK: kts myös именья</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">nimipäivä</t>
@@ -202458,6 +202503,14 @@
         <t pos="N">sanasto-aines</t>
 
         <td pos="N">sanasto (JK)</td>
+
+        <td pos="N">suulas tai kielevä ihm (JK)</td>
+      </tg>
+
+      <tg xml:lang="rus">
+        <td pos="N">владение языком</td>
+
+        <t pos="N">словесность</t>
       </tg>
     </mg>
   </e>
