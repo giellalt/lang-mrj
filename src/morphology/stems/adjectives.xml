@@ -20577,6 +20577,8 @@
     <lg>
       <l pos="A">йовыр</l>
 
+      <l_ref pos="A">кажмак</l_ref>
+
       <stg>
         <st Contlex="A_">йовыр</st>
       </stg>
@@ -22781,7 +22783,19 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kuiva</t>
+
+        <tCtn>
+          <t>kuiva</t>
+
+          <re>iho</re>
+        </tCtn>
+
+        <t pos="A">veltto</t>
+
+        <t pos="A">kurtistunut</t>
+
+        <t pos="A">nahistunut</t>
       </tg>
     </mg>
   </e>
@@ -22798,10 +22812,15 @@
     </lg>
 
     <mg>
-      <defNative>ugyc anzh!</defNative>
+      <defNative>JK: когоэшнӹшӹ. JK (mhr) кавыра• - обычный; обыкновенный
+      (О.Шабдар)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A">uljas</t>
+        <t pos="A">ylpeä</t>
+
+        <t pos="A">ylpeäluontoinen</t>
+
+        <td pos="A">uljas (JK)</td>
       </tg>
     </mg>
   </e>
@@ -23118,6 +23137,8 @@
     <lg>
       <l pos="A">кадыра</l>
 
+      <l_ref pos="A">кадыри</l_ref>
+
       <stg>
         <st Contlex="A_">кадыра</st>
       </stg>
@@ -23181,7 +23202,29 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">riitainen</t>
+
+        <t pos="A">riitaisa</t>
+
+        <t pos="A">toraisa</t>
+
+        <t pos="A">käyrä</t>
+
+        <t pos="A">lenko</t>
+
+        <tCtn>
+          <t>lenko</t>
+
+          <re>seiväs</re>
+        </tCtn>
+
+        <t pos="A">kuivunut</t>
+
+        <tCtn>
+          <t>kuivunut</t>
+
+          <re>oksa</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -23189,6 +23232,8 @@
   <e>
     <lg>
       <l pos="A">кажмак</l>
+
+      <l_ref pos="A">йовыр</l_ref>
 
       <stg>
         <st Contlex="A_">кажмак</st>
@@ -23198,10 +23243,18 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>vanh. (mhr яжар)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">rietas</t>
+
+        <t pos="A">irstas</t>
+
+        <t pos="A">haureellinen</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">развратный</t>
       </tg>
     </mg>
   </e>
@@ -23400,10 +23453,13 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Anzh: федеральный казначействын (JK) - valtion budjettiin
+      kuuluva</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">valtionrahasto=</t>
+
+        <tf pos="A">rahastoa sisältävä</tf>
       </tg>
     </mg>
   </e>
@@ -23423,7 +23479,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">rahastoton</t>
       </tg>
     </mg>
   </e>
@@ -23443,8 +23499,34 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">karhea</t>
+
+        <t pos="A">karkea</t>
+
+        <t pos="A">rosoinen</t>
+
+        <t pos="A">rapea</t>
+
+        <tCtn>
+          <t>rapea</t>
+
+          <re>leipäkuori</re>
+        </tCtn>
       </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">шероховатый</t>
+
+        <t pos="A">засохший</t>
+
+        <t pos="A">замёрзший</t>
+      </tg>
+
+      <xg>
+        <x>казыра коман сыкыр (1981: )</x>
+
+        <xt>leivällä on rapea kuori</xt>
+      </xg>
     </mg>
   </e>
 
@@ -52249,6 +52331,55 @@
 
   <e>
     <lg>
+      <l pos="A">мобильный</l>
+
+      <stg>
+        <st Contlex="A_">мобильный</st>
+      </stg>
+
+      <stress>моби•льный</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK (пыртенӓм) синоним: сотовый</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="A">mobiili=</t>
+
+        <t pos="A">känny=</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">мобильный</l>
+
+      <stg>
+        <st Contlex="A_">мобильный</st>
+      </stg>
+
+      <stress>моби•льный</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK синоним: портативный; способный к самостоятельному
+      передвижению</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="A">siirrettävä</t>
+
+        <t pos="A">liikkuva</t>
+
+        <t pos="A">lähtövalmis</t>
+
+        <t pos="A">liikkuvainen (JK)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="A">мотигӓӓн</l>
 
       <stg>
@@ -60445,9 +60576,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">koivunvärinen</t>
-
         <t pos="A">vaaleanvihreä</t>
+
+        <tf pos="A">koivunlehden värinen</tf>
 
         <td pos="A">salaatinvihreä (JK)</td>
       </tg>

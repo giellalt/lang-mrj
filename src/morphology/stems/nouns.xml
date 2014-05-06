@@ -44353,7 +44353,7 @@
       <xg>
         <x>цилӓштӹнок йӹлмӹштӹ лывырген кеш (1981:84)</x>
 
-        <xt>kaikilla </xt>
+        <xt>kaikilla</xt>
       </xg>
     </mg>
   </e>
@@ -46538,6 +46538,10 @@
 
         <t pos="N">rantatörö</t>
       </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">пескарь</t>
+      </tg>
     </mg>
   </e>
 
@@ -46654,11 +46658,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N">riitapukari</t>
+        <tf pos="N">kuivuneet oksat puussa</tf>
+
+        <td pos="N">villiomenapuiden tiheitä kuivuneita oksia (1981: )</td>
+
+        <t pos="N">riitapukari (kuv.)</t>
 
         <t pos="N">torapussi</t>
-
-        <tf pos="N">kuivuneet oksat puussa</tf>
       </tg>
     </mg>
   </e>
@@ -46907,6 +46913,8 @@
         <t pos="N">rahavarat</t>
 
         <t pos="N">kassa</t>
+
+        <tf pos="N">valtion budjettikassa</tf>
       </tg>
     </mg>
   </e>
@@ -46943,7 +46951,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>hist.</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">rahasto</t>
@@ -96151,6 +96159,31 @@
 
       <tg xml:lang="fin">
         <t pos="N">mobilisointi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">мобильнӹк</l>
+
+      <stg>
+        <st Contlex="N_КОЛ_SUB">мобильнӹк</st>
+      </stg>
+
+      <stress>моби•льнӹк</stress>
+    </lg>
+
+    <sources>
+      <media/>
+    </sources>
+
+    <mg>
+      <defNative>Krj tavoin. JK: мобильный (substantivirovannyj) - мӹнь
+      мобильный гӹц сӓрӓлӓм</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">kännykkä</t>
       </tg>
     </mg>
   </e>
@@ -201947,10 +201980,15 @@
     </lg>
 
     <mg>
-      <defNative>канюк = хищная птица семейства ястребиных</defNative>
+      <defNative>(лат. Buteo buteo) Wiki: канюк = хищная птица семейства
+      ястребиных. Чув: шаланкă - куракран пысăкрах кайăк.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">hiirihaukka</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">канюк</t>
       </tg>
     </mg>
   </e>
@@ -201967,10 +202005,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав уке.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">proomu</t>
+
+        <t pos="N">lotja</t>
       </tg>
     </mg>
   </e>
