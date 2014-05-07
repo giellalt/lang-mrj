@@ -20808,7 +20808,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">avara</t>
+
+        <t pos="A">aava</t>
+
+        <t pos="A">lakea</t>
       </tg>
     </mg>
   </e>
@@ -20828,8 +20832,58 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">viileä</t>
+
+        <t pos="A">raikas</t>
+
+        <t pos="A">avara</t>
+
+        <t pos="A">puhdas</t>
+
+        <tCtn>
+          <t>puhdas</t>
+
+          <re>ääni</re>
+        </tCtn>
+
+        <t pos="A">joutuisa</t>
+
+        <tCtn>
+          <t>joutuisa</t>
+
+          <re>hevonen</re>
+        </tCtn>
+
+        <td pos="A">rauhaisa (JK)</td>
       </tg>
+
+      <xg>
+        <x>йонгата мардеж (1981: )</x>
+
+        <xt>raikas viileä tuuli</xt>
+      </xg>
+
+      <xg>
+        <x>йонгата вӹлӹ (1981: )</x>
+
+        <xt>joutuisa tai nopeakulkuinen tamma</xt>
+
+        <xt>ходкая кобыла</xt>
+      </xg>
+
+      <xg>
+        <x>йонгата юкан (1981: )</x>
+
+        <xt>puhdas ääni</xt>
+      </xg>
+
+      <xg>
+        <x>йонгата анжалтышан (1981: )</x>
+
+        <xt>kirkasta tai seesteista katsetta omaava</xt>
+
+        <xt>с ясным взглядом </xt>
+      </xg>
     </mg>
   </e>
 
@@ -20872,7 +20926,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">aukioton</t>
+
+        <t pos="A">aukeamaton</t>
       </tg>
     </mg>
   </e>
@@ -20889,10 +20945,18 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: лач л.ш. семӹнь веле пуэн.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">tasainen</t>
+
+        <t pos="A">tasa-astuva</t>
+
+        <tCtn>
+          <t>tasa-astuva</t>
+
+          <re>hevonen</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -20912,7 +20976,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">salaisuus=</t>
+
+        <tf pos="A">salaisuutta sisältävä</tf>
       </tg>
     </mg>
   </e>
@@ -20929,10 +20995,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>vanh. йывыр - секрет (1981: )</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">salaamaton</t>
       </tg>
     </mg>
   </e>
@@ -20952,7 +21018,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">=virsuinen</t>
+
+        <td pos="A">virsut jalassa oleva</td>
       </tg>
     </mg>
   </e>
@@ -20972,7 +21040,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">virsuton</t>
       </tg>
     </mg>
   </e>
@@ -20992,8 +21060,40 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">öinen</t>
+
+        <t pos="A">yö=</t>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">йыдпелвел</l>
+
+      <stg>
+        <st Contlex="A_">йыдпелвел</st>
+      </stg>
+
+      <stress>йыдпелве•л</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK: attrib.</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="A">pohjoisen</t>
+
+        <tf pos="A">pohjoispuolella oleva</tf>
+
+        <tf pos="A">pohjoisessa oleva</tf>
+      </tg>
+
+      <xg>
+        <x>йыдпелвел мардеж (1981: )</x>
+
+        <xt>pohjoinen tuuli</xt>
+      </xg>
     </mg>
   </e>
 
@@ -21012,7 +21112,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">pohjoisen</t>
+
+        <tf pos="A">pohjoispuolella oleva</tf>
       </tg>
     </mg>
   </e>
@@ -21020,6 +21122,8 @@
   <e>
     <lg>
       <l pos="A">йыжгата</l>
+
+      <l_ref pos="A">яжгата</l_ref>
 
       <stg>
         <st Contlex="A_">йыжгата</st>
@@ -21029,11 +21133,37 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: Виловат говор. Васикованат улы!</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kirpeä</t>
+
+        <tCtn>
+          <t>kirpeä</t>
+
+          <re>tuuli</re>
+        </tCtn>
+
+        <t pos="A">tuima</t>
+
+        <t pos="A">terävä</t>
+
+        <t pos="A">karkea</t>
+
+        <t pos="A">karheapintainen</t>
       </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">резкий</t>
+
+        <t pos="A">шереховатый</t>
+      </tg>
+
+      <xg>
+        <x>йыжгата шуды (1981: )</x>
+
+        <xt>karhea heinä</xt>
+      </xg>
     </mg>
   </e>
 
@@ -21043,16 +21173,30 @@
 
       <stg>
         <st Contlex="A_">йыкырикӓ</st>
+
+        <st Contlex="A_">йыкырака</st>
       </stg>
 
       <stress>йыкыри•кӓ</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: йыкырака (Васик уке)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">apea</t>
+
+        <t pos="A">kolko</t>
+
+        <tf pos="A">ikävissään oleva</tf>
+
+        <t pos="A">haikea</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">скучный</t>
+
+        <t pos="A">жуткий</t>
       </tg>
     </mg>
   </e>
@@ -21072,8 +21216,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kärytön</t>
       </tg>
+
+      <xg>
+        <x>йылымы паштек тӹ вӓрӹштӹ йылемдӹмӹ вӓр кодде (JK)</x>
+
+        <xt>tulipalon jälkeen siinä paikassa ei ole jäänyt kärytöntä
+        paikkaa</xt>
+      </xg>
     </mg>
   </e>
 
@@ -21092,7 +21243,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">käryinen</t>
       </tg>
     </mg>
   </e>
@@ -107676,6 +107827,8 @@
     <lg>
       <l pos="A">яжгата</l>
 
+      <l_ref pos="A">йыжгата</l_ref>
+
       <stg>
         <st Contlex="A_">яжгата</st>
       </stg>
@@ -107684,11 +107837,45 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав улы. Васик улы.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kirpeä</t>
+
+        <tCtn>
+          <t>kirpeä</t>
+
+          <re>tuuli</re>
+        </tCtn>
+
+        <t pos="A">tuima</t>
+
+        <t pos="A">terävä</t>
+
+        <t pos="A">karkea</t>
+
+        <t pos="A">karheapintainen</t>
       </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">резкий</t>
+
+        <t pos="A">шереховатый</t>
+      </tg>
+
+      <xg>
+        <x>яжгата шуды (1981: )</x>
+
+        <xt>karhea heinä</xt>
+
+        <xt>трава с шероховатой поверхностью</xt>
+      </xg>
+
+      <xg>
+        <x/>
+
+        <xt/>
+      </xg>
     </mg>
   </e>
 

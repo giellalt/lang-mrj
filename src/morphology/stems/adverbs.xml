@@ -4933,6 +4933,30 @@
 
   <e>
     <lg>
+      <l pos="Adv">йыдалвидӓ</l>
+
+      <stg>
+        <st Contlex="ADV_">йыдалвидӓ</st>
+      </stg>
+
+      <stress>йыдалви•дӓ</stress>
+    </lg>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>JK: Siirto N &gt; ADV! йыдалвидӓ = йыдал яла</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <tf pos="Adv">virsuissa jaloin</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Adv">йыдвашт</l>
 
       <stg>
@@ -4946,8 +4970,18 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">yökauden</t>
+
+        <tf pos="Adv">läpi yön</tf>
+
+        <tf pos="Adv">koko yön</tf>
       </tg>
+
+      <xg>
+        <x>йыдвашт вычышым (1981: )</x>
+
+        <xt>odotin läpi yön</xt>
+      </xg>
     </mg>
   </e>
 
