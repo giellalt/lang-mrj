@@ -489,11 +489,11 @@ LEXICON INF
 
 LEXICON NEG-PRC
 +NegPrc+Der/дЫмЫ:%>дЫ2м%{ыӹØ%} NMN_ТӸРВӸ ;
-+NegPrc+Der/дЫмЫ+Sg+Lat:%>дЫ2м%{ыӹØ%}%>м%{ыӹØ%%>ешкӹ K ;
++NegPrc+Der/дЫмЫ+Sg+Lat:%>дЫ2м%{ыӹØ%}%>м%{ыӹØ%}%>ешкӹ K ;
 
 LEXICON PSS-PRC
 +PssPrc+Der/мЫ:%>м%{ыӹØ%} NMN_ТӸРВӸ ;
-+PssPrc+Der/мЫ+Sg+Lat:%>м%{ыӹØ%%>ешкӹ K ; ! ()
++PssPrc+Der/мЫ+Sg+Lat:%>м%{ыӹØ%}%>ешкӹ K ; ! ()
 
 ! vim: set ft=xfst-lexc:
 
