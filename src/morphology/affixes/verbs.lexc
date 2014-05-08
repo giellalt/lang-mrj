@@ -19,6 +19,7 @@ LEXICON V_АМ_SUB !!= * @CODE@ substandard
 LEXICON V_ЕМ_SUB !!= * @CODE@ substandard
 +Use/Sub: V_ЕМ ;
 
+
 LEXICON V_АМ !!= @CODE@ ӹштӓш:ӹшт
 +V: INDPRSSG1-am ;
 +V: INDPRSSG2-am ;
@@ -60,8 +61,18 @@ LEXICON V_АМ !!= @CODE@ ӹштӓш:ӹшт
 +V: INF ;
 +V+ActPrc:%>ш%{ыӹØ%} K ; !! Contlex needed
 +V+ActPrc+Der/шЫ:%>ш%{ыӹØ%} NMN_ТӸРВӸ ;
-+V+PssPrc+Der/мЫ:%>м%{ыӹØ%} NMN_ТӸРВӸ ;
-+V+NegPrc+Der/дЫмЫ:%>дЫ2м%{ыӹØ%} NMN_ТӸРВӸ ;
++V: PSS-PRC ;
++V: NEG-PRC ;
+
+LEXICON V_АМ-3
+ V_АМ-SG3 ;
++V: INDPRSPL3-am ;
++V: INDPRSPL3CONNEG-am ;
++V: INDPRT1PL3-am ;
++V: INDPRT1PL3CONNEG-am ;
++V: INDPRT2PL3-am ;
++V: INDPRT2NEG-am ;
++V: IMPRTPL3-am ;
 
 LEXICON V_АМ-SG3 !! пелӓш: онг пелеш
 +V: INDPRSSG3-am ;
@@ -71,6 +82,12 @@ LEXICON V_АМ-SG3 !! пелӓш: онг пелеш
 +V: INDPRT2SG3-am ;
 +V: IMPRTSG3-am ;
 +V: DESSG3-am ;
+!! What else is needed 2014-05-08
++V: INF ;
++V+ActPrc:%>ш%{ыӹØ%} K ; !! Contlex needed
++V+ActPrc+Der/шЫ:%>ш%{ыӹØ%} NMN_ТӸРВӸ ;
++V: PSS-PRC ;
++V: NEG-PRC ;
 
 
 !LEXICON V_ЕМ  = * @CODE@ колташ:колт
@@ -117,6 +134,16 @@ LEXICON V_АМ-SG3 !! пелӓш: онг пелеш
 !+V+PssPrc+Der/мЫ:%>%{ыӹØ%}мЫ2 NMN_ТӸРВӸ ;
 !+V+NegPrc+Der/дЫмЫ:%>%{ыӹØ%}дЫ2мЫ2 NMN_ТӸРВӸ ;
 
+LEXICON V_ЕМ-3
+ V_ЕМ-SG3 ;
++V: INDPRSPL3-em ;
++V: INDPRSPL3CONNEG-am ;
++V: INDPRT1PL3-am ;
++V: INDPRT1PL3CONNEG-am ;
++V: INDPRT2PL3-am ;
++V: INDPRT2NEG-am ;
++V: IMPRTPL3-am ;
+
 LEXICON V_ЕМ-SG3 !! хӹдӹртӓш: хӹдӹртӹ
 +V: INDPRSSG3-em ;
 +V: INDPRSCONNEG-am ;
@@ -125,6 +152,13 @@ LEXICON V_ЕМ-SG3 !! хӹдӹртӓш: хӹдӹртӹ
 +V: INDPRT2SG3-am ;
 +V: IMPRTSG3-am ;
 +V: DESSG3-am ;
+!! What else is needed 2014-05-08
++V: INF ;
++V+ActPrc:%>ш%{ыӹØ%} K ; !! Contlex needed
++V+ActPrc+Der/шЫ:%>ш%{ыӹØ%} NMN_ТӸРВӸ ;
++V: PSS-PRC ;
++V: NEG-PRC ;
+
 
 !!-1
 LEXICON V_ЕМ  !!= * @CODE@ колташ:колты
@@ -168,9 +202,8 @@ LEXICON V_ЕМ  !!= * @CODE@ колташ:колты
 +V: INF ;
 +V+ActPrc:%>ш%{ыӹØ%} K  ; !! Contlex needed
 +V+ActPrc+Der/шЫ:%>ш%{ыӹØ%} NMN_ТӸРВӸ ;
-+V+PssPrc+Der/мЫ:%>м%{ыӹØ%} NMN_ТӸРВӸ ;
-+V+NegPrc+Der/дЫмЫ:%>дЫ2м%{ыӹØ%} NMN_ТӸРВӸ ;
-
++V: PSS-PRC ;
++V: NEG-PRC ;
 
 
 !! !!NONPAST 
@@ -454,6 +487,13 @@ LEXICON DESPL3-em
 LEXICON INF
 +Inf:%>%{аӓ%}ш K ;
 
+LEXICON NEG-PRC
++NegPrc+Der/дЫмЫ:%>дЫ2м%{ыӹØ%} NMN_ТӸРВӸ ;
++NegPrc+Der/дЫмЫ+Sg+Lat:%>дЫ2м%{ыӹØ%}%>м%{ыӹØ%%>ешкӹ K ;
+
+LEXICON PSS-PRC
++PssPrc+Der/мЫ:%>м%{ыӹØ%} NMN_ТӸРВӸ ;
++PssPrc+Der/мЫ+Sg+Lat:%>м%{ыӹØ%%>ешкӹ K ; ! ()
 
 ! vim: set ft=xfst-lexc:
 
