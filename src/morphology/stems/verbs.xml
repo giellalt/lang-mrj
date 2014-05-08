@@ -3565,7 +3565,7 @@
       <l pos="V">валгалташ</l>
 
       <stg>
-        <st Contlex="V_АМ">валгалт</st>
+        <st Contlex="V_АМ-SG3">валгалт</st>
       </stg>
 
       <stress>валга•лташ</stress>
@@ -9625,7 +9625,7 @@
       <l pos="V">йочкаш</l>
 
       <stg>
-        <st Contlex="V_ЕМ">йочкы</st>
+        <st Contlex="V_ЕМ-SG3">йочкы</st>
       </stg>
 
       <stress>йо•чкаш</stress>
@@ -9635,7 +9635,7 @@
       <defNative>vain Sg3!</defNative>
 
       <tg xml:lang="fin">
-        <te pos="V">särkeä päätä (sg3!)</te>
+        <tf pos="V">särkeä päätä</tf>
       </tg>
     </mg>
   </e>
@@ -14400,7 +14400,7 @@
       <l pos="V">келесӓлтӓш</l>
 
       <stg>
-        <st Contlex="V_АМ">келесӓлт</st>
+        <st Contlex="V_АМ-3">келесӓлт</st>
       </stg>
 
       <stress>келесӓ•лтӓш</stress>
@@ -22211,6 +22211,12 @@
 
         <t pos="V">vilustuttaa</t>
       </tg>
+
+      <xg>
+        <x>мӧрӹм кӹлмӹктен шӹндӓш (JK)</x>
+
+        <xt>pakastaa marjoja</xt>
+      </xg>
     </mg>
   </e>
 
@@ -22219,7 +22225,7 @@
       <l pos="V">кӹлмӹктӓш</l>
 
       <stg>
-        <st Contlex="V_ЕМ">кӹлмӹктӹ</st>
+        <st Contlex="V_ЕМ-SG3">кӹлмӹктӹ</st>
       </stg>
 
       <stress>кӹлмӹ•ктӓш</stress>
@@ -22229,7 +22235,7 @@
       <m>
         <head/>
 
-        <defNative>Sg3</defNative>
+        <defNative>vain Sg3</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -22248,6 +22254,12 @@
         <x>улы монгырым кӹлмӹктӓ</x>
 
         <xt>viluttaa kauttaltaan</xt>
+      </xg>
+
+      <xg>
+        <x>тагачы кӹлмӹктен шӹнден (JK)</x>
+
+        <xt>tänään pakastaa</xt>
       </xg>
     </mg>
   </e>
@@ -28760,18 +28772,41 @@
       <l pos="V">маналташ</l>
 
       <stg>
-        <st Contlex="V_АМ">маналт</st>
+        <st Contlex="V_АМ-3">маналт</st>
       </stg>
 
       <stress>мана•лташ</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: kivistynyt ilmaus erityisesti sg3</defNative>
 
       <tg xml:lang="fin">
         <tf pos="V">olla nimeltään</tf>
+
+        <t pos="V">kutsutaan</t>
       </tg>
+
+      <xg>
+        <x>Малын ти ӓнгӹр Сазан ӓнгӹр маналтеш? (JK)</x>
+
+        <xt>Miksi tätä jokea kutsutaan Sazanjoeksi?</xt>
+
+        <xt>Miksi tämä joki on nimeltään Sazanjoki?</xt>
+      </xg>
+
+      <xg>
+        <x>Лӹм шамаквлӓ вес семӹньжӹ субстантив маналтыт (JK)</x>
+
+        <xt>Nimisanat ovat toiselta nimeltään substantiivit.</xt>
+      </xg>
+
+      <xg>
+        <x>Тенгежӹ диджей маналтыт кыды-тидӹжӹ музыкым сирен ак мыштеп ма?
+        (В.Алексеев Vk 26.12.10)</x>
+
+        <xt>On olemassa niin kutsutut dj eivätkö he osaa tehdä musiikkia?</xt>
+      </xg>
     </mg>
   </e>
 
@@ -40300,6 +40335,34 @@
 
   <e>
     <lg>
+      <l pos="V">попалташ</l>
+
+      <stg>
+        <st Contlex="V_ЕМ-3">попалты</st>
+      </stg>
+
+      <stress>попа•лташ</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK: kivistyneinä muotoina</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="V">sanotaan</t>
+
+        <t pos="V">äännetään</t>
+      </tg>
+
+      <xg>
+        <x>ти шамак тенге ак попалт (JK)</x>
+
+        <xt>tätä sanaa ei äännetä noin</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V">попаш</l>
 
       <stg>
@@ -49222,6 +49285,20 @@
       <tg xml:lang="fin">
         <tf pos="V">saada häkämyrkytys</tf>
       </tg>
+
+      <xg>
+        <x>вуй севӹмешкӹ лӓкмӹлӓ (JK)</x>
+
+        <xt>pitää poistua ennen kuin tulee häkämyrkytys</xt>
+      </xg>
+
+      <xg>
+        <x>пӧрт севен (1981: )</x>
+
+        <xt>tapahtui häkämyrkytys (JK)</xt>
+
+        <xt>угорели (1981)</xt>
+      </xg>
     </mg>
   </e>
 
@@ -49589,7 +49666,8 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: merkityksessä "kirjoitetaan" - tämä vain 3.p.: mrj rus
+      &lt;-&gt; suomi</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">rekisteröidä</t>
@@ -50490,14 +50568,14 @@
       <l_ref pos="V">сотемӓш</l_ref>
 
       <stg>
-        <st Contlex="V_АМ">сотемӓлтӓш</st>
+        <st Contlex="V_АМ-SG3">сотемӓлтӓш</st>
       </stg>
 
       <stress>сотемӓ•лтӓш</stress>
     </lg>
 
     <mg>
-      <defNative>Sg3</defNative>
+      <defNative>vain Sg3</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">sarastaa</t>
@@ -50514,14 +50592,14 @@
       <l_ref pos="V">сотемӓлтӓш</l_ref>
 
       <stg>
-        <st Contlex="V_АМ">сотемӓш</st>
+        <st Contlex="V_АМ-SG3">сотемӓш</st>
       </stg>
 
       <stress>соте•мӓш</stress>
     </lg>
 
     <mg>
-      <defNative>Sg3</defNative>
+      <defNative>vain Sg3</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">sarastaa</t>
@@ -56014,7 +56092,7 @@
       <m>
         <head/>
 
-        <defNative>вӓрӹштӹ тыктымактыл шалгаш</defNative>
+        <defNative/>
       </m>
 
       <tg xml:lang="fin">
@@ -56024,6 +56102,12 @@
 
         <td pos="V">kuluttaa kenkiä</td>
       </tg>
+
+      <xg>
+        <x>вӓрӹштӹ тыктымактыл шалгаш</x>
+
+        <xt>polkea paikallaan</xt>
+      </xg>
     </mg>
   </e>
 
