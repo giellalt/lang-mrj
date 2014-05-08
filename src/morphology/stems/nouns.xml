@@ -41867,6 +41867,8 @@
 
         <t pos="N">sivullinen</t>
 
+        <t pos="N">ventovieras (JK)</t>
+
         <t pos="N">kansa</t>
 
         <t pos="N">yhteisö</t>
@@ -178514,11 +178516,19 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>сват</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">puhemies</t>
+
+        <t pos="N">kosiomies</t>
       </tg>
+
+      <xg>
+        <x>тыклар мары</x>
+
+        <xt>kosiomies</xt>
+      </xg>
     </mg>
   </e>
 
@@ -178534,10 +178544,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: (Килемар гов.) тыгылацы</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kosionainen</t>
+
+        <td pos="N">naimiskaupan välittäjä-nainen</td>
       </tg>
     </mg>
   </e>
@@ -178554,7 +178566,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав уке.</defNative>
 
       <tg xml:lang="fin">
         <t pos="N"/>
@@ -178574,10 +178586,11 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: гагара чернозобая; JK: комбы ганьрак кек. WIKI (лат.
+      Gavia arctica)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kuikka</t>
       </tg>
     </mg>
   </e>
@@ -178597,7 +178610,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">jalkojen tömistely</tf>
+
+        <tf pos="N">tallaaminen paikallaan</tf>
       </tg>
     </mg>
   </e>
@@ -178623,6 +178638,42 @@
 
         <t pos="N">valot</t>
       </tg>
+
+      <xg>
+        <x>тылым пижӹктӓш</x>
+
+        <xt>sytyttää tuli tai tehdä nuotio</xt>
+      </xg>
+
+      <xg>
+        <x>тылым чӱктӓш</x>
+
+        <xt>laittaa valot päälle</xt>
+      </xg>
+
+      <xg>
+        <x>тылым пиштӓш (1981: )</x>
+
+        <xt>lisätä polttopuita</xt>
+      </xg>
+
+      <xg>
+        <x>тыл лишнӹ шӹнзӓш (1981: )</x>
+
+        <xt>istua nuotion äärellä</xt>
+      </xg>
+
+      <xg>
+        <x>тыл йӧрен кеш (JK)</x>
+
+        <xt>tuli sähkökatkos</xt>
+      </xg>
+
+      <xg>
+        <x>(folkl.) тыл йӹр нӓлӓш (1981: )</x>
+
+        <xt/>
+      </xg>
     </mg>
   </e>
 
@@ -178638,10 +178689,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>кочерга</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">hiilihanko</t>
+
+        <t pos="N">hiilikoukku</t>
       </tg>
     </mg>
   </e>
@@ -178658,10 +178711,18 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>миф.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">gehenna</t>
+
+        <t pos="N">helvetti</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <tf pos="N">геена огненная</tf>
+
+        <tf pos="N">огненное страшилище</tf>
       </tg>
     </mg>
   </e>
