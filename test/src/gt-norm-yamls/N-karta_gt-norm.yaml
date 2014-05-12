@@ -1,0 +1,179 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Noun - карта: # Noun 'map'
+#muuten melkein sama kuin комбы... paitsi NomSg!
+     карта+N+Sg+Nom: карта
+     карта+N+Sg+Gen: картын
+     карта+N+Sg+Acc: картым
+     карта+N+Sg+Com: картыге
+     карта+N+Sg+Dat: картылан
+     карта+N+Sg+Ine: картышты
+     карта+N+Sg+Ill: [картышкы, картыш]
+     карта+N+Sg+Lat: картеш
+     карта+N+Sg+Comp: картыла
+     карта+N+Sg+Abe: картыде
+     карта+N+Pl+Nom: картывлӓ
+     карта+N+Pl+Gen: картывлӓн
+     карта+N+Pl+Acc: картывлӓм
+     карта+N+Pl+Com: картывлӓге
+     карта+N+Pl+Dat: картывлӓлӓн
+     карта+N+Pl+Ine: картывлӓштӹ
+     карта+N+Pl+Ill: [картывлӓшкӹ, картывлӓш]
+     карта+N+Pl+Lat: картывлӓэш
+     карта+N+Pl+Comp: картывлӓлӓ
+     карта+N+Pl+Abe: картывлӓде
+
+#Sg,PxSg1
+     карта+N+Sg+PxSg1+Nom: картем 
+     карта+N+Sg+PxSg1+Gen: картемӹн
+     карта+N+Sg+PxSg1+Acc: картемӹм
+     карта+N+Sg+PxSg1+Com: картемге
+     карта+N+Sg+PxSg1+Dat: картемлӓн
+     карта+N+Sg+Dat+PxSg1: картыланем
+     карта+N+Sg+Ine+PxSg1: картыштем
+     карта+N+Sg+Ill+PxSg1: картышкем
+     карта+N+Sg+Lat+PxSg1: картешем
+     карта+N+Sg+PxSg1+Comp: картемлӓ 
+     карта+N+Sg+Comp+PxSg1: картылаэм 
+     карта+N+Sg+PxSg1+Abe: картемде
+
+#Pl,PxSg1     
+     карта+N+Pl+PxSg1+Nom: картывлӓэм
+#тенге манаш лиэш: кынам посессив анзылны, шамаквлӓ деминутив сӹрӓн лит.
+#мӹнлӹн ӹшке ӹштӹмӹ картем.
+#    карта+N+PxSg1+Pl+Nom: картемвлӓ
+     карта+N+Pl+PxSg1+Gen: картывлӓэмӹн
+#    карта+N+PxSg1+Pl+Gen: картемвлӓн
+     карта+N+Pl+PxSg1+Acc: картывлӓэмӹм
+#    карта+N+PxSg1+Pl+Acc: картемвлӓм
+     карта+N+Pl+PxSg1+Com: картывлӓэмге
+#    карта+N+PxSg1+Pl+Com: картемвлӓге
+     карта+N+Pl+PxSg1+Dat: картывлӓэмлӓн
+     карта+N+Pl+Dat+PxSg1: картывлӓлӓнем
+#    карта+N+PxSg1+Pl+Dat: картемвлӓлӓн
+     карта+N+Pl+Ine+PxSg1: картывлӓштем
+     карта+N+Pl+Ill+PxSg1: картывлӓшкем
+     карта+N+Pl+Lat+PxSg1: картывлӓэшем
+     карта+N+Pl+Comp+PxSg1: картывлӓлӓэм
+     карта+N+Pl+PxSg1+Comp: картывлӓэмлӓ          
+#    карта+N+PxSg1+Pl+Comp: картемвлӓлӓ
+     карта+N+Pl+PxSg1+Abe: картывлӓэмде
+#    карта+N+PxSg1+Pl+Abe: картемвлӓде
+     
+#картет, картетшӹ, 
+#картыжы,
+ 
+#PxPl1
+     карта+N+Sg+PxPl1+Nom: картына 
+     карта+N+Sg+PxPl1+Gen: картынан
+     карта+N+Sg+PxPl1+Acc: картынам
+     карта+N+Sg+PxPl1+Com: картынаге
+     карта+N+Sg+Dat+PxPl1: картыланна     
+     карта+N+Sg+PxPl1+Dat: картыналан
+     карта+N+Sg+Ine+PxPl1: картыштына
+     карта+N+Sg+Ill+PxPl1: картышкына
+     карта+N+Sg+Lat+PxPl1: картешнӓ
+     карта+N+Sg+PxPl1+Comp: картынала 
+     карта+N+Sg+Comp+PxPl1: картылана 
+     карта+N+Sg+PxPl1+Abe: картынаде
+     
+     карта+N+Pl+PxPl1+Nom: картывлӓнӓ    
+#тенге манаш лиэш: кынам посессив анзылны, шамаквлӓ деминутив сӹрӓн лит.
+#попышывлӓ лошты пӓлӹмӹ опр. картывлӓ гишӓн шайыштмаш кеӓ.
+#    карта+N+PxPl1+Pl+Nom: картынавлӓ
+     карта+N+Pl+PxPl1+Gen: картывлӓнӓн
+#    карта+N+PxPl1+Pl+Gen: картынавлӓн
+     карта+N+Pl+PxPl1+Acc: картывлӓнӓм
+#    карта+N+PxPl1+Pl+Acc: картынавлӓм
+#    карта+N+PxPl1+Pl+Com: картынавлӓге
+     карта+N+Pl+PxPl1+Com: картывлӓнӓге
+     карта+N+Pl+Dat+PxPl1: картывлӓлӓннӓ
+#    карта+N+PxPl1+Pl+Dat: картынавлӓлӓн
+#    карта+N+Pl+PxPl1+Dat: картывлӓнӓлӓн
+     карта+N+Pl+Ine+PxPl1: картывлӓштӹнӓ
+     карта+N+Pl+Ill+PxPl1: картывлӓшкӹнӓ
+#    карта+N+PxPl1+Pl+Lat: картынавлӓэш
+     карта+N+Pl+Lat+PxPl1: картывлӓэшнӓ
+#    карта+N+PxPl1+Pl+Comp: картынавлӓлӓ
+#    карта+N+Pl+Comp+PxPl1: картывлӓлӓнӓ
+     карта+N+Pl+PxPl1+Comp: картывлӓнӓлӓ
+     карта+N+Pl+PxPl1+Abe: картывлӓнӓде
+#    карта+N+PxPl1+Pl+Abe: картынавлӓде
+
+#PxPl2
+     карта+N+Sg+PxPl2+Nom: картыда 
+     карта+N+Sg+PxPl2+Gen: картыдан
+     карта+N+Sg+PxPl2+Acc: картыдам
+     карта+N+Sg+PxPl2+Com: картыдаге
+     карта+N+Sg+PxPl2+Dat: картыдалан
+     карта+N+Sg+Dat+PxPl2: картыланда
+     карта+N+Sg+Ine+PxPl2: картыштыда
+     карта+N+Sg+Ill+PxPl2: картышкыда
+     карта+N+Sg+Lat+PxPl2: картешдӓ
+     карта+N+Sg+PxPl2+Comp: картыдала
+     карта+N+Sg+Comp+PxPl2: картылада
+     карта+N+Sg+PxPl2+Abe: картыдаде
+     
+     карта+N+Pl+PxPl2+Nom: картывлӓдӓ
+#мӹлӓм тенгелӓ чучеш, тенге манаш лиэш: кынам посессив анзылны, шамаквлӓ деминутив сӹрӓн лит.
+#    карта+N+PxPl2+Pl+Nom: картыдавлӓ
+     карта+N+Pl+PxPl2+Gen: картывлӓдӓн
+#    карта+N+PxPl2+Pl+Gen: картыдавлӓн
+     карта+N+Pl+PxPl2+Acc: картывлӓдӓм
+#    карта+N+PxPl2+Pl+Acc: картыдавлӓм
+#    карта+N+PxPl2+Pl+Com: картыдавлӓге
+     карта+N+Pl+PxPl2+Com: картывлӓдӓге
+     карта+N+Pl+Dat+PxPl2: картывлӓлӓндӓ
+#    карта+N+PxPl2+Pl+Dat: картыдавлӓлӓн
+#    карта+N+Pl+PxPl2+Dat: картывлӓдӓлӓн ! harvinainen
+     карта+N+Pl+Ine+PxPl2: картывлӓштӹдӓ
+     карта+N+Pl+Ill+PxPl2: картывлӓшкӹдӓ
+#    карта+N+PxPl2+Pl+Lat: картыдавлӓэш     
+     карта+N+Pl+Lat+PxPl2: картывлӓэшдӓ
+     карта+N+Pl+PxPl2+Comp: картывлӓдӓлӓ         
+#    карта+N+PxPl2+Pl+Comp: картыдавлӓлӓ
+#    карта+N+Pl+Comp+PxPl2: картывлӓлӓдӓ
+     карта+N+Pl+PxPl2+Abe: картывлӓдӓде
+#    карта+N+PxPl2+Pl+Abe: картыдавлӓде
+     
+#PxPl3
+     карта+N+Sg+PxPl3+Nom: картышты 
+     карта+N+Sg+PxPl3+Gen: картыштын
+     карта+N+Sg+PxPl3+Acc: картыштым
+     карта+N+Sg+PxPl3+Com: картыштыге
+     карта+N+Sg+PxPl3+Dat: картыштылан
+     карта+N+Sg+Dat+PxPl3: картыланышты
+     карта+N+Sg+Ine+PxPl3: картыштышты
+     карта+N+Sg+Ill+PxPl3: картышкышты
+     карта+N+Sg+Lat+PxPl3: картешӹштӹ
+     карта+N+Sg+PxPl3+Comp: картыштыла
+#    карта+N+Sg+Comp+PxPl3: картылашты   
+     карта+N+Sg+PxPl3+Abe: картыштыде
+     
+     карта+N+Pl+PxPl3+Nom: картывлӓштӹ
+     карта+N+Pl+PxPl3+Gen: картывлӓштӹн
+     карта+N+Pl+PxPl3+Acc: картывлӓштӹм
+     карта+N+Pl+PxPl3+Com: картывлӓштӹге
+     карта+N+Pl+PxPl3+Dat: картывлӓштӹлӓн     
+     карта+N+Pl+Dat+PxPl3: картывлӓлӓнӹштӹ
+     карта+N+Pl+Ine+PxPl3: картывлӓштӹштӹ
+     карта+N+Pl+Ill+PxPl3: картывлӓшкӹштӹ
+     карта+N+Pl+Lat+PxPl3: картывлӓэшӹштӹ
+     карта+N+Pl+PxPl3+Comp: картывлӓштӹлӓ
+     карта+N+Pl+Comp+PxPl3: картывлӓлӓштӹ
+     карта+N+Pl+PxPl3+Abe: картывлӓштӹде
+
