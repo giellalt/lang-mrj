@@ -15681,9 +15681,21 @@
     <mg>
       <defNative/>
 
+      <tg xml:lang="rus">
+        <t pos="N">очаг</t>
+
+        <t pos="N">горнушка</t>
+      </tg>
+
       <tg xml:lang="fin">
         <t pos="N">ahjo</t>
       </tg>
+
+      <xg>
+        <x>вацак эче шокшы (1981:18)</x>
+
+        <xt>ahjo on vielä kuuma</xt>
+      </xg>
     </mg>
   </e>
 
@@ -19106,8 +19118,6 @@
 
       <tg xml:lang="fin">
         <t pos="N">metsämehiläiskolo</t>
-
-        <t pos="N"/>
       </tg>
 
       <xg>
@@ -41298,13 +41308,19 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: myös горячая зола</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">roska</t>
 
-        <tf pos="A">liian suolainen</tf>
+        <tf pos="A">palavat kivet (JK)</tf>
       </tg>
+
+      <xg>
+        <x>(kuv.) йыргыж вӹлнӹ шӹнзӓш (1981:42)</x>
+
+        <xt>jäädä puilla paljailla</xt>
+      </xg>
     </mg>
   </e>
 
@@ -48209,7 +48225,7 @@
 
         <t pos="N">myssy</t>
 
-        <t pos="N">kypärä</t>
+        <t pos="N">hattu</t>
       </tg>
     </mg>
   </e>
@@ -76359,7 +76375,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N">hunajan keruu mehiläispöntöistä</t>
+        <td pos="N">hunajan keruu mehiläispöntöistä</td>
       </tg>
     </mg>
   </e>
@@ -102161,10 +102177,10 @@
 
     <mg>
       <defNative>вес й-влӓштӹ костан мӱкшвлӓ ӓль потемӹшвлӓ гишӓн
-      (metsäampiainen)</defNative>
+      (metsäampiainen?)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">metsäampiainen</t>
       </tg>
     </mg>
   </e>
@@ -102184,8 +102200,8 @@
 
     <mg>
       <defNative>JK (пыртенӓм) Сав улы (Орф 1978; 1981:94). Васик: мӱкш игӹ.
-      Niittymarissa muuten мӱкшиге tarkoittaa (uutta) mehiläisparvea. Vrt mrj
-      mehiläisparvi - ыгыршы.</defNative>
+      Niittymarissa muuten мӱкшиге tarkoittaa (uutta) mehiläisparvea, mhr
+      тулиге - mehiläistoukka. Vrt mrj mehiläisparvi - ыгыршы.</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">mehiläistoukka</t>
@@ -178729,6 +178745,42 @@
 
   <e>
     <lg>
+      <l pos="N">тылвацак</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">тылвацак</st>
+
+        <st Contlex="N_КОЛ">вацак</st>
+      </stg>
+
+      <stress>ты•лвацак</stress>
+    </lg>
+
+    <mg>
+      <defNative>_SUB </defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">ahjo</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">очаг</t>
+
+        <t pos="N">горнушка</t>
+
+        <t pos="N">огнище</t>
+      </tg>
+
+      <xg>
+        <x>тылвацакеш шолташ</x>
+
+        <xt>kypsentää ahjossa</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">тылвеледӹш</l>
 
       <stg>
@@ -178739,10 +178791,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: mhr тулпеледыш - ruusuleinikki</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">käenkukka</t>
       </tg>
     </mg>
   </e>
@@ -178759,10 +178811,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: головня на злаках</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kekäle</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">головешка</t>
       </tg>
     </mg>
   </e>
@@ -178779,10 +178835,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK_u: лайнер</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">laiva</t>
+
+        <t pos="N">alus</t>
+
+        <t pos="N">risteilyalus</t>
       </tg>
     </mg>
   </e>
@@ -178799,10 +178859,18 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>kts myös тылип</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">säkene</t>
+
+        <t pos="N">säen</t>
+
+        <t pos="N">kipinä</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">искорка</t>
       </tg>
     </mg>
   </e>
@@ -178835,6 +178903,8 @@
     <lg>
       <l pos="N">тылип</l>
 
+      <l_ref pos="N">ип</l_ref>
+
       <stg>
         <st Contlex="N_КОЛ">тылип</st>
       </stg>
@@ -178847,7 +178917,23 @@
 
       <tg xml:lang="fin">
         <t pos="N">kipinä</t>
+
+        <t pos="N">kipinät</t>
+
+        <t pos="N">säkene</t>
       </tg>
+
+      <xg>
+        <x>тылип гань пӹсӹ (1981:167) </x>
+
+        <xt>nopea kuin kipinä</xt>
+      </xg>
+
+      <xg>
+        <x>тылип веле шагал коды кыдальы (JK)</x>
+
+        <xt>jäi vain kipinöitä - lähti ajamaan</xt>
+      </xg>
     </mg>
   </e>
 
@@ -178866,7 +178952,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kääntäjä</t>
+
+        <t pos="N">tulkki</t>
       </tg>
     </mg>
   </e>
@@ -178883,10 +178971,32 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: огарок (свечи)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kynttilänpätkä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">тылсалым</l>
+
+      <stg>
+        <st Contlex="N_КОЛ_SUB">тылсалым</st>
+      </stg>
+
+      <stress>тылса•лым</stress>
+    </lg>
+
+    <mg>
+      <defNative>_SUB Васик: тыл салым</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">liekki</t>
+
+        <t pos="N">lieska</t>
       </tg>
     </mg>
   </e>
@@ -178903,11 +179013,41 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: kts myös шӱ - шӱ вӹлнӹ шӹнзӹмӹ гань</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tulihiilet</t>
+
+        <tf pos="N">tuliset hiilet</tf>
       </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">жар</t>
+
+        <tf pos="N">горячие угли</tf>
+      </tg>
+
+      <xg>
+        <x>тылшол маклакам камака гӹц лыкташ (JK)</x>
+
+        <xt>vetää palava tulihiili uunista</xt>
+      </xg>
+
+      <xg>
+        <x>(san.) йӓлӹн кид доно тылшолым ыдыраш (1981:167)</x>
+
+        <xt>kyntää toisen vasikalla</xt>
+
+        <xt>istua toisen housuilla tuleen</xt>
+      </xg>
+
+      <xg>
+        <x>(san.) вуйта тылшол вӹлнӹ шӹнзем (1981:167)</x>
+
+        <xt>istun kuin tulisilla hiilillä</xt>
+
+        <xt>istun kuin piikillä</xt>
+      </xg>
     </mg>
   </e>
 
@@ -178923,10 +179063,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав уке. JK: jaaniuss</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kiiltomato</t>
       </tg>
     </mg>
   </e>
@@ -178946,7 +179086,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">orpo</t>
       </tg>
     </mg>
   </e>
