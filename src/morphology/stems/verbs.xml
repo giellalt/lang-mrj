@@ -68986,7 +68986,7 @@
       <m>
         <head/>
 
-        <defNative>кӹрпӹц шуалга</defNative>
+        <defNative/>
       </m>
 
       <tg xml:lang="fin">
@@ -68996,6 +68996,12 @@
 
         <t pos="V">hapertua</t>
       </tg>
+
+      <xg>
+        <x>кӹрпӹц шуалген шӹнзӹн</x>
+
+        <xt>tiilenkivi on hapertunut</xt>
+      </xg>
     </mg>
   </e>
 
@@ -69004,7 +69010,7 @@
       <l pos="V">шуалгаш</l>
 
       <stg>
-        <st Contlex="V_ЕМ">шуалгы</st>
+        <st Contlex="V_ЕМ-SG3">шуалгы</st>
       </stg>
 
       <stress>шуа•лгаш</stress>
@@ -69038,7 +69044,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <tf pos="V">liottaa; pehmentää; höllentää</tf>
+        <t pos="V">liottaa</t>
+
+        <t pos="V">pehmentää</t>
+
+        <t pos="V">höllentää</t>
       </tg>
     </mg>
   </e>
@@ -69070,7 +69080,7 @@
       <l pos="V">шуангаш</l>
 
       <stg>
-        <st Contlex="V_АМ">шуанг</st>
+        <st Contlex="V_АМ-SG3">шуанг</st>
       </stg>
 
       <stress>шуа•нгаш</stress>
@@ -69080,12 +69090,24 @@
       <m>
         <head/>
 
-        <defNative>шошым векӹлӓ лым шуалга</defNative>
+        <defNative/>
       </m>
 
       <tg xml:lang="fin">
         <tf pos="V">tulla hohkaiseksi</tf>
+
+        <tCtn>
+          <t>tulla hohkaiseksi</t>
+
+          <re>lumesta</re>
+        </tCtn>
       </tg>
+
+      <xg>
+        <x>шошым векӹлӓ лым шуангеш</x>
+
+        <xt>kevemmällä lumi muuttuu huokoiseksi</xt>
+      </xg>
     </mg>
   </e>
 
@@ -69194,7 +69216,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <tf pos="V">sitoa yhteen; liittää yhteen</tf>
+        <tf pos="V">sitoa yhteen</tf>
+
+        <tf pos="V">liittää yhteen</tf>
       </tg>
     </mg>
   </e>
@@ -69243,8 +69267,8 @@
       <m>
         <head/>
 
-        <defNative>онлайн: Ӓнгӹрӹштӹ уала лишнӹ коэвлӓ шувыльталтылыт. «Кырык
-        сир.»</defNative>
+        <defNative>10т онлайн: Ӓнгӹрӹштӹ уала лишнӹ коэвлӓ шувыльталтылыт.
+        «Кырык сир.»</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -69416,8 +69440,16 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <tf pos="V">olla nälässä; nähdä nälkää</tf>
+        <tf pos="V">olla nälässä</tf>
+
+        <tf pos="V">nähdä nälkää</tf>
       </tg>
+
+      <xg>
+        <x>шужышы мӹшкӹреш пӓшӓм ӹштӓш нелӹ (JK)</x>
+
+        <xt>nälkäisenä on vaikea tehdä työtä</xt>
+      </xg>
     </mg>
   </e>
 
@@ -69529,6 +69561,8 @@
         <t pos="V">monistaa</t>
 
         <t pos="V">suurentaa</t>
+
+        <t pos="V">lisääminen (JK)</t>
       </tg>
     </mg>
   </e>
@@ -69668,6 +69702,24 @@
 
         <tf pos="V">viiltää pois</tf>
       </tg>
+
+      <xg>
+        <x>папи калацым шулеш (JK)</x>
+
+        <xt>isoäiti leikkaa vehnäleipää</xt>
+      </xg>
+
+      <xg>
+        <x>тӓгӓм шулаш келеш (1981:209)</x>
+
+        <xt>pitää kastroida pässi</xt>
+      </xg>
+
+      <xg>
+        <x>кого кормыжым шулын нӓлеш (1981:209)</x>
+
+        <xt>hän elonleikkaa isoin kourain</xt>
+      </xg>
     </mg>
   </e>
 
@@ -69851,13 +69903,25 @@
 
       <tg xml:lang="fin">
         <t pos="V">meluta</t>
+
+        <t pos="V">mekastaa</t>
+
+        <t pos="V">räyhätä</t>
       </tg>
+
+      <xg>
+        <x>утла идӓ шумы (JK)</x>
+
+        <xt>älkää melutko liikaa</xt>
+      </xg>
     </mg>
   </e>
 
   <e>
     <lg>
       <l pos="V">шумаяш</l>
+
+      <l_ref pos="V">шумаш</l_ref>
 
       <stg>
         <st Contlex="V_ЕМ">шумайы</st>
@@ -70022,12 +70086,18 @@
       <m>
         <head/>
 
-        <defNative>арашӹнгӓвлӓ шургыжыт</defNative>
+        <defNative/>
       </m>
 
       <tg xml:lang="fin">
         <t pos="V">surista</t>
       </tg>
+
+      <xg>
+        <x>арашӹнгӓвлӓ шургыжыт</x>
+
+        <xt>kärpäset surisevat (ikkunaa vasten)</xt>
+      </xg>
     </mg>
   </e>
 
@@ -70088,6 +70158,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <t pos="V">vitsailla</t>
+
         <t pos="V">pilailla</t>
 
         <t pos="V">viisailla</t>
@@ -79083,16 +79155,46 @@
       <m>
         <head/>
 
-        <defNative>ӓрӓлӓнен шӹнзӓш</defNative>
+        <defNative>Сав: sairauksista tai tulipalosta</defNative>
       </m>
 
       <tg xml:lang="fin">
         <t pos="V">levitä</t>
 
+        <t pos="V">äityä</t>
+
+        <tCtn>
+          <t>äityä</t>
+
+          <re>tulipalo</re>
+        </tCtn>
+
+        <t pos="V">riehaantua</t>
+
+        <t pos="V">kiihtyä</t>
+
         <t pos="V">levittäytyä</t>
 
         <t pos="V">tulehtua</t>
       </tg>
+
+      <xg>
+        <x>тыл ӓрӓлӓнен кеш (JK)</x>
+
+        <xt>tulipalo äityi riehaantui</xt>
+      </xg>
+
+      <xg>
+        <x>цыван ӓрӓлӓнен шӹнзӹн (1981:14)</x>
+
+        <xt>äkämä on pahasti tulehtunut</xt>
+      </xg>
+
+      <xg>
+        <x>шушырлан ӓрӓлӓнӓш ирӹкӹм пуаш ак кел (1981:209)</x>
+
+        <xt>ei saa antaa tulehtua</xt>
+      </xg>
     </mg>
   </e>
 
