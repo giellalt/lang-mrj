@@ -103268,7 +103268,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">terve</t>
+
+        <td pos="A">hyvissä voimin oleva</td>
       </tg>
     </mg>
   </e>
@@ -103288,7 +103290,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">massa=</t>
+
+        <t pos="A">joukko=</t>
+
+        <t pos="A">täynnä (JK)</t>
       </tg>
     </mg>
   </e>
@@ -103305,10 +103311,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав уке.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kostea</t>
       </tg>
     </mg>
   </e>
@@ -103328,7 +103334,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">ruoto=</t>
+
+        <td pos="A">ruotoja täynnä oleva</td>
       </tg>
     </mg>
   </e>
@@ -103368,7 +103376,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">mättätön</t>
       </tg>
     </mg>
   </e>
@@ -103388,7 +103396,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">mätäs=</t>
       </tg>
     </mg>
   </e>
@@ -103408,7 +103416,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">heinäinen</t>
+
+        <t pos="A">heinä=</t>
       </tg>
     </mg>
   </e>
@@ -103428,7 +103438,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">heinätön</t>
+
+        <t pos="A">kasviton</t>
       </tg>
     </mg>
   </e>
@@ -103445,11 +103457,19 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">huokoinen</t>
+
+        <t pos="A">hohka=</t>
       </tg>
+
+      <xg>
+        <x>шужан калац (1981:208)</x>
+
+        <xt>huokoinen vehnäleipä</xt>
+      </xg>
     </mg>
   </e>
 
