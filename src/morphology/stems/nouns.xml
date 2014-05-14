@@ -144852,6 +144852,14 @@
 
         <t pos="N">riuku</t>
       </tg>
+
+      <xg>
+        <x>равы гань кужы (JK)</x>
+
+        <xt>hongankolistaja</xt>
+
+        <xt>pitkä kuin seiväs</xt>
+      </xg>
     </mg>
   </e>
 
@@ -144889,11 +144897,19 @@
     </lg>
 
     <mg>
-      <defNative>Христа радим ядаш</defNative>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="N">almut</t>
       </tg>
+
+      <xg>
+        <x>Христа радим ядаш</x>
+
+        <xt>kerjätä</xt>
+
+        <xt>kerätä almuja</xt>
+      </xg>
     </mg>
   </e>
 
@@ -208896,7 +208912,7 @@
         <t pos="N">шипы</t>
       </tg>
 
-      <tg xml:lang="rus">
+      <tg xml:lang="fin">
         <t pos="N">harjakset</t>
 
         <t pos="N">okkaat</t>
@@ -209264,9 +209280,12 @@
     </lg>
 
     <mg>
-      <defNative>Сав: кожаный мешок для хранения муки (1981:207)</defNative>
+      <defNative>Сав: кожаный мешок для хранения муки (1981:207). Mhr
+      uly.</defNative>
 
       <tg xml:lang="fin">
+        <td pos="N">nahkapussi esim jauhojen säilytykseen</td>
+
         <td pos="N">nahkainen jauhopussi</td>
       </tg>
     </mg>
@@ -210230,7 +210249,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"> terveys</t>
+        <t pos="N">terveys</t>
       </tg>
     </mg>
   </e>
@@ -210353,7 +210372,7 @@
     </lg>
 
     <mg>
-      <defNative>JK: шун коршок - глиняный </defNative>
+      <defNative>JK: шун коршок - глиняный</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">savi</t>
@@ -211173,11 +211192,21 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>рычаг вага дубина</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">viputanko</t>
+
+        <t pos="N">vääntövipu</t>
+
+        <tf pos="N">tukeva seiväs (JK)</tf>
       </tg>
+
+      <xg>
+        <x>шывынь доно онгыраш келеш (1981:212)</x>
+
+        <xt>pitää vääntää viputangolla</xt>
+      </xg>
     </mg>
   </e>
 
@@ -211193,7 +211222,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав уке.</defNative>
 
       <tg xml:lang="fin">
         <t pos="N"/>
@@ -211213,10 +211242,38 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>vanh. Сав: блок -&gt; väkipyörä tai/ja laatta ?</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">väkipyörä</t>
+
+        <t pos="N">laatta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">шыгыр-шыгыр</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">шыгыр-шыгыр</st>
+      </stg>
+
+      <stress>шы•гыр-шы•гыр</stress>
+    </lg>
+
+    <mg>
+      <defNative>(pyrtenäm) Сав улат. Vanh.: перезвон бубенчиков</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">kilahtelu</t>
+
+        <t pos="N">helähtely</t>
+
+        <t pos="N">kumahtelu</t>
+
+        <tf pos="N">kulkusten soitto</tf>
       </tg>
     </mg>
   </e>
@@ -211233,7 +211290,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав уке.</defNative>
 
       <tg xml:lang="fin">
         <t pos="N"/>
@@ -211256,7 +211313,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kolistelu</t>
       </tg>
     </mg>
   </e>
@@ -211276,7 +211333,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kolistaminen</t>
       </tg>
     </mg>
   </e>
@@ -211318,7 +211375,7 @@
       <tg xml:lang="fin">
         <t pos="N">pikkusisko</t>
 
-        <t pos="N">nuorempi sisko</t>
+        <tf pos="N">nuorempi sisko</tf>
       </tg>
     </mg>
   </e>
@@ -211358,7 +211415,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sihiseminen</t>
+
+        <t pos="N">sihinä</t>
       </tg>
     </mg>
   </e>
@@ -211375,10 +211434,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>vanh. (Сав.) годовое кольцо дерева</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vuosirengas</t>
+
+        <t pos="N">vuosilusto</t>
       </tg>
     </mg>
   </e>
@@ -211398,7 +211459,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ahnehdinta</t>
+
+        <t pos="N">ahnehtiminen</t>
       </tg>
     </mg>
   </e>
@@ -211418,7 +211481,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">liotus</t>
+
+        <t pos="N">liottaminen</t>
       </tg>
     </mg>
   </e>
@@ -215219,10 +215284,24 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: шӹгӹльлӓ мадаш - игра в бабки - pelata
+      papukkaa</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">syylä</t>
+
+        <tf pos="N">iso syntymämerkki</tf>
+
+        <td pos="N">papukka (JK)</td>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">1. бородавка</t>
+
+        <t pos="N">2. надкопытный сустав животных (1981:214)</t>
+
+        <t pos="N">3. JK: альчик или асычки т.е. таранная кость надкопытного
+        сустава животных (коров, овец, коз итд) WIKI</t>
       </tg>
     </mg>
   </e>
