@@ -43,27 +43,26 @@ Tests:
      ӹштӓш+V+Ind+Prt2+Pl3: ӹштенӹт
 ##   
      ӹштӓш+V+Ind+Prt2+Neg+Sg1: ӹштӹделам
-     ӹштӓш+V+Ind+Prt2+Neg+Sg3: ӹштӹделат
+     ӹштӓш+V+Ind+Prt2+Neg+Sg2: ӹштӹделат
      ӹштӓш+V+Ind+Prt2+Neg+Sg3: ӹштӹде 
      ӹштӓш+V+Ind+Prt2+Neg+Pl1: ӹштӹделна
-     ӹштӓш+V+Ind+Prt2+Neg+Pl3: ӹштӹделда
+     ӹштӓш+V+Ind+Prt2+Neg+Pl2: ӹштӹделда
      ӹштӓш+V+Ind+Prt2+Neg+Pl3: ӹштӹделыт
 ##   
-     ӹштӓш+V+Imprt+Sg3: ӹштӹ
+     ӹштӓш+V+Imprt+Sg2: ӹштӹ
      ӹштӓш+V+Imprt+Sg3: ӹштӹжӹ
-     ӹштӓш+V+Imprt+Pl3: ӹштӹдӓ
+     ӹштӓш+V+Imprt+Pl2: ӹштӹдӓ
      ӹштӓш+V+Imprt+Pl3: ӹштӹштӹ
 ##   
      ӹштӓш+V+ImprtII+Sg2: ӹштемӓ
      ӹштӓш+V+ImprtII+Pl2: ӹштемӓдӓ
 ##   
      ӹштӓш+V+Des+Sg1: ӹштӹнем
-     ӹштӓш+V+Des+Sg3: ӹштӹнет
+     ӹштӓш+V+Des+Sg2: ӹштӹнет
      ӹштӓш+V+Des+Sg3: ӹштӹнежӹ
      ӹштӓш+V+Des+Pl1: ӹштӹненӓ
-     ӹштӓш+V+Des+Pl3: ӹштӹнедӓ
+     ӹштӓш+V+Des+Pl2: ӹштӹнедӓ
      ӹштӓш+V+Des+Pl3: ӹштӹнештӹ
-
 
 ##
      ӹштӓш+V+Inf: ӹштӓш
@@ -131,8 +130,8 @@ Tests:
      ӹштӓш+V+PssPrc+Der/мЫ+Sg+Com: ӹштӹмӹге
      ӹштӓш+V+PssPrc+Der/мЫ+Sg+Dat: ӹштӹмӹлӓн
      ӹштӓш+V+PssPrc+Der/мЫ+Sg+Ine: ӹштӹмӹштӹ
-     ӹштӓш+V+PssPrc+Der/мЫ+Sg+Ill: ӹштӹмӹшкӹ
-     ӹштӓш+V+PssPrc+Der/мЫ+Sg+Lat: ӹштӹмеш
+     ӹштӓш+V+PssPrc+Der/мЫ+Sg+Ill: [ӹштӹмӹшкӹ, ӹштӹмӹш]
+     ӹштӓш+V+PssPrc+Der/мЫ+Sg+Lat: [ӹштӹмеш, ӹштӹмешкӹ]
      ӹштӓш+V+PssPrc+Der/мЫ+Sg+Comp: ӹштӹмӹлӓ
      ӹштӓш+V+PssPrc+Der/мЫ+Sg+Abe: ӹштӹмӹде
      ӹштӓш+V+PssPrc+Der/мЫ+Pl+Nom: ӹштӹмӹвлӓ
@@ -189,6 +188,7 @@ Tests:
      ӹштӓш+V+NegPrc+Der/дЫмЫ+Sg+Lat: ӹштӹдӹмеш
      ӹштӓш+V+NegPrc+Der/дЫмЫ+Sg+Comp: ӹштӹдӹмӹлӓ
      ӹштӓш+V+NegPrc+Der/дЫмЫ+Sg+Abe: ӹштӹдӹмӹде
+     
      ӹштӓш+V+NegPrc+Der/дЫмЫ+Pl+Nom: ӹштӹдӹмӹвлӓ
      ӹштӓш+V+NegPrc+Der/дЫмЫ+Pl+Gen: ӹштӹдӹмӹвлӓн
      ӹштӓш+V+NegPrc+Der/дЫмЫ+Pl+Acc: ӹштӹдӹмӹвлӓм
