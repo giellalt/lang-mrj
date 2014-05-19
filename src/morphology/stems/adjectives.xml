@@ -103768,7 +103768,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">sarvinen</t>
       </tg>
     </mg>
   </e>
@@ -103788,7 +103788,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">sarveton</t>
       </tg>
     </mg>
   </e>
@@ -103808,8 +103808,24 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">viljainen</t>
+
+        <t pos="A">viljasato=</t>
+
+        <t pos="A">viljavainio=</t>
       </tg>
+
+      <xg>
+        <x>марын ныр кым шурнан (FUca 1925:13)</x>
+
+        <xt>marilaisilla on yleensä kylvettynä kolme erilaista viljaa </xt>
+      </xg>
+
+      <xg>
+        <x>тене нырна яжо шурнан лин (JK)</x>
+
+        <xt>tänä vuonna näyttää tulevan hyvä viljasato</xt>
+      </xg>
     </mg>
   </e>
 
@@ -103828,8 +103844,16 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kirppuinen</t>
+
+        <tf pos="A">kirppuja täynnä oleva</tf>
       </tg>
+
+      <xg>
+        <x>тӹдӹн котижӹ шуршан ылын (JK)</x>
+
+        <xt>hänen kissalla oli täynnä kirppuja</xt>
+      </xg>
     </mg>
   </e>
 
@@ -103848,7 +103872,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kirputon</t>
       </tg>
     </mg>
   </e>
@@ -104048,8 +104072,26 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">=siippinen</t>
+
+        <t pos="A">=eväinen</t>
+
+        <tf pos="A">ulkokattoa sisältävä</tf>
+
+        <tf pos="A">vesikatolla varustettu</tf>
       </tg>
+
+      <xg>
+        <x>пел шылдыран кек (JK)</x>
+
+        <xt>yksisiippinen lintu</xt>
+      </xg>
+
+      <xg>
+        <x>якшар шылдыран кол (JK)</x>
+
+        <xt>punaeväinen</xt>
+      </xg>
     </mg>
   </e>
 

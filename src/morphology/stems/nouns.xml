@@ -113806,7 +113806,7 @@
       <m>
         <head/>
 
-        <defNative>орлыкым ужаш</defNative>
+        <defNative/>
       </m>
 
       <tg xml:lang="fin">
@@ -113816,6 +113816,14 @@
 
         <t pos="N">kärsimys</t>
       </tg>
+
+      <xg>
+        <x>шукы орлыкым ужын</x>
+
+        <xt>hän kärsii paljon</xt>
+
+        <xt>hän on kokenut paljon kärsimystä</xt>
+      </xg>
     </mg>
   </e>
 
@@ -192473,6 +192481,26 @@
 
   <e>
     <lg>
+      <l pos="N">хыргымаш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">хыргымаш</st>
+      </stg>
+
+      <stress>хы•ргымаш</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">rahina</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">хырдымактылмаш</l>
 
       <stg>
@@ -192543,7 +192571,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав уке. JK: rahina ? (ei хыргымаш)</defNative>
 
       <tg xml:lang="fin">
         <t pos="N"/>
@@ -192563,10 +192591,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: общительный разговорчивый</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">puhelias ihminen</tf>
+
+        <tf pos="N">sosiaalisesti lahjakas</tf>
       </tg>
     </mg>
   </e>
@@ -210765,6 +210795,12 @@
       <tg xml:lang="fin">
         <t pos="N">kirppu</t>
       </tg>
+
+      <xg>
+        <x>махань шуршы вара тӹдӹм пырыльы</x>
+
+        <xt>mikä kirppu puraisi sitä</xt>
+      </xg>
     </mg>
   </e>
 
@@ -211290,7 +211326,8 @@
     </lg>
 
     <mg>
-      <defNative>Сав уке.</defNative>
+      <defNative>Сав уке. JK: isompien esineiden tasainen kolina myös
+      rattaiden?</defNative>
 
       <tg xml:lang="fin">
         <t pos="N"/>
@@ -211446,6 +211483,31 @@
 
   <e>
     <lg>
+      <l pos="N">шыйга</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА_SUB">шыйга</st>
+
+        <st Contlex="N_ОЛМА">шӹгӓ</st>
+      </stg>
+
+      <stress>шы•йга</stress>
+    </lg>
+
+    <mg>
+      <defNative>(Сав.) Отарсолавлӓ: шӹгӓ - шпоры (ӓптӓнӹн ялышты) mhr
+      оргӱч</defNative>
+
+      <tg xml:lang="fin">
+        <tf pos="N">kukon jalkapiikki</tf>
+
+        <t pos="N">hevos-</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">шыкланымаш</l>
 
       <stg>
@@ -211503,7 +211565,21 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pistin</t>
+
+        <tCtn>
+          <t>pistin</t>
+
+          <re>hyönteisen</re>
+        </tCtn>
+
+        <tf pos="N">hyönteisen pistin</tf>
+
+        <t pos="N">piikki</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">жало</t>
       </tg>
     </mg>
   </e>
@@ -211523,7 +211599,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sulatus</t>
+
+        <t pos="N">sulattaminen</t>
       </tg>
     </mg>
   </e>
@@ -211545,6 +211623,12 @@
       <tg xml:lang="fin">
         <t pos="N"/>
       </tg>
+
+      <xg>
+        <x>кӹдӓл шылгыжмаш (1981:212)</x>
+
+        <xt/>
+      </xg>
     </mg>
   </e>
 
@@ -211560,10 +211644,55 @@
     </lg>
 
     <mg>
+      <defNative>lisäksi mrj: ветрогон (у веялки); навес у
+      строений</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">siipi</t>
+
+        <t pos="N">evä</t>
+
+        <t pos="N">ulkokatto</t>
+
+        <t pos="N">vesikatto</t>
+      </tg>
+
+      <xg>
+        <x>самолёт шылдыр</x>
+
+        <xt>lentokoneen siivet</xt>
+      </xg>
+
+      <xg>
+        <x>шылдыр лӹвӓкӹ </x>
+
+        <xt>ottaa siipien suojiin</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">шылдырангдыдымаш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">шылдырангдыдымаш</st>
+      </stg>
+
+      <stress>шылдыра•нгдыдымаш</stress>
+    </lg>
+
+    <mg>
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">siivittämättömyys</t>
+
+        <t pos="N">innoittamattomuus</t>
+
+        <t pos="N">innostamattomuus</t>
+
+        <t pos="N">kannustamattomuus</t>
       </tg>
     </mg>
   </e>
@@ -211583,7 +211712,43 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">siivittäminen</t>
+
+        <t pos="N">innoittaminen</t>
+
+        <t pos="N">innostaminen</t>
+
+        <t pos="N">kannustus</t>
+
+        <t pos="N">kannustaminen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">шылдырангмаш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">шылдырангмаш</st>
+      </stg>
+
+      <stress>шылдыра•нгмаш</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">siivittäminen</t>
+
+        <t pos="N">innoittaminen</t>
+
+        <t pos="N">innostaminen</t>
+
+        <t pos="N">kannustus</t>
+
+        <t pos="N">kannustaminen</t>
       </tg>
     </mg>
   </e>
@@ -211603,7 +211768,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sulatus</t>
+
+        <t pos="N">sulattaminen</t>
       </tg>
     </mg>
   </e>
@@ -211623,8 +211790,14 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sulaminen</t>
       </tg>
+
+      <xg>
+        <x>ин шылымаш</x>
+
+        <xt>jään sulaminen</xt>
+      </xg>
     </mg>
   </e>
 
@@ -211643,7 +211816,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">teroittuminen</t>
       </tg>
     </mg>
   </e>
@@ -211663,7 +211836,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">teroitus</t>
+
+        <t pos="N">pikateroitus</t>
       </tg>
     </mg>
   </e>
@@ -211683,8 +211858,20 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">väsyminen</t>
+
+        <tCtn>
+          <t>väsyminen</t>
+
+          <re>ruumiinjäsenen</re>
+        </tCtn>
       </tg>
+
+      <xg>
+        <x>ял шыммаш</x>
+
+        <xt>jalkojen väsyminen</xt>
+      </xg>
     </mg>
   </e>
 
@@ -211703,7 +211890,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">teroitus</t>
       </tg>
     </mg>
   </e>
@@ -211723,7 +211910,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">ylleen heittäminen</tf>
       </tg>
     </mg>
   </e>
@@ -211743,7 +211930,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tuuppaaminen</t>
+
+        <t pos="N">tyrkkääminen</t>
       </tg>
     </mg>
   </e>
@@ -211763,8 +211952,18 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kaatuminen</t>
+
+        <t pos="N">syöksyminen</t>
+
+        <t pos="N">putoaminen</t>
       </tg>
+
+      <xg>
+        <x>качде шалгышы ышкалын шынгалтмаш (JK)</x>
+
+        <xt>syömättä olleen lehmän kaatuminen</xt>
+      </xg>
     </mg>
   </e>
 
@@ -211780,10 +211979,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав уке. ЙК: накидка</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">hartiaviitta</t>
       </tg>
     </mg>
   </e>
@@ -211803,7 +212002,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">hävittäminen</t>
+
+        <tCtn>
+          <t>hävittäminen</t>
+
+          <re>linnunpesän</re>
+        </tCtn>
+
+        <t pos="N">rikkominen</t>
       </tg>
     </mg>
   </e>
@@ -211820,7 +212027,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: Сев-Зап.нар.</defNative>
 
       <tg xml:lang="fin">
         <t pos="N"/>
@@ -211843,7 +212050,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">suuttelu</t>
+
+        <t pos="N">suukottelu</t>
       </tg>
     </mg>
   </e>
@@ -211863,7 +212072,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">suukkokielto</t>
       </tg>
     </mg>
   </e>
@@ -211883,7 +212092,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">suukkopyyntö</t>
+
+        <tf pos="N">lupa suudella</tf>
       </tg>
     </mg>
   </e>
@@ -211903,7 +212114,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kuskaaminen</t>
+
+        <t pos="N">kiskominen</t>
       </tg>
     </mg>
   </e>
@@ -211923,7 +212136,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kiskominen</t>
+
+        <t pos="N">nykintä</t>
       </tg>
     </mg>
   </e>
@@ -211943,8 +212158,14 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tupakointi</t>
       </tg>
+
+      <xg>
+        <x>пероскым ӓль сигарым шыпшмаш</x>
+
+        <xt>kessun tai sigaarin tupakointi</xt>
+      </xg>
     </mg>
   </e>
 
@@ -211963,7 +212184,16 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kuljetus</t>
+
+        <t pos="N">toimitus</t>
+
+        <t pos="N">huolinta</t>
+
+        <t pos="N">kuskaaminen</t>
+
+        <td pos="N">JK: tavaroiden tai muiden siirtäminen ajoneuvolla (myös
+        transfer)</td>
       </tg>
     </mg>
   </e>
@@ -211983,7 +212213,31 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vedättäminen</t>
+
+        <tf pos="N">laittaminen vetäämään</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">шыпшылмаш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">шыпшылмаш</st>
+      </stg>
+
+      <stress>шыпшы•лмаш </stress>
+    </lg>
+
+    <mg>
+      <defNative>HOM1 ( JK myös: шы•пшылмаш )</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">vetäisy</t>
+
+        <t pos="N">nykäisy</t>
       </tg>
     </mg>
   </e>
@@ -212000,10 +212254,66 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>HOM2</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lypsy</t>
+
+        <t pos="N">lypsääminen</t>
+
+        <t pos="N">lypsäntä</t>
+      </tg>
+
+      <xg>
+        <x>кесӹм шыпшылмаш</x>
+
+        <xt>vuohen lypsäntä</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">шыпшылмаш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">шыпшылмаш</st>
+      </stg>
+
+      <stress>шы•пшылмаш</stress>
+    </lg>
+
+    <mg>
+      <defNative>HOM3</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">pikatupakointi</t>
+
+        <tf pos="N">nopea tupakointi</tf>
+
+        <tf pos="N">pikainen tupakanpoltto</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">шыпшылтмаш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">шыпшылтмаш</st>
+      </stg>
+
+      <stress>шыпшы•лтмаш</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK (pyrtenäm)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">venyminen</t>
+
+        <t pos="N">venytys</t>
       </tg>
     </mg>
   </e>
@@ -212020,10 +212330,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>antaa vetäistä</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">antaminen vetäistä</tf>
+
+        <t pos="N">venytyttäminen</t>
       </tg>
     </mg>
   </e>
@@ -212031,6 +212343,8 @@
   <e>
     <lg>
       <l pos="N">шыпшылтыш</l>
+
+      <l_ref pos="N">ӹштӹш</l_ref>
 
       <stg>
         <st Contlex="N_КОЛ">шыпшылтыш</st>
@@ -212040,11 +212354,21 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: mhr uke.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lypsymäärä</t>
       </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">удой</t>
+      </tg>
+
+      <xg>
+        <x>тӓмдӓн махань шыпшылтыш (JK)</x>
+
+        <xt>mikä on teidän (farminne) lypsymäärä</xt>
+      </xg>
     </mg>
   </e>
 
@@ -212063,8 +212387,18 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">uloste</t>
+
+        <t pos="N">paska</t>
+
+        <t pos="N">papanat</t>
       </tg>
+
+      <xg>
+        <x>ышкал шырым кольмы доно нӓлӹн шуаш</x>
+
+        <xt>ottaa pois lehmän paskaa lapiolla</xt>
+      </xg>
     </mg>
   </e>
 
@@ -212083,7 +212417,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pisto</t>
+
+        <t pos="N">tökkäys</t>
       </tg>
     </mg>
   </e>
@@ -212103,7 +212439,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">törmäys</t>
       </tg>
     </mg>
   </e>
@@ -212143,7 +212479,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">antaminen pistää</tf>
       </tg>
     </mg>
   </e>
@@ -212154,16 +212490,22 @@
 
       <stg>
         <st Contlex="N_ОЛМА">шыре</st>
+
+        <st Contlex="N_ОЛМА_SUB">мӱкшшыре</st>
       </stg>
 
       <stress>шы•ре</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>vanh. </defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kuhnuri</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">трутень</t>
       </tg>
     </mg>
   </e>
@@ -212183,7 +212525,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tökkäily</t>
+
+        <tf pos="N">usea pisteily</tf>
       </tg>
     </mg>
   </e>
@@ -212203,27 +212547,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
-      </tg>
-    </mg>
-  </e>
+        <t pos="N">tökkiminen</t>
 
-  <e>
-    <lg>
-      <l pos="N">шырлагы</l>
-
-      <stg>
-        <st Contlex="N_ТӸРВӸ">шырлагы</st>
-      </stg>
-
-      <stress>шырла•гы</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pisteily</t>
       </tg>
     </mg>
   </e>
@@ -212240,10 +212566,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>turha yritys (1981:214) JK: näsäviisastelu</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">näsäviisastelu</t>
+
+        <tf pos="N">turha yritys</tf>
       </tg>
     </mg>
   </e>
@@ -212263,7 +212591,33 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">petkuttaja</t>
+
+        <t pos="N">puoskari</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">шырлачы</l>
+
+      <stg>
+        <st Contlex="N_ТӸРВӸ">шырлачы</st>
+      </stg>
+
+      <stress>шырла•чы</stress>
+    </lg>
+
+    <mg>
+      <defNative>Сав: кек (лат. Caprimulgus)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">kehrääjälintu</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">козодой</t>
       </tg>
     </mg>
   </e>
@@ -212280,10 +212634,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>anat.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">suolisto</t>
+
+        <t pos="N">suolet</t>
       </tg>
     </mg>
   </e>
@@ -212303,7 +212659,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">survous</t>
+
+        <t pos="N">pisto</t>
+
+        <t pos="N">pistääminen</t>
+
+        <t pos="N">hienontaminen</t>
       </tg>
     </mg>
   </e>
@@ -212323,7 +212685,25 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">huolenpito</t>
+
+        <t pos="N">huoli</t>
+
+        <t pos="N">huolet</t>
+
+        <t pos="N">touhu</t>
+
+        <t pos="N">tohina</t>
+
+        <t pos="N">touhotus</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">забота</t>
+
+        <t pos="N">беспокойство</t>
+
+        <t pos="N">суета</t>
       </tg>
     </mg>
   </e>
@@ -212343,7 +212723,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">huolestuttaminen</t>
       </tg>
     </mg>
   </e>
@@ -212363,7 +212743,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">huolehtiminen</t>
+
+        <t pos="N">huolenpito</t>
+
+        <tf pos="N">huolissaan oleminen</tf>
+
+        <t pos="N">touhotus (JK)</t>
       </tg>
     </mg>
   </e>
@@ -212383,8 +212769,24 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ipanat</t>
+
+        <t pos="N">pienpoikaset</t>
       </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">мелочь</t>
+
+        <t pos="N">мелкота</t>
+      </tg>
+
+      <xg>
+        <x>шытьыри-пытьыри (1981:214)</x>
+
+        <xt>pienet karitsat</xt>
+
+        <xt>мелкие ягнята</xt>
+      </xg>
     </mg>
   </e>
 
@@ -212400,10 +212802,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>vanh. (1981:214) kts myös ловкий</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ketteryys</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">ловкость</t>
       </tg>
     </mg>
   </e>
@@ -212423,7 +212829,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">leseet</t>
+
+        <t pos="N">seulontajätteet</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">отруби</t>
+
+        <t pos="N">высевки</t>
       </tg>
     </mg>
   </e>
@@ -212440,10 +212854,16 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: шига шӹгӓ - kukon jalkapiikki fin?</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">piikki</t>
+
+        <tCtn>
+          <t>piikki</t>
+
+          <re>kukon jalassa</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -212463,7 +212883,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tuhlautuminen</t>
       </tg>
     </mg>
   </e>
@@ -212480,10 +212900,16 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: kts myös пӹрхӹмӓш</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">roiskuttaminen</t>
+
+        <t pos="N">pärisyttäminen</t>
+
+        <t pos="N">ripottelu</t>
+
+        <t pos="N">sirottelu</t>
       </tg>
     </mg>
   </e>
