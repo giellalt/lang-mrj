@@ -212937,7 +212937,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">roiskutus</t>
+
+        <t pos="N">roiskuttaminen</t>
+
+        <t pos="N">pärisytys</t>
       </tg>
     </mg>
   </e>
@@ -212957,7 +212961,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tuhlaaminen</t>
+
+        <t pos="N">ripottelu</t>
       </tg>
     </mg>
   </e>
@@ -212968,16 +212974,22 @@
 
       <stg>
         <st Contlex="N_КОЛ">шӓгӓш</st>
+
+        <st Contlex="N_КОЛ">лешӓгӓш</st>
+
+        <st Contlex="N_КОЛ">шӓлӓш</st>
       </stg>
 
       <stress>шӓ•гӓш</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>vanh. сеновал; стлань. Sav: kts myös шӓрӹш</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">heinälato</t>
+
+        <td pos="N">pellavaliko tai hamppuliko tai kasteliotus?</td>
       </tg>
     </mg>
   </e>
@@ -212997,7 +213009,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">ylimielisenä oleminen</tf>
       </tg>
     </mg>
   </e>
@@ -213017,7 +213029,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">ylimieliseksi tekeminen</tf>
       </tg>
     </mg>
   </e>
@@ -213037,8 +213049,14 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vehnä</t>
       </tg>
+
+      <xg>
+        <x>шӓдӓнгӹ лашаш</x>
+
+        <xt>vehnäjauhot</xt>
+      </xg>
     </mg>
   </e>
 
@@ -213054,10 +213072,20 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>vanh.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">syli</t>
+
+        <tCtn>
+          <t>syli</t>
+
+          <re>mittayksikkö</re>
+        </tCtn>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">сажень</t>
       </tg>
     </mg>
   </e>
@@ -213077,7 +213105,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pino</t>
+
+        <t pos="N">lato</t>
       </tg>
     </mg>
   </e>
@@ -213097,7 +213127,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pinoaminen</t>
       </tg>
     </mg>
   </e>
@@ -213117,7 +213147,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kehräs</t>
+
+        <t pos="N">kehräsluu</t>
+
+        <t pos="N">nilkka</t>
       </tg>
     </mg>
   </e>
@@ -213137,7 +213171,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sappi</t>
       </tg>
     </mg>
   </e>
@@ -213154,10 +213188,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>zool. ящерица</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sisilisko</t>
       </tg>
     </mg>
   </e>
@@ -213177,7 +213211,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">temmellys</t>
+
+        <t pos="N">telmiminen</t>
+
+        <t pos="N">mekastus</t>
+
+        <t pos="N">mellastus</t>
+
+        <t pos="N">kujeilu</t>
       </tg>
     </mg>
   </e>
@@ -213197,8 +213239,20 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">terveiset</t>
       </tg>
+
+      <xg>
+        <x>шокшы шӓлӓ доно</x>
+
+        <xt>lämpimin terveisin</xt>
+      </xg>
+
+      <xg>
+        <x>чӹчӹц шӓлӓм колтыш (JK)</x>
+
+        <xt>enosi lähetti terveisiä</xt>
+      </xg>
     </mg>
   </e>
 
@@ -213214,10 +213268,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>лохматый растрёпанный косматый</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pörröpää</t>
+
+        <t pos="N">pörhöpää</t>
       </tg>
     </mg>
   </e>
@@ -213236,10 +213292,11 @@
     </lg>
 
     <mg>
-      <defNative>канюк = хищная птица семейства ястребиных</defNative>
+      <defNative>(лат. Buteo buteo) канюк = хищная птица семейства
+      ястребиных</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">hiirihaukka</t>
       </tg>
     </mg>
   </e>
@@ -213259,7 +213316,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">hajoilu</t>
       </tg>
     </mg>
   </e>
@@ -213279,7 +213336,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">romahdus</t>
+
+        <t pos="N">luhistus</t>
+
+        <t pos="N">hajoaminen</t>
       </tg>
     </mg>
   </e>
@@ -213299,7 +213360,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">jakelu</t>
+
+        <t pos="N">jakeleminen</t>
+
+        <t pos="N">hajottelu</t>
       </tg>
     </mg>
   </e>
@@ -213319,7 +213384,17 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">hajotus</t>
+
+        <t pos="N">hajottaminen</t>
+
+        <t pos="N">purkaus</t>
+
+        <t pos="N">levittäminen</t>
+
+        <t pos="N">postinkanto</t>
+
+        <t pos="N">jakelu</t>
       </tg>
     </mg>
   </e>
@@ -213336,10 +213411,44 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>(erikoistermi)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">suitsiside</t>
+
+        <tf pos="N">side suitsissa</tf>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">подгортанник</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">шӓлӓш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">шӓлӓш</st>
+
+        <st Contlex="N_КОЛ">шӓгӓш</st>
+
+        <st Contlex="N_КОЛ">лешӓгӓш</st>
+      </stg>
+
+      <stress>шӓ•лӓш</stress>
+    </lg>
+
+    <mg>
+      <defNative>Sav: synonyymi шӓгӓш</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">heinälato</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">сеновал</t>
       </tg>
     </mg>
   </e>
@@ -213359,7 +213468,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">murentuminen</t>
       </tg>
     </mg>
   </e>
@@ -213376,11 +213485,29 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>vanh. (mhr: elinolot; elämä; kohtalo)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <td pos="N">ylimmän tahto</td>
       </tg>
+
+      <tg xml:lang="rus">
+        <td pos="N">преобладание чьей-либо воли или права</td>
+      </tg>
+
+      <xg>
+        <x>мӓмнӓн шӓмӓннӓ (1981:199)</x>
+
+        <xt>meidän tahto tai vapaus</xt>
+      </xg>
+
+      <xg>
+        <x>шӓмӓн ма? (1981:199)</x>
+
+        <xt>eikö jo riittää</xt>
+
+        <xt>недостаточно ли</xt>
+      </xg>
     </mg>
   </e>
 
@@ -213399,8 +213526,20 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kaivaaminen</t>
+
+        <t pos="N">tonkiminen</t>
+
+        <t pos="N">mylläys</t>
+
+        <t pos="N">kaivelu</t>
       </tg>
+
+      <xg>
+        <x>пумагавлӓм шӓнгмӓш ак палшы (JK) </x>
+
+        <xt>papereiden pengoilu ei auta</xt>
+      </xg>
     </mg>
   </e>
 
@@ -213419,7 +213558,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">rydöt</t>
+
+        <t pos="N">kaadot</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">валежник</t>
       </tg>
     </mg>
   </e>
@@ -213439,7 +213584,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">hajalle heittely</tf>
+
+        <tf pos="N">levälleen heittely</tf>
       </tg>
     </mg>
   </e>
@@ -213459,7 +213606,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tuhlautuminen</t>
       </tg>
     </mg>
   </e>
@@ -213499,7 +213646,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">hajoaminen</t>
+
+        <t pos="N">sortuminen</t>
+
+        <t pos="N">variseminen</t>
+
+        <t pos="N">luhistuminen</t>
+
+        <t pos="N">romahdus</t>
       </tg>
     </mg>
   </e>
