@@ -310,6 +310,7 @@ LEXICON verbs
 жалвайылаш:жалвайыл V_АМ  "valittaa" ;
 жалваяш:жалвайы V_ЕМ  "" ;
 жараш:жары V_ЕМ  "paistaa" ;
+жарыкташ:жарыкты V_ЕМ  "rokata" ;
 жеплӓш:жеплӹ V_ЕМ  "kunnioittaa" ;
 жертвуяш:жертвуйы V_ЕМ  "uhrata" ;
 жертвуяш:жертвайы V_ЕМ  "uhrata" ;
@@ -317,6 +318,7 @@ LEXICON verbs
 жульыкланаш:жульыкланы V_ЕМ  "petkuttaa" ;
 жульыкланылаш:жульыкланыл V_АМ  "petkutella" ;
 жураш:журы V_ЕМ  "nuhdella" ;
+жураш:журы V_ЕМ_SUB  "hotkia" ;
 жӓлӓйӓш:жӓлӓйӹ V_ЕМ  "sääliä" ;
 завоялташ:завоялт V_АМ  "käynnistyä" ;
 завояш:завойы V_ЕМ  "panna käyntiin" ;
@@ -2874,11 +2876,11 @@ LEXICON verbs
 шарташ:шарты V_ЕМ  "säikähdyttää" ;
 шарыкташ:шарыкты V_ЕМ  "pelästyttää" ;
 шачаш:шач V_АМ  "syntyä" ;
-шачыкташ:шачыкты V_ЕМ  "herättää" ;
-шеклӓндӓрӓш:шеклӓндӓрӹ V_ЕМ  "saattaa ujostelemaan" ;
+шачыкташ:шачыкты V_ЕМ  "synnyttää" ;
+шеклӓндӓрӓш:шеклӓндӓрӹ V_ЕМ  "molostuttaa" ;
 шеклӓнӓш:шеклӓнӹ V_ЕМ  "ujostella" ;
 шелӓлтӓш:шелӓлт V_АМ  "jakautua" ;
-шелӓнгдӓш:шелӓнгдӹ V_ЕМ  "antaa rasvan kerääntyä" ;
+шелӓнгдӓш:шелӓнгдӹ V_ЕМ  "lihotuttaa" ;
 шелӓнгӓш:шелӓнг V_АМ  "kerääntyä rasvaa eläimillä" ;
 шелӓш:шел V_АМ  "jakaa" ;
 шелӓш:шел V_АМ  "närästää" ;
