@@ -7617,6 +7617,36 @@
 
   <e>
     <lg>
+      <l pos="V">жарыкташ</l>
+
+      <stg>
+        <st Contlex="V_ЕМ">жарыкты</st>
+      </stg>
+
+      <stress>жа•рыкташ</stress>
+    </lg>
+
+    <sources>
+      <media mediaID="periodical"/>
+    </sources>
+
+    <mg>
+      <defNative>Аксар йолташ жарыкта! (Сергей Петухов vk 1.2.13.)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="V">rokata</t>
+      </tg>
+
+      <xg>
+        <x>Аксар тӓнг жарыкта! (vk 1.2.2013)</x>
+
+        <xt>Aksar rokkaa!</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V">жеплӓш</l>
 
       <stg>
@@ -7743,13 +7773,45 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK &lt; rus: журить - nuhdella</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">nuhdella</t>
 
         <te pos="V">antaa nuhteita</te>
       </tg>
+
+      <xg>
+        <x>папам со тӹдӹм жура (1981: )</x>
+
+        <xt>isoäitini aina nuhtelee hänet</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">жураш</l>
+
+      <stg>
+        <st Contlex="V_ЕМ_SUB">журы</st>
+      </stg>
+
+      <stress>жу•раш</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK (puh.) </defNative>
+
+      <tg xml:lang="fin">
+        <t pos="V">hotkia</t>
+      </tg>
+
+      <xg>
+        <x>жура веле качкеш (JK)</x>
+
+        <xt>hotkii kuin mikäkin</xt>
+      </xg>
     </mg>
   </e>
 
@@ -67103,6 +67165,32 @@
 
         <tf pos="V">kasvaa vilja</tf>
       </tg>
+
+      <xg>
+        <x>яжо киндӹ шачын (1981: )</x>
+
+        <xt>vilja on kasvanut hyvin </xt>
+      </xg>
+
+      <xg>
+        <x>у тӹлзӹ шачмешкӹ (JK)</x>
+
+        <xt>ennen kuin on tullut uusi kuu</xt>
+      </xg>
+
+      <xg>
+        <x>мӹнь изи солаэш шачынам (JK)</x>
+
+        <xt>olen syntynyt pienessä kylässä</xt>
+      </xg>
+
+      <xg>
+        <x>тыгыран шачын (1981: )</x>
+
+        <xt>syntyi paitaisillaan</xt>
+
+        <xt>родился в сорочке</xt>
+      </xg>
     </mg>
   </e>
 
@@ -67118,14 +67206,32 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: </defNative>
 
       <tg xml:lang="fin">
-        <t pos="V">herättää</t>
-
         <t pos="V">synnyttää</t>
 
+        <t pos="V">aiheuttaa</t>
+
+        <t pos="V">herättää</t>
+
+        <tCtn>
+          <t>herättää</t>
+
+          <re>ajatuksia</re>
+        </tCtn>
+
+        <td pos="V">(kuv.) luoda</td>
+
         <tf pos="V">antaa viljaa</tf>
+
+        <t pos="V">kantaa</t>
+
+        <tCtn>
+          <t>kantaa</t>
+
+          <re>viljaa</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -67145,10 +67251,18 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <t pos="V">molostuttaa</t>
+
         <tf pos="V">saattaa ujostelemaan</tf>
 
         <tf pos="V">saattaa häpeämään</tf>
       </tg>
+
+      <xg>
+        <x>ит шеклӓндӓрӹ тӹдӹм</x>
+
+        <xt>älä nolostuta hänet</xt>
+      </xg>
     </mg>
   </e>
 
@@ -67164,12 +67278,21 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>совеститься стесняться чувствовать вину;
+      остерегаться</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">ujostella</t>
 
         <t pos="V">hävetä</t>
+
+        <t pos="V">varoa (vanh.)</t>
+
+        <t pos="V">karttaa (vanh.)</t>
+
+        <t pos="V">kavahtaa (vanh.)</t>
+
+        <t pos="V">välttää (vanh.)</t>
       </tg>
     </mg>
   </e>
@@ -67211,6 +67334,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <t pos="V">lihotuttaa</t>
+
         <td pos="V">antaa rasvan kerääntyä</td>
       </tg>
     </mg>
