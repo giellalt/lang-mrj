@@ -19940,6 +19940,8 @@
 
       <tg xml:lang="fin">
         <tf pos="N">otsikoiksi jakaminen</tf>
+
+        <t pos="N">sisältö (1930)</t>
       </tg>
     </mg>
   </e>
@@ -21317,7 +21319,8 @@
           <!-- Саваткова 1981: кости таза; нижняя часть туловища-->
         </head>
 
-        <defNative>синоним семӹнь пумы эче: выца лу</defNative>
+        <defNative>синоним семӹнь пумы эче: выца лу ; кӹдӓл лу (Саб 1981:
+        )</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -77144,6 +77147,31 @@
 
   <e>
     <lg>
+      <l pos="N">кӹдӓл лу</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">кӹдӓл лу</st>
+      </stg>
+
+      <stress>кӹ•дӓл лу</stress>
+    </lg>
+
+    <mg>
+      <defNative>Сав: поясничные позвонки (или кости таза (выца лу !
+      ))</defNative>
+
+      <tg xml:lang="fin">
+        <tf pos="N">keskivartalon nikamat</tf>
+
+        <tf pos="N">lantioseudun nikamat</tf>
+
+        <t pos="N">lantioluu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">кӹдӹр</l>
 
       <stg>
@@ -94070,6 +94098,40 @@
 
         <t pos="N">menu</t>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">мергель</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">мергель</st>
+      </stg>
+
+      <stress>ме•ргель</stress>
+    </lg>
+
+    <sources>
+      <book/>
+    </sources>
+
+    <mg>
+      <defNative>geol. JK: sinonyyminä свита - juonisto (JK)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">merkelikivi</t>
+
+        <t pos="N">merkeli</t>
+      </tg>
+
+      <xg>
+        <x>Тадар свитӹм шӹрерӓкӹнок „пестрый мергельвлӓн ярусеш“ лӹмдӓт
+        (1941:5)</x>
+
+        <xt>Maaperän juonistoa kutsutaan tosi usein kirjavien merkelikivien
+        kerrokseksi</xt>
+      </xg>
     </mg>
   </e>
 
@@ -161862,11 +161924,49 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: столицӹ</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">pääkaupunki</t>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">столмы</l>
+
+      <stg>
+        <st Contlex="N_КАРТА">столица</st>
+      </stg>
+
+      <stress>столи•ца</stress>
+    </lg>
+
+    <sources>
+      <book>Рахит манмы цер гишӓн. (ред.Н.В.Игнатьев) 1928</book>
+    </sources>
+
+    <mg>
+      <defNative>JK: графические столбики, столбцы в графическом
+      изображении</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">kaaviopylväs</t>
+
+        <t pos="N">kaaviopalkki</t>
+
+        <t pos="N">pylväsdiagrammi</t>
+
+        <t pos="N">pystyrivi</t>
+      </tg>
+
+      <xg>
+        <x>Кужы столмыжы мӓнмӓн сӓндӓлӹкӹштӹ ӓзӓ колымым анчыкта (1928:4)</x>
+
+        <xt>Pitkät kaaviopylväät näyttävät maamme pienlasten
+        kuolevaisuus-osuutta. </xt>
+      </xg>
     </mg>
   </e>
 
@@ -166944,6 +167044,8 @@
   <e>
     <lg>
       <l pos="N">сӹртпеледӹш</l>
+
+      <l_ref pos="N">кӹшкӹсӹнзӓ</l_ref>
 
       <stg>
         <st Contlex="N_КОЛ">сӹртпеледӹш</st>
@@ -187056,7 +187158,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tehdas</t>
       </tg>
     </mg>
   </e>
@@ -187076,27 +187178,29 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tehdasyrittäjä</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">фабрнкат</l>
+      <l pos="N">фабрикат</l>
 
       <stg>
-        <st Contlex="N_КОЛ">фабрнкат</st>
+        <st Contlex="N_КОЛ">фабрикат</st>
       </stg>
 
-      <stress>фабрнка•т</stress>
+      <stress>фабрика•т</stress>
     </lg>
 
     <mg>
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tehdastuote</t>
+
+        <t pos="N">tehdasvalmiste</t>
       </tg>
     </mg>
   </e>
@@ -187113,10 +187217,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>k-kirj.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">juoni</t>
       </tg>
     </mg>
   </e>
@@ -187136,7 +187240,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vaihe</t>
+
+        <t pos="N">kausi</t>
+
+        <t pos="N">faasi</t>
       </tg>
     </mg>
   </e>
@@ -187156,7 +187264,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">fasaani</t>
       </tg>
     </mg>
   </e>
@@ -187173,10 +187281,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: вирлӹ фактвлӓм пырташ келеш</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tosiasia</t>
+
+        <t pos="N">tosiseikka</t>
+
+        <t pos="N">fakta</t>
       </tg>
     </mg>
   </e>
@@ -187196,7 +187308,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tekijä</t>
+
+        <t pos="N">faktori</t>
+
+        <t pos="N">vaikuttaja</t>
+
+        <t pos="N">vaikutin</t>
       </tg>
     </mg>
   </e>
@@ -187216,7 +187334,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">valinnaisaine</t>
+
+        <t pos="N">fakultatiivi</t>
       </tg>
     </mg>
   </e>
@@ -187236,8 +187356,14 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tiedekunta</t>
       </tg>
+
+      <xg>
+        <x>тӹдӹ медицинский факультетӹштӹ тыменеш</x>
+
+        <xt>hän opiskelee lääketieteellisessä tiedekunnassa</xt>
+      </xg>
     </mg>
   </e>
 
@@ -187256,7 +187382,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">väärennys</t>
+
+        <t pos="N">vääristely</t>
       </tg>
     </mg>
   </e>
@@ -187276,8 +187404,14 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sukunimi</t>
       </tg>
+
+      <xg>
+        <x>тӹньӹн фамилиэт кыце?</x>
+
+        <xt>mikä on sinun sukunimi?</xt>
+      </xg>
     </mg>
   </e>
 
@@ -187296,7 +187430,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kiihkoilija</t>
+
+        <t pos="N">fanaatikko</t>
+
+        <t pos="N">yltiöpää</t>
       </tg>
     </mg>
   </e>
@@ -187316,7 +187454,29 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">viilu</t>
+
+        <t pos="N">vaneri</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">фанера</l>
+
+      <stg>
+        <st Contlex="N_КАРТА">фанера</st>
+      </stg>
+
+      <stress>фане•ра</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK: homonyymi - под фанеру</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">tallenne</t>
       </tg>
     </mg>
   </e>
@@ -187336,8 +187496,18 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">mielikuvitus</t>
+
+        <t pos="N">fantasia</t>
+
+        <t pos="N">kuvitteleminen</t>
       </tg>
+
+      <xg>
+        <x>кышкевек фантазидӓ ситӓ (JK)</x>
+
+        <xt>mihin asti mielikuvituksenne riittää</xt>
+      </xg>
     </mg>
   </e>
 
@@ -187356,7 +187526,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">haaveilemattomuus</t>
+
+        <t pos="N">fantasioimattomuus</t>
       </tg>
     </mg>
   </e>
@@ -187376,7 +187548,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">haaveileminen</t>
+
+        <t pos="N">fantasiointi</t>
+
+        <t pos="N">kuvitteleminen</t>
       </tg>
     </mg>
   </e>
@@ -187396,7 +187572,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">fantastikko</t>
+
+        <t pos="N">haihattelija</t>
+
+        <t pos="N">mielikuvitusihminen</t>
       </tg>
     </mg>
   </e>
@@ -187413,10 +187593,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: hölynpöly; sepitys</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kuvitteellisuus</t>
+
+        <t pos="N">mielikuvituksellisuus</t>
+
+        <t pos="N">hölynpöly (pejor.)</t>
       </tg>
     </mg>
   </e>
@@ -187436,7 +187620,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">etuvalo</t>
+
+        <t pos="N">etulyhty</t>
       </tg>
     </mg>
   </e>
@@ -187456,7 +187642,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">faarao</t>
+
+        <t pos="N">farao</t>
       </tg>
     </mg>
   </e>
@@ -187476,8 +187664,14 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">farmakologi</t>
       </tg>
+
+      <xg>
+        <x>шыжаржы фармакологеш тыменеш (JK)</x>
+
+        <xt>pikkusiskonsa opiskelee farmakologiksi</xt>
+      </xg>
     </mg>
   </e>
 
@@ -187496,7 +187690,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">farmaseutti</t>
       </tg>
     </mg>
   </e>
@@ -187516,7 +187710,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ilveily</t>
+
+        <t pos="N">farssi</t>
       </tg>
     </mg>
   </e>
@@ -187536,7 +187732,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">posliini</t>
       </tg>
     </mg>
   </e>
@@ -187556,7 +187752,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">jauheliha</t>
       </tg>
     </mg>
   </e>
@@ -187576,7 +187772,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">julkusivu</t>
+
+        <t pos="N">etupuoli</t>
       </tg>
     </mg>
   </e>
@@ -187596,8 +187794,44 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">fasadi</t>
+
+        <t pos="N">julkusivu</t>
       </tg>
+
+      <xg>
+        <x>Ош пӧртӹн фасадшы площадь монгырышкыла ылеш (JK)</x>
+
+        <xt>Valkoisen talon julkisivu antaa aukiolle</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">фасон</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">фасон</st>
+      </stg>
+
+      <stress>фасо•н</stress>
+    </lg>
+
+    <mg>
+      <defNative>пыртенӓм: покрой</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">kuosi</t>
+
+        <t pos="N">malli</t>
+      </tg>
+
+      <xg>
+        <x>у фасонан платьым чиэн (JK)</x>
+
+        <xt>hän on pukeutunut uudenmalliseen mekkoon</xt>
+      </xg>
     </mg>
   </e>
 
@@ -187616,7 +187850,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">eläimistö</t>
+
+        <t pos="N">fauna</t>
       </tg>
     </mg>
   </e>
@@ -187636,7 +187872,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">fasismi</t>
       </tg>
     </mg>
   </e>
@@ -187656,7 +187892,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">fasisti</t>
       </tg>
     </mg>
   </e>
@@ -187676,7 +187912,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">fajanssi</t>
       </tg>
     </mg>
   </e>
@@ -187696,7 +187932,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">helmikuu</t>
       </tg>
     </mg>
   </e>
@@ -187716,7 +187952,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">liitto</t>
+
+        <t pos="N">liittovaltio</t>
+
+        <t pos="N">federaatio</t>
       </tg>
     </mg>
   </e>
@@ -187736,7 +187976,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sotamarski</t>
+
+        <t pos="N">sotamarsalkka</t>
       </tg>
     </mg>
   </e>
@@ -187798,7 +188040,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pakina</t>
       </tg>
     </mg>
   </e>
@@ -187818,7 +188060,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pakinoitsija</t>
       </tg>
     </mg>
   </e>
@@ -187838,7 +188080,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">feodaali</t>
+
+        <t pos="N">läänitysherra</t>
+
+        <t pos="N">lääninhaltija</t>
+
+        <t pos="N">lääninherra</t>
       </tg>
     </mg>
   </e>
@@ -187858,7 +188106,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">feodalismi</t>
       </tg>
     </mg>
   </e>
@@ -187878,7 +188126,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">farmi</t>
+
+        <t pos="N">maatila</t>
       </tg>
     </mg>
   </e>
@@ -187898,7 +188148,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">maanviljelijä</t>
+
+        <t pos="N">farmari</t>
+
+        <t pos="N">maatilallinen</t>
       </tg>
     </mg>
   </e>
@@ -187918,7 +188172,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">festivaali</t>
       </tg>
     </mg>
   </e>
@@ -187938,7 +188192,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">huopa</t>
       </tg>
     </mg>
   </e>
@@ -187946,6 +188200,10 @@
   <e>
     <lg>
       <l pos="N">фиалка</l>
+
+      <l_ref pos="N">кӹшкӹсӹнзӓ</l_ref>
+
+      <l_ref pos="N">сӹртпеледӹш</l_ref>
 
       <stg>
         <st Contlex="N_КАРТА">фиалка</st>
@@ -187955,10 +188213,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>лат. Viola</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">orvokki</t>
       </tg>
     </mg>
   </e>
@@ -187978,8 +188236,18 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kuvio</t>
+
+        <t pos="N">figuuri</t>
+
+        <t pos="N">hahmo</t>
       </tg>
+
+      <xg>
+        <x>тӹдӹ коко фигуреш шотлалтеш (JK)</x>
+
+        <xt>hänet pidetään vaikutusvaltaisiin hahmoihin</xt>
+      </xg>
     </mg>
   </e>
 
@@ -187998,7 +188266,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">voimistelu</t>
       </tg>
     </mg>
   </e>
@@ -188018,7 +188286,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">fyysikko</t>
       </tg>
     </mg>
   </e>
@@ -188038,7 +188306,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">fysiikka</t>
       </tg>
     </mg>
   </e>
@@ -188058,7 +188326,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">fysiologi</t>
       </tg>
     </mg>
   </e>
@@ -188078,7 +188346,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">fysiologia</t>
       </tg>
     </mg>
   </e>
@@ -188095,10 +188363,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: pärstä</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kasvot</t>
+
+        <t pos="N">fysionomia</t>
+
+        <t pos="N">naama</t>
       </tg>
     </mg>
   </e>
@@ -188118,7 +188390,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">fysioterapeutti</t>
       </tg>
     </mg>
   </e>
@@ -188138,7 +188410,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">liikuntatunti</t>
+
+        <t pos="N">liikuntakasvatus</t>
+
+        <t pos="N">voimistelu</t>
+
+        <tf pos="N">fyysillinen kulttuuri</tf>
       </tg>
     </mg>
   </e>
@@ -188158,7 +188436,31 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">urheilija</t>
+
+        <t pos="N">miesurheilija</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">физкультурница</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">физкультурница</st>
+      </stg>
+
+      <stress>физкульту•рница</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">urheilijatar</t>
+
+        <t pos="N">naisurheilija</t>
       </tg>
     </mg>
   </e>
@@ -201564,7 +201866,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pysäyttäminen</t>
+
+        <t pos="N">pysähtyminen</t>
+
+        <t pos="N">pysähdys</t>
+
+        <t pos="N">pystyttäminen</t>
       </tg>
     </mg>
   </e>
@@ -204313,7 +204621,7 @@
       </tg>
 
       <xg>
-        <x>шарык миж </x>
+        <x>шарык миж</x>
 
         <xt>lampaanvilla</xt>
       </xg>
@@ -225783,6 +226091,44 @@
       <tg xml:lang="fin">
         <t pos="N"/>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">ярус</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">ярус</st>
+      </stg>
+
+      <stress>я•рус</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK: пыртенӓм ш.т. улат</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">teatteriparvi</t>
+
+        <t pos="N">parveke</t>
+
+        <t pos="N">kerros (geol.)</t>
+      </tg>
+
+      <xg>
+        <x>шукы ярусан театр</x>
+
+        <xt>moniparveinen katsomo</xt>
+      </xg>
+
+      <xg>
+        <x>Тадар свитӹм шӹрерӓкӹнок „пестрый мергельвлӓн ярусеш“ лӹмдӓт
+        (1941:5)</x>
+
+        <xt>Maaperän juonistoa kutsutaan tosi usein kirjavien merkelikivien
+        kerrokseksi</xt>
+      </xg>
     </mg>
   </e>
 
