@@ -7801,7 +7801,7 @@
     </lg>
 
     <mg>
-      <defNative>JK (puh.) </defNative>
+      <defNative>JK (puh.)</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">hotkia</t>
@@ -19646,6 +19646,8 @@
     <lg>
       <l pos="V">кыралаш</l>
 
+      <l_ref pos="V">шагалаш</l_ref>
+
       <stg>
         <st Contlex="V_АМ">кырал</st>
       </stg>
@@ -19654,7 +19656,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK шагалаш II (!?) eikä se toinen merkitys</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">kyntää</t>
@@ -52337,10 +52339,36 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>1930: synon - шагалаш:шагалем</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">kuoria</t>
+
+        <tCtn>
+          <t>kuoria</t>
+
+          <re>hedelmiä vihanneksia</re>
+        </tCtn>
+
+        <t pos="V">puhdistaa</t>
+
+        <t pos="V">suomustaa</t>
+
+        <t pos="V">perata</t>
+
+        <t pos="V">aurata (1930)</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="V">чистить (овощи)</t>
+
+        <t pos="V">чистить (фрукты)</t>
+
+        <t pos="V">очищать дерево (от коры)</t>
+
+        <t pos="V">чистить (рыбу)</t>
+
+        <t pos="V">пахать землю (1930)</t>
       </tg>
     </mg>
   </e>
@@ -67169,7 +67197,7 @@
       <xg>
         <x>яжо киндӹ шачын (1981: )</x>
 
-        <xt>vilja on kasvanut hyvin </xt>
+        <xt>vilja on kasvanut hyvin</xt>
       </xg>
 
       <xg>
@@ -67206,7 +67234,7 @@
     </lg>
 
     <mg>
-      <defNative>JK: </defNative>
+      <defNative>JK:</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">synnyttää</t>
