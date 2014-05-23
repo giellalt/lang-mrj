@@ -2194,6 +2194,40 @@
 
   <e>
     <lg>
+      <l pos="A">ана</l>
+
+      <stg>
+        <st Contlex="A_">ана</st>
+      </stg>
+
+      <stress>а•на</stress>
+    </lg>
+
+    <mg>
+      <defNative>Сав (1981:9) kts myös хана</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="A">verso=</t>
+
+        <t pos="A">yksivuotinen</t>
+
+        <tCtn>
+          <t>yksivuotinen</t>
+
+          <re>kasvi tai puu</re>
+        </tCtn>
+      </tg>
+
+      <xg>
+        <x>ти ана тумат соок ана ак ӹлӹ (1981:9)</x>
+
+        <xt>tämä nuori tammikaan ei ole aina nuori</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="A">анализӓн</l>
 
       <stg>
@@ -26319,12 +26353,20 @@
     </lg>
 
     <mg>
-      <defNative>Sav: kivistynyt ilmaisuna: кар шӹртӹ - перекрутившаяся
+      <defNative>Sav: kivistynyt ilmaisuna: перекрутившаяся
       веревка</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">takkuuntunut</t>
+
+        <t pos="A">sotkeutunut</t>
       </tg>
+
+      <xg>
+        <x>кар шӹртӹ (1981:48)</x>
+
+        <xt>takkuuntunut lanka</xt>
+      </xg>
     </mg>
   </e>
 
