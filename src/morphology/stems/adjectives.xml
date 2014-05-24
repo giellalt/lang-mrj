@@ -2309,6 +2309,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <t pos="A">lankuton</t>
+
         <tf pos="A">ilman lankkua oleva</tf>
 
         <tf pos="A">ilman ohutta lautaa</tf>
@@ -6967,7 +6969,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">=valuuttainen</t>
+
+        <tf pos="A">valuuttaa sisaltävä</tf>
       </tg>
     </mg>
   </e>
@@ -25527,6 +25531,32 @@
 
   <e>
     <lg>
+      <l pos="A">канга</l>
+
+      <stg>
+        <st Contlex="A_ОЛМА">канга</st>
+      </stg>
+
+      <stress>ка•нга</stress>
+    </lg>
+
+    <pos>A</pos>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">laiha</t>
+
+        <t pos="A">hoikka</t>
+
+        <t pos="A">kuivakka</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="A">кандалаан</l>
 
       <stg>
@@ -43979,7 +44009,17 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">roosa</t>
+
+        <t pos="A">vaaleanpunainen</t>
+
+        <t pos="A">vaaleanpinkki</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">розовый</t>
+
+        <t pos="A">алый</t>
       </tg>
     </mg>
   </e>
