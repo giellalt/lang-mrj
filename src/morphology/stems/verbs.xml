@@ -60408,6 +60408,8 @@
     <lg>
       <l pos="V">ханаш</l>
 
+      <l_ref pos="V">анаш</l_ref>
+
       <stg>
         <st Contlex="V_ЕМ">ханы</st>
       </stg>
@@ -61110,6 +61112,10 @@
 
       <tg xml:lang="fin">
         <t pos="V">kestitä</t>
+
+        <tf pos="V">osoittaa vieraanvaraisuutta</tf>
+
+        <tf pos="V">pitää vierasta hyvänä</tf>
       </tg>
     </mg>
   </e>
@@ -61135,7 +61141,7 @@
 
         <t pos="V">toimia</t>
 
-        <td pos="V">tuntua nuorelta - kuv.merk.</td>
+        <td pos="V">tuntua nuorelta (kuv.)</td>
       </tg>
     </mg>
   </e>
@@ -61225,8 +61231,7 @@
       <m>
         <head/>
 
-        <defNative>Хытырет вара? Шонгы гӹнят, хытыра эче. Махань
-        хытырымашет?</defNative>
+        <defNative>Хытырет вара? Махань хытырымашет?</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -61234,8 +61239,16 @@
 
         <t pos="V">keskustella</t>
 
-        <td pos="V">olla terveenä; voida hyvin</td>
+        <td pos="V">olla terveenä</td>
+
+        <td pos="V">voida hyvin</td>
       </tg>
+
+      <xg>
+        <x>Шонгы гӹнят, хытыра эче. </x>
+
+        <xt>Vaikka on tosi iäkäs, voi hyvin.</xt>
+      </xg>
     </mg>
   </e>
 
