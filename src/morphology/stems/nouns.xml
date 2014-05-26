@@ -9226,26 +9226,6 @@
 
   <e>
     <lg>
-      <l pos="N">аэымангмаш</l>
-
-      <stg>
-        <st Contlex="N_КОЛ">аэымангмаш</st>
-      </stg>
-
-      <stress>аэыма•нгмаш</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N">?!</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="N">аяр</l>
 
       <stg>
@@ -17827,20 +17807,26 @@
 
   <e>
     <lg>
-      <l pos="N">вирзы</l>
+      <l pos="N">вирзӹ</l>
 
       <stg>
-        <st Contlex="N_ТӸРВӸ">вирзы</st>
+        <st Contlex="N_ТӸРВӸ">вирзӹ</st>
       </stg>
 
-      <stress>вирзы</stress>
+      <stress>ви•рзӹ</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: Ӱпымарий В.М. - Шорин В. 1926 - mhr варасэН</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N">?!</t>
+        <t pos="N">räystäspääsky</t>
+
+        <t pos="N">haarapääsky</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <td pos="N">стриж деревенский (1926:36)</td>
       </tg>
     </mg>
   </e>
@@ -40217,6 +40203,32 @@
 
   <e>
     <lg>
+      <l pos="N">йорак</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">йорак</st>
+      </stg>
+
+      <stress>йо•рак</stress>
+    </lg>
+
+    <mg>
+      <defNative>1926:308 приключение tarkastettava!</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">seikkailu</t>
+      </tg>
+
+      <xg>
+        <x>Корны йорак гӹц серлӓгӹшӹм пу (1926:308)</x>
+
+        <xt>Suojaa siuna minua seikkailuista.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">йорга</l>
 
       <stg>
@@ -41511,8 +41523,9 @@
       <tg xml:lang="fin">
         <t pos="N">sekaantuminen</t>
 
-        <tf pos="N">sekaantuminen muiden asioihin; puuttuminen muiden
-        asioihin</tf>
+        <tf pos="N">sekaantuminen muiden asioihin</tf>
+
+        <tf pos="N">puuttuminen muiden asioihin</tf>
       </tg>
     </mg>
   </e>
@@ -42561,6 +42574,32 @@
 
   <e>
     <lg>
+      <l pos="N">йӓрнӹмӓш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ_SUB">йӓрнӹмӓш</st>
+
+        <st Contlex="N_КОЛ">ӹнянӹмӓш</st>
+      </stg>
+
+      <stress>йӓ•рнӹмӓш</stress>
+    </lg>
+
+    <mg>
+      <defNative>homonyymi (1926:304) надеяться на людей</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">luottaminen</t>
+
+        <t pos="N">luottamus</t>
+
+        <td pos="N">avoin mieli (JK)</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">йӓрсӹдӹмӓш</l>
 
       <stg>
@@ -42615,7 +42654,7 @@
     <mg>
       <m>
         <head>
-          <!--Саваткова: ярица; крупа из зерна.
+          <!--Саваткова: ярица (хлеб); крупа из зерна.
 Википедия: ярица - яровой посев (пшеницы или ржи); злак ярового посева. -->
         </head>
 
@@ -43213,7 +43252,39 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N">jnkin tavan käyttäminen</t>
+        <tf pos="N">jnkin tavan käyttäminen</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">йӧнчӹш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">йӧнчӹш</st>
+      </stg>
+
+      <stress>йӧ•нчӹш</stress>
+    </lg>
+
+    <pos/>
+
+    <sources>
+      <book>Марла мутэр, 1926.</book>
+    </sources>
+
+    <mg>
+      <m>
+        <head>
+          <!--Сав уке. Вас уке. 1926:309: просачивание (воды)-->
+        </head>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N">tihkuminen</t>
       </tg>
     </mg>
   </e>
@@ -169953,7 +170024,8 @@
     </lg>
 
     <mg>
-      <defNative>Сав уке. Васик-ат уке. JK: тӹдӹ тая ?</defNative>
+      <defNative>Сав уке. Васик-ат уке. Ӱпымарий (1926:200): тайа
+      арава</defNative>
 
       <tg xml:lang="fin">
         <t pos="N"/>
@@ -234244,8 +234316,24 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">luottamus</t>
+
+        <t pos="N">usko</t>
+
+        <t pos="N">toivo</t>
+
+        <t pos="N">luottavaisuus</t>
       </tg>
+
+      <xg>
+        <x>Йымылан ӹнянӹмӓш</x>
+
+        <xt>uskonto</xt>
+
+        <xt>jumalaanuskominen</xt>
+
+        <xt>jumalusko</xt>
+      </xg>
     </mg>
   </e>
 
