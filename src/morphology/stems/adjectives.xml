@@ -43535,7 +43535,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">tämänhetkinen</t>
+
+        <t pos="A">nykyaikainen</t>
       </tg>
     </mg>
   </e>
@@ -43552,10 +43554,22 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>приторный тягучий</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">äitelä</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">приторный</t>
+
+        <t pos="A">тягучий</t>
+
+        <tCtn>
+          <t>тягучий</t>
+
+          <re>о еде</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -43563,6 +43577,8 @@
   <e>
     <lg>
       <l pos="A">кӹлгӓтӓ</l>
+
+      <l_ref pos="A">кӹлгӓ</l_ref>
 
       <stg>
         <st Contlex="A_">кӹлгӓтӓ</st>
@@ -43572,10 +43588,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: кӹльгӓтӓ</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">äitelä</t>
       </tg>
     </mg>
   </e>
@@ -43769,7 +43785,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">laatukuiduton</t>
       </tg>
     </mg>
   </e>
@@ -43789,7 +43805,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">laatukuituinen</t>
+
+        <tf pos="A">laatukuitua sisältävä</tf>
       </tg>
     </mg>
   </e>
@@ -43809,7 +43827,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kahvainen</t>
+
+        <t pos="A">=kielinen</t>
       </tg>
     </mg>
   </e>
@@ -43829,7 +43849,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">=napainen</t>
       </tg>
     </mg>
   </e>
@@ -43849,7 +43869,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">hamputon</t>
       </tg>
     </mg>
   </e>
@@ -43869,7 +43889,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">=kyynärpäinen</t>
       </tg>
     </mg>
   </e>
@@ -43889,7 +43909,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kyynäränmittainen</t>
       </tg>
     </mg>
   </e>
@@ -43909,7 +43929,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kyynärluinen</t>
       </tg>
     </mg>
   </e>
@@ -43949,7 +43969,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kyynärluun</t>
+
+        <tf pos="A">kyynärluussa oleva</tf>
       </tg>
     </mg>
   </e>
@@ -43966,7 +43988,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: kts N кӹнерӓш</defNative>
 
       <tg xml:lang="fin">
         <t pos="A"/>
@@ -43989,7 +44011,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">hamppuinen</t>
+
+        <tf pos="A">hamppua sisältävä</tf>
       </tg>
     </mg>
   </e>
@@ -44039,7 +44063,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">palsamikukaton</t>
       </tg>
     </mg>
   </e>
@@ -44059,7 +44083,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">palsamikukkainen</t>
+
+        <tf pos="A">palsamikukkaa sisältävä</tf>
+
+        <tf pos="A">häpykannusta sisältävä</tf>
       </tg>
     </mg>
   </e>
@@ -44099,7 +44127,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">puolisenkiloinen</t>
       </tg>
     </mg>
   </e>
@@ -44119,7 +44147,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kesäkiireetön</t>
       </tg>
     </mg>
   </e>
@@ -44139,7 +44167,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kesäkiireinen</t>
+
+        <tf pos="A">kesäkiireellä oleva</tf>
       </tg>
     </mg>
   </e>
@@ -44179,7 +44209,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">rautateinen</t>
+
+        <tf pos="A">rautateillä varustettu</tf>
+
+        <tf pos="A">rautatietä sisältävä</tf>
       </tg>
     </mg>
   </e>
@@ -44199,7 +44233,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">rautatietön</t>
       </tg>
     </mg>
   </e>
@@ -44219,7 +44253,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <tf pos="A">rautatiellä oleva</tf>
       </tg>
     </mg>
   </e>
@@ -44239,7 +44273,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">metalliton</t>
+
+        <t pos="A">teräksitön</t>
+
+        <t pos="A">raudaton</t>
       </tg>
     </mg>
   </e>
@@ -44259,7 +44297,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">metallinen</t>
+
+        <t pos="A">rautainen</t>
+
+        <tf pos="A">metallia sisältävä</tf>
       </tg>
     </mg>
   </e>
@@ -44596,6 +44638,34 @@
 
       <tg xml:lang="fin">
         <t pos="A"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кӹрӹлтшӹ</l>
+
+      <stg>
+        <st Contlex="A_">кӹрӹлтшӹ</st>
+      </stg>
+
+      <stress>кӹрӹ•лтшӹ</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK: кӹрӹлтшӹ йиш</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="A">katkeileva</t>
+
+        <t pos="A">hauras</t>
+
+        <tCtn>
+          <t>hauras</t>
+
+          <re>lanka</re>
+        </tCtn>
       </tg>
     </mg>
   </e>

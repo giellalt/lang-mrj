@@ -358,6 +358,72 @@
 
   <e>
     <lg>
+      <l pos="V">адахаэмдӓш</l>
+
+      <stg>
+        <st Contlex="V_ЕМ_SUB">адахаэмдӹ</st>
+
+        <st Contlex="V_ЕМ">тӓрвӓнӹктӹ</st>
+      </stg>
+
+      <stress>адахаэ•мдӓш</stress>
+    </lg>
+
+    <sources>
+      <book>Марий мутэр 1926.</book>
+    </sources>
+
+    <mg>
+      <defNative>адахаэмдэм - к.м.(1926:17) привожу в движение JK: kts vrt
+      тӓрвӓнӹктӓш рисньӹктӓш vrt ытырыкташ пыдыраташ</defNative>
+
+      <tg xml:lang="fin">
+        <tf pos="V">saada liikkeelle</tf>
+
+        <tf pos="V">panna liikkumaan</tf>
+
+        <tf pos="V">saattaa liikkeeseen</tf>
+
+        <tf pos="V">yllyttää liikehdintään (JK)</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">адахэмӓлтӓш</l>
+
+      <stg>
+        <st Contlex="V_АМ_SUB">адахэмӓлт</st>
+
+        <st Contlex="V_ЕМ">йорты</st>
+
+        <st Contlex="V_ЕМ">талашы</st>
+
+        <st Contlex="V_ЕМ">вӓшкӹ</st>
+      </stg>
+
+      <stress>адахэмӓ•лтӓш</stress>
+    </lg>
+
+    <sources>
+      <book>Марий мутэр 1926.</book>
+    </sources>
+
+    <mg>
+      <defNative>адахэмӓлтӓм - к.м.(1926:17) порываюсь тороплюсь JK: kts vrt
+      рисньӹктӓш (VI intans) JK_u myös: ытырыкта веле кеӓ</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="V">kiirehtiä</t>
+
+        <tf pos="V">yllyttää liikehdintään (JK)</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V">адресуяш</l>
 
       <stg>
@@ -415,11 +481,52 @@
       <stress>ажналташ</stress>
     </lg>
 
+    <sources>
+      <book>Марий мутэр 1926.</book>
+    </sources>
+
     <mg>
-      <defNative/>
+      <defNative>сулыкыш пырэм (1926:17) грешу kts сулыкангаш</defNative>
 
       <tg xml:lang="fin">
-        <t pos="V">?</t>
+        <tf pos="V">tehdä syntiä</tf>
+
+        <t pos="V">tulla syntiseksi</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="V">грешить</t>
+
+        <t pos="V">соблазняться</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">ажныктараш</l>
+
+      <stg>
+        <st Contlex="V_ЕМ">ажныктараш</st>
+      </stg>
+
+      <stress>ажналташ</stress>
+    </lg>
+
+    <sources>
+      <book>Марий мутэр 1926.</book>
+    </sources>
+
+    <mg>
+      <defNative>ажныктарэм = сулыкыш пыртэм (1926:17) соблазняю. kts
+      сулыкангдараш ( JK_u )</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="V">vietellä</t>
+
+        <t pos="V">saada vietellyksi</t>
+
+        <t pos="V">saattaa syntiseksi</t>
       </tg>
     </mg>
   </e>
@@ -1267,7 +1374,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: kts myös N алапанти</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">petkuttaa</t>
@@ -1293,7 +1400,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK (V_puh.): пыдалаш kts myös ямалтылаш</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">petkutella</t>
@@ -9660,7 +9767,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: kts myös V_SUB адахэмӓлтӓш (1926:17)</defNative>
 
       <tg xml:lang="fin">
         <te pos="V">ajaa hölkkää</te>
@@ -12699,10 +12806,13 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: kts myös ямалтылаш vrt N алапанти JK (V_puh.): пыдалаш
+      </defNative>
 
       <tg xml:lang="fin">
         <t pos="V">valehdella</t>
+
+        <t pos="V">petkuttaa</t>
       </tg>
     </mg>
   </e>
@@ -17980,6 +18090,39 @@
 
   <e>
     <lg>
+      <l pos="V">курваланаш</l>
+
+      <stg>
+        <st Contlex="V_ЕМ_SUB">курваланы</st>
+
+        <st Contlex="V_ЕМ">шӓхӓрлӓнӹ</st>
+      </stg>
+
+      <stress>курвала•наш</stress>
+    </lg>
+
+    <sources>
+      <book>Марий мутэр 1926.</book>
+    </sources>
+
+    <mg>
+      <defNative>развратничает (1926:85) курва-вӓтэ (1926:99) kts
+      шӓхӓрлӓнӓш</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="V">vietellä</t>
+
+        <tf pos="V">harjoittaa haureutta</tf>
+
+        <tf pos="V">saattaa haureuteen</tf>
+
+        <tf pos="V">vietellä haureellisuuteen</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V">курымлаш</l>
 
       <stg>
@@ -22148,6 +22291,40 @@
 
   <e>
     <lg>
+      <l pos="V">кӹлдӓлӓш</l>
+
+      <stg>
+        <st Contlex="V_АМ_SUB">кӹлдӓл</st>
+      </stg>
+
+      <stress>кӹлдӓ•лӓш</stress>
+    </lg>
+
+    <sources>
+      <book>Марла мутэр (1926)</book>
+    </sources>
+
+    <mg>
+      <defNative>JK: кӹлдӓлӓм - путаю нитки; путаюсь (1926:99)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="V">sekoittaa</t>
+
+        <tf pos="V">mennä solmuun</tf>
+
+        <tf pos="V"> solmuun</tf>
+      </tg>
+
+      <xg>
+        <x>мам кӹлдӓлӓт вӓл (JK)</x>
+
+        <xt>mitä sekoittelet että menee lankoja solmuun</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V">кӹлдӓш</l>
 
       <stg>
@@ -22390,6 +22567,10 @@
 
       <tg xml:lang="fin">
         <t pos="V">touhuta</t>
+
+        <t pos="V">hyöriä</t>
+
+        <t pos="V">hääriä</t>
 
         <t pos="V">vitkastella</t>
       </tg>
@@ -47108,7 +47289,7 @@
           <!--Саваткова: заставить или дать возможность ускорить движение-->
         </head>
 
-        <defNative/>
+        <defNative>JK: vrt адахаэмдӓш _SUB</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -53410,7 +53591,7 @@
       <tg xml:lang="fin">
         <t pos="V">kiiruhtaa</t>
 
-        <tf pos="V">kiirehtiä jk</tf>
+        <td pos="V">kiirehtiä (VT transitiiviverbi)</td>
       </tg>
     </mg>
   </e>
@@ -57482,6 +57663,33 @@
 
   <e>
     <lg>
+      <l pos="V">тӓрвӓнӹктӓш</l>
+
+      <l_ref pos="V">адахаэмдӓш</l_ref>
+
+      <stg>
+        <st Contlex="V_АМ">тӓрвӓнӹктӹ</st>
+      </stg>
+
+      <stress>тӓрвӓ•нӹлӓш</stress>
+    </lg>
+
+    <mg>
+      <defNative>pyrtenäm (johdos) JK: kts V_SUB адахаэмдӓш
+      (1926:17)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="V">liikahduttaa</t>
+
+        <tf pos="V">saattaa liikkeelle</tf>
+
+        <tf pos="V">pakottaa liikkeelle</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V">тӓрвӓнӹлӓш</l>
 
       <stg>
@@ -61245,7 +61453,7 @@
       </tg>
 
       <xg>
-        <x>Шонгы гӹнят, хытыра эче. </x>
+        <x>Шонгы гӹнят, хытыра эче.</x>
 
         <xt>Vaikka on tosi iäkäs, voi hyvin.</xt>
       </xg>
@@ -72363,12 +72571,17 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: synon (1926:85) курваланаш - развратничать kts myös
+      кӹрт</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">vietellä</t>
 
         <tf pos="V">harjoittaa haureutta</tf>
+
+        <tf pos="V">saattaa haureuteen</tf>
+
+        <tf pos="V">vietellä haureellisuuteen</tf>
       </tg>
     </mg>
   </e>
@@ -77653,7 +77866,8 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: kts myös ямалтылаш vrt N алапанти JK (V_puh.): пыдалаш
+      </defNative>
 
       <tg xml:lang="fin">
         <t pos="V">tarinoida</t>
@@ -77682,7 +77896,8 @@
       <m>
         <head/>
 
-        <defNative>ямалтыл кашташ</defNative>
+        <defNative>JK synon (V_puh.): пыдалаш kts myös ямакланаш (N алапанти )
+        </defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -77694,6 +77909,12 @@
 
         <t pos="V">ryhtyä puheisiin</t>
       </tg>
+
+      <xg>
+        <x>мам вӓл ямалтыл каштеш (JK)</x>
+
+        <xt>mitä hän satuilee</xt>
+      </xg>
     </mg>
   </e>
 
