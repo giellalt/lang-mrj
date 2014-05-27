@@ -1303,10 +1303,62 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>порыв усердие (1926:17) JK: шӹдӹ пар доно = шӹдӹ адаха
+      ?</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N">?!</t>
+        <t pos="N">pyrkimys</t>
+
+        <t pos="N">tunnepuuska</t>
+
+        <t pos="N">=puuska</t>
+
+        <t pos="N">purkaus</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">порыв</t>
+
+        <t pos="N">усердие</t>
+      </tg>
+
+      <xg>
+        <x>сусу адахаэш сӹгӹрӓл колтыш (JK)</x>
+
+        <xt>riemupuuskassaan huudahti</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">адахаэмдӹмӓш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ_SUB">адахаэмдӹмӓш</st>
+
+        <st Contlex="N_КОЛ_SUB">тӓрвӓнӹктӹмӓш</st>
+      </stg>
+
+      <stress>адахаэ•мдӹмӓш</stress>
+    </lg>
+
+    <sources>
+      <book>Марий мутэр 1926</book>
+    </sources>
+
+    <mg>
+      <defNative>адахаэмдэм - к.м.(1926:17) привожу в движение JK: kts
+      тӓрвӓнӹктӹмӓш рисньӹктӹмӓш vrt ытырыктымаш пыдыратымаш</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">liikkeellepano</t>
+
+        <tf pos="N">yllytys liikkumaan (JK)</tf>
+      </tg>
+
+      <tg xml:lang="rus">
+        <tf pos="N">приведение в движение (1926:17)</tf>
       </tg>
     </mg>
   </e>
@@ -3106,21 +3158,54 @@
           <range rangeTemp="historical">arkaismi</range>
         </head>
 
-        <defNative/>
+        <defNative>vanh. JK: adj myös? чумазый (2008:12)</defNative>
       </m>
 
       <tg xml:lang="fin">
         <t pos="N">sottapytty</t>
 
+        <t pos="N">tuhrimus</t>
+
         <tCtn>
-          <t>tuhrimus</t>
+          <t>sottapytty</t>
 
           <re>likaisesta lapsesta</re>
         </tCtn>
       </tg>
 
       <tg xml:lang="rus">
-        <t/>
+        <t pos="N">грязнуля</t>
+
+        <t pos="N">чумазый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">аламӹнер</l>
+
+      <stg>
+        <st Contlex="N_КОЛ_SUB">аламӹнер</st>
+      </stg>
+
+      <stress>ала•мӹнер</stress>
+    </lg>
+
+    <mg>
+      <defNative>(JK пыртенӓм) ала мыньэр (1926:21) дерюга Vasik:
+      uke!</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">hursti</t>
+
+        <t pos="N">rohdinkangas</t>
+
+        <t pos="N">piikko</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">дерюга</t>
       </tg>
     </mg>
   </e>
@@ -3209,10 +3294,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав уке. Васик: алталышы эдем (1994:14)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N">?!</t>
+        <t pos="N">petkuttaja</t>
+
+        <t pos="N">valehtelijä</t>
+
+        <t pos="N">sanakiertelijä (JK)</t>
       </tg>
     </mg>
   </e>
@@ -4091,6 +4180,40 @@
 
   <e>
     <lg>
+      <l pos="N">амалтыш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">амалтыш</st>
+      </stg>
+
+      <stress>ама•лтыш</stress>
+    </lg>
+
+    <mg>
+      <defNative>(пыртенӓм) Сав Васик улы! закваска (1926:22) закваска для
+      простокваши (2008:14)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">hapate</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">закваска</t>
+
+        <td pos="N">закваска для простокваши (2008:14)</td>
+      </tg>
+
+      <xg>
+        <x>Тарык амалтышдэ йӹлэ ак вац (1926:22)</x>
+
+        <xt>Tuoretta piimää ei saa ilman hapatetta (hapatteella muodostuu
+        nopeasti piimää)</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">амалыдымаш</l>
 
       <stg>
@@ -4323,10 +4446,41 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: ? амырт - баба-птица (1926:22)</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">?!</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">амиш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ_SUB">амиш</st>
+
+        <st Contlex="N_КОЛ">амыж</st>
+      </stg>
+
+      <stress>а•миш</stress>
+    </lg>
+
+    <sources>
+      <book>Марий мутэр 1926.</book>
+    </sources>
+
+    <mg>
+      <defNative>JK: murt? амиш (к.м.) амыж (1926:22) - камыш. Sav Vasik
+      uke!</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">kaisla</t>
+
+        <t pos="N">saraheinä</t>
+
+        <t pos="N">ruoko</t>
       </tg>
     </mg>
   </e>
@@ -4447,7 +4601,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>kts myös N_SUB амиш (1926:22)</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">kaisla</t>
@@ -69415,6 +69569,44 @@
 
   <e>
     <lg>
+      <l pos="N">курва</l>
+
+      <l_ref pos="N">кӹрт</l_ref>
+
+      <stg>
+        <st Contlex="N_КОЛ">курва</st>
+      </stg>
+
+      <stress>ку•рва</stress>
+    </lg>
+
+    <sources>
+      <book>Марий мутэр 1926</book>
+    </sources>
+
+    <mg>
+      <defNative>syn. курва-вӓтэ (1926:99) Raamatun kielessä portto sana
+      tarkoittaa haureellista naista (www.kotipetripaavola.com/shekina.html
+      )</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">portto</t>
+
+        <tf pos="N">haureellinen ihminen</tf>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">развратник</t>
+
+        <t pos="N">развратница</t>
+
+        <tf pos="N">особа дурного поведения (1926:99)</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">курган</l>
 
       <stg>
@@ -77986,6 +78178,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <t pos="N">laatukuidut</t>
+
         <td pos="N">kuontalon parhaat kuidut</td>
       </tg>
     </mg>
@@ -78121,6 +78315,8 @@
     <lg>
       <l pos="N">кӹнер</l>
 
+      <l_ref pos="N">аршын</l_ref>
+
       <stg>
         <st Contlex="N_КОЛ">кӹнер</st>
       </stg>
@@ -78129,10 +78325,13 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав мера длины, равная длине локтя (2008:123)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N">kyynär</t>
+        <t pos="N">kyynärä</t>
+
+        <td pos="N">vanha pituusmitta, joka osapuilleen vastaa kyynärpään ja
+        keskisormen pään välistä etäisyyttä (WIKI)</td>
       </tg>
     </mg>
   </e>
@@ -78149,7 +78348,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>2008:123 локтевой сустав</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">kyynärpää</t>
@@ -78169,11 +78368,26 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: kyynär - кӹнервуй гӹц кӱшӹл. предплечье
+      (2008:123)</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">kyynärvarsi</t>
+
+        <t pos="N">kyynärvarren ylin osa (JK)</t>
       </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">предплечье (1981: 2008:123)</t>
+      </tg>
+
+      <xg>
+        <x>кӹнервургым ат пырыл (2008:123)</x>
+
+        <xt>lähellä ja kuitenkin liian kaukana</xt>
+
+        <xt>локоть не укусишь</xt>
+      </xg>
     </mg>
   </e>
 
@@ -78189,10 +78403,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав 2008 уке. Сав 1981: </defNative>
 
       <tg xml:lang="fin">
         <t pos="N">kyynärpää</t>
+
+        <t pos="N">kyynärvarsi (JK)</t>
       </tg>
     </mg>
   </e>
@@ -78203,13 +78419,15 @@
 
       <stg>
         <st Contlex="N_КОЛ">кӹнергыт</st>
+
+        <st Contlex="N_КОЛ">кӹнер</st>
       </stg>
 
       <stress>кӹне•ргыт</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>локоть (мера длины)</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">kyynärä</t>
@@ -78281,6 +78499,35 @@
 
   <e>
     <lg>
+      <l pos="N">кӹнерӓш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">кӹнерӓш</st>
+      </stg>
+
+      <stress>кӹне•рӓш</stress>
+    </lg>
+
+    <sources>
+      <book>Саваткова 2008:123. Марий мутэр 1926.</book>
+    </sources>
+
+    <mg>
+      <defNative>JK: kts myös мындыра. Huom: кӹньэрӓш (1926:99) моток ниток
+      Сав 2008:123 моток ниток равный длине локтя</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">lankakerä</t>
+
+        <t pos="N">pikkulankakerä (JK)</t>
+
+        <td pos="N">kyynärän vyyhdin pituinen pieni lankakerä (2008:123)</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">кӹнетель</l>
 
       <stg>
@@ -78314,7 +78561,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N">touhuminen</t>
+        <t pos="N">touhuilu</t>
+
+        <t pos="N">vitkastelu</t>
+
+        <t pos="N">hyöriminen</t>
       </tg>
     </mg>
   </e>
@@ -78443,6 +78694,30 @@
 
   <e>
     <lg>
+      <l pos="N">кӹнӓшуды</l>
+
+      <stg>
+        <st Contlex="N_ТӸРВӸ_SUB">кӹнӓшуды</st>
+      </stg>
+
+      <stress>кӹнӓшу•ды</stress>
+    </lg>
+
+    <mg>
+      <defNative>Васик: кӹнӓ шуды (бот. кӹнӓ• шу•ды) Сав 2008:123 бальзамин,
+      растение из корней к-го делаются румяна. (Impatiens
+      balsamina)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">palsamikukka</t>
+
+        <t pos="N">häpykannus</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">кӹпцӹк</l>
 
       <stg>
@@ -78562,6 +78837,8 @@
       </m>
 
       <tg xml:lang="fin">
+        <tf pos="N">puolisen kiloa</tf>
+
         <td pos="N">painomitta joka vastaa 0,454 kg</td>
       </tg>
     </mg>
@@ -78897,6 +79174,120 @@
         <t pos="N">hanki</t>
 
         <t pos="N">hankiainen</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">наст</t>
+
+        <td pos="N">ледяная корка на снегу (2008:124)</td>
+      </tg>
+
+      <xg>
+        <x>лым кӹрт вӹлнӹ кыргыжталаш (2008:124)</x>
+
+        <xt>juosta hankiaisella</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">кӹрт</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">кӹрт</st>
+      </stg>
+
+      <stress>кӹрт</stress>
+    </lg>
+
+    <sources>
+      <book>Марий мутэр 1926</book>
+    </sources>
+
+    <mg>
+      <defNative>развратник развратница (1926:99) кӹрт вӓтӹ = курва вӓтӹ.
+      Raamatun kielessä portto sana tarkoittaa haureellista naista
+      (www.kotipetripaavola.com/shekina.html )</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">portto</t>
+
+        <tf pos="N">haureuden harjoittaja</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">кӹртигӹ</l>
+
+      <stg>
+        <st Contlex="N_ТӸРВӸ_SUB">кӹртигӹ</st>
+      </stg>
+
+      <stress>кӹ•ртигӹ</stress>
+    </lg>
+
+    <mg>
+      <defNative>Сав: выродок безродный (2008:124) kts myös кӹрт пи - человек
+      с дурным поведением myös кӹрт пӹжӓш. Васик: уке тидӹвлӓ!</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">epäsikiö</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">выродок (2008:124)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">кӹрт пи</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">кӹрт пи</st>
+      </stg>
+
+      <stress>кӹ•рт пи</stress>
+    </lg>
+
+    <mg>
+      <defNative>Сав: с дурным поведением (женщина) (2008:124) vrt кӹрт
+      курва-вӓтэ (1926:99) kts myös кӹрт myös кӹрт пӹжӓш. Васик: уке
+      тидӹвлӓ!</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">epäsikiö</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">выродок (2008:124)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">кӹрт пӹжӓш</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">кӹрт пӹжӓш</st>
+      </stg>
+
+      <stress>кӹ•рт пӹжӓш</stress>
+    </lg>
+
+    <mg>
+      <defNative>Сав: место где собираются люди с дурным поведением. Васик:
+      уке!</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">haureellisuuspesä</t>
+
+        <td pos="N">haureellinen kattila (hs.fi/kulttuuri )</td>
       </tg>
     </mg>
   </e>
@@ -79473,7 +79864,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>demin. Саваткова</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">kisuli</t>
