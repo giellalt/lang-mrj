@@ -14,9 +14,16 @@ LEXICON verbs
 агыл:агыл VAux  "hän ei ole" ;
 агылеп:агылеп VAux  "eivät ole" ;
 ада:ада VAux  "ette" ;
+адахаэмдӓш:адахаэмдӹ V_ЕМ_SUB  "saada liikkeelle" ;
+адахаэмдӓш:тӓрвӓнӹктӹ V_ЕМ  "saada liikkeelle" ;
+адахэмӓлтӓш:адахэмӓлт V_АМ_SUB  "kiirehtiä" ;
+адахэмӓлтӓш:йорты V_ЕМ  "kiirehtiä" ;
+адахэмӓлтӓш:талашы V_ЕМ  "kiirehtiä" ;
+адахэмӓлтӓш:вӓшкӹ V_ЕМ  "kiirehtiä" ;
 адресуяш:адресуйы V_ЕМ  "osoittaa" ;
 ажедӓш:ажед V_АМ  "neuvoa" ;
-ажналташ:ажналт V_АМ  "?" ;
+ажналташ:ажналт V_АМ  "tulla syntiseksi" ;
+ажныктараш:ажныктараш V_ЕМ  "vietellä" ;
 азаш:азы V_ЕМ  "voimistua" ;
 азаш:азы V_ЕМ  "riehua" ;
 аздаралташ:аздаралт V_АМ  "houkuttautua" ;
@@ -744,6 +751,8 @@ LEXICON verbs
 купангдаш:купангды V_ЕМ  "soistuttaa" ;
 купоросангаш:купоросанг V_АМ  "sulfaatistua" ;
 купоросангдаш:купоросангды V_ЕМ  "" ;
+курваланаш:курваланы V_ЕМ_SUB  "vietellä" ;
+курваланаш:шӓхӓрлӓнӹ V_ЕМ  "vietellä" ;
 курымлаш:курымлы V_ЕМ  "elää" ;
 кусланаш:кусланы V_ЕМ  "takertua" ;
 куснаш:кусны V_ЕМ  "muuttaa" ;
@@ -911,6 +920,7 @@ LEXICON verbs
 кӹжгемӓш:кӹжгем V_АМ  "lihoa" ;
 кӹлдӓлтӓш:кӹлдӓлт V_АМ  "sitoutua" ;
 кӹлдӓлтӓш:кӹлдӓлтӹ V_ЕМ  "sitoa" ;
+кӹлдӓлӓш:кӹлдӓл V_АМ_SUB  "sekoittaa" ;
 кӹлдӓш:кӹлдӹ V_ЕМ  "sitoa" ;
 кӹлдӹлӓш:кӹлдӹл V_АМ  "kietoa" ;
 кӹлештӓш:кӹлешт V_АМ  "kuvottaa" ;
@@ -2316,6 +2326,7 @@ LEXICON verbs
 тодаш:тод V_АМ  "katkoa" ;
 тодылалташ:тодылалт V_АМ  "taittua" ;
 тодылаш:тодыл V_АМ  "taittaa" ;
+тодылташ:тодылт V_АМ  "taittua" ;
 тодышташ:тодышт V_АМ  "taitella" ;
 тойлаш:тойлы V_ЕМ  "peittää messingillä" ;
 толаш:тол V_АМ  "tulla" ;
@@ -2447,6 +2458,7 @@ LEXICON verbs
 тӓнгӓштӓрӓш:тӓнгӓштӓрӹ V_ЕМ  "verrata" ;
 тӓнгӓшӓш:тӓнгӓшӹ V_ЕМ  "kilpailla" ;
 тӓрвӓнӓш:тӓрвӓнӹ V_ЕМ  "aikoa" ;
+тӓрвӓнӹктӓш:тӓрвӓнӹктӹ V_АМ  "liikahduttaa" ;
 тӓрвӓнӹлӓш:тӓрвӓнӹл V_АМ  "liikahdella" ;
 тӓрвӓтӓш:тӓрвӓтӹ V_ЕМ  "siirtyä" ;
 тӓрвӓтӹлӓш:тӓрвӓтӹл V_АМ  "liikautella" ;
@@ -3195,7 +3207,7 @@ LEXICON verbs
 шӹрпештӓрӓш:шӹрпештӓрӹ V_ЕМ  "saada tikku ihoonsa" ;
 шӹрпештӓш:шӹрпешт V_АМ  "karheutua kulumisesta" ;
 шӹрпӓнгдӓш:шӹрпӓнгдӹ V_ЕМ  "saada tikku ihoonsa" ;
-шӹрпӓнгӓш:шӹрпӓнг V_АМ  "" ;
+шӹрпӓнгӓш:шӹрпӓнг V_АМ  "mennä ihoon" ;
 шӹртнялтӓш:шӹртнялт V_АМ  "kompastua" ;
 шӹртняш:шӹртньӹ V_ЕМ  "estää" ;
 шӹрхӓнгдӓш:шӹрхӓнгдӹ V_ЕМ  "pölyttää" ;
