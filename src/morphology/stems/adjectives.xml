@@ -106055,7 +106055,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">tiheä</t>
       </tg>
     </mg>
   </e>
@@ -106075,7 +106075,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">häkäinen</t>
+
+        <tf pos="A">täynnä häkää oleva</tf>
       </tg>
     </mg>
   </e>
@@ -110288,10 +110290,15 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: йымы-ӹнянӹдӹмӹ Сав: неверующий (по мнению суеверных
+      людей)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">epäuskoinen</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">неверующий</t>
       </tg>
     </mg>
   </e>
@@ -110317,7 +110324,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>mistä tahansa oleva; minkälainen tahansa</t>
+        <tf pos="A">mistä tahansa oleva</tf>
+
+        <tf pos="A">minkälainen tahansa</tf>
       </tg>
     </mg>
   </e>
@@ -110339,11 +110348,13 @@
           <register register="conversation"/>
         </head>
 
-        <defNative>маха•ньы-ӓня•т</defNative>
+        <defNative>маханьы-ӓнят</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t>minkälainen tahansa</t>
+        <tf pos="A">minkälainen vain</tf>
+
+        <tf pos="A">minkälainen tahansa</tf>
       </tg>
     </mg>
   </e>
@@ -110365,11 +110376,13 @@
           <register register="conversation"/>
         </head>
 
-        <defNative>маха•ньы-ӓня•т</defNative>
+        <defNative>маханьы-ӓнят</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t>minkälainen tahansa</t>
+        <tf pos="A">minkälainen vain</tf>
+
+        <tf pos="A">minkälainen tahansa</tf>
       </tg>
     </mg>
   </e>
@@ -110386,10 +110399,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>тамахань-ӓнят</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <tf pos="A">minkälainen tahansa</tf>
       </tg>
     </mg>
   </e>
@@ -110406,10 +110419,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>тамаханьы-ӓнят</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <tf pos="A">minkälainen tahansa</tf>
       </tg>
     </mg>
   </e>
