@@ -12806,8 +12806,8 @@
     </lg>
 
     <mg>
-      <defNative>JK: kts myös ямалтылаш vrt N алапанти JK (V_puh.): пыдалаш
-      </defNative>
+      <defNative>JK: kts myös ямалтылаш vrt N алапанти JK (V_puh.):
+      пыдалаш</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">valehdella</t>
@@ -22312,7 +22312,7 @@
 
         <tf pos="V">mennä solmuun</tf>
 
-        <tf pos="V"> solmuun</tf>
+        <tf pos="V">solmuun</tf>
       </tg>
 
       <xg>
@@ -54648,6 +54648,43 @@
 
   <e>
     <lg>
+      <l pos="V">тодылташ</l>
+
+      <stg>
+        <st Contlex="V_АМ">тодылт</st>
+      </stg>
+
+      <stress>то•дылташ</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK: пыртенӓм Иван Светлов Ыныкамлан (1985:3) Ылынам
+      ыныка.</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="V">taittua</t>
+
+        <t pos="V">herkistyä</t>
+
+        <t pos="V">murtua</t>
+
+        <tCtn>
+          <t>murtua</t>
+
+          <re>mieli</re>
+        </tCtn>
+      </tg>
+
+      <xg>
+        <x>"Ыныкам" манмыкы тодылтеш кымыл (1985:3)</x>
+
+        <xt>"Lapsenlapseni" sanoessa mieli murtuu</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V">тодышташ</l>
 
       <stg>
@@ -74685,7 +74722,11 @@
 
         <t pos="V">kutistua</t>
 
-        <tf pos="V">käydä istumaan; mennä kokoon; mennä mailleen</tf>
+        <tf pos="V">käydä istumaan</tf>
+
+        <tf pos="V">mennä kokoon</tf>
+
+        <tf pos="V">mennä mailleen</tf>
 
         <td pos="V">ilmaisee tekemisen loppuunsuorittamista</td>
       </tg>
@@ -74906,12 +74947,22 @@
       <m>
         <head/>
 
-        <defNative>тетявлӓм акат шӹрдӓлтӹ</defNative>
+        <defNative/>
       </m>
 
       <tg xml:lang="fin">
         <t pos="V">moittia</t>
+
+        <t pos="V">läksyttää</t>
+
+        <t pos="V">soimata</t>
       </tg>
+
+      <xg>
+        <x>тетявлӓжӹм акат шӹрдӓлтӹ</x>
+
+        <xt>hän ei moittinutkaan lapsiaan</xt>
+      </xg>
     </mg>
   </e>
 
@@ -74952,6 +75003,8 @@
       <tg xml:lang="fin">
         <t pos="V">tihentyä</t>
 
+        <t pos="V">tiivistyä</t>
+
         <t pos="V">paksuta</t>
       </tg>
     </mg>
@@ -74974,6 +75027,12 @@
       <tg xml:lang="fin">
         <tf pos="V">hangata itseään</tf>
       </tg>
+
+      <xg>
+        <x>сасна тек шӹркӓлен каштеш (JK)</x>
+
+        <xt>sika hankaa itseään (puita vasten)</xt>
+      </xg>
     </mg>
   </e>
 
@@ -74992,22 +75051,45 @@
       <m>
         <head/>
 
-        <defNative>тервешем шӹрнӓ</defNative>
+        <defNative>Sav: касаться соприкасаться; мазаться пачкаться; (перен):
+        плестись привязаться привязываться</defNative>
       </m>
 
       <tg xml:lang="fin">
         <t pos="V">koskea</t>
 
+        <t pos="V">koskettaa</t>
+
+        <t pos="V">tuhria</t>
+
+        <t pos="V">töhrätä</t>
+
+        <t pos="V">nyhertää</t>
+
+        <t pos="V">nysvätä</t>
+
         <t pos="V">tungetella</t>
+
+        <tf pos="V">olla jnk kannassa</tf>
 
         <tf pos="V">koskettaa toisiinsa</tf>
       </tg>
+
+      <xg>
+        <x>тервешем шӹрнӓ</x>
+
+        <xt>hän on minun kimpussa</xt>
+
+        <xt>привязывается ко мне (2008:374)</xt>
+      </xg>
     </mg>
   </e>
 
   <e>
     <lg>
       <l pos="V">шӹрпештӓрӓш</l>
+
+      <l_ref pos="V">шӹрпӓнгдӓш</l_ref>
 
       <stg>
         <st Contlex="V_ЕМ">шӹрпештӓрӹ</st>
@@ -75057,10 +75139,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: ekalle merkitykselle Synon - шӹрпештӓрӓш</defNative>
 
       <tg xml:lang="fin">
         <tf pos="V">saada tikku ihoonsa</tf>
+
+        <td pos="V">kiskoa päreitä (JK)</td>
       </tg>
     </mg>
   </e>
@@ -75077,10 +75161,19 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: &lt;щепиться занозиться SVS: щепаться - kiskoa päreitä.
+      JK: Kts myös шӹрпештӓрӓш - Synonyymi toiselle merkitykselle </defNative>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <tf pos="V">murtua pieniksi päreiksi</tf>
+
+        <tf pos="V">mennä ihoon</tf>
+
+        <tCtn>
+          <t>mennä ihoon</t>
+
+          <re>tikusta</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -75176,6 +75269,12 @@
           <re>kasvit</re>
         </tCtn>
       </tg>
+
+      <xg>
+        <x>ӹшке вуя шӹрхӓнгеш (1981)</x>
+
+        <xt>itsestään pölyttyvä kasvi</xt>
+      </xg>
     </mg>
   </e>
 
@@ -77866,8 +77965,8 @@
     </lg>
 
     <mg>
-      <defNative>JK: kts myös ямалтылаш vrt N алапанти JK (V_puh.): пыдалаш
-      </defNative>
+      <defNative>JK: kts myös ямалтылаш vrt N алапанти JK (V_puh.):
+      пыдалаш</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">tarinoida</t>
@@ -77896,8 +77995,8 @@
       <m>
         <head/>
 
-        <defNative>JK synon (V_puh.): пыдалаш kts myös ямакланаш (N алапанти )
-        </defNative>
+        <defNative>JK synon (V_puh.): пыдалаш kts myös ямакланаш (N алапанти
+        )</defNative>
       </m>
 
       <tg xml:lang="fin">
