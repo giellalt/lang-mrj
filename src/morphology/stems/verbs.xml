@@ -28663,6 +28663,12 @@
 
         <xt>tuuli hiljenee</xt>
       </xg>
+
+      <xg>
+        <x>йӓнг лӹплӓнӓ, кымыл куза (www)</x>
+
+        <xt>sydän rauhoittuu, mieli nousee</xt>
+      </xg>
     </mg>
   </e>
 
@@ -35562,7 +35568,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>веремӓн-веремӓн мӱлӓндӹм нӧртӓлӓл кеӓ</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">kostuttaa</t>
@@ -35571,6 +35577,34 @@
 
         <t pos="V">liottaa</t>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">нӧртӓлӓлӓш</l>
+
+      <stg>
+        <st Contlex="V_АМ">нӧртӓлӓл</st>
+      </stg>
+
+      <stress>нӧртӓлӓ•лӓш</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <tf pos="V">kostuttaa hieman</tf>
+
+        <tf pos="V">kastella hieman</tf>
+      </tg>
+
+      <xg>
+        <x>юр веремӓн-веремӓн мӱлӓндӹм нӧртӓлӓл кеӓ</x>
+
+        <xt>vesisade joskus kostuttaa hieman maata</xt>
+      </xg>
     </mg>
   </e>
 
@@ -36876,6 +36910,30 @@
 
   <e>
     <lg>
+      <l pos="V">опталташ</l>
+
+      <stg>
+        <st Contlex="V_ЕМ">опталты</st>
+      </stg>
+
+      <stress>опта•лташ</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="V">haukahtaa</t>
+
+        <t pos="V">ärjäistä</t>
+
+        <td pos="V">haukkua pari kertaa</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V">опташ</l>
 
       <stg>
@@ -36912,6 +36970,36 @@
         <tf pos="V">kaataa päälle</tf>
 
         <tf pos="V">panna kokoon</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">опташ</l>
+
+      <stg>
+        <st Contlex="V_ЕМ">опты</st>
+      </stg>
+
+      <stress>о•пташ</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK: пыртенӓм homonyymi</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="V">haukkua</t>
+
+        <tCtn>
+          <t>haukkua</t>
+
+          <re>koira</re>
+        </tCtn>
+
+        <t pos="V">ärjyä</t>
+
+        <t pos="V">parjata</t>
       </tg>
     </mg>
   </e>
@@ -61561,6 +61649,8 @@
         <t pos="V">ilmiantaa</t>
 
         <tf pos="V">tehdä ilmianto</tf>
+
+        <t pos="V">vasikoida</t>
       </tg>
     </mg>
   </e>
@@ -70558,6 +70648,38 @@
 
   <e>
     <lg>
+      <l pos="V">шутялташ</l>
+
+      <stg>
+        <st Contlex="V_ЕМ">шутялты</st>
+      </stg>
+
+      <stress>шутя•лташ</stress>
+    </lg>
+
+    <mg>
+      <defNative>пыртенӓм (Егоркина 2014 цикма.www)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="V">vitsailla</t>
+
+        <tf pos="V">sanoa leikisti</tf>
+
+        <t pos="V">pilailla</t>
+
+        <tf pos="V">laskea leikkiä</tf>
+      </tg>
+
+      <xg>
+        <x>шутялтен келесӓш</x>
+
+        <xt>sanoa puolivitsinä</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V">шутяш</l>
 
       <stg>
@@ -71018,7 +71140,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>пӹсемдӓш (Егоркина 2014)</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">teroittaa</t>
@@ -71294,7 +71416,17 @@
         <t pos="V">kiskoa</t>
 
         <tf pos="V">kyyditä usein</tf>
+
+        <td pos="V">soittaa vaivalloisesti haitaria (kuv.)</td>
       </tg>
+
+      <xg>
+        <x>Момоцашты гармоньым шыпшедӹлмем ак шакты машаненӓм.</x>
+
+        <xt>Luulin että saunasta ei kuulu haitarin soittoni ulospäin.</xt>
+
+        <xt>(Егоркина 2014: Йӓнг ак шонгем. //tsikma.wordpress.com )</xt>
+      </xg>
     </mg>
   </e>
 
@@ -75162,7 +75294,7 @@
 
     <mg>
       <defNative>Сав: &lt;щепиться занозиться SVS: щепаться - kiskoa päreitä.
-      JK: Kts myös шӹрпештӓрӓш - Synonyymi toiselle merkitykselle </defNative>
+      JK: Kts myös шӹрпештӓрӓш - Synonyymi toiselle merkitykselle</defNative>
 
       <tg xml:lang="fin">
         <tf pos="V">murtua pieniksi päreiksi</tf>
@@ -77233,6 +77365,47 @@
 
         <tf pos="V">tehdä sileäksi</tf>
       </tg>
+
+      <xg>
+        <x>Станокеш шымымы гӹнят, манар донат ягылтальым.</x>
+
+        <xt/>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">ягылталаш</l>
+
+      <stg>
+        <st Contlex="V_АМ">ягылтал</st>
+      </stg>
+
+      <stress>ягылта•лаш</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <tf pos="V">hieman kiilottaa</tf>
+
+        <tf pos="V">silottaa</tf>
+
+        <t pos="V">kiilottaa</t>
+
+        <tf pos="V">hieman hioa</tf>
+      </tg>
+
+      <xg>
+        <x>Станокеш шымымы гӹнят, манар донат ягылтальым.</x>
+
+        <xt>Vaikka on teroitettu sähkölaitteella, hieman kiilotin
+        tahkakivelläkin.</xt>
+
+        <xt>(Егоркина 2014: Йӓнг ак шонгем. //tsikma.wordpress.com )</xt>
+      </xg>
     </mg>
   </e>
 
