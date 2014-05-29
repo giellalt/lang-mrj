@@ -61989,11 +61989,17 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>визжать (1981) кричать визгливым голосом (JK)</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">vikistä</t>
       </tg>
+
+      <xg>
+        <x>мам царгыжеш вӓл (1981:183)</x>
+
+        <xt>mitähän hän vikisee</xt>
+      </xg>
     </mg>
   </e>
 
@@ -62101,6 +62107,14 @@
         <t pos="V">yrittää</t>
 
         <t pos="V">koettaa</t>
+
+        <t pos="V">ahertaa</t>
+
+        <t pos="V">ahkeroida</t>
+
+        <t pos="V">rehkiä</t>
+
+        <t pos="V">uurastaa</t>
       </tg>
     </mg>
   </e>
@@ -62137,7 +62151,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK_u ? крахмалаш</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">karkeuttaa</t>
@@ -62161,6 +62175,12 @@
 
       <tg xml:lang="fin">
         <t pos="V">karkeutua</t>
+
+        <tCtn>
+          <t>karkeutua</t>
+
+          <re>kangas</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
