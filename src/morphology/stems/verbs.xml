@@ -56692,6 +56692,12 @@
 
         <td pos="V">täyttää raot rakennuksissa</td>
       </tg>
+
+      <xg>
+        <x>сарайнам тыптылна (JK)</x>
+
+        <xt>paikattiin navettamme</xt>
+      </xg>
     </mg>
   </e>
 
@@ -56806,7 +56812,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <tf pos="V">pestä vaatteita</tf>
+        <td pos="V">jynssätä vaatteista tahroja pyykinpesussa</td>
 
         <tf pos="V">hankata pesussa likaa pois</tf>
       </tg>
@@ -56816,6 +56822,8 @@
   <e>
     <lg>
       <l pos="V">тыржилӓш</l>
+
+      <l_ref pos="V">ытырташ</l_ref>
 
       <stg>
         <st Contlex="V_ЕМ">тыржилӹ</st>
@@ -56855,6 +56863,14 @@
 
       <tg xml:lang="fin">
         <t pos="V">rauhoittua</t>
+
+        <t pos="V">hiljentyä</t>
+
+        <t pos="V">tyyntyminen</t>
+
+        <t pos="V">laantuminen</t>
+
+        <t pos="V">tyyntyä</t>
       </tg>
     </mg>
   </e>
@@ -56899,7 +56915,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>tyynnyttä</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">sakkauttaa</t>
@@ -56907,6 +56923,30 @@
         <tf pos="V">antaa laskeutua</tf>
 
         <tf pos="V">antaa kirkastua</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">тырлыкташ</l>
+
+      <stg>
+        <st Contlex="V_ЕМ">тырлыкты</st>
+      </stg>
+
+      <stress>тырлы•кташ</stress>
+    </lg>
+
+    <mg>
+      <defNative>homonyymi</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="V">tyynnyttää</t>
+
+        <tf pos="V">antaa rauhoittua</tf>
+
+        <tf pos="V">pyytää rauhoittumaan</tf>
       </tg>
     </mg>
   </e>
@@ -57190,8 +57230,10 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <td pos="V">laulaa silloin tällöin moniäänisesti lintujen laulusta tai
-        puhua kovaa ihmisten puhesorinasta</td>
+        <td pos="V">laulaa silloin tällöin moniäänisesti lintujen
+        laulusta</td>
+
+        <td pos="V">puhua kovaa (ihmisten puhesorinasta)</td>
       </tg>
     </mg>
   </e>
@@ -58451,6 +58493,12 @@
 
       <tg xml:lang="fin">
         <t pos="V">koskea</t>
+
+        <t pos="V">kosketella</t>
+
+        <t pos="V">kajota</t>
+
+        <t pos="V">sekaantua</t>
       </tg>
     </mg>
   </e>
