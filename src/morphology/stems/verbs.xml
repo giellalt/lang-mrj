@@ -49690,8 +49690,42 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <tf pos="V">saada epilepsiakohtauksia</tf>
+      </tg>
+
+      <xg>
+        <x>сепнен вазаш (1981)</x>
+
+        <xt>kaatua epilepsiakohtauksesta</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">сепнӓш</l>
+
+      <stg>
+        <st Contlex="V_ЕМ">сепнӹ</st>
+
+        <st Contlex="V_ЕМ">цепнӹ</st>
+      </stg>
+
+      <stress>се•пнӓш</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
         <t pos="V">törmätä</t>
       </tg>
+
+      <xg>
+        <x>миэн сепневӹ (1981)</x>
+
+        <xt>törmäsivät kovasti (johonkin)</xt>
+      </xg>
     </mg>
   </e>
 
@@ -62466,6 +62500,12 @@
       <tg xml:lang="fin">
         <t pos="V">törmätä</t>
       </tg>
+
+      <xg>
+        <x>миэн цепнӓш (1981)</x>
+
+        <xt>törmätä johonkin</xt>
+      </xg>
     </mg>
   </e>
 
