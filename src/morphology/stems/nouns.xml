@@ -64945,11 +64945,13 @@
       <m>
         <head/>
 
-        <defNative>чехонь кол</defNative>
+        <defNative>чехонь кол WIKI: (Pelecus cultratus)</defNative>
       </m>
 
       <tg xml:lang="fin">
         <t pos="N">miekkakala</t>
+
+        <t pos="N">miekkasärkki</t>
       </tg>
     </mg>
   </e>
@@ -154002,7 +154004,8 @@
       <m>
         <head/>
 
-        <defNative>лат. Oriolus</defNative>
+        <defNative>лат. Oriolus JK: sirittäjä ? (sarikä-ludy oravi jish
+        kek)</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -183930,6 +183933,33 @@
 
   <e>
     <lg>
+      <l pos="N">тӹвӹргӹ</l>
+
+      <stg>
+        <st Contlex="N_ТӸРВӸ">тӹвӹргӹ</st>
+      </stg>
+
+      <stress>тӹвӹ•ргӹ</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK: пыртенӓм Сав улат (2008:289) WIKI: лат. pancreas. JK: Vrt
+      mhr тӱвӹргӧ - (tukeva) oras; hyvin kasvaava.</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">haima</t>
+
+        <td pos="N">ruoansulatusrauhanen selkärankaisilla</td>
+      </tg>
+
+      <tg xml:lang="rus">
+        <tf pos="N">поджелудочная железа</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">тӹвӹр-давыр</l>
 
       <stg>
@@ -184272,6 +184302,26 @@
 
   <e>
     <lg>
+      <l pos="N">тӹлзӓш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">тӹлзӓш</st>
+      </stg>
+
+      <stress>тӹ•лзӓш</stress>
+    </lg>
+
+    <mg>
+      <defNative>synonym: JK_SUB ӹшкӹмӹнвлӓ</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">kuukautiset</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">тӹлзӹ</l>
 
       <stg>
@@ -184294,6 +184344,29 @@
 
   <e>
     <lg>
+      <l pos="N">тӹлзӹ</l>
+
+      <stg>
+        <st Contlex="N_ТӸРВӸ_SUB">тӹлзӹ</st>
+
+        <st Contlex="N_КОЛ">кечӹвуй</st>
+      </stg>
+
+      <stress>тӹ•лзӹ</stress>
+    </lg>
+
+    <mg>
+      <defNative>pyrtenäm Sav ulat: Jamangashvlä (= кечӹвуй) myös
+      тӹлзӹдонг</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">auringonkukka</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">тӹлзӹвуй</l>
 
       <stg>
@@ -184304,10 +184377,51 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: новолуние (2008:290)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">nuorikuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">тӹлзӹ-пӹцкемӹшӓлтмӓш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ_SUB">тӹлзӹ-пӹцкемӹшӓлтмӓш</st>
+      </stg>
+
+      <stress>тӹ•лзӹ-пӹцкемӹшӓ•лтмӓш</stress>
+    </lg>
+
+    <mg>
+      <defNative>Сав: тӹлзӹ пӹцкемӹшӓлтмӓш (2008:289) - лунное
+      затмение</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">kuunpimennys</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">тӹлзӹсоты</l>
+
+      <stg>
+        <st Contlex="N_ТӸРВӸ">тӹлзӹсоты</st>
+      </stg>
+
+      <stress>тӹлзӹсо•ты</stress>
+    </lg>
+
+    <mg>
+      <defNative>пыртенӓм Сав улат</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">kuunvalo</t>
       </tg>
     </mg>
   </e>
@@ -184315,6 +184429,8 @@
   <e>
     <lg>
       <l pos="N">тӹлнӹмӓш</l>
+
+      <l_ref pos="N">тӹлянӹмӓш</l_ref>
 
       <stg>
         <st Contlex="N_КОЛ">тӹлнӹмӓш</st>
@@ -184324,10 +184440,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>vanh. Сав: грёзы мечты</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">unelmoiminen</t>
+
+        <t pos="N">haikailu</t>
       </tg>
     </mg>
   </e>
@@ -184335,6 +184453,8 @@
   <e>
     <lg>
       <l pos="N">тӹлӓтӹмӓш</l>
+
+      <l_ref pos="N">тӧрлӓлтӹмӓш</l_ref>
 
       <stg>
         <st Contlex="N_КОЛ">тӹлӓтӹмӓш</st>
@@ -184344,10 +184464,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav. JK_u: tasaarvon tavoittelu tai vaatimus</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tasoittaminen</t>
+
+        <t pos="N">tasoitus</t>
       </tg>
     </mg>
   </e>
@@ -184367,8 +184489,26 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">rumpu</t>
+
+        <t pos="N">rummut</t>
+
+        <td pos="N">marilaisrumpu</td>
       </tg>
+
+      <xg>
+        <x>тӹмӹрӹм шиӓш (1981)</x>
+
+        <xt>soittaa marilaista rumpua</xt>
+
+        <xt>тӱмырым кыраш</xt>
+      </xg>
+
+      <xg>
+        <x>тӹмӹр гань качкын шӹндӓш (1981)</x>
+
+        <xt>syödä liikaa</xt>
+      </xg>
     </mg>
   </e>
 
@@ -184384,10 +184524,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>bot. белый гриб (лат Boletus edulis)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">herkkutatti</t>
+
+        <t pos="N">kivitatti</t>
       </tg>
     </mg>
   </e>
@@ -184407,7 +184549,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">rumpali</t>
+
+        <t pos="N">rummuttaja</t>
+
+        <td pos="N">marilaisen rummun soittaja</td>
       </tg>
     </mg>
   </e>
@@ -184444,11 +184590,41 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: основание комель; (перен) основа; </defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">perusta</t>
+
+        <t pos="N">pohja</t>
+
+        <t pos="N">alusta</t>
+
+        <t pos="N">tyvi</t>
+
+        <tCtn>
+          <t>tyvi</t>
+
+          <re>puun</re>
+        </tCtn>
       </tg>
+
+      <xg>
+        <x>тӹнг гӹцок (1981)</x>
+
+        <xt>juurista alkaen</xt>
+      </xg>
+
+      <xg>
+        <x>(san.) мычашыжым момыкы, тӹнгжӹмӓт моаш лиэш (1981)</x>
+
+        <xt>jos löytyi loppuosa, löytyy myös alku (JK)</xt>
+      </xg>
+
+      <xg>
+        <x>тӹнгге-важге пӹтӓрӓш (1981)</x>
+
+        <xt>hävittää juurineen kaikkineen</xt>
+      </xg>
     </mg>
   </e>
 
@@ -184464,10 +184640,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: напряжение</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pingottaminen</t>
+
+        <t pos="N">pingotus</t>
+
+        <t pos="N">jännitys</t>
       </tg>
     </mg>
   </e>
@@ -184484,10 +184664,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: уподобление сравнение</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vertailu</t>
+
+        <t pos="N">peilaaminen</t>
       </tg>
     </mg>
   </e>
@@ -184507,7 +184689,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kangistus</t>
+
+        <t pos="N">kohmettuminen</t>
       </tg>
     </mg>
   </e>
@@ -184524,10 +184708,15 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>zool. (Gasterophilidae) Vrt JK: пармы гӹц хударак -
+      paarma</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kiiliäinen</t>
+
+        <t pos="N">saivartaja</t>
+
+        <td pos="N">nisäkkäiden loiskärpänen</td>
       </tg>
     </mg>
   </e>
@@ -184547,7 +184736,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">aloitus</t>
+
+        <t pos="N">aloittaminen</t>
+
+        <t pos="N">ryhtyminen</t>
       </tg>
     </mg>
   </e>
@@ -184564,11 +184757,32 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: начатки - alkeet ; начинание - aloite
+      edesottamus</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">alku</t>
+
+        <t pos="N">alkeet</t>
+
+        <t pos="N">aloite</t>
+
+        <t pos="N">edesottamus</t>
+
+        <t pos="N">lähtökohta (JK)</t>
       </tg>
+
+      <xg>
+        <x>тӹнгӓлтӹшӹм пиштӓш (1981)</x>
+
+        <xt>panna alulle tai tehdä aloitteet (JK)</xt>
+      </xg>
+
+      <xg>
+        <x>тӹнгӓлтӹш курс (JK)</x>
+
+        <xt>alkeiskurssi</xt>
+      </xg>
     </mg>
   </e>
 
@@ -184587,7 +184801,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">alkaaminen</t>
+
+        <t pos="N">aloitus</t>
+
+        <t pos="N">alku</t>
       </tg>
     </mg>
   </e>
@@ -184607,7 +184825,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">pyyntö aloittaa</tf>
       </tg>
     </mg>
   </e>
@@ -184627,7 +184845,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">jähmettyminen</t>
+
+        <t pos="N">kohmettuminen</t>
       </tg>
     </mg>
   </e>
@@ -205471,7 +205691,8 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: бредни, нелепые мысли; неосуществимые мечты. Vrt verbi
+      1) aikoa, uneksia, haikailla 2) hourailla 2. (2008:333)</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">hourailu</t>
