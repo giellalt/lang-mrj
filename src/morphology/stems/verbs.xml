@@ -58145,6 +58145,33 @@
 
   <e>
     <lg>
+      <l pos="V">тӧрлӓлтӓш</l>
+
+      <l_ref pos="V">тӹлӓтӓш</l_ref>
+
+      <stg>
+        <st Contlex="V_ЕМ">тӧрлӓлтӹ</st>
+      </stg>
+
+      <stress>тӧрлӓ•лтӓш</stress>
+    </lg>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>синоним: тӹлӓтӓш (Sav.) JK_u : tavoittaa
+        tasaarvoa</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="V">tasoittaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V">тӧрлӓтӓш</l>
 
       <stg>
@@ -58717,6 +58744,8 @@
     <lg>
       <l pos="V">тӹлнӓш</l>
 
+      <l_ref pos="V">тӹлянӓш</l_ref>
+
       <stg>
         <st Contlex="V_ЕМ">тӹлнӹ</st>
       </stg>
@@ -58728,7 +58757,7 @@
       <m>
         <head/>
 
-        <defNative>синоним: тӹлянӓш</defNative>
+        <defNative>синоним: тӹлянӓш (vanh.) грезить мечтать</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -58736,12 +58765,53 @@
 
         <t pos="V">uneksia</t>
       </tg>
+
+      <xg>
+        <x>йӓнг тӹлнӓ (1981)</x>
+
+        <xt>sydäntä pakottaa</xt>
+
+        <xt>сердце замирает</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">тӹлянӓш</l>
+
+      <stg>
+        <st Contlex="V_ЕМ_SUB">тӹлянӹ</st>
+
+        <st Contlex="V_ЕМ">тӹлнӹ</st>
+      </stg>
+
+      <stress>тӹ•лнӓш</stress>
+    </lg>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>Sav ulat, pyrtenäm (vanh.) грезить мечтать. Vasik
+        uke!</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="V">unelmoida</t>
+
+        <t pos="V">uneksia</t>
+
+        <t pos="V">haikailla</t>
+      </tg>
     </mg>
   </e>
 
   <e>
     <lg>
       <l pos="V">тӹлӓтӓш</l>
+
+      <l_ref pos="V">тӧрлӓлтӓш</l_ref>
 
       <stg>
         <st Contlex="V_ЕМ">тӹлӓтӹ</st>
@@ -58869,7 +58939,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: грамм. inkoatiiviverbi</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">alkaa</t>
@@ -67228,14 +67298,21 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: 1) aikoa, uneksia, haikailla 2) hourailla 2. (2008:333)
+      vrt N_ !</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">aikoa</t>
 
+        <t pos="V">suunnitella</t>
+
         <t pos="V">uneksia</t>
 
-        <t pos="V">suunnitella</t>
+        <t pos="V">haikailla</t>
+
+        <t pos="V">kaihota</t>
+
+        <t pos="V">hourailla</t>
       </tg>
     </mg>
   </e>
@@ -67313,6 +67390,14 @@
 
         <t pos="V">aikoa</t>
       </tg>
+
+      <xg>
+        <x>Шанаш пуры лижӹ! (2008:334)</x>
+
+        <xt>Että muistettaisiin hyvällä. (JK)</xt>
+
+        <xt>Чтобы помнить добром.</xt>
+      </xg>
     </mg>
   </e>
 
