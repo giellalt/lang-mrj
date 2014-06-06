@@ -2477,6 +2477,7 @@ LEXICON verbs
 тӧрештӓрӓш:тӧрештӓрӹ V_ЕМ  "tasoittaa" ;
 тӧрлӓлӓш:тӧрлӓл V_АМ  "hieman korjata" ;
 тӧрлӓнӓш:тӧрлӓнӹ V_ЕМ  "parantua" ;
+тӧрлӓлтӓш:тӧрлӓлтӹ V_ЕМ  "tasoittaa" ;
 тӧрлӓтӓш:тӧрлӓтӹ V_ЕМ  "parantaa" ;
 тӧрлӓтӹлӓш:тӧрлӓтӹл V_АМ  "korjailla" ;
 тӧрлӓш:тӧрлӹ V_ЕМ  "korjata" ;
@@ -2504,6 +2505,8 @@ LEXICON verbs
 тӹкӹлӓлтӓш:тӹкӹлӓлт V_АМ  "lukkiintua" ;
 тӹкӹлӓш:тӹкӹлӹ V_ЕМ  "lukita" ;
 тӹлнӓш:тӹлнӹ V_ЕМ  "unelmoida" ;
+тӹлянӓш:тӹлянӹ V_ЕМ_SUB  "unelmoida" ;
+тӹлянӓш:тӹлнӹ V_ЕМ  "unelmoida" ;
 тӹлӓтӓш:тӹлӓтӹ V_ЕМ  "tasoittaa" ;
 тӹмӹрӓш:тӹмӹрӹ V_ЕМ  "rummuttaa" ;
 тӹнгдӓш:тӹнгдӹ V_ЕМ  "pingottaa" ;
