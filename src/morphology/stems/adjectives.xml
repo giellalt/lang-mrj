@@ -26387,15 +26387,25 @@
       веревка</defNative>
 
       <tg xml:lang="fin">
+        <t pos="A">kierä</t>
+
+        <tCtn>
+          <t>kierä</t>
+
+          <re>lanka</re>
+        </tCtn>
+
         <t pos="A">takkuuntunut</t>
 
         <t pos="A">sotkeutunut</t>
+
+        <t pos="A">sykkyräinen</t>
       </tg>
 
       <xg>
         <x>кар шӹртӹ (1981:48)</x>
 
-        <xt>takkuuntunut lanka</xt>
+        <xt>kierä lanka</xt>
       </xg>
     </mg>
   </e>
@@ -92610,7 +92620,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">patjaton</t>
       </tg>
     </mg>
   </e>
@@ -92656,7 +92666,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">patjainen</t>
+
+        <t pos="A">patjan</t>
       </tg>
     </mg>
   </e>
@@ -92676,7 +92688,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">tuonpuoleinen</t>
+
+        <tf pos="A">toisella puolella oleva</tf>
       </tg>
     </mg>
   </e>
@@ -92696,7 +92710,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">silloinen</t>
+
+        <t pos="A">senaikainen</t>
+
+        <tf pos="A">siltä ajalta oleva</tf>
       </tg>
     </mg>
   </e>
@@ -92716,7 +92734,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">silloinen</t>
+
+        <tf pos="A">siltä ajalta oleva</tf>
       </tg>
     </mg>
   </e>
@@ -92736,7 +92756,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">peilitön</t>
       </tg>
     </mg>
   </e>
@@ -92756,7 +92776,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">peili=</t>
+
+        <tf pos="A">peilillä varustautunut</tf>
+
+        <tf pos="A">peilillä varustettu</tf>
       </tg>
     </mg>
   </e>
@@ -92776,7 +92800,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">tuhannenarvoinen</t>
       </tg>
     </mg>
   </e>
@@ -92796,7 +92820,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="N">pöngitetty</t>
+
+        <t pos="N">salpainen</t>
+
+        <t pos="N">säppinen</t>
+
+        <t pos="N">linkku=</t>
       </tg>
     </mg>
   </e>
@@ -92816,7 +92846,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="N">pöngittämättä</t>
+
+        <t pos="N">salvaton</t>
+
+        <t pos="N">salpaamaton</t>
       </tg>
     </mg>
   </e>
@@ -92836,7 +92870,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">=kuinen</t>
+
+        <t pos="A">kuu=</t>
       </tg>
     </mg>
   </e>
@@ -92856,7 +92892,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kuukausi=</t>
+
+        <t pos="A">kuukautinen</t>
       </tg>
     </mg>
   </e>
@@ -92876,7 +92914,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kuuton</t>
+
+        <t pos="A">=kuukaudeton</t>
       </tg>
     </mg>
   </e>
@@ -92896,7 +92936,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">perusta=</t>
+
+        <t pos="A">juuri=</t>
       </tg>
     </mg>
   </e>
@@ -92916,7 +92958,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kiiliäis=</t>
+
+        <t pos="A">kurmu=</t>
       </tg>
     </mg>
   </e>
@@ -92936,7 +92980,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">silloinen</t>
       </tg>
     </mg>
   </e>
@@ -92956,7 +93000,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">senhintainen</t>
+
+        <t pos="A">=hintainen</t>
       </tg>
     </mg>
   </e>
@@ -92976,7 +93022,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">huuli=</t>
+
+        <t pos="A">=huulinen</t>
       </tg>
     </mg>
   </e>
@@ -92996,7 +93044,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">laidaton</t>
+
+        <t pos="A">reunaton</t>
+
+        <t pos="A">rannaton</t>
+
+        <t pos="A">lieritön</t>
       </tg>
     </mg>
   </e>
