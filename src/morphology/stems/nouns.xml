@@ -184255,7 +184255,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">oven laittaminen salpaan</tf>
+
+        <t pos="N">salpaaminen</t>
       </tg>
     </mg>
   </e>
@@ -184272,10 +184274,13 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: kts myös тӹкӹлен шӹндӹмӓш - eristäminen
+      teljettäminen</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">salpaaminen</t>
+
+        <t pos="N">salppaus</t>
       </tg>
     </mg>
   </e>
@@ -184292,10 +184297,20 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: тӹкен пумаш - muksiminen</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">muksiminen</t>
+
+        <t pos="N">nykiminen</t>
+
+        <t pos="N">tökkiminen</t>
+
+        <tCtn>
+          <t>nykiminen</t>
+
+          <re>hihasta</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -184590,7 +184605,7 @@
     </lg>
 
     <mg>
-      <defNative>Sav: основание комель; (перен) основа; </defNative>
+      <defNative>Sav: основание комель; (перен) основа;</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">perusta</t>
@@ -184708,11 +184723,11 @@
     </lg>
 
     <mg>
-      <defNative>zool. (Gasterophilidae) Vrt JK: пармы гӹц хударак -
-      paarma</defNative>
+      <defNative>zool. (Gasterophilidae) (lehmällä - kurmu; lehmässä - permu)
+      Vrt JK: пармы гӹц хударак - paarma</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N">kiiliäinen</t>
+        <t pos="N">nautakiiliäinen</t>
 
         <t pos="N">saivartaja</t>
 
