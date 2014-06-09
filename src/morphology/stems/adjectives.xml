@@ -33820,7 +33820,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">vanhoillinen</t>
+
+        <t pos="A">vanhanaikainen</t>
       </tg>
     </mg>
   </e>
@@ -33840,7 +33842,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <tf pos="A">konservatoriossa oleva</tf>
       </tg>
     </mg>
   </e>
@@ -33860,7 +33862,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">säilykkeetön</t>
       </tg>
     </mg>
   </e>
@@ -33880,7 +33882,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">säilyke=</t>
+
+        <tf pos="A">säilykkeestä valmistettu</tf>
       </tg>
     </mg>
   </e>
@@ -33900,7 +33904,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">luentomuistiinpanoton</t>
+
+        <t pos="A">muistiinpanoton</t>
       </tg>
     </mg>
   </e>
@@ -33920,7 +33926,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">luentomuistiinpano=</t>
+
+        <tf pos="A">luentomuistiinpanolla varustettu</tf>
       </tg>
     </mg>
   </e>
@@ -33940,7 +33948,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <tf pos="A">muistiinpanossa oleva</tf>
+
+        <tf pos="A">luentomuistiinpanossa oleva</tf>
       </tg>
     </mg>
   </e>
@@ -33960,7 +33970,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">salaliitto=</t>
       </tg>
     </mg>
   </e>
@@ -33980,7 +33990,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">perustuslain</t>
+
+        <tf pos="A">perustuslaissa oleva</tf>
       </tg>
     </mg>
   </e>
@@ -34000,7 +34012,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">konstruoija=</t>
+
+        <t pos="A">suunnittelija=</t>
       </tg>
     </mg>
   </e>
@@ -34020,7 +34034,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <tf pos="A">rakenteessa oleva</tf>
+
+        <tf pos="A">konstruktiossa oleva</tf>
       </tg>
     </mg>
   </e>
@@ -34040,7 +34056,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">rakenteellinen</t>
+
+        <t pos="A">rakenne=</t>
+
+        <t pos="A">konstruktio=</t>
       </tg>
     </mg>
   </e>
@@ -34060,7 +34080,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">konsulaatti=</t>
       </tg>
     </mg>
   </e>
@@ -34080,7 +34100,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <tf pos="A">konsulaatissa oleva</tf>
       </tg>
     </mg>
   </e>
