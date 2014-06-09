@@ -62739,9 +62739,9 @@
       </tg>
 
       <xg>
-        <x>женский консульта</x>
+        <x>женский консультациштӹ ылын</x>
 
-        <xt/>
+        <xt>oli gynekologian osastossa</xt>
       </xg>
     </mg>
   </e>
@@ -62761,7 +62761,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <t pos="N">neuvonta</t>
+
         <t pos="N">neuvominen</t>
+
+        <tf pos="N">tietotaidon jakaminen</tf>
       </tg>
     </mg>
   </e>
@@ -63352,6 +63356,12 @@
 
       <tg xml:lang="fin">
         <t pos="N">konflikti</t>
+
+        <t pos="N">ristiriita</t>
+
+        <t pos="N">kärhämä</t>
+
+        <t pos="N">tappelu</t>
       </tg>
     </mg>
   </e>
@@ -63378,6 +63388,28 @@
 
   <e>
     <lg>
+      <l pos="N">концентрат</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">концентрат</st>
+      </stg>
+
+      <stress>концентра•т</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">tiiviste</t>
+
+        <t pos="N"> pitoisuus</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">концентраци</l>
 
       <stg>
@@ -63394,6 +63426,8 @@
         <t pos="N">konsentraatio</t>
 
         <t pos="N">keskitys</t>
+
+        <t pos="N">pitoisuus (JK)</t>
       </tg>
     </mg>
   </e>
@@ -63413,7 +63447,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N">konseptio</t>
+        <t pos="N">konsepti</t>
+
+        <t pos="N">periaate</t>
+
+        <t pos="N">toimintamalli</t>
+
+        <t pos="N">aie</t>
+
+        <t pos="N">luonnos</t>
       </tg>
     </mg>
   </e>
