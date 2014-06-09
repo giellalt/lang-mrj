@@ -62673,7 +62673,7 @@
       <l pos="N">консульство</l>
 
       <stg>
-        <st Contlex="NTag">консульство</st>
+        <st Contlex="N_КАРТА">консульство</st>
       </stg>
 
       <stress>ко•нсульство</stress>
@@ -62728,7 +62728,21 @@
         <t pos="N">neuvonta</t>
 
         <t pos="N">konsultaatio</t>
+
+        <t pos="N">neuvola</t>
+
+        <tCtn>
+          <t>neuvola</t>
+
+          <re>poliklinikassa</re>
+        </tCtn>
       </tg>
+
+      <xg>
+        <x>женский консульта</x>
+
+        <xt/>
+      </xg>
     </mg>
   </e>
 
@@ -182610,7 +182624,7 @@
       <xg>
         <x>тӓгӓнӓэшок качкышым комбывлӓлӓн пу (JK)</x>
 
-        <xt>hanhille voi antaa ruokaa kaukalossaan </xt>
+        <xt>hanhille voi antaa ruokaa kaukalossaan</xt>
       </xg>
     </mg>
   </e>
