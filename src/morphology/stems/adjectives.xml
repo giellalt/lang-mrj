@@ -34923,10 +34923,13 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: kopirovaljnyj ? kopirovka (puhek.)
+      =kopirovanije</defNative>
 
       <tg xml:lang="fin">
         <t pos="A">jäljennys=</t>
+
+        <t pos="A">moniste=</t>
 
         <tf pos="A">jäljennöksellä varustettu (JK)</tf>
       </tg>
@@ -35180,7 +35183,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: laivasto-term.</defNative>
 
       <tg xml:lang="fin">
         <t pos="A"/>
@@ -35203,7 +35206,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">rehu=</t>
+
+        <t pos="A">rehuinen</t>
       </tg>
     </mg>
   </e>
@@ -35223,7 +35228,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">=kourainen</t>
       </tg>
     </mg>
   </e>
@@ -35243,7 +35248,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <tf pos="A">kourassa oleva</tf>
       </tg>
     </mg>
   </e>
@@ -35263,8 +35268,49 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">polku=</t>
+
+        <t pos="A">tie=</t>
+
+        <t pos="A">reitti=</t>
+
+        <t pos="A">=teinen</t>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">корнан</l>
+
+      <stg>
+        <st Contlex="A_">корнан</st>
+      </stg>
+
+      <stress>корна•н</stress>
+    </lg>
+
+    <mg>
+      <defNative>Сав: полосатый. JK: käyttö attribuuttisena eli
+      adnominaalisessa lausekkeessa</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="A">raidallinen</t>
+
+        <t pos="A">raita=</t>
+      </tg>
+
+      <xg>
+        <x>корнан тыгыр</x>
+
+        <xt>raidallinen paita</xt>
+      </xg>
+
+      <xg>
+        <x>изи корнан тетрадь (JK)</x>
+
+        <xt>kirjoituskirjainten opetteluvihko</xt>
+      </xg>
     </mg>
   </e>
 
@@ -35280,10 +35326,13 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: в полоску. JK: pikemminkin predikatiivisena tai
+      määritteenä?</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">raidallinen</t>
+
+        <td pos="A">jolla on raitoja ristin-rastiin (JRu)</td>
       </tg>
     </mg>
   </e>
@@ -35303,7 +35352,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <tf pos="A">tienristeyksessä oleva</tf>
       </tg>
     </mg>
   </e>
@@ -35323,7 +35372,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <tf pos="A">matkalla oleva</tf>
+
+        <tf pos="A">rivissä oleva</tf>
       </tg>
     </mg>
   </e>
