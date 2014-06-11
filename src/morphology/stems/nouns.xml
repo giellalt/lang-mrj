@@ -63403,7 +63403,7 @@
       <tg xml:lang="fin">
         <t pos="N">tiiviste</t>
 
-        <t pos="N"> pitoisuus</t>
+        <t pos="N">pitoisuus</t>
       </tg>
     </mg>
   </e>
@@ -64478,6 +64478,14 @@
         <t pos="N">rivi</t>
 
         <t pos="N">raita</t>
+
+        <t pos="N">rivi</t>
+
+        <tCtn>
+          <t> rivi</t>
+
+          <re>kouluvihon</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
