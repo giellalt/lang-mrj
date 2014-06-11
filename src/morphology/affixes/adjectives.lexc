@@ -8,6 +8,9 @@
 ! +A+cmp:er       Cases   ;
 ! +A+sup:est      Cases   ;
 
+LEXICON A-ADN_
++A: # ; !!= * @CODE@ This adjective only occurs with a head word in an adnominal phrase
+
 LEXICON A_  !!= * @CODE@ 
 +A+Pos: # ;
 +A+Comp:%>р%{аӓ%}к # ;
