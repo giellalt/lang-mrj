@@ -46445,7 +46445,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <tf pos="N">vaatenaulojen lyöminen; koukkujen asentaminen</tf>
+        <tf pos="N">vaatenaulojen lyöminen</tf>
+
+        <tf pos="N">koukkujen asentaminen</tf>
       </tg>
     </mg>
   </e>
@@ -64482,7 +64484,7 @@
         <t pos="N">rivi</t>
 
         <tCtn>
-          <t> rivi</t>
+          <t>rivi</t>
 
           <re>kouluvihon</re>
         </tCtn>
@@ -71236,7 +71238,8 @@
       <m>
         <head/>
 
-        <defNative>изи хӓдӹрвлӓ</defNative>
+        <defNative>кызыр-мазыр= изи хӓдӹрвлӓ JK: kts myös ӓдӹр. Vrt:
+        ӹжгӓр</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -165598,6 +165601,35 @@
 
   <e>
     <lg>
+      <l pos="N">сӓгӹльӹ</l>
+
+      <stg>
+        <st Contlex="N_ТӸРВӸ_SUB">сӓгӹльӹ</st>
+
+        <st Contlex="N_ТӸРВӸ">ишкӹ</st>
+
+        <st Contlex="N_КОЛ">кагак</st>
+      </stg>
+
+      <stress>сӓ•гӹльӹ</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK_ шӓгӹль(ӹ) Vrt mhr сагыльэ = шагыльэ (1926) koukku
+      haka</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">koukku</t>
+
+        <t pos="N">haka</t>
+
+        <t pos="N">pataripustin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">сӓкӓлтмӓш</l>
 
       <stg>
@@ -165828,7 +165860,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: vrt тӹнӹс</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">valtio</t>
@@ -180031,10 +180063,11 @@
     </lg>
 
     <mg>
-      <defNative>JK: ? lieska Sav uke</defNative>
+      <defNative>JK: ? (mhr) (tuli)lieska (1992:313) Сав уке. Васик:
+      мифол.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tulilieska</t>
       </tg>
     </mg>
   </e>
@@ -185169,11 +185202,14 @@
     </lg>
 
     <mg>
-      <defNative>zool. (Gasterophilidae) (lehmällä - kurmu; lehmässä - permu)
-      Vrt JK: пармы гӹц хударак - paarma</defNative>
+      <defNative>zool. (Gasterophilidae) (porokiiliäinen e. kurmu (G.
+      intestinalis) TRa: lehmässä - permu) Vrt JK: пармы гӹц хударак -
+      paarma</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N">nautakiiliäinen</t>
+        <t pos="N">kiiliäinen</t>
+
+        <t pos="N">hevoskiiliäinen (1926:222)</t>
 
         <t pos="N">saivartaja</t>
 
@@ -185345,10 +185381,15 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав уке.Васик улы! "мир" (1994:402) JK:
+      тӹнӹс&lt;тӹнӹсӹ&lt;&lt;tünyšy</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">maailma</t>
+
+        <t pos="N">maapallo</t>
+
+        <t pos="N">maailmankaikkeus (JK)</t>
       </tg>
     </mg>
   </e>
@@ -195380,16 +195421,31 @@
 
       <stg>
         <st Contlex="N_КОЛ">хӓдӹр</st>
+
+        <st Contlex="N_КОЛ_SUB">ӓдӹр</st>
       </stg>
 
       <stress>хӓ•дӹр</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Variaci: ӓдӹр (1926) JK: vrt (mhr) ӱжгар - вещь, предмет. Vrt
+      myös: кызыр-мазыр = изи хӓдӹрвлӓ JK: kts_u ӹзгӓр. Vrt: ӹжгӓр</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">esine</t>
+
+        <t pos="N">esineistö</t>
+
+        <t pos="N">tarvike</t>
+
+        <t pos="N">tavara</t>
+
+        <t pos="N">tarvikkeet</t>
+
+        <t pos="N">kalusto</t>
+
+        <t pos="N">kalu</t>
       </tg>
     </mg>
   </e>
@@ -216522,6 +216578,60 @@
 
   <e>
     <lg>
+      <l pos="N">шӓгӹль</l>
+
+      <stg>
+        <st Contlex="N_КОЛ_SUB">шӓгӹль</st>
+
+        <st Contlex="N_ТӸРВӸ_SUB">шӓгӹльӹ</st>
+
+        <st Contlex="N_ТӸРВӸ">ишкӹ</st>
+
+        <st Contlex="N_КОЛ">кагак</st>
+      </stg>
+
+      <stress>шӓ•гӹль</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK_ шӓгӹль(ӹ) Vrt mhr сагыльэ = шагыльэ (1926) koukku
+      haka</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">koukku</t>
+
+        <t pos="N">haka</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">шӓгӹльӹ</l>
+
+      <stg>
+        <st Contlex="N_ТӸРВӸ_SUB">шӓгӹльӹ</st>
+      </stg>
+
+      <stress>шӓ•гӹльӹ</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK_ шӓгӹль(ӹ) Vrt mhr сагыльэ = шагыльэ (1926) koukku
+      haka</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">koukku</t>
+
+        <t pos="N">haka</t>
+
+        <t pos="N">pataripustin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">шӓгӹльгӹмӓш</l>
 
       <stg>
@@ -230339,6 +230449,41 @@
 
   <e>
     <lg>
+      <l pos="N">ӓдӹр</l>
+
+      <stg>
+        <st Contlex="N_КОЛ_SUB">ӓдӹр</st>
+
+        <st Contlex="N_КОЛ">хӓдӹр</st>
+      </stg>
+
+      <stress>ӓ•дӹр</stress>
+    </lg>
+
+    <mg>
+      <defNative>Variaci: ӓдӹр (1926) JK: vrt (mhr) ӱжгар - вещь, предмет. Vrt
+      myös: кызыр-мазыр = изи хӓдӹрвлӓ JK: kts_u ӹзгӓр. Vrt: ӹжгӓр</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">esine</t>
+
+        <t pos="N">esineistö</t>
+
+        <t pos="N">tarvike</t>
+
+        <t pos="N">tavara</t>
+
+        <t pos="N">tarvikkeet</t>
+
+        <t pos="N">kalusto</t>
+
+        <t pos="N">kalu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">ӓзӓ</l>
 
       <stg>
@@ -235860,10 +236005,17 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>vrt JK_ ӹзгӓр ? Vrt: ӹжгӓр - сбруя [сбру•я]
+      оборудование</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">valjaat</t>
+
+        <t pos="N">valjastusvaruste</t>
+
+        <t pos="N">kamppeet (JK)</t>
+
+        <t pos="N">työvälineet</t>
       </tg>
     </mg>
   </e>
@@ -235883,7 +236035,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">valjastus</t>
       </tg>
     </mg>
   </e>
@@ -235903,7 +236055,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sääli</t>
       </tg>
     </mg>
   </e>
@@ -235923,7 +236075,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">säälimättömyys</t>
       </tg>
     </mg>
   </e>
@@ -235943,7 +236095,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sääliys</t>
+
+        <t pos="N">sääliminen</t>
       </tg>
     </mg>
   </e>
@@ -235997,7 +236151,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">hintatiedustelu</t>
+
+        <tf pos="N">hinnan tiedustelu</tf>
       </tg>
     </mg>
   </e>
@@ -236104,10 +236260,11 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: син: ӹлешӓгӓш ӹлешӓлӓш - навес старинного устройства без
+      скатной крыши (2008:385)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">suojakatos</t>
       </tg>
     </mg>
   </e>
@@ -236150,10 +236307,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: ӹлешӓгӓш = ӹлешӓлӓш = ӹле - навес старинного устройства
+      без скатной крыши (2008:385) ? JK: кукшы сарай сага ылшы навес. Vrt
+      шӓгӓш = шӓрӹш - стлань (2008:338)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">suojakatos</t>
+
+        <td pos="N">marilainen suojakatos</td>
       </tg>
     </mg>
   </e>
@@ -236170,10 +236331,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>kts ӹлешӓгӓш</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">suojakatos</t>
+
+        <td pos="N">marilainen suojarakennelma ilman </td>
       </tg>
     </mg>
   </e>
