@@ -33857,11 +33857,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N">suojakatos</t>
-
         <t pos="N">varjostin</t>
 
         <t pos="N">sateenvarjo</t>
+
+        <t pos="N">suojakatos</t>
+
+        <t pos="N">päivänvarjo</t>
       </tg>
     </mg>
   </e>
@@ -50824,7 +50826,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Vrt JK: ӱл йӓр карем вӓр ?</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">rotko</t>
@@ -50848,14 +50850,17 @@
     <mg>
       <m>
         <head>
-          <!--Саваткован уке. Васикован уке.-->
+          <!--Саваткован уке. Васикован уке. 1926 уке! -->
         </head>
 
-        <defNative/>
+        <defNative>Selvitettävä! JK: ӱл йӓр карем вӓр - vetisestä alanotkosta
+        (ehatoksesta) nousu mäelle ? 1926 - </defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ehnatos</t>
+
+        <t pos="N">ehatos (TRa)</t>
       </tg>
     </mg>
   </e>
@@ -64887,17 +64892,19 @@
       <l pos="N">корья</l>
 
       <stg>
-        <st Contlex="NTag">корья</st>
+        <st Contlex="N_ОЛМА">корья</st>
       </stg>
 
       <stress>ко•рья</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: VSS ивовое корьё - pajunparkki pajunkuori</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">pajunkuori</t>
+
+        <t pos="N">pajunparkki</t>
       </tg>
     </mg>
   </e>
@@ -65303,19 +65310,20 @@
       <l pos="N">кострюля</l>
 
       <stg>
-        <st Contlex="NTag">кострюля</st>
+        <st Contlex="N_КАРТА">кострюля</st>
       </stg>
 
       <stress>кострю•ля</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: кострюль(ӹ) кастрюль Vrt rus кастрюля - kasari !
+      Васикован: кострюля, -ьын</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N">kasari</t>
-
         <t pos="N">kattila</t>
+
+        <t pos="N">kasari</t>
       </tg>
     </mg>
   </e>
@@ -65336,6 +65344,26 @@
 
       <tg xml:lang="fin">
         <t pos="N">puku</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">костюмаш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">костюмаш</st>
+      </stg>
+
+      <stress>костю•маш</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">pukukangas</t>
       </tg>
     </mg>
   </e>
@@ -65419,7 +65447,7 @@
       <tg xml:lang="fin">
         <t pos="N">pakki</t>
 
-        <t pos="N">pata</t>
+        <t pos="N">retkipata</t>
       </tg>
     </mg>
   </e>
@@ -65887,6 +65915,8 @@
       </m>
 
       <tg xml:lang="fin">
+        <t pos="N">melatuki</t>
+
         <td pos="N">veneessä tuki meloille</td>
       </tg>
     </mg>
@@ -81442,7 +81472,8 @@
       <m>
         <head/>
 
-        <defNative>синоним: тылваста</defNative>
+        <defNative>синоним: тылваста JK: kts myös тылӓрӓ Vrt
+        тылӓвӓ</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -100307,10 +100338,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Rubus saxatilis</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">lillukka</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">костяника</t>
       </tg>
     </mg>
   </e>
@@ -100876,11 +100911,18 @@
       <m>
         <head/>
 
-        <defNative>? пырха понгы Васик: ош калявонгы.</defNative>
+        <defNative>(Bovista nigrescens)? Vrt JK: пырха понгы Васик: ош
+        калявонгы.</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">nurmimaamuna</t>
+
+        <t pos="N">ukonkuukunen</t>
+
+        <t pos="N">maamuna (TRa)</t>
+
+        <t pos="N">tuhkelo</t>
       </tg>
     </mg>
   </e>
@@ -100897,10 +100939,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>kututoe : kututokeet</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">munanasetintorvi</t>
+
+        <t pos="N">kutuallas</t>
+
+        <t pos="N">kututoe</t>
       </tg>
     </mg>
   </e>
@@ -137092,7 +137138,8 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK &lt; "kuollut suoli" Vrt ersä: sokea suoli (=sks) JK_
+      тылык шол</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">umpisuoli</t>
@@ -180029,6 +180076,8 @@
     <lg>
       <l pos="N">тылыкмокш</l>
 
+      <l_ref pos="N">лепӹ</l_ref>
+
       <stg>
         <st Contlex="N_КОЛ">тылыкмокш</st>
       </stg>
@@ -180037,7 +180086,7 @@
     </lg>
 
     <mg>
-      <defNative>anat. (JK: umpisuoli машаненӓм) Сав: vrt лепӹ</defNative>
+      <defNative>anat. Сав: myös лепӹ</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">perna</t>
@@ -180072,6 +180121,12 @@
       <tg xml:lang="rus">
         <td pos="N">клок нестриженной шерсти на овце для приметы</td>
       </tg>
+
+      <xg>
+        <x>тылымым пӓлӹкеш кодаш (JK)</x>
+
+        <xt>jättää pala keritsemättä merkiksi</xt>
+      </xg>
     </mg>
   </e>
 
@@ -180113,9 +180168,12 @@
     </lg>
 
     <mg>
-      <defNative>Sav uke</defNative>
+      <defNative>Sav (1981 uke; 2008:284 uly - миф. мать огня (JK: мать-огонь
+      ?)</defNative>
 
       <tg xml:lang="fin">
+        <t pos="N">tulenjumala</t>
+
         <t pos="N">tulijumala</t>
       </tg>
     </mg>
@@ -180133,11 +180191,13 @@
     </lg>
 
     <mg>
-      <defNative>JK: ? (mhr) (tuli)lieska (1992:313) Сав уке. Васик:
-      мифол.</defNative>
+      <defNative>JK: ?vrt тылваста, лаваста Vrt (mhr) (tuli)lieska (1992:313)
+      Сав уке. Васик: мифол.</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">tulilieska</t>
+
+        <t pos="N">hirmuolento</t>
       </tg>
     </mg>
   </e>
@@ -215434,13 +215494,17 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kolotus</t>
+
+        <t pos="N">mojotus</t>
+
+        <t pos="N">mojottaminen</t>
       </tg>
 
       <xg>
         <x>кӹдӓл шылгыжмаш (1981:212)</x>
 
-        <xt/>
+        <xt>selkää mojottaa</xt>
       </xg>
     </mg>
   </e>
@@ -215457,8 +215521,8 @@
     </lg>
 
     <mg>
-      <defNative>lisäksi mrj: ветрогон (у веялки); навес у
-      строений</defNative>
+      <defNative>lisäksi mrj: ветрогон (у веялки); навес у строений Kts myös
+      ӹле ӹлешӓгӓш ӹлешӓлӓш</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">siipi</t>
@@ -215480,6 +215544,12 @@
         <x>шылдыр лӹвӓкӹ</x>
 
         <xt>ottaa siipien suojiin</xt>
+      </xg>
+
+      <xg>
+        <x>витӓ шылдыр (JK_) витӓ лӹвӓл (JK)</x>
+
+        <xt>navetan ulkokatto</xt>
       </xg>
     </mg>
   </e>
@@ -236488,6 +236558,8 @@
 
       <tg xml:lang="fin">
         <t pos="N">suojakatos</t>
+
+        <td pos="N">loivakattoinen avokatos</td>
       </tg>
     </mg>
   </e>
@@ -236537,7 +236609,7 @@
       <tg xml:lang="fin">
         <t pos="N">suojakatos</t>
 
-        <td pos="N">marilainen suojakatos</td>
+        <td pos="N">loivakattoinen avokatos</td>
       </tg>
     </mg>
   </e>
@@ -236559,7 +236631,7 @@
       <tg xml:lang="fin">
         <t pos="N">suojakatos</t>
 
-        <td pos="N">marilainen suojarakennelma ilman</td>
+        <td pos="N">loivakattoinen avokatos</td>
       </tg>
     </mg>
   </e>
