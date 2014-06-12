@@ -1526,7 +1526,7 @@ LEXICON nouns
 значок:значок N_КОЛ  "rintamerkki" ;
 зона:зона N_КАРТА  "vyöhyke" ;
 зона:зона N_КАРТА  "vankila" ;
-зонт:зонт N_КОЛ  "suojakatos" ;
+зонт:зонт N_КОЛ  "varjostin" ;
 зонтик:зонтик N_КОЛ  "sateenvarjo" ;
 зоологи:зоологи N_ОЛМА  "eläintiede" ;
 зоопарк:зоопарк N_КОЛ  "eläintarha" ;
@@ -2306,7 +2306,7 @@ LEXICON nouns
 карел:карел N_КОЛ  "karjalainen" ;
 карелка:карелка N_КАРТА  "karjalainen" ;
 карем:карем N_КОЛ  "rotko" ;
-каремъял:каремъял N_КОЛ  "" ;
+каремъял:каремъял N_КОЛ  "ehnatos" ;
 карета:карета N_КАРТА  "vaunut" ;
 каржангы:каржангы N_ТӸРВӸ  "takiainen" ;
 каржангывуй:каржангывуй N_КОЛ  "mustaviklo" ;
@@ -2959,7 +2959,7 @@ LEXICON nouns
 корцымаш:корцымаш N_КОЛ  "nälissään oleminen" ;
 корш:корш N_КОЛ  "käsittelemätön niini" ;
 коршок:коршок N_КОЛ  "ruukku" ;
-корья:корья NTag  "pajunkuori" ;
+корья:корья N_ОЛМА  "pajunkuori" ;
 коряк:коряк N_КОЛ  "korjakki" ;
 корячка:корячка N_КАРТА  "korjakki" ;
 коса:коса N_ОЛМА  "kutomakoneen säädetty alus" ;
@@ -2978,8 +2978,9 @@ LEXICON nouns
 косной:косной N_КОЛ  "kalastusvene" ;
 костанланымаш:костанланымаш N_КОЛ  "vihoitteleminen" ;
 костенец:костенец N_КОЛ  "tuliainen" ;
-кострюля:кострюля NTag  "kasari" ;
+кострюля:кострюля N_КАРТА  "kattila" ;
 костюм:костюм N_КОЛ  "puku" ;
+костюмаш:костюмаш N_КОЛ  "pukukangas" ;
 костёр:костёр N_КОЛ  "kokko" ;
 косуля:косуля NTag  "metsäkauris" ;
 косынка:косынка N_КАРТА  "kolmikolkkainen huivi" ;
@@ -3005,7 +3006,7 @@ LEXICON nouns
 кофейник:кофейник N_КОЛ  "kahvipannu" ;
 кофта:кофта N_КАРТА  "pusero" ;
 коцона:коцона N_ОЛМА  "kalastusväline" ;
-коча:коча N_ОЛМА  "veneessä tuki meloille" ;
+коча:коча N_ОЛМА  "melatuki" ;
 кочевник:кочевник N_КОЛ  "kiertolainen" ;
 кочегар:кочегар N_КОЛ  "lämmittäjä" ;
 кочегарка:кочегарка N_КАРТА  "lämmityshuone" ;
@@ -4625,7 +4626,7 @@ LEXICON nouns
 мынигуды:мынигуды N_ТӸРВӸ  "rupisammakon kutu" ;
 мыны:мыны N_ТӸРВӸ  "muna" ;
 мынывлошка:мынывлошка N_ОЛМА_SUB  "uunissa valmistettu munamaito" ;
-мынывонгы:мынывонгы N_ТӸРВӸ  "" ;
+мынывонгы:мынывонгы N_ТӸРВӸ  "nurmimaamuna" ;
 мыныгуды:мыныгуды N_ТӸРВӸ  "munanasetintorvi" ;
 мыны% жаркой:мыны% жаркой N_КОЛ  "munavoi" ;
 мыныксай:мыныксай N_КОЛ  "maitosuu" ;
@@ -8264,7 +8265,7 @@ LEXICON nouns
 тылыкмокш:тылыкмокш N_КОЛ  "perna" ;
 тылым:тылым N_КОЛ  "merkki" ;
 тылып:тылып N_КОЛ  "turkki" ;
-тылӓвӓ:тылӓвӓ N_ОЛМА  "tulijumala" ;
+тылӓвӓ:тылӓвӓ N_ОЛМА  "tulenjumala" ;
 тылӓрӓ:тылӓрӓ N_ОЛМА  "tulilieska" ;
 тымана:тымана N_ОЛМА  "pöllö" ;
 тыманавонгы:тыманавонгы N_ТӸРВӸ  "huhtasieni" ;
@@ -9895,7 +9896,7 @@ LEXICON nouns
 шыктмаш:шыктмаш N_КОЛ  "liotus" ;
 шылангы:шылангы N_ТӸРВӸ  "pistin" ;
 шылатымаш:шылатымаш N_КОЛ  "sulatus" ;
-шылгыжмаш:шылгыжмаш N_КОЛ  "" ;
+шылгыжмаш:шылгыжмаш N_КОЛ  "kolotus" ;
 шылдыр:шылдыр N_КОЛ  "siipi" ;
 шылдырангдыдымаш:шылдырангдыдымаш N_КОЛ  "siivittämättömyys" ;
 шылдырангдымаш:шылдырангдымаш N_КОЛ  "siivittäminen" ;
