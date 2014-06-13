@@ -50854,7 +50854,7 @@
         </head>
 
         <defNative>Selvitettävä! JK: ӱл йӓр карем вӓр - vetisestä alanotkosta
-        (ehatoksesta) nousu mäelle ? 1926 - </defNative>
+        (ehatoksesta) nousu mäelle ? 1926 -</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -186002,7 +186002,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">kirjottavana oleminen</tf>
       </tg>
     </mg>
   </e>
@@ -186022,7 +186022,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kirjoilu</t>
+
+        <t pos="N">kirjoileminen</t>
       </tg>
     </mg>
   </e>
@@ -186042,7 +186044,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kirjonta</t>
+
+        <t pos="N">kirjoaminen</t>
       </tg>
     </mg>
   </e>
@@ -186059,10 +186063,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: кружок круг</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ympyrä</t>
+
+        <t pos="N">täysikuu (JK)</t>
       </tg>
     </mg>
   </e>
@@ -186082,7 +186088,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kallistaminen</t>
       </tg>
     </mg>
   </e>
@@ -186102,7 +186108,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kallistuminen</t>
+
+        <t pos="N">vinoutuminen</t>
       </tg>
     </mg>
   </e>
@@ -186122,7 +186130,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kallistus</t>
+
+        <t pos="N">kallistaminen</t>
       </tg>
     </mg>
   </e>
@@ -186139,10 +186149,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>kallelleen-meno ?</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kallelleen-meno</t>
+
+        <t pos="N">kallistuminen</t>
       </tg>
     </mg>
   </e>
@@ -186162,8 +186174,18 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">usva</t>
+
+        <t pos="N">aamu-usva</t>
+
+        <t pos="N">utu</t>
       </tg>
+
+      <xg>
+        <x>тӹтӹрӓ нӓлеш (1981)</x>
+
+        <xt>usva nousee</xt>
+      </xg>
     </mg>
   </e>
 
@@ -186182,7 +186204,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sumentaminen</t>
       </tg>
     </mg>
   </e>
@@ -186202,7 +186224,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sumennus</t>
+
+        <t pos="N">sumentuminen</t>
       </tg>
     </mg>
   </e>
@@ -186222,8 +186246,16 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">savuttaminen</t>
+
+        <tf pos="N">mehiläishoidossa käytettävä savutus</tf>
       </tg>
+
+      <xg>
+        <x>мӱкшӹм тӹтӹрӹмӓш</x>
+
+        <xt>mehiläisten savuttaminen</xt>
+      </xg>
     </mg>
   </e>
 
