@@ -67244,6 +67244,14 @@
 
       <tg xml:lang="fin">
         <t pos="N">kriteeri</t>
+
+        <t pos="N">arvosteluperuste</t>
+
+        <t pos="N">indikaattori</t>
+
+        <t pos="N">osoitin</t>
+
+        <t pos="N">ilmaisin</t>
       </tg>
     </mg>
   </e>
@@ -67302,7 +67310,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>?</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">&lt;</t>
@@ -67344,12 +67352,18 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK_u kiristys !</defNative>
 
       <tg xml:lang="fin">
+        <t pos="N">varoittaminen</t>
+
         <t pos="N">sormen heristäminen</t>
 
         <t pos="N">nyrkin heristäminen</t>
+
+        <t pos="N">kiristys (JK)</t>
+
+        <tf pos="N">viimeinen varoitus (JK)</tf>
       </tg>
     </mg>
   </e>
@@ -67824,12 +67838,36 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>WIKI: Кубанка - 1) Сорт пшеницы. 2) Пшеница такого
+      сорта.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N">kubanilaisnainen</t>
-
         <t pos="N">kubanka-vehnä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">кубанка</l>
+
+      <stg>
+        <st Contlex="N_КАРТА">кубанка</st>
+      </stg>
+
+      <stress>куба•нка</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK: WIKI: Шапка с меховым околышем и плоским верхом.
+      vanutettu lakkikangas</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">kubanilaislakki</t>
+
+        <t pos="N">kubanka</t>
+
+        <td pos="N">talvipäähine turkisreunuksella</td>
       </tg>
     </mg>
   </e>
