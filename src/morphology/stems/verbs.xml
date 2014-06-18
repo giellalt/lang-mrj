@@ -57971,10 +57971,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: pejoratiivisessa merkityksessä (pikemminkin)</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">palkkautua</t>
+
+        <t pos="V">värväytyä</t>
+
+        <td pos="V">joutua palkkatöihin olosuhteiden takia (JK)</td>
       </tg>
     </mg>
   </e>
@@ -58014,7 +58018,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V">pyytää palkkamaan</t>
+        <tf pos="V">pyytää palkkaamaan</tf>
       </tg>
     </mg>
   </e>
@@ -58054,6 +58058,18 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <t pos="V">suoristaa</t>
+
+        <t pos="V">oikaista</t>
+
+        <t pos="V">ojentaa</t>
+
+        <tCtn>
+          <t>ojentaa</t>
+
+          <re>kehonjäseniä</re>
+        </tCtn>
+
         <t pos="V">tasoittaa</t>
       </tg>
     </mg>
@@ -58074,6 +58090,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <t pos="V">suoristua</t>
+
         <t pos="V">tasoittua</t>
       </tg>
     </mg>
@@ -58116,6 +58134,10 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <t pos="V">pikasuoristus</t>
+
+        <t pos="V">tasoittelu</t>
+
         <tf pos="V">hieman korjata</tf>
       </tg>
     </mg>
