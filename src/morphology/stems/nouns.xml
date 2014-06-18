@@ -183658,10 +183658,15 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: mennä tai joutua töihin olosuhteiden pakottamana
+      (pejorat.merk.)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">palkkautuminen</t>
+
+        <t pos="N">värväytyminen</t>
+
+        <tf pos="N">palkkatöihin meno</tf>
       </tg>
     </mg>
   </e>
@@ -183681,7 +183686,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">palkkaamispyyntö</t>
+
+        <t pos="N">pyyntö palkkaamaan</t>
       </tg>
     </mg>
   </e>
@@ -183701,7 +183708,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">palkkaus</t>
+
+        <t pos="N">värväys</t>
+
+        <t pos="N">palkkaaminen</t>
       </tg>
     </mg>
   </e>
@@ -183721,7 +183732,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">nukke</t>
+
+        <tf pos="N">hienohelma (kuv.)</tf>
       </tg>
     </mg>
   </e>
@@ -183738,10 +183751,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: vrt lavitsa</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">penkki</t>
+
+        <t pos="N">puurahi</t>
+
+        <t pos="N">jaakku (TRa)</t>
       </tg>
     </mg>
   </e>
@@ -183758,7 +183775,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: ma tehenj?</defNative>
 
       <tg xml:lang="fin">
         <t pos="N"/>
@@ -183801,7 +183818,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">laukkaaminen</t>
+
+        <t pos="N">kiito</t>
+
+        <t pos="N">hyppy</t>
       </tg>
     </mg>
   </e>
@@ -183841,7 +183862,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">suoristus</t>
+
+        <t pos="N">suoristaminen</t>
+
+        <t pos="N">oikaiseminen</t>
+
+        <t pos="N">tasoitus</t>
+
+        <t pos="N">tasoittaminen</t>
       </tg>
     </mg>
   </e>
@@ -183861,7 +183890,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">suoristuminen</t>
+
+        <t pos="N">tasoittuminen</t>
       </tg>
     </mg>
   </e>
@@ -183878,10 +183909,13 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: hankalan tilanteen selvittäminen (?)
+      tasapainosäättö</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tasoittaminen</t>
+
+        <t pos="N">säättäminen</t>
       </tg>
     </mg>
   </e>
@@ -183901,7 +183935,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">oikeudenmukaisuus</t>
+
+        <t pos="N">samanarvoisuus</t>
+
+        <t pos="N">tasavertaisuus</t>
+
+        <t pos="N">tasa-arvoisuus</t>
+
+        <t pos="N">tasapaino</t>
       </tg>
     </mg>
   </e>
@@ -183918,10 +183960,18 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: pikakorjaus JK_ hienosäättö ?</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pikakorjaus</t>
+
+        <tf pos="N">hiuksenhieno suoristus</tf>
+
+        <t pos="N">oikaiseminen</t>
+
+        <t pos="N">oikaisu</t>
+
+        <t pos="N">tasailu</t>
       </tg>
     </mg>
   </e>
@@ -183941,7 +183991,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">paraneminen</t>
+
+        <t pos="N">parantuminen</t>
       </tg>
     </mg>
   </e>
@@ -183961,7 +184013,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">korjailu</t>
+
+        <t pos="N">korjaileminen</t>
+
+        <tf pos="N">kirjoitusvirheiden korjaus</tf>
+
+        <t pos="N">tasoittelu</t>
       </tg>
     </mg>
   </e>
@@ -183981,7 +184039,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">parannus</t>
+
+        <t pos="N">korjaus</t>
+
+        <t pos="N">kunnostus</t>
+
+        <t pos="N">kohennus</t>
+
+        <tf pos="N">kirjoitusvirheiden korjaus</tf>
       </tg>
     </mg>
   </e>
@@ -184021,8 +184087,32 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">korjauttaminen</t>
+
+        <t pos="N">kunnostuttaminen</t>
+
+        <t pos="N">oikolukupyyntö</t>
+
+        <t pos="N">oikaisuhoito</t>
+
+        <tCtn>
+          <t>oikaisuhoito</t>
+
+          <re>hampaiden</re>
+        </tCtn>
       </tg>
+
+      <xg>
+        <x>пӱм тӧрлӹктӹмӓш (JK)</x>
+
+        <xt>hampaiden oikaisuhoito</xt>
+      </xg>
+
+      <xg>
+        <x>пӱм тӧрлӹктӓш кемӓш (JK)</x>
+
+        <xt>meno hammaslääkärin vastanotolle</xt>
+      </xg>
     </mg>
   </e>
 
