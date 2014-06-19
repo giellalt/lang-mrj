@@ -58374,10 +58374,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: осуждать кого-л., судить кого-л.</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">tuomita</t>
+
+        <t pos="V">arvostella</t>
       </tg>
     </mg>
   </e>
@@ -58403,9 +58405,17 @@
       <tg xml:lang="fin">
         <t pos="V">lörpötellä</t>
 
+        <t pos="V">papattaa</t>
+
         <t pos="V">loruilla</t>
 
         <t pos="V">rätistä</t>
+
+        <tCtn>
+          <t>rätistä</t>
+
+          <re>ase</re>
+        </tCtn>
 
         <t pos="V">räiskyä</t>
 
@@ -58446,11 +58456,48 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>тӱлен шуаш = тӱлен колташ</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">maksaa</t>
       </tg>
+
+      <xg>
+        <x>тӱлен шуаш (2008:282)</x>
+
+        <xt>tehdä tilitykset</xt>
+
+        <xt>расплатиться или рассчитаться или уплатить полностью</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">тӱлӓш</l>
+
+      <stg>
+        <st Contlex="V_ЕМ">тӱлӹ</st>
+      </stg>
+
+      <stress>тӱ•лӓш</stress>
+    </lg>
+
+    <mg>
+      <defNative>Sav: тӱлӓш II - размножаться плодиться JK: Vrt (mhr) myös
+      kasveista (monistua)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="V">lisääntyä</t>
+      </tg>
+
+      <xg>
+        <x>кӹрисвлӓ тӱленок миӓт (JK)</x>
+
+        <xt>rotad lisääntyvät loputtomiin</xt>
+
+        <xt>крысы расплодились (JK)</xt>
+      </xg>
     </mg>
   </e>
 
