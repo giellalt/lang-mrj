@@ -21708,11 +21708,12 @@
       <m>
         <head/>
 
-        <defNative>Васикован орфографи книгӓштӹ улы</defNative>
+        <defNative>Васикован орфографи книгӓштӹ улы. ЗГЗ: вӹд вал дон вӓкш
+        лошты ылшы вӓр.</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N">?</t>
+        <td pos="N">vesilähteen ja vesimyllyn välinen alue</td>
       </tg>
     </mg>
   </e>
@@ -67928,6 +67929,41 @@
 
       <tg xml:lang="fin">
         <t pos="N">malja</t>
+
+        <t pos="N">kalkki</t>
+
+        <td pos="N">kalkki eli ehtoollisastia eli osa liturgiakalustoa</td>
+
+        <t pos="N">poika (urh.)</t>
+
+        <t pos="N">voittajamalja</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">кубок</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">кубок</st>
+      </stg>
+
+      <stress>ку•бок</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK: WIKI: кубок:кубки или матч (eng cup) или олимпиада
+      соревнование чемпионат</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">urheilukilpailu</t>
+
+        <t pos="N">matsit</t>
+
+        <t pos="N">maailmancup</t>
+
+        <t pos="N">olympialaiset</t>
       </tg>
     </mg>
   </e>
@@ -68149,7 +68185,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <td pos="N">setä</td>
+        <t pos="N">setä</t>
 
         <td pos="N">vanhin setä äidin tai isän puolelta</td>
 
@@ -68318,6 +68354,8 @@
         <t pos="N">koto=</t>
 
         <t pos="N">koti=</t>
+
+        <t pos="N">kotitalous (JK)</t>
       </tg>
 
       <xg>
