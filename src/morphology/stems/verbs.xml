@@ -58577,10 +58577,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: variant тӹхӓнӓш</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">kulua</t>
+
+        <t pos="V">hankautua</t>
 
         <tf pos="V">tulla huonoksi</tf>
       </tg>
@@ -58599,10 +58601,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: myös тӹхӓтӓш</defNative>
 
       <tg xml:lang="fin">
         <tf pos="V">kuluttaa rikki</tf>
+
+        <t pos="V">hankaa</t>
       </tg>
     </mg>
   </e>
@@ -59877,7 +59881,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <td pos="V">tavata hetkeksi; tavata lyhyeksi aikaa</td>
+        <tf pos="V">tavata hetkeksi</tf>
+
+        <td pos="V">tavata lyhyeksi aikaa</td>
       </tg>
     </mg>
   </e>
