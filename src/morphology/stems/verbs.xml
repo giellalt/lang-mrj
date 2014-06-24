@@ -63027,6 +63027,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <t pos="V">kiillottaa</t>
+
         <tf pos="V">tehdä kiiltävää</tf>
       </tg>
     </mg>
@@ -63265,7 +63267,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <td pos="V">tehdä piirros</td>
+        <tf pos="V">tehdä piirros</tf>
+
+        <t pos="V">piirustaa</t>
 
         <tCtn>
           <t>piirustaa</t>
