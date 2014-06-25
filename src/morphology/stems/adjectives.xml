@@ -113105,7 +113105,7 @@
       <tg xml:lang="fin">
         <t pos="A">naispäähine=</t>
 
-        <t pos="A">vuorimarilaiskansallispuvun naispäähine päässä oleva</t>
+        <td pos="A">vuorimarilaiskansallispuvun naispäähineеssä oleva</td>
       </tg>
     </mg>
   </e>
@@ -113395,7 +113395,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">norkko=</t>
+
+        <t pos="A">pajukukinta=</t>
       </tg>
     </mg>
   </e>
@@ -113412,10 +113414,11 @@
     </lg>
 
     <mg>
-      <defNative>Sav: ӱэдара = ӱэгӹцкӹ (Виловат.гов.)</defNative>
+      <defNative>Sav: ӱэдара = ӱэгӹцкӹ (Виловат.гов.) почки серёжки
+      ветлы</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">norkko=</t>
       </tg>
     </mg>
   </e>
