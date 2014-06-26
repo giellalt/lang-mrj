@@ -188001,7 +188001,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">talousmuoto (taloust.)</t>
+
+        <t pos="N">elämäntapa</t>
       </tg>
     </mg>
   </e>
@@ -188021,8 +188023,16 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">linjasuuntaus</t>
+
+        <t pos="N">kaltevuus</t>
       </tg>
+
+      <xg>
+        <x>математика уклонан школ (JK)</x>
+
+        <xt>matemaattisen linjan koulu</xt>
+      </xg>
     </mg>
   </e>
 
@@ -188041,8 +188051,18 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pistos</t>
+
+        <t pos="N">pisto</t>
+
+        <t pos="N">piikki</t>
       </tg>
+
+      <xg>
+        <x>уколым ӹштӓш</x>
+
+        <xt>antaa pistos</xt>
+      </xg>
     </mg>
   </e>
 
@@ -188061,7 +188081,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">etikka</t>
       </tg>
     </mg>
   </e>
@@ -188081,7 +188101,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">oksettaminen</t>
+
+        <t pos="N">oksetus</t>
       </tg>
     </mg>
   </e>
@@ -188101,7 +188123,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">oksentaminen</t>
+
+        <t pos="N">okse</t>
       </tg>
     </mg>
   </e>
@@ -188123,6 +188147,18 @@
       <tg xml:lang="fin">
         <t pos="N">oksa</t>
       </tg>
+
+      <xg>
+        <x>(san.) йӹлмӹн укшыжы уке</x>
+
+        <xt>luonnon väärät leukaperät (liter. kieli on oksaton)</xt>
+
+        <xt>kieli laulaa</xt>
+
+        <xt>kielenkannat on löyhät</xt>
+
+        <xt>язык без костей</xt>
+      </xg>
     </mg>
   </e>
 
@@ -188141,7 +188177,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">haaroittaminen</t>
       </tg>
     </mg>
   </e>
@@ -188161,7 +188197,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">haaroitus</t>
+
+        <t pos="N">haarautus</t>
       </tg>
     </mg>
   </e>
@@ -188178,10 +188216,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>rus хворост крона (дерева)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">risut</t>
+
+        <t pos="N">latvuslatva</t>
       </tg>
     </mg>
   </e>
@@ -188201,7 +188241,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vaurastaminen</t>
       </tg>
     </mg>
   </e>
@@ -188221,7 +188261,37 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vaurastuminen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">улы</l>
+
+      <stg>
+        <st Contlex="N_ТӸРВӸ">улы</st>
+      </stg>
+
+      <stress>у•лы</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">kylläisyys</t>
+
+        <t pos="N">vauraus</t>
+
+        <tf pos="N">perustarpeiden olemassaolo (JK)</tf>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">достаток</t>
+
+        <t pos="N">наличие</t>
       </tg>
     </mg>
   </e>
@@ -188238,11 +188308,29 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: все что имеется</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <td pos="N">kaikki mikä on</td>
       </tg>
+
+      <xg>
+        <x>улым-укем пӓлӓш (1981)</x>
+
+        <xt>tutkia mitä on ja mikä puuttuu</xt>
+
+        <xt>(узнать что есть чего нет)</xt>
+
+        <xt>mhr tuoda ilmi jnk olemassaolo (1992:331)</xt>
+      </xg>
+
+      <xg>
+        <x>улы-укежӹм цилӓ анжыктыш (1981)</x>
+
+        <xt>hän näytti kaikkea mitä sillä on (näytettävä)</xt>
+
+        <xt>он показал все что имеется</xt>
+      </xg>
     </mg>
   </e>
 
@@ -188261,7 +188349,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">uhkavaatimus</t>
       </tg>
     </mg>
   </e>
@@ -188278,11 +188366,21 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: выля (Килемар: ольы )</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">mehiläispesä</t>
+
+        <t pos="N">mehiläispönttö</t>
+
+        <t pos="N">lintupönttö</t>
       </tg>
+
+      <xg>
+        <x>шӹнгӹртӹш уля (1981:175)</x>
+
+        <xt>скворечник</xt>
+      </xg>
     </mg>
   </e>
 
@@ -188298,10 +188396,13 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав уке. Васик: копьё (1994:411) JK: vrt mhr умдо pistin
+      (hyönteisen) piikki ; keihäs peitsi</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">keihäs</t>
+
+        <t pos="N">peitsi</t>
       </tg>
     </mg>
   </e>
@@ -188321,7 +188422,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kertolasku</t>
       </tg>
     </mg>
   </e>
@@ -188341,7 +188442,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lavuaari</t>
+
+        <t pos="N">pesulaite</t>
       </tg>
     </mg>
   </e>
@@ -188361,7 +188464,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">turpoaminen</t>
+
+        <t pos="N">turvotus</t>
       </tg>
     </mg>
   </e>
@@ -188381,7 +188486,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kauppakeskus</t>
       </tg>
     </mg>
   </e>
@@ -188401,7 +188506,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">yliopisto</t>
       </tg>
     </mg>
   </e>
@@ -188421,7 +188526,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">yhtenäistäminen</t>
+
+        <t pos="N">yhteenmukaistaminen</t>
+
+        <t pos="N">unifiointi</t>
       </tg>
     </mg>
   </e>
@@ -188441,7 +188550,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">johto</t>
+
+        <t pos="N">hoito</t>
+
+        <t pos="N">ohjaus</t>
       </tg>
     </mg>
   </e>
@@ -188461,7 +188574,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ohjaaminen</t>
+
+        <t pos="N">johtaaminen</t>
       </tg>
     </mg>
   </e>
@@ -188481,7 +188596,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">harjoitus</t>
+
+        <t pos="N">tehtävä</t>
       </tg>
     </mg>
   </e>
@@ -188501,7 +188618,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">harjoittelu</t>
       </tg>
     </mg>
   </e>
@@ -188529,6 +188646,14 @@
       </tg>
 
       <xg>
+        <x>упш вуян лижӹ (1981:175)</x>
+
+        <xt>olkoon mies (sitten)</xt>
+
+        <xt>был бы мужчина</xt>
+      </xg>
+
+      <xg>
         <x>якшар упш</x>
 
         <xt>vanhanaikainen turkisreunainen hattu</xt>
@@ -188548,10 +188673,15 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>упшака - ruko (копно) TRa: heinästä oleva. JK: vrt шагалтем -
+      kuhilas (babki iz snopov)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ruko</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <tf pos="N">копна из снопов</tf>
       </tg>
     </mg>
   </e>
@@ -188582,6 +188712,32 @@
 
   <e>
     <lg>
+      <l pos="N">ур</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">ур</st>
+      </stg>
+
+      <stress>ур</stress>
+    </lg>
+
+    <mg>
+      <defNative>Сав (vanh) ыр</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">kopeekka</t>
+      </tg>
+
+      <xg>
+        <x>кым урын ӓкшӹ ик копек (JK, 1981:69)</x>
+
+        <xt>kolmen oravan(nahan) hinta vastaa yhtä kopeekkaa</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">уравнени</l>
 
       <stg>
@@ -188595,7 +188751,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">yhtälö</t>
+
+        <t pos="N">ekvaatio</t>
       </tg>
     </mg>
   </e>
@@ -188612,11 +188770,21 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: такт вежливость толк приличие</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tahti</t>
+
+        <t pos="N">kohteliaisuus</t>
       </tg>
+
+      <xg>
+        <x>нима уратшат уке (1981:175)</x>
+
+        <xt>hän on tahditon (epäkohtelias)</xt>
+
+        <xt>у него нет никакого такта (никакой вежливости)</xt>
+      </xg>
     </mg>
   </e>
 
@@ -188632,10 +188800,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>bot.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">peltokorte</t>
       </tg>
     </mg>
   </e>
@@ -188645,17 +188813,17 @@
       <l pos="N">ургаля</l>
 
       <stg>
-        <st Contlex="NTag">ургаля</st>
+        <st Contlex="N_ОЛМА">ургаля</st>
       </stg>
 
       <stress>урга•ля</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>vanh. соня</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">unikeko</t>
       </tg>
     </mg>
   </e>
@@ -188672,10 +188840,15 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: vrt &gt;=&lt; mhr урдо - säästäväisyys
+      säästeliäisyys</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">karjankasvatus</t>
+
+        <t pos="N">karjanhoito</t>
+
+        <td pos="N">pitkäaikainen sukulaisen majoittaminen (JK)</td>
       </tg>
     </mg>
   </e>
@@ -188692,11 +188865,21 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>синон. ура JK: рыболовная сеть из мочала</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <td pos="N">(lehmuksen) niinestä kudottu kalaverkko</td>
       </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">рыболовная сеть из мочала</t>
+      </tg>
+
+      <xg>
+        <x>коллоэцвлӓ урим шыпшыт (1981:175)</x>
+
+        <xt>рыбаки тянут сеть</xt>
+      </xg>
     </mg>
   </e>
 
@@ -188712,10 +188895,13 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>клест (птица) JK: vrt важыкнер. WIKI: клест-еловик (Loxia
+      curvirostra Linnaeus, 1758), — лесная певчая птица семейства вьюрковых
+      (лат. Fringillidae), отряда воробьинообразных
+      (Passeriformes)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pikkukäpylintu</t>
       </tg>
     </mg>
   </e>
@@ -188732,11 +188918,24 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>rus обрыв яр круча промоина (вуйта урмаш тӹрӹштӹ
+      шалгаш)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">jyrkänne</t>
+
+        <t pos="N">rinne</t>
+
+        <t pos="N">törmä</t>
+
+        <t pos="N">töyräs</t>
       </tg>
+
+      <xg>
+        <x>вуйта урмаш тӹрӹштӹ шалгаш</x>
+
+        <xt>ikään kuin jyrkänteellä seisoisi</xt>
+      </xg>
     </mg>
   </e>
 
@@ -188755,7 +188954,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ulvahtaminen</t>
       </tg>
     </mg>
   </e>
@@ -188775,7 +188974,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ulvoaminen</t>
+
+        <t pos="N">ulvonta</t>
       </tg>
     </mg>
   </e>
@@ -188795,7 +188996,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">uurna</t>
+
+        <t pos="N">roskalaatikko (harv.)</t>
       </tg>
     </mg>
   </e>
@@ -188803,6 +189006,10 @@
   <e>
     <lg>
       <l pos="N">урожай</l>
+
+      <l_ref pos="N">лӓктӹш</l_ref>
+
+      <l_ref pos="N">шурны</l_ref>
 
       <stg>
         <st Contlex="N_КОЛ">урожай</st>
@@ -188812,10 +189019,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>ЙК: лӓктӹш ; шурны лӓктӹш</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sato</t>
+
+        <t pos="N">viljasato</t>
       </tg>
     </mg>
   </e>
@@ -188835,7 +189044,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">oppitunti</t>
+
+        <t pos="N">kotitehtävät</t>
+
+        <t pos="N">kotiläksyt</t>
       </tg>
     </mg>
   </e>
