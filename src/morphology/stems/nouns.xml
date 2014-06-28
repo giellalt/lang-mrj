@@ -31922,6 +31922,8 @@
       <tg xml:lang="fin">
         <t pos="N">rahake</t>
 
+        <t pos="N">poletti</t>
+
         <t pos="N">palkintoraha</t>
 
         <t pos="N">mitali</t>
@@ -32446,6 +32448,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <t pos="N">vararehtori</t>
+
         <tf pos="N">opetuspuolen vastaava</tf>
       </tg>
     </mg>
@@ -32694,7 +32698,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <t pos="N">olohuone</t>
+
         <t pos="N">sali</t>
+
+        <t pos="N">halli</t>
       </tg>
     </mg>
   </e>
@@ -33015,6 +33023,8 @@
 
       <tg xml:lang="fin">
         <t pos="N">rauhoitusalue</t>
+
+        <t pos="N">kansallispuisto</t>
       </tg>
     </mg>
   </e>
@@ -76492,7 +76502,7 @@
       </xg>
 
       <xg>
-        <x>кӓштӓш кузен шӹнзӓш (2008:84) </x>
+        <x>кӓштӓш кузен шӹнзӓш (2008:84)</x>
 
         <xt>ottaa ylin paikka</xt>
 
@@ -189311,7 +189321,7 @@
     </lg>
 
     <mg>
-      <defNative>zool. бурундук (Eutamias sibiricus) </defNative>
+      <defNative>zool. бурундук (Eutamias sibiricus)</defNative>
 
       <tg xml:lang="fin">
         <tf pos="N">juovikas maaorava</tf>
@@ -189535,7 +189545,7 @@
     </lg>
 
     <mg>
-      <defNative>церковн. Сретенье - </defNative>
+      <defNative>церковн. Сретенье -</defNative>
 
       <tg xml:lang="fin">
         <td pos="N">kirkkojuhlapäivä jota juhlistetaan 15.2.</td>
