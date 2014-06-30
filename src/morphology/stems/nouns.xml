@@ -73724,7 +73724,7 @@
       <m>
         <head/>
 
-        <defNative>dial.</defNative>
+        <defNative>dial. ( кырска )</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -73828,6 +73828,18 @@
 
         <tf pos="N">kankaan loimi</tf>
       </tg>
+
+      <xg>
+        <x>курымок ӹлӓш кытшы ӹш ли (2008:118)</x>
+
+        <xt>hänellä ei ollut mahdollisuuksia elää kauan</xt>
+      </xg>
+
+      <xg>
+        <x>кугивлӓ ӧлицӓ кыт мычкы шалген кеӓт (JK)</x>
+
+        <xt>koivut on istutettu pitkin rivikylää</xt>
+      </xg>
     </mg>
   </e>
 
@@ -80358,7 +80370,7 @@
       <l pos="N">кӹтӧ</l>
 
       <stg>
-        <st Contlex="NTag">кӹтӧ</st>
+        <st Contlex="N_ОЛМА">кӹтӧ</st>
       </stg>
 
       <stress>кӹ•тӧ</stress>
@@ -80369,7 +80381,33 @@
 
       <tg xml:lang="fin">
         <t pos="N">lauma</t>
+
+        <t pos="N">karjalauma</t>
       </tg>
+
+      <xg>
+        <x>шарык кӹтӧ (2008:126)</x>
+
+        <xt>lammaslauma eli katras</xt>
+
+        <xt>овечье стадо или отара</xt>
+      </xg>
+
+      <xg>
+        <x>кӹтӧш лыкташ (2008:126)</x>
+
+        <xt>viedä karjaa laumalle</xt>
+
+        <xt>выводить скотину в стадо</xt>
+      </xg>
+
+      <xg>
+        <x>кӹтӧм пырташ (2008:126)</x>
+
+        <xt>tuoda karjaa laitumelta</xt>
+
+        <xt>встречать скотину из стада</xt>
+      </xg>
     </mg>
   </e>
 
@@ -80390,6 +80428,26 @@
       <tg xml:lang="fin">
         <t pos="N">paimen</t>
       </tg>
+
+      <xg>
+        <x>шарык кӹтӧзӹ</x>
+
+        <xt>lampuri</xt>
+      </xg>
+
+      <xg>
+        <x>(san.) кӹтӧзӹ гань (2008:126)</x>
+
+        <xt>köyhä kuin paimen</xt>
+      </xg>
+
+      <xg>
+        <x>ӹдӹр кӹтӧзӹ (2008:126)</x>
+
+        <xt>tyttöporukan kaveri (poika)</xt>
+
+        <xt>играющий и общающийся с девочками</xt>
+      </xg>
     </mg>
   </e>
 
@@ -81611,10 +81669,13 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: I - куча зерна; тощее зерно (Вил.) отруби (Вил.)
+      mhr(1-2)</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">jyväkasa</t>
+
+        <t pos="N">jyväläjä</t>
 
         <tf pos="N">ohuin jyvä</tf>
 
@@ -81622,6 +81683,35 @@
 
         <t pos="N">leseet</t>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">кӹшӹл</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">кӹшӹл</st>
+      </stg>
+
+      <stress>кӹ•шӹл</stress>
+    </lg>
+
+    <mg>
+      <defNative>Sav: II обруч кадки бочки (vannehtia tynnyri - pyörittää
+      vannetta)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">vanne</t>
+      </tg>
+
+      <xg>
+        <x>вачкы кӹшӹл (2008:128)</x>
+
+        <xt>tynnyrinvanteet</xt>
+
+        <xt>обруч кадки</xt>
+      </xg>
     </mg>
   </e>
 
@@ -101892,7 +101982,7 @@
       <l pos="N">мытня</l>
 
       <stg>
-        <st Contlex="NTag">мытня</st>
+        <st Contlex="N_ОЛМА">мытня</st>
       </stg>
 
       <stress>мы•тня</stress>
@@ -101904,6 +101994,36 @@
       <tg xml:lang="fin">
         <td pos="N">kalaverkon keskiosa</td>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">мытык</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">мытык</st>
+      </stg>
+
+      <stress>мы•тык</stress>
+    </lg>
+
+    <mg>
+      <defNative>Пыртенӓм, фраз.улат: коротыш</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">pätkä</t>
+
+        <t pos="N">umpikuja (kuv.)</t>
+      </tg>
+
+      <xg>
+        <x>мытыкеш кодаш (2008:126)</x>
+
+        <xt>jäädä</xt>
+
+        <xt>остаться обделённым</xt>
+      </xg>
     </mg>
   </e>
 
