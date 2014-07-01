@@ -3671,7 +3671,7 @@ LEXICON nouns
 кӹсиӓ:кӹсиӓ N_ОЛМА  "tiainen" ;
 кӹслӓмӓ:кӹслӓмӓ N_ОЛМА  "ohjaiden metallikärki" ;
 кӹсӓн:кӹсӓн N_КОЛ  "jänne" ;
-кӹтӧ:кӹтӧ NTag  "lauma" ;
+кӹтӧ:кӹтӧ N_ОЛМА  "lauma" ;
 кӹтӧзӹ:кӹтӧзӹ N_ТӸРВӸ  "paimen" ;
 кӹтӹдӹмӓш:кӹтӹдӹмӓш N_КОЛ  "paimentamattomuus" ;
 кӹтӹкемдӹдӹмӓш:кӹтӹкемдӹдӹмӓш N_КОЛ  "lyhentämättömyys" ;
@@ -3730,6 +3730,7 @@ LEXICON nouns
 кӹшӓл:кӹшӓл N_КОЛ  "kiisseli" ;
 кӹшӓн:кӹшӓн N_КОЛ  "tasku" ;
 кӹшӹл:кӹшӹл N_КОЛ  "jyväkasa" ;
+кӹшӹл:кӹшӹл N_КОЛ  "vanne" ;
 кӹшӹллӹмӓш:кӹшӹллӹмӓш N_КОЛ  "jyvien läjäminen" ;
 лабиринт:лабиринт N_КОЛ  "labyrintti" ;
 лаборант:лаборант N_КОЛ  "laborantti" ;
@@ -4666,7 +4667,8 @@ LEXICON nouns
 мыстинӓ:мыстинӓ N_ОЛМА  "niinisäkki" ;
 мысткымаш:мысткымаш N_КОЛ  "sipsutteleminen" ;
 мыстыри:мыстыри N_ОЛМА  "lapsukainen" ;
-мытня:мытня NTag  "kalaverkon keskiosa" ;
+мытня:мытня N_ОЛМА  "kalaverkon keskiosa" ;
+мытык:мытык N_КОЛ  "pätkä" ;
 мытыкемдӹмӓш:мытыкемдӹмӓш N_КОЛ  "lyhentäminen" ;
 мытыкеммӓш:мытыкеммӓш N_КОЛ  "lyheneminen" ;
 мытькымаш:мытькымаш N_КОЛ  "laahustaminen" ;
