@@ -201141,10 +201141,18 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>сыпь прыщ волдырь (на теле)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">rohtuma</t>
+
+        <t pos="N">ihottuma</t>
+
+        <t pos="N">näppylä</t>
+
+        <t pos="N">rakkulat</t>
+
+        <t pos="N">näpyt</t>
       </tg>
     </mg>
   </e>
@@ -201164,7 +201172,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">ihottuman leviminen</tf>
+
+        <tf pos="N">rakkuloiden muodostus</tf>
       </tg>
     </mg>
   </e>
@@ -201181,10 +201191,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: vain ilmaisussa цывырцык мыны - яйцо-болтун</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">mätämuna</t>
       </tg>
     </mg>
   </e>
@@ -201244,7 +201254,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kihiseminen</t>
       </tg>
     </mg>
   </e>
@@ -201264,7 +201274,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kihinä</t>
       </tg>
     </mg>
   </e>
@@ -201284,7 +201294,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">venyminen</t>
       </tg>
     </mg>
   </e>
@@ -201324,7 +201334,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kiilto</t>
+
+        <t pos="N">kiiltäminen</t>
       </tg>
     </mg>
   </e>
@@ -201344,7 +201356,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kimalluttaminen</t>
       </tg>
     </mg>
   </e>
@@ -201364,7 +201376,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sukat</t>
+
+        <tf pos="N">pitkät sukat</tf>
       </tg>
     </mg>
   </e>
@@ -201403,10 +201417,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>vanh. наконечник стрелы</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kärki</t>
+
+        <t pos="N">kärkihela</t>
+
+        <tf pos="N">keihään metallikärki</tf>
       </tg>
     </mg>
   </e>
@@ -201423,7 +201441,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>?</defNative>
 
       <tg xml:lang="fin">
         <t pos="N"/>
@@ -201443,11 +201461,43 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: zool. бурозубка обыкновенная (Sorex araneus) (из
+      семейства землеройковых) - </defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">metsäpäästäinen</t>
+
+        <t pos="N">vaivaispäästäinen</t>
+
+        <t pos="N">sorex</t>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">цымыни</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">цымыни</st>
+      </stg>
+
+      <stress>цымы•ни</stress>
+    </lg>
+
+    <mg>
+      <defNative>Sav: II vain ilamisussa цымыни качкын - появились
+      цыпки</defNative>
+
+      <tg xml:lang="fin">
+        <td pos="N">rohtuneet kädet tai jalat (tuulesta tai liasta)</td>
+      </tg>
+
+      <xg>
+        <x>кидшӹм цымыни качкын (2008:319)</x>
+
+        <xt>hänellä on rohtuneet kädet</xt>
+      </xg>
     </mg>
   </e>
 
@@ -201466,7 +201516,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kokoontuminen</t>
       </tg>
     </mg>
   </e>
@@ -201486,7 +201536,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kerääntyminen</t>
       </tg>
     </mg>
   </e>
@@ -201503,7 +201553,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав уке. JK ?</defNative>
 
       <tg xml:lang="fin">
         <t pos="N"/>
@@ -201526,7 +201576,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kokoontuminen</t>
       </tg>
     </mg>
   </e>
@@ -201546,7 +201596,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">keräily</t>
       </tg>
     </mg>
   </e>
@@ -201566,7 +201616,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kokoaminen</t>
       </tg>
     </mg>
   </e>
@@ -201586,7 +201636,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">keruu</t>
+
+        <t pos="N">kerääminen</t>
       </tg>
     </mg>
   </e>
@@ -201603,11 +201655,21 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>галушки клёцки . Vrt кӹлмӹ цынга = vilukissa (JK)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">klimpit</t>
+
+        <t pos="N">kokkarekeitto</t>
       </tg>
+
+      <xg>
+        <x>кӹлмӹ цынга (2008:319)</x>
+
+        <xt>kömpelö kankealiikeinen ihminen</xt>
+
+        <xt>неповоротливый несообразительный человек</xt>
+      </xg>
     </mg>
   </e>
 
@@ -201623,10 +201685,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>как перст - худющий чел.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">laiha ihminen</tf>
       </tg>
     </mg>
   </e>
@@ -201643,10 +201705,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>цонгыртымаш - металлическ предметы звон звяканье </defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kolistelu</t>
       </tg>
     </mg>
   </e>
