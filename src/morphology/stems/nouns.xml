@@ -190221,11 +190221,19 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>vanh. nykyinen техникум JK: N_тӹрвӹ ?</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">oppilaitos</t>
+
+        <t pos="N">opisto</t>
       </tg>
+
+      <xg>
+        <x>музыкальный училище</x>
+
+        <xt>musiikkiopisto</xt>
+      </xg>
     </mg>
   </e>
 
@@ -190244,7 +190252,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">laitos</t>
+
+        <t pos="N">virasto</t>
       </tg>
     </mg>
   </e>
@@ -190264,7 +190274,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tiedemies</t>
+
+        <t pos="N">tieteilijä</t>
       </tg>
     </mg>
   </e>
@@ -190281,10 +190293,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: кухонная доска</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">leikkuulauta</t>
       </tg>
     </mg>
   </e>
@@ -190301,10 +190313,40 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: mhr myös yhteiskunta yhteisö seurapiiri</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">seura</t>
+
+        <t pos="N">järjestö</t>
+
+        <t pos="N">yhdistys</t>
+
+        <t pos="N">liitto</t>
+
+        <t pos="N">yhtymä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">ушем</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">ушем</st>
+      </stg>
+
+      <stress>у•шем</stress>
+    </lg>
+
+    <mg>
+      <defNative>Sav: II шов место соединения привоя к подвою</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">sauma</t>
+
+        <t pos="N">yhtymäkohta (JK)</t>
       </tg>
     </mg>
   </e>
@@ -190324,7 +190366,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kasvettuminen</t>
       </tg>
     </mg>
   </e>
@@ -190341,11 +190383,24 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>брюква; ышкал ушман - турнепс - rehunauris
+      turnipsi</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lanttu</t>
       </tg>
+
+      <xg>
+        <x>ышкал ушман (2008:301)</x>
+
+        <xt>rehunauris</xt>
+      </xg>
+
+      <xg>
+        <x>якшар ушман</x>
+
+        <xt>punajuuri</xt>
+      </xg>
     </mg>
   </e>
 
@@ -190364,7 +190419,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">usea yhdistyminen</tf>
       </tg>
     </mg>
   </e>
@@ -190384,7 +190439,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">yhdistyminen</t>
+
+        <t pos="N">yhtyminen</t>
+
+        <t pos="N">liittyminen</t>
+
+        <t pos="N">liittoutuminen</t>
       </tg>
     </mg>
   </e>
@@ -190404,7 +190465,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">yhdistäminen</t>
       </tg>
     </mg>
   </e>
@@ -190424,7 +190485,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kilometri</t>
       </tg>
     </mg>
   </e>
@@ -190441,10 +190502,19 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: связь связка завязка узел место сращения
+      срастания</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">side</t>
+
+        <t pos="N">sidos</t>
+
+        <t pos="N">yhteenliittymä</t>
+
+        <t pos="N">sidonta</t>
+
+        <tf pos="N">juonen alku (kirj.)</tf>
       </tg>
     </mg>
   </e>
@@ -190464,7 +190534,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">mustasukkaisuus</t>
       </tg>
     </mg>
   </e>
@@ -190484,7 +190554,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">yhdistäminen</t>
+
+        <t pos="N">liittäminen</t>
       </tg>
     </mg>
   </e>
@@ -190504,7 +190576,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">uudistus</t>
+
+        <t pos="N">uudistaminen</t>
       </tg>
     </mg>
   </e>
@@ -190524,7 +190598,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">uudistuminen</t>
       </tg>
     </mg>
   </e>
