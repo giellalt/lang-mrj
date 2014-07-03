@@ -97,23 +97,23 @@ Multichar_Symbols
 
 
 !! Semantics are classified with
- +Sem/Mal +Sem/Fem +Sem/Sur  !!= * @CODE@
- +Sem/Plc 			 !!= * @CODE@
- +Sem/Org			 !!= * @CODE@
- +Sem/Obj			 !!= * @CODE@
- +Sem/Ani			 !!= * @CODE@
- +Sem/Hum			 !!= * @CODE@
- +Sem/Plant			 !!= * @CODE@
- +Sem/Group			 !!= * @CODE@
- +Sem/Time 			 !!= * @CODE@
- +Sem/Txt			 !!= * @CODE@
- +Sem/Route			 !!= * @CODE@
- +Sem/Measr 		 !!= * @CODE@
- +Sem/Wthr			 !!= * @CODE@
- +Sem/Build 		 !!= * @CODE@
- +Sem/Edu			 !!= * @CODE@
- +Sem/Veh			 !!= * @CODE@
- +Sem/Clth			 !!= * @CODE@
+ +Sem/Mal +Sem/Fem +Sem/Sur  !!≈ * __@CODE@__
+ +Sem/Plc 			 !!≈ * __@CODE@__
+ +Sem/Org			 !!≈ * __@CODE@__
+ +Sem/Obj			 !!≈ * __@CODE@__
+ +Sem/Ani			 !!≈ * __@CODE@__
+ +Sem/Hum			 !!≈ * __@CODE@__
+ +Sem/Plant			 !!≈ * __@CODE@__
+ +Sem/Group			 !!≈ * __@CODE@__
+ +Sem/Time 			 !!≈ * __@CODE@__
+ +Sem/Txt			 !!≈ * __@CODE@__
+ +Sem/Route			 !!≈ * __@CODE@__
+ +Sem/Measr 		 !!≈ * __@CODE@__
+ +Sem/Wthr			 !!≈ * __@CODE@__
+ +Sem/Build 		 !!≈ * __@CODE@__
+ +Sem/Edu			 !!≈ * __@CODE@__
+ +Sem/Veh			 !!≈ * __@CODE@__
+ +Sem/Clth			 !!≈ * __@CODE@__
 
 
 !! Derivations are classified under the morphophonetic form of the suffix, the
@@ -124,7 +124,7 @@ Multichar_Symbols
  +Der/дЫмЫ
  +Der/N !! Noun derivation
  +Foc/Ат
- +Foc/ок !!= * @CODE@ = too, also
+ +Foc/ок !!≈ * __@CODE@__ = too, also
 
 !! Morphophonology
 !! ---------------
@@ -145,9 +145,9 @@ Multichar_Symbols
   +Hom1          !!≈ * @CODE@ : Homonymy толам used in l element and lexc
   +Hom2          !!≈ * @CODE@ : Homonymy колем used in l element and lexc
 
-%^ConsTransf !!= * @CODE@  k loss in am-verbs, also z to ts
-%^KIN 	     !!= * @CODE@  with kin terms for ӓвӓмӹн not мӱэмӹн
-%^А2ЫӸ       !!= * @CODE@  with карта and картын витринӹн
+%^ConsTransf !!≈ * __@CODE@__  k loss in am-verbs, also z to ts
+%^KIN 	     !!≈ * __@CODE@__  with kin terms for ӓвӓмӹн not мӱэмӹн
+%^А2ЫӸ       !!≈ * __@CODE@__  with карта and картын витринӹн
 
 !! We have manually optimised the structure of our lexicon using following
 !! flag diacritics to restrict morhpological combinatorics:
