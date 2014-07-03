@@ -3,20 +3,20 @@
 
 !! Hill Mari (Western Mari) verbs are inflected for (subject) person, tense and mood.
 
-LEXICON VAux !!= * @CODE@ = auxiliaries first
+LEXICON VAux !!≈ * __@CODE@__ = auxiliaries first
 
 +V+Aux: # ;
 
-LEXICON V_АМ-HOM1 !!= * @CODE@ homonyms @hid=Hom1
+LEXICON V_АМ-HOM1 !!≈ * __@CODE@__ homonyms @hid=Hom1
 +Hom1: V_АМ ;
 
-LEXICON V_ЕМ-HOM2 !!= * @CODE@ homonyms @hid=Hom2
+LEXICON V_ЕМ-HOM2 !!≈ * __@CODE@__ homonyms @hid=Hom2
 +Hom2: V_ЕМ ;
 
-LEXICON V_АМ_SUB !!= * @CODE@ substandard
+LEXICON V_АМ_SUB !!≈ * __@CODE@__ substandard
 +Err/Sub: V_АМ ;
 
-LEXICON V_ЕМ_SUB !!= * @CODE@ substandard
+LEXICON V_ЕМ_SUB !!≈ * __@CODE@__ substandard
 +Err/Sub: V_ЕМ ;
 
 
@@ -161,7 +161,7 @@ LEXICON V_ЕМ-SG3 !! хӹдӹртӓш: хӹдӹртӹ
 
 
 !!-1
-LEXICON V_ЕМ  !!= * @CODE@ колташ:колты
+LEXICON V_ЕМ  !!≈ * __@CODE@__ колташ:колты
 +V: INDPRSSG1-am ;
 +V: INDPRSSG2-am ;
 +V: INDPRSSG3-em ;
