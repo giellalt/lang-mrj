@@ -3,17 +3,17 @@
 
 !! Hill Mari nouns inflect in cases.
 
-LEXICON NTag  !!= * @CODE@ 
+LEXICON NTag  !!≈ * __@CODE@__ 
 +N: NMN_OBLIQUE-INDEFINITE ;
 +N: NMN_OBLIQUE-POSSESSA ;
 +N+Sg+Nom: 	  K	; 
 
 !! !!Substandard
 
-LEXICON N_КОЛ_SUB !!= * @CODE@ 
+LEXICON N_КОЛ_SUB !!≈ * __@CODE@__ 
 +Err/Sub: N_КОЛ ;
 
-LEXICON N_ТӸРВӸ_SUB !!= * @CODE@ 
+LEXICON N_ТӸРВӸ_SUB !!≈ * __@CODE@__ 
 +Err/Sub: N_ТӸРВӸ ;
 
 !! !!Standard
@@ -26,7 +26,7 @@ LEXICON N_КОЛ-SG
 LEXICON N_КОЛ-PL
 +N: NMN_КОЛ-PL ;
 
-LEXICON N_ТӸРВӸ !!= * @CODE@ тӹрвӹ:тӹрвӹ
+LEXICON N_ТӸРВӸ !!≈ * __@CODE@__ тӹрвӹ:тӹрвӹ
 !! The stem vowel "е" is found with possessor indices and the lative
  N_ТӸРВӸ-SG ;
  N_ТӸРВӸ-PL ;
@@ -38,7 +38,7 @@ LEXICON N_ТӸРВӸ-PL
 LEXICON N_КАРТА_SUB
 +Err/Sub: N_КАРТА ;
 
-LEXICON N_КАРТА !!= * @CODE@ карта:карта 
+LEXICON N_КАРТА !!≈ * __@CODE@__ карта:карта 
 !! а is specific to the +Sg+Nom, elsewhere ы or ӹ
  N_КАРТА-SG ;
  N_КАРТА-PL ;
@@ -75,7 +75,7 @@ LEXICON NMN_КОЛ-PL
  NMN_OBLIQUE-INDEFINITE-PL ;
  NMN_OBLIQUE-POSSESSA-PL ;
 
-LEXICON NMN_ТӸРВӸ !!= * @CODE@ тӹрвӹ:тӹрвӹ
+LEXICON NMN_ТӸРВӸ !!≈ * __@CODE@__ тӹрвӹ:тӹрвӹ
 !! The stem vowel "е" is found with possessor indices and the lative
  NMN_ТӸРВӸ-SG ;
  NMN_ТӸРВӸ-PL ;
@@ -90,7 +90,7 @@ LEXICON NMN_ТӸРВӸ-PL
  NMN_OBLIQUE-POSSESSA-PL ;
 +PxSg1:эм PL-ABEACCCOMDATGENILLINELATNOM ;
 
-LEXICON NMN_КАРТА	 !!= * @CODE@ карта:карта
+LEXICON NMN_КАРТА	 !!≈ * __@CODE@__ карта:карта
 !! а is specific to the +Sg+Nom, elsewhere ы or ӹ
  NMN_КАРТА-SG ;
  NMN_КАРТА-PL ;
