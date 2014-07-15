@@ -77036,7 +77036,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <t pos="V">ryhdistäytyä</t>
+
         <tf pos="V">tulla inhimilliseksi</tf>
+
+        <tf pos="V">tulla kunnolliseksi</tf>
       </tg>
     </mg>
   </e>
@@ -77118,12 +77122,20 @@
       <m>
         <head/>
 
-        <defNative>эксӹклӓнен ӹлӓш</defNative>
+        <defNative/>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V">elää kurjuudessa</t>
+        <tf pos="V">olla pahassa pulassa</tf>
+
+        <tf pos="V">elää kurjuudessa</tf>
       </tg>
+
+      <xg>
+        <x>эксӹклӓнен ӹлӓш (2008:392)</x>
+
+        <xt>elää kurjuudessa</xt>
+      </xg>
     </mg>
   </e>
 
