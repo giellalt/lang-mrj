@@ -201462,7 +201462,7 @@
 
     <mg>
       <defNative>Sav: zool. бурозубка обыкновенная (Sorex araneus) (из
-      семейства землеройковых) - </defNative>
+      семейства землеройковых) -</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">metsäpäästäinen</t>
@@ -201705,7 +201705,7 @@
     </lg>
 
     <mg>
-      <defNative>цонгыртымаш - металлическ предметы звон звяканье </defNative>
+      <defNative>цонгыртымаш - металлическ предметы звон звяканье</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">kolistelu</t>
@@ -226523,7 +226523,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">evakuointi</t>
+
+        <t pos="N">evakkomatka</t>
+
+        <t pos="N">evakuiointipaikka</t>
       </tg>
     </mg>
   </e>
@@ -226543,7 +226547,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">evakuoiminen</t>
+
+        <t pos="N">evakuointi</t>
+
+        <t pos="N">evakko</t>
       </tg>
     </mg>
   </e>
@@ -226563,7 +226571,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">evakuoiduksi tuleminen</tf>
+
+        <tf pos="N">itsensä evakuointi</tf>
       </tg>
     </mg>
   </e>
@@ -226583,7 +226593,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">evenki</t>
+
+        <t pos="N">tunguusi</t>
       </tg>
     </mg>
   </e>
@@ -226603,7 +226615,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">evoluutio</t>
+
+        <t pos="N">kehitys</t>
+
+        <tf pos="N">lajin kehitys</tf>
       </tg>
     </mg>
   </e>
@@ -226620,10 +226636,13 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: пресная лепёшка которую варят в бульоне как
+      клёцки</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <td pos="N">happamaton leipä</td>
+
+        <td pos="N">happamattomat leipäset joita keitetään liemessä</td>
       </tg>
     </mg>
   </e>
@@ -226643,7 +226662,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">itsekkyys</t>
+
+        <t pos="N">egoismi</t>
       </tg>
     </mg>
   </e>
@@ -226663,7 +226684,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">egoisti</t>
+
+        <t pos="N">itsekäs</t>
       </tg>
     </mg>
   </e>
@@ -226680,30 +226703,56 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: ӹшке эдем = единомышленник; родственник</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ihminen</t>
+
+        <t pos="N">henkilö</t>
       </tg>
+
+      <xg>
+        <x>эдем семӹнь (2008:392)</x>
+
+        <xt>käytäytyä soveliaasti</xt>
+
+        <xt>по-человечески или по-людски</xt>
+      </xg>
+
+      <xg>
+        <x>эдемӹнӹм ит нӓл (2008:392)</x>
+
+        <xt>toisten tavaroihin ei saa koskea</xt>
+      </xg>
+
+      <xg>
+        <x>хӹрӓш эдем ӓль шим эдем </x>
+
+        <xt>vaaleanruskeatukkainen ihminen tai tummatukkainen ihminen</xt>
+
+        <xt>шатен или брюнет</xt>
+      </xg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">эдемора</l>
+      <l pos="N">эдемара</l>
 
       <stg>
-        <st Contlex="N_ОЛМА">эдемора</st>
+        <st Contlex="N_ОЛМА_SUB">эдемара</st>
       </stg>
 
-      <stress>эде•мора</stress>
+      <stress>эде•мара</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>1992 (myt.) ihmissyntyinen metsähaltia</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ihmisvarjo</t>
+
+        <t pos="N">korso</t>
       </tg>
     </mg>
   </e>
@@ -226723,7 +226772,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ryhdistäytyminen</t>
+
+        <tf pos="N">inhimilliseksi tulo</tf>
       </tg>
     </mg>
   </e>
@@ -226743,7 +226794,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">päivääntasaaja</t>
       </tg>
     </mg>
   </e>
@@ -226763,7 +226814,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vastine</t>
+
+        <t pos="N">ekvivalentti</t>
       </tg>
     </mg>
   </e>
@@ -226783,7 +226836,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tentti</t>
+
+        <t pos="N">koe</t>
+
+        <t pos="N">tutkinto</t>
       </tg>
     </mg>
   </e>
@@ -226803,7 +226860,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kuulustelija</t>
+
+        <t pos="N">tentaattori</t>
+
+        <t pos="N">tutkija</t>
       </tg>
     </mg>
   </e>
@@ -226823,7 +226884,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tenttaus</t>
+
+        <t pos="N">kuulustelija</t>
       </tg>
     </mg>
   </e>
@@ -226843,7 +226906,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kappale</t>
+
+        <t pos="N">eksemplaari</t>
+
+        <t pos="N">koopio</t>
       </tg>
     </mg>
   </e>
@@ -226863,7 +226930,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">miehistö</t>
       </tg>
     </mg>
   </e>
@@ -226883,7 +226950,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">säästö</t>
+
+        <t pos="N">taloustiede</t>
       </tg>
     </mg>
   </e>
@@ -226903,7 +226972,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">talous</t>
+
+        <t pos="N">talouselämä</t>
+
+        <t pos="N">taloustiede</t>
       </tg>
     </mg>
   </e>
@@ -226923,7 +226996,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">taloustieteilijä</t>
+
+        <t pos="N">ekonomisti</t>
       </tg>
     </mg>
   </e>
@@ -226943,7 +227018,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kuvaruutu</t>
+
+        <t pos="N">valkokangas</t>
       </tg>
     </mg>
   </e>
@@ -226963,7 +227040,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kaivinkone</t>
+
+        <t pos="N">kaivukone</t>
       </tg>
     </mg>
   </e>
@@ -226983,7 +227062,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">retki</t>
+
+        <t pos="N">tutustumiskäynti</t>
+
+        <t pos="N">opintoretki</t>
+
+        <t pos="N">kiertoajelu</t>
       </tg>
     </mg>
   </e>
@@ -227003,7 +227088,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">huolitsija</t>
+
+        <t pos="N">lähettäjä</t>
+
+        <t pos="N">speditööri</t>
+
+        <t pos="N">ekspeditööri</t>
       </tg>
     </mg>
   </e>
@@ -227023,7 +227114,33 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">huolinta</t>
+
+        <t pos="N">lähetys</t>
+
+        <t pos="N">toimitus</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">экспедици</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">экспедици</st>
+      </stg>
+
+      <stress>экспеди•ци</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">tutkimusretki</t>
+
+        <t pos="N">opintoretkikunta</t>
       </tg>
     </mg>
   </e>
@@ -227043,7 +227160,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">koe</t>
+
+        <t pos="N">kokeilu</t>
+
+        <t pos="N">testi</t>
       </tg>
     </mg>
   </e>
@@ -227063,7 +227184,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">asiantuntija</t>
+
+        <t pos="N">ekspertti</t>
       </tg>
     </mg>
   </e>
@@ -227083,7 +227206,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tarkastus</t>
+
+        <tf pos="N">asiantuntijan lausuntotutkimus</tf>
       </tg>
     </mg>
   </e>
@@ -227103,7 +227228,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">riistäjä</t>
+
+        <t pos="N">hyväksikäyttäjä</t>
       </tg>
     </mg>
   </e>
@@ -227120,10 +227247,17 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: nykyään lisämerkityksiä: разработка, использование,
+      лесоэксплуатация, работа</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">riisto</t>
+
+        <t pos="N">riistäminen</t>
+
+        <t pos="N">hyväksikäyttö</t>
+
+        <t pos="N">työstäminen (JK)</t>
       </tg>
     </mg>
   </e>
@@ -227143,7 +227277,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">riistäminen</t>
+
+        <t pos="N">hyödyntäminen</t>
       </tg>
     </mg>
   </e>
@@ -227163,7 +227299,17 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">näyttely</t>
+
+        <t pos="N">näytteillepano</t>
+
+        <t pos="N">valotus (valok.)</t>
+
+        <t pos="N">johdanto (kirjall.)</t>
+
+        <t pos="N">pääjakso (musik.)</t>
+
+        <t pos="N">esittelyjakso (mus.)</t>
       </tg>
     </mg>
   </e>
@@ -227183,7 +227329,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">näyttelyesine</t>
       </tg>
     </mg>
   </e>
@@ -227203,7 +227349,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vientikauppa</t>
+
+        <t pos="N">maastavienti</t>
       </tg>
     </mg>
   </e>
@@ -227223,7 +227371,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vienti</t>
+
+        <t pos="N">maastavienti</t>
       </tg>
     </mg>
   </e>
@@ -227243,7 +227393,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pikalähetys</t>
+
+        <t pos="N">kiitohuolinta</t>
+
+        <t pos="N">kiitojuna</t>
+
+        <t pos="N">kiitolaiva</t>
       </tg>
     </mg>
   </e>
@@ -227260,10 +227416,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>ex tempore</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">ekstemporoitu esitys</tf>
+
+        <tf pos="N">ekstemporoitu puhe</tf>
       </tg>
     </mg>
   </e>
@@ -227283,7 +227441,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ulko-oppilas</t>
       </tg>
     </mg>
   </e>
@@ -227300,10 +227458,18 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: несчастье беда неудача урон</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">onnettomuus</t>
+
+        <t pos="N">hätä</t>
+
+        <t pos="N">hätätilanne</t>
+
+        <t pos="N">tappio</t>
+
+        <t pos="N">menetys</t>
       </tg>
     </mg>
   </e>
@@ -227320,10 +227486,11 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>бедствовать - elää kurjuudessa - olla kovassa
+      pulassa</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">kurjuudessa eläminen</tf>
       </tg>
     </mg>
   </e>
@@ -227340,10 +227507,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav uke. JK: Мары Эл ( Vrt: вел &gt; туан вел )</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">maa</t>
+
+        <t pos="N">alue</t>
+
+        <t pos="N">valtio</t>
       </tg>
     </mg>
   </e>
@@ -227363,7 +227534,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">elevaattori</t>
+
+        <td pos="N">painolastin nostolaite</td>
+
+        <t pos="N">viljavarasto (1992)</t>
       </tg>
     </mg>
   </e>
@@ -227380,10 +227555,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>mus.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">elegia</t>
       </tg>
     </mg>
   </e>
@@ -227403,7 +227578,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sähkömies</t>
       </tg>
     </mg>
   </e>
@@ -227423,7 +227598,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sähköistys</t>
       </tg>
     </mg>
   </e>
@@ -227443,7 +227618,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sähköistäminen</t>
+
+        <tf pos="N">sähköillä varustaminen</tf>
       </tg>
     </mg>
   </e>
@@ -227453,7 +227630,7 @@
       <l pos="N">электричество</l>
 
       <stg>
-        <st Contlex="NTag">электричество</st>
+        <st Contlex="N_КАРТА">электричество</st>
       </stg>
 
       <stress>электри•чество</stress>
@@ -227463,7 +227640,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sähkö</t>
       </tg>
     </mg>
   </e>
@@ -227483,7 +227660,49 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sähköjuna</t>
+
+        <t pos="N">lähijuna</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">электродвигатель</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">электродвигатель</st>
+      </stg>
+
+      <stress>электродви•гатель</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">sähkömoottori</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">электролечени</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">электролечени</st>
+      </stg>
+
+      <stress>электролече•ни</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">sähköhoito</t>
       </tg>
     </mg>
   </e>
@@ -227503,7 +227722,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">elektroni</t>
       </tg>
     </mg>
   </e>
@@ -227523,7 +227742,27 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">elektroniikka</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">электроприбор</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">электроприбор</st>
+      </stg>
+
+      <stress>электроприбо•р</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">sähkölaite</t>
       </tg>
     </mg>
   </e>
@@ -227543,7 +227782,27 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sähköjuna</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">электропроводка</l>
+
+      <stg>
+        <st Contlex="N_КАРТА">электропроводка</st>
+      </stg>
+
+      <stress>электропрово•дка</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">sähköjohto</t>
       </tg>
     </mg>
   </e>
@@ -227563,7 +227822,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sähköasema</t>
+
+        <t pos="N">sähkövoimalaitos</t>
       </tg>
     </mg>
   </e>
@@ -227583,7 +227844,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sähköteknikko</t>
       </tg>
     </mg>
   </e>
@@ -227603,7 +227864,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sähkövoima</t>
       </tg>
     </mg>
   </e>
@@ -227623,7 +227884,17 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">aines</t>
+
+        <t pos="N">elementti</t>
+
+        <t pos="N">ainesosa</t>
+
+        <t pos="N">alkuaine</t>
+
+        <t pos="N">alkeet</t>
+
+        <t pos="N">sähköpari</t>
       </tg>
     </mg>
   </e>
@@ -227643,7 +227914,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">yleislääke</t>
+
+        <t pos="N">eliksiiri</t>
       </tg>
     </mg>
   </e>
@@ -227660,17 +227933,34 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: охапка ноша вязанка</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sylys</t>
+
+        <t pos="N">kantamus</t>
+
+        <t pos="N">sylillinen</t>
+
+        <t pos="N">nippu</t>
+
+        <t pos="N">taakka</t>
       </tg>
+
+      <xg>
+        <x>момоца олташ ик элтем пу ситӹшӓшлык (JK)</x>
+
+        <xt>yksi sylillinen polttopuita pitäisi riittää
+        saunanlämmitykseen</xt>
+      </xg>
     </mg>
   </e>
 
   <e>
     <lg>
       <l pos="N">элтӓлтӹш</l>
+
+      <l_ref pos="N">элтем</l_ref>
 
       <stg>
         <st Contlex="N_КОЛ">элтӓлтӹш</st>
@@ -227680,10 +227970,18 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: Vilovat govor </defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kantamus</t>
+
+        <t pos="N">sylillinen</t>
+
+        <t pos="N">sylys</t>
+
+        <t pos="N">nippu</t>
+
+        <t pos="N">taakka</t>
       </tg>
     </mg>
   </e>
@@ -227703,7 +228001,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">syleily</t>
       </tg>
     </mg>
   </e>
@@ -227723,7 +228021,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">halauspyyntö</t>
       </tg>
     </mg>
   </e>
@@ -227743,7 +228041,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">halaus</t>
+
+        <t pos="N">syleily</t>
       </tg>
     </mg>
   </e>
@@ -227760,10 +228060,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: обхват</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ympärysmitta</t>
+
+        <t pos="N">sylimitta</t>
       </tg>
     </mg>
   </e>
@@ -227783,7 +228085,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">emali</t>
+
+        <t pos="N">emalji</t>
+
+        <t pos="N">hammaskiille</t>
       </tg>
     </mg>
   </e>
@@ -227803,7 +228109,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tunnuskuva</t>
+
+        <t pos="N">vertauskuva</t>
       </tg>
     </mg>
   </e>
@@ -227823,7 +228131,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">maanpakolainen</t>
+
+        <t pos="N">emigrantti</t>
       </tg>
     </mg>
   </e>
@@ -227843,7 +228153,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pakolaisuus</t>
       </tg>
     </mg>
   </e>
@@ -227863,7 +228173,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tunne</t>
+
+        <t pos="N">emootio</t>
+
+        <t pos="N">mielenliikutus</t>
       </tg>
     </mg>
   </e>
@@ -227883,7 +228197,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">emulsio</t>
+
+        <t pos="N">maidos</t>
       </tg>
     </mg>
   </e>
@@ -227903,7 +228219,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">voima</t>
+
+        <t pos="N">tarmo</t>
+
+        <t pos="N">energia</t>
       </tg>
     </mg>
   </e>
@@ -227923,7 +228243,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">into</t>
+
+        <t pos="N">innostus</t>
+
+        <t pos="N">entusiasmi</t>
       </tg>
     </mg>
   </e>
@@ -227943,7 +228267,29 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">entusiasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">энцефалит</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">энцефалит</st>
+      </stg>
+
+      <stress>энцефали•т</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">aivotulehdus</t>
+
+        <t pos="N">enkefaliitti</t>
       </tg>
     </mg>
   </e>
@@ -227963,7 +228309,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tietosanakirja</t>
+
+        <t pos="N">ensyklopedia</t>
       </tg>
     </mg>
   </e>
@@ -227983,7 +228331,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">epigrammi</t>
+
+        <t pos="N">kärkiruno</t>
+
+        <t pos="N">komparuno</t>
       </tg>
     </mg>
   </e>
@@ -228003,7 +228355,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">motto</t>
+
+        <t pos="N">mottolause</t>
       </tg>
     </mg>
   </e>
@@ -228023,7 +228377,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kulkutauti</t>
       </tg>
     </mg>
   </e>
@@ -228043,7 +228397,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">välikohtaus</t>
+
+        <t pos="N">välitapahtuma</t>
+
+        <t pos="N">episodi</t>
       </tg>
     </mg>
   </e>
@@ -228063,7 +228421,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kaatumatauti</t>
       </tg>
     </mg>
   </e>
@@ -228083,7 +228441,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">jälkisanat</t>
+
+        <t pos="N">epilogi</t>
       </tg>
     </mg>
   </e>
@@ -228103,7 +228463,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">määräyssana</t>
+
+        <t pos="N">epiteetti</t>
       </tg>
     </mg>
   </e>
@@ -228123,7 +228485,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">eepos</t>
+
+        <t pos="N">epopea</t>
+
+        <t pos="N">sankaritarina</t>
       </tg>
     </mg>
   </e>
@@ -228143,8 +228509,14 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">eepos</t>
       </tg>
+
+      <xg>
+        <x>халык эпос</x>
+
+        <xt>kansaneepos</xt>
+      </xg>
     </mg>
   </e>
 
@@ -228163,7 +228535,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">aikakausi</t>
+
+        <t pos="N">ajanjakso</t>
+
+        <t pos="N">kausi</t>
       </tg>
     </mg>
   </e>
