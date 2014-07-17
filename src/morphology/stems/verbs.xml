@@ -77534,14 +77534,20 @@
       <m>
         <head/>
 
-        <defNative>йӓнгӹм юлалдараш</defNative>
+        <defNative/>
       </m>
 
       <tg xml:lang="fin">
         <tf pos="V">saattaa levottomaksi</tf>
 
-        <t pos="V">hulestuttaa</t>
+        <t pos="V">huolestuttaa</t>
       </tg>
+
+      <xg>
+        <x>йӓнгӹм юлалдараш</x>
+
+        <xt>saattaa sydän levottomaksi</xt>
+      </xg>
     </mg>
   </e>
 
@@ -77560,13 +77566,25 @@
       <m>
         <head/>
 
-        <defNative>шӱм юланен; Фраз: ӹрдӹ яктеок качкын юланаш - довести до
+        <defNative>Фраза! ӹрдӹ яктеок качкын юланаш - довести до
         конца</defNative>
       </m>
 
       <tg xml:lang="fin">
+        <t pos="V">viiletä</t>
+
         <t pos="V">jäähtyä</t>
+
+        <t pos="V">kylmetä</t>
       </tg>
+
+      <xg>
+        <x>шӱм юланен (2008:395)</x>
+
+        <xt>sydän viileni tai mielenkiinto kylmeni</xt>
+
+        <xt>сердце остыло</xt>
+      </xg>
     </mg>
   </e>
 

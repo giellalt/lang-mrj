@@ -229653,10 +229653,17 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: (anat.) лимфа (kudosneste) сукровица
+      (verivisva)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kudosneste</t>
+
+        <t pos="N">imuneste</t>
+
+        <t pos="N">lymfa</t>
+
+        <t pos="N">verivisva</t>
       </tg>
     </mg>
   </e>
@@ -229673,10 +229680,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: vanh. веник метла</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">luuta</t>
+
+        <t pos="N">varsiluuta</t>
       </tg>
     </mg>
   </e>
@@ -229693,10 +229702,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: всхлипывание</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">nyyhkytys</t>
+
+        <t pos="N">niiskuttaminen</t>
+
+        <t pos="N">nyyhkyttely</t>
       </tg>
     </mg>
   </e>
@@ -229716,8 +229729,30 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ääni</t>
+
+        <t pos="N">hälinä</t>
+
+        <t pos="N">melu</t>
+
+        <t pos="N">äänne</t>
+
+        <t pos="N">vaaliääni</t>
       </tg>
+
+      <xg>
+        <x>ик юкет, кок юкет</x>
+
+        <xt>tyhjää hälinää (ei sanonut mitään)</xt>
+      </xg>
+
+      <xg>
+        <x>юкым ит лык (2008:394)</x>
+
+        <xt>älä kiellä (ole hiljaa)</xt>
+
+        <xt>молчи или не запрещай</xt>
+      </xg>
     </mg>
   </e>
 
@@ -229736,7 +229771,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">äänen esiinsaaminen</tf>
+
+        <tf pos="N">äänekkääksi rupeaminen</tf>
       </tg>
     </mg>
   </e>
@@ -229753,10 +229790,27 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: шум гвалт; возмущение; скандал; шум леса; рокот
+      машин</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">melu</t>
+
+        <t pos="N">ääntely</t>
+
+        <t pos="N">mielenkuohu</t>
+
+        <t pos="N">kapina</t>
+
+        <t pos="N">hälinä</t>
+
+        <t pos="N">humina</t>
+
+        <t pos="N">suhiseminen</t>
+
+        <t pos="N">pauhaaminen</t>
+
+        <t pos="N">jyriseminen</t>
       </tg>
     </mg>
   </e>
@@ -229773,10 +229827,16 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>vanh. кликание приц или животных</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kuiskaus</t>
+
+        <tCtn>
+          <t>kuiskaus</t>
+
+          <re>lintujen eläinten</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -229793,11 +229853,23 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>vanh. хладнокровие</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kylmäverisyys</t>
+
+        <t pos="N">viileys</t>
+
+        <tf pos="N">viileä sydämisyys</tf>
       </tg>
+
+      <xg>
+        <x>юл кек (2008:395)</x>
+
+        <xt>käärme</xt>
+
+        <xt>змей кобра</xt>
+      </xg>
     </mg>
   </e>
 
@@ -229813,10 +229885,16 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: vanh. обычай верование быт Vrt JK: овуца</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">perinne</t>
+
+        <t pos="N">tapa</t>
+
+        <t pos="N">uskomukset</t>
+
+        <t pos="N">elämäntavat</t>
       </tg>
     </mg>
   </e>
@@ -229836,7 +229914,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">huolestuttaminen</t>
       </tg>
     </mg>
   </e>
@@ -229853,10 +229931,18 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: (vanh.) Vrt JK: шӱмӹн ӱкшӹмӓш</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kylmeneminen</t>
+
+        <t pos="N">viileneminen</t>
+
+        <tCtn>
+          <t>kylmeneminen</t>
+
+          <re>tunteen mielenkiinnon</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -229876,7 +229962,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">huumori</t>
       </tg>
     </mg>
   </e>
@@ -229893,10 +229979,30 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: юнкол - вьюн JK: kts myös кӹшкӹгол</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">nuoliainen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">юнат</l>
+
+      <stg>
+        <st Contlex="N_КОЛ_SUB">юнат</st>
+      </stg>
+
+      <stress>юна•т</stress>
+    </lg>
+
+    <mg>
+      <defNative>Sav: юнат = юннат</defNative>
+
+      <tg xml:lang="fin">
+        <tf pos="N">nuori luonnontutkija</tf>
       </tg>
     </mg>
   </e>
@@ -229913,10 +230019,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>FRS (mer.) Sav uke.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">laivapoika</t>
+
+        <t pos="N">jungmanni</t>
       </tg>
     </mg>
   </e>
@@ -229933,10 +230041,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>hist.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">junkkari</t>
+
+        <t pos="N">junkkeri</t>
       </tg>
     </mg>
   </e>
@@ -229953,10 +230063,50 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: kts myös кӹшкӹгол</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">nuoliainen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">юнкор</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">юнкор</st>
+      </stg>
+
+      <stress>юнко•р</stress>
+    </lg>
+
+    <mg>
+      <defNative>пыртенӓм</defNative>
+
+      <tg xml:lang="fin">
+        <tf pos="N">nuori kirjeenvaihtaja</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">юннат</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">юннат</st>
+      </stg>
+
+      <stress>юнна•т</stress>
+    </lg>
+
+    <mg>
+      <defNative>Сав улат, пыртенӓм. Sav: юнат = юннат</defNative>
+
+      <tg xml:lang="fin">
+        <tf pos="N">nuori luonnontutkija</tf>
       </tg>
     </mg>
   </e>
@@ -229976,8 +230126,30 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vesisade</t>
       </tg>
+
+      <xg>
+        <x>ваштыр гань юр юреш (2008:395)</x>
+
+        <xt>rankkasade tai sataa kaatamalla</xt>
+
+        <xt>проливной дождь</xt>
+      </xg>
+
+      <xg>
+        <x>тыгыды юр (2008)</x>
+
+        <xt>tihkusade</xt>
+      </xg>
+
+      <xg>
+        <x>шолемӓн юр</x>
+
+        <xt>raesade tai sataa rakeita</xt>
+
+        <xt>дождь с градом</xt>
+      </xg>
     </mg>
   </e>
 
@@ -229996,7 +230168,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lainoppi</t>
+
+        <t pos="N">lakitiede</t>
+
+        <t pos="N">oikeustiede</t>
       </tg>
     </mg>
   </e>
@@ -230016,7 +230192,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lakimies</t>
+
+        <t pos="N">juristi</t>
       </tg>
     </mg>
   </e>
@@ -230036,7 +230214,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sataaminen</t>
+
+        <tCtn>
+          <t>sataaminen</t>
+
+          <re>vesisateen</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
