@@ -4,7 +4,7 @@
 !! Hill Mari (Western Mari) pronouns...
 
 LEXICON PRON_
-+Pron: # ;
++Pron: WORDEND ;
 
 LEXICON PERS-SG1
 +Pron+Pers+Sg1+Nom:нь K ;
@@ -91,7 +91,7 @@ LEXICON REFL !!= @CODE@ ӹшке:ӹшк
 +Pron+Refl+Pl3+Dat:ӹ%>лӓнӹштӹ K ;
 
 LEXICON DEM-SG !!= @CODE@ тидӹ:ти
-+Pron+Dem+Dep: # ;
++Pron+Dem+Dep: WORDEND ;
 +Pron+Dem+Sg+Nom:дӹ K ;
 +Pron+Dem+Sg+Gen:дӹ%>н K ;
 +Pron+Dem+Sg+Acc:дӹ%>м K ;
@@ -107,7 +107,7 @@ LEXICON DEM-SG !!= @CODE@ тидӹ:ти
 +Pron+Dem+Pl+Com:дӹ%>влӓ%>ге K ;
 
 LEXICON DEM-PL !!= @CODE@ нинӹ:ни
-+Pron+Dem+Dep: # ;
++Pron+Dem+Dep: WORDEND ;
 +Pron+Dem+Pl+Nom:нӹ K ;
 +Pron+Dem+Pl+Gen:нӹ%>н K ;
 +Pron+Dem+Pl+Acc:нӹ%>м K ;
@@ -124,7 +124,7 @@ LEXICON DEM-PL !!= @CODE@ нинӹ:ни
 
 
 LEXICON DemTag
-+Dem+Adn: # ;
++Dem+Adn: WORDEND ;
 +Dem+Pron: Dem-Cx ;
 !! What are these тӹдӹмӓт, тӹдӹлӓнӓт
 
