@@ -2384,6 +2384,42 @@
 
   <e>
     <lg>
+      <l pos="A">английский</l>
+
+      <stg>
+        <st Contlex="A_">английский</st>
+      </stg>
+
+      <stress>англи•йский</stress>
+    </lg>
+
+    <sources>
+      <media mediaID="book">tv - marij uver arshash</media>
+    </sources>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <td pos="A">englannin (kieli)</td>
+
+        <xg>
+          <x>мӹнь английскийӹм тыменям</x>
+
+          <xt>minä opettelen englannin kieltä</xt>
+        </xg>
+
+        <xg>
+          <x>тӹдӹ английский чӓйӹм йӱэш (JK)</x>
+
+          <xt>hän juo englantilaista teetä</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="A">ангы-сынгы</l>
 
       <stg>
@@ -20326,6 +20362,44 @@
 
         <xt>tänä vuonna lehmämme jäi mahoksi</xt>
       </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">итальян</l>
+
+      <stg>
+        <st Contlex="A_">итальян</st>
+      </stg>
+
+      <stress>италья•н</stress>
+    </lg>
+
+    <sources>
+      <media mediaID="book">«Пӓлӹдӹмӹ, но лишӹл» пьесӹн авторжы Е.Егоркина-Тихонькина</media>
+    </sources>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">italialainen</t>
+
+        <td pos="A">italian (kieli)</td>
+
+        <xg>
+          <x>итальян йӹлмӹ</x>
+
+          <xt>italian kieli</xt>
+        </xg>
+
+        <xg>
+          <x>тӹдӹ итальянла яжон шайыштеш (JK)</x>
+
+          <xt>hän puhuu italiaa hyvin</xt>
+        </xg>
+      </tg>
     </mg>
   </e>
 
@@ -48732,6 +48806,74 @@
 
   <e>
     <lg>
+      <l pos="A">лив</l>
+
+      <stg>
+        <st Contlex="A_">лив</st>
+      </stg>
+
+      <stress>лив</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">liiviläis-</t>
+
+        <t pos="A">liiviläinen</t>
+
+        <td>liivin (kieli)</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ливвиковский</l>
+
+      <stg>
+        <st Contlex="A_">ливвиковский</st>
+      </stg>
+
+      <stress>ливвико•вский</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">livvin-</t>
+
+        <t pos="A">livvinkarjalais-</t>
+
+        <td>livvin (kieli)</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ливский</l>
+
+      <stg>
+        <st Contlex="A_">ливский</st>
+      </stg>
+
+      <stress>ли•вский</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">liiviläis-</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="A">ливӹ</l>
 
       <stg>
@@ -49345,7 +49487,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">epäjohdonmukainen</t>
       </tg>
     </mg>
   </e>
@@ -57967,7 +58109,8 @@
     </lg>
 
     <mg>
-      <defNative>Сав, Васик техень уке! JK: ненец_SUB? (ненецкий)</defNative>
+      <defNative>Сав, Васик техень уке! JK: ненец_SUB?
+      (ненецский?)</defNative>
 
       <tg xml:lang="fin">
         <t pos="A">nenetsiläinen</t>
@@ -60407,6 +60550,28 @@
 
       <tg xml:lang="fin">
         <t pos="A"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">оды</l>
+
+      <stg>
+        <st Contlex="A_">оды</st>
+      </stg>
+
+      <stress>о•ды</stress>
+    </lg>
+
+    <mg>
+      <defNative>A_ОЛМА</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="A">udmurttilainen</t>
+
+        <t pos="A">udmurttilais-</t>
       </tg>
     </mg>
   </e>
@@ -97710,6 +97875,28 @@
 
   <e>
     <lg>
+      <l pos="A">француз</l>
+
+      <stg>
+        <st Contlex="A_">француз</st>
+      </stg>
+
+      <stress>францу•з</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">ranskalainen</t>
+
+        <tf>ranskan (kieli)</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="A">французский</l>
 
       <stg>
@@ -97723,7 +97910,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">ranskalainen</t>
+
+        <t>ranskalais-</t>
       </tg>
     </mg>
   </e>
@@ -103150,6 +103339,30 @@
 
   <e>
     <lg>
+      <l pos="A">швед</l>
+
+      <stg>
+        <st Contlex="A_">швед</st>
+      </stg>
+
+      <stress>швед</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">ruotsalainen</t>
+
+        <t pos="A">ruotsin</t>
+
+        <tf>ruotsin (kieli)</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="A">шведский</l>
 
       <stg>
@@ -103163,7 +103376,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">ruotsalais-</t>
+
+        <t pos="A">ruotsalainen</t>
       </tg>
     </mg>
   </e>
@@ -109877,7 +110092,29 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">pojaton</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">эрзӓ</l>
+
+      <stg>
+        <st Contlex="A_">эрзӓ</st>
+      </stg>
+
+      <stress>э•рзӓ</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">ersäläis-</t>
+
+        <t pos="A">ersäläinen</t>
       </tg>
     </mg>
   </e>
@@ -109898,6 +110135,52 @@
 
       <tg xml:lang="fin">
         <t pos="A"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">эстон</l>
+
+      <stg>
+        <st Contlex="A_">эстон</st>
+      </stg>
+
+      <stress>эсто•н</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">virolainen</t>
+
+        <tf>viron (kieli)</tf>
+
+        <t pos="A">virolais-</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">эстонский</l>
+
+      <stg>
+        <st Contlex="A_">эстонский</st>
+      </stg>
+
+      <stress>эсто•нский</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">virolais-</t>
+
+        <t pos="A">virolainen</t>
       </tg>
     </mg>
   </e>
@@ -110758,6 +111041,30 @@
 
       <tg xml:lang="fin">
         <t pos="A"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">япон</l>
+
+      <stg>
+        <st Contlex="A_">япон</st>
+      </stg>
+
+      <stress>япо•н</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">japanilais-</t>
+
+        <t pos="A">japanilainen</t>
+
+        <tf>japanin (kieli)</tf>
       </tg>
     </mg>
   </e>
