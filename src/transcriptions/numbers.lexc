@@ -15,9 +15,9 @@
 Multichar_Symbols
 
  +Use/NG    ! Do not generate, for isme-ped.fst and apertium
- +Attr	    ! only in attribute position
- +Card
- +Ord
+ +Attr	    ! only in attribute position кок кол, кок колым
+ +Card	    !                            кокты, коктым
+ +Ord	    ! This will be removed
 
 LEXICON Root
 HUNDREDSM ;		! 200M
@@ -228,40 +228,40 @@ LEXICON LOHKAI
  ORDINAL-LOHKAI ;
 
 LEXICON CARDINAL-LOHKAI
-ик+Card+Attr:1 ENDLEX ;
-кок+Card+Attr:2 ENDLEX ;
-кым+Card+Attr:3 ENDLEX ;
-нӹл+Card+Attr:4 ENDLEX ;
-вӹц+Card+Attr:5 ENDLEX ;
-куд+Card+Attr:6 ENDLEX ;
-шӹм+Card+Attr:7 ENDLEX ;
-кӓндӓкш+Card+Attr:8 ENDLEX ;
-ӹндекш+Card+Attr:9 ENDLEX ;
+ик+Attr:1 ENDLEX ;
+кок+Attr:2 ENDLEX ;
+кым+Attr:3 ENDLEX ;
+нӹл+Attr:4 ENDLEX ;
+вӹц+Attr:5 ENDLEX ;
+куд+Attr:6 ENDLEX ;
+шӹм+Attr:7 ENDLEX ;
+кӓндӓкш+Attr:8 ENDLEX ;
+ӹндекш+Attr:9 ENDLEX ;
 
-иктӹ+Card:1 ENDLEX ;
-кокты+Card:2 ENDLEX ;
-кымыт+Card:3 ENDLEX ;
-нӹлӹт+Card:4 ENDLEX ;
-вӹзӹт+Card:5 ENDLEX ;
-кудыт+Card:6 ENDLEX ;
-шӹмӹт+Card:7 ENDLEX ;
-кӓндӓкшӹ+Card:8 ENDLEX ;
-ӹндекшӹ+Card:9 ENDLEX ;
+иктӹ:1 ENDLEX ;
+кокты:2 ENDLEX ;
+кымыт:3 ENDLEX ;
+нӹлӹт:4 ENDLEX ;
+вӹзӹт:5 ENDLEX ;
+кудыт:6 ENDLEX ;
+шӹмӹт:7 ENDLEX ;
+кӓндӓкшӹ:8 ENDLEX ;
+ӹндекшӹ:9 ENDLEX ;
 
 LEXICON ORDINAL-LOHKAI
-икшӹ+Ord:1%-шӹ ENDLEX ;
-кокшы+Ord:2%-шы ENDLEX ;
-кымшы+Ord:3%-шы ENDLEX ;
-нӹлӹмшӹ+Ord:4%-шӹ ENDLEX ;
-вӹзӹмшӹ+Ord:5%-шӹ ENDLEX ;
-кудымшы+Ord:6%-шы ENDLEX ;
-шӹмшӹ+Ord:7%-шӹ ENDLEX ;
-кӓндӓкшӹмшӹ+Ord:8%-шӹ ENDLEX ;
-ӹндекшӹмшӹ+Ord:9%-шӹ ENDLEX ;
+икшӹ:1%. ENDLEX ;
+кокшы:2%. ENDLEX ;
+кымшы:3%. ENDLEX ;
+нӹлӹмшӹ:4%. ENDLEX ;
+вӹзӹмшӹ:5%. ENDLEX ;
+кудымшы:6%. ENDLEX ;
+шӹмшӹ:7%. ENDLEX ;
+кӓндӓкшӹмшӹ:8%. ENDLEX ;
+ӹндекшӹмшӹ:9%. ENDLEX ;
 
 LEXICON TENS
-лу+Card:1%0 ENDLEX ;
-лушы+Ord:1%0%-шы ENDLEX ; !!= @CODE@ ordinal
+лу:1%0 ENDLEX ;
+лушы:1%0%. ENDLEX ; !!= @CODE@ ordinal
 коклы:2 LÅGEV ;
 кымлы:3 LÅGEV ;
 нӹллӹ:4 LÅGEV ;
@@ -272,8 +272,8 @@ LEXICON TENS
 ӹндекшлу:9 LÅGEV ;
 
 LEXICON LÅGEV
-+Card:%0 ENDLEX ;
-шы+Ord:%0%-шы ENDLEX ; !!= @CODE@ ordinal
+:%0 ENDLEX ;
+шы:%0%. ENDLEX ; !!= @CODE@ ordinal
 % :    LOHKAI ;
 
 LEXICON ONES
@@ -281,15 +281,15 @@ CARDINAL-LOHKAI ;
  ORDINAL-ONES ;
 
 LEXICON ORDINAL-ONES
-пӹтӓришӹ+Ord:1%-шӹ ENDLEX ;
-кокшы+Ord:2%-шы ENDLEX ;
-кымшы+Ord:3%-шы ENDLEX ;
-нӹлӹмшӹ+Ord:4%-шӹ ENDLEX ;
-вӹзӹмшӹ+Ord:5%-шӹ ENDLEX ;
-кудымшы+Ord:6%-шы ENDLEX ;
-шӹмшӹ+Ord:7%-шӹ ENDLEX ;
-кӓндӓкшӹмшӹ+Ord:8%-шӹ ENDLEX ;
-ӹндекшӹмшӹ+Ord:9%-шӹ ENDLEX ;
+пӹтӓришӹ:1%. ENDLEX ;
+кокшы:2%. ENDLEX ;
+кымшы:3%. ENDLEX ;
+нӹлӹмшӹ:4%. ENDLEX ;
+вӹзӹмшӹ:5%. ENDLEX ;
+кудымшы:6%. ENDLEX ;
+шӹмшӹ:7%. ENDLEX ;
+кӓндӓкшӹмшӹ:8%. ENDLEX ;
+ӹндекшӹмшӹ:9%. ENDLEX ;
 
 LEXICON ENDLEX
  # ;
