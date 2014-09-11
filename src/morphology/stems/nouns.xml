@@ -6141,7 +6141,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>mm TRa: vossikka eli hevoskyyti WIKI: pika-ajuri</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">rengas</t>
@@ -6153,7 +6153,21 @@
         <t pos="N">rattaat</t>
 
         <t pos="N">vankkurit</t>
+
+        <t pos="N">vossikka</t>
       </tg>
+
+      <xg>
+        <x>араваэш толынна (JK)</x>
+
+        <xt>tulimme vossikalla e pika-ajurilla</xt>
+      </xg>
+
+      <xg>
+        <x>арава кӹшӹл (1994:18)</x>
+
+        <xt>metalliset rengasvanteet</xt>
+      </xg>
     </mg>
   </e>
 
@@ -6251,10 +6265,11 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: шол - ... Vrt mhr арава тулка (pyörän tulkka) JK: ?аравам
+      кӹртни дон сӹрӹмӹ = арава кӹшӹл (vanteet)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">rengasvanteet?</t>
       </tg>
     </mg>
   </e>
@@ -6274,6 +6289,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <t pos="N">hevosmies</t>
+
         <tf pos="N">hevosvankkureilla ajaja</tf>
       </tg>
     </mg>
@@ -34029,6 +34046,32 @@
 
   <e>
     <lg>
+      <l pos="N">зубр</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">зубр</st>
+
+        <st Contlex="N_КОЛ">бизон</st>
+      </stg>
+
+      <stress>зубр</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK: pyrtenäm. kts myös бизон Bison bonasus</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">biisoni</t>
+
+        <t pos="N">euroopanbiisoni</t>
+
+        <t pos="N">visentti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">зубрымаш</l>
 
       <stg>
@@ -53707,6 +53750,30 @@
 
   <e>
     <lg>
+      <l pos="N">кебаб</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">кебаб</st>
+      </stg>
+
+      <stress>кеба•б</stress>
+    </lg>
+
+    <mg>
+      <defNative>ЙК: кебап</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">kebab</t>
+
+        <t pos="N">kebabliha</t>
+
+        <t pos="N">kebab-annos</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">кедр</l>
 
       <stg>
@@ -54455,10 +54522,15 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Вас: гл гӹц кенвазем (1994:124) vrs кенвазам кен
+      вазам</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N">?!x</t>
+        <t pos="N"> </t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">проронить</t>
       </tg>
     </mg>
   </e>
@@ -54620,7 +54692,7 @@
       <m>
         <head/>
 
-        <defNative>синоним: картуз</defNative>
+        <defNative>синоним: картуз (JK: кепкӹ)</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -71266,7 +71338,7 @@
       <m>
         <head/>
 
-        <defNative>цецен кыдыш</defNative>
+        <defNative>цецен кыдыш; Отарсолавлӓ_SUB: ыдыш (1981:220)</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -81670,7 +81742,7 @@
 
     <mg>
       <defNative>Sav: I - куча зерна; тощее зерно (Вил.) отруби (Вил.)
-      mhr(1-2)</defNative>
+      mhr(1-2) JK: Kts Sav - II - alempana.</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">jyväkasa</t>
@@ -194211,7 +194283,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK [pufaik6] tikkitoppatakki</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">toppatakki</t>
@@ -194239,7 +194311,7 @@
       <tg xml:lang="fin">
         <t pos="N">kasaari</t>
 
-        <t pos="N">tšuvaššilainen (pejor.)</t>
+        <td pos="N">tšuvaššilainen (pejor.)</td>
       </tg>
     </mg>
   </e>
@@ -212630,6 +212702,28 @@
 
   <e>
     <lg>
+      <l pos="N">шол</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">шол</st>
+      </stg>
+
+      <stress>шол</stress>
+    </lg>
+
+    <mg>
+      <defNative>Пыртенӓм: kts myös арава</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">rengas (jk)</t>
+
+        <t pos="N">kiinnitys</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">шолдымактымаш</l>
 
       <stg>
@@ -224788,11 +224882,19 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>пчелиный рой</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">mehiläisparvi</t>
       </tg>
+
+      <xg>
+        <x>ыгыршы гань (1981:220)</x>
+
+        <xt>loppumaton määrä</xt>
+
+        <xt>(kuv.) tosi paljon</xt>
+      </xg>
     </mg>
   </e>
 
@@ -224808,11 +224910,27 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: rukoileminen jumalalle (?)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">rukoileminen</t>
+
+        <t pos="N">rukoilu</t>
       </tg>
+
+      <xg>
+        <x>йымылан ыдылмаш (1981:220)</x>
+
+        <xt>rukoilla jumalaa</xt>
+      </xg>
+
+      <xg>
+        <x>кок кидӓ ыдылмыла (JK: vashtash!)</x>
+
+        <xt>(kuv.) </xt>
+
+        <xt>щедро благодарить</xt>
+      </xg>
     </mg>
   </e>
 
@@ -224831,7 +224949,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">rukoiluttaa</t>
+
+        <t pos="N">lupa rukoilla</t>
+
+        <te>antaa rukoilla</te>
+
+        <te>pakottaa rukoilemaan</te>
+
+        <t pos="N">rukouspakko</t>
       </tg>
     </mg>
   </e>
@@ -224851,8 +224977,14 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">myyrä</t>
       </tg>
+
+      <xg>
+        <x>ыдыр кавашты кӧргӓн ыжга (1981:220)</x>
+
+        <xt>myyrännahasta tehty takki</xt>
+      </xg>
     </mg>
   </e>
 
@@ -224871,7 +225003,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">allaviivaus</t>
+
+        <t pos="N">yliviivaus</t>
+
+        <t pos="N">lyönti</t>
+
+        <t pos="N">ripustaminen</t>
       </tg>
     </mg>
   </e>
@@ -224888,10 +225026,34 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>царапина</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">naarmu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">ыдыралтыш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">ыдыралтыш</st>
+      </stg>
+
+      <stress>ыдыра•лтыш</stress>
+    </lg>
+
+    <mg>
+      <defNative>Sav (устар.) черта, чёрточка; царапина (1981:220)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">viiva</t>
+
+        <t pos="N">viiru</t>
+
+        <t pos="N">naarmu</t>
       </tg>
     </mg>
   </e>
@@ -224908,10 +225070,37 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>(синон.фр.) ыдыркален шӹнзӹмӓш</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">raaputtaminen</t>
+
+        <t pos="N">raaputtelu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">ыдыркалымаш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">ыдыркалымаш</st>
+      </stg>
+
+      <stress>ыдырка•лымаш</stress>
+    </lg>
+
+    <mg>
+      <defNative>Сав: тянуться к чему-л; стараться достать. Vrt (JK):
+      (синон.фр.) ыдыркален кузымаш</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">pyrkiminen</t>
+
+        <t pos="N">tavoittelu</t>
+
+        <t pos="N">pyrkimys</t>
       </tg>
     </mg>
   </e>
@@ -224928,11 +225117,19 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>чесотка</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">syyhytauti</t>
+
+        <t pos="N">syyhy</t>
       </tg>
+
+      <xg>
+        <x>ыдыртыш нӓлӹн (1981:220)</x>
+
+        <xt>syyhytauti on levinnyt</xt>
+      </xg>
     </mg>
   </e>
 
@@ -224948,10 +225145,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>дурман-трава (лат. Datúra)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">hulluruoho</t>
+
+        <t pos="N">piikkiomena</t>
       </tg>
     </mg>
   </e>
@@ -224971,7 +225170,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">raapiminen</t>
       </tg>
     </mg>
   </e>
@@ -224981,17 +225180,20 @@
       <l pos="N">ыдыш</l>
 
       <stg>
-        <st Contlex="N_КОЛ">ыдыш</st>
+        <st Contlex="N_КОЛ_SUB">ыдыш</st>
+
+        <st Contlex="N_КОЛ">кыдыш</st>
       </stg>
 
       <stress>ы•дыш</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: (Отар говор) звено изгороди от столба до
+      столба</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <td pos="N">aitausväli tolpasta tolppaan</td>
       </tg>
     </mg>
   </e>
@@ -225008,30 +225210,55 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav uke. JK (mitata aitausvälit)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <td pos="N">laittaa tai mitata aitausvälit</td>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="N">ыжарвирык</l>
+      <l pos="N">ыжарвирӹк</l>
 
       <stg>
-        <st Contlex="N_КОЛ">ыжарвирык</st>
+        <st Contlex="N_КОЛ">ыжарвирӹк</st>
       </stg>
 
-      <stress>ыжа•рвирык</stress>
+      <stress>ыжа•рвирӹк</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Вас (кек). Сав уке. JK: korjaus - v-h.epäsäännönm.(вирык)
+      10-S: зеленушка; птица семейства вьюрковых. Ср.mhr:
+      вжиккайык.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">viherpeippo</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">ыжарвонгы</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">ыжарвонгы</st>
+      </stg>
+
+      <stress>ыжа•рвонгы</stress>
+    </lg>
+
+    <mg>
+      <defNative>Вас уке. Сав: сыроежка зеленая (лат. Tricholoma equestre)
+      </defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">keltavalmuska</t>
+
+        <t pos="N">kangaskeltavalmuska</t>
       </tg>
     </mg>
   </e>
@@ -225051,7 +225278,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vihertäminen</t>
+
+        <t pos="N">vihertyminen</t>
+
+        <t pos="N">viheröinti</t>
       </tg>
     </mg>
   </e>
@@ -225071,7 +225302,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vihertyminen</t>
+
+        <t pos="N">viheröinti</t>
+
+        <td>vihreäksi värjääminen</td>
       </tg>
     </mg>
   </e>
@@ -225088,10 +225323,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: жбан</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lekkeri</t>
       </tg>
     </mg>
   </e>
@@ -225130,10 +225365,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: сживать кого-л; спроваживать</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">karkottaminen</t>
+
+        <t pos="N">karkotus</t>
+
+        <t pos="N">häätö</t>
       </tg>
     </mg>
   </e>
@@ -225150,10 +225389,33 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: пӧрт ыжогол завалинка вокруг дома (SB ыжохол
+      ыжолоп</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">multapenkki</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">ыжышарык</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">ыжышарык</st>
+      </stg>
+
+      <stress>ыжы•шарык</stress>
+    </lg>
+
+    <mg>
+      <defNative>Сав: овца курдючной породы (1981:221) WIKI: курдюк овца
+      "Эдильбаевской" породы (engl. Fat tail, turkk. kuyruk -
+      häntä)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">kuyruk-lammas</t>
       </tg>
     </mg>
   </e>
@@ -225193,7 +225455,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">olemassaolemattomuus</t>
+
+        <t pos="N">olemattomuus</t>
+
+        <t pos="N">mahdottomuus</t>
       </tg>
     </mg>
   </e>
@@ -225213,7 +225479,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">oleminen</t>
+
+        <t pos="N">olemassaolo</t>
       </tg>
     </mg>
   </e>
