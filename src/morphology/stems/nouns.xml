@@ -54526,7 +54526,7 @@
       вазам</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"> </t>
+        <t pos="N"/>
       </tg>
 
       <tg xml:lang="rus">
@@ -224832,6 +224832,30 @@
 
   <e>
     <lg>
+      <l pos="N">щетка</l>
+
+      <stg>
+        <st Contlex="N_КАРТА">щетка</st>
+      </stg>
+
+      <stress>щё•тка</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK [šotka]</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">harja</t>
+
+        <t pos="N">lattiaharja</t>
+
+        <t pos="N">hammasharja</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">щит</l>
 
       <stg>
@@ -224845,7 +224869,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kilpi</t>
       </tg>
     </mg>
   </e>
@@ -224865,7 +224889,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lonkerot</t>
+
+        <t pos="N">tuntosarvet</t>
       </tg>
     </mg>
   </e>
@@ -224927,7 +224953,7 @@
       <xg>
         <x>кок кидӓ ыдылмыла (JK: vashtash!)</x>
 
-        <xt>(kuv.) </xt>
+        <xt>(kuv.)</xt>
 
         <xt>щедро благодарить</xt>
       </xg>
@@ -225252,8 +225278,8 @@
     </lg>
 
     <mg>
-      <defNative>Вас уке. Сав: сыроежка зеленая (лат. Tricholoma equestre)
-      </defNative>
+      <defNative>Вас уке. Сав: сыроежка зеленая (лат. Tricholoma
+      equestre)</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">keltavalmuska</t>
@@ -225435,7 +225461,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">hävittäminen</t>
+
+        <t pos="N">sorkiminen</t>
       </tg>
     </mg>
   </e>
@@ -225518,10 +225546,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>myös ымбал_A kaukainen (Sav:378)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kaukaisuus</t>
+
+        <t pos="N">etäisyys</t>
+
+        <t pos="N">taus</t>
       </tg>
     </mg>
   </e>
@@ -225541,7 +225573,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">humala</t>
       </tg>
     </mg>
   </e>
@@ -225558,10 +225590,23 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>(vanh.) 1) удобство удобный случай 2) удобное место 3) myös
+      _A mielenkiintoisesti _ADV (Sav:379) </defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">mukavuus</t>
+
+        <t pos="N">mukavuusalue</t>
+
+        <td>sopiva paikka</td>
+
+        <td>sopiva sauma</td>
+
+        <tCtn>
+          <t>ынгайым вычем (Сав:379)</t>
+
+          <re>odotan sopivaa hetkeä</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -225581,7 +225626,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">viritettämättömyys</t>
       </tg>
     </mg>
   </e>
@@ -225601,7 +225646,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">viritettävyys</t>
       </tg>
     </mg>
   </e>
@@ -225618,10 +225663,16 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>звучание, настрой муз.инструмента</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sointu</t>
+
+        <t pos="N">asetus</t>
+
+        <t pos="N">viritys</t>
+
+        <t pos="N">yllytys</t>
       </tg>
     </mg>
   </e>
@@ -225641,7 +225692,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">virittäminen</t>
+
+        <t pos="N">viritys</t>
       </tg>
     </mg>
   </e>
@@ -225658,10 +225711,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>жало насекомого (Сав:379) JK: kts myös</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">hyönteispiikki</t>
       </tg>
     </mg>
   </e>
@@ -225681,7 +225734,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">selittämättömyys</t>
       </tg>
     </mg>
   </e>
@@ -225701,7 +225754,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">selittäminen</t>
+
+        <t pos="N">selitys</t>
       </tg>
     </mg>
   </e>
@@ -225718,10 +225773,16 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>непонимание нелепость бессмыслица</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ymmärtämättömyys</t>
+
+        <t pos="N">käsittämättömyys</t>
+
+        <t pos="N">järjettömyys</t>
+
+        <t pos="N">mielettömyys</t>
       </tg>
     </mg>
   </e>
@@ -225741,7 +225802,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ymmärtäminen</t>
+
+        <t pos="N">ymmärrys</t>
+
+        <t pos="N">käsitys</t>
       </tg>
     </mg>
   </e>
@@ -225758,10 +225823,20 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>(synon) кутас (rus, murt.) JK: _u tamburiini</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">helistin</t>
+
+        <t pos="N">kilistin</t>
+
+        <t pos="N">kulkunen</t>
+
+        <tCtn>
+          <t>онгырым ышкал шӱэш сӓкӹмӹ (Сав:379)</t>
+
+          <re>lehmän kaulaan on ripustettu kilistin</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -225781,7 +225856,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">virittäminen</t>
+
+        <t pos="N">yllyttäminen</t>
+
+        <t pos="N">kehotus</t>
       </tg>
     </mg>
   </e>
@@ -225798,10 +225877,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>zool. бобр Castor fiber</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">majava</t>
       </tg>
     </mg>
   </e>
@@ -225818,10 +225897,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>жадничать соперничать</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ahnehdintä</t>
+
+        <t pos="N">kilvoittely</t>
       </tg>
     </mg>
   </e>
@@ -225841,7 +225922,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lapsenlapsi</t>
       </tg>
     </mg>
   </e>
@@ -225858,10 +225939,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>(vanh.) kopeekka</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kopeekka</t>
+
+        <t pos="N">kourallinen</t>
+
+        <t pos="N">pivo</t>
       </tg>
     </mg>
   </e>
@@ -225901,7 +225986,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">reikä</t>
       </tg>
     </mg>
   </e>
@@ -225921,7 +226006,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">reikiinnyttäminen</t>
       </tg>
     </mg>
   </e>
@@ -225941,7 +226026,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">reikiintyminen</t>
+
+        <t pos="N">falskaaminen</t>
       </tg>
     </mg>
   </e>
@@ -225961,7 +226048,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">reikiintyminen</t>
+
+        <t pos="N">puhki-kuluminen</t>
       </tg>
     </mg>
   </e>
@@ -225981,7 +226070,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">rejittäminen</t>
       </tg>
     </mg>
   </e>
@@ -226018,10 +226107,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>брага</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kilju</t>
+
+        <td>kotitekoisen viinan aines</td>
       </tg>
     </mg>
   </e>
@@ -226041,47 +226132,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
-      </tg>
-    </mg>
-  </e>
+        <t pos="N">alustus</t>
 
-  <e>
-    <lg>
-      <l pos="N">ырвалтарымаш</l>
-
-      <stg>
-        <st Contlex="N_КОЛ">ырвалтарымаш</st>
-      </stg>
-
-      <stress>ырвалта•рымаш</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">ырвалтмаш</l>
-
-      <stg>
-        <st Contlex="N_КОЛ">ырвалтмаш</st>
-      </stg>
-
-      <stress>ырва•лтмаш</stress>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf>taikinan alustaminen</tf>
       </tg>
     </mg>
   </e>
@@ -226101,7 +226154,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ommeltavana oleminen</t>
       </tg>
     </mg>
   </e>
@@ -226121,7 +226174,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pikaompelu</t>
+
+        <t pos="N">pikaommel</t>
       </tg>
     </mg>
   </e>
@@ -226141,7 +226196,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">rätäli</t>
+
+        <t pos="N">ompelija</t>
       </tg>
     </mg>
   </e>
@@ -226161,7 +226218,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ompelu</t>
+
+        <t pos="N">ompeleminen</t>
       </tg>
     </mg>
   </e>
@@ -226181,7 +226240,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ommel</t>
       </tg>
     </mg>
   </e>
@@ -226201,7 +226260,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">riisua virsut jalastaan</tf>
       </tg>
     </mg>
   </e>
@@ -226221,7 +226280,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">virsujen riisuminen jalasta</tf>
       </tg>
     </mg>
   </e>
@@ -226238,10 +226297,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>kouralla ottaminen (:381)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">ottaminen kouraan</tf>
       </tg>
     </mg>
   </e>
@@ -226261,7 +226320,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ruis-</t>
       </tg>
     </mg>
   </e>
@@ -226281,7 +226340,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ruispelto</t>
       </tg>
     </mg>
   </e>
@@ -226301,7 +226360,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">murina</t>
+
+        <t pos="N">muriseminen</t>
+
+        <t pos="N">äriseminen</t>
       </tg>
     </mg>
   </e>
@@ -226318,10 +226381,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>3) kuumassa tuhkassa kypsentäminen (Sav.)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">mullaaminen</t>
+
+        <t pos="N">kuumassa tuhkassa kypsentäminen</t>
       </tg>
     </mg>
   </e>
@@ -226341,7 +226406,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pelastus</t>
+
+        <t pos="N">pelastuminen</t>
       </tg>
     </mg>
   </e>
@@ -226398,10 +226465,13 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>спасение освобождение избавление, разминание
+      (тывылаш)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pelastus</t>
+
+        <t pos="N">vapautus</t>
       </tg>
     </mg>
   </e>
@@ -226421,7 +226491,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pelastautuminen</t>
       </tg>
     </mg>
   </e>
@@ -226441,7 +226511,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vapautus</t>
+
+        <t pos="N">pelastautuminen</t>
+
+        <t pos="N">irtautuminen</t>
+
+        <t pos="N">välttely</t>
       </tg>
     </mg>
   </e>
@@ -226461,7 +226537,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ärsyttäminen</t>
+
+        <t pos="N">yllyttäminen</t>
+
+        <t pos="N">usuttaminen</t>
       </tg>
     </mg>
   </e>
@@ -226478,10 +226558,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav uke.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">yllytys</t>
       </tg>
     </mg>
   </e>
@@ -226589,7 +226669,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">saattaminen järkiinsä</t>
       </tg>
     </mg>
   </e>
@@ -226609,7 +226689,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">viisastuminen</t>
       </tg>
     </mg>
   </e>
@@ -226626,10 +226706,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Килемар Тойсола говор (Сав:382) вспоминать</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">muistaminen</t>
+
+        <t pos="N">muistelu</t>
+
+        <t pos="N">mieleenpalautus</t>
       </tg>
     </mg>
   </e>
@@ -226649,7 +226733,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lehmä</t>
       </tg>
     </mg>
   </e>
@@ -226666,10 +226750,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>тёлка (Сав:382) JK: vrt туна. Ышкалаш презӹ</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">hieho</t>
+
+        <t pos="N">lehmävasikka</t>
       </tg>
     </mg>
   </e>
@@ -226708,10 +226794,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>полость рта, (перен.) приют тепло</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">suuontelo</t>
+
+        <t pos="N">turvapaikka</t>
       </tg>
     </mg>
   </e>
@@ -226728,10 +226816,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>нёбо (Сав.)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kitalaki</t>
       </tg>
     </mg>
   </e>
@@ -226748,10 +226836,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>нёбо (Сав.)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kitalaki</t>
       </tg>
     </mg>
   </e>
@@ -226768,10 +226856,20 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>(перен.) плакса крикун болтун</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">suu</t>
+
+        <t pos="N">itkupilli (kuv.)</t>
+
+        <t pos="N">suupaltti (kuv.)</t>
+
+        <tCtn>
+          <t>кого ышмараж (2008:382)</t>
+
+          <re>suunpieksijä lörpöttelijä</re>
+        </tCtn>
       </tg>
     </mg>
   </e>

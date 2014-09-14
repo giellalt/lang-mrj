@@ -76839,10 +76839,13 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>спасать освобождать избавлять, унимать (myös тывылаш) erottaa
+      toisistaan saada lapset asettumaan</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">pelastaa</t>
+
+        <t pos="V">vapauttaa</t>
       </tg>
     </mg>
   </e>
@@ -76909,7 +76912,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>натравливать кого-л на кого, задорить кого-л.</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">usuttaa</t>
@@ -76943,6 +76946,28 @@
 
   <e>
     <lg>
+      <l pos="V">ышангдаш</l>
+
+      <stg>
+        <st Contlex="V_ЕМ">ышангды</st>
+      </stg>
+
+      <stress>ыша•нгдаш</stress>
+    </lg>
+
+    <mg>
+      <defNative>синон: ышангдараш - образумить делать умным</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="V">järkiinnyttää</t>
+
+        <t pos="V">saattaa järkiinsä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V">ышештӓрӓш</l>
 
       <stg>
@@ -76953,7 +76978,8 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Килемар Тойсола говор (Сав:382) вспоминать вспомнить - JK
+      palauttaa mieleen</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">muistella</t>
