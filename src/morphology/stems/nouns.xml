@@ -1255,13 +1255,15 @@
 
       <stg>
         <st Contlex="N_КОЛ">ад</st>
+
+        <st Contlex="N_КОЛ">кишпад</st>
       </stg>
 
       <stress>ад</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>kts кишпад</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">helvetti</t>
@@ -47526,13 +47528,15 @@
 
       <stg>
         <st Contlex="N_КОЛ_SUB">кайзет</st>
+
+        <st Contlex="N_КАРТА">газета</st>
       </stg>
 
       <stress>ка•йзет</stress>
     </lg>
 
     <mg>
-      <defNative>Васикова: газета</defNative>
+      <defNative>Васикова: газета (JK: _SUB газет )</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">sanomalehti</t>
@@ -88504,7 +88508,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>залив kts myös тангыжъял</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">liete</t>
