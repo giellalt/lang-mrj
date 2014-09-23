@@ -57,6 +57,7 @@ LEXICON nouns
 агроном:агроном N_КОЛ  "agronomi" ;
 агротехника:агротехника N_КАРТА  "maanviljelystekniikka" ;
 ад:ад N_КОЛ  "helvetti" ;
+ад:кишпад N_КОЛ  "helvetti" ;
 адаптаци:адаптаци N_ОЛМА  "sopeutuminen" ;
 адаха:адаха N_ОЛМА  "pyrkimys" ;
 адахаэмдӹмӓш:адахаэмдӹмӓш N_КОЛ_SUB  "liikkeellepano" ;
@@ -2155,6 +2156,7 @@ LEXICON nouns
 казыртымаш:казыртымаш N_КОЛ  "karheuttaminen" ;
 кайдымаш:кайдымаш N_КОЛ  "näkymättömyys" ;
 кайзет:кайзет N_КОЛ_SUB  "sanomalehti" ;
+кайзет:газета N_КАРТА  "sanomalehti" ;
 кайзыдымаш:кайзыдымаш N_КОЛ  "näyttäytymättömyys" ;
 кайзыктымаш:кайзыктымаш N_КОЛ  "näyttämättömyys" ;
 кайзымаш:кайзымаш N_КОЛ  "näkyminen" ;
