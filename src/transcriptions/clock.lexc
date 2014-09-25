@@ -16,6 +16,98 @@
 ! The Hill Mari clock !
 ! ==================== !
 
+!VUORIMARINKIELISET MUODOT seuraaville kellonajoille esimerkiksi:
+!
+!A.STRINGS TO NUMERALS
+!
+!10:30
+!лу да пелӹ
+!лу цӓш дӓ пелӹ
+!
+!05:30
+!вӹзӹт дӓ пелӹ
+!вӹц цӓш дӓ пелӹ
+!
+!11:00
+!луатиктӹ
+!лиатик цӓш
+!
+!08:00
+!кӓндӓкшӹ
+!кӓндӓкш цӓш
+!
+!B. NUMERALS TO STRINGS:
+!
+!= Easy level
+!
+!NB! Kun en löytänyt oikeinkirjoitus-sääntöä näille, siksi kirjoitan
+!arvioitavan muodon varsinkin puoli* kohdalla, esim "puoli kaksi" (иктӹ
+!дӓ пелӹ), "puoli seitsemän" (кудыт да пелӹ) jne - vuorimarin
+!vokaaliharmonia vaikuttaa ainakin ääntämisessä - tuleeko [da] vai
+![dä]...
+!
+!02:30 кокты да пелӹ (vaihtoehtona voi olla myös: кок цӓш дӓ пелӹ)
+!03:30 кымыт да пелӹ (vaihtoehtona voi olla myös: кым цӓш дӓ пелӹ)
+!05:30 вӹзӹт дӓ пелӹ (vaihtoehtona voi olla myös: вӹц цӓш дӓ пелӹ)
+!09:30 ӹндекшӹ дӓ пелӹ (vaihtoehtona voi olla myös: ӹндекш цӓш дӓ пелӹ)
+!
+!= Medium
+!
+!09:45 variations:
+!ӹндекшӹ дӓ нӹллӹ вӹзӹт
+!ӹндекш цӓш дӓ нӹллӹ вӹц минут
+!луатвӹц минутде лу
+!луатвӹц минутде лу цӓш
+!
+!16:45
+!нӹл цӓш дӓ нӹллӹ вӹц минут - tämä on muuten ihan
+!oikeassa paikassa, ykkösvaihtoehtona.
+!нӹл цӓш дӓ нӹллӹ вӹзӹт
+!луатвӹц минутде вӹзӹт
+!луатвӹц минутде вӹц цӓш
+!
+!13:15
+!(*poikkeustapaus luvulle "15" sillä on perusmuodossakin kaksi
+!sanavartalo-vaihtoehtoa: луатвӹц (lyhyt muoto joka on attribuuttina),
+!луатвӹзӹт (pitkä muoto), луцкы (käy molemmissa tapauksissa: луцкы "15"
+!tai луцкы книгӓ "viisitoista kirjaa; tai noin 15 kirjaa").
+!**луцкы ei käytetä "vartti vaille"-tapauksissa
+!
+!eli 13:15
+!иктӹ дӓ луатвӹзӹт
+!ик цӓш дӓ луатвӹц минут
+!ик цӓш дӓ луцкы
+!луатвӹц минут иктӹм эртен
+!
+!= Hard level
+!
+!12:23
+!луаткокты да коклы кымыт
+!
+!00:33
+!кымлы кым минут йыдпелӹм эртен
+!(vaihtoehto: йыдпел эртен кымлы кым минут < eli sana-sanalta
+!käännettynä "keskiyö ohitti 33 minuuttia", oikeastaan tämä olisi
+!melkeinpä ykkösvaihtoehtona.)
+!
+!
+!08:58
+!кок минутде ӹндекшӹ
+!кӓндӓкшӹ дӓ вӹцлӹ кӓндӓкшӹ
+!
+!18:09
+!куд цӓш дӓ ӹндекш минут
+!ӹндекш минут кудытым эртен
+!(vuorimarissa on 12 tunnin laskenta, ei sanota "kahdeksantoista nolla yhdeksän")
+!
+!15:32
+!кым цӓш дӓ кымлы кок минут
+!кымыт да кымлы кокты
+!(sama juttu: ei ole "viisitoista kolmekymmentä kaksi" eikä koskaan ole
+!sanomista virolaisittain "kaks minutit mööda pool neli."
+!
+
+
 ! Note! This is NOT checked with native speakers nor
 ! textbooks, just based upon guessing from a dictionary.
 
