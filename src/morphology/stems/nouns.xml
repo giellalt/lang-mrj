@@ -69460,7 +69460,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: neologismi - тӹвӹрӓ</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">kulttuuri</t>
@@ -185414,6 +185414,29 @@
 
   <e>
     <lg>
+      <l pos="N">тӹвӹрӓ</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">тӹвӹрӓ</st>
+      </stg>
+
+      <stress>тӹвӹ•рӓ</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK: neologismi - тӹвӹрӓ (Васикован орфогр: культура
+      веле!)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">kulttuuri</t>
+
+        <t pos="N">sivistys</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">тӹвӹр-давыр</l>
 
       <stg>
@@ -232909,8 +232932,6 @@
         <t pos="N">teatteriparvi</t>
 
         <t pos="N">parveke</t>
-
-        <t pos="N">kerros (geol.)</t>
       </tg>
 
       <xg>
@@ -232918,6 +232939,16 @@
 
         <xt>moniparveinen katsomo</xt>
       </xg>
+    </mg>
+
+    <mg>
+      <field fieldType="GEOL"/>
+
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">kerros</t>
+      </tg>
 
       <xg>
         <x>Тадар свитӹм шӹрерӓкӹнок „пестрый мергельвлӓн ярусеш“ лӹмдӓт
