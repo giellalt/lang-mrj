@@ -81786,10 +81786,12 @@
       <m>
         <head/>
 
-        <defNative>синоним: ӹлятӓш</defNative>
+        <defNative>синоним: ӹлятӓш (ӹлятӹмӓш Sav uke)</defNative>
       </m>
 
       <tg xml:lang="fin">
+        <t pos="V">elvyttää</t>
+
         <tf pos="V">herättää eloon</tf>
       </tg>
     </mg>
@@ -81810,7 +81812,7 @@
       <m>
         <head/>
 
-        <defNative>сӓндӓлӹк ӹлянӹмӹ годшен</defNative>
+        <defNative>Sav: зарождаться возникать</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -81818,6 +81820,14 @@
 
         <t pos="V">herätä</t>
       </tg>
+
+      <xg>
+        <x>сӓндӓлӹк ӹлянӹмӹ годшен (2008:386)</x>
+
+        <xt>Maan päällisen elämän synnystä asti</xt>
+
+        <xt>со времен возникновения жизни на земле</xt>
+      </xg>
     </mg>
   </e>
 
@@ -81853,7 +81863,9 @@
 
         <t pos="V">voida</t>
 
-        <tf pos="V">olla elossa; olla olemassa</tf>
+        <tf pos="V">olla elossa</tf>
+
+        <tf pos="V">olla olemassa</tf>
 
         <td pos="V">ilmaisee tekemisen kestävyyttä: шанен ӹлӓш; вычен
         ӹлӓш</td>
@@ -81908,7 +81920,9 @@
 
         <t pos="V">elvyttää</t>
 
-        <td pos="V">sytyttää tulta; aloittaa sotaa</td>
+        <tf pos="V">aloittaa sotaa</tf>
+
+        <tf pos="V">sytyttää tulta</tf>
       </tg>
     </mg>
   </e>
@@ -82106,13 +82120,17 @@
       <m>
         <head/>
 
-        <defNative>ышкална ӹнгӹрӓльӹ</defNative>
+        <defNative>Sav: ышкална ӹнгӹрӓльӹ JK: vaikertaa vaikerrys</defNative>
       </m>
 
       <tg xml:lang="fin">
         <t pos="V">ammua</t>
 
         <t pos="V">mökelellä</t>
+
+        <t pos="V">vaikertaa</t>
+
+        <t pos="V">valittaa</t>
       </tg>
     </mg>
   </e>
@@ -82136,7 +82154,13 @@
 
         <t pos="V">mölistä</t>
 
+        <t pos="V">vaikeroida</t>
+
+        <t pos="V">valittaa</t>
+
         <td pos="V">ammua kovasti</td>
+
+        <tf pos="V">valittaa kipua</tf>
       </tg>
     </mg>
   </e>
@@ -82162,7 +82186,9 @@
       <tg xml:lang="fin">
         <t pos="V">vakuuttaa</t>
 
-        <tf pos="V">antaa toiveita; saada uskomaan</tf>
+        <tf pos="V">antaa toiveita</tf>
+
+        <tf pos="V">saada uskomaan</tf>
       </tg>
     </mg>
   </e>
@@ -82406,7 +82432,9 @@
       <tg xml:lang="fin">
         <t pos="V">tärisyttää</t>
 
-        <tf pos="V">pudistaa kerran; ravistaa kerran</tf>
+        <tf pos="V">pudistaa kerran</tf>
+
+        <tf pos="V">ravistaa kerran</tf>
       </tg>
     </mg>
   </e>
