@@ -82620,8 +82620,11 @@
       <tg xml:lang="fin">
         <t pos="V">tuulahtaa</t>
 
-        <tf pos="V">puhaltaa kerran; puhaltaa sammuksiin; sammuttaa
-        puhaltamalla</tf>
+        <tf pos="V">puhaltaa kerran</tf>
+
+        <tf pos="V">puhaltaa sammuksiin</tf>
+
+        <tf pos="V">sammuttaa puhaltamalla</tf>
       </tg>
 
       <xg>
@@ -82692,9 +82695,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="V">hän ei -nUt</t>
+        <tf pos="V">hän ei -nUt</tf>
 
-        <t pos="V">he eivät -nUt</t>
+        <tf pos="V">he eivät -nUt</tf>
       </tg>
     </mg>
   </e>
@@ -82718,7 +82721,9 @@
 
         <t pos="V">muodostua</t>
 
-        <tf pos="V">olla tekeillä; olla rakenteilla</tf>
+        <tf pos="V">olla tekeillä</tf>
+
+        <tf pos="V">olla rakenteilla</tf>
 
         <td pos="V">ilmaisee imperson.tek.: esim. tehdäänkö näin - тидӹ тенге
         ӹштӓлтеш?</td>
