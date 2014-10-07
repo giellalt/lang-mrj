@@ -46576,9 +46576,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N">kireäksi muuttuminen</t>
+        <tf pos="N">kireäksi muuttuminen</tf>
 
-        <t pos="N">joustavaksi muuttuminen</t>
+        <tf pos="N">joustavaksi muuttuminen</tf>
       </tg>
     </mg>
   </e>
@@ -210727,7 +210727,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">jakautuminen</t>
+
+        <t pos="N">jakaantuminen</t>
       </tg>
     </mg>
   </e>
@@ -210747,7 +210749,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lihotuttaminen</t>
       </tg>
     </mg>
   </e>
@@ -210764,10 +210766,18 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>rasvan kerääntyminen eläimillä</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lihominen</t>
+
+        <td pos="N">rasvan kerääntyminen eläimillä</td>
+
+        <tCtn>
+          <t>lihominen</t>
+
+          <re>eläinten</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -210784,10 +210794,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: трещина скважина щель</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">halkeama</t>
+
+        <t pos="N">rako</t>
+
+        <t pos="N">kolo</t>
       </tg>
     </mg>
   </e>
@@ -210804,10 +210818,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>puiden pilkoaminen</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <td pos="N">puiden pilkoaminen</td>
       </tg>
     </mg>
   </e>
@@ -210827,7 +210841,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <td pos="N">hieman puiden pilkoaminen</td>
+
+        <td pos="N">vähän aikaa puiden pilkoaminen</td>
       </tg>
     </mg>
   </e>
@@ -210844,7 +210860,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав уке!</defNative>
 
       <tg xml:lang="fin">
         <t pos="N"/>
@@ -210864,10 +210880,11 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>вилы (черенок вил - шеньӹк вурды) (VA) N_u:
+      haarukka</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">talikko</t>
       </tg>
     </mg>
   </e>
@@ -210884,10 +210901,33 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: kaulakoru kts myös шершӱӓш ( Сав: бусы бисер (нанизывать
+      на нитку бисер - шерӹм чиктӓш)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lasihelmi</t>
+
+        <t pos="N">helmet</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">шер</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">шер</st>
+      </stg>
+
+      <stress>шер</stress>
+    </lg>
+
+    <mg>
+      <defNative>косточки (счетов)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">helmitaulu</t>
       </tg>
     </mg>
   </e>
@@ -210904,10 +210944,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>(зоол.) Сав: шилохвост</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">jouhisorsa</t>
       </tg>
     </mg>
   </e>
@@ -210927,7 +210967,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kampa</t>
+
+        <t pos="N">kukonharja</t>
       </tg>
     </mg>
   </e>
@@ -210944,10 +210986,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>kalliimmaksi tulo</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kalliistuminen</t>
+
+        <tf pos="N">kalliimmaksi tulo</tf>
+
+        <td>kalliimmaksi tulo</td>
       </tg>
     </mg>
   </e>
@@ -210964,10 +211010,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>kalliimmaksi tekeminen</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kalliistuminen</t>
+
+        <tf pos="N">kalliimmaksi tekeminen</tf>
       </tg>
     </mg>
   </e>
@@ -210984,10 +211032,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>leipä happamattomasta taikinasta</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">leipä</t>
+
+        <td>leipä happamattomasta taikinasta</td>
       </tg>
     </mg>
   </e>
