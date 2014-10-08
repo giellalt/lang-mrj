@@ -211057,7 +211057,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">paririvi</t>
+
+        <t pos="N">jono</t>
       </tg>
     </mg>
   </e>
@@ -211077,7 +211079,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kampaaminen</t>
       </tg>
     </mg>
   </e>
@@ -211094,11 +211096,19 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: счеты канцелярские ( считать на счетах )</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">helmitaulu</t>
+
+        <t pos="N">laskulauta</t>
       </tg>
+
+      <xg>
+        <x>шершот доно шотлаш</x>
+
+        <xt>laskea helmitaululla</xt>
+      </xg>
     </mg>
   </e>
 
@@ -211117,7 +211127,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <tf pos="N">antaminen ikkunoiden hiota</tf>
       </tg>
     </mg>
   </e>
@@ -211137,7 +211147,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">hikoaminen</t>
+
+        <tCtn>
+          <t>hikoaminen</t>
+
+          <re>ikkunoiden</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -211157,7 +211173,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kaulakoru</t>
       </tg>
     </mg>
   </e>
@@ -211177,7 +211193,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">esimies</t>
+
+        <t pos="N">johtaja</t>
+
+        <t pos="N">kunniapäällikkö</t>
       </tg>
     </mg>
   </e>
@@ -211194,10 +211214,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>(vanh.) сборщик податей счетчик</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">laskija</t>
       </tg>
     </mg>
   </e>
@@ -211214,10 +211234,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>(Sav: myös жена младшего брата)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">miniä</t>
       </tg>
     </mg>
   </e>
@@ -211237,7 +211257,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">hopea</t>
       </tg>
     </mg>
   </e>
@@ -211254,10 +211274,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>(zool.) сом</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">monni</t>
       </tg>
     </mg>
   </e>
@@ -211268,16 +211288,68 @@
 
       <stg>
         <st Contlex="N_ОЛМА">шигӓ</st>
+
+        <st Contlex="N_ОЛМА">шишигӓ</st>
       </stg>
 
       <stress>ши•гӓ</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: (mytol.) myös synon. шишигӓ - леший (перен.) неряха
+      простофиля</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">metsähiisi</t>
+
+        <t pos="N">metsänhaltija</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">шигӓ</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">шигӓ</st>
+
+        <st Contlex="N_ОЛМА">шишигӓ</st>
+      </stg>
+
+      <stress>ши•гӓ</stress>
+    </lg>
+
+    <mg>
+      <defNative>Sav: myös (перен.) неряха простофиля</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">tomppeli</t>
+
+        <t pos="N">tollo</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">шигӓ</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">шигӓ</st>
+
+        <st Contlex="N_ОЛМА">шишигӓ</st>
+      </stg>
+
+      <stress>ши•гӓ</stress>
+    </lg>
+
+    <mg>
+      <defNative>Sav: homonyymi myös (rus) шпоры петуха -
+      kukonjalanpiikki</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">kukonkannus</t>
       </tg>
     </mg>
   </e>
@@ -211294,10 +211366,18 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>(vanh.) Сав: случай обстоятельство</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tilanne</t>
+
+        <t pos="N">olot</t>
+
+        <t pos="N">asianhaara</t>
+
+        <t pos="N">seikka</t>
+
+        <t pos="N">tapaus</t>
       </tg>
     </mg>
   </e>
@@ -211314,10 +211394,31 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: johdos verbistä шидӓш - высекать огонь (ӓпшӓт оксам шидӓ
+      - seppä työstää kolikkoa)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">työstäminen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">шидӹмӓш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">шидӹмӓш</st>
+      </stg>
+
+      <stress>ши•дӹмӓш</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK: johdos verbistä шиӓш - lyödä mukiloida</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">lyömättömyys</t>
       </tg>
     </mg>
   </e>
@@ -211334,10 +211435,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: johdos verbistä шижӓш - tuntea aistia</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">aistimattomuus</t>
+
+        <t pos="N">tunnistamattomuus</t>
       </tg>
     </mg>
   </e>
@@ -211354,10 +211457,31 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>1)herääminen; aisti aistiminen tunne tunteminen 2)herkkyys ;
+      3)oivaltaminen hoksaaminen älyäminen; aavistus ennakointi</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">herääminen</t>
+
+        <t pos="N">aisti</t>
+
+        <t pos="N">aistiminen</t>
+
+        <t pos="N">tunne</t>
+
+        <t pos="N">tunteminen</t>
+
+        <t pos="N">herkkyys</t>
+
+        <t pos="N">oivaltaminen</t>
+
+        <t pos="N">hoksaaminen</t>
+
+        <t pos="N">älyäminen</t>
+
+        <t pos="N">aavistus</t>
+
+        <t pos="N">ennakointi</t>
       </tg>
     </mg>
   </e>
@@ -211374,10 +211498,26 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: предостерегать предупреждать о чем-л, давать знать,
+      намекать, пробуждать; приводить в чувство (шижтӓрӹмӹ мыры - призывная
+      песня)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">herättely</t>
+
+        <t pos="N">havahduttaminen</t>
+
+        <t pos="N">herättäminen</t>
+
+        <t pos="N">varoittaminen</t>
+
+        <t pos="N">ennakkovaroitus</t>
+
+        <t pos="N">vihjaaminen</t>
+
+        <t pos="N">vihje</t>
+
+        <t pos="N">viittaus</t>
       </tg>
     </mg>
   </e>
@@ -211397,7 +211537,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tuntuminen</t>
       </tg>
     </mg>
   </e>
@@ -211414,10 +211554,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>(vanh.) чувство ощущение</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tunne</t>
+
+        <t pos="N">aistimus</t>
       </tg>
     </mg>
   </e>
@@ -211434,10 +211576,16 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>pelttiviikatteen terän teroittaminen tai taonta nakuttamalla
+      (TR: suomalaisen viikatteen kohdalla voi olla kallitseminen (terän
+      parantaminen)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">teroittaminen</t>
+
+        <td>pelttiviikatteen terän teroittaminen tai taonta nakuttamalla</td>
+
+        <td>myös käsky lyödä jtkuta - lyötätti jotakuta</td>
       </tg>
     </mg>
   </e>
@@ -211454,11 +211602,24 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: место для свадьбы устраиваемое во дворе (2010:345)
+      häävieraiden kestitämispaikka jota järjestetään sisäpihalle</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">häävastaanotto</t>
+
+        <t pos="N">hääkatos</t>
+
+        <t pos="N">rakennelma</t>
+
+        <td>häävieraiden kestitämispaikka jota järjestetään sisäpihalle</td>
       </tg>
+
+      <xg>
+        <x>шилыкым йӓмдӹлӓш</x>
+
+        <xt>säättää häätarjoilupaikkaa</xt>
+      </xg>
     </mg>
   </e>
 
@@ -211477,7 +211638,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">maalailu</t>
+
+        <td>mustalla väriaineella mustaaminen</td>
       </tg>
     </mg>
   </e>
@@ -211497,7 +211660,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">mustaaminen</t>
+
+        <t pos="N">tummentaminen</t>
       </tg>
     </mg>
   </e>
@@ -211517,7 +211682,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">mustuminen</t>
+
+        <t pos="N">tummentuminen</t>
+
+        <t pos="N">tummuuminen</t>
       </tg>
     </mg>
   </e>
@@ -211534,10 +211703,15 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: N_SUB ilmaisussa (шимер халык - чернорабочий люд,
+      nykyven: лохи)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">työläiset</t>
+
+        <t pos="N">työväki</t>
+
+        <t pos="N">työmiehet</t>
       </tg>
     </mg>
   </e>
@@ -211557,7 +211731,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">simpanssi</t>
       </tg>
     </mg>
   </e>
@@ -211574,10 +211748,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>(зоол.) горностай</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kärppä</t>
       </tg>
     </mg>
   </e>
@@ -211597,7 +211771,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tummuminen</t>
       </tg>
     </mg>
   </e>
@@ -211617,7 +211791,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lyönti</t>
+
+        <t pos="N">lyöminen</t>
       </tg>
     </mg>
   </e>
