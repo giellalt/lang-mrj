@@ -577,7 +577,7 @@ LEXICON PXSG3-SG-NOM
 +Sg+PxSg3+Nom:%>жЫ2 	   K  ;
 
 LEXICON PXSG3-PL-ABE
-+Pl+PxSg3+Abe:влӓжӹде	   K  ;
++Pl+PxSg3+Abe:%>влӓжӹде	   K  ;
 +PxSg3+Pl+Abe:%>жЫ2%>влӓде   K  ;
 
 LEXICON PXSG3-PL-ACC
@@ -589,8 +589,8 @@ LEXICON PXSG3-PL-COM
 +PxSg3+Pl+Com:%>жЫ2%>влӓге   K  ;
 
 LEXICON PXSG3-PL-COMP
-+Pl+PxSg3+Comp:влӓжӹлӓ	   K  ;
-+Pl+Comp+PxSg3:влӓлӓжӹ	   K  ;
++Pl+PxSg3+Comp:%>влӓжӹлӓ	   K  ;
++Pl+Comp+PxSg3:%>влӓлӓжӹ	   K  ;
 +PxSg3+Pl+Comp:%>жЫ2%>влӓлӓ  K  ;
 
 LEXICON PXSG3-PL-DAT
@@ -611,12 +611,12 @@ LEXICON PXSG3-PL-ILL
 +PxSg3+Pl+Ill:%>жЫ2%>влӓш   K  ;
 
 LEXICON PXSG3-PL-INE
-+Pl+PxSg3+Ine:влӓжӹштӹ	   K  ;
++Pl+PxSg3+Ine:%>влӓжӹштӹ	   K  ;
 +Pl+Ine+PxSg3:%>влӓштӹжӹ    K  ;
 +PxSg3+Pl+Ine:%>жЫ2%>влӓштӹ  K  ;
 
 LEXICON PXSG3-PL-LAT
-+Pl+Lat+PxSg3:влӓэшӹжӹ	   K  ;
++Pl+Lat+PxSg3:%>влӓэшӹжӹ	   K  ;
 +PxSg3+Pl+Lat:%>жЫ2%>влӓэш   K  ;
 
 LEXICON PXSG3-PL-NOM
