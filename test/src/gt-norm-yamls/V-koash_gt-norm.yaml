@@ -100,29 +100,29 @@ Tests:
      коаш+V+ActPrc+Der/шЫ+Sg+Ill+PxSg1: кошышкем
      коаш+V+ActPrc+Der/шЫ+Sg+Lat+PxSg1: кошешем
      коаш+V+ActPrc+Der/шЫ+Sg+Comp+PxSg1: кошылаэм
-     коаш+V+ActPrc+Der/шЫ+Sg+PxSg1+Comp: кошемлӓ ! esim -ok-liitepart.kanssa
+     коаш+V+ActPrc+Der/шЫ+Sg+PxSg1+Comp: кошемлӓ #! esim -ok-liitepart.kanssa
      коаш+V+ActPrc+Der/шЫ+Sg+Abe+PxSg1: кошыдеэм 
-     коаш+V+ActPrc+Der/шЫ+Sg+PxSg1+Abe: кошемде ! harvoin esm.liitepart.yhteyd.
+     коаш+V+ActPrc+Der/шЫ+Sg+PxSg1+Abe: кошемде #! harvoin esm.liitepart.yhteyd.
      
      коаш+V+ActPrc+Der/шЫ+Pl+Nom+PxSg1: кошывлӓэм
-#    коаш+V+ActPrc+Der/шЫ+PxSg1+Pl+Nom: кошемвлӓ ! harvoin
+#    коаш+V+ActPrc+Der/шЫ+PxSg1+Pl+Nom: кошемвлӓ #! harvoin
      коаш+V+ActPrc+Der/шЫ+Pl+PxSg1+Gen: кошывлӓэмӹн
-#    коаш+V+ActPrc+Der/шЫ+PxSg1+Pl+Gen: кошемвлӓн ! harvoin
+#    коаш+V+ActPrc+Der/шЫ+PxSg1+Pl+Gen: кошемвлӓн #! harvoin
      коаш+V+ActPrc+Der/шЫ+Pl+PxSg1+Acc: кошывлӓэмӹм
-#    коаш+V+ActPrc+Der/шЫ+PxSg1+Pl+Acc: кошемвлӓм ! harvoin
+#    коаш+V+ActPrc+Der/шЫ+PxSg1+Pl+Acc: кошемвлӓм #! harvoin
      коаш+V+ActPrc+Der/шЫ+Pl+PxSg1+Com: кошывлӓэмге
-#    коаш+V+ActPrc+Der/шЫ+PxSg1+Pl+Com: кошемвлӓге ! harvoin
+#    коаш+V+ActPrc+Der/шЫ+PxSg1+Pl+Com: кошемвлӓге #! harvoin
      коаш+V+ActPrc+Der/шЫ+Pl+PxSg1+Dat: кошывлӓэмлӓн
      коаш+V+ActPrc+Der/шЫ+Pl+Dat+PxSg1: кошывлӓлӓнем
      коаш+V+ActPrc+Der/шЫ+PxSg1+Pl+Dat: кошемвлӓлӓн 
      коаш+V+ActPrc+Der/шЫ+Pl+Ine+PxSg1: кошывлӓштем
      коаш+V+ActPrc+Der/шЫ+Pl+Ill+PxSg1: кошывлӓшкем
      коаш+V+ActPrc+Der/шЫ+Pl+Lat+PxSg1: кошывлӓэшем
-#    коаш+V+ActPrc+Der/шЫ+PxSg1+Pl+Comp: кошемвлӓлӓ ! harvoin
+#    коаш+V+ActPrc+Der/шЫ+PxSg1+Pl+Comp: кошемвлӓлӓ #! harvoin
      коаш+V+ActPrc+Der/шЫ+Pl+Comp+PxSg1: кошывлӓлӓэм
      коаш+V+ActPrc+Der/шЫ+Pl+PxSg1+Comp: кошывлӓэмлӓ
      коаш+V+ActPrc+Der/шЫ+Pl+PxSg1+Abe: кошывлӓэмде
-#    коаш+V+ActPrc+Der/шЫ+PxSg1+Pl+Abe: кошемвлӓде ! harvoin
+#    коаш+V+ActPrc+Der/шЫ+PxSg1+Pl+Abe: кошемвлӓде #! harvoin
 
 ##   
      коаш+V+PssPrc+Der/мЫ+Sg+Nom: комы
@@ -160,10 +160,10 @@ Tests:
      коаш+V+PssPrc+Der/мЫ+Sg+PxSg1+Comp: комемлӓ
      коаш+V+PssPrc+Der/мЫ+Sg+Comp+PxSg1: комылаэм 
      коаш+V+PssPrc+Der/мЫ+Sg+Abe+PxSg1: комыдеэм 
-#    коаш+V+PssPrc+Der/мЫ+Sg+PxSg1+Abe: комемде ! harva esim.liitep.yhteyd.
+#    коаш+V+PssPrc+Der/мЫ+Sg+PxSg1+Abe: комемде #! harva esim.liitep.yhteyd.
      
      коаш+V+PssPrc+Der/мЫ+Pl+Nom+PxSg1: комывлӓэм
-     коаш+V+PssPrc+Der/мЫ+PxSg1+Pl+Nom: комемвлӓ !
+     коаш+V+PssPrc+Der/мЫ+PxSg1+Pl+Nom: комемвлӓ #!
      коаш+V+PssPrc+Der/мЫ+PxSg1+Pl+Gen: комемвлӓн
      коаш+V+PssPrc+Der/мЫ+PxSg1+Pl+Acc: комемвлӓм
      коаш+V+PssPrc+Der/мЫ+PxSg1+Pl+Com: комемвлӓге
@@ -177,9 +177,9 @@ Tests:
      коаш+V+PssPrc+Der/мЫ+Pl+Ill+PxSg1: комывлӓшкем
      коаш+V+PssPrc+Der/мЫ+PxSg1+Pl+Lat: комемвлӓэш
      коаш+V+PssPrc+Der/мЫ+Pl+Lat+PxSg1: комывлӓэшем
-     коаш+V+PssPrc+Der/мЫ+PxSg1+Pl+Comp комемвлӓлӓ
-     коаш+V+PssPrc+Der/мЫ+Pl+Comp+PxSg1 комывлӓлӓэм
-     коаш+V+PssPrc+Der/мЫ+Pl+PxSg1+Comp комывлӓэмлӓ
+     коаш+V+PssPrc+Der/мЫ+PxSg1+Pl+Comp: комемвлӓлӓ
+     коаш+V+PssPrc+Der/мЫ+Pl+Comp+PxSg1: комывлӓлӓэм
+     коаш+V+PssPrc+Der/мЫ+Pl+PxSg1+Comp: комывлӓэмлӓ
      коаш+V+PssPrc+Der/мЫ+Pl+PxSg1+Abe: комывлӓэмде
      коаш+V+PssPrc+Der/мЫ+PxSg1+Pl+Abe: комемвлӓде
 ## 
@@ -201,7 +201,7 @@ Tests:
      коаш+V+NegPrc+Der/дЫмЫ+Pl+Com: кодымывлӓге
      коаш+V+NegPrc+Der/дЫмЫ+Pl+Dat: кодымывлӓлӓн
      коаш+V+NegPrc+Der/дЫмЫ+Pl+Ine: кодымывлӓштӹ
-     коаш+V+NegPrc+Der/дЫмЫ+Pl+Ill: кодымывлӓшкӹ, кодымывлӓш]
+     коаш+V+NegPrc+Der/дЫмЫ+Pl+Ill: [кодымывлӓшкӹ, кодымывлӓш]
      коаш+V+NegPrc+Der/дЫмЫ+Pl+Lat: кодымывлӓэш
      коаш+V+NegPrc+Der/дЫмЫ+Pl+Comp: кодымывлӓлӓ
      коаш+V+NegPrc+Der/дЫмЫ+Pl+Abe: кодымывлӓде
