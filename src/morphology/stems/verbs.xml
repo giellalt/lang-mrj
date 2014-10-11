@@ -358,12 +358,10 @@
 
   <e>
     <lg>
-      <l pos="V">адахаэмдӓш</l>
-
+      <l hid="Hom2" pos="V">адахаэмдӓш</l>
+      <l_ref Contlex="V_ЕМ" pos="V">тӓрвӓнӹктӹ</l_ref>
       <stg>
         <st Contlex="V_ЕМ_SUB">адахаэмдӹ</st>
-
-        <st Contlex="V_ЕМ">тӓрвӓнӹктӹ</st>
       </stg>
 
       <stress>адахаэ•мдӓш</stress>
@@ -391,16 +389,13 @@
 
   <e>
     <lg>
-      <l pos="V">адахэмӓлтӓш</l>
+      <l hid="Hom1" pos="V">адахэмӓлтӓш</l>
+      <l_ref Contlex="V_ЕМ" pos="V">йорты</l_ref>
+      <l_ref Contlex="V_ЕМ" pos="V">талашы</l_ref>
+      <l_ref Contlex="V_ЕМ" pos="V">вӓшкӹ</l_ref>
 
       <stg>
         <st Contlex="V_АМ_SUB">адахэмӓлт</st>
-
-        <st Contlex="V_ЕМ">йорты</st>
-
-        <st Contlex="V_ЕМ">талашы</st>
-
-        <st Contlex="V_ЕМ">вӓшкӹ</st>
       </stg>
 
       <stress>адахэмӓ•лтӓш</stress>
@@ -27014,13 +27009,10 @@
   <e>
     <lg>
       <l pos="V">лыскыдемӓш</l>
-
+      <l_ref Contlex="V_АМ" pos="V">льыскыдем</l_ref>
+      <l_ref Contlex="V_АМ" pos="V">лышкыдем</l_ref>
       <stg>
         <st Contlex="V_АМ">лыскыдем</st>
-
-        <st Contlex="V_АМ">льыскыдем</st>
-
-        <st Contlex="V_АМ">лышкыдем</st>
       </stg>
 
       <stress>лыскыде•мӓш</stress>
@@ -48450,7 +48442,7 @@
 
   <e>
     <lg>
-      <l pos="V">рӹшкӓлтӓш</l>
+      <l hid="Hom1" pos="V">рӹшкӓлтӓш</l>
 
       <stg>
         <st Contlex="V_АМ">рӹшкӓлт</st>
@@ -48470,7 +48462,7 @@
 
   <e>
     <lg>
-      <l pos="V">рӹшкӓлтӓш</l>
+      <l hid="Hom3" pos="V">рӹшкӓлтӓш</l>
 
       <stg>
         <st Contlex="V_АМ">рӹшкӓлт</st>
@@ -48492,7 +48484,7 @@
 
   <e>
     <lg>
-      <l pos="V">рӹшкӓлтӓш</l>
+      <l hid="Hom2" pos="V">рӹшкӓлтӓш</l>
 
       <stg>
         <st Contlex="V_ЕМ">рӹшкӓлтӹ</st>
@@ -49704,11 +49696,9 @@
   <e>
     <lg>
       <l pos="V">сепнӓш</l>
-
+      <l_ref Contlex="V_ЕМ" pos="V">цепнӹ</l_ref>
       <stg>
         <st Contlex="V_ЕМ">сепнӹ</st>
-
-        <st Contlex="V_ЕМ">цепнӹ</st>
       </stg>
 
       <stress>се•пнӓш</stress>
@@ -66116,7 +66106,7 @@
 
   <e>
     <lg>
-      <l pos="V">чӱчӓш</l>
+      <l hid="Hom3" pos="V">чӱчӓш</l>
 
       <stg>
         <st Contlex="V_АМ">чӱч</st>
@@ -66136,7 +66126,7 @@
 
   <e>
     <lg>
-      <l pos="V">чӱчӓш</l>
+      <l hid="Hom1" pos="V">чӱчӓш</l>
 
       <stg>
         <st Contlex="V_АМ">чӱч</st>
@@ -66160,7 +66150,7 @@
 
   <e>
     <lg>
-      <l pos="V">чӱчӓш</l>
+      <l hid="Hom2" pos="V">чӱчӓш</l>
 
       <stg>
         <st Contlex="V_ЕМ">чӱчӹ</st>
@@ -66176,19 +66166,6 @@
         <t pos="V">kuluttaa rikki</t>
       </tg>
     </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="V">чӱчӓш</l>
-
-      <stg>
-        <st Contlex="V_ЕМ">чӱчӹ</st>
-      </stg>
-
-      <stress>чӱ•чӓш</stress>
-    </lg>
-
     <mg>
       <m>
         <head/>
@@ -66894,7 +66871,7 @@
 
   <e>
     <lg>
-      <l pos="V">шакташ</l>
+      <l hid="Hom1" pos="V">шакташ</l>
 
       <stg>
         <st Contlex="V_АМ">шакт</st>
@@ -66914,7 +66891,7 @@
 
   <e>
     <lg>
-      <l pos="V">шакташ</l>
+      <l hid="Hom2" pos="V">шакташ</l>
 
       <stg>
         <st Contlex="V_ЕМ">шакты</st>
@@ -66930,19 +66907,6 @@
         <tf pos="V">soittaa soitinta</tf>
       </tg>
     </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="V">шакташ</l>
-
-      <stg>
-        <st Contlex="V_ЕМ">шакты</st>
-      </stg>
-
-      <stress>ша•кташ</stress>
-    </lg>
-
     <mg>
       <m>
         <head/>
@@ -72173,7 +72137,7 @@
 
   <e>
     <lg>
-      <l pos="V">шӓвӓлтӓш</l>
+      <l hid="Hom1" pos="V">шӓвӓлтӓш</l>
 
       <stg>
         <st Contlex="V_АМ">шӓвӓлт</st>
@@ -72183,11 +72147,14 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
+        <defNative/>
 
+      <tg xml:lang="fin">
+        <t pos="V">ripottautua</t>
+      </tg>
+    </mg>
+    <mg>
         <defNative>3.p.</defNative>
-      </m>
 
       <tg xml:lang="fin">
         <t pos="V">tuhlautua</t>
@@ -72197,31 +72164,7 @@
 
   <e>
     <lg>
-      <l pos="V">шӓвӓлтӓш</l>
-
-      <stg>
-        <st Contlex="V_АМ">шӓвӓлт</st>
-      </stg>
-
-      <stress>шӓвӓ•лтӓш</stress>
-    </lg>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg xml:lang="fin">
-        <t pos="V">ripottautua</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="V">шӓвӓлтӓш</l>
+      <l hid="Hom2" pos="V">шӓвӓлтӓш</l>
 
       <stg>
         <st Contlex="V_ЕМ">шӓвӓлтӹ</st>
@@ -82778,7 +82721,7 @@
       <l hid="Hom1" pos="V">ӹштӓш</l>
 
       <stg>
-        <st Contlex="V_АМ">ӹшт</st>
+        <st Contlex="V_АМ-HOM1">ӹшт</st>
       </stg>
 
       <stress>ӹ•штӓш</stress>
@@ -82804,7 +82747,7 @@
       <l hid="Hom2" pos="V">ӹштӓш</l>
 
       <stg>
-        <st Contlex="V_ЕМ">ӹштӹ</st>
+        <st Contlex="V_ЕМ-HOM2">ӹштӹ</st>
       </stg>
 
       <stress>ӹ•штӓш</stress>
@@ -82849,19 +82792,6 @@
         <xt>muokata peltoa (JK)</xt>
       </xg>
     </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="V">ӹштӓш</l>
-
-      <stg>
-        <st Contlex="V_ЕМ">ӹштӹ</st>
-      </stg>
-
-      <stress>ӹ•штӓш</stress>
-    </lg>
-
     <mg>
       <defNative>JK: Техеньӹм пырташ агыл?</defNative>
 
@@ -82875,25 +82805,8 @@
         <xt>synnyttää</xt>
       </xg>
     </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="V">ӹштӓш</l>
-
-      <stg>
-        <st Contlex="V_ЕМ">ӹштӹ</st>
-      </stg>
-
-      <stress>ӹ•штӓш</stress>
-    </lg>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative>синоним: шыпшылаш</defNative>
-      </m>
 
       <tg xml:lang="fin">
         <td pos="V">lypsää</td>
