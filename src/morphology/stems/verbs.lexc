@@ -15,11 +15,7 @@ LEXICON verbs
 агылеп:агылеп VAux  "eivät ole" ;
 ада:ада VAux  "ette" ;
 адахаэмдӓш:адахаэмдӹ V_ЕМ_SUB  "saada liikkeelle" ;
-адахаэмдӓш:тӓрвӓнӹктӹ V_ЕМ  "saada liikkeelle" ;
 адахэмӓлтӓш:адахэмӓлт V_АМ_SUB  "kiirehtiä" ;
-адахэмӓлтӓш:йорты V_ЕМ  "kiirehtiä" ;
-адахэмӓлтӓш:талашы V_ЕМ  "kiirehtiä" ;
-адахэмӓлтӓш:вӓшкӹ V_ЕМ  "kiirehtiä" ;
 адресуяш:адресуйы V_ЕМ  "osoittaa" ;
 ажедӓш:ажед V_АМ  "neuvoa" ;
 ажналташ:ажналт V_АМ  "tulla syntiseksi" ;
@@ -1106,8 +1102,6 @@ LEXICON verbs
 лыскыдемдӓш:льыскыдемдӹ V_ЕМ  "löyhentää" ;
 лыскыдемдӓш:лышкыдемдӹ V_ЕМ  "löyhentää" ;
 лыскыдемӓш:лыскыдем V_АМ  "löysentyä" ;
-лыскыдемӓш:льыскыдем V_АМ  "löysentyä" ;
-лыскыдемӓш:лышкыдем V_АМ  "löysentyä" ;
 лыстараш:лыстары V_ЕМ  "löyhentää" ;
 лыстараш:лыштары V_ЕМ  "löyhentää" ;
 лысткаш:лысткы V_ЕМ  "höltyä" ;
@@ -2095,7 +2089,6 @@ LEXICON verbs
 сепкедӓш:сепкедӹ V_ЕМ  "olla epäkunnossa" ;
 сепнӓш:сепнӹ V_ЕМ  "saada epilepsiakohtauksia" ;
 сепнӓш:сепнӹ V_ЕМ  "törmätä" ;
-сепнӓш:цепнӹ V_ЕМ  "törmätä" ;
 сервируяш:сервируйы V_ЕМ  "kattaa pöytä" ;
 сескӓнгдӓш:сескӓнгдӹ V_ЕМ  "idättää" ;
 сескӓнгӓш:сескӓнг V_АМ  "itää" ;
@@ -2830,7 +2823,6 @@ LEXICON verbs
 чӱчӓш:чӱч V_АМ  "sulkea" ;
 чӱчӓш:чӱч V_АМ  "kulua rikki" ;
 чӱчӓш:чӱчӹ V_ЕМ  "kuluttaa rikki" ;
-чӱчӓш:чӱчӹ V_ЕМ  "napauttaa" ;
 чӱчӹкташ:чӱчӹктӹ V_ЕМ  "porauttaa" ;
 чӱчӹкташ:чӱчӹктӹ V_ЕМ  "pyytää sulkemaan" ;
 чӱчӹлтӓш:чӱчӹлт V_АМ  "sulkeutua" ;
@@ -2862,7 +2854,6 @@ LEXICON verbs
 шакталташ:шакталты V_ЕМ  "vähän soittaa soitinta" ;
 шакташ:шакт V_АМ  "seuloa" ;
 шакташ:шакты V_ЕМ  "soittaa soitinta" ;
-шакташ:шакты V_ЕМ  "kuulua" ;
 шалалташ:шалалты V_ЕМ  "heilauttaa" ;
 шалалтылаш:шалалтыл V_АМ  "heilautella" ;
 шалаш:шалы V_ЕМ  "lykätä" ;
@@ -3075,7 +3066,6 @@ LEXICON verbs
 шырланаш:шырланы V_ЕМ  "yrittää turhaan" ;
 шытырланаш:шытырланы V_ЕМ  "huolehtiä" ;
 шытырланыкташ:шытырланыкты V_ЕМ  "huolestuttaa" ;
-шӓвӓлтӓш:шӓвӓлт V_АМ  "tuhlautua" ;
 шӓвӓлтӓш:шӓвӓлт V_АМ  "ripottautua" ;
 шӓвӓлтӓш:шӓвӓлтӹ V_ЕМ  "ripotella" ;
 шӓвӓш:шӓвӹ V_ЕМ  "tuhlata" ;
@@ -3511,10 +3501,8 @@ LEXICON verbs
 ӹштӓлтӓш:ӹштӓлт V_АМ  "tapahtua" ;
 ӹштӓлтӓш:ӹштӓлтӹ V_ЕМ  "tehdä nopeasti" ;
 ӹштӓлӓш:ӹштӓл V_АМ  "vyöttää itsensä" ;
-ӹштӓш:ӹшт V_АМ  "lakaista" ;
-ӹштӓш:ӹштӹ V_ЕМ  "tehdä" ;
-ӹштӓш:ӹштӹ V_ЕМ  "synnyttämisestä ilmaisuna ӓзӓм ӹштӓш" ;
-ӹштӓш:ӹштӹ V_ЕМ  "lypsää" ;
+ӹштӓш:ӹшт V_АМ-HOM1  "lakaista" ;
+ӹштӓш:ӹштӹ V_ЕМ-HOM2  "tehdä" ;
 ӹштӹкӓлӓш:ӹштӹкӓлӹ V_ЕМ  "tehdä pientä työtä" ;
 ӹштӹлтӓрӓш:ӹштӹлтӓрӹ V_ЕМ  "pyytää pyyhkäisemään" ;
 ӹштӹлӓлтӓш:ӹштӹлӓлт V_АМ  "pyyhkiytyä" ;
