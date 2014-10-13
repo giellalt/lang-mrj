@@ -221492,7 +221492,7 @@
 
     <mg>
       <defNative>Sav: тряпье утиль-сырье. Myös JK_u ikäloppu ? (mhr ikäkulu
-      1992:100) </defNative>
+      1992:100)</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">rääsyt</t>
@@ -221573,7 +221573,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">läähätys</t>
+
+        <t pos="N">läähättäminen</t>
+
+        <t pos="N">huohottaminen</t>
       </tg>
     </mg>
   </e>
@@ -221593,7 +221597,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">hengähdystauko</t>
+
+        <t pos="N">huokaus</t>
+
+        <t pos="N">henkäys</t>
+
+        <t pos="N">henkäisy</t>
       </tg>
     </mg>
   </e>
@@ -221610,10 +221620,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: вздох</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">huoahdus</t>
       </tg>
     </mg>
   </e>
@@ -221630,10 +221640,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: // ланга</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">takaraivo</t>
       </tg>
     </mg>
   </e>
@@ -221670,10 +221680,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK?: kevättalvella pyydetty kala</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pilkkikala</t>
       </tg>
     </mg>
   </e>
@@ -221690,10 +221700,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав уке! JK (vrt mhr: suru murhe apeus masennus)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">murhe</t>
       </tg>
     </mg>
   </e>
@@ -221713,7 +221723,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">hengitys</t>
+
+        <t pos="N">hengittäminen</t>
       </tg>
     </mg>
   </e>
@@ -221733,8 +221745,20 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">hengitys</t>
       </tg>
+
+      <xg>
+        <x>шӱлӹш ак ситӹ (2008:359)</x>
+
+        <xt>hengästyminen</xt>
+      </xg>
+
+      <xg>
+        <x>ик шӱлӹш доно ӹлӓш (2008:359)</x>
+
+        <xt>elää sopusoinnussa</xt>
+      </xg>
     </mg>
   </e>
 
@@ -221750,10 +221774,43 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>1)sydän 2)mahalaukku 3)vatsa</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sydän</t>
+      </tg>
+
+      <xg>
+        <x> шӱм когергӓ (2008:360)</x>
+
+        <xt>sydän pakahtuu</xt>
+      </xg>
+
+      <xg>
+        <x>шӱмеш тӹкнен (2008:360)</x>
+
+        <xt>ruokamyrkytys</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">шӱм</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">шӱм</st>
+      </stg>
+
+      <stress>шӱм</stress>
+    </lg>
+
+    <mg>
+      <defNative>1)sydän 2)mahalaukku 3)vatsa. Sav:
+      чувствительность</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">tunto</t>
       </tg>
     </mg>
   </e>
@@ -221770,10 +221827,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: сердце здоровье</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">terveys</t>
+
+        <t pos="N">yleisvointi</t>
       </tg>
     </mg>
   </e>
@@ -221790,10 +221849,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: ливер</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sisäelimet</t>
+
+        <t pos="N">sisälmykset</t>
       </tg>
     </mg>
   </e>
@@ -221810,13 +221871,25 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: myös puhuttelu (kuv.) kulta</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">veljes</t>
 
         <t pos="N">veli</t>
       </tg>
+
+      <xg>
+        <x>туан шӱмбел (2008:360)</x>
+
+        <xt>oma veli</xt>
+      </xg>
+
+      <xg>
+        <x>Серге шӱмбел</x>
+
+        <xt>Sergej hyvä</xt>
+      </xg>
     </mg>
   </e>
 
@@ -221832,10 +221905,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: 1) братец! 2) перен. родимый</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">velipoika</t>
+
+        <t pos="N">veljes</t>
       </tg>
     </mg>
   </e>
@@ -221855,7 +221930,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">innostaminen</t>
       </tg>
     </mg>
   </e>
@@ -221872,10 +221947,13 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: находиться в состоянии душевного расположения к
+      кому-л.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">into</t>
+
+        <t pos="N">kiinnostus</t>
       </tg>
     </mg>
   </e>
@@ -221892,7 +221970,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav uke!</defNative>
 
       <tg xml:lang="fin">
         <t pos="N"/>
@@ -221915,8 +221993,34 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kumi</t>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">шӱн</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">шӱн</st>
+      </stg>
+
+      <stress>шӱн</stress>
+    </lg>
+
+    <mg>
+      <defNative>Sav: жилы</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">suoni</t>
+      </tg>
+
+      <xg>
+        <x>шӱн шыпшеш (1981:211)</x>
+
+        <xt>suonenveto</xt>
+      </xg>
     </mg>
   </e>
 
@@ -221932,10 +222036,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: кочкарник</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">mätäikkö</t>
       </tg>
     </mg>
   </e>
