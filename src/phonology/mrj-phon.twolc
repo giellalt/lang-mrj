@@ -99,6 +99,9 @@ Rules
 "й Deletion in front of я Suffix and others"
 !! __@RULENAME@__  
   й:0 <=> _ [( %^ConsTransf:0 ) %> [ %{аӓе%}: | :я | :е | :и | :ю ] | [ ы:0 | ӹ:0 ] ( %^ConsTransf:0 ) %> [ %{аӓе%}: | %{аӓ%}: | %{ыӹе%}:| е ] ]  ;
+    _ %> %{аӓ%}: ;
+!€# кай%>%{аӓ%}ш
+!€0 ка00яш
          
   
 "Ь2:ь Palatal mark for V АМ +Prt1+Sg1"
@@ -250,8 +253,10 @@ Rules
 
 "Affix mid or final back %{аӓ%}:я"
 !! __@RULENAME@__  
- %{аӓ%}:я <=> Vow й:0 (ы:0|ӹ:0) %> _ [м|т|ш|%>|#] ;
+ %{аӓ%}:я <=> Vow й: (ы:0|ӹ:0) %> _ [м|т|ш|%>|#] ;
               ь:0 %> _ [м|т|ш|%>|#] ;
+!€# кай%>%{аӓ%}ш
+!€0 ка00яш
 
 "Affix initial back а:я"
 !! __@RULENAME@__  
