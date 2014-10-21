@@ -8478,6 +8478,13 @@
 
         <t pos="V">yhdistää samaksi</t>
       </tg>
+
+      <xg>
+        <x>тӹдӹ кырык марла сирӹмӓштӹ ылшы традицивлӓм иктешлен (1978:4)</x>
+
+        <xt>hän yhdisti samaksi vuorimarin kielen säännönmukaisuuksia
+        (jk)</xt>
+      </xg>
     </mg>
   </e>
 
@@ -73478,6 +73485,14 @@
       <tg xml:lang="fin">
         <t pos="V">tehdä jänteväksi</t>
       </tg>
+
+      <xg>
+        <x>кужы ӹлӹмӓш кид-ялым шӱнӓнгдӓ (1981:211)</x>
+
+        <xt>pitkän elämän kokemukset karastaa (jk)</xt>
+
+        <xt>долгая жизнь делает руки-ноги жилистыми</xt>
+      </xg>
     </mg>
   </e>
 
@@ -73519,10 +73534,35 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav uke ajyrly glagol semynj, lach uly fraza: шӱнен вазаш -
+      растянуться - heittäytyä pitkäkseen (JK) V_u venähtää</defNative>
 
       <tg xml:lang="fin">
-        <t pos="V">&lt;</t>
+        <t pos="V">venyä</t>
+
+        <t pos="V">venyttäytyä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Ger">шӱтен</l>
+
+      <stg>
+        <st Contlex="GER-en">шӱтен</st>
+      </stg>
+
+      <stress>шӱ•тен</stress>
+    </lg>
+
+    <pos>Ger</pos>
+
+    <mg>
+      <defNative>JK: gerundimuoto verbistä шӱтӓш - purkaa</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N"/>
       </tg>
     </mg>
   </e>
@@ -73658,7 +73698,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V">antaa mädätä; antaa märkiä</t>
+        <t pos="V">antaa mädätä</t>
+        <t pos="V">antaa märkiä</t>
       </tg>
     </mg>
   </e>
@@ -73753,6 +73794,35 @@
 
   <e>
     <lg>
+      <l pos="V">шӹведӓш</l>
+
+      <stg>
+        <st Contlex="V_ЕМ">шӹведӹ</st>
+      </stg>
+
+      <stress>шӹве•дӓш</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="V">syljeksiä</t>
+      </tg>
+    </mg>
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="V">tihuttaa</t>
+
+        <tf pos="V">sataa tihkusadetta</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V">шӹведӹлӓш</l>
 
       <stg>
@@ -73766,9 +73836,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V">syljeksiä</t>
-
         <t pos="V">syljeskellä</t>
+
+        <t pos="V">syljeksiä</t>
       </tg>
     </mg>
   </e>
@@ -73942,12 +74012,20 @@
       <m>
         <head/>
 
-        <defNative>вует шӹгӹнӹшӓш</defNative>
+        <defNative>вует шӹгӹнӹшӓш - пропади ты пропадом!</defNative>
       </m>
 
       <tg xml:lang="fin">
         <t pos="V">kadota</t>
+
+        <t pos="V">kadoksiinmeno</t>
       </tg>
+
+      <xg>
+        <x>вует шӹгӹнӹшӓш (1981:215)</x>
+
+        <xt>painu helvettiin</xt>
+      </xg>
     </mg>
   </e>
 
