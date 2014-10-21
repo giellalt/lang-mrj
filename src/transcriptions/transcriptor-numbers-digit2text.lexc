@@ -21,68 +21,71 @@ Multichar_Symbols
 
 LEXICON Root
 HUNDREDSM ;		! 200M
-шӱдӹ% :1 HUNDREDM ;	! 100M
+1:шӱдӹ%   HUNDREDM ;	! 100M
 TENSM ;			! 20-99M
 TEENSM ;		! 11-19M
 TENM ;			! 10M->11M
 ONESM ;			! 1-9M
 HUNDREDST ;		! 200000-999999
-шӱдӹ% :1 HUNDREDT ;	! 100000-100999
+1:шӱдӹ%   HUNDREDT ;	! 100000-100999
 TENST ;			! 20000-99999,10000-10999
 TEENST ;		! 11000-19999
 ONEST ;			! 2000-9999
-тӹжем:1 THOUSAND ;	! 1000-1999
+1:тӹжем THOUSAND ;	! 1000-1999
 UNDERTHOUSAND ;		! 100-999
 TENS ;			! 20-99
 TEENS ;			! 10-19
-% : ONES ;			! 1-9
+:%   ONES ;			! 1-9
 
 LEXICON HUNDREDSM
-кок:2  CUODIM ;
-кым:3 CUODIM ;
-нӹл:4 CUODIM ;
-вӹц:5 CUODIM ;
-куд:6 CUODIM ;
-шӹм:7 CUODIM ;
-кӓндӓкш:8 CUODIM ;
-ӹндекш:9 CUODIM ;
+2:кокты  CUODIM ;
+2+Use/NG:кок  CUODIM ;
+3:кым CUODIM ;
+4:нӹл CUODIM ;
+5:вӹц CUODIM ;
+6:куд CUODIM ;
+7:шӹм CUODIM ;
+8:кӓндӓкш CUODIM ;
+9:ӹндекш CUODIM ;
 
 LEXICON CUODIM
-% шӱдӹ% : HUNDREDM ;
+:% шӱдӹ%   HUNDREDM ;
 
 LEXICON HUNDREDM
 TENSM ;
 TEENSM ;
-:%0 ONESM ;
-:%0%0 MILJON ;
+%0: ONESM ;
+%0%0: MILJON ;
 
 LEXICON TEENSM
-:1 TEENM ;
+1: TEENM ;
 
 LEXICON TEENM
-луат: LOHKAIM ;
+:луат LOHKAIM ;
 
 
 LEXICON LOHKAIM
-ик:1 MILJON ;
-кок:2 MILJON ;
-кым:3 MILJON ;
-нӹл:4 MILJON ;
-вӹц:5 MILJON ;
-куд:6 MILJON ;
-шӹм:7 MILJON ;
-кӓндӓкш:8 MILJON ;
-ӹндекш:9 MILJON ;
+1:ик MILJON ;
+2:кок MILJON ;
+3:кым MILJON ;
+4:нӹл MILJON ;
+5:вӹц MILJON ;
+6:куд MILJON ;
+7:шӹм MILJON ;
+8:кӓндӓкш MILJON ;
+9:ӹндекш MILJON ;
+
+! Тишкевек палшымы доно ред-мы...
 
 LEXICON TENSM
-коклы:2 LÅGEVM ;
-кымлы:3 LÅGEVM ;
-нӹллӹ:4 LÅGEVM ;
-вӹцлӹ:5 LÅGEVM ;
-кудлы:6 LÅGEVM ;
-шӹмлӹ:7 LÅGEVM ;
-кӓндӓкшлӹ:8 LÅGEVM ;
-ӹндекшлӹ:9 LÅGEVM ;
+2:коклы LÅGEVM ;
+3:кымлы LÅGEVM ;
+4:нӹллӹ LÅGEVM ;
+5:вӹцлӹ LÅGEVM ;
+6:кудлы LÅGEVM ;
+7:шӹмлӹ LÅGEVM ;
+8:кӓндӓкшлӹ LÅGEVM ;
+9:ӹндекшлӹ LÅGEVM ;
 
 LEXICON TENM
 лу:1%0 MILJON ;
