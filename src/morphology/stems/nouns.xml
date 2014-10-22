@@ -74750,7 +74750,7 @@
     </lg>
 
     <mg>
-      <defNative>Sav: myös шим кӧтӧрмӓ</defNative>
+      <defNative>Sav: myös шим кӧтӧрмӓ (Вас.1994); шимгӧтӧрмӓ jk_u</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">kurkkumätäsairaus</t>
@@ -81471,6 +81471,8 @@
 
       <stg>
         <st Contlex="N_КОЛ">кӹшкӹгол</st>
+
+        <st Contlex="N_КОЛ">юнкол</st>
       </stg>
 
       <stress>кӹшкӹ•гол</stress>
@@ -211678,6 +211680,31 @@
 
   <e>
     <lg>
+      <l pos="N">шимгӧтӧрмӓ</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">шимгӧтӧрмӓ</st>
+
+        <st Contlex="N_ОЛМА">кӹшкӹгӧтӧрмӓ</st>
+      </stg>
+
+      <stress>ши•мгӧтӧрмӓ</stress>
+    </lg>
+
+    <mg>
+      <defNative>Пыртымы. Sav: шимгӧтӧрмӓ (synon.) кӹшкӹгӧтӧрмӓ
+      дифтери</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">kurkkumätäsairaus</t>
+
+        <t pos="N">kurkkumätä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">шимемдӹмӓш</l>
 
       <stg>
@@ -211730,7 +211757,7 @@
         <st Contlex="N_КОЛ">шимер</st>
       </stg>
 
-      <stress>ши•мер</stress>
+      <stress>ши•мер шимгӧтӧрмӓ</stress>
     </lg>
 
     <mg>
@@ -211743,6 +211770,30 @@
         <t pos="N">työväki</t>
 
         <t pos="N">työmiehet</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">шимкарак</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">шимкарак</st>
+      </stg>
+
+      <stress>ши•мер</stress>
+    </lg>
+
+    <mg>
+      <defNative>Vas: шим карак JK: шимкарак _u</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">peltovaris</t>
+
+        <t pos="N">mustavaris</t>
+
+        <t pos="N">korppi</t>
       </tg>
     </mg>
   </e>
@@ -211789,6 +211840,68 @@
 
   <e>
     <lg>
+      <l pos="N">шимрок</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">шимрок</st>
+      </stg>
+
+      <stress>ши•мрок</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">mustamulta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">шимуа</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">шимуа</st>
+      </stg>
+
+      <stress>ши•муа</stress>
+    </lg>
+
+    <mg>
+      <defNative>Сав: (bot.) чернотал WIKI: ива пятитычинковая (чернотал).
+      (лат. Sálix pentándra) </defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">halava</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">шимшаптыр</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">шимшаптыр</st>
+      </stg>
+
+      <stress>ши•мшаптыр</stress>
+    </lg>
+
+    <mg>
+      <defNative>pyrtenäm. шим шӹгӹль - synnyinmerkki родинка родимое
+      пятно</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">mustaherukka</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">шимшӓдӓнгӹ</l>
 
       <stg>
@@ -211805,6 +211918,27 @@
         <t pos="N">tattari</t>
 
         <t pos="N">tattariryynit</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">шимшӹгӹль</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">шимшӹгӹль</st>
+      </stg>
+
+      <stress>ши•мшӹгӹль</stress>
+    </lg>
+
+    <mg>
+      <defNative>pyrtenäm. шим шӹгӹль (Vas.)- synnyinmerkki
+      родинка</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">synnyinmerkki</t>
       </tg>
     </mg>
   </e>
@@ -211847,6 +211981,46 @@
         <t pos="N">lyönti</t>
 
         <t pos="N">lyöminen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">шимӹнгӹж</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">шимӹнгӹж</st>
+      </stg>
+
+      <stress>ши•мӹнгӹж</stress>
+    </lg>
+
+    <mg>
+      <defNative>(бот.) ежевика</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">karhunvatukka</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">шимӹрвӹж</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">шимӹрвӹж</st>
+      </stg>
+
+      <stress>ши•мӹрвӹж</stress>
+    </lg>
+
+    <mg>
+      <defNative>(зоол.) чернобурка</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">hopeakettu</t>
       </tg>
     </mg>
   </e>
@@ -212227,6 +212401,26 @@
 
   <e>
     <lg>
+      <l pos="N">шифон</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">шифон</st>
+      </stg>
+
+      <stress>шифо•н</stress>
+    </lg>
+
+    <mg>
+      <defNative>пыртенӓм</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">sifonki</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">шифоньер</l>
 
       <stg>
@@ -212257,7 +212451,8 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>шишигӓ - metsähiisi metsähaltija леший // kts myös
+      шигӓ</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">salakirjoitus</t>
@@ -212281,7 +212476,8 @@
     </lg>
 
     <mg>
-      <defNative>JK: pyrtenäm Sav ulat: N_SUB (Килемар гов.)</defNative>
+      <defNative>JK: pyrtenäm Sav ulat: N_SUB (Килемар гов.) JK: myös:
+      hienommanlaatuinen kangas</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">karttuuni</t>
@@ -212289,6 +212485,31 @@
         <t pos="N">kangas</t>
 
         <td>myös: hienommanlaatuinen kangas</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">шишигӓ</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">шишигӓ</st>
+
+        <st Contlex="N_ОЛМА">шигӓ</st>
+      </stg>
+
+      <stress>шиши•гӓ</stress>
+    </lg>
+
+    <mg>
+      <defNative>(Пыртенӓм вес вӓре ти шамак улат) шишигӓ - metsähiisi
+      metsähaltija леший // kts myös шигӓ</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">metsähiisi</t>
+
+        <t pos="N">metsähaltija</t>
       </tg>
     </mg>
   </e>
@@ -212499,9 +212720,9 @@
         <t pos="N">kolhiintuminen</t>
 
         <tCtn>
-          <t>hedelmien</t>
+          <t>kolhiintuminen</t>
 
-          <re>kolhiintuminen</re>
+          <re>hedelmien</re>
         </tCtn>
       </tg>
     </mg>
@@ -213336,6 +213557,27 @@
 
   <e>
     <lg>
+      <l pos="N">шолвонгы</l>
+
+      <stg>
+        <st Contlex="N_ТӸРВӸ">шолвонгы</st>
+      </stg>
+
+      <stress>шо•лвонгы</stress>
+    </lg>
+
+    <mg>
+      <defNative>Пыртенӓм, Саваткован улат. Wiki: Трутови́к чешу́йчатый —
+      (лат. Polýporus squamósus) — гриб-трутовик</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">suomukääpä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">шолдымактымаш</l>
 
       <stg>
@@ -213467,7 +213709,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">naputus</t>
+
+        <t pos="N">koputus</t>
+
+        <t pos="N">jyskyttäminen</t>
       </tg>
     </mg>
   </e>
@@ -213487,7 +213733,31 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">keittättäminen</t>
+
+        <t pos="N">ruoan valmistustilaus</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">шолтымаш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">шолтымаш</st>
+      </stg>
+
+      <stress>шо•лтымаш</stress>
+    </lg>
+
+    <mg>
+      <defNative>keittäminen kiehauttaminen /pontikan)polttaminen</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">keittäminen</t>
+
+        <t pos="N">ruoan valmistus</t>
       </tg>
     </mg>
   </e>
@@ -213507,8 +213777,18 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kiehauttaminen</t>
+
+        <t pos="N">keittäminen</t>
+
+        <t pos="N">pontikan polttaminen</t>
       </tg>
+
+      <xg>
+        <x>(idiom.) пучым шолтымаш</x>
+
+        <xt>loukkaantunut ihminen</xt>
+      </xg>
     </mg>
   </e>
 
@@ -213546,7 +213826,8 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav uke! JK: aktiivinen (levoton) ihminen, ehkä myös
+      papupata</defNative>
 
       <tg xml:lang="fin">
         <t pos="N"/>
@@ -213569,8 +213850,14 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">varas</t>
       </tg>
+
+      <xg>
+        <x>(san.) шолым кычаш ак кел, ӹшкеок вӓрештеш (1981:204) </x>
+
+        <xt>varasta ei tarvitse jahdata hän jää itse kiinni</xt>
+      </xg>
     </mg>
   </e>
 
@@ -213586,7 +213873,8 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: nimetään näin lapsia (karkkien salavarkauksista
+      jne)</defNative>
 
       <tg xml:lang="fin">
         <t pos="N"/>
@@ -214922,6 +215210,28 @@
 
       <tg xml:lang="fin">
         <t pos="N">kaalikeitto</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">штиблет</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">штиблет</st>
+      </stg>
+
+      <stress>шти•блет</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">nilkkurit</t>
+
+        <t pos="N">korkkarit</t>
       </tg>
     </mg>
   </e>
@@ -231891,6 +232201,8 @@
 
       <stg>
         <st Contlex="N_КОЛ">юнкол</st>
+
+        <st Contlex="N_КОЛ">кӹшкӹгол</st>
       </stg>
 
       <stress>ю•нкол</stress>

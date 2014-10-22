@@ -359,7 +359,9 @@
   <e>
     <lg>
       <l hid="Hom2" pos="V">адахаэмдӓш</l>
+
       <l_ref Contlex="V_ЕМ" pos="V">тӓрвӓнӹктӹ</l_ref>
+
       <stg>
         <st Contlex="V_ЕМ_SUB">адахаэмдӹ</st>
       </stg>
@@ -390,8 +392,11 @@
   <e>
     <lg>
       <l hid="Hom1" pos="V">адахэмӓлтӓш</l>
+
       <l_ref Contlex="V_ЕМ" pos="V">йорты</l_ref>
+
       <l_ref Contlex="V_ЕМ" pos="V">талашы</l_ref>
+
       <l_ref Contlex="V_ЕМ" pos="V">вӓшкӹ</l_ref>
 
       <stg>
@@ -22794,8 +22799,7 @@
 
         <t pos="V">kattaa pöytä</t>
 
-        <t pos="V">peittää taikina palttinakankaalla tai
-        aivinapeitteellä</t>
+        <t pos="V">peittää taikina palttinakankaalla tai aivinapeitteellä</t>
       </tg>
     </mg>
   </e>
@@ -27016,8 +27020,11 @@
   <e>
     <lg>
       <l pos="V">лыскыдемӓш</l>
+
       <l_ref Contlex="V_АМ" pos="V">льыскыдем</l_ref>
+
       <l_ref Contlex="V_АМ" pos="V">лышкыдем</l_ref>
+
       <stg>
         <st Contlex="V_АМ">лыскыдем</st>
       </stg>
@@ -27693,8 +27700,8 @@
 
         <t pos="V">alkaa</t>
 
-        <t pos="V">lähteä pois; astua ulos; puhjeta esiin; käydä päinsä;
-        tulla jksik; olla seurauksena; saada alkunsa</t>
+        <t pos="V">lähteä pois; astua ulos; puhjeta esiin; käydä päinsä; tulla
+        jksik; olla seurauksena; saada alkunsa</t>
 
         <td pos="V">ilmaisee liikkeen suuntaa ulos jostakin</td>
 
@@ -31772,8 +31779,7 @@
       <tg xml:lang="fin">
         <t pos="V">laulattaa</t>
 
-        <t pos="V">pyytää laulamaan; pakottaa laulamaan; opettaa
-        laulamaan</t>
+        <t pos="V">pyytää laulamaan; pakottaa laulamaan; opettaa laulamaan</t>
       </tg>
     </mg>
   </e>
@@ -32191,8 +32197,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V">osata hieman; osata jonkin verran; taitaa jonkin
-        verran</t>
+        <t pos="V">osata hieman; osata jonkin verran; taitaa jonkin verran</t>
       </tg>
     </mg>
   </e>
@@ -49703,7 +49708,9 @@
   <e>
     <lg>
       <l pos="V">сепнӓш</l>
+
       <l_ref Contlex="V_ЕМ" pos="V">цепнӹ</l_ref>
+
       <stg>
         <st Contlex="V_ЕМ">сепнӹ</st>
       </stg>
@@ -66173,6 +66180,7 @@
         <t pos="V">kuluttaa rikki</t>
       </tg>
     </mg>
+
     <mg>
       <m>
         <head/>
@@ -66914,6 +66922,7 @@
         <t pos="V">soittaa soitinta</t>
       </tg>
     </mg>
+
     <mg>
       <m>
         <head/>
@@ -72154,14 +72163,15 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="V">ripottautua</t>
       </tg>
     </mg>
+
     <mg>
-        <defNative>3.p.</defNative>
+      <defNative>3.p.</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">tuhlautua</t>
@@ -73699,6 +73709,7 @@
 
       <tg xml:lang="fin">
         <t pos="V">antaa mädätä</t>
+
         <t pos="V">antaa märkiä</t>
       </tg>
     </mg>
@@ -73810,6 +73821,7 @@
         <t pos="V">syljeksiä</t>
       </tg>
     </mg>
+
     <mg>
       <defNative/>
 
@@ -73818,6 +73830,12 @@
 
         <tf pos="V">sataa tihkusadetta</tf>
       </tg>
+
+      <xg>
+        <x>юр шӹведӓ</x>
+
+        <xt>sataa ripottelee (jk)</xt>
+      </xg>
     </mg>
   </e>
 
@@ -76253,8 +76271,7 @@
 
         <t pos="V">viheriöidä</t>
 
-        <t pos="V">luoda lehteen; värittää vihreäksi; levitä vihreää
-        väriä</t>
+        <t pos="V">luoda lehteen; värittää vihreäksi; levitä vihreää väriä</t>
       </tg>
     </mg>
   </e>
@@ -82870,6 +82887,7 @@
         <xt>muokata peltoa (JK)</xt>
       </xg>
     </mg>
+
     <mg>
       <defNative>JK: Техеньӹм пырташ агыл?</defNative>
 
@@ -82883,8 +82901,9 @@
         <xt>synnyttää</xt>
       </xg>
     </mg>
+
     <mg>
-        <defNative>синоним: шыпшылаш</defNative>
+      <defNative>синоним: шыпшылаш</defNative>
 
       <tg xml:lang="fin">
         <td pos="V">lypsää</td>
