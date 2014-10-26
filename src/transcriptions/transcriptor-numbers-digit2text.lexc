@@ -88,25 +88,25 @@ LEXICON TENSM
 9:ӹндекшлӹ LÅGEVM ;
 
 LEXICON TENM
-лу:1%0 MILJON ;
+1%0:лу  MILJON ;
 
 LEXICON LÅGEVM
-:%0 MILJON ;
-% : ONESM ;
+%0: MILJON ;
+:%   ONESM ;
 
 LEXICON ONESM
-ик% миллион% :1 OVERTHOUSANDS ;
-кок:2 MILJON ;
-кым:3 MILJON ;
-нӹл:4 MILJON ;
-вӹц:5 MILJON ;
-куд:6 MILJON ;
-шӹм:7 MILJON ;
-кӓндӓкш:8 MILJON ;
-ӹндекш:9 MILJON ; 
+1:ик% миллион%   OVERTHOUSANDS ;
+2:кок MILJON ;
+3:кым MILJON ;
+4:нӹл MILJON ;
+5:вӹц MILJON ;
+6:куд MILJON ;
+7:шӹм MILJON ;
+8:кӓндӓкш MILJON ;
+9:ӹндекш MILJON ; 
 
 LEXICON MILJON
-% миллион% : OVERTHOUSANDS ;
+:% миллион%   OVERTHOUSANDS ;
 
 ! =================
 ! Under the million
@@ -115,86 +115,86 @@ LEXICON MILJON
 LEXICON OVERTHOUSANDS
 HUNDREDST ;		! x00.000.000
 шӱдӹ:1 HUNDREDT ;	! 100.000.000
-:%0 TENST ;		!  20.000.000
-:%0 TEENST ;		!  10.000.000
-:%0%0 ONEST ;		!   2.000.000
-тӹжем:%0%01 THOUSAND ;	!   1.000.000
-:%0%0%0 UNDERTHOUSAND ;	
-:%0%0%0%0 TENS ;
-:%0%0%0%0 TEENS ;
-% :%0%0%0%0%0 LOHKAI ;
-:%0%0%0%0%0%0 ENDLEX ;	!  x000000
+%0: TENST ;		!  20.000.000
+%0: TEENST ;		!  10.000.000
+%0%0: ONEST ;		!   2.000.000
+%0%01:тӹжем THOUSAND ;	!   1.000.000
+%0%0%0: UNDERTHOUSAND ;	
+%0%0%0%0: TENS ;
+%0%0%0%0: TEENS ;
+%0%0%0%0%0:%   LOHKAI ;
+%0%0%0%0%0%0:  ENDLEX ;	!  x000000
 
 LEXICON HUNDREDST
-кок:2  CUODIT ;	! 200000-299999
-кым:3 CUODIT ;	! 300000-399999
-нӹл:4 CUODIT ;	! 400000-499999
-вӹц:5 CUODIT ;	! 500000-599999
-куд:6 CUODIT ;	! 600000-699999
-шӹм:7 CUODIT ;	! 700000-799999
-кӓндӓкш:8 CUODIT ;	! 800000-899999
-ӹндекш:9 CUODIT ;	! 900000-999999
+2:кок  CUODIT ;	! 200000-299999
+3:кым CUODIT ;	! 300000-399999
+4:нӹл CUODIT ;	! 400000-499999
+5:вӹц CUODIT ;	! 500000-599999
+6:куд CUODIT ;	! 600000-699999
+7:шӹм CUODIT ;	! 700000-799999
+8:кӓндӓкш CUODIT ;	! 800000-899999
+9:ӹндекш CUODIT ;	! 900000-999999
 
 LEXICON CUODIT
 % шӱдӹ: HUNDREDT ;	! 100000-199999
 
 LEXICON HUNDREDT	! X = 1-9, Y = 0-9
-% : TENST ;			! X2XYYY, X10YYY
-% : TEENST ;		! X1XYYY
-иктӹ:%01 THOUSANDS ;
-% :%0 ONEST ;		! XX0YYY
-:%0%0 THOUSANDS ;	! X00YYY
+:%   TENST ;			! X2XYYY, X10YYY
+:%   TEENST ;		! X1XYYY
+%01иктӹ THOUSANDS ;
+%0:%   ONEST ;		! XX0YYY
+%0%0: THOUSANDS ;	! X00YYY
 
 LEXICON TEENST
 !лу:%0 THOUSANDS ;
-луат:1 TEENT ;
+1:луат TEENT ;
 
 LEXICON TEENT
-ик:1 THOUSANDS ;
-кок:2 THOUSANDS ;
-кым:3 THOUSANDS ;
-нӹл:4 THOUSANDS ;
-вӹц:5 THOUSANDS ;
-куд:6 THOUSANDS ;
-шӹм:7 THOUSANDS ;
-кӓндӓкш:8 THOUSANDS ;
-ӹндекш:9 THOUSANDS ;
+1:ик THOUSANDS ;
+2:кок THOUSANDS ;
+3:кым THOUSANDS ;
+4:нӹл THOUSANDS ;
+5:вӹц THOUSANDS ;
+6:куд THOUSANDS ;
+7:шӹм THOUSANDS ;
+8:кӓндӓкш  THOUSANDS ;
+9:ӹндекш  THOUSANDS ;
 
 
 LEXICON TENST
-луатик% тӹжем:1 THOUSAND ;
-коклы:2 LÅGEVT ;
-кымлы:3 LÅGEVT ;
-нӹллӹ:4 LÅGEVT ;
-вӹцлӹ:5 LÅGEVT ;
-кудлы:6 LÅGEVT ;
-шӹмлӹ:7 LÅGEVT ;
-кӓндӓкшлӹ:8 LÅGEVT ;
-ӹндекшлӹ:9 LÅGEVT ;
+1:луатик% тӹжем THOUSAND ;
+2:коклы LÅGEVT ;
+3:кымлы LÅGEVT ;
+4:нӹллӹ LÅGEVT ;
+5:вӹцлӹ LÅGEVT ;
+6:кудлы LÅGEVT ;
+7:шӹмлӹ LÅGEVT ;
+8:кӓндӓкшлӹ LÅGEVT ;
+9:ӹндекшлӹ LÅGEVT ;
 
 LEXICON LÅGEVT
-:%0 THOUSANDS ;
-: ONEST ;
+%0:  THOUSANDS ;
+ ONEST ;
 
 LEXICON ONEST
-кок:2 THOUSANDS ;
-кым:3 THOUSANDS ;
-нӹл:4 THOUSANDS ;
-вӹц:5 THOUSANDS ;
-куд:6 THOUSANDS ;
-шӹм:7 THOUSANDS ;
-кӓндӓкш:8 THOUSANDS ;
-ӹндекш:9 THOUSANDS ;
+2:кок THOUSANDS ;
+3:кым THOUSANDS ;
+4:нӹл THOUSANDS ;
+5:вӹц THOUSANDS ;
+6:куд THOUSANDS ;
+7:шӹм  THOUSANDS ;
+8:кӓндӓкш  THOUSANDS ;
+9:ӹндекш  THOUSANDS ;
 
 LEXICON THOUSANDS      ! x > 1
-% тӹжем% : THOUSAND ;
+:% тӹжем%  THOUSAND ;
 
 LEXICON THOUSAND
-% : UNDERTHOUSAND ;	   ! 1100-1999
-% :%0 TENS ;	   ! 1020-1099
-% :%0 TEENS ;	   ! 1010-1019
-% :%0%0 LOHKAI ;	   ! 1001-1009
-:%0%0%0 ENDLEX ;	   ! 1000
+  :%  UNDERTHOUSAND ;	   ! 1100-1999
+%0:%   TENS ;	   ! 1020-1099
+%0:%   TEENS ;	   ! 1010-1019
+%0%0:%   LOHKAI ;	   ! 1001-1009
+%0%0%0: ENDLEX ;	   ! 1000
 
 !===========================
 !Here starts the 999 numbers
@@ -202,29 +202,29 @@ LEXICON THOUSAND
 
 LEXICON UNDERTHOUSAND
 HUNDREDS ;
-шӱдӹ:1 HUNDRED ;
+1:шӱдӹ HUNDRED ;
 
 LEXICON HUNDREDS
-кок:2  CUODI ;
-кым:3 CUODI ;
-нӹл:4 CUODI ;
-вӹц:5 CUODI ;
-куд:6 CUODI ;
-шӹм:7 CUODI ;
-кӓндӓкш:8 CUODI ;
-ӹндекш:9 CUODI ;
+2:кок  CUODI ;
+3:кым CUODI ;
+4:нӹл CUODI ;
+5:вӹц CUODI ;
+6:куд CUODI ;
+7:шӹм CUODI ;
+8:кӓндӓкш CUODI ;
+9:ӹндекш CUODI ;
 
 LEXICON CUODI
-% шӱдӹ: HUNDRED ;
+:% шӱдӹ HUNDRED ;
 
 LEXICON HUNDRED
-% : TENS ;
-% : TEENS ;
-% :%0 LOHKAI ;
-:%0%0 ENDLEX ;
+:%  TENS ;
+:%  TEENS ;
+%0:%  LOHKAI ;
+%0%0: ENDLEX ;
 
 LEXICON TEENS
-луат:1 LOHKAI ;
+1:луат LOHKAI ;
 
 LEXICON LOHKAI
  CARDINAL-LOHKAI ;
@@ -241,58 +241,58 @@ LEXICON CARDINAL-LOHKAI
 !кӓндӓкш+Attr:8 ENDLEX ;
 !ӹндекш+Attr:9 ENDLEX ;
 
-иктӹ:1 ENDLEX ;
-кокты:2 ENDLEX ;
-кымыт:3 ENDLEX ;
-нӹлӹт:4 ENDLEX ;
-вӹзӹт:5 ENDLEX ;
-кудыт:6 ENDLEX ;
-шӹмӹт:7 ENDLEX ;
-кӓндӓкшӹ:8 ENDLEX ;
-ӹндекшӹ:9 ENDLEX ;
+1:иктӹ ENDLEX ;
+2:кокты ENDLEX ;
+3:кымыт ENDLEX ;
+4:нӹлӹт ENDLEX ;
+5:вӹзӹт ENDLEX ;
+6:кудыт ENDLEX ;
+7:шӹмӹт ENDLEX ;
+8:кӓндӓкшӹ ENDLEX ;
+9:ӹндекшӹ ENDLEX ;
 
 LEXICON ORDINAL-LOHKAI
-икшӹ:1%. ENDLEX ;
-кокшы:2%. ENDLEX ;
-кымшы:3%. ENDLEX ;
-нӹлӹмшӹ:4%. ENDLEX ;
-вӹзӹмшӹ:5%. ENDLEX ;
-кудымшы:6%. ENDLEX ;
-шӹмшӹ:7%. ENDLEX ;
-кӓндӓкшӹмшӹ:8%. ENDLEX ;
-ӹндекшӹмшӹ:9%. ENDLEX ;
+1%.:икшӹ ENDLEX ;
+2%.:кокшы ENDLEX ;
+3%.:кымшы ENDLEX ;
+4%.:нӹлӹмшӹ ENDLEX ;
+5%.:вӹзӹмшӹ ENDLEX ;
+6%.:кудымшы ENDLEX ;
+7%.:шӹмшӹ ENDLEX ;
+8%.:кӓндӓкшӹмшӹ ENDLEX ;
+9%.:ӹндекшӹмшӹ ENDLEX ;
 
 LEXICON TENS
-лу:1%0 ENDLEX ;
-лушы:1%0%. ENDLEX ; !!= @CODE@ ordinal
-коклы:2 LÅGEV ;
-кымлы:3 LÅGEV ;
-нӹллӹ:4 LÅGEV ;
-вӹцлӹ:5 LÅGEV ;
-кудлу:6 LÅGEV ;
-шӹмлу:7 LÅGEV ;
-кӓндӓкшлу:8 LÅGEV ;
-ӹндекшлу:9 LÅGEV ;
+1%0:лу ENDLEX ;
+1%0%.:лушы ENDLEX ; !!= @CODE@ ordinal
+2:коклы LÅGEV ;
+3:кымлы LÅGEV ;
+4:нӹллӹ LÅGEV ;
+5:вӹцлӹ LÅGEV ;
+6:кудлу LÅGEV ;
+7:шӹмлу LÅGEV ;
+8:кӓндӓкшлу LÅGEV ;
+9:ӹндекшлу LÅGEV ;
 
 LEXICON LÅGEV
-:%0 ENDLEX ;
-шы:%0%. ENDLEX ; !!= @CODE@ ordinal
-% :    LOHKAI ;
+%0: ENDLEX ;
+%0%.:шы ENDLEX ; !!= @CODE@ ordinal
+:%     LOHKAI ;
 
 LEXICON ONES
 CARDINAL-LOHKAI ;
  ORDINAL-ONES ;
 
 LEXICON ORDINAL-ONES
-пӹтӓришӹ:1%. ENDLEX ;
-кокшы:2%. ENDLEX ;
-кымшы:3%. ENDLEX ;
-нӹлӹмшӹ:4%. ENDLEX ;
-вӹзӹмшӹ:5%. ENDLEX ;
-кудымшы:6%. ENDLEX ;
-шӹмшӹ:7%. ENDLEX ;
-кӓндӓкшӹмшӹ:8%. ENDLEX ;
-ӹндекшӹмшӹ:9%. ENDLEX ;
+1%.:пӹтӓришӹ ENDLEX ;
+2%.:кокшы ENDLEX ;
+3%.:кымшы ENDLEX ;
+4%.:нӹлӹмшӹ ENDLEX ;
+5%.:вӹзӹмшӹ ENDLEX ;
+6%.:кудымшы ENDLEX ;
+7%.:шӹмшӹ ENDLEX ;
+8%.:кӓндӓкшӹмшӹ ENDLEX ;
+9%.:ӹндекшӹмшӹ ENDLEX ;
 
 LEXICON ENDLEX
  # ;
