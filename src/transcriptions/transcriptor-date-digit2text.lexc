@@ -36,11 +36,15 @@ Multichar_Symbols
 @U.MONTH.11@ 
 @U.MONTH.12@ 
 
+@D.MONTH2@
+@D.MONTH@
 +Use/NG
 
 
 LEXICON Root
-
+29DAYS ;
+30DAYS ;
+31DAYS ;
 ! For each month: First the normative, then the non-normatives, then initial capital
 
 ! tammikuun 
@@ -101,7 +105,8 @@ LEXICON 31DAYS
 
 ! päivä
 LEXICON B
-%.:  MONTH ;
+%.@D.MONTH2@:+Use/NG@D.MONTH2@  MONTH ;
+%.@D.MONTH@:@D.MONTH@  MONTH-SECOND ;
 
 LEXICON MONTH
 1@U.MONTH.1@:@U.MONTH.1@ X ;
@@ -116,6 +121,21 @@ LEXICON MONTH
 1%0@U.MONTH.10@:@U.MONTH.10@ X ;
 11@U.MONTH.11@:@U.MONTH.11@ X ;
 12@U.MONTH.12@:@U.MONTH.12@ X ;
+
+!
+LEXICON MONTH-SECOND
+1@U.MONTH.1@:январьын@U.MONTH.1@ X ;
+2@U.MONTH.2@:февральын@U.MONTH.2@ X ;
+3@U.MONTH.3@:мартын@U.MONTH.3@ X ;
+4@U.MONTH.4@:апрельӹн@U.MONTH.4@ X ;
+5@U.MONTH.5@:майын@U.MONTH.5@ X ;
+6@U.MONTH.6@:июньын@U.MONTH.6@ X ;
+7@U.MONTH.7@:июльын@U.MONTH.7@ X ;
+8@U.MONTH.8@:августын@U.MONTH.8@ X ;
+9@U.MONTH.9@:сентябрьӹн@U.MONTH.9@ X ;
+1%0@U.MONTH.10@:октябрьӹн@U.MONTH.10@ X ;
+11@U.MONTH.11@:ноябрьын@U.MONTH.11@ X ;
+12@U.MONTH.12@:декабрьын@U.MONTH.12@ X ;
 
 LEXICON X
 %.: # ;
