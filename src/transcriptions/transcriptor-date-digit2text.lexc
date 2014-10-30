@@ -36,15 +36,16 @@ Multichar_Symbols
 @U.MONTH.11@ 
 @U.MONTH.12@ 
 
+@U.MONTH2.YES@
 @D.MONTH2@
 @D.MONTH@
 +Use/NG
 
 
 LEXICON Root
-29DAYS ;
-30DAYS ;
-31DAYS ;
+@U.MONTH2.YES@ 29DAYS ;
+@U.MONTH2.YES@ 30DAYS ;
+@U.MONTH2.YES@ 31DAYS ;
 ! For each month: First the normative, then the non-normatives, then initial capital
 
 ! tammikuun 
@@ -106,7 +107,7 @@ LEXICON 31DAYS
 ! päivä
 LEXICON B
 %.@D.MONTH2@:+Use/NG@D.MONTH2@  MONTH ;
-%.@D.MONTH@:@D.MONTH@  MONTH-SECOND ;
+%.@D.MONTH@:% @D.MONTH@  MONTH-SECOND ;
 
 LEXICON MONTH
 1@U.MONTH.1@:@U.MONTH.1@ X ;
