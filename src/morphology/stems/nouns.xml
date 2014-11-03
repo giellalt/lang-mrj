@@ -18765,6 +18765,53 @@
 
   <e>
     <lg>
+      <l pos="N">вовш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ_SUB">вовш</st>
+
+        <st Contlex="N_КОЛ">вопш</st>
+      </stg>
+
+      <stress>вовш</stress>
+    </lg>
+
+    <mg>
+      <m>
+        <head>
+          <!--дупло на дереве для пчел-->
+        </head>
+
+        <defNative>(Jk): Kts myös вовш (Wichmann 1931:3)</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N">metsämehiläiskolo</t>
+      </tg>
+
+      <xg>
+        <x>вопш керем</x>
+
+        <xt>metsämehiläishoitoköysi</xt>
+      </xg>
+
+      <xg>
+        <x>вовшым шуаш (Wichmann 1931:3)</x>
+
+        <xt>kaivertaa mehiläiskoloja puihin</xt>
+      </xg>
+
+      <xg>
+        <x>Тоштын вовш шуаш кузат ылын тум вуйышкы вовш керем дон
+        (W_1931:3)</x>
+
+        <xt>Ennen kiivettiin tammipuuhun metsämehiläishoitoköyden avulla.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">водевиль</l>
 
       <stg>
@@ -19311,6 +19358,8 @@
 
       <stg>
         <st Contlex="N_КОЛ">вопш</st>
+
+        <st Contlex="N_КОЛ">вовш</st>
       </stg>
 
       <stress>вопш</stress>
@@ -19322,7 +19371,7 @@
           <!--дупло на дереве для пчел-->
         </head>
 
-        <defNative/>
+        <defNative>(Jk): Kts myös вовш (Wichmann 1931:3)</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -19333,6 +19382,19 @@
         <x>вопш керем</x>
 
         <xt>metsämehiläishoitoköysi</xt>
+      </xg>
+
+      <xg>
+        <x>вовшым шуаш (Wichmann 1931:3)</x>
+
+        <xt>kaivertaa mehiläiskoloja puihin</xt>
+      </xg>
+
+      <xg>
+        <x>Тоштын вовш шуаш кузат ылын тум вуйышкы вовш керем дон
+        (W_1931:3)</x>
+
+        <xt>Ennen kiivettiin tammipuuhun metsämehiläishoitoköyden avulla.</xt>
       </xg>
     </mg>
   </e>
@@ -94834,16 +94896,21 @@
 
       <stg>
         <st Contlex="N_КОЛ">мелӹш</st>
+
+        <st Contlex="N_КОЛ">лӓктем</st>
       </stg>
 
-      <stress>ме•лӹш</stress>
+      <stress>ме•лӹш </stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>лӓктем mehiläispesän suu. W_1931 mukaan käytettiin
+      мелӹш</defNative>
 
       <tg xml:lang="fin">
         <td pos="N">lippalakin lippa</td>
+
+        <td pos="N">mehiläispesän suu ( _1930)</td>
       </tg>
     </mg>
   </e>
@@ -189975,7 +190042,8 @@
     </lg>
 
     <mg>
-      <defNative>Sav: излишек нечет</defNative>
+      <defNative>Sav: излишек, нечет. Kts myös JK_ утынзак ‘ylimääräinen
+      ihminen'</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">ylijäämä</t>
@@ -190041,10 +190109,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: оставлять излишек, сделать излишек</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ylijäämien jättäminen</t>
+
+        <t pos="N">ylimääräisen ruoan jättääminen</t>
       </tg>
     </mg>
   </e>
@@ -190071,6 +190141,35 @@
 
   <e>
     <lg>
+      <l pos="N">утынзак</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">утынзак</st>
+      </stg>
+
+      <stress>уты•нзак</stress>
+    </lg>
+
+    <mg>
+      <defNative>Sav ulat, pyrtenäm. (ylimääräinen ihminen JK: turhake tai
+      "viides rengas")</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">turhake</t>
+
+        <t pos="N">ylimääräinen ihminen</t>
+      </tg>
+
+      <xg>
+        <x>Шонгеммӹкӹ утынзак лимӹлӓ ӹшкӓлӓ.</x>
+
+        <xt>Kun ikäännytään, tulemme ylimääräisiksi.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">утырец</l>
 
       <stg>
@@ -190081,10 +190180,12 @@
     </lg>
 
     <mg>
-      <defNative>Sav uke.</defNative>
+      <defNative>Sav uke. (? нутрец nutria )</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">nutria</t>
+
+        <t pos="N">rämemajava</t>
       </tg>
     </mg>
   </e>
@@ -190143,10 +190244,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: kankaasta jota sopii silittää</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">silittyminen</t>
       </tg>
     </mg>
   </e>
@@ -190163,11 +190264,17 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>jk: fr</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">silittäminen</t>
       </tg>
+
+      <xg>
+        <x>тыгырым утюжымаш</x>
+
+        <xt>vaatteiden silitys</xt>
+      </xg>
     </mg>
   </e>
 
@@ -202810,7 +202917,7 @@
     </lg>
 
     <mg>
-      <defNative>(synon.) чӓс </defNative>
+      <defNative>(synon.) чӓс</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">kello</t>
@@ -206890,10 +206997,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>? jk : шавашым эртӓрӹмӓш</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pysäyttäminen</t>
       </tg>
     </mg>
   </e>
@@ -206930,10 +207037,11 @@
     </lg>
 
     <mg>
-      <defNative>Сав уке. Васик уке.</defNative>
+      <defNative>Сав уке. Васик уке. JK: ? kts шапш - puolattu lanka Vrt (Jk):
+      вовш (Wichmann 1931:3) Ortografia_1992 вопш</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">puolattu lanka</t>
       </tg>
     </mg>
   </e>
@@ -207891,7 +207999,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">heilautus</t>
+
+        <t pos="N">heilauttaminen</t>
       </tg>
     </mg>
   </e>
@@ -208227,10 +208337,13 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: Sav - vrt шалмалӓшкӓ - syväastiassa tarjottava
+      kotitekoinen pasta</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kulho</t>
+
+        <t pos="N">syväastia</t>
       </tg>
     </mg>
   </e>
@@ -208247,7 +208360,8 @@
     </lg>
 
     <mg>
-      <defNative>лапша</defNative>
+      <defNative>лапша Vrt myös лӓшкӓм качмаш - häissä tarjottava kotitekoinen
+      pasta (syväastiassa) joka tarkoittaa häälahjojen seremoniaa</defNative>
 
       <tg xml:lang="fin">
         <tf pos="N">kotitekoinen pasta</tf>
@@ -208762,10 +208876,11 @@
     </lg>
 
     <mg>
-      <defNative>Васик улы. JK (синоним?) шаналтышы</defNative>
+      <defNative>Васик улы. JK (синоним?) шаналтышы ӓль
+      шаналталмаш</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">harkinta</t>
       </tg>
     </mg>
   </e>
