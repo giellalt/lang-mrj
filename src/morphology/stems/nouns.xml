@@ -204516,7 +204516,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pilkonta</t>
+
+        <t pos="N">huolimaton pilkkominen</t>
       </tg>
     </mg>
   </e>
@@ -204536,7 +204538,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tiivistäminen</t>
+
+        <t pos="N">yhdistäminen</t>
+
+        <t pos="N">lähentäminen</t>
       </tg>
     </mg>
   </e>
@@ -204553,10 +204559,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK_ myös vertauskuvallisesti ?</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lähestyminen</t>
+
+        <t pos="N">tiivistyminen</t>
+
+        <t pos="N">yhdistyminen</t>
       </tg>
     </mg>
   </e>
@@ -204576,7 +204586,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tiivistyminen</t>
       </tg>
     </mg>
   </e>
@@ -204596,7 +204606,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">palovesisäiliö</t>
       </tg>
     </mg>
   </e>
@@ -204613,10 +204623,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>зарубка метка</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">merkintä</t>
+
+        <t pos="N">pilkka</t>
+
+        <t pos="N">puumerkki</t>
       </tg>
     </mg>
   </e>
@@ -204633,10 +204647,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>TRa: salvaminen (myös) salvoksen hakkuu</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">salvominen</t>
       </tg>
     </mg>
   </e>
@@ -204653,10 +204667,11 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: крестьянская верхняя зимняя одежда из домашнего сукна с
+      большим воротником</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vanha talvitakki</t>
       </tg>
     </mg>
   </e>
@@ -204673,10 +204688,15 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Huom. ääntäminen: čäsomn'ä (jk) Myös часокня
+      (Sav:323)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">rukoushuone</t>
+
+        <t pos="N">kappeli</t>
+
+        <t pos="N">tšasouna</t>
       </tg>
     </mg>
   </e>
@@ -204693,10 +204713,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>gramm.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">partikkeli</t>
       </tg>
     </mg>
   </e>
