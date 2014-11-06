@@ -203971,10 +203971,31 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>?</defNative>
 
       <tg xml:lang="fin">
         <t pos="N"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">цӹптӹргӹ</l>
+
+      <stg>
+        <st Contlex="N_ТӸРВӸ">цӹптӹргӹ</st>
+      </stg>
+
+      <stress>цӹптӹ•ргӹ</stress>
+    </lg>
+
+    <mg>
+      <defNative>(архаизм) особая фигура в вышивке нашмак - старинного женск
+      головн убора</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">кirjontaelementti</t>
       </tg>
     </mg>
   </e>
@@ -203991,11 +204012,34 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: 1) цвет лица,_ вид образ облик,_ 2) цвет лица, масть
+      животных</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">näkö</t>
+
+        <t pos="N">ulkonäkö</t>
+
+        <t pos="N">kasvo</t>
+
+        <t pos="N">hahmo</t>
+
+        <t pos="N">karvasävy</t>
+
+        <t pos="N">väri</t>
+
+        <tCtn>
+          <t>väri</t>
+
+          <re>eläimillä</re>
+        </tCtn>
       </tg>
+
+      <xg>
+        <x>мӹнь ти цӹрем ам яраты (1981:189)</x>
+
+        <xt>minä en pidä tästä väristä</xt>
+      </xg>
     </mg>
   </e>
 
@@ -204014,7 +204058,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">punastuttaminen</t>
       </tg>
     </mg>
   </e>
@@ -204034,7 +204078,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">punertuminen</t>
       </tg>
     </mg>
   </e>
@@ -204051,10 +204095,11 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Jk: valmiminen (kuv.) ja (hienon) värin saaminen
+      (jk)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">hehkun saaminen</t>
       </tg>
     </mg>
   </e>
@@ -204074,7 +204119,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ponnistelut</t>
       </tg>
     </mg>
   </e>
@@ -204094,7 +204139,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ponnistaminen</t>
+
+        <t pos="N">uurastaminen</t>
       </tg>
     </mg>
   </e>
@@ -204111,10 +204158,30 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>шуды цӹрцӹк - hepokatti</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">heinäsirkka</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">цӹрцӹк</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">цӹрцӹк</st>
+      </stg>
+
+      <stress>цӹ•рцӹк</stress>
+    </lg>
+
+    <mg>
+      <defNative>homonyymi - Sav: моточек (rus) - vyyhti kieppi?</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">vyyhti</t>
       </tg>
     </mg>
   </e>
@@ -204131,10 +204198,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative> turvotuttaminen (=antaa turvota)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N"> turvotuttaminen</t>
       </tg>
     </mg>
   </e>
@@ -204151,10 +204218,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>turvoaminen_turpoaminen_turvonta</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">turvotus</t>
       </tg>
     </mg>
   </e>
@@ -204171,10 +204238,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>yökastelu (lapsesta) _sängyn kastelu</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">yökastelu</t>
       </tg>
     </mg>
   </e>
@@ -204191,10 +204258,11 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: antaa kastaa JK: myös? lapsen pissittäminen (ennen
+      yöunia)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lapsen pissittäminen</t>
       </tg>
     </mg>
   </e>
@@ -204211,10 +204279,19 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>sietäminen odottaminen hetken odotus _ kestäminen JK: myös
+      kärssiminen, malttaminen odottaa</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sietäminen</t>
+
+        <t pos="N">kärssiminen</t>
+
+        <t pos="N">maltti</t>
+
+        <t pos="N">malttaminen</t>
+
+        <t pos="N">hetken odotus</t>
       </tg>
     </mg>
   </e>
@@ -204231,10 +204308,19 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>maltti kärsivällisyyssuvaitsevaisuus kestävyys kestäminen
+      (kivun)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">maltti</t>
+
+        <t pos="N">kärsivällisyys</t>
+
+        <t pos="N">suvaitsevaisuus</t>
+
+        <t pos="N">kestävyys</t>
+
+        <t pos="N">kestäminen (kivun)</t>
       </tg>
     </mg>
   </e>
@@ -204254,7 +204340,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">hätkähdys</t>
+
+        <t pos="N">hätkähtäminen</t>
       </tg>
     </mg>
   </e>
@@ -204274,7 +204362,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tutina</t>
+
+        <t pos="N">tutiseminen</t>
+
+        <t pos="N">hölskyminen</t>
       </tg>
     </mg>
   </e>
@@ -204294,7 +204386,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vapisuttaminen</t>
       </tg>
     </mg>
   </e>
@@ -204311,10 +204403,21 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>kuume (med.) vavistus väreet värinä, lepatus
+      värähtely</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kuume (med.)</t>
+
+        <t pos="N">vavistus</t>
+
+        <t pos="N">väreet</t>
+
+        <t pos="N">värinä</t>
+
+        <t pos="N">lepatus</t>
+
+        <t pos="N">värähtely</t>
       </tg>
     </mg>
   </e>
@@ -204334,7 +204437,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">värähdys</t>
+
+        <t pos="N">vapina</t>
       </tg>
     </mg>
   </e>
@@ -204354,7 +204459,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tärinä</t>
+
+        <t pos="N">tärähtely</t>
+
+        <t pos="N">räminä</t>
       </tg>
     </mg>
   </e>
@@ -204374,7 +204483,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vilu</t>
+
+        <t pos="N">viluttaminen</t>
       </tg>
     </mg>
   </e>
@@ -204391,10 +204502,16 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: (3.) трепетать от страха = pelkotila (kuv.)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tutina</t>
+
+        <t pos="N">tutiseminen</t>
+
+        <t pos="N">lepatus</t>
+
+        <t pos="N">värähtely</t>
       </tg>
     </mg>
   </e>
@@ -204414,7 +204531,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kärsivällisyys</t>
       </tg>
     </mg>
   </e>
@@ -204431,10 +204548,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>пӹркем цӹшкер - metsäpähkinöiden pensaikko</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pensaikko</t>
+
+        <t pos="N">tiheikkö</t>
       </tg>
     </mg>
   </e>
@@ -204451,10 +204570,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav uke. JK: цӹшкер син.агыл?</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">&lt;</t>
       </tg>
     </mg>
   </e>
@@ -204471,10 +204590,11 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: путовый сустав (бабка) под щеткой у лошади
+      (1981:189)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vuohinen</t>
       </tg>
     </mg>
   </e>
