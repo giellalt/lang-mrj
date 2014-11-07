@@ -204198,10 +204198,10 @@
     </lg>
 
     <mg>
-      <defNative> turvotuttaminen (=antaa turvota)</defNative>
+      <defNative>turvotuttaminen (=antaa turvota)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"> turvotuttaminen</t>
+        <t pos="N">turvotuttaminen</t>
       </tg>
     </mg>
   </e>
@@ -204853,10 +204853,13 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: (nyk.) yksityistaksi (vanh.)
+      yksittyiskauppias</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">yksityistaksi</t>
+
+        <t pos="N">yksittyiskauppias</t>
       </tg>
     </mg>
   </e>
@@ -204873,10 +204876,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: чӓсть</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">osa</t>
       </tg>
     </mg>
   </e>
@@ -204893,10 +204896,11 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: запчасти к машине механизмам _вариант: чӓстя JK:
+      ääntäminen [ч´ӓст´ӓ]</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">varaosa</t>
       </tg>
     </mg>
   </e>
@@ -204916,7 +204920,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">keuhkotauti</t>
+
+        <t pos="N">rintatauti</t>
       </tg>
     </mg>
   </e>
@@ -204936,7 +204942,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kuitti</t>
+
+        <t pos="N">maksutosite</t>
+
+        <t pos="N">pankkišekki</t>
       </tg>
     </mg>
   </e>
@@ -204978,7 +204988,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">matkalaukku</t>
       </tg>
     </mg>
   </e>
@@ -204998,7 +205008,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">mestari</t>
+
+        <t pos="N">maailmanmestari</t>
       </tg>
     </mg>
   </e>
@@ -205015,10 +205027,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Саваткован уке. Васикован улы.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">&lt;</t>
       </tg>
     </mg>
   </e>
@@ -205028,17 +205040,18 @@
       <l pos="N">ченя</l>
 
       <stg>
-        <st Contlex="NTag">ченя</st>
+        <st Contlex="N_ОЛМА">ченя</st>
       </stg>
 
       <stress>че•ня</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>(usk./relig.) Крещенье отмечается 19 января JK:
+      крешеньйӓ</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kirkkopyhä</t>
       </tg>
     </mg>
   </e>
@@ -205058,7 +205071,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pöty</t>
+
+        <t pos="N">palturi</t>
+
+        <t pos="N">hölynpöly</t>
+
+        <t pos="N">roskaa</t>
       </tg>
     </mg>
   </e>
@@ -205078,7 +205097,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kilpikonna</t>
       </tg>
     </mg>
   </e>
@@ -205098,7 +205117,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kattotiili</t>
       </tg>
     </mg>
   </e>
@@ -205115,10 +205134,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>(JK: sekä N_ОЛМА että N_КАРТА) Cerasus Avium</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">linnunkirsikka</t>
       </tg>
     </mg>
   </e>
@@ -205138,7 +205157,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tšerkessi</t>
       </tg>
     </mg>
   </e>
@@ -205158,7 +205177,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">muste</t>
+
+        <t pos="N">täytekynämuste</t>
       </tg>
     </mg>
   </e>
@@ -205178,7 +205199,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">luonnos</t>
+
+        <t pos="N">alustelma</t>
+
+        <t pos="N">luonnosvihko</t>
       </tg>
     </mg>
   </e>
@@ -205198,7 +205223,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">piirustaminen</t>
+
+        <t pos="N">piirros</t>
+
+        <t pos="N">piirtäminen</t>
       </tg>
     </mg>
   </e>
@@ -205218,7 +205247,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">piirustus</t>
+
+        <t pos="N">piirros</t>
       </tg>
     </mg>
   </e>
@@ -205238,7 +205269,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">piirustaja</t>
+
+        <t pos="N">piirtäjä</t>
       </tg>
     </mg>
   </e>
@@ -205255,10 +205288,11 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>piirustustunti (JK: vain tämä merkitys! MRJ versus
+      RUS)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">piirustustunti</t>
       </tg>
     </mg>
   </e>
@@ -205275,10 +205309,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav_SUB (Kuzn): угощение потчевание</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">juhlistaminen</t>
+
+        <t pos="N">juhliminen</t>
       </tg>
     </mg>
   </e>
@@ -205298,7 +205334,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">valkosipuli</t>
       </tg>
     </mg>
   </e>
@@ -205315,10 +205351,15 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav_SUB: myös чешньӓ (Pisterlä) большая плетеная корзина
+      устанавливаемая на сани (2008:324)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">niinikoppa</t>
+
+        <t pos="N">vasu</t>
+
+        <t pos="N">isokori</t>
       </tg>
     </mg>
   </e>
@@ -205338,8 +205379,16 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kunnia</t>
+
+        <t pos="N">kunnianosoitus</t>
       </tg>
+
+      <xg>
+        <x>честьӹм ӹштӓш келеш (JK)</x>
+
+        <xt>pitää tehdä jtk kunnianosoitukseksi</xt>
+      </xg>
     </mg>
   </e>
 
@@ -205355,10 +205404,18 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: myös kouluissa lukuvuoden neljännes</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kvarttali</t>
+
+        <t pos="N">neljäsosa</t>
+
+        <t pos="N">neljännes</t>
+
+        <t pos="N">lukuvuoden neljäsosa</t>
+
+        <td>koulussa lukuvuoden neljäsosa</td>
       </tg>
     </mg>
   </e>
@@ -205375,10 +205432,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK myös: чекушкы (250g pullo alkoholia)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">neljänneslitraa</t>
       </tg>
     </mg>
   </e>
