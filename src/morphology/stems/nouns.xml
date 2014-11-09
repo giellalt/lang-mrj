@@ -90850,11 +90850,13 @@
       <m>
         <head/>
 
-        <defNative>mhr: lisänimi; liikanimi</defNative>
+        <defNative>mhr: lisänimi; liikanimi . JK_</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N">&lt;</t>
+        <t pos="N">liikanimi</t>
+
+        <t pos="N">nimittely</t>
       </tg>
     </mg>
   </e>
@@ -91203,6 +91205,28 @@
 
       <tg xml:lang="fin">
         <t pos="N">perhonen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">лӹшӓгӓ</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">лӹшӓгӓ</st>
+      </stg>
+
+      <stress>лӹшӓ•гӓ</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">aasi</t>
+
+        <t pos="N">(kuv) kuormuri</t>
       </tg>
     </mg>
   </e>
@@ -205452,7 +205476,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: </defNative>
 
       <tg xml:lang="fin">
         <t pos="N"/>
@@ -205472,10 +205496,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Vasik uly! JK: ?näppäinvirhe _ vokaaliharm.!</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">näpsäyttäminen</t>
       </tg>
     </mg>
   </e>
@@ -205492,10 +205516,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: ?näppäinvirhe _ vokaaliharm.!</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">näpsäytys</t>
       </tg>
     </mg>
   </e>
@@ -205512,10 +205536,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Vas ? JK: näppäinvirhe _ vokaaliharm.!?</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">napsauttaminen</t>
+
+        <t pos="N">näpsäyttäminen</t>
+
+        <t pos="N">luunappi</t>
       </tg>
     </mg>
   </e>
@@ -205535,8 +205563,43 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">napsauttelu</t>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">чивӹк</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">чивӹк</st>
+
+        <st Contlex="N_КОЛ">чивык</st>
+      </stg>
+
+      <stress>чи•вӹк</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK_ Jolasal: чивӹк. JK: чивӹклӓ мадаш - leikkiä tiettyä
+      pöytäpeliä (играть в щелчки)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">näpäys</t>
+
+        <t pos="N">näpsäys</t>
+
+        <t pos="N">napsaus</t>
+
+        <t pos="N">luunappi</t>
+      </tg>
+
+      <xg>
+        <x>чивӹклӓ мадаш (JK)</x>
+
+        <xt>leikkiä tiettyä pöytäpeliä</xt>
+      </xg>
     </mg>
   </e>
 
@@ -205555,7 +205618,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vedätetyksi tuleminen</t>
+
+        <t pos="N">uunotetuksi tuleminen</t>
       </tg>
     </mg>
   </e>
@@ -205572,11 +205637,38 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK (syntakt) hieman eri merkitys, jos on mukana adverbiaali.
+      Rituaaleihin liittyen: Häissä (nykyinen käyttö) nuoriparille lahjojen
+      luovuttaminen, aiemmin vaatetuslahjat morsiamelta sulhasen
+      lähisukulaisille. Harvinaisempi käyttö (ei Sav?) usk.merkityksellä:
+      колышым чиктӹмӓш (jk) sukulaisnaisen osallistuminen vainaan pesuun ja
+      pukemiseen.</defNative>
 
       <tg xml:lang="fin">
+        <t pos="N">pukeminen</t>
+
         <t pos="N"/>
+
+        <t pos="N">(rel.) pukemisrituaali</t>
+
+        <t pos="N">(kuv) petkuttaminen</t>
+
+        <t pos="N">uunottaminen</t>
       </tg>
+
+      <xg>
+        <x>ӓзӓм чиктӹмӓш (Jk)</x>
+
+        <xt>vauvan pukeminen</xt>
+      </xg>
+
+      <xg>
+        <x>ӹдӹржӹм яжон чиктӹмӓш</x>
+
+        <xt>tyttärelle tyylivaatteiden ostaminen</xt>
+
+        <xt>приобретать качественную одежду</xt>
+      </xg>
     </mg>
   </e>
 
@@ -205595,7 +205687,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pukeutuminen</t>
       </tg>
     </mg>
   </e>
@@ -205612,10 +205704,15 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: чинӹм ярата (1981:191) --tykkää arvostuksista
+      kursailemisesta (jk)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">arvo</t>
+
+        <t pos="N">virkaarvo</t>
+
+        <t pos="N">kursailu</t>
       </tg>
     </mg>
   </e>
@@ -205635,7 +205732,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">virkamies</t>
+
+        <t pos="N">arvovalta</t>
       </tg>
     </mg>
   </e>
@@ -205655,7 +205754,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">korjaamatta jättäminen</t>
+
+        <t pos="N">korjauttamatta oleminen</t>
       </tg>
     </mg>
   </e>
@@ -205675,7 +205776,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">korjauttaminen</t>
       </tg>
     </mg>
   </e>
@@ -205692,10 +205793,11 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>чинялтӓш:чинялтеш 'korjaantuu' VS чинялтӓш:чинялтӓ
+      'pikakorjauttaa, tehdä pikakorjaus'</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">korjaantuminen</t>
       </tg>
     </mg>
   </e>
@@ -205715,7 +205817,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pikakorjaus</t>
       </tg>
     </mg>
   </e>
@@ -205735,7 +205837,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">visertäminen</t>
+
+        <t pos="N">viserrys</t>
+
+        <t pos="N">visertely</t>
+
+        <t pos="N">(kuv) höpötys</t>
       </tg>
     </mg>
   </e>
@@ -205755,7 +205863,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">päivämäärä</t>
+
+        <t pos="N">lukusana</t>
       </tg>
     </mg>
   </e>
@@ -205772,10 +205882,13 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>kalenteri JK: paksu seinäkalenteri (käytössä neuvostoliiton
+      aikana</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kalenteri</t>
+
+        <t pos="N">tietty seinäkalenteri</t>
       </tg>
     </mg>
   </e>
@@ -205792,10 +205905,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>matem.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">osoittaja</t>
       </tg>
     </mg>
   </e>
@@ -205815,7 +205928,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kaunokirjoitus</t>
       </tg>
     </mg>
   </e>
@@ -205835,7 +205948,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">puhdistaminen</t>
+
+        <t pos="N">puhdistus</t>
+
+        <t pos="N">poispyyhkäisy</t>
+
+        <t pos="N">deletoiminen</t>
       </tg>
     </mg>
   </e>
@@ -205855,7 +205974,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ruskettuminen</t>
       </tg>
     </mg>
   </e>
@@ -205872,10 +205991,11 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав (устар.) темная окраска - tumma väri. JK_
+      rusketus</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tumma väri</t>
       </tg>
     </mg>
   </e>
@@ -205892,10 +206012,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: ялчиэм --kengät</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vaatteet</t>
+
+        <t pos="N">kengät</t>
       </tg>
     </mg>
   </e>
@@ -205915,7 +206037,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">väri</t>
+
+        <t pos="N">vesivärit</t>
+
+        <t pos="N">maali</t>
       </tg>
     </mg>
   </e>
@@ -205935,7 +206061,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">värjäytyminen</t>
       </tg>
     </mg>
   </e>
