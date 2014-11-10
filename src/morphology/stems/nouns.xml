@@ -140365,6 +140365,8 @@
 
       <stg>
         <st Contlex="N_КОЛ">пырцук</st>
+
+        <st Contlex="N_КОЛ">чокмар</st>
       </stg>
 
       <stress>пы•рцук</stress>
@@ -140374,11 +140376,16 @@
       <m>
         <head/>
 
-        <defNative>приспособление для забивания свай</defNative>
+        <defNative>Sav: приспособление для забивания свай (1981) Myös synon
+        раман, чокмар JK: забивать сваи - paaluta paaluttaa (RFS)</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <td pos="N"/>
+        <t pos="N">paaluttamisvekotin</t>
+
+        <td pos="N">paaluamislaite</td>
+
+        <td pos="N">paaluttamishärpäke</td>
       </tg>
     </mg>
   </e>
@@ -205476,7 +205483,7 @@
     </lg>
 
     <mg>
-      <defNative>Sav: </defNative>
+      <defNative>Sav:</defNative>
 
       <tg xml:lang="fin">
         <t pos="N"/>
@@ -206078,10 +206085,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: ?шынгалмаш</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">nopea pukeutumine</t>
       </tg>
     </mg>
   </e>
@@ -206101,7 +206108,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vaatetus</t>
+
+        <t pos="N">pukeutuminen</t>
       </tg>
     </mg>
   </e>
@@ -206118,10 +206127,15 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: huolimaton lyhytaikainen maalaus (siel-täällä)
+      ?maalaussotku</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pikameikki</t>
+
+        <t pos="N">pikamaalaminen</t>
+
+        <t pos="N">maalaussotku (Jk)</t>
       </tg>
     </mg>
   </e>
@@ -206141,7 +206155,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">värjäily</t>
+
+        <t pos="N">maalailu</t>
+
+        <t pos="N">meikkaileminen</t>
       </tg>
     </mg>
   </e>
@@ -206161,7 +206179,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">värjääminen</t>
+
+        <t pos="N">värjäys</t>
+
+        <t pos="N">maalaminen</t>
       </tg>
     </mg>
   </e>
@@ -206178,10 +206200,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav uke. JK: väritys tai värityskirja?</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">väritys (Jk)</t>
       </tg>
     </mg>
   </e>
@@ -206198,10 +206220,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK (rus) kalu , mrj?</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">jäsen</t>
       </tg>
     </mg>
   </e>
@@ -206218,10 +206240,15 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: (устар) приспособление для забивания свай. Kts (synon)
+      пырцук раман</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">paaluttamislaite</t>
+
+        <td pos="N">paaluamisvekotin</td>
+
+        <td pos="N">paaluttamishärpäke</td>
       </tg>
     </mg>
   </e>
@@ -206232,16 +206259,18 @@
 
       <stg>
         <st Contlex="N_КОЛ">чоконь</st>
+
+        <st Contlex="N_КОЛ">косаргол</st>
       </stg>
 
       <stress>чо•конь</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: ср. (=synon) косаргол чохонь</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">miekkakala</t>
       </tg>
     </mg>
   </e>
@@ -206258,10 +206287,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK (myös) porhahtelu porhailu</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lentely</t>
+
+        <t pos="N">lentäminen</t>
       </tg>
     </mg>
   </e>
@@ -206278,10 +206309,18 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK (myös) pyrähdys ja/tai porhahtaminen</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">lentäminen</t>
+
+        <t pos="N">lentoonlähtö</t>
+
+        <t pos="N">pyrähdys</t>
+
+        <t pos="N">porhahtaminen</t>
+
+        <t pos="N">nouseminen ilmaan</t>
       </tg>
     </mg>
   </e>
@@ -206298,11 +206337,24 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: число количество счет JK: окса чотым пӓлӓш
+      келеш</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">luku</t>
+
+        <t pos="N">lukumäärä</t>
+
+        <t pos="N">laskenta</t>
+
+        <t pos="N">lukulasku</t>
       </tg>
+
+      <xg>
+        <x>окса чотым пӓлӓш келеш вет (Jk)</x>
+
+        <xt>pitääpä ottaa huomioon limiitit</xt>
+      </xg>
     </mg>
   </e>
 
@@ -206312,6 +206364,8 @@
 
       <stg>
         <st Contlex="N_КОЛ">чохонь</st>
+
+        <st Contlex="N_КОЛ">косаргол</st>
       </stg>
 
       <stress>чо•хонь</stress>
@@ -206321,7 +206375,27 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">miekkakala</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">чугун</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">чугун</st>
+      </stg>
+
+      <stress>чу•гун</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK lisäys _ Jolasal: [чуhун]</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">savi</t>
       </tg>
     </mg>
   </e>
@@ -206338,10 +206412,42 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: чугын ӱшкӱж (1981:192) упрямый дурной человек. Vrt (Jk)
+      чугын лепкӓ - упрямый твердолобый человек (1981:192)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">savi</t>
+
+        <t pos="N">saviruukku (JK_ )</t>
+      </tg>
+
+      <xg>
+        <x>чугын гӹц ӹштӹмӹ коршок (Jk)</x>
+
+        <xt>savesta tehty pytty</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">чугынкорны</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">чугынкорны</st>
+      </stg>
+
+      <stress>чу•гынкорны</stress>
+    </lg>
+
+    <mg>
+      <defNative>Sav: (устар) чугын корны - rautatie (1981:192) Vrt myös (Jk)
+      чугын пароход (устар) juna (Savatkova)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">rautatie</t>
+
+        <td>1900-luvun alun rautatie jota tehtiin käsityönä</td>
       </tg>
     </mg>
   </e>
@@ -206361,7 +206467,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">tšuktši</t>
       </tg>
     </mg>
   </e>
@@ -206378,10 +206484,15 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav (устар) чуаш:чуэм - льстить кому-л, ластиться,
+      привязываться к кому-либо (1981:193)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">imartelu</t>
+
+        <t pos="N">mairittelu</t>
+
+        <t pos="N">kosiskelu</t>
       </tg>
     </mg>
   </e>
@@ -206398,10 +206509,33 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: махань чучмаш! Mikä osuma!</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">osuminen</t>
+
+        <t pos="N">osuma</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">чучмаш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">чучмаш</st>
+      </stg>
+
+      <stress>чу•чмаш</stress>
+    </lg>
+
+    <mg>
+      <defNative>homonyymi JK: йӓнгеш худан чучмаш - pahan
+      aavistus</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">tuntuminen</t>
       </tg>
     </mg>
   </e>
@@ -206418,10 +206552,27 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>1.osuma arvaus 2.osumispakko 3.tavoittaminen, yllättäminen
+      4.onnistuminen (hankkeessa tai urakkateossa)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">osuma</t>
+
+        <t pos="N">arvaus</t>
+
+        <t pos="N">osumispakko</t>
+
+        <t pos="N">tavoittaminen</t>
+
+        <t pos="N">yllättäminen</t>
+
+        <t pos="N">onnistuminen</t>
+
+        <tCtn>
+          <t>onnistuminen</t>
+
+          <re>tehtävän-annossa</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -206438,11 +206589,17 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: vrt (rus) чучело. </defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">variksenpelätin</t>
       </tg>
+
+      <xg>
+        <x>ӓнпичеш чучылым шагалташ (Jk)</x>
+
+        <xt>laittaa variksenpelätin palstalle</xt>
+      </xg>
     </mg>
   </e>
 
@@ -206461,7 +206618,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">keimailu</t>
       </tg>
     </mg>
   </e>
@@ -206478,10 +206635,11 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK rus чубук 1. piipunvarsi 2.pistokas (черенок винограда)
+      (wiki). Sav: чывыкан трупка (1981:193) tietynlainen piippu</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">piipunvarsi</t>
       </tg>
     </mg>
   </e>
@@ -206498,10 +206656,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav uke. JK: vrt ?чувар (mhr)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kirjava (Jk?)</t>
       </tg>
     </mg>
   </e>
@@ -206518,10 +206676,11 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav_SUB (Pisterlä) маленький ростом (о чел) JK:
+      карлик?</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pätkä</t>
       </tg>
     </mg>
   </e>
@@ -206541,7 +206700,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">potkaisu</t>
       </tg>
     </mg>
   </e>
@@ -206561,7 +206720,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">jalkojen ojentelu</t>
       </tg>
     </mg>
   </e>
@@ -206578,10 +206737,13 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: jalan ojentaminen. JK: (myös) potkaisu,
+      rentoutuminen</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">potkaisu</t>
+
+        <t pos="N">jalan ojentaminen</t>
       </tg>
     </mg>
   </e>
@@ -206601,7 +206763,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">potkiminen</t>
       </tg>
     </mg>
   </e>
@@ -206621,7 +206783,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sätkytely</t>
+
+        <t pos="N">potkiminen</t>
       </tg>
     </mg>
   </e>
@@ -206641,7 +206805,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pakottaminen potkimaan</t>
       </tg>
     </mg>
   </e>
@@ -206661,7 +206825,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">potkut</t>
+
+        <t pos="N">potkiminen</t>
       </tg>
     </mg>
   </e>
@@ -206672,6 +206838,10 @@
 
       <stg>
         <st Contlex="N_КОЛ">чёрт</st>
+
+        <st Contlex="N_ОЛМА">иӓ</st>
+
+        <st Contlex="N_КОЛ_SUB">сытона</st>
       </stg>
 
       <stress>чёрт</stress>
@@ -206681,7 +206851,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">perkele</t>
+
+        <t pos="N">saatana</t>
       </tg>
     </mg>
   </e>
@@ -206701,7 +206873,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kujeilu</t>
       </tg>
     </mg>
   </e>
@@ -206721,7 +206893,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">yhdysmerkki</t>
       </tg>
     </mg>
   </e>
@@ -206738,11 +206910,23 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: чӓй йӱӓш vrt чӓйӹм йӱӓш</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">tee</t>
       </tg>
+
+      <xg>
+        <x>чӓй йӱӓш лиэш (Jk)</x>
+
+        <xt>voisi istahtaa (teehetkestä)</xt>
+      </xg>
+
+      <xg>
+        <x>ӹнде чӓйӹм йӱӓш лиэш (Jk)</x>
+
+        <xt>nyt voisi juoda teetä</xt>
+      </xg>
     </mg>
   </e>
 
@@ -206762,6 +206946,8 @@
 
       <tg xml:lang="fin">
         <t pos="N">vedenkeitin</t>
+
+        <t pos="N">teekannu</t>
       </tg>
     </mg>
   </e>
@@ -206778,10 +206964,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: малиновка</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">punarintasatakieli</t>
       </tg>
     </mg>
   </e>
@@ -206801,7 +206987,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">ankkurointi</t>
+
+        <t pos="N">laiturointi</t>
+
+        <t pos="N">kärryjen kiinnittäminen</t>
       </tg>
     </mg>
   </e>
@@ -206818,10 +207008,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav uke. JK? чӱнче [чӱнжэ] - finni näppylä</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">finni</t>
       </tg>
     </mg>
   </e>
@@ -206841,7 +207031,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">syttyminen palaamaan</t>
       </tg>
     </mg>
   </e>
@@ -206861,7 +207051,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sytyttäminen</t>
       </tg>
     </mg>
   </e>
@@ -206881,7 +207071,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">finni</t>
+
+        <t pos="N">näppylä</t>
       </tg>
     </mg>
   </e>
@@ -206901,7 +207093,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sulkeminen</t>
+
+        <t pos="N">klousaminen</t>
       </tg>
     </mg>
   </e>
@@ -206918,7 +207112,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav uke.</defNative>
 
       <tg xml:lang="fin">
         <t pos="N"/>
@@ -206941,7 +207135,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">porauttaminen</t>
+
+        <t pos="N">pyyntö sulkemaan (esim. ovi )</t>
       </tg>
     </mg>
   </e>
@@ -206961,7 +207157,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sulkeutuminen</t>
       </tg>
     </mg>
   </e>
@@ -206978,11 +207174,17 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK (homonyymi) puristaminen (finnin)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kuluttaminen</t>
       </tg>
+
+      <xg>
+        <x>kuluttaminen</x>
+
+        <xt>vaatteiden</xt>
+      </xg>
     </mg>
   </e>
 
@@ -206998,10 +207200,16 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK (myös) кадрым чӹдемдӹмӓш yt-neuvottelut</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vähentäminen</t>
+
+        <t pos="N">vähennys</t>
+
+        <t pos="N">karistaminen</t>
+
+        <t pos="N">yt-neuvottelut</t>
       </tg>
     </mg>
   </e>
@@ -207021,7 +207229,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">vähennys</t>
+
+        <t pos="N">väheneminen</t>
       </tg>
     </mg>
   </e>
@@ -207041,7 +207251,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">pysäkki</t>
+
+        <t pos="N">pysähdys</t>
       </tg>
     </mg>
   </e>
@@ -207058,10 +207270,11 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: чӹмбӓш = sitoa jalkineet (muinoin jalkineiden
+      sitoamistapa hieman nilkkojen yläpuolelta)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">jalkineiden sidonta</t>
       </tg>
     </mg>
   </e>
@@ -207081,7 +207294,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">visertely</t>
+
+        <t pos="N">(kuv) höpöttäminen</t>
       </tg>
     </mg>
   </e>
@@ -207101,7 +207316,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">hujahtaminen</t>
       </tg>
     </mg>
   </e>
@@ -207121,7 +207336,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">jännittäminen</t>
+
+        <t pos="N">(kuv) hiihtäminen</t>
+
+        <t pos="N">(kuv) juokseminen</t>
       </tg>
     </mg>
   </e>
@@ -207141,7 +207360,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">nokkiminen</t>
       </tg>
     </mg>
   </e>
@@ -207161,7 +207380,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">nokkailu</t>
       </tg>
     </mg>
   </e>
@@ -207181,7 +207400,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">nokkaiseminen</t>
+
+        <t pos="N">nokkaisu</t>
+
+        <t pos="N">(kuv) varkaus</t>
       </tg>
     </mg>
   </e>
@@ -207201,7 +207424,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">mehiläisen tai muun pisto</t>
       </tg>
     </mg>
   </e>
@@ -207221,7 +207444,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">nokkaaminen</t>
       </tg>
     </mg>
   </e>
@@ -207238,10 +207461,11 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK taikausko että linnut voivat ennustaa pahaa
+      kaakkumisellaan</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kaakkuminen</t>
       </tg>
     </mg>
   </e>
@@ -207258,10 +207482,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: волокно отделенное от кострики</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kuitu</t>
+
+        <t pos="N">laatukuitu</t>
       </tg>
     </mg>
   </e>
@@ -207278,7 +207504,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: праяжа оставшаяся от основы</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">kehrulankajäämiä</t>
@@ -207298,7 +207524,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: eno tai äidin pikkuveli (lapselle)</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">eno</t>
