@@ -432,7 +432,7 @@ LEXICON PXSG1-PL-DAT
 +Pl+PxSg1+Dat:%>влӓэмлӓн   K  ;
 +PxSg1+Pl+Dat:%>емвлӓлӓн  K  ;
 +Pl+Dat+PxSg1:%>влӓлӓнем   K  ;
-+PxSg1+Pl+Dat:%>емвлӓлӓ   K  ;
+!+PxSg1+Pl+Dat:%>емвлӓлӓ   K  ; !!= * __@CODE@__ Is this really supposed to be here
 
 LEXICON PXSG1-PL-GEN 
 +PxSg1+Pl+Gen:%>емвлӓн	   K  ;
@@ -515,7 +515,7 @@ LEXICON PL-DAT-PXSG2
 +Pl+PxSg2+Dat:%>влӓэтлӓн   K  ;
 +PxSg2+Pl+Dat:%>етвлӓлӓн  K  ;
 +Pl+Dat+PxSg2:%>влӓлӓнет   K  ;
-+PxSg2+Pl+Dat:%>етвлӓлӓ   K  ;
+!+PxSg2+Pl+Dat:%>етвлӓлӓ   K  ; !!= * __@CODE@__ Is this really supposed to be here
 
 LEXICON PL-GEN-PXSG2 
 +PxSg2+Pl+Gen:%>етвлӓн	   K  ;
@@ -597,7 +597,7 @@ LEXICON PXSG3-PL-DAT
 +Pl+PxSg3+Dat:%>влӓжӹлӓн   K  ;
 +Pl+Dat+PxSg3:%>влӓлӓнжӹ   K  ;
 +PxSg3+Pl+Dat:%>жЫ2%>влӓлӓн  K  ;
-!+PxSg3+Pl+Dat:%>ж%{ыӹØ%}влӓлӓ   K  ;
+!+PxSg3+Pl+Dat:%>ж%{ыӹØ%}влӓлӓ   K  ; !!= * __@CODE@__ Is this really supposed to be here
 
 LEXICON PXSG3-PL-GEN
 +Pl+PxSg3+Gen:%>влӓжӹн	   K  ;

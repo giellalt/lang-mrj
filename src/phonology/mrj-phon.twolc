@@ -51,14 +51,14 @@ Alphabet
 !! !!Sets 
 
 Sets
-BackLabVow =   о у ё ю О У Ё Ю ;
-FrontLabVow =   ӧ ӱ Ӧ Ӱ;
-NonLabVow =   ӓ а е и э я Ӓ А Е И Э Я ;
-Vow =  BackLabVow FrontLabVow NonLabVow ы Ы  ӹ Ӹ ; 
-BackVow = BackLabVow а А ы Ы ;
-FrontVow = FrontLabVow е и э ӓ ӹ Е И Э Ӓ Ӹ ;
-ArchiVow = %{ыӹØ%} Ы2 %{аӓ%} ;
-FullVow = BackLabVow FrontLabVow NonLabVow ;
+BackLabVows =   о у ё ю О У Ё Ю ;
+FrontLabVows =   ӧ ӱ Ӧ Ӱ;
+NonLabVows =   ӓ а е и э я Ӓ А Е И Э Я ;
+Vows =  BackLabVows FrontLabVows NonLabVows ы Ы  ӹ Ӹ ; 
+BackVows = BackLabVows а А ы Ы ;
+FrontVows = FrontLabVows е и э ӓ ӹ Е И Э Ӓ Ӹ ;
+ArchiVows = %{ыӹØ%} Ы2 %{аӓ%} ;
+FullVows = BackLabVows FrontLabVows NonLabVows ;
 
 CnsNoLN =  б в г д ж з к м ҥ п р с т ф х ц ч ш 
            Б В Г Д Ж З К М Ҥ П Р С Т Ф Х Ц Ч Ш ;
@@ -69,7 +69,7 @@ Cns =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш
 Cst =  к п т ф х ц ч ш с 
        К П Т Ф Х Ц Ч Ш Ц ;
 
-Ltrs = Vow Cns Й й  ъ ь Ъ Ь ;
+Ltrs = Vows Cns Й й  ъ ь Ъ Ь ;
 
 all =  Ltrs  %- ;
 
@@ -79,10 +79,10 @@ all =  Ltrs  %- ;
 
 Definitions
 
-LFC =  # [ Cns | й ]*  [ :FrontVow | Е2: | :е | :ӹ | :Ӹ ] \[ #: | :BackVow | :ы | :Ы ]* (%{аӓ%}:я ) \[ #: | :BackVow | :ы | :Ы ]*  (%^А2ЫӸ:0) ;
+LFC =  # [ Cns | й ]*  [ :FrontVows | Е2: | :е | :ӹ | :Ӹ ] \[ #: | :BackVows | :ы | :Ы ]* (%{аӓ%}:я ) \[ #: | :BackVows | :ы | :Ы ]*  (%^А2ЫӸ:0) ;
 
-LBC = # [ Cns | й ]* [ :BackVow ] \[ #: | :FrontVow | :Ӹ | :ӹ ]* (%{аӓ%}:я) \[ #: | :FrontVow | :Ӹ | :ӹ ]* (%^А2ЫӸ:0) ;
-! [ :BackVow ] ( %> | %^ConsTransf:0 | %^KIN:0 | BackVow | %{аӓ%}:а | %{аӓ%}:я | %{ыӹØ%}:ы | Ь2:0 | %{ыӹØ%}:0 | Е3:0 | Ы2:ы | Cns: )* ;
+LBC = # [ Cns | й ]* [ :BackVows ] \[ #: | :FrontVows | :Ӹ | :ӹ ]* (%{аӓ%}:я) \[ #: | :FrontVows | :Ӹ | :ӹ ]* (%^А2ЫӸ:0) ;
+! [ :BackVows ] ( %> | %^ConsTransf:0 | %^KIN:0 | BackVows | %{аӓ%}:а | %{аӓ%}:я | %{ыӹØ%}:ы | Ь2:0 | %{ыӹØ%}:0 | Е3:0 | Ы2:ы | Cns: )* ;
 
 
 !! !!Rules
@@ -110,7 +110,7 @@ Rules
 
 "Ь2:0 Palatal mark for V АМ +Prt1+Sg1"
 !! __@RULENAME@__  
-Ь2:0 <=> [ FullVow | й | CnsNoLN: ] (%^ConsTransf:) _ %> [ %{ыӹØ%}: | [н | д] %{аӓ%}: ] ;
+Ь2:0 <=> [ FullVows | й | CnsNoLN: ] (%^ConsTransf:) _ %> [ %{ыӹØ%}: | [н | д] %{аӓ%}: ] ;
          Cns (%^ConsTransf:) _ %> [н | д] %{аӓ%}: ;
 
 "Ь2:ш Palatal mark for V ЕМ +Prt1+Sg1"
@@ -136,10 +136,15 @@ Rules
 !! __@RULENAME@__
  %{аӓе%}:е <=> [ ы: | ӹ: ] %>  _ ;
 
+"Onset vowel in э"
+!! __@RULENAME@__
+ %{аӓе%}:э <=> [Vows - [ ы: | ӹ: ]] %>  _ ;
+
+
 ! JMR 2012-09-18
 "Onset vowel loss in suffix ыӹ0"
 !! __@RULENAME@__  
-   %{ыӹØ%}:0 <=> :Vow ( %^KIN:0 ) %> _ ;
+   %{ыӹØ%}:0 <=> :Vows ( %^KIN:0 ) %> _ ;
    	   _ %> [ е | %{ыӹе%}: | %{ыӹØ%}:ы | %{ыӹØ%}:ӹ ] ;
            %> ж Ы2: %> _  ;
           [ а:ӹ | а:ы ] %^А2ЫӸ:0 %> _ ;
@@ -159,11 +164,11 @@ Rules
 
 "Onset vowel Е2 realized in suffix :е"
 !! __@RULENAME@__
-  Е2:е <=> [ Cns (Ы2: |ӹ:|ы:)| й: ] %> _ [в|м|н|т|ш] ;
+  Е2:е <=> [ Cns (Ы2: |ӹ:|ы:)| й: ] (%^ConsTransf:) %> _ [в|м|н|т|ш|п] ;
 
 "Onset vowel Е2:э after retained vowel"
 !! __@RULENAME@__  
-Е2:э <=> [ ю | ӱ | у | ё | о | ӧ | и | е | э | а | ӓ ] %> _ [в|м|н|т|ш] ;
+Е2:э <=> [ ю | ӱ | у | ё | о | ӧ | и | е | э | а | ӓ ] (%^ConsTransf:) %> _ [в|м|н|т|ш|п] ;
 
 "Onset vowel Е3:э after retained vowel"
 !! __@RULENAME@__  
@@ -176,12 +181,12 @@ Rules
 
 "Stem final ы loss before Е2"
 !! __@RULENAME@__  
-ы:0 <=> #: Cns* Vow Cns+ _ %>  Е2: [в|м|н|т|ш] ;
+ы:0 <=> #: Cns* Vows Cns+ _ %>  Е2: [в|м|н|т|ш] ;
            _ (%^ConsTransf:) %> [ %{аӓе%}: | %{ыӹе%}: | е | %{аӓ%}: [м|т|ш|%>|#] | Е2: [в|м|н|т|ш] | Е3: ] ;
 
 "Stem final ӹ loss before Е2"
 !! __@RULENAME@__  
-ӹ:0 <=> #: Cns* Vow Cns+ _ %> Е2: [в|м|н|т|ш] ;
+ӹ:0 <=> #: Cns* Vows Cns+ _ %> Е2: [в|м|н|т|ш] ;
            _ (%^ConsTransf: ) %> [ %{аӓе%}: | %{ыӹе%}: | е | %{аӓ%}: [м|т|ш|%>|#]| Е2: [в|м|н|т|ш] | Е3: ] ;
 
 
@@ -189,15 +194,15 @@ Rules
 
 "Onset vowel ыӹ0 realized in suffix  %{ыӹØ%}:ы"
 !! __@RULENAME@__  
-  %{ыӹØ%}:ы <=> [ LBC  Cns  (( (ы) Ь2:) %> )| LBC ( н | л ) (ы) Ь2: %> | BackVow й: ( (ы) Ь2:0 ) %> | :BackVow Cns* | [ :BackVow | LBC ] [ Cns+ | Cns* й ] [ %{ыӹØ%}:0 | ы:0 ] %> ] _ [ ( %> ) [ Cns ] | # ] ;
+  %{ыӹØ%}:ы <=> [ LBC  Cns  (( (ы) Ь2:) %> )| LBC ( н | л ) (ы) Ь2: %> | BackVows й: ( (ы) Ь2:0 ) %> | :BackVows Cns* | [ :BackVows | LBC ] [ Cns+ | Cns* й ] [ %{ыӹØ%}:0 | ы:0 ] %> ] _ [ ( %> ) [ Cns ] | # ] ;
                  
-! [[ Cns | й ]+ %> | %> [ %> | BackVow | е | ArchiVow: | Cns ]* [ Cns | й ] ( %> ) ] _ [ ( %> ) Cns | # ] ;
+! [[ Cns | й ]+ %> | %> [ %> | BackVows | е | ArchiVows: | Cns ]* [ Cns | й ] ( %> ) ] _ [ ( %> ) Cns | # ] ;
 
 "Onset vowel %{ыӹØ%} realized in suffix  %{ыӹØ%}:ӹ"
 !! __@RULENAME@__
-  %{ыӹØ%}:ӹ <=> [ LFC [ Cns  | й ]  ( (ӹ) Ь2: ) | :FrontVow Cns+ | [ :FrontVow | LFC ] [ Cns+ | Cns* й ] [ %{ыӹØ%}:0 | ӹ:0 ] ( (ӹ) Ь2:) ] %> _ [ ( %> ) [ Cns  ] | # ] ;
-                 [ :FrontVow :0* ]  н _ т ;
-!                 :FrontVow  н _ т ;
+  %{ыӹØ%}:ӹ <=> [ LFC [ Cns  | й ]  ( (ӹ) Ь2: ) | :FrontVows Cns+ | [ :FrontVows | LFC ] [ Cns+ | Cns* й ] [ %{ыӹØ%}:0 | ӹ:0 ] ( (ӹ) Ь2:) ] %> _ [ ( %> ) [ Cns  ] | # ] ;
+                 [ :FrontVows :0* ]  н _ т ;
+!                 :FrontVows  н _ т ;
                   LFC [ ш | м ] _ [ ( %> ) [ Cns  ] | # ] ;
 
 "Onset vowel %{ыӹе%} realized in suffix  %{ыӹе%}:ӹ"
@@ -210,9 +215,13 @@ Rules
 
 "Onset vowel %{ыӹе%} realized in suffix  %{ыӹе%}:е"
 !! __@RULENAME@__
-%{ыӹе%}:е <=> [ Cns: | й: ] [ ы: | ӹ: | %{ыӹØ%}: ]  %> _  ;
+%{ыӹе%}:е <=> [ Cns: | й: ] [ ы:0 | ӹ:0 | %{ыӹØ%}: ]  %> _  ;
 ! [ ы: | ӹ: | %{ыӹØ%}: ]  %> _  ;
-            
+        
+"Onset vowel %{ыӹе%} realized in suffix  %{ыӹе%}:э"
+!! __@RULENAME@__
+%{ыӹе%}:э <=>  Vows   %> _  ;
+
 "Onset vowel %{ыӹэ%} realized in Ine and Ill suffixes %{ыӹэ%}:0"
 !! __@RULENAME@__
  %{ыӹэ%}:0 <=> [ ы | ӹ ] %> _  ;
@@ -221,30 +230,30 @@ Rules
 
 "Onset vowel %{ыӹэ%} realized in Ine and Ill suffixes %{ыӹэ%}:0"
 !! __@RULENAME@__
- %{ыӹэ%}:э <=> [ а | ӓ | я ] %> _  ;
+ %{ыӹэ%}:э <=> [ а | ӓ | я | о ] %> _  ;
 !€# олма%>%{ыӹэ%}штем
 !€0 олма0эштем
 
 
-!%{аӓ%}:я <=> Vow й:0 (ы:0|ӹ:0) %> _ [м|т|ш|%>|#] ;
+!%{аӓ%}:я <=> Vows й:0 (ы:0|ӹ:0) %> _ [м|т|ш|%>|#] ;
 "Affix mid or final front %{аӓ%}:ӓ"
 !! __@RULENAME@__
- %{аӓ%}:ӓ <=> [ LFC (ӹ:) [ :Cns (%>)| %> Cns:+ ] | :FrontVow Cns* %> ( %{ыӹØ%}: м ) | %> [ Е2:е | %{ыӹе%}:е | %{ыӹе%}:ӹ | %{ыӹе%}: м %{аӓ%}:ӓ ] [в|д|м|н|т|ш] Cns:* | Cns ӹ: %> ] _ [д|м|н|т|ш|к|%>|#] ;
+ %{аӓ%}:ӓ <=> [ LFC (ӹ:) [ :Cns (%>)| %> Cns:+ ] | :FrontVows Cns* %> ( %{ыӹØ%}: м ) | %> [ Е2:е | %{ыӹе%}:е | %{ыӹе%}:э | %{ыӹе%}:ӹ | %{ыӹе%}: м %{аӓ%}:ӓ ] [в|д|м|н|т|ш] Cns:* | Cns ӹ: %> ] _ [д|м|н|т|ш|к|%>|#] ;
       [е [в|д|м|н|т|ш]|ӓ] %> Cns* _ [д|м|н|т|ш|к|%>|#] ;
 !€# комбы%>еш%>н%{аӓ%}
 !€0 комб00еш0нӓ
-          :FrontVow Cns* %> р _ к ;
-          Vow  ӹ: %> _ # ;
-          [ :FrontVow | :FrontLabVow ] :0* %> Cns* _ ;
-! [ LFC (ӹ:) [ :Cns (%>)| %> Cns:+ ] | :FrontVow Cns* %> ( %{ыӹØ%}: м ) | %> [ Е2:е | %{ыӹе%}:е | %{ыӹе%}:ӹ | %{ыӹе%}: м %{аӓ%}:ӓ ] [в|д|м|н|т|ш] Cns:* | Cns ӹ: %> ] _ [д|м|н|т|ш|%>|#] ;
+          :FrontVows Cns* %> р _ к ;
+          FrontVows  ӹ: %> _ # ;
+          [ :FrontVows | :FrontLabVows ] [ :0 - й:0 ]* %> Cns* _ ;
+! [ LFC (ӹ:) [ :Cns (%>)| %> Cns:+ ] | :FrontVows Cns* %> ( %{ыӹØ%}: м ) | %> [ Е2:е | %{ыӹе%}:е | %{ыӹе%}:ӹ | %{ыӹе%}: м %{аӓ%}:ӓ ] [в|д|м|н|т|ш] Cns:* | Cns ӹ: %> ] _ [д|м|н|т|ш|%>|#] ;
 !€# библиотека%^А2ЫӸ%>л%{аӓ%}н
 !€0 библиотек0ӹ0лӓн
 
 "Affix mid or final back %{аӓ%}:а"
 !! __@RULENAME@__  
- %{аӓ%}:а <=> [ :BackVow [ Cns* | й ] %> ( %{ыӹØ%}: м | %{ыӹе%}:ы м ( %{аӓ%}:а д ) | %{ыӹе%}:ы [н|д] ) | LBC [ й %> %{ыӹØ%}: м  | :Cns  %> |р|н|д|л]| Cns ы: %> ] _ [д|м|н|т|ш|к|%>|#];
-          [ :BackVow | :BackLabVow ] :0* %> Cns* _ ;
-          BackVow  й: %^ConsTransf:0 %> [ н | д ] _ [м|т|%>|#];
+ %{аӓ%}:а <=> [ :BackVows  Cns*  %> ( %{ыӹØ%}: м | %{ыӹе%}:ы м ( %{аӓ%}:а д ) | %{ыӹе%}:ы [н|д] ) | :BackVows й %> [ %{ыӹØ%}: м | %{ыӹе%}:ы м ( %{аӓ%}:а д ) | %{ыӹе%}:ы [н|д] ] | LBC [ й %> %{ыӹØ%}: м  | :Cns  %> |р|н|д|л]| Cns ы: %> ] _ [д|м|н|т|ш|к|%>|#];
+          [ :BackVows | :BackLabVows ] [ :0 - й:0 ]* %> Cns* _ ;
+          BackVows  й: %^ConsTransf:0 %> [ н | д ] _ [м|т|%>|#];
 !€# колт>%{ыӹØ%}д%{аӓ%}
 !€0 колт0ыда
   # я Cns:+ %> _ ;
@@ -253,10 +262,10 @@ Rules
 
 "Affix mid or final back %{аӓ%}:я"
 !! __@RULENAME@__  
- %{аӓ%}:я <=> Vow й: (ы:0|ӹ:0) %> _ [м|т|ш|%>|#] ;
-              ь:0 %> _ [м|т|ш|%>|#] ;
+ %{аӓ%}:я <=> Vows й: (ы:0|ӹ:0) %> _ [м|т|ш|%>|#] ;
 !€# кай%>%{аӓ%}ш
 !€0 ка00яш
+          Cns ь:0 %> _ [м|т|ш|%>|#] ;
 
 "Affix initial back а:я"
 !! __@RULENAME@__  
@@ -264,11 +273,11 @@ Rules
 
 "Not SgNom а:ы"
 !! __@RULENAME@__
-а:ы <=> BackVow Cns+ _ %^А2ЫӸ:0 %> \[ е ] ;
+а:ы <=> BackVows Cns+ _ %^А2ЫӸ:0 %> \[ е ] ;
 
 "Not SgNom а:ӹ"
 !! __@RULENAME@__
-а:ӹ <=> FrontVow Cns+ _ %^А2ЫӸ:0 %> \[ е ] ;
+а:ӹ <=> FrontVows Cns+ _ %^А2ЫӸ:0 %> \[ е ] ;
 
 
 "suffix-final vowel backed Ы2ы"
@@ -283,7 +292,7 @@ Rules
 "suffix-final vowel fronted Ы2:ӹ"
 !! __@RULENAME@__  
  Ы2:ӹ <=> LFC Cns _ [ м %{ыӹØ%}: | %> (%{ыӹØ%}:) Cns: | # ] ;
-          [LFC (й ( %^ConsTransf:0 ))| а:ӹ %^А2ЫӸ:0 | FrontVow [ш] ] %> [ (0:ӹ ) ж | ш т | %{ыӹØ%}: ш [ т | к ] ] _ [ %> (%{ыӹØ%}:) Cns:  | # ] ;
+          [LFC (й ( %^ConsTransf:0 ))| а:ӹ %^А2ЫӸ:0 | FrontVows [ш] ] %> [ (0:ӹ ) ж | ш т | %{ыӹØ%}: ш [ т | к ] ] _ [ %> (%{ыӹØ%}:) Cns:  | # ] ;
 ! LFC Cns _ [ %> :0* Cns: | # ] ;
 !          LFC й ( %^ConsTransf:0 ) %> [ ж | ш т ] _ [ %>  :0* Cns:  | # ] ;
 
@@ -299,7 +308,7 @@ Rules
 
 "з:ц in am type verbs" 
 !! __@RULENAME@__ вазаш:вацна
-з:ц <=> [ Vow | н: ] _ %^ConsTransf:0 ;
+з:ц <=> [ Vows | н: ] _ %^ConsTransf:0 ;
 
 "н:0 before з:ц in am type verbs" 
 !! __@RULENAME@__ негӹнзӓш:негӹц
@@ -310,18 +319,18 @@ Rules
 !! !Vowel gain
 "0:ы between ш _ ж"
 !! __@RULENAME@__ йиш:йишӹжӹ
-0:ы <=> [ LBC | BackVow ]  ш %> _ ж Ы2: ;
+0:ы <=> [ LBC | BackVows ]  ш %> _ ж Ы2: ;
 
 "0:ӹ between ш _ ж"
 !! __@RULENAME@__ йиш:йишӹжӹ
-0:ӹ <=> [ LFC | FrontVow ] ш %> _ ж Ы2: ;
+0:ӹ <=> [ LFC | FrontVows ] ш %> _ ж Ы2: ;
 
 
 !! !Vowel loss
 "suffix-final vowel loss before subsequent suffix-initial vowel Ы2:0" 
 !! __@RULENAME@__  
   Ы2:0 <=>    Cns %> [ %{ыӹØ%}: [ д Ы2: м | м | ш ( т | к ) ]| (0:ы|0:ӹ) ж: ] _ %> [ Е2: [в|м|н|т|ш] | А2: ] ;
-! Vow %> [ %{ыӹØ%}: ш [ т | к ] | ж: ] _ %> [ л | г | %{ыӹØ%}: ш | ш | д | Е2: [в|м|н|т|ш] | А2: ] ;
+! Vows %> [ %{ыӹØ%}: ш [ т | к ] | ж: ] _ %> [ л | г | %{ыӹØ%}: ш | ш | д | Е2: [в|м|н|т|ш] | А2: ] ;
 
 "Not SgNom for lat а:0"
 !! __@RULENAME@__
