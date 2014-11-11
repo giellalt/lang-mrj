@@ -72,175 +72,175 @@ Tests:
 ##
      кеӓш+V+Inf: кеӓш
      кеӓш+V+Des+Pl3: кенештӹ
-     кеӓш+V+ActPrc: кешӹ
-     кеӓш+V+ActPrc+Der/шЫ+Sg+Nom: кешӹ
+     кеӓш+V+Der/шЫ+ActPrc: кешӹ
+     кеӓш+V+Der/шЫ+ActPrc+Sg+Nom: кешӹ
       
-     кеӓш+V+ActPrc+Der/шЫ+Sg+Gen: кешӹн
-     кеӓш+V+ActPrc+Der/шЫ+Sg+Acc: кешӹм
-     кеӓш+V+ActPrc+Der/шЫ+Sg+Com: кешӹге
-     кеӓш+V+ActPrc+Der/шЫ+Sg+Dat: кешӹлан
-     кеӓш+V+ActPrc+Der/шЫ+Sg+Ine: кешӹшты
-     кеӓш+V+ActPrc+Der/шЫ+Sg+Ill: [кешӹш, кешӹшкӹ]
-     кеӓш+V+ActPrc+Der/шЫ+Sg+Lat: кешӹш
-     кеӓш+V+ActPrc+Der/шЫ+Sg+Comp: кешӹлӓ
-     кеӓш+V+ActPrc+Der/шЫ+Sg+Abe: кешӹде
+     кеӓш+V+Der/шЫ+ActPrc+Sg+Gen: кешӹн
+     кеӓш+V+Der/шЫ+ActPrc+Sg+Acc: кешӹм
+     кеӓш+V+Der/шЫ+ActPrc+Sg+Com: кешӹге
+     кеӓш+V+Der/шЫ+ActPrc+Sg+Dat: кешӹлан
+     кеӓш+V+Der/шЫ+ActPrc+Sg+Ine: кешӹшты
+     кеӓш+V+Der/шЫ+ActPrc+Sg+Ill: [кешӹш, кешӹшкӹ]
+     кеӓш+V+Der/шЫ+ActPrc+Sg+Lat: кешӹш
+     кеӓш+V+Der/шЫ+ActPrc+Sg+Comp: кешӹлӓ
+     кеӓш+V+Der/шЫ+ActPrc+Sg+Abe: кешӹде
                                 
-     кеӓш+V+ActPrc+Der/шЫ+Pl+Nom: кешӹвлӓ
-     кеӓш+V+ActPrc+Der/шЫ+Pl+Gen: кешӹвлӓн
-     кеӓш+V+ActPrc+Der/шЫ+Pl+Acc: кешӹвлӓм
-     кеӓш+V+ActPrc+Der/шЫ+Pl+Com: кешӹвлӓге
-     кеӓш+V+ActPrc+Der/шЫ+Pl+Dat: кешӹвлӓлӓн
-     кеӓш+V+ActPrc+Der/шЫ+Pl+Ine: кешӹвлӓштӹ
-     кеӓш+V+ActPrc+Der/шЫ+Pl+Ill: [кешӹвлӓшкӹ, кешӹвлӓш]
-     кеӓш+V+ActPrc+Der/шЫ+Pl+Lat: кешӹвлӓэш
-     кеӓш+V+ActPrc+Der/шЫ+Pl+Comp: кешӹвлӓлӓ
-     кеӓш+V+ActPrc+Der/шЫ+Pl+Abe: кешӹвлӓде
+     кеӓш+V+Der/шЫ+ActPrc+Pl+Nom: кешӹвлӓ
+     кеӓш+V+Der/шЫ+ActPrc+Pl+Gen: кешӹвлӓн
+     кеӓш+V+Der/шЫ+ActPrc+Pl+Acc: кешӹвлӓм
+     кеӓш+V+Der/шЫ+ActPrc+Pl+Com: кешӹвлӓге
+     кеӓш+V+Der/шЫ+ActPrc+Pl+Dat: кешӹвлӓлӓн
+     кеӓш+V+Der/шЫ+ActPrc+Pl+Ine: кешӹвлӓштӹ
+     кеӓш+V+Der/шЫ+ActPrc+Pl+Ill: [кешӹвлӓшкӹ, кешӹвлӓш]
+     кеӓш+V+Der/шЫ+ActPrc+Pl+Lat: кешӹвлӓэш
+     кеӓш+V+Der/шЫ+ActPrc+Pl+Comp: кешӹвлӓлӓ
+     кеӓш+V+Der/шЫ+ActPrc+Pl+Abe: кешӹвлӓде
       
-     кеӓш+V+ActPrc+Der/шЫ+Sg+PxSg1+Nom: кешем 
-     кеӓш+V+ActPrc+Der/шЫ+Sg+PxSg1+Gen: кешемӹн
-     кеӓш+V+ActPrc+Der/шЫ+Sg+PxSg1+Acc: кешемӹм
-     кеӓш+V+ActPrc+Der/шЫ+Sg+PxSg1+Com: кешемге
-     кеӓш+V+ActPrc+Der/шЫ+Sg+PxSg1+Dat: кешемлӓн
-     кеӓш+V+ActPrc+Der/шЫ+Sg+Ine+PxSg1: кешӹштем
-     кеӓш+V+ActPrc+Der/шЫ+Sg+Ill+PxSg1: кешӹшкем
-     кеӓш+V+ActPrc+Der/шЫ+Sg+Lat+PxSg1: кешешем
-     кеӓш+V+ActPrc+Der/шЫ+Sg+Comp+PxSg1: кешӹлӓэм
-#    кеӓш+V+ActPrc+Der/шЫ+Sg+PxSg1+Comp: кешемлӓ ! esim -ok-liitepart.kanssa
-     кеӓш+V+ActPrc+Der/шЫ+Sg+Abe+PxSg1: кешӹдеэм 
-#    кеӓш+V+ActPrc+Der/шЫ+Sg+PxSg1+Abe: кешемде ! harvinainen liitepart.yht.
+     кеӓш+V+Der/шЫ+ActPrc+Sg+PxSg1+Nom: кешем 
+     кеӓш+V+Der/шЫ+ActPrc+Sg+PxSg1+Gen: кешемӹн
+     кеӓш+V+Der/шЫ+ActPrc+Sg+PxSg1+Acc: кешемӹм
+     кеӓш+V+Der/шЫ+ActPrc+Sg+PxSg1+Com: кешемге
+     кеӓш+V+Der/шЫ+ActPrc+Sg+PxSg1+Dat: кешемлӓн
+     кеӓш+V+Der/шЫ+ActPrc+Sg+Ine+PxSg1: кешӹштем
+     кеӓш+V+Der/шЫ+ActPrc+Sg+Ill+PxSg1: кешӹшкем
+     кеӓш+V+Der/шЫ+ActPrc+Sg+Lat+PxSg1: кешешем
+     кеӓш+V+Der/шЫ+ActPrc+Sg+Comp+PxSg1: кешӹлӓэм
+#    кеӓш+V+Der/шЫ+ActPrc+Sg+PxSg1+Comp: кешемлӓ ! esim -ok-liitepart.kanssa
+     кеӓш+V+Der/шЫ+ActPrc+Sg+Abe+PxSg1: кешӹдеэм 
+#    кеӓш+V+Der/шЫ+ActPrc+Sg+PxSg1+Abe: кешемде ! harvinainen liitepart.yht.
      
-     кеӓш+V+ActPrc+Der/шЫ+Pl+Nom+PxSg1: кешӹвлӓэм
-     кеӓш+V+ActPrc+Der/шЫ+PxSg1+Pl+Nom: кешемвлӓ !
-     кеӓш+V+ActPrc+Der/шЫ+Pl+PxSg1+Gen: кешӹвлӓэмӹн
-     кеӓш+V+ActPrc+Der/шЫ+PxSg1+Pl+Gen: кешемвлӓн !
-     кеӓш+V+ActPrc+Der/шЫ+Pl+PxSg1+Acc: кешӹвлӓэмӹм
-     кеӓш+V+ActPrc+Der/шЫ+PxSg1+Pl+Acc: кешемвлӓм !
-     кеӓш+V+ActPrc+Der/шЫ+Pl+PxSg1+Com: кешӹвлӓэмге
-     кеӓш+V+ActPrc+Der/шЫ+PxSg1+Pl+Com: кешемвлӓге
-     кеӓш+V+ActPrc+Der/шЫ+Pl+PxSg1+Dat: кешӹвлӓэмлӓн
-     кеӓш+V+ActPrc+Der/шЫ+Pl+Dat+PxSg1: кешӹвлӓлӓнем
-     кеӓш+V+ActPrc+Der/шЫ+PxSg1+Pl+Dat: кешемвлӓлӓн 
-     кеӓш+V+ActPrc+Der/шЫ+Pl+Ine+PxSg1: кешӹвлӓштем
-     кеӓш+V+ActPrc+Der/шЫ+Pl+Ill+PxSg1: кешӹвлӓшкем
-     кеӓш+V+ActPrc+Der/шЫ+Pl+Lat+PxSg1: кешӹвлӓэшем
-     кеӓш+V+ActPrc+Der/шЫ+Pl+Comp+PxSg1: кешӹвлӓлӓэм
-     кеӓш+V+ActPrc+Der/шЫ+Pl+PxSg1+Comp: кешӹвлӓэмлӓ
-     кеӓш+V+ActPrc+Der/шЫ+PxSg1+Pl+Comp: кешемвлӓлӓ
-     кеӓш+V+ActPrc+Der/шЫ+Pl+PxSg1+Abe: кешӹвлӓэмде
-     кеӓш+V+ActPrc+Der/шЫ+PxSg1+Pl+Abe: кешемвлӓде
+     кеӓш+V+Der/шЫ+ActPrc+Pl+Nom+PxSg1: кешӹвлӓэм
+     кеӓш+V+Der/шЫ+ActPrc+PxSg1+Pl+Nom: кешемвлӓ !
+     кеӓш+V+Der/шЫ+ActPrc+Pl+PxSg1+Gen: кешӹвлӓэмӹн
+     кеӓш+V+Der/шЫ+ActPrc+PxSg1+Pl+Gen: кешемвлӓн !
+     кеӓш+V+Der/шЫ+ActPrc+Pl+PxSg1+Acc: кешӹвлӓэмӹм
+     кеӓш+V+Der/шЫ+ActPrc+PxSg1+Pl+Acc: кешемвлӓм !
+     кеӓш+V+Der/шЫ+ActPrc+Pl+PxSg1+Com: кешӹвлӓэмге
+     кеӓш+V+Der/шЫ+ActPrc+PxSg1+Pl+Com: кешемвлӓге
+     кеӓш+V+Der/шЫ+ActPrc+Pl+PxSg1+Dat: кешӹвлӓэмлӓн
+     кеӓш+V+Der/шЫ+ActPrc+Pl+Dat+PxSg1: кешӹвлӓлӓнем
+     кеӓш+V+Der/шЫ+ActPrc+PxSg1+Pl+Dat: кешемвлӓлӓн 
+     кеӓш+V+Der/шЫ+ActPrc+Pl+Ine+PxSg1: кешӹвлӓштем
+     кеӓш+V+Der/шЫ+ActPrc+Pl+Ill+PxSg1: кешӹвлӓшкем
+     кеӓш+V+Der/шЫ+ActPrc+Pl+Lat+PxSg1: кешӹвлӓэшем
+     кеӓш+V+Der/шЫ+ActPrc+Pl+Comp+PxSg1: кешӹвлӓлӓэм
+     кеӓш+V+Der/шЫ+ActPrc+Pl+PxSg1+Comp: кешӹвлӓэмлӓ
+     кеӓш+V+Der/шЫ+ActPrc+PxSg1+Pl+Comp: кешемвлӓлӓ
+     кеӓш+V+Der/шЫ+ActPrc+Pl+PxSg1+Abe: кешӹвлӓэмде
+     кеӓш+V+Der/шЫ+ActPrc+PxSg1+Pl+Abe: кешемвлӓде
 
 ##   
-     кеӓш+V+PssPrc+Der/мЫ+Sg+Nom: кeмӹ
-     кеӓш+V+PssPrc+Der/мЫ+Sg+Gen: кeмӹн
-     кеӓш+V+PssPrc+Der/мЫ+Sg+Acc: кeмӹм
-     кеӓш+V+PssPrc+Der/мЫ+Sg+Com: кeмӹге
-     кеӓш+V+PssPrc+Der/мЫ+Sg+Dat: кeмӹлӓн
-     кеӓш+V+PssPrc+Der/мЫ+Sg+Ine: кeмӹштӹ
-     кеӓш+V+PssPrc+Der/мЫ+Sg+Ill: [кeмӹш, кемӹшкӹ]
-     кеӓш+V+PssPrc+Der/мЫ+Sg+Lat: [кeмеш, кемешкӹ]
+     кеӓш+V+Der/мЫ+PssPrc+Sg+Nom: кeмӹ
+     кеӓш+V+Der/мЫ+PssPrc+Sg+Gen: кeмӹн
+     кеӓш+V+Der/мЫ+PssPrc+Sg+Acc: кeмӹм
+     кеӓш+V+Der/мЫ+PssPrc+Sg+Com: кeмӹге
+     кеӓш+V+Der/мЫ+PssPrc+Sg+Dat: кeмӹлӓн
+     кеӓш+V+Der/мЫ+PssPrc+Sg+Ine: кeмӹштӹ
+     кеӓш+V+Der/мЫ+PssPrc+Sg+Ill: [кeмӹш, кемӹшкӹ]
+     кеӓш+V+Der/мЫ+PssPrc+Sg+Lat: [кeмеш, кемешкӹ]
 #tӓmӓ deverbaali -мешкЫ on lisӓtty rinnakkaismuotona
-     кеӓш+V+PssPrc+Der/мЫ+Sg+Comp: кeмӹлӓ
-     кеӓш+V+PssPrc+Der/мЫ+Sg+Abe: кeмӹде
-     
-     кеӓш+V+PssPrc+Der/мЫ+Pl+Nom: кeмӹвлӓ
-     кеӓш+V+PssPrc+Der/мЫ+Pl+Gen: кeмӹвлӓн
-     кеӓш+V+PssPrc+Der/мЫ+Pl+Acc: кeмӹвлӓм
-     кеӓш+V+PssPrc+Der/мЫ+Pl+Com: кeмӹвлӓге
-     кеӓш+V+PssPrc+Der/мЫ+Pl+Dat: кeмӹвлӓлӓн
-     кеӓш+V+PssPrc+Der/мЫ+Pl+Ine: кeмӹвлӓштӹ
-     кеӓш+V+PssPrc+Der/мЫ+Pl+Ill: [кeмӹвлӓшкӹ, кемӹвлӓш]
-     кеӓш+V+PssPrc+Der/мЫ+Pl+Lat: кeмӹвлӓэш
-     кеӓш+V+PssPrc+Der/мЫ+Pl+Comp: кeмӹвлӓлӓ
-     кеӓш+V+PssPrc+Der/мЫ+Pl+Abe: кeмӹвлӓде
+     кеӓш+V+Der/мЫ+PssPrc+Sg+Comp: кeмӹлӓ
+     кеӓш+V+Der/мЫ+PssPrc+Sg+Abe: кeмӹде
 
-     кеӓш+V+PssPrc+Der/мЫ+Sg+PxSg1+Nom: кeмем 
-     кеӓш+V+PssPrc+Der/мЫ+Sg+PxSg1+Gen: кeмемӹн
-     кеӓш+V+PssPrc+Der/мЫ+Sg+PxSg1+Acc: кeмемӹм
-     кеӓш+V+PssPrc+Der/мЫ+Sg+PxSg1+Com: кeмемге
-     кеӓш+V+PssPrc+Der/мЫ+Sg+Dat+PxSg1: кeмӹлӓнем
-     кеӓш+V+PssPrc+Der/мЫ+Sg+PxSg1+Dat: кeмемлӓн
-     кеӓш+V+PssPrc+Der/мЫ+Sg+Ine+PxSg1: кемӹштем
-     кеӓш+V+PssPrc+Der/мЫ+Sg+Ill+PxSg1: кемӹшкем
-     кеӓш+V+PssPrc+Der/мЫ+Sg+Lat+PxSg1: кемешем
-#    кеӓш+V+PssPrc+Der/мЫ+Sg+PxSg1+Comp: кемемлӓ 
-     кеӓш+V+PssPrc+Der/мЫ+Sg+Comp+PxSg1: кемӹлӓэм 
-     кеӓш+V+PssPrc+Der/мЫ+Sg+Abe+PxSg1: кемӹдеэм 
-#    кеӓш+V+PssPrc+Der/мЫ+Sg+PxSg1+Abe: кемемде ! harvinais- esm.liitep.yht.
+     кеӓш+V+Der/мЫ+PssPrc+Pl+Nom: кeмӹвлӓ
+     кеӓш+V+Der/мЫ+PssPrc+Pl+Gen: кeмӹвлӓн
+     кеӓш+V+Der/мЫ+PssPrc+Pl+Acc: кeмӹвлӓм
+     кеӓш+V+Der/мЫ+PssPrc+Pl+Com: кeмӹвлӓге
+     кеӓш+V+Der/мЫ+PssPrc+Pl+Dat: кeмӹвлӓлӓн
+     кеӓш+V+Der/мЫ+PssPrc+Pl+Ine: кeмӹвлӓштӹ
+     кеӓш+V+Der/мЫ+PssPrc+Pl+Ill: [кeмӹвлӓшкӹ, кемӹвлӓш]
+     кеӓш+V+Der/мЫ+PssPrc+Pl+Lat: кeмӹвлӓэш
+     кеӓш+V+Der/мЫ+PssPrc+Pl+Comp: кeмӹвлӓлӓ
+     кеӓш+V+Der/мЫ+PssPrc+Pl+Abe: кeмӹвлӓде
+
+     кеӓш+V+Der/мЫ+PssPrc+Sg+PxSg1+Nom: кeмем 
+     кеӓш+V+Der/мЫ+PssPrc+Sg+PxSg1+Gen: кeмемӹн
+     кеӓш+V+Der/мЫ+PssPrc+Sg+PxSg1+Acc: кeмемӹм
+     кеӓш+V+Der/мЫ+PssPrc+Sg+PxSg1+Com: кeмемге
+     кеӓш+V+Der/мЫ+PssPrc+Sg+Dat+PxSg1: кeмӹлӓнем
+     кеӓш+V+Der/мЫ+PssPrc+Sg+PxSg1+Dat: кeмемлӓн
+     кеӓш+V+Der/мЫ+PssPrc+Sg+Ine+PxSg1: кемӹштем
+     кеӓш+V+Der/мЫ+PssPrc+Sg+Ill+PxSg1: кемӹшкем
+     кеӓш+V+Der/мЫ+PssPrc+Sg+Lat+PxSg1: кемешем
+#    кеӓш+V+Der/мЫ+PssPrc+Sg+PxSg1+Comp: кемемлӓ 
+     кеӓш+V+Der/мЫ+PssPrc+Sg+Comp+PxSg1: кемӹлӓэм 
+     кеӓш+V+Der/мЫ+PssPrc+Sg+Abe+PxSg1: кемӹдеэм 
+#    кеӓш+V+Der/мЫ+PssPrc+Sg+PxSg1+Abe: кемемде ! harvinais- esm.liitep.yht.
       
-     кеӓш+V+PssPrc+Der/мЫ+Pl+Nom+PxSg1: кемӹвлӓэм
-     кеӓш+V+PssPrc+Der/мЫ+PxSg1+Pl+Nom: кемемвлӓ
-     кеӓш+V+PssPrc+Der/мЫ+PxSg1+Pl+Gen: кемемвлӓн
-     кеӓш+V+PssPrc+Der/мЫ+PxSg1+Pl+Acc: кемемвлӓм
-     кеӓш+V+PssPrc+Der/мЫ+PxSg1+Pl+Com: кемемвлӓге
-     кеӓш+V+PssPrc+Der/мЫ+Pl+PxSg1+Com: кемӹвлӓэмге
-     кеӓш+V+PssPrc+Der/мЫ+PxSg1+Pl+Dat: кемемвлӓлӓн
-     кеӓш+V+PssPrc+Der/мЫ+Pl+PxSg1+Dat: кемӹвлӓэмлӓн
-     кеӓш+V+PssPrc+Der/мЫ+Pl+Dat+PxSg1: кемӹвлӓлӓнем
-     кеӓш+V+PssPrc+Der/мЫ+Pl+Ine+PxSg1: кемӹвлӓштем
-     кеӓш+V+PssPrc+Der/мЫ+PxSg1+Pl+Ine: кемемвлӓштӹ
-     кеӓш+V+PssPrc+Der/мЫ+PxSg1+Pl+Ill: кемемвлӓшкӹ
-     кеӓш+V+PssPrc+Der/мЫ+Pl+Ill+PxSg1: кемӹвлӓшкем
-     кеӓш+V+PssPrc+Der/мЫ+PxSg1+Pl+Lat: кемемвлӓэш
-     кеӓш+V+PssPrc+Der/мЫ+Pl+Lat+PxSg1: кемӹвлӓэшем
-     кеӓш+V+PssPrc+Der/мЫ+PxSg1+Pl+Comp: кемемвлӓлӓ
-     кеӓш+V+PssPrc+Der/мЫ+Pl+Comp+PxSg1: кемӹвлӓлӓэм
-     кеӓш+V+PssPrc+Der/мЫ+Pl+PxSg1+Comp: кемӹвлӓэмлӓ
-     кеӓш+V+PssPrc+Der/мЫ+Pl+PxSg1+Abe: кемӹвлӓэмде
-     кеӓш+V+PssPrc+Der/мЫ+PxSg1+Pl+Abe: кемемвлӓде
+     кеӓш+V+Der/мЫ+PssPrc+Pl+Nom+PxSg1: кемӹвлӓэм
+     кеӓш+V+Der/мЫ+PssPrc+PxSg1+Pl+Nom: кемемвлӓ
+     кеӓш+V+Der/мЫ+PssPrc+PxSg1+Pl+Gen: кемемвлӓн
+     кеӓш+V+Der/мЫ+PssPrc+PxSg1+Pl+Acc: кемемвлӓм
+     кеӓш+V+Der/мЫ+PssPrc+PxSg1+Pl+Com: кемемвлӓге
+     кеӓш+V+Der/мЫ+PssPrc+Pl+PxSg1+Com: кемӹвлӓэмге
+     кеӓш+V+Der/мЫ+PssPrc+PxSg1+Pl+Dat: кемемвлӓлӓн
+     кеӓш+V+Der/мЫ+PssPrc+Pl+PxSg1+Dat: кемӹвлӓэмлӓн
+     кеӓш+V+Der/мЫ+PssPrc+Pl+Dat+PxSg1: кемӹвлӓлӓнем
+     кеӓш+V+Der/мЫ+PssPrc+Pl+Ine+PxSg1: кемӹвлӓштем
+     кеӓш+V+Der/мЫ+PssPrc+PxSg1+Pl+Ine: кемемвлӓштӹ
+     кеӓш+V+Der/мЫ+PssPrc+PxSg1+Pl+Ill: кемемвлӓшкӹ
+     кеӓш+V+Der/мЫ+PssPrc+Pl+Ill+PxSg1: кемӹвлӓшкем
+     кеӓш+V+Der/мЫ+PssPrc+PxSg1+Pl+Lat: кемемвлӓэш
+     кеӓш+V+Der/мЫ+PssPrc+Pl+Lat+PxSg1: кемӹвлӓэшем
+     кеӓш+V+Der/мЫ+PssPrc+PxSg1+Pl+Comp: кемемвлӓлӓ
+     кеӓш+V+Der/мЫ+PssPrc+Pl+Comp+PxSg1: кемӹвлӓлӓэм
+     кеӓш+V+Der/мЫ+PssPrc+Pl+PxSg1+Comp: кемӹвлӓэмлӓ
+     кеӓш+V+Der/мЫ+PssPrc+Pl+PxSg1+Abe: кемӹвлӓэмде
+     кеӓш+V+Der/мЫ+PssPrc+PxSg1+Pl+Abe: кемемвлӓде
 ##   
-     кеӓш+V+NegPrc+Der/дЫмЫ+Sg+Nom: кедӹмӹ
-     кеӓш+V+NegPrc+Der/дЫмЫ+Sg+Gen: кедӹмӹн
-     кеӓш+V+NegPrc+Der/дЫмЫ+Sg+Acc: кедӹмӹм
-     кеӓш+V+NegPrc+Der/дЫмЫ+Sg+Com: кедӹмӹге
-     кеӓш+V+NegPrc+Der/дЫмЫ+Sg+Dat: кедӹмӹлӓн
-     кеӓш+V+NegPrc+Der/дЫмЫ+Sg+Ill: [кедӹмӹш, кедӹмӹшкӹ]
-     кеӓш+V+NegPrc+Der/дЫмЫ+Sg+Ine: кедӹмӹштӹ
-     кеӓш+V+NegPrc+Der/дЫмЫ+Sg+Lat: [кедӹмеш, кедӹмешкӹ]
+     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Nom: кедӹмӹ
+     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Gen: кедӹмӹн
+     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Acc: кедӹмӹм
+     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Com: кедӹмӹге
+     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Dat: кедӹмӹлӓн
+     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Ill: [кедӹмӹш, кедӹмӹшкӹ]
+     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Ine: кедӹмӹштӹ
+     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Lat: [кедӹмеш, кедӹмешкӹ]
 #lisӓtty gerundimuoto -мешкЫ rinnakkaisena vaihtoehtona   
-     кеӓш+V+NegPrc+Der/дЫмЫ+Sg+Comp: кедӹмӹлӓ
-     кеӓш+V+NegPrc+Der/дЫмЫ+Sg+Abe: кедӹмӹде
+     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Comp: кедӹмӹлӓ
+     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Abe: кедӹмӹде
      
-     кеӓш+V+NegPrc+Der/дЫмЫ+Pl+Nom: кедӹмӹвлӓ
-     кеӓш+V+NegPrc+Der/дЫмЫ+Pl+Gen: кедӹмӹвлӓн
-     кеӓш+V+NegPrc+Der/дЫмЫ+Pl+Acc: кедӹмӹвлӓм
-     кеӓш+V+NegPrc+Der/дЫмЫ+Pl+Com: кедӹмӹвлӓге
-     кеӓш+V+NegPrc+Der/дЫмЫ+Pl+Dat: кедӹмӹвлӓлӓн
-     кеӓш+V+NegPrc+Der/дЫмЫ+Pl+Ine: кедӹмӹвлӓштӹ
-     кеӓш+V+NegPrc+Der/дЫмЫ+Pl+Ill: [кедӹмӹвлӓшкӹ, кедӹмӹвлӓш]
-     кеӓш+V+NegPrc+Der/дЫмЫ+Pl+Lat: кедӹмӹвлӓэш
-     кеӓш+V+NegPrc+Der/дЫмЫ+Pl+Comp: кедӹмӹвлӓлӓ
-     кеӓш+V+NegPrc+Der/дЫмЫ+Pl+Abe: кедӹмӹвлӓде
+     кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Nom: кедӹмӹвлӓ
+     кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Gen: кедӹмӹвлӓн
+     кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Acc: кедӹмӹвлӓм
+     кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Com: кедӹмӹвлӓге
+     кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Dat: кедӹмӹвлӓлӓн
+     кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Ine: кедӹмӹвлӓштӹ
+     кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Ill: [кедӹмӹвлӓшкӹ, кедӹмӹвлӓш]
+     кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Lat: кедӹмӹвлӓэш
+     кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Comp: кедӹмӹвлӓлӓ
+     кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Abe: кедӹмӹвлӓде
     
-     кеӓш+V+NegPrc+Der/дЫмЫ+Sg+PxSg1+Nom: кедӹмем 
-     кеӓш+V+NegPrc+Der/дЫмЫ+Sg+PxSg1+Gen: кедӹмемӹн
-     кеӓш+V+NegPrc+Der/дЫмЫ+Sg+PxSg1+Acc: кедӹмемӹм
-     кеӓш+V+NegPrc+Der/дЫмЫ+Sg+PxSg1+Com: кедӹмемге
-     кеӓш+V+NegPrc+Der/дЫмЫ+Sg+PxSg1+Dat: кедӹмемлӓн
-     кеӓш+V+NegPrc+Der/дЫмЫ+Sg+Dat+PxSg1: кедӹмӹлӓнем
-     кеӓш+V+NegPrc+Der/дЫмЫ+Sg+Ine+PxSg1: кедӹмӹштем
-     кеӓш+V+NegPrc+Der/дЫмЫ+Sg+Ill+PxSg1: кедӹмӹшкем
-     кеӓш+V+NegPrc+Der/дЫмЫ+Sg+Lat+PxSg1: кедӹмешем
-     кеӓш+V+NegPrc+Der/дЫмЫ+Sg+PxSg1+Comp: кедӹмемлӓ 
-     кеӓш+V+NegPrc+Der/дЫмЫ+Sg+Comp+PxSg1: кедӹмӹлӓэм 
-     кеӓш+V+NegPrc+Der/дЫмЫ+Sg+Abe+PxSg1: кедӹмӹдеэм 
-     кеӓш+V+NegPrc+Der/дЫмЫ+Sg+PxSg1+Abe: кедӹмемде
-     кеӓш+V+NegPrc+Der/дЫмЫ+Pl+Nom+PxSg1: кедӹмӹвлӓэм
-     кеӓш+V+NegPrc+Der/дЫмЫ+PxSg1+Pl+Nom: кедӹмемвлӓ
-     кеӓш+V+NegPrc+Der/дЫмЫ+PxSg1+Pl+Gen: кедӹмемвлӓн
-     кеӓш+V+NegPrc+Der/дЫмЫ+PxSg1+Pl+Acc: кедӹмемвлӓм
-     кеӓш+V+NegPrc+Der/дЫмЫ+PxSg1+Pl+Com: кедӹмемвлӓге
-     кеӓш+V+NegPrc+Der/дЫмЫ+Pl+PxSg1+Com: кедӹмӹвлӓэмге
-     кеӓш+V+NegPrc+Der/дЫмЫ+Pl+PxSg1+Dat: кедӹмӹвлӓэмлӓн
-     кеӓш+V+NegPrc+Der/дЫмЫ+Pl+Dat+PxSg1: кедӹмӹвлӓлӓнем
-#    кеӓш+V+NegPrc+Der/дЫмЫ+PxSg1+Pl+Dat: кедӹмемвлӓлӓн
-     кеӓш+V+NegPrc+Der/дЫмЫ+Pl+Ine+PxSg1: кедӹмӹвлӓштем
-#    кеӓш+V+NegPrc+Der/дЫмЫ+PxSg1+Pl+Ine: кедӹмемвлӓштӹ
-     кеӓш+V+NegPrc+Der/дЫмЫ+Pl+Ill+PxSg1: кедӹмӹвлӓшкем     
-#    кеӓш+V+NegPrc+Der/дЫмЫ+PxSg1+Pl+Ill: [кедӹмемвлӓшкӹ, кедӹмемвлӓш] 
-     кеӓш+V+NegPrc+Der/дЫмЫ+Pl+Lat+PxSg1: кедӹмӹвлӓэшем
-     кеӓш+V+NegPrc+Der/дЫмЫ+PxSg1+Pl+Lat: кедӹмемвлӓэш
-     кеӓш+V+NegPrc+Der/дЫмЫ+Pl+Comp+PxSg1: кедӹмӹвлӓлӓэм
-     кеӓш+V+NegPrc+Der/дЫмЫ+PxSg1+Pl+Comp: кедӹмемвлӓлӓ
-     кеӓш+V+NegPrc+Der/дЫмЫ+Pl+PxSg1+Comp: кедӹмӹвлӓэмлӓ
-     кеӓш+V+NegPrc+Der/дЫмЫ+Pl+PxSg1+Abe: кедӹмӹвлӓэмде
-     кеӓш+V+NegPrc+Der/дЫмЫ+PxSg1+Pl+Abe: кедӹмемвлӓде
+     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+PxSg1+Nom: кедӹмем 
+     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+PxSg1+Gen: кедӹмемӹн
+     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+PxSg1+Acc: кедӹмемӹм
+     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+PxSg1+Com: кедӹмемге
+     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+PxSg1+Dat: кедӹмемлӓн
+     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Dat+PxSg1: кедӹмӹлӓнем
+     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Ine+PxSg1: кедӹмӹштем
+     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Ill+PxSg1: кедӹмӹшкем
+     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Lat+PxSg1: кедӹмешем
+     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+PxSg1+Comp: кедӹмемлӓ 
+     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Comp+PxSg1: кедӹмӹлӓэм 
+     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Abe+PxSg1: кедӹмӹдеэм 
+     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+PxSg1+Abe: кедӹмемде
+     кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Nom+PxSg1: кедӹмӹвлӓэм
+     кеӓш+V+Der/дЫмЫ+NegPrc+PxSg1+Pl+Nom: кедӹмемвлӓ
+     кеӓш+V+Der/дЫмЫ+NegPrc+PxSg1+Pl+Gen: кедӹмемвлӓн
+     кеӓш+V+Der/дЫмЫ+NegPrc+PxSg1+Pl+Acc: кедӹмемвлӓм
+     кеӓш+V+Der/дЫмЫ+NegPrc+PxSg1+Pl+Com: кедӹмемвлӓге
+     кеӓш+V+Der/дЫмЫ+NegPrc+Pl+PxSg1+Com: кедӹмӹвлӓэмге
+     кеӓш+V+Der/дЫмЫ+NegPrc+Pl+PxSg1+Dat: кедӹмӹвлӓэмлӓн
+     кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Dat+PxSg1: кедӹмӹвлӓлӓнем
+#    кеӓш+V+Der/дЫмЫ+NegPrc+PxSg1+Pl+Dat: кедӹмемвлӓлӓн
+     кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Ine+PxSg1: кедӹмӹвлӓштем
+#    кеӓш+V+Der/дЫмЫ+NegPrc+PxSg1+Pl+Ine: кедӹмемвлӓштӹ
+     кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Ill+PxSg1: кедӹмӹвлӓшкем     
+#    кеӓш+V+Der/дЫмЫ+NegPrc+PxSg1+Pl+Ill: [кедӹмемвлӓшкӹ, кедӹмемвлӓш] 
+     кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Lat+PxSg1: кедӹмӹвлӓэшем
+     кеӓш+V+Der/дЫмЫ+NegPrc+PxSg1+Pl+Lat: кедӹмемвлӓэш
+     кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Comp+PxSg1: кедӹмӹвлӓлӓэм
+     кеӓш+V+Der/дЫмЫ+NegPrc+PxSg1+Pl+Comp: кедӹмемвлӓлӓ
+     кеӓш+V+Der/дЫмЫ+NegPrc+Pl+PxSg1+Comp: кедӹмӹвлӓэмлӓ
+     кеӓш+V+Der/дЫмЫ+NegPrc+Pl+PxSg1+Abe: кедӹмӹвлӓэмде
+     кеӓш+V+Der/дЫмЫ+NegPrc+PxSg1+Pl+Abe: кедӹмемвлӓде
