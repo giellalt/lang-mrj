@@ -112,8 +112,9 @@ Tests:
 #    коаш+V+ActPrc+Der/шЫ+PxSg1+Pl+Acc: кошемвлӓм #! harvoin
      коаш+V+ActPrc+Der/шЫ+Pl+PxSg1+Com: кошывлӓэмге
 #    коаш+V+ActPrc+Der/шЫ+PxSg1+Pl+Com: кошемвлӓге #! harvoin
-     коаш+V+ActPrc+Der/шЫ+Pl+PxSg1+Dat: кошывлӓэмлӓн
      коаш+V+ActPrc+Der/шЫ+Pl+Dat+PxSg1: кошывлӓлӓнем
+     коаш+V+ActPrc+Der/шЫ+Pl+PxSg1+Dat: кошывлӓэмлӓн # harvemm_ku кошывлӓлӓнем
+     
      коаш+V+ActPrc+Der/шЫ+PxSg1+Pl+Dat: кошемвлӓлӓн 
      коаш+V+ActPrc+Der/шЫ+Pl+Ine+PxSg1: кошывлӓштем
      коаш+V+ActPrc+Der/шЫ+Pl+Ill+PxSg1: кошывлӓшкем
@@ -160,7 +161,7 @@ Tests:
      коаш+V+PssPrc+Der/мЫ+Sg+PxSg1+Comp: комемлӓ
      коаш+V+PssPrc+Der/мЫ+Sg+Comp+PxSg1: комылаэм 
      коаш+V+PssPrc+Der/мЫ+Sg+Abe+PxSg1: комыдеэм 
-#    коаш+V+PssPrc+Der/мЫ+Sg+PxSg1+Abe: комемде #! harva esim.liitep.yhteyd.
+#    коаш+V+PssPrc+Der/мЫ+Sg+PxSg1+Abe: комемде #! harv:esim.liitep.yhteyd.
      
      коаш+V+PssPrc+Der/мЫ+Pl+Nom+PxSg1: комывлӓэм
      коаш+V+PssPrc+Der/мЫ+PxSg1+Pl+Nom: комемвлӓ #!
@@ -168,20 +169,21 @@ Tests:
      коаш+V+PssPrc+Der/мЫ+PxSg1+Pl+Acc: комемвлӓм
      коаш+V+PssPrc+Der/мЫ+PxSg1+Pl+Com: комемвлӓге
      коаш+V+PssPrc+Der/мЫ+Pl+PxSg1+Com: комывлӓэмге
-     коаш+V+PssPrc+Der/мЫ+Pl+PxSg1+Dat: комывлӓэмлӓн
      коаш+V+PssPrc+Der/мЫ+Pl+Dat+PxSg1: комывлӓлӓнем
-#    коаш+V+PssPrc+Der/мЫ+PxSg1+Pl+Dat: комемвлӓлӓн
+     коаш+V+PssPrc+Der/мЫ+Pl+PxSg1+Dat: комывлӓэмлӓн # harvemmin
+#    коаш+V+PssPrc+Der/мЫ+PxSg1+Pl+Dat: комемвлӓлӓн # JK_vaikuttaa_KOM+N+PxSg1+PL+Dat.
      коаш+V+PssPrc+Der/мЫ+Pl+Ine+PxSg1: комывлӓштем
-     коаш+V+PssPrc+Der/мЫ+PxSg1+Pl+Ine: комемвлӓштӹ
-     коаш+V+PssPrc+Der/мЫ+PxSg1+Pl+Ill: комемвлӓшкӹ
+#    коаш+V+PssPrc+Der/мЫ+PxSg1+Pl+Ine: комемвлӓштӹ
      коаш+V+PssPrc+Der/мЫ+Pl+Ill+PxSg1: комывлӓшкем
-     коаш+V+PssPrc+Der/мЫ+PxSg1+Pl+Lat: комемвлӓэш
+#    коаш+V+PssPrc+Der/мЫ+PxSg1+Pl+Ill: комемвлӓшкӹ
      коаш+V+PssPrc+Der/мЫ+Pl+Lat+PxSg1: комывлӓэшем
-     коаш+V+PssPrc+Der/мЫ+PxSg1+Pl+Comp: комемвлӓлӓ
+     коаш+V+PssPrc+Der/мЫ+PxSg1+Pl+Lat: комемвлӓэш
      коаш+V+PssPrc+Der/мЫ+Pl+Comp+PxSg1: комывлӓлӓэм
      коаш+V+PssPrc+Der/мЫ+Pl+PxSg1+Comp: комывлӓэмлӓ
+     коаш+V+PssPrc+Der/мЫ+PxSg1+Pl+Comp: комемвлӓлӓ # JK_harvemmin?
      коаш+V+PssPrc+Der/мЫ+Pl+PxSg1+Abe: комывлӓэмде
-     коаш+V+PssPrc+Der/мЫ+PxSg1+Pl+Abe: комемвлӓде
+#    коаш+V+PssPrc+Der/мЫ+PxSg1+Pl+Abe: комемвлӓде # JK_vaikut.N+PxSg1+PL+Abe
+
 ## 
      коаш+V+NegPrc+Der/дЫмЫ+Sg+Nom: кодымы
      коаш+V+NegPrc+Der/дЫмЫ+Sg+Gen: кодымын
@@ -225,9 +227,9 @@ Tests:
      коаш+V+NegPrc+Der/дЫмЫ+PxSg1+Pl+Acc: кодымемвлӓм
      коаш+V+NegPrc+Der/дЫмЫ+PxSg1+Pl+Com: кодымемвлӓге
      коаш+V+NegPrc+Der/дЫмЫ+Pl+PxSg1+Com: кодымывлӓэмге
-     коаш+V+NegPrc+Der/дЫмЫ+Pl+PxSg1+Dat: кодымывлӓэмлӓн
      коаш+V+NegPrc+Der/дЫмЫ+Pl+Dat+PxSg1: кодымывлӓлӓнем
-#    коаш+V+NegPrc+Der/дЫмЫ+PxSg1+Pl+Dat: кодымемвлӓлӓн
+     коаш+V+NegPrc+Der/дЫмЫ+Pl+PxSg1+Dat: кодымывлӓэмлӓн # JK_
+#    коаш+V+NegPrc+Der/дЫмЫ+PxSg1+Pl+Dat: кодымемвлӓлӓн # JK_tarkoittaa_ pikemminkin_N _jos olisi sellainen substantiivi_ kodym+N+PxSg1+PL+Dat. Mutta teoriassa mahd.verbimuoto, siksi generoitavaksi muttei muodost.
      коаш+V+NegPrc+Der/дЫмЫ+Pl+Ine+PxSg1: кодымывлӓштем
 #    коаш+V+NegPrc+Der/дЫмЫ+PxSg1+Pl+Ine: кодымемвлӓштӹ
      коаш+V+NegPrc+Der/дЫмЫ+Pl+Ill+PxSg1: кодымывлӓшкем     
