@@ -1311,8 +1311,8 @@
     </lg>
 
     <mg>
-      <defNative>порыв усердие (1926:17) JK: шӹдӹ пар доно = шӹдӹ адаха
-      ?</defNative>
+      <defNative>порыв усердие (1926:17) JK: шӹдӹ пар доно = шӹдӹ
+      адаха</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">pyrkimys</t>
@@ -5411,10 +5411,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: анаш:анам - kaulia?</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N">?! x</t>
+        <t pos="N">kaulinta?</t>
       </tg>
     </mg>
   </e>
@@ -6713,20 +6713,21 @@
 
   <e>
     <lg>
-      <l pos="N">аремӓш</l>
+      <l pos="N">ареммӓш</l>
 
       <stg>
-        <st Contlex="N_КОЛ">аремӓш</st>
+        <st Contlex="N_КОЛ">ареммӓш</st>
       </stg>
 
-      <stress>аремӓш</stress>
+      <stress>ареммӓш</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK (synon) арлымаш. JK: myös homonyymi ? - араш:арем -
+      raivoaminen raivo</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N">?! x</t>
+        <t pos="N">selviminen</t>
       </tg>
     </mg>
   </e>
@@ -14999,7 +15000,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sarastamattomuus</t>
+
+        <t pos="N">valaisemattomuus</t>
       </tg>
     </mg>
   </e>
@@ -40706,11 +40709,19 @@
       <m>
         <head/>
 
-        <defNative>вуйышты йочымакта?!</defNative>
+        <defNative>вуйышты йочымакта?! JK_ kipu sätelee</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N">?!</t>
+        <t pos="N">säteleminen</t>
+
+        <t pos="N">sätely</t>
+
+        <tCtn>
+          <t>säteleminen</t>
+
+          <re>särystä</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -41897,11 +41908,17 @@
           <!--Саваткова: йышти-юшти - о неуклюжем беге; небрежных шагах-->
         </head>
 
-        <defNative/>
+        <defNative>JK_2014 (Jolasal, Jäkynyr, Jamangash) kyntämättä
+        niittämättä tai muulla tavalla vahingossa käsittelemättä jäävä pieni
+        maapalsta (ei_kesanto !)</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N">?</t>
+        <t pos="N">maapalsta</t>
+
+        <t pos="N">maatilkku</t>
+
+        <t pos="N">käsittelemätön maapalsta</t>
       </tg>
     </mg>
   </e>
@@ -59701,11 +59718,18 @@
       <m>
         <head/>
 
-        <defNative>piikkikala?</defNative>
+        <defNative>JK 2013: piikkikala? F-work_ekspedici_JK_2014 (Jamangash)
+        </defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N">&lt;</t>
+        <t pos="N">tietty kalastusaika</t>
+
+        <t pos="N">otollisin kalastusaika</t>
+
+        <td>myöhäistalvella tai varhaiskeväällä tapahtuva otollisin
+        kalastusaika pilkintäaika kun kalat hakeutuvat joukottain
+        avantoaukolle (JK_2014:Jamangash)</td>
       </tg>
     </mg>
   </e>
@@ -67598,10 +67622,11 @@
     </lg>
 
     <mg>
-      <defNative>?</defNative>
+      <defNative>? JK_2014: Propri_Krisha &lt; Krishutka -&gt;
+      siirto</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N">&lt;</t>
+        <t pos="N">krishutka</t>
       </tg>
     </mg>
   </e>
@@ -89753,10 +89778,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>? ylyn, tör äsh ylyn (jk_VIII2014)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N">jousittaminen?</t>
+        <t pos="N">jousittaminen</t>
       </tg>
     </mg>
   </e>
@@ -92564,11 +92589,13 @@
       <m>
         <head/>
 
-        <defNative>kertoja?</defNative>
+        <defNative>kertoja? V.-M.U. JK_ маншы = шаям ӹштӹшӹ</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N">&lt;</t>
+        <t pos="N">kertoja</t>
+
+        <t pos="N">(kuv) turha lörppö</t>
       </tg>
     </mg>
   </e>
@@ -98525,7 +98552,7 @@
       <m>
         <head/>
 
-        <defNative>ма мор тольы вара?</defNative>
+        <defNative>Esim: kysymyslause</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -98533,6 +98560,12 @@
 
         <t pos="N">epidemia</t>
       </tg>
+
+      <xg>
+        <x>ма мор тольы вара</x>
+
+        <xt>mikähän kulkutauti nyt tuli (levisi)</xt>
+      </xg>
     </mg>
   </e>
 
@@ -99077,7 +99110,7 @@
       <m>
         <head/>
 
-        <defNative>мам мотайыл каштеш?</defNative>
+        <defNative>Esim: kysymyslause</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -99085,6 +99118,14 @@
 
         <tf pos="N">ajan tuhlaaminen</tf>
       </tg>
+
+      <xg>
+        <x>мам мотайыл каштеш?</x>
+
+        <xt>missä se nyt kuppaa?</xt>
+
+        <xt>mihin (se) nyt jäi jumiin?</xt>
+      </xg>
     </mg>
   </e>
 
@@ -103559,7 +103600,7 @@
 
     <mg>
       <defNative>вес й-влӓштӹ костан мӱкшвлӓ ӓль потемӹшвлӓ гишӓн
-      (metsäampiainen?)</defNative>
+      (metsäampiainen?) JRu_ muissa kielissä: villi mehiläislaji</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">metsäampiainen</t>
@@ -111143,11 +111184,14 @@
       <m>
         <head/>
 
-        <defNative>? кым нӹлӹтӓш - kolme neljäsosa</defNative>
+        <defNative>? кым нӹлӹтӓш - kolme neljäsosa (esim_Q ) Siirto
+        sinne...</defNative>
       </m>
 
       <tg xml:lang="fin">
         <t pos="N">neljän-arvoinen</t>
+
+        <t pos="N">neljäsosasta (Q)</t>
       </tg>
     </mg>
   </e>
@@ -150745,7 +150789,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N">sairaus</t>
+        <t pos="N">hevossairaus</t>
 
         <tCtn>
           <t>sairaus</t>
@@ -201479,7 +201523,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>?</defNative>
 
       <tg xml:lang="fin">
         <t pos="N"/>
@@ -201499,7 +201543,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>?</defNative>
 
       <tg xml:lang="fin">
         <t pos="N"/>
@@ -201829,10 +201873,12 @@
     </lg>
 
     <mg>
-      <defNative>Сав уке. JK ?</defNative>
+      <defNative>Сав уке. JK_ joukko kertymä ?</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">kasa</t>
+
+        <t pos="N">joukko</t>
       </tg>
     </mg>
   </e>
@@ -202586,10 +202632,10 @@
     </lg>
 
     <mg>
-      <defNative>JK: самынь формы ?!</defNative>
+      <defNative>JK: самынь формы ?! цӓрлӓнгӹ+PxPl2 ?</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N">хх</t>
+        <t pos="N">haikara-nne</t>
       </tg>
     </mg>
   </e>
