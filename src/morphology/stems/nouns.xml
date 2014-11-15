@@ -52077,10 +52077,21 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK_ rahastaja, (myös) talousosasto (koulussa taim muussa
+      virastossa) Myös ironisesti perheen raha-asiain hoitajasta.</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">kassa</t>
+
+        <t pos="N">talousosasto</t>
+
+        <t pos="N">rahastaja</t>
+
+        <tCtn>
+          <t>talousosasto</t>
+
+          <re>esim. koulussa</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -59718,8 +59729,8 @@
       <m>
         <head/>
 
-        <defNative>JK 2013: piikkikala? F-work_ekspedici_JK_2014 (Jamangash)
-        </defNative>
+        <defNative>JK 2013: piikkikala? F-work_ekspedici_JK_2014
+        (Jamangash)</defNative>
       </m>
 
       <tg xml:lang="fin">
