@@ -27850,7 +27850,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kassapisteellä varustettu</t>
+
+        <t pos="A">kassapistettä sisältävä</t>
+
+        <t pos="A">talousosastoa sisältävä</t>
       </tg>
     </mg>
   </e>
@@ -27870,7 +27874,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">videonauha=</t>
+
+        <t pos="A">VHS-kasettinen</t>
+
+        <t pos="A">C-kasettipesää sisältävä (vanh.)</t>
       </tg>
     </mg>
   </e>
@@ -27890,7 +27898,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">nauhaton</t>
+
+        <t pos="A">kasetitön</t>
       </tg>
     </mg>
   </e>
@@ -27910,7 +27920,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">videonauhassa oleva</t>
       </tg>
     </mg>
   </e>
@@ -27930,7 +27940,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kassanhoitaja=</t>
+
+        <t pos="A">rahastajalla oleva</t>
       </tg>
     </mg>
   </e>
@@ -27950,7 +27962,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kassaton</t>
+
+        <t pos="A">kassapisteetön</t>
+
+        <t pos="A">varaton</t>
       </tg>
     </mg>
   </e>
@@ -27970,7 +27986,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kassassa oleva</t>
+
+        <t pos="A">kassasta otettu</t>
       </tg>
     </mg>
   </e>
@@ -27990,7 +28008,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kasti=</t>
       </tg>
     </mg>
   </e>
@@ -28010,7 +28028,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">risiiniöljy=</t>
       </tg>
     </mg>
   </e>
@@ -28030,7 +28048,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">risiiniöljytön</t>
       </tg>
     </mg>
   </e>
@@ -28047,10 +28065,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: kirjastossa - katalogilla varustettu</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">luetteloa sisältävä</t>
+
+        <t pos="A">katalogilla varustettu</t>
       </tg>
     </mg>
   </e>
@@ -28070,7 +28090,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">katalogiton</t>
       </tg>
     </mg>
   </e>
@@ -28090,7 +28110,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">katarri=</t>
       </tg>
     </mg>
   </e>
@@ -28110,7 +28130,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">suuronnettomuus=</t>
+
+        <t pos="A">onnettomuus=</t>
       </tg>
     </mg>
   </e>
@@ -28127,10 +28149,15 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK_ кого категоридӹмӹ гӹнят - vaikka ei ole korkeaa
+      arvotasoa... ilman korkeaa arvotasoa silti...</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kategoriaton</t>
+
+        <t pos="A">ilman arvotasoa</t>
+
+        <t pos="A">meriititön (Jk_ )</t>
       </tg>
     </mg>
   </e>
@@ -28150,7 +28177,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">mahdoton</t>
+
+        <t pos="A">nolla-toleranssi=</t>
       </tg>
     </mg>
   </e>
@@ -28167,10 +28196,17 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK_ кого категориӓн - pätevöitynyt (esim. nykyään Ven.
+      koulujen opettajilla)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kategoria=</t>
+
+        <t pos="A">laji=</t>
+
+        <t pos="A">korkeaarvoinen</t>
+
+        <t pos="A">pätevöitynyt</t>
       </tg>
     </mg>
   </e>
@@ -28190,7 +28226,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">moottorivenettä omistava</t>
+
+        <t pos="A">moottoriveneellä varustettu</t>
       </tg>
     </mg>
   </e>
@@ -28210,7 +28248,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">moottoriveneessä oleva</t>
       </tg>
     </mg>
   </e>
@@ -28230,7 +28268,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kateetitön</t>
       </tg>
     </mg>
   </e>
@@ -28250,7 +28288,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kateetti=</t>
       </tg>
     </mg>
   </e>
@@ -28270,7 +28308,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">katodi=</t>
       </tg>
     </mg>
   </e>
@@ -28290,7 +28328,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">katoditon</t>
       </tg>
     </mg>
   </e>
@@ -28310,7 +28348,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">luistinradalla varustettu</t>
+
+        <t pos="A">luistinradan</t>
       </tg>
     </mg>
   </e>
@@ -28330,7 +28370,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">luistinradaton</t>
       </tg>
     </mg>
   </e>
@@ -28350,7 +28390,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">luistinradalla oleva</t>
       </tg>
     </mg>
   </e>
@@ -28370,7 +28410,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">katolilainen</t>
       </tg>
     </mg>
   </e>
@@ -28390,7 +28430,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">pakkotyö=</t>
+
+        <t pos="A">työleiri=</t>
       </tg>
     </mg>
   </e>
@@ -28410,7 +28452,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">pakkotyömaalla tapahtuva</t>
+
+        <t pos="A">pakkotyöleirillä oleva</t>
       </tg>
     </mg>
   </e>
@@ -28430,7 +28474,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kela=</t>
+
+        <t pos="A">rulla=</t>
+
+        <t pos="A">kelaa sisältävä</t>
+
+        <t pos="A">kelaa varten oleva</t>
+
+        <t pos="A">kela-varusteinen</t>
       </tg>
     </mg>
   </e>
@@ -28450,7 +28502,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kelaton</t>
+
+        <t pos="A">rullaton</t>
+
+        <t pos="A">kelaa sisältämätön</t>
+
+        <t pos="A">kela-varusteeton</t>
       </tg>
     </mg>
   </e>
@@ -28470,7 +28528,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">oppituoli=</t>
+
+        <t pos="A">oppilaitos=</t>
       </tg>
     </mg>
   </e>
@@ -28490,7 +28550,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">oppituoliton</t>
       </tg>
     </mg>
   </e>
@@ -53442,7 +53502,7 @@
       <defNative>JK: (vanh) konekirjoittaja paikalla oleva tsto</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A">konekirjoittajan kanssa </t>
+        <t pos="A">konekirjoittajan kanssa</t>
       </tg>
     </mg>
   </e>
