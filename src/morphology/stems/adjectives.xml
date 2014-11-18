@@ -47720,7 +47720,7 @@
     </lg>
 
     <mg>
-      <defNative>Sav: влажный сырой (о соли) </defNative>
+      <defNative>Sav: влажный сырой (о соли)</defNative>
 
       <tg xml:lang="fin">
         <t pos="A">kostea</t>
@@ -53144,6 +53144,32 @@
 
       <tg xml:lang="fin">
         <t pos="A">joukko=</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">мастар</l>
+
+      <stg>
+        <st Contlex="A_">мастар</st>
+      </stg>
+
+      <stress>маста•р</stress>
+    </lg>
+
+    <mg>
+      <defNative>Lisäsin tämän lemman kun Zherä-lehden (2010) artikkelissa
+      esiintyy - kielikurssi käännöstehtävä tekstissä (Niina M.huomio
+      18.11.14) Myös HUOM! JK_ A_ attr-asemassa olevana adj-sananpaino
+      kohdistuu sen ja pääsanan rajamaille. Vrt: A_ маста•р versus N_
+      ма•стар!</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="A">osaava</t>
+
+        <t pos="A">mestari=</t>
       </tg>
     </mg>
   </e>
@@ -93119,10 +93145,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: заботливый беспокоящий</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">huolestuttava</t>
+
+        <t pos="A">huoleenaiheena oleva</t>
       </tg>
     </mg>
   </e>
