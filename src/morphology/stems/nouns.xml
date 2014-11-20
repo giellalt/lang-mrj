@@ -111955,6 +111955,31 @@
 
   <e>
     <lg>
+      <l pos="N">обязанность</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">обязанность</st>
+      </stg>
+
+      <stress>обя•занность</stress>
+    </lg>
+
+    <mg>
+      <defNative>Lehtiartikkelin mukaan "Кӱ участковый, пӓледӓ?" (Zherä
+      2010)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">velvollisuus</t>
+
+        <t pos="N">tehtävät</t>
+
+        <t pos="N">virka (Jk_ )</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">оваци</l>
 
       <stg>
@@ -116455,6 +116480,32 @@
         <t pos="N">vähennykset</t>
 
         <t pos="N">poisto</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">отчет</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">отчет</st>
+
+        <st Contlex="N_КОЛ">отчёт</st>
+      </stg>
+
+      <stress>отче•т</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">selonteko</t>
+
+        <t pos="N">tilitys</t>
+
+        <t pos="N">tilikertomus</t>
       </tg>
     </mg>
   </e>
@@ -133371,6 +133422,27 @@
 
   <e>
     <lg>
+      <l pos="N">преступлени</l>
+
+      <stg>
+        <st Contlex="N_ОЛМА">преступлени</st>
+      </stg>
+
+      <stress>преступле•ни</stress>
+    </lg>
+
+    <mg>
+      <defNative>Lehtiartikkelin mukaan "Кӱ участковый, пӓледӓ?" (Zherä
+      2010)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">rikos</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">претендент</l>
 
       <stg>
@@ -146985,6 +147057,29 @@
 
       <tg xml:lang="fin">
         <t pos="N">paratiisi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">райадминистраци</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">райадминистраци</st>
+      </stg>
+
+      <stress>райадминистра•ци</stress>
+    </lg>
+
+    <mg>
+      <defNative>Lehtiartikkelin mukaan "Кӱ участковый, пӓледӓ?" (Zherä
+      2010)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">kuntahallitus</t>
+
+        <t pos="N">aluehallinta</t>
       </tg>
     </mg>
   </e>
@@ -161351,6 +161446,29 @@
         <t pos="N">kajastus</t>
 
         <t pos="N">kajo</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">сотрудник</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">сотрудник</st>
+      </stg>
+
+      <stress>сотру•дник</stress>
+    </lg>
+
+    <mg>
+      <defNative>Lehtiartikkelin mukaan "Кӱ участковый, пӓледӓ?" (Zherä 2010).
+      JK: (синон.) служащий (РФСл.)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">toimihenkilö</t>
+
+        <t pos="N">työntekijä</t>
       </tg>
     </mg>
   </e>
@@ -190435,6 +190553,39 @@
       <tg xml:lang="fin">
         <t pos="N">osanotto</t>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">участковый</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">участковый</st>
+      </stg>
+
+      <stress>участко•вый</stress>
+    </lg>
+
+    <mg>
+      <defNative>Lisätty (JK) Zherä (2010) lehtiartikkelin mukaan,
+      O.Karl.18.11.2014</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">päivystävä aluepoliisi</t>
+
+        <t pos="N">poliisi</t>
+
+        <t pos="N">miliisi (vanh.)</t>
+      </tg>
+
+      <xg>
+        <x>Солавлӓштӹ собранивлӓм эртӓрӹмӹ годым участковый миӓ ма? (Zherä
+        2010) </x>
+
+        <xt>Tuleeko käymään teillä virkavalta kylissä kokouksien järjestämisen
+        aikana?</xt>
+      </xg>
     </mg>
   </e>
 
