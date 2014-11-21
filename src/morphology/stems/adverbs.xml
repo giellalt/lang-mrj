@@ -2112,8 +2112,8 @@
 
       <stg>
         <st Contlex="ADV_">вӓре</st>
-
-        <st>вӓрежӹ</st>
+<!-- Why is this here вӓрежӹ ? -->
+        <st Contlex="ADV_">вӓрежӹ</st>
       </stg>
 
       <stress>вӓ•ре</stress>
@@ -2129,7 +2129,7 @@
       </tg>
 
       <xg>
-        <x>теве ик вӓре, вара вес вӓре (JK)</x>
+        <x src="JK">теве ик вӓре, вара вес вӓре</x>
 
         <xt>milloin yhdessä milloin toisessa paikassa</xt>
       </xg>

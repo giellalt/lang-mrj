@@ -5121,6 +5121,7 @@ LEXICON nouns
 община:община N_КАРТА  "yhteisö" ;
 объект:объект N_КОЛ  "kohde" ;
 объектив:объектив N_КОЛ  "objektiivi" ;
+обязанность:обязанность N_КОЛ  "velvollisuus" ;
 оваци:оваци N_ОЛМА  "kunnianosoitus" ;
 овуца:овуца N_ОЛМА  "tapa" ;
 овчарка:овчарка N_КАРТА  "paimenkoira" ;
@@ -5321,6 +5322,8 @@ LEXICON nouns
 отрезок:отрезок N_КОЛ  "osa" ;
 отряд:отряд N_КОЛ  "joukkue" ;
 отчислени:отчислени N_ОЛМА  "erottaminen" ;
+отчет:отчет N_КОЛ  "selonteko" ;
+отчет:отчёт N_КОЛ  "selonteko" ;
 отчёт:отчёт N_КОЛ  "selonteko" ;
 оты:оты N_ТӸРВӸ  "lehto" ;
 офицер:офицер N_КОЛ  "upseeri" ;
@@ -6101,6 +6104,7 @@ LEXICON nouns
 премьера:премьера N_КАРТА  "ensi-ilta" ;
 преня:преня NTag  "hirsi" ;
 препарат:препарат N_КОЛ  "valmiste" ;
+преподаватель:преподаватель N_КОЛ  "lehtori" ;
 преследовани:преследовани N_ОЛМА  "takaa-ajo" ;
 преследуйымаш:преследуйымаш N_КОЛ  "vainoaminen" ;
 пресс:пресс N_КОЛ  "prässi" ;
@@ -6109,6 +6113,7 @@ LEXICON nouns
 пресс-центр:пресс-центр N_КОЛ  "sanomalehtitoimisto" ;
 пресса:пресса N_КАРТА  "lehdistö" ;
 престол:престол N_КОЛ  "valtaistuin" ;
+преступлени:преступлени N_ОЛМА  "rikos" ;
 претендент:претендент N_КОЛ  "tavoittelija" ;
 претензи:претензи N_ОЛМА  "vaatimus" ;
 претньӹк:претньӹк N_КОЛ  "jalkanuotta" ;
@@ -6752,6 +6757,7 @@ LEXICON nouns
 разрешӓйӹмӓш:разрешӓйӹмӓш N_КОЛ  "lupaaminen" ;
 разряд:разряд N_КОЛ  "lukuluokka" ;
 рай:рай N_КОЛ  "paratiisi" ;
+райадминистраци:райадминистраци N_КОЛ  "kuntahallitus" ;
 район:район N_КОЛ  "piiri" ;
 райсовет:райсовет N_КОЛ  "piirineuvosto" ;
 райцентр:райцентр N_КОЛ  "piirikeskus" ;
@@ -7417,6 +7423,7 @@ LEXICON nouns
 сотемдӹмӓш:сотемдӹмӓш N_КОЛ  "valaiseminen" ;
 сотеммӓш:сотеммӓш N_КОЛ  "aamurusko" ;
 сотемӓлтмӓш:сотемӓлтмӓш N_КОЛ  "aamurusko" ;
+сотрудник:сотрудник N_КОЛ  "toimihenkilö" ;
 соты:соты N_ТӸРВӸ  "valo" ;
 сотыгечӹ:сотыгечӹ N_ТӸРВӸ  "päivä" ;
 социализм:социализм N_КОЛ  "sosialismi" ;
@@ -8700,6 +8707,7 @@ LEXICON nouns
 утюжымаш:утюжымаш N_КОЛ  "silittäminen" ;
 участвуйымаш:участвуйымаш N_КОЛ  "osanotto" ;
 участи:участи N_ОЛМА  "osanotto" ;
+участковый:участковый N_КОЛ  "päivystävä aluepoliisi" ;
 участкы:участкы N_ТӸРВӸ  "maapalsta" ;
 участник:участник N_КОЛ  "osanottaja" ;
 учебник:учебник N_КОЛ  "oppikirja" ;
