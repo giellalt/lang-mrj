@@ -79,7 +79,8 @@ all =  Ltrs  %- ;
 
 Definitions
 
-LFC =  # [ Cns | й ]*  [ :FrontVows | Е2: | :е | :ӹ | :Ӹ ] \[ #: | :BackVows | :ы | :Ы ]* (%{аӓ%}:я ) \[ #: | :BackVows | :ы | :Ы ]*  (%^А2ЫӸ:0) ;
+LFC =  [ :FrontVows | Е2:е | Е2:э | :е | :ӹ | :Ӹ ] \[ #: | :BackVows | :ы | :Ы ]* (%{аӓ%}:я ) \[ #: | :BackVows | :ы | :Ы ]*  (%^А2ЫӸ:0) ;
+! # [ Cns | й ]*  [ :FrontVows | Е2: | :е | :ӹ | :Ӹ ] \[ #: | :BackVows | :ы | :Ы ]* (%{аӓ%}:я ) \[ #: | :BackVows | :ы | :Ы ]*  (%^А2ЫӸ:0) ;
 
 LBC = # [ Cns | й ]* [ :BackVows ] \[ #: | :FrontVows | :Ӹ | :ӹ ]* (%{аӓ%}:я) \[ #: | :FrontVows | :Ӹ | :ӹ ]* (%^А2ЫӸ:0) ;
 ! [ :BackVows ] ( %> | %^ConsTransf:0 | %^KIN:0 | BackVows | %{аӓ%}:а | %{аӓ%}:я | %{ыӹØ%}:ы | Ь2:0 | %{ыӹØ%}:0 | Е3:0 | Ы2:ы | Cns: )* ;
@@ -157,14 +158,14 @@ Rules
            %> ж Ы2: %> _  ;
 
 
-! "Onset vowel loss in suffix Е2"
+ "Onset vowel loss in suffix Е2"
 !! __@RULENAME@__  
-!   Е2:0 <=> %> ж Ы2: %> _  Cns ;
+   Е2:0 <=> %> ж Ы2: %> _  Cns ;
 
 
 "Onset vowel Е2 realized in suffix :е"
 !! __@RULENAME@__
-  Е2:е <=> [ Cns (Ы2: |ӹ:|ы:)| й: ] (%^ConsTransf:) %> _ [в|м|н|т|ш|п] ;
+  Е2:е <=> [[ Cns - ж: ] (Ы2: |ӹ:|ы:)| й: |[Cns | Vows] ж ] (%^ConsTransf:) %> _ [в|м|н|т|ш|п] ;
 
 "Onset vowel Е2:э after retained vowel"
 !! __@RULENAME@__  
@@ -342,3 +343,11 @@ Rules
 "Onset consonant devoicing" 
 !! __@RULENAME@__  
  ж:ш <=> [ :Cst ( :0 ) | ж ] ( %^ConsTransf:0 (Ь2: ) ) %> _ [ %{ыӹØ%}: | Ы2: ] ;
+
+
+
+!! !!DISALLOW
+
+!"Disallow Е2:0 after Letters"
+!!!! __@RULENAME@__  
+!Е2:0 /<= Ltrs _ ;
