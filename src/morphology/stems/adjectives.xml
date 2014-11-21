@@ -2373,19 +2373,19 @@
         <t pos="A">englantilainen</t>
 
         <td pos="A">englannin (kieli)</td>
-
-        <xg>
-          <x>англ йӹлмӹ</x>
-
-          <xt>englannin kieli</xt>
-        </xg>
-
-        <xg>
-          <x>тӹдӹ англла яжон шайыштеш (JK)</x>
-
-          <xt>hän puhuu englantia hyvin</xt>
-        </xg>
       </tg>
+
+      <xg>
+        <x>англ йӹлмӹ</x>
+
+        <xt>englannin kieli</xt>
+      </xg>
+
+      <xg>
+        <x>тӹдӹ англла яжон шайыштеш (JK)</x>
+
+        <xt>hän puhuu englantia hyvin</xt>
+      </xg>
     </mg>
   </e>
 
@@ -2409,19 +2409,19 @@
 
       <tg xml:lang="fin">
         <td pos="A">englannin (kieli)</td>
-
-        <xg>
-          <x>мӹнь английскийӹм тыменям</x>
-
-          <xt>minä opettelen englannin kieltä</xt>
-        </xg>
-
-        <xg>
-          <x>тӹдӹ английский чӓйӹм йӱэш (JK)</x>
-
-          <xt>hän juo englantilaista teetä</xt>
-        </xg>
       </tg>
+
+      <xg>
+        <x>мӹнь английскийӹм тыменям</x>
+
+        <xt>minä opettelen englannin kieltä</xt>
+      </xg>
+
+      <xg>
+        <x>тӹдӹ английский чӓйӹм йӱэш (JK)</x>
+
+        <xt>hän juo englantilaista teetä</xt>
+      </xg>
     </mg>
   </e>
 
@@ -2470,12 +2470,6 @@
         <t pos="A">tuleva</t>
 
         <te pos="A">tulevaisuudessa tapahtuva</te>
-
-        <xg>
-          <x/>
-
-          <xt/>
-        </xg>
       </tg>
     </mg>
   </e>
@@ -2528,13 +2522,13 @@
         <t pos="A">etu=</t>
 
         <t pos="A">edellinen</t>
-
-        <xg>
-          <x>анзыл и</x>
-
-          <xt>sitä edellinen vuosi</xt>
-        </xg>
       </tg>
+
+      <xg>
+        <x>анзыл и</x>
+
+        <xt>sitä edellinen vuosi</xt>
+      </xg>
     </mg>
   </e>
 
@@ -3080,13 +3074,13 @@
         <tf pos="A">puitteilla varustettu</tf>
 
         <tf pos="A">ikkunaraameilla oleva</tf>
-
-        <xg>
-          <x>аратаан тир</x>
-
-          <xt>reslareki</xt>
-        </xg>
       </tg>
+
+      <xg>
+        <x>аратаан тир</x>
+
+        <xt>reslareki</xt>
+      </xg>
     </mg>
   </e>
 
@@ -3190,13 +3184,13 @@
 
       <tg xml:lang="fin">
         <t pos="A">harjainen</t>
-
-        <xg>
-          <x>шим аржаан алаша</x>
-
-          <xt>mustaa harjaa omaava hevonen</xt>
-        </xg>
       </tg>
+
+      <xg>
+        <x>шим аржаан алаша</x>
+
+        <xt>mustaa harjaa omaava hevonen</xt>
+      </xg>
     </mg>
   </e>
 
@@ -3626,15 +3620,15 @@
         <t pos="A">raitis</t>
 
         <t pos="A">selvä</t>
-
-        <xg>
-          <x>ары вуян</x>
-
-          <xt>selvinpäin oleva</xt>
-
-          <xt>raitis</xt>
-        </xg>
       </tg>
+
+      <xg>
+        <x>ары вуян</x>
+
+        <xt>selvinpäin oleva</xt>
+
+        <xt>raitis</xt>
+      </xg>
     </mg>
   </e>
 
@@ -3988,13 +3982,13 @@
 
       <tg xml:lang="fin">
         <tf pos="A">jnkl askeleella oleva</tf>
-
-        <xg>
-          <x>шӹре ашкылан</x>
-
-          <xt>tiheät askeleet</xt>
-        </xg>
       </tg>
+
+      <xg>
+        <x>шӹре ашкылан</x>
+
+        <xt>tiheät askeleet</xt>
+      </xg>
     </mg>
   </e>
 
@@ -6116,13 +6110,13 @@
 
       <tg xml:lang="fin">
         <t pos="A">liemetön</t>
-
-        <xg>
-          <x>бульондымы лем лин ак керд (JK)</x>
-
-          <xt>soppa ei voi olla liemetön</xt>
-        </xg>
       </tg>
+
+      <xg>
+        <x src="JK">бульондымы лем лин ак керд</x>
+
+        <xt>soppa ei voi olla liemetön</xt>
+      </xg>
     </mg>
   </e>
 
@@ -6514,13 +6508,13 @@
 
       <tg xml:lang="fin">
         <t pos="A">utarinen</t>
-
-        <xg>
-          <x>изи вадаран ышкал (JK)</x>
-
-          <xt>lehmä jolla on pienet utareet</xt>
-        </xg>
       </tg>
+
+      <xg>
+        <x src="JK">изи вадаран ышкал</x>
+
+        <xt>lehmä, jolla on pienet utareet</xt>
+      </xg>
     </mg>
   </e>
 
@@ -6568,13 +6562,13 @@
         <tf pos="A">iltaisin oleva</tf>
 
         <t pos="A">ilta=</t>
-
-        <xg>
-          <x>вадешшӹ концертеш йӓмдӹлӓлтӓш (JK)</x>
-
-          <xt>harjoitella iltakonserttia varten</xt>
-        </xg>
       </tg>
+
+      <xg>
+        <x>вадешшӹ концертеш йӓмдӹлӓлтӓш (JK)</x>
+
+        <xt>harjoitella iltakonserttia varten</xt>
+      </xg>
     </mg>
   </e>
 
@@ -6616,13 +6610,13 @@
 
       <tg xml:lang="fin">
         <t pos="A">haltia=</t>
-
-        <xg>
-          <x>вадыжан йӓр вуйта улы маныт (JK)</x>
-
-          <xt>on mukamas olemassa järvi jossa elää haltia</xt>
-        </xg>
       </tg>
+
+      <xg>
+        <x>вадыжан йӓр вуйта улы маныт (JK)</x>
+
+        <xt>on mukamas olemassa järvi jossa elää haltia</xt>
+      </xg>
     </mg>
   </e>
 
@@ -114477,13 +114471,13 @@
 
       <tg xml:lang="fin">
         <t pos="A">kuherrus=</t>
-
-        <xg>
-          <x>ӱӓк-мӱӓк жеп (1992:58)</x>
-
-          <xt>kuherruskuukausi</xt>
-        </xg>
       </tg>
+
+      <xg>
+        <x>ӱӓк-мӱӓк жеп (1992:58)</x>
+
+        <xt>kuherruskuukausi</xt>
+      </xg>
     </mg>
   </e>
 
@@ -114977,15 +114971,15 @@
         <t pos="A">luottava</t>
 
         <t pos="A">vakuuttunut</t>
-
-        <xg>
-          <x>йымылан ӹнянӹшӹ (JK)</x>
-
-          <xt>uskonnollinen</xt>
-
-          <xt>jumalaanuskovainen (mhr)</xt>
-        </xg>
       </tg>
+
+      <xg>
+        <x>йымылан ӹнянӹшӹ (JK)</x>
+
+        <xt>uskonnollinen</xt>
+
+        <xt>jumalaanuskovainen (mhr)</xt>
+      </xg>
     </mg>
   </e>
 
