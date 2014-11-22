@@ -2112,7 +2112,9 @@
 
       <stg>
         <st Contlex="ADV_">вӓре</st>
-<!-- Why is this here вӓрежӹ ? -->
+
+        <!-- Why is this here вӓрежӹ ? -->
+
         <st Contlex="ADV_">вӓрежӹ</st>
       </stg>
 
@@ -2130,6 +2132,40 @@
 
       <xg>
         <x src="JK">теве ик вӓре, вара вес вӓре</x>
+
+        <xt>milloin yhdessä milloin toisessa paikassa</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">вӓрежӹ</l>
+
+      <stg>
+        <st Contlex="ADV_">вӓрежӹ</st>
+
+        <!-- JRue: Why is this here вӓрежӹ ? JK: synonyymi adv:lle вӓре-->
+
+        <st Contlex="ADV_">вӓре</st>
+      </stg>
+
+      <stress>вӓре•жӹ</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kohdassahan</t>
+
+        <t pos="Adv">kohdassa</t>
+
+        <t pos="Adv">kohdalla</t>
+      </tg>
+
+      <xg>
+        <x src="JK">вӓрежӹ, вара вес вӓре</x>
 
         <xt>milloin yhdessä milloin toisessa paikassa</xt>
       </xg>
@@ -5528,16 +5564,22 @@
 
       <stg>
         <st Contlex="ADV_">йӹлт</st>
+
+        <st Contlex="ADV_">цӹлт</st>
       </stg>
 
       <stress>йӹлт</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: всё без остатка. JK_ ? puhtoisesti </defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">kokonaan</t>
+
+        <t pos="Adv">puhtoisesti</t>
+
+        <t pos="Adv">viimeiseen asti</t>
       </tg>
     </mg>
   </e>
@@ -20706,7 +20748,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">paljain jaloin</t>
       </tg>
     </mg>
   </e>
@@ -20727,6 +20769,8 @@
 
       <tg xml:lang="fin">
         <t pos="Adv"/>
+
+        <td>ensi-askelia tekevän lapsen haparoinnista</td>
       </tg>
     </mg>
   </e>
@@ -20743,11 +20787,21 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: немного чуть-чуть</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">hitusen</t>
+
+        <t pos="Adv">pienin siemauksin</t>
       </tg>
+
+      <xg>
+        <x>цӹвӹрт подылаш (1981:189)</x>
+
+        <xt>tehdä pieni kulaus (tarjotusta alkoholista)</xt>
+
+        <xt>пригубить рюмочку (для уважения других)</xt>
+      </xg>
     </mg>
   </e>
 
@@ -20766,7 +20820,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">pienin siemauksin</t>
+
+        <t pos="Adv">pienin paloin</t>
       </tg>
     </mg>
   </e>
@@ -20783,10 +20839,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav uke. JK_</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">pienpaloin</t>
       </tg>
     </mg>
   </e>
@@ -20797,16 +20853,20 @@
 
       <stg>
         <st Contlex="ADV_">цӹлт</st>
+
+        <st Contlex="ADV_">йӹлт</st>
       </stg>
 
       <stress>цӹлт</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: всё без остатка</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">kokonaan</t>
+
+        <t pos="Adv">viimeiseen asti</t>
       </tg>
     </mg>
   </e>
@@ -22616,7 +22676,40 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">hyvin</t>
+
+        <t pos="Adv">kauniisti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ялавала</l>
+
+      <stg>
+        <st Contlex="ADV_">ялавала</st>
+      </stg>
+
+      <stress>ялава•ла</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK: leksikaalistunut ( tapa käytäytyä kuin kierisi töyhdön
+      lailla)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">töyhdön lailla</t>
+
+        <t pos="Adv">töyhdön tai norkon lailla</t>
+
+        <t pos="Adv">liittäen</t>
+
+        <tCtn>
+          <t>liittäen</t>
+
+          <re>(LYM_Ilyakov)</re>
+        </tCtn>
       </tg>
     </mg>
   </e>
@@ -22633,10 +22726,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: совсем совершенно / JK: hoopis</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">täysin</t>
+
+        <t pos="Adv">ihan</t>
       </tg>
     </mg>
   </e>
@@ -22656,6 +22751,28 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <t pos="Adv">jalan</t>
+
+        <t pos="Adv">jalkaisin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">яра</l>
+
+      <stg>
+        <st Contlex="ADV_">яра</st>
+      </stg>
+
+      <stress>я•ра</stress>
+    </lg>
+
+    <mg>
+      <defNative>Sav: ладно хорошо ЙК_ пусть</defNative>
+
+      <tg xml:lang="fin">
         <t pos="Adv"/>
       </tg>
     </mg>
@@ -22673,11 +22790,22 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK_ erotus: согласен (Sav). Kts myös Sav: ладно хорошо ЙК_
+      пусть</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">sovittu</t>
+
+        <t pos="Adv">hyvää on!</t>
+
+        <t pos="Adv">OK!</t>
       </tg>
+
+      <xg>
+        <x>яра, тенге лижӹш (JK)</x>
+
+        <xt>OK sovittu - olkoon näin</xt>
+      </xg>
     </mg>
   </e>
 
@@ -22693,11 +22821,20 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: artikkelin яра sisällä on annettu nt ладно сделаю так уж
+      и быть </defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">hyvää on</t>
+
+        <t pos="Adv">olkoon näin</t>
       </tg>
+
+      <xg>
+        <x>ярайок ӹштем (1981:234)</x>
+
+        <xt>olkoon näin ei jää muuta kuin tehdä se</xt>
+      </xg>
     </mg>
   </e>
 
@@ -22713,10 +22850,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: ярко ( яркие звезды - яргата шӹдӹрвлӓ)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">kirkaasti</t>
       </tg>
     </mg>
   </e>
@@ -22727,16 +22864,23 @@
 
       <stg>
         <st Contlex="ADV_">яре</st>
+
+        <st Contlex="ADV_">ярелӓ</st>
       </stg>
 
       <stress>я•ре</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: 1.слитно 2.в смеси с чем-л 3.Adpos.(=postpositio funkion
+      merkityksenä "minkä joukossa samalla" (в значении послелога передается
+      как "вместе с ..." esim. лем яре - yhteen syssyyn keiton
+      kanssa)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">seoksessa</t>
+
+        <t pos="Adv">joukossa samalla</t>
       </tg>
     </mg>
   </e>
@@ -22753,10 +22897,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: вперемежку. JK_ "silli-salaattia"</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">sekaisin</t>
       </tg>
     </mg>
   </e>
@@ -22773,10 +22917,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>kts myös яре</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">seoksessa</t>
+
+        <t pos="Adv">joukossa samalla</t>
       </tg>
     </mg>
   </e>
@@ -22796,7 +22942,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">vaivalloisesti</t>
+
+        <t pos="Adv">henkeä-pistävästi</t>
       </tg>
     </mg>
   </e>
@@ -22813,10 +22961,11 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: медленно скрипуче JK_vastoin tahtoa. Jk_? rautalankaa
+      vääntäen</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">vastoin tahtoa</t>
       </tg>
     </mg>
   </e>
@@ -22827,16 +22976,20 @@
 
       <stg>
         <st Contlex="ADV_">яшт</st>
+
+        <st Contlex="ADV_">яшток</st>
+
+        <st Contlex="ADV_">ялт</st>
       </stg>
 
       <stress>яшт</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: совсем совершенно. Myös яшток ялт (1981:235)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">täysin</t>
       </tg>
     </mg>
   </e>
@@ -22853,10 +23006,11 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK_ vmeste s patrohami (?) kaikki meni luineen suolineen
+      kaikkineen</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">luineen kaikkineen</t>
       </tg>
     </mg>
   </e>
@@ -22876,7 +23030,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ehkä</t>
+
+        <t pos="Adv">voi-olla</t>
       </tg>
     </mg>
   </e>
@@ -22896,7 +23052,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ei tietoa paljonko</t>
+
+        <t pos="Adv">vaikka kuinka</t>
+
+        <t pos="Adv">vaikka kuinka paljon</t>
       </tg>
     </mg>
   </e>
@@ -22916,7 +23076,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ei tietoa paljonko</t>
+
+        <t pos="Adv">vaikka kuinka</t>
       </tg>
     </mg>
   </e>
@@ -22927,16 +23089,19 @@
 
       <stg>
         <st Contlex="ADV_">ӓнят-кышак</st>
+
+        <st Contlex="ADV_">ӓнят-кышакен</st>
       </stg>
 
       <stress>ӓня•т-кыша•к</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>(Jk_ synonyymit) liitepartikkeli -ен on pitkä muoto
+      </defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ei tietoa mihin</t>
       </tg>
     </mg>
   </e>
@@ -22953,10 +23118,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>pitkä muoto ja lyhyt muoto</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ei tietoa mihin</t>
       </tg>
     </mg>
   </e>
@@ -22973,30 +23138,30 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>lyhyt muoto adverbille ӓнят-кышецӹн</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ei tietoa mistä</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Adv">ӓнят-кышецын</l>
+      <l pos="Adv">ӓнят-кышецӹн</l>
 
       <stg>
-        <st Contlex="ADV_">ӓнят-кышецын</st>
+        <st Contlex="ADV_">ӓнят-кышецӹн</st>
       </stg>
 
-      <stress>ӓня•т-кыше•цын</stress>
+      <stress>ӓня•т-кыше•цӹн</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>pitkä muoto ja lyhyt muoto - kts ӓнят-кышец</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ei tietoa mistä</t>
       </tg>
     </mg>
   </e>
@@ -23016,7 +23181,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ei tietoa mihin</t>
       </tg>
     </mg>
   </e>
@@ -23036,7 +23201,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ei tietoa missä</t>
       </tg>
     </mg>
   </e>
@@ -23053,10 +23218,11 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>_SUB (mm. Porandaj) lyhyt muoto adverbiä kts ӓнят-мазары. JK:
+      JK_ synonyymi adverbille ӓнят-маняр</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ei tietoa kuinka paljon</t>
       </tg>
     </mg>
   </e>
@@ -23073,10 +23239,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>pitkä muoto ja lyhyt muoto</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ei tietoa kuinka paljon</t>
       </tg>
     </mg>
   </e>
@@ -23093,10 +23259,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK_ synonyymi adverbin kanssa ӓнят-мазар</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ei tietoa kuinka paljon</t>
       </tg>
     </mg>
   </e>
@@ -23113,10 +23279,11 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK_ synonyymi adverbille: ӓнят-мазар (JK: kuka tietää
+      paljonko)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">kuka tietää paljonko</t>
       </tg>
     </mg>
   </e>
@@ -23133,10 +23300,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK_ voi-olla että paljonkin</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ei tietoa paljonko</t>
       </tg>
     </mg>
   </e>
@@ -23153,10 +23320,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>pitkä muoto adverbistä ӓнят-тамазар</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ei tietoa paljonko</t>
       </tg>
     </mg>
   </e>
@@ -23176,7 +23343,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">jostain syystä</t>
       </tg>
     </mg>
   </e>
