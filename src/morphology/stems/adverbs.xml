@@ -11120,11 +11120,29 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: сӹнзӓ мычанемӓт ӹнем уж - ненавижу (1981:97)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">jotta</t>
+
+        <t pos="Adv">jottei</t>
+
+        <t pos="Adv">siksi</t>
+
+        <t pos="Adv">sen takia</t>
       </tg>
+
+      <xg>
+        <x>сӹнзӓ мычанемӓт ӹнем уж (1981:97)</x>
+
+        <xt>en halua nähdä silmäkulmallanikaan</xt>
+      </xg>
+
+      <xg>
+        <x>мондыдымы мычан (1981:97)</x>
+
+        <xt>jottei unohtuisi</xt>
+      </xg>
     </mg>
   </e>
 
@@ -11140,11 +11158,125 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: один за другим, друг за другом (1981:97)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">toinen toisensa perässä</t>
+
+        <t pos="Adv">peräkanaa</t>
       </tg>
+
+      <xg>
+        <x>мычан-мычан кеӓт (1981:97)</x>
+
+        <xt>menevät peräkanaa</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">мычец</l>
+
+      <stg>
+        <st Contlex="ADV_">мычец</st>
+
+        <st Contlex="ADV_">мычыц</st>
+      </stg>
+
+      <stress>мы•чец</stress>
+    </lg>
+
+    <mg>
+      <defNative>Sav: из-за чего-л, по причине чего-л. (1981:97) siitä syystä
+      sen takia. JK_ гишӓн (nykykielessä käytetään мычец
+      asemesta).</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">siitä syystä</t>
+
+        <t pos="Adv">siksi</t>
+
+        <t pos="Adv">sen takia</t>
+      </tg>
+
+      <xg>
+        <x>сӹнзӓ мычанемӓт ӹнем уж (1981:97)</x>
+
+        <xt>en halua nähdä silmäkulmallanikaan</xt>
+      </xg>
+
+      <xg>
+        <x>мондыдымы мычан (1981:97)</x>
+
+        <xt>jottei unohtuisi</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">мычкы</l>
+
+      <stg>
+        <st Contlex="ADV_">мычкы</st>
+      </stg>
+
+      <stress>мы•чкы</stress>
+    </lg>
+
+    <mg>
+      <defNative>Sav: мычкы-мычкы = Adj. kaukainen (1981:97) esim. kaukainen
+      sukulainen. TRa: kanat kököttää = könöttää</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">pitkin</t>
+      </tg>
+
+      <xg>
+        <x>цӹвӹвлӓ вӓрӓ мычкы шӹнзен кеӓт (JK)</x>
+
+        <xt>kanat istuu möllöttää orrella (TRa)</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">мычны</l>
+
+      <stg>
+        <st Contlex="ADV_">мычны</st>
+
+        <st Contlex="ADV_">мыртны</st>
+      </stg>
+
+      <stress>мы•чны</stress>
+    </lg>
+
+    <mg>
+      <defNative>Sav. molemmat variantit: postpositio послелог (передается
+      выражениями: на исходе в конец на конце чего-л.) JRue:
+      futuuris-nesessiivinen partisiippi колышаш + postpositio
+      (Alh:138)</defNative>
+
+      <xg>
+        <x>колышаш мычны (1981:97)</x>
+
+        <xt>kuolemaisillaan ollessa</xt>
+      </xg>
+
+      <xg>
+        <x>пылвуй мычны (1981:97)</x>
+
+        <xt>polvillaan</xt>
+      </xg>
+
+      <xg>
+        <x>пылвуй мычны (Jk_ )</x>
+
+        <xt>polviin asti</xt>
+      </xg>
     </mg>
   </e>
 
@@ -11160,11 +11292,48 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav uke. Vasik uly (ынгылдарымаш гӹц пасна)</defNative>
 
       <tg xml:lang="fin">
         <t pos="Adv"/>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">мычыц</l>
+
+      <stg>
+        <st Contlex="ADV_">мычыц</st>
+
+        <st Contlex="ADV_">мычец</st>
+      </stg>
+
+      <stress>мы•чыц</stress>
+    </lg>
+
+    <mg>
+      <defNative>Sav (1981:97) molemmat variantit: из-за чего-л, по причине
+      чего-л. siitä syystä sen takia. JK_ гишӓн (nykykäyttö!)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">siitä syystä</t>
+
+        <t pos="Adv">minkä takia</t>
+      </tg>
+
+      <xg>
+        <x>сӹнзӓ мычанемӓт ӹнем уж (1981:97)</x>
+
+        <xt>en halua nähdä silmäkulmallanikaan</xt>
+      </xg>
+
+      <xg>
+        <x>мондыдымы мычан (1981:97)</x>
+
+        <xt>jottei unohtuisi</xt>
+      </xg>
     </mg>
   </e>
 
@@ -11180,10 +11349,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав: мӧк-мӧк недотёпа (2008:157) JK_ ? kömpelösti</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">kömpelösti</t>
       </tg>
     </mg>
   </e>
@@ -11203,7 +11372,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">takaisin</t>
       </tg>
     </mg>
   </e>
@@ -11223,7 +11392,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">sinne-tänne</t>
       </tg>
     </mg>
   </e>
@@ -11240,10 +11409,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: наоборот</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">päinvastoin</t>
       </tg>
     </mg>
   </e>
@@ -11263,7 +11432,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">kauas</t>
       </tg>
     </mg>
   </e>
@@ -11283,7 +11452,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">kaukana</t>
       </tg>
     </mg>
   </e>
@@ -11303,7 +11472,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">kaukaa</t>
       </tg>
     </mg>
   </e>
@@ -11320,10 +11489,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>pitkä muoto мӹндӹрц</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">kaukaa</t>
       </tg>
     </mg>
   </e>
@@ -11340,10 +11509,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: (оставаться) далеко</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">kauas</t>
       </tg>
     </mg>
   </e>
@@ -11363,7 +11532,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">mahallaan</t>
+
+        <t pos="Adv">vatsallaan</t>
       </tg>
     </mg>
   </e>
@@ -11380,10 +11551,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: сӓй</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">kai</t>
+
+        <t pos="Adv">ilmeisesti</t>
       </tg>
     </mg>
   </e>
@@ -11403,7 +11576,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ilmeisesti</t>
+
+        <t pos="Adv">kai</t>
       </tg>
     </mg>
   </e>
