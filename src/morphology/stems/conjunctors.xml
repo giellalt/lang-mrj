@@ -6,6 +6,37 @@
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e>
     <lg>
+      <l pos="Conj">а</l>
+
+      <stg>
+        <st Contlex="CONJ_">а</st>
+      </stg>
+
+      <stress>а</stress>
+    </lg>
+
+    <pos>Conj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>противительный союз = kontrastiivinen konjunktio
+        (ISO:1069)</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="Conj">mutta</t>
+
+        <t pos="Conj">entä</t>
+
+        <t pos="Conj">entäs</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Conj">ат</l>
 
       <stg>
@@ -21,7 +52,8 @@
       <m>
         <head/>
 
-        <defNative>уштарышы союз</defNative>
+        <defNative>уштарышы союз функцим намалшы ӓсӹк (liitepartikkeli -At
+        )</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -49,7 +81,8 @@
       <m>
         <head/>
 
-        <defNative>противительный союз</defNative>
+        <defNative>противительный союз - disjunktiivinen konjunktio
+        (ISO:1069)</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -105,7 +138,8 @@
       <m>
         <head/>
 
-        <defNative>сравнительный (тӓнгӓштӓрӹшӹ союз)</defNative>
+        <defNative>сравнительный (тӓнгӓштӓрӹшӹ союз) JK_ Vrt (fin) niin ikään
+        = additiivinen kiteymä (SKST950:1069)</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -137,7 +171,9 @@
           <!--Savatkova: 1) Послелог передается с предлогом "с" (стӧл вӹлец -  со стола); 2) несмотря на то; что (улы вӹлец; попымы вӹлец). 3) Наречие "сверху" вӹлец кенвазаш.-->
         </head>
 
-        <defNative/>
+        <defNative>JK_ onko siirrettävä adpositioon?? Vrt (fin) vaikka,
+        joskin, jos konta - nämä ovat konsessiivisia adverbiaalikonjunktioita
+        (SKST950:1069)</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -169,7 +205,7 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>JK_ ehtokonjunktio</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -192,6 +228,50 @@
         <x>уке гӹнь</x>
 
         <xt>ainakin</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Conj">гӹнь</l>
+
+      <stg>
+        <st Contlex="CONJ_">гӹнь</st>
+      </stg>
+
+      <stress>гӹнь</stress>
+    </lg>
+
+    <pos>Conj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>JK_ homonyymisesti (fin) vertailevana adpositiona. (ISO
+        SKST950:1069) JK_ ? mrj käytetään da-infinitiivi + konjunktio
+        гӹнь</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="Conj">suhteutettuna</t>
+
+        <t pos="Conj">verrattuna</t>
+
+        <t pos="Conj">jos</t>
+      </tg>
+
+      <xg>
+        <x>анжалаш гӹнь (Jk_ )</x>
+
+        <xt>jos verrataan tai sitä nähden...</xt>
+      </xg>
+
+      <xg>
+        <x>тӓнгӓштӓрен анжаш гӹнь</x>
+
+        <xt>verrattuna siihen</xt>
       </xg>
     </mg>
   </e>
@@ -322,6 +402,32 @@
 
   <e>
     <lg>
+      <l pos="Conj">дон иктӹ</l>
+
+      <stg>
+        <st Contlex="Cc">дон иктӹ</st>
+      </stg>
+
+      <stress>дон и•ктӹ</stress>
+    </lg>
+
+    <pos>CC</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>Пыртенӓм, ИСО950:1069 тӓнгӓштӓрен. </defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="CC">yhtä kun</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Conj">доно</l>
 
       <stg>
@@ -337,7 +443,8 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>JK_ vrt (myös) pääsanan kanssa adpositiona = ...
+        kanssa</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -445,7 +552,8 @@
       <m>
         <head/>
 
-        <defNative>противительный союз</defNative>
+        <defNative>противительн.союз=kontrastiivinen
+        adverbiaalikiteymäPcle(950:1069)</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -506,6 +614,38 @@
 
   <e>
     <lg>
+      <l pos="Conj">кынам</l>
+
+      <stg>
+        <st Contlex="CONJ_">кынам</st>
+      </stg>
+
+      <stress>кына•м</stress>
+    </lg>
+
+    <pos>Conj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>JK_ temporaalinen konjunktio</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="Conj">kun</t>
+      </tg>
+
+      <xg>
+        <x>Кынам келеш, ӹштӓ ӓль ӹштӹдеӓт коден кердеш (JK_ )</x>
+
+        <xt>Kun tulee tarpeen, tekee tai voi jättää tekemättäkin.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Conj">льывы</l>
 
       <stg>
@@ -549,7 +689,8 @@
       <m>
         <head/>
 
-        <defNative>(complementti?)</defNative>
+        <defNative>( komplementti ? ) JK_ kausaalinen adverbiaalikonjunktio
+        (950:1069)</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -702,6 +843,36 @@
 
   <e>
     <lg>
+      <l pos="Conj">сендон</l>
+
+      <stg>
+        <st Contlex="CONJ_">сендон</st>
+      </stg>
+
+      <stress>се•ндоно</stress>
+    </lg>
+
+    <pos>Conj</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="Conj">siksi</t>
+
+        <tf pos="Conj">sen takia</tf>
+
+        <tf pos="Conj">sen vuoksi</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Conj">только</l>
 
       <stg>
@@ -736,6 +907,40 @@
 
   <e>
     <lg>
+      <l pos="Conj">толькы</l>
+
+      <stg>
+        <st Contlex="CONJ_">толькы</st>
+      </stg>
+
+      <stress>то•лькы</stress>
+    </lg>
+
+    <pos>Conj</pos>
+
+    <mg>
+      <m>
+        <head>
+          <!--Временный союз (juuri kun; heti kun), а также противительный союз (mutta)
+(eli tämä voi olla temporaalinen?? alistuskonjunktio ja
+ korrelatiivinen rinnastuskonjunktio)-->
+        </head>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>mutta</t>
+
+        <tf>juuri kun</tf>
+
+        <tf>heti kun</tf>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Conj">тоты</l>
 
       <stg>
@@ -751,7 +956,7 @@
       <m>
         <head/>
 
-        <defNative>противительный союз</defNative>
+        <defNative>xx ( противительный союз = </defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -802,6 +1007,8 @@
 
       <stg>
         <st Contlex="CONJ_">тӹндон</st>
+
+        <st Contlex="CONJ_">сендон</st>
       </stg>
 
       <stress>тӹ•ндон</stress>
@@ -813,7 +1020,7 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>JK_ тӹндон = сендон</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -876,13 +1083,13 @@
 
   <e>
     <lg>
-      <l pos="Conj">хоть</l>
+      <l pos="Conj">хыть</l>
 
       <stg>
-        <st Contlex="Cs">хоть</st>
+        <st Contlex="Cs">хыть</st>
       </stg>
 
-      <stress>хоть</stress>
+      <stress>хыть</stress>
     </lg>
 
     <pos>CS</pos>
@@ -891,11 +1098,38 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>JK_ хыть ма манышты - vaikka sanoisivat mitä</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t/>
+        <t>vaikka</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Conj">шамакеш</l>
+
+      <stg>
+        <st Contlex="Cs">шамакеш</st>
+      </stg>
+
+      <stress>шама•кеш</stress>
+    </lg>
+
+    <pos>CS</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>JK_ adverbiaalinen konjunktio (?) шамакеш = шамак
+        толшеш</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>esimerkiksi</t>
       </tg>
     </mg>
   </e>
@@ -920,7 +1154,9 @@
 ja konjunktio (jos; vaikka; jollei) - уступительные союзы-->
         </head>
 
-        <defNative>шукыжы годым уступительный союз семӹнь</defNative>
+        <defNative>Sav: шукыжы годым уступительный союз семӹнь. JK_
+        уступительн.союз = konditionaalista suhdetta ilmaiseva
+        adverbiaalikonjunktio (ISO, SKST950:1069)</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -1007,13 +1243,13 @@ ja konjunktio (jos; vaikka; jollei) - уступительные союзы-->
 
   <e>
     <lg>
-      <l pos="Conj">а</l>
+      <l pos="Conj">ӹшкӓлӓ</l>
 
       <stg>
-        <st Contlex="CONJ_">а</st>
+        <st Contlex="CONJ_">ӹшкӓлӓ</st>
       </stg>
 
-      <stress>﻿а</stress>
+      <stress>ӹшкӓ•лӓ</stress>
     </lg>
 
     <pos>Conj</pos>
@@ -1022,12 +1258,19 @@ ja konjunktio (jos; vaikka; jollei) - уступительные союзы-->
       <m>
         <head/>
 
-        <defNative>противительный союз</defNative>
+        <defNative>JK_ komenttiadverbiaali (SKST950:1063). Siksi kun tämä
+        määrite sisältää tunnelatauksen: paino voi olla ӹшкӓлӓӓӓ•</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t>mutta</t>
+        <t>valitettavasti</t>
       </tg>
+
+      <xg>
+        <x>кен колтыш ӹшкӓлӓ (JK)</x>
+
+        <xt>valitettavasti hän ehti jo lähteä</xt>
+      </xg>
     </mg>
   </e>
 </r>
