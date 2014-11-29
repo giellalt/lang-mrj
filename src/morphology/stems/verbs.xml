@@ -7578,12 +7578,41 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Lisätty käännöstekstin takia JK_ Сергей Цветков: Ландыш.-
+      Тетявлӓн газет гӹц: Йӓмдӹ ли,18.6.2010</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">kouluttaa</t>
 
         <t pos="V">harjoittaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">дружаш</l>
+
+      <stg>
+        <st Contlex="V_ЕМ">дружы</st>
+      </stg>
+
+      <stress>дру•жаш</stress>
+    </lg>
+
+    <mg>
+      <defNative>Lisätty käännöstekstin yhteydessä (JaniK.pyynnöstä) JK:
+      ЗосимАфонькин: Школ увервлӓм выча. - Тетявлӓн газет гӹц: Йӓмдӹ ли,
+      09.4.2010.</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="V">ystävystyä</t>
+
+        <te>olla hyvänä ystävänä</te>
+
+        <t pos="V">kaveerata</t>
+
+        <t pos="V">seurustella</t>
       </tg>
     </mg>
   </e>
@@ -43714,6 +43743,47 @@
 
   <e>
     <lg>
+      <l pos="V">пытькалташ</l>
+
+      <stg>
+        <st Contlex="V_ЕМ">пытькалты</st>
+      </stg>
+
+      <stress>пытька•лташ</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK: Сергей Цветков (Усола): Ландыш.- Тетявлӓн газет гӹц:
+      Йӓмдӹ ли,18.6.2010</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="V">nykäistä</t>
+
+        <tCtn>
+          <t>nykäistä</t>
+
+          <re>kala</re>
+        </tCtn>
+
+        <t pos="V">tärpätä</t>
+
+        <tCtn>
+          <t>tärpätä</t>
+
+          <re>kalastuksessa</re>
+        </tCtn>
+      </tg>
+
+      <xg>
+        <x>кол тагачы йӓрӹштӹ акат пытькалты (18.6.2010 Й.ли)</x>
+
+        <xt>tänään ei ole kalaonnea (kala tänään järvessä ei nykäisekään)</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V">пытькаш</l>
 
       <stg>
@@ -43740,6 +43810,42 @@
         <x>сӹнзӓм пытькаш</x>
 
         <xt>räpyttää silmiään</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">пытькаш</l>
+
+      <stg>
+        <st Contlex="V_ЕМ">пытькы</st>
+
+        <st Contlex="V_ЕМ">ечкӹ</st>
+      </stg>
+
+      <stress>пы•тькаш</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="V">tärpätä</t>
+
+        <t pos="V">nykäistä</t>
+
+        <tCtn>
+          <t>tärpätä</t>
+
+          <re>kalastuksessa</re>
+        </tCtn>
+      </tg>
+
+      <xg>
+        <x>кол ак изишӓт ак пытькы (JK)</x>
+
+        <xt>kala ei tärppää ollenkaan</xt>
       </xg>
     </mg>
   </e>
