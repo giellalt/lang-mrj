@@ -45005,6 +45005,29 @@
 
   <e>
     <lg>
+      <l pos="N">йӹнгӹлвеледӹш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">йӹнгӹлвеледӹш</st>
+
+        <st Contlex="N_КОЛ">прячука</st>
+      </stg>
+
+      <stress>йӹнгӹ•лвеледӹш</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK_ pyrtenäm (Nykykiel: ландыш), molnamshy orfogr semynj
+      (1978:42)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">kielo</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">йӹнгӹлешкӹ</l>
 
       <stg>
@@ -83200,13 +83223,18 @@
 
       <stg>
         <st Contlex="N_КОЛ">ландыш</st>
+
+        <st Contlex="N_КОЛ">йӹнгӹлвеледӹш</st>
+
+        <st Contlex="N_КОЛ">прячука</st>
       </stg>
 
       <stress>ла•ндыш</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Lisätty käännöstekstin takia JK_ Сергей Цветков: Ландыш.-
+      тетя газет гӹц: Йӓмдӹ ли,18.6.2010</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">kielo</t>
@@ -136287,6 +136315,35 @@
 
   <e>
     <lg>
+      <l pos="N">прячука</l>
+
+      <stg>
+        <st Contlex="N_КОЛ_SUB">прячука</st>
+
+        <st Contlex="N_КОЛ">прӓчука</st>
+
+        <st Contlex="N_КОЛ">ландыш</st>
+
+        <st Contlex="N_КОЛ">йӹнгӹлвеледӹш</st>
+      </stg>
+
+      <stress>прячу•ка</stress>
+    </lg>
+
+    <mg>
+      <defNative>Lisätty käännösartikkelistä JK: Сергей Цветков (Усола школ).
+      Ландыш.-Йӓмдӹ ли,18.6.2010</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">kielo</t>
+
+        <td pos="N">valjaiden kulkuset</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">прӓ</l>
 
       <stg>
@@ -136297,10 +136354,38 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: пӹрӓ lemman variantti? пӹрӓлӓ мадаш - играть в
+      жмурки</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sokkosillaolo</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">прӓжкӓ</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">прӓжкӓ</st>
+      </stg>
+
+      <stress>прӓ•жкӓ</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK_ Йоласал. Сав: прӓжӓ кӹртни - бляха ремня -
+      vyösolki</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">solki</t>
+
+        <t pos="N">vyösolki</t>
+
+        <t pos="N">sandaalisolki</t>
+
+        <td pos="N">vyön tai sandaalien kiinnittämisosa</td>
       </tg>
     </mg>
   </e>
@@ -136317,7 +136402,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK_ vöittäminen</defNative>
 
       <tg xml:lang="fin">
         <td pos="N">vyön kiinni laittaminen</td>
@@ -136370,17 +136455,45 @@
       <l pos="N">прӓчука</l>
 
       <stg>
-        <st Contlex="N_ОЛМА">прӓчука</st>
+        <st Contlex="N_КОЛ">прӓчука</st>
+
+        <st Contlex="N_КОЛ">йӹнгӹл</st>
       </stg>
 
       <stress>прӓчу•ка</stress>
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK_ nykyisin saatetaan kirjoittaa myös прячука (Й.ли,
+      18.6.2010)</defNative>
 
       <tg xml:lang="fin">
         <td pos="N">valjaiden kulkuset</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">прӓчука</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">прӓчука</st>
+
+        <st Contlex="N_КОЛ">ландыш</st>
+
+        <st Contlex="N_КОЛ">йӹнгӹлвеледӹш</st>
+      </stg>
+
+      <stress>прӓчу•ка</stress>
+    </lg>
+
+    <mg>
+      <defNative>Lisätty käännösartikkelistä JK: Сергей Цветков (Усола школ).
+      Ландыш.-Йӓмдӹ ли,18.6.2010</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">kielo</t>
       </tg>
     </mg>
   </e>
@@ -140845,6 +140958,59 @@
         <t pos="N">kupliminen</t>
 
         <t pos="N">poreilu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">пытькалтымаш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">пытькалтымаш</st>
+      </stg>
+
+      <stress>пытькалтыма•ш</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK: Кол йӓрӹштӹ акат пытькалты. &gt;Kala järvessä ei
+      aikookaan tärpätä. Lisätty käännösartikkelin mukaan: С.Цветков. - Йӓмдӹ
+      ли, 18.6.2010.</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">nykäisy</t>
+
+        <tCtn>
+          <t>nykäisy</t>
+
+          <re>kalastuksessa</re>
+        </tCtn>
+
+        <t pos="N">tärppääminen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">пытькымаш</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">пытькымаш</st>
+      </stg>
+
+      <stress>пытькыма•ш</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK: Кол йӓрӹштӹ изишӓт ак пытькы. &gt;Kala järvessä ei tärppä
+      ollenkaan</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">tärppääminen</t>
+
+        <t pos="N">nykäisyt</t>
       </tg>
     </mg>
   </e>
@@ -151097,6 +151263,27 @@
 
       <tg xml:lang="fin">
         <t pos="N">romanssi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">романтик</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">романтик</st>
+      </stg>
+
+      <stress>рома•нтик</stress>
+    </lg>
+
+    <mg>
+      <defNative>Lisätty käännöstekstin takia JK_ Сергей Цветков: Ландыш.-
+      тетя газет гӹц: Йӓмдӹ ли,18.6.2010</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">romantikko</t>
       </tg>
     </mg>
   </e>
@@ -227627,10 +227814,13 @@
     </lg>
 
     <mg>
-      <defNative>? Sav uke Vasik uly</defNative>
+      <defNative>? Sav uke Vasik uly. JK_ ӱм шӹшмӓш гӹц - ? лыгымаш (vastine
+      nykymrj?)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">sekoitus</t>
+
+        <t pos="N">velli</t>
       </tg>
     </mg>
   </e>
