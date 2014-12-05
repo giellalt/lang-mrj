@@ -169,6 +169,7 @@ LEXICON Root
 !    Prefixes    ; ! This might be used with indefinite pronouns
    pronouns    ;
    propernouns    ;
+   propernouns-toponyms    ;
    quantifiers   ;
    verbs   ;
 
@@ -179,6 +180,7 @@ Punctuation ;
 
  A_NEWWORDS ;
  N_NEWWORDS ;
+ PROP_NEWWORDS ;
 Exceptions ;
 
  urj-Cyrl-ProperNouns ; ! This is the template
