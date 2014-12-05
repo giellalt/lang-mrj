@@ -26,6 +26,7 @@ GT_LEXC_SRCS_L1_L2=\
 			 stems/punct.lexc         \
 			 stems/adjectives_newwords.lexc         \
 			 stems/nouns_newwords.lexc         \
+			 stems/propernouns_newwords.lexc         \
 			 affixes/adjectives.lexc  \
 			 affixes/adverbs.lexc     \
 			 affixes/clitics.lexc     \
@@ -63,6 +64,7 @@ GENERATED_LEXC_SRCS=\
 			$(srcdir)/stems/particles.lexc     \
 			$(srcdir)/stems/pronouns.lexc      \
 			$(srcdir)/stems/propernouns.lexc   \
+			$(srcdir)/stems/propernouns-toponyms.lexc   \
 			$(srcdir)/stems/quantifiers.lexc   \
 			$(srcdir)/stems/verbs.lexc
 
@@ -79,6 +81,7 @@ GT_XML_SRCS=\
 			stems/particles.xml     \
 			stems/pronouns.xml      \
 			stems/propernouns.xml   \
+			stems/propernouns-toponyms.xml   \
 			stems/quantifiers.xml   \
 			stems/verbs.xml
 
