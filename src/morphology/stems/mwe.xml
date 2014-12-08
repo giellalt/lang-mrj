@@ -1,176 +1,244 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mrj">
-   <e exclude="fst">
-      <lg>
-         <l>выжалаш-нӓлӓш</l>
-         <stg>
-            <st Contlex="PHRASE_VTag">выжалаш-нӓлӓш</st>
-         </stg>
-         <stress>выжа•лаш-нӓ•лӓш</stress>
-      </lg>
-      <pos>PHRASE_V</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e exclude="fst">
-      <lg>
-         <l>йӹрӓлтӓш-попалташ</l>
-         <stg>
-            <st Contlex="PHRASE_VTag">йӹрӓлтӓш-попалташ</st>
-         </stg>
-         <stress>йӹрӓ•лтӓш-попа•лташ</stress>
-      </lg>
-      <pos>PHRASE_V</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e exclude="fst">
-      <lg>
-         <l>йӹрӓш-попаш</l>
-         <stg>
-            <st Contlex="PHRASE_VTag">йӹрӓш-попаш</st>
-         </stg>
-         <stress>йӹ•рӓш-по•паш</stress>
-      </lg>
-      <pos>PHRASE_V</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e exclude="fst">
-      <lg>
-         <l>йӹрӓш-шӹнзӓш</l>
-         <stg>
-            <st Contlex="PHRASE_VTag">йӹрӓш-шӹнзӓш</st>
-         </stg>
-         <stress>йӹ•рӓш-шӹнзӓш</stress>
-      </lg>
-      <pos>PHRASE_V</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e exclude="fst">
-      <lg>
-         <l>качкаш-йӱӓш</l>
-         <stg>
-            <st Contlex="PHRASE_VTag">качкаш-йӱӓш</st>
-         </stg>
-         <stress>ка•чкаш-йӱ•ӓш</stress>
-      </lg>
-      <pos>PHRASE_V</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e exclude="fst">
-      <lg>
-         <l>пукшаш-йӱктӓш</l>
-         <stg>
-            <st Contlex="PHRASE_VTag">пукшаш-йӱктӓш</st>
-         </stg>
-         <stress>пу•кшаш-йӱ•ктӓш</stress>
-      </lg>
-      <pos>PHRASE_V</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e exclude="fst">
-      <lg>
-         <l>уташ-пӹтӓш</l>
-         <stg>
-            <st Contlex="PHRASE_VTag">уташ-пӹтӓш</st>
-         </stg>
-         <stress>у•таш-пӹ•тӓш</stress>
-      </lg>
-      <pos>PHRASE_V</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e exclude="fst">
-      <lg>
-         <l>ӹлӓш-колаш</l>
-         <stg>
-            <st Contlex="PHRASE_VTag">ӹлӓш-колаш</st>
-         </stg>
-         <stress>ӹ•лӓш-ко•лаш</stress>
-      </lg>
-      <pos>PHRASE_V</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e exclude="fst">
-      <lg>
-         <l>ӹлӓш-шӱлӓш</l>
-         <stg>
-            <st Contlex="PHRASE_VTag">ӹлӓш-шӱлӓш</st>
-         </stg>
-         <stress>ӹ•лӓш-шӱ•лӓш</stress>
-      </lg>
-      <pos>PHRASE_V</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg>
-            <t/>
-         </tg>
-      </mg>
-   </e>
+   xml:lang="mrj" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e exclude="fst">
+    <lg>
+      <l>выжалаш-нӓлӓш</l>
+
+      <stg>
+        <st Contlex="PHRASE_VTag">выжалаш-нӓлӓш</st>
+      </stg>
+
+      <stress>выжа•лаш-нӓ•лӓш</stress>
+    </lg>
+
+    <pos>PHRASE_V</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>JK: коммерсантвлӓн йылайиш</defNative>
+      </m>
+
+      <tg>
+        <t>kaupistella</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l>йӹрӓлтӓш-попалташ</l>
+
+      <stg>
+        <st Contlex="PHRASE_VTag">йӹрӓлтӓш-попалташ</st>
+      </stg>
+
+      <stress>йӹрӓ•лтӓш-попа•лташ</stress>
+    </lg>
+
+    <pos>PHRASE_V</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg>
+        <t>small-talk</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l>йӹрӓш-попаш</l>
+
+      <stg>
+        <st Contlex="PHRASE_VTag">йӹрӓш-попаш</st>
+      </stg>
+
+      <stress>йӹ•рӓш-по•паш</stress>
+    </lg>
+
+    <pos>PHRASE_V</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg>
+        <t>jutella</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l>йӹрӓш-шӹнзӓш</l>
+
+      <stg>
+        <st Contlex="PHRASE_VTag">йӹрӓш-шӹнзӓш</st>
+      </stg>
+
+      <stress>йӹ•рӓш-шӹнзӓш</stress>
+    </lg>
+
+    <pos>PHRASE_V</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>JK: irvistellä</defNative>
+      </m>
+
+      <tg>
+        <t>irvistellä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l>качкаш-йӱӓш</l>
+
+      <stg>
+        <st Contlex="PHRASE_VTag">качкаш-йӱӓш</st>
+      </stg>
+
+      <stress>ка•чкаш-йӱ•ӓш</stress>
+    </lg>
+
+    <pos>PHRASE_V</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg>
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l>пукшаш-йӱктӓш</l>
+
+      <stg>
+        <st Contlex="PHRASE_VTag">пукшаш-йӱктӓш</st>
+      </stg>
+
+      <stress>пу•кшаш-йӱ•ктӓш</stress>
+    </lg>
+
+    <pos>PHRASE_V</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>JK: ottaa vieraita vastaan - myös kestittää</defNative>
+      </m>
+
+      <tg>
+        <t>kestittää</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l>уташ-пӹтӓш</l>
+
+      <stg>
+        <st Contlex="PHRASE_VTag">уташ-пӹтӓш</st>
+      </stg>
+
+      <stress>у•таш-пӹ•тӓш</stress>
+    </lg>
+
+    <pos>PHRASE_V</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>JK_ Adv. tosi paljon</defNative>
+      </m>
+
+      <tg>
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l>ӹлӓш-колаш</l>
+
+      <stg>
+        <st Contlex="PHRASE_VTag">ӹлӓш-колаш</st>
+      </stg>
+
+      <stress>ӹ•лӓш-ко•лаш</stress>
+    </lg>
+
+    <pos>PHRASE_V</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg>
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l>ӹлӓш-шӱлӓш</l>
+
+      <stg>
+        <st Contlex="PHRASE_VTag">ӹлӓш-шӱлӓш</st>
+      </stg>
+
+      <stress>ӹ•лӓш-шӱ•лӓш</stress>
+    </lg>
+
+    <pos>PHRASE_V</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg>
+        <t>elellä</t>
+      </tg>
+
+      <tg>
+        <t>voida hyvin</t>
+      </tg>
+    </mg>
+  </e>
 </r>
