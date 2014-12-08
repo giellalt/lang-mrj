@@ -220,6 +220,31 @@
     </mg>
   </e>
 
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Виловат</l>
+
+      <stg>
+        <st Contlex="PROP_КОЛ">Виловат</st>
+      </stg>
+
+      <stress>Вило•ват</stress>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Vilovat</t>
+      </tg>
+    </mg>
+  </e>
 
   <e>
     <lg>
@@ -434,100 +459,6 @@
 
   <e>
     <lg>
-      <l pos="N" type="Prop">Йыл</l>
-
-      <stg>
-        <st Contlex="PROP_КОЛ">Йыл</st>
-      </stg>
-
-      <stress>Йыл</stress>
-    </lg>
-
-    <pos>Prop</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop">Volga</t>
-
-        <td pos="N" type="Prop">Volgan vuorimarinkielinen nimitys</td>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Йылымбал</l>
-
-      <stg>
-        <st Contlex="PROP_КОЛ">Йылымбал</st>
-      </stg>
-
-      <stress>Йылы•мбал</stress>
-    </lg>
-
-    <pos>Prop</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg xml:lang="fin">
-        <td pos="N" type="Prop">Taka-Volgan alue</td>
-
-        <td pos="N" type="Prop">Volga-joen vasemman rannan puoleinen alue</td>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Йынгы</l>
-
-      <stg>
-        <st Contlex="PROP_ТӸРВӸ">Йынгы</st>
-      </stg>
-
-      <stress>Йы•нгы</stress>
-    </lg>
-
-    <pos>Prop</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop">Junga</t>
-      </tg>
-
-      <xg>
-        <x>Изи Йынгы</x>
-
-        <xt/>
-      </xg>
-
-      <xg>
-        <x>Кого Йынгы</x>
-
-        <xt/>
-      </xg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="N" type="Prop">Йӱрйӹ</l>
 
       <stg>
@@ -552,6 +483,8 @@
     </mg>
   </e>
 
+<e> <lg> <l pos="N" type="Prop">Казански</l> <stg>  <st Contlex="PROP-PLC_ОЛМА">Казански</st> </stg> <stress>Каза•нски</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop"/> </tg> </mg> </e>
+
   <e>
     <lg>
       <l pos="N" type="Prop">Курйы</l>
@@ -574,32 +507,6 @@
 
       <tg xml:lang="fin">
         <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Кырык</l>
-
-      <stg>
-        <st Contlex="PROP_">Кырык</st>
-      </stg>
-
-      <stress>Кы•рык</stress>
-    </lg>
-
-    <pos>Prop</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative>Кырык мары</defNative>
-      </m>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop">Vuorimari</t>
       </tg>
     </mg>
   </e>
@@ -651,7 +558,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Mokejevitš</t>
       </tg>
     </mg>
   </e>
@@ -677,33 +584,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Ош</l>
-
-      <stg>
-        <st Contlex="PROP_КОЛ">Ош</st>
-      </stg>
-
-      <stress>О•шпӧрт</stress>
-    </lg>
-
-    <pos>Prop</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative>Ош пӧрт</defNative>
-      </m>
-
-      <tg xml:lang="fin">
-        <td pos="N" type="Prop">Valkoinen talo eli hallitustalo</td>
+        <t pos="N" type="Prop">Nikiforovitš</t>
       </tg>
     </mg>
   </e>
@@ -729,7 +610,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Pavlov</t>
       </tg>
     </mg>
   </e>
@@ -755,59 +636,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Пӹсӹрмӓн</l>
-
-      <stg>
-        <st Contlex="PROP_КОЛ">Пӹсӹрмӓн</st>
-      </stg>
-
-      <stress>Пӹсӹ•рмӓн</stress>
-    </lg>
-
-    <pos>Prop</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Россий</l>
-
-      <stg>
-        <st Contlex="PROP_">Россий</st>
-      </stg>
-
-      <stress>Росси•й</stress>
-    </lg>
-
-    <pos>Prop</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Pavlova</t>
       </tg>
     </mg>
   </e>
@@ -833,7 +662,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Savin</t>
       </tg>
     </mg>
   </e>
@@ -859,7 +688,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Savina</t>
       </tg>
     </mg>
   </e>
@@ -881,11 +710,12 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>JK_ Wiki: Дворянин Санзара (Athebaldt) JK: Санзар
+        (?)</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Sanzara</t>
       </tg>
     </mg>
   </e>
@@ -907,7 +737,7 @@
       <m>
         <head/>
 
-        <defNative/>
+        <defNative>Kirkkokalenteri-juhla</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -937,7 +767,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Serafi</t>
       </tg>
     </mg>
   </e>
@@ -963,33 +793,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Сибирь</l>
-
-      <stg>
-        <st Contlex="PROP_">Сибирь</st>
-      </stg>
-
-      <stress>Сиби•рь</stress>
-    </lg>
-
-    <pos>Prop</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Serafia</t>
       </tg>
     </mg>
   </e>
@@ -1015,59 +819,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Турци</l>
-
-      <stg>
-        <st Contlex="PROP_ОЛМА">Турци</st>
-      </stg>
-
-      <stress>Ту•рци</stress>
-    </lg>
-
-    <pos>Prop</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop">Turkki</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Усола</l>
-
-      <stg>
-        <st Contlex="PROP_ОЛМА">Усола</st>
-      </stg>
-
-      <stress>Усо•ла</stress>
-    </lg>
-
-    <pos>Prop</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Timo</t>
       </tg>
     </mg>
   </e>
@@ -1093,85 +845,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Цикмӓ</l>
-
-      <stg>
-        <st Contlex="PROP_ОЛМА">Цикмӓ</st>
-      </stg>
-
-      <stress>Ци•кмӓ</stress>
-    </lg>
-
-    <pos>Prop</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Цӓрлӓ</l>
-
-      <stg>
-        <st Contlex="PROP_">Цӓрлӓ</st>
-      </stg>
-
-      <stress>Цӓ•рлӓ</stress>
-    </lg>
-
-    <pos>Prop</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Шавашӓнгӹр</l>
-
-      <stg>
-        <st Contlex="PROP_">Шавашӓнгӹр</st>
-      </stg>
-
-      <stress>Шавашӓнгӹр</stress>
-    </lg>
-
-    <pos>Prop</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Tsarlanyš</t>
       </tg>
     </mg>
   </e>
@@ -1197,33 +871,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Шывашар</l>
-
-      <stg>
-        <st Contlex="PROP_КОЛ">Шывашар</st>
-      </stg>
-
-      <stress>Шыва•шар</stress>
-    </lg>
-
-    <pos>Prop</pos>
-
-    <mg>
-      <m>
-        <head/>
-
-        <defNative/>
-      </m>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">joulu</t>
       </tg>
     </mg>
   </e>
@@ -1249,7 +897,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Ešpai</t>
       </tg>
     </mg>
   </e>
@@ -1275,7 +923,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Juhani</t>
       </tg>
     </mg>
   </e>
@@ -1301,7 +949,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Jaakko</t>
+
+        <t pos="N" type="Prop">Jakov</t>
       </tg>
     </mg>
   </e>
@@ -1327,7 +977,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
+        <t pos="N" type="Prop">Jakov</t>
       </tg>
     </mg>
   </e>
