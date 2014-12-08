@@ -68456,6 +68456,26 @@
 
   <e>
     <lg>
+      <l pos="N">кугижӓвӓтӹ</l>
+
+      <stg>
+        <st Contlex="N_ТӸРВӸ_SUB">кугижӓвӓтӹ</st>
+      </stg>
+
+      <stress>кугижӓ•вӓтӹ</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">kuningatar</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">кугижӓншӹ</l>
 
       <stg>
@@ -73834,7 +73854,7 @@
       <m>
         <head/>
 
-        <defNative>arh.</defNative>
+        <defNative>arh. JK: ик кырошнажы уке - ei ole penniäkään</defNative>
       </m>
 
       <tg xml:lang="fin">
@@ -79695,7 +79715,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: vrt fin kärhämä (?)</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">riittely</t>
@@ -79844,6 +79864,12 @@
 
         <tf pos="N">haureuden harjoittaja</tf>
       </tg>
+
+      <xg>
+        <x>ато кӹрт нӓлеш (JK_ )</x>
+
+        <xt>muuten sille menee huonosti</xt>
+      </xg>
     </mg>
   </e>
 
@@ -80200,6 +80226,34 @@
       <tg xml:lang="fin">
         <t pos="N">ruskistuminen</t>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">кӹрӓт</l>
+
+      <stg>
+        <st Contlex="N_КОЛ">кӹрӓт</st>
+      </stg>
+
+      <stress>кӹрӓ•т</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK_ pyrtenäm, Adj. ulat! JK: сӹнзӓ кӹрӓт (adv_ ?)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">todellisuus</t>
+
+        <t pos="N">päivänvalo</t>
+      </tg>
+
+      <xg>
+        <x>кӹрӓтӹштӹшӹ (Vasikova1992)</x>
+
+        <xt>todellisuudessa</xt>
+      </xg>
     </mg>
   </e>
 
@@ -82370,11 +82424,12 @@
       <m>
         <head/>
 
-        <defNative>ладем; тавар дон ӹштӹмӹ пӓлӹ</defNative>
+        <defNative>ладем; тавар дон ӹштӹмӹ пӓлӹ JK_ merkki tai rasti (vrt
+        ладикӓ - rasti ?)</defNative>
       </m>
 
       <tg xml:lang="fin">
-        <t pos="N">&lt;</t>
+        <t pos="N">merkki</t>
       </tg>
     </mg>
   </e>
@@ -224700,10 +224755,10 @@
     </lg>
 
     <mg>
-      <defNative>Sav uke!</defNative>
+      <defNative>Sav uke! JK_ myös? angsti</defNative>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">hauta</t>
       </tg>
     </mg>
   </e>
@@ -242479,7 +242534,8 @@
     </lg>
 
     <mg>
-      <defNative>vanh. Sav: маленькое окошечко в старинных домах</defNative>
+      <defNative>vanh. Sav: маленькое окошечко в старинных домах. JK_ ikkuna
+      &lt; рензӓ ? ензӓ?</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">pikku-ikkuna</t>
