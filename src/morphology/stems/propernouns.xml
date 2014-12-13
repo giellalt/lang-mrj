@@ -32,6 +32,32 @@
 
   <e>
     <lg>
+      <l pos="N" type="Prop">Акпарс</l>
+
+      <stg>
+        <st Contlex="PROP_КОЛ">Акпарс</st>
+      </stg>
+
+      <stress>Акпа•рс</stress>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Akpars</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N" type="Prop">Алина</l>
 
       <stg>
@@ -52,6 +78,32 @@
 
       <tg xml:lang="fin">
         <t pos="N" type="Prop">Alina</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Алатай</l>
+
+      <stg>
+        <st Contlex="PROP_КОЛ">Алатай</st>
+      </stg>
+
+      <stress>Ала•тай</stress>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>Алатаево Алатай сола</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Alatajevo</t>
       </tg>
     </mg>
   </e>
@@ -106,6 +158,60 @@
 
       <tg xml:lang="fin">
         <td pos="N" type="Prop">Annan tai Anjan deminutiivinen muoto</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Арде</l>
+
+      <stg>
+        <st Contlex="PROP_ОЛМА">Арде</st>
+      </stg>
+
+      <stress>А•рде</stress>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>Ардесола с.Арда (изн.с.Христосорождественское)</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Arda</t>
+
+        <td pos="N" type="Prop">Kilemarin läänikeskus</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Аштавай</l>
+
+      <stg>
+        <st Contlex="PROP_КОЛ">Аштавай</st>
+      </stg>
+
+      <stress>АштА•вай</stress>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>(ent. выс. Октябрьский 2003:20)</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Ashtavaj</t>
       </tg>
     </mg>
   </e>
@@ -242,6 +348,32 @@
 
       <tg xml:lang="fin">
         <t pos="N" type="Prop">Vilovat</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Вӹдсӹнзӓйӓл</l>
+
+      <stg>
+        <st Contlex="PROP_КОЛ">Вӹдсӹнзӓйӓл</st>
+      </stg>
+
+      <stress>Вӹдсӹнзӓ•йӓл</stress>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>дер.Ключёво Усола с/с</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Kljuchevo</t>
       </tg>
     </mg>
   </e>
@@ -456,7 +588,6 @@
     </mg>
   </e>
 
-
   <e>
     <lg>
       <l pos="N" type="Prop">Йӱрйӹ</l>
@@ -483,7 +614,57 @@
     </mg>
   </e>
 
-<e> <lg> <l pos="N" type="Prop">Казански</l> <stg>  <st Contlex="PROP-PLC_ОЛМА">Казански</st> </stg> <stress>Каза•нски</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop"/> </tg> </mg> </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Йӱрнӹ</l>
+
+      <stg>
+        <st Contlex="PROP_">Йӱрнӹ</st>
+      </stg>
+
+      <stress>Йӱ•рнӹ</stress>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>Юрино</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop">Jurino</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Казански</l>
+
+      <stg>
+        <st Contlex="PROP-PLC_ОЛМА">Казански</st>
+      </stg>
+
+      <stress>Каза•нски</stress>
+    </lg>
+
+    <pos>Prop</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop"/>
+      </tg>
+    </mg>
+  </e>
 
   <e>
     <lg>
