@@ -39981,7 +39981,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: простьыкташ (?)</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">ripittäytyä</t>
@@ -41325,6 +41325,27 @@
 
       <tg xml:lang="fin">
         <t pos="V">antaa anteeksi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">простьыкташ</l>
+
+      <stg>
+        <st Contlex="V_ЕМ">простьыкты</st>
+      </stg>
+
+      <stress>про•стьыкташ</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK: päästää synnistä - verbi myös (?)
+      fi.wikipedia.org</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="V">ripitäytyä</t>
       </tg>
     </mg>
   </e>
@@ -46731,6 +46752,29 @@
 
       <tg xml:lang="fin">
         <t pos="V">riisua aseista</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">разоряйӓш</l>
+
+      <stg>
+        <st Contlex="V_ЕМ">разоряйӓш</st>
+      </stg>
+
+      <stress>разоря•йӓш</stress>
+    </lg>
+
+    <mg>
+      <defNative>Pyrtenäm, Jämdy li gazetyshty ulat. Lehtiartikkelin mukaan
+      16.4.10 Sasha Sarambaev, 7lk.</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="V">hävittää</t>
+
+        <t pos="V">saattaa häviöön</t>
       </tg>
     </mg>
   </e>
@@ -64215,7 +64259,8 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: tietyssä kontekstissa on myös merkityksessä
+      varoittaa.</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">peruuttaa</t>
