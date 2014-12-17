@@ -26,6 +26,14 @@ LEXICON N_КОЛ-SG
 LEXICON N_КОЛ-PL
 +N: NMN_КОЛ-PL ;
 
+LEXICON N_МӦР !!= @CODE@ мӧр:мӧр
+ N_МӦР-SG ;
+ N_МӦР-PL ;
+LEXICON N_МӦР-SG
++N: NMN_МӦР-SG ;
+LEXICON N_МӦР-PL
++N: NMN_МӦР-PL ;
+
 LEXICON N_ТӸРВӸ !!≈ * __@CODE@__ тӹрвӹ:тӹрвӹ
 !! The stem vowel "е" is found with possessor indices and the lative
  N_ТӸРВӸ-SG ;
@@ -34,6 +42,15 @@ LEXICON N_ТӸРВӸ-SG
 +N: NMN_ТӸРВӸ-SG ;
 LEXICON N_ТӸРВӸ-PL
 +N: NMN_ТӸРВӸ-PL ;
+
+LEXICON N_МАРЫ !!≈ * __@CODE@__ мары:мары
+!! The stem vowel "е" is found with possessor indices and the lative
+ N_МАРЫ-SG ;
+ N_МАРЫ-PL ;
+LEXICON N_МАРЫ-SG
++N: NMN_МАРЫ-SG ;
+LEXICON N_МАРЫ-PL
++N: NMN_МАРЫ-PL ;
 
 LEXICON N_КАРТА_SUB
 +Err/Sub: N_КАРТА ;
@@ -62,6 +79,14 @@ LEXICON N_ОЛМА-SG
 LEXICON N_ОЛМА-PL
 +N: NMN_ОЛМА-PL ;
 
+LEXICON N_ӒЗӒ !!= @CODE@  ӓзӓ:ӓзӓ
+ N_ӒЗӒ-SG ;
+ N_ӒЗӒ-PL ;
+LEXICON N_ӒЗӒ-SG
++N: NMN_ӒЗӒ-SG ;
+LEXICON N_ӒЗӒ-PL
++N: NMN_ӒЗӒ-PL ;
+
 !!
 LEXICON NMN_КОЛ !!= @CODE@ кол:кол
  NMN_КОЛ-SG ;
@@ -72,6 +97,18 @@ LEXICON NMN_КОЛ-SG
  NMN_OBLIQUE-POSSESSA-SG ;
 
 LEXICON NMN_КОЛ-PL
+ NMN_OBLIQUE-INDEFINITE-PL ;
+ NMN_OBLIQUE-POSSESSA-PL ;
+
+LEXICON NMN_МӦР !!= @CODE@ мӧр:мӧр
+ NMN_МӦР-SG ;
+ NMN_МӦР-PL ;
+LEXICON NMN_МӦР-SG
++Sg+Nom: 	  K	; 
+ NMN_OBLIQUE-INDEFINITE-SG ;
+ NMN_OBLIQUE-POSSESSA-SG ;
+
+LEXICON NMN_МӦР-PL
  NMN_OBLIQUE-INDEFINITE-PL ;
  NMN_OBLIQUE-POSSESSA-PL ;
 
@@ -86,6 +123,21 @@ LEXICON NMN_ТӸРВӸ-SG
 !+PxSg1:%>Е2м SG-ABEACCCOMDATGEN ;
 
 LEXICON NMN_ТӸРВӸ-PL
+ NMN_OBLIQUE-INDEFINITE-PL ;
+ NMN_OBLIQUE-POSSESSA-PL ;
++PxSg1:эм PL-ABEACCCOMDATGENILLINELATNOM ;
+
+LEXICON NMN_МАРЫ !!≈ * __@CODE@__ мары:мары
+!! The stem vowel "е" is found with possessor indices and the lative
+ NMN_МАРЫ-SG ;
+ NMN_МАРЫ-PL ;
+LEXICON NMN_МАРЫ-SG
++Sg+Nom:          K     ;
+ NMN_OBLIQUE-INDEFINITE-SG ;
+ NMN_OBLIQUE-POSSESSA-SG ;
+!+PxSg1:%>Е2м SG-ABEACCCOMDATGEN ;
+
+LEXICON NMN_МАРЫ-PL
  NMN_OBLIQUE-INDEFINITE-PL ;
  NMN_OBLIQUE-POSSESSA-PL ;
 +PxSg1:эм PL-ABEACCCOMDATGENILLINELATNOM ;
@@ -112,9 +164,31 @@ LEXICON NMN_ОЛМА-SG
  NMN_OBLIQUE-POSSESSA-SG ;
 +PxSg1+Sg+Nom:эм K ;
 +PxSg2+Sg+Nom:ет K ;
-+Sg+Lat+PxSg3:%>еш%{ыӹØ%}ж%{ыӹØ%}	   K  ;
++Sg+Lat+PxSg3:%>еш%{ыӹØ%}ж%{ыӹØ%} K  ;
 
 LEXICON NMN_ОЛМА-PL
+ NMN_OBLIQUE-INDEFINITE-PL ;
+ NMN_OBLIQUE-POSSESSA-PL ;
+
++PxSg1+Pl+Nom:эмвлӓ K ;
++PxSg1+Pl+Nom:мвлӓ K ;
++Pl+PxSg1+Nom:влӓэм K ;
++PxSg2+Pl+Nom:етвлӓ K ;
++PxSg2+Pl+Nom:твлӓ K ;
++Pl+Nom+PxSg2:влӓэт K ;
+
+LEXICON NMN_ӒЗӒ !!= @CODE@  ӓзӓ:ӓзӓ
+ NMN_ӒЗӒ-SG ;
+ NMN_ӒЗӒ-PL ;
+LEXICON NMN_ӒЗӒ-SG
++Sg+Nom:          K     ;
+ NMN_OBLIQUE-INDEFINITE-SG ;
+ NMN_OBLIQUE-POSSESSA-SG ;
++PxSg1+Sg+Nom:эм K ;
++PxSg2+Sg+Nom:ет K ;
++Sg+Lat+PxSg3:%>еш%{ыӹØ%}ж%{ыӹØ%}	   K  ;
+
+LEXICON NMN_ӒЗӒ-PL
  NMN_OBLIQUE-INDEFINITE-PL ;
  NMN_OBLIQUE-POSSESSA-PL ;
 
