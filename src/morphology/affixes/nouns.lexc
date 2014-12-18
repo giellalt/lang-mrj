@@ -64,14 +64,14 @@ LEXICON N_КАРТА-SG
 LEXICON N_КАРТА-PL
 +N: NMN_КАРТА-PL ;
 
-LEXICON N_БЫРЖА !!≈ * __@CODE@__ быржа:быржа 
+LEXICON N_БИРЖА !!≈ * __@CODE@__ биржа:биржа 
 !! а is specific to the +Sg+Nom, elsewhere ы or ӹ
- N_БЫРЖА-SG ;
- N_БЫРЖА-PL ;
-LEXICON N_БЫРЖА-SG
-+N: NMN_БЫРЖА-SG ;
-LEXICON N_БЫРЖА-PL
-+N: NMN_БЫРЖА-PL ;
+ N_БИРЖА-SG ;
+ N_БИРЖА-PL ;
+LEXICON N_БИРЖА-SG
++N: NMN_БИРЖА-SG ;
+LEXICON N_БИРЖА-PL
++N: NMN_БИРЖА-PL ;
 
 LEXICON N_ПОЧТА !!= @CODE@  почта:почта
 +N: NMN_OBLIQUE-INDEFINITE ;
@@ -165,17 +165,17 @@ LEXICON NMN_КАРТА-PL
 :%^А2ЫӸ NMN_OBLIQUE-INDEFINITE-PL ;
 :%^А2ЫӸ NMN_OBLIQUE-POSSESSA-PL ;
 
-LEXICON NMN_БЫРЖА	 !!≈ * __@CODE@__ быржа:быржа
+LEXICON NMN_БИРЖА	 !!≈ * __@CODE@__ биржа:биржа
 !! Front а/ӹ
 !! а is specific to the +Sg+Nom, elsewhere ӹ
- NMN_БЫРЖА-SG ;
- NMN_БЫРЖА-PL ;
-LEXICON NMN_БЫРЖА-SG
+ NMN_БИРЖА-SG ;
+ NMN_БИРЖА-PL ;
+LEXICON NMN_БИРЖА-SG
 +Sg+Nom:          K     ;
 :%^А2ЫӸ NMN_OBLIQUE-INDEFINITE-SG_FRONT ;
 :%^А2ЫӸ NMN_OBLIQUE-POSSESSA-SG_FRONT ;
 
-LEXICON NMN_БЫРЖА-PL
+LEXICON NMN_БИРЖА-PL
 :%^А2ЫӸ NMN_OBLIQUE-INDEFINITE-PL ; !!= * __@CODE@__ %>влӓ
 :%^А2ЫӸ NMN_OBLIQUE-POSSESSA-PL_FRONT ;
 
