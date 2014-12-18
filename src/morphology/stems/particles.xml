@@ -147,7 +147,32 @@
 
   <e>
     <lg>
+      <l pos="Pcle">вел</l>
+
+      <l_ref pos="Pcle">веле</l_ref>
+
+      <stg>
+        <st Contlex="PCLE_">вел</st>
+      </stg>
+
+      <stress>ве•л</stress>
+    </lg>
+
+    <mg>
+      <defNative>Sav: (част. ограничит.) передается словом лишь, только
+      (2008Е:16)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">vain</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Pcle">веле</l>
+
+      <l_ref pos="Pcle">вел</l_ref>
 
       <stg>
         <st Contlex="PCLE_">веле</st>
@@ -157,10 +182,11 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: (част. ограничит.) передается словом лишь, только
+      (2008Е:16)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <t pos="Pcle">vain</t>
       </tg>
     </mg>
   </e>
@@ -305,6 +331,35 @@
 
   <e>
     <lg>
+      <l pos="Pcle">гӓлӓ</l>
+
+      <stg>
+        <st Contlex="PCLE_">гӓлӓ</st>
+      </stg>
+
+      <stress>гӓ•лӓ</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK_ SUB: Вилов., лб. (част.) то; кышты ӹлӓт ~ ? где-то
+      живут?</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">-hAn</t>
+
+        <t pos="Pcle">-pA</t>
+      </tg>
+
+      <xg>
+        <x>Кышты ӹлӓт гӓлӓ? (Sav2008)</x>
+
+        <xt>missähän lienee asuu</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Pcle">гӹнь</l>
 
       <stg>
@@ -315,7 +370,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav 2008E (част. усилит.) же</defNative>
 
       <tg xml:lang="fin">
         <t pos="Pcle">taas</t>
@@ -325,6 +380,8 @@
         <t pos="Pcle">-hän</t>
 
         <t pos="Pcle">-pA</t>
+
+        <t pos="Pcle">mutta</t>
       </tg>
 
       <xg>
@@ -349,7 +406,7 @@
         <st Contlex="PCLE_">гӹньӹ</st>
       </stg>
 
-      <stress>гӹньӹ</stress>
+      <stress>гӹ•ньӹ</stress>
     </lg>
 
     <mg>
@@ -668,10 +725,11 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav 2008E (JK: ei merkitty että pcle!) погоди-ка, постой. -
+      JK: oota vaa (?) odotapas</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <t pos="Pcle">odotapas</t>
       </tg>
     </mg>
   </e>
@@ -688,10 +746,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav uke.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <t pos="Pcle">odotapas nyt</t>
       </tg>
     </mg>
   </e>
@@ -708,7 +766,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: ei ole partikkeli vaan subst (poistetaan!)</defNative>
 
       <tg xml:lang="fin">
         <t pos="Pcle"/>
@@ -728,11 +786,19 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav 2008E: ЙОК (част.) так, ладно; яра ~ да ладно; ӹштем ~
+      ладно, сделаю. Myös JK_1: lainasan. (Tarkistettava onko merk-ssä: ei
+      ole. JK_2: йок-макрёк (interj.) ?</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <t pos="Pcle">-pA</t>
       </tg>
+
+      <xg>
+        <x>ӹштем йок</x>
+
+        <xt>teenpä nyt (kumminkin)</xt>
+      </xg>
     </mg>
   </e>
 
@@ -773,7 +839,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <tf pos="Pcle">noh </tf>
+        <tf pos="Pcle">noh</tf>
 
         <tf pos="Pcle">älkääpä nyt</tf>
       </tg>
@@ -984,10 +1050,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: вводное слово JK: interj.?</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <t pos="Pcle">mitäpäs nyt</t>
       </tg>
     </mg>
   </e>
@@ -1029,6 +1095,43 @@
 
   <e>
     <lg>
+      <l pos="Pcle">ли</l>
+
+      <stg>
+        <st Contlex="PCLE_">ли</st>
+      </stg>
+
+      <stress>ли•</stress>
+    </lg>
+
+    <sources>
+      <media mediaID="book">В.Кокэн 1992: Шошымлана шӹжӹ.</media>
+    </sources>
+
+    <mg>
+      <defNative>Sav 2008E: ли; лачок ~ ? действительно ли? JK_ говорвлӓштӹ
+      векӓт? </defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">oikeastiko</t>
+
+        <t pos="Pcle">-kO</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Pcle">ли</t>
+      </tg>
+
+      <xg>
+        <x>лачок ли?</x>
+
+        <xt>oikeastiko niin?</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Pcle">ма</l>
 
       <stg>
@@ -1039,10 +1142,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: kas? eks ole (est)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <t pos="Pcle">eikö</t>
+
+        <t pos="Pcle">kas</t>
       </tg>
     </mg>
   </e>
@@ -1103,10 +1208,30 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK_ puhekielessä enemmän (?)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <t pos="Pcle">sitä sun...</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">моло</l>
+
+      <stg>
+        <st Contlex="PCLE_">моло</st>
+      </stg>
+
+      <stress>мо•ло</stress>
+    </lg>
+
+    <mg>
+      <defNative>Sav 2008E: МОЛ(О) (част.) еще</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">vielä</t>
       </tg>
     </mg>
   </e>
@@ -1123,10 +1248,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav uke. JK_ puhek!</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <t pos="Pcle">ei hätiä mitiä</t>
       </tg>
     </mg>
   </e>
@@ -1146,7 +1271,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <t pos="Pcle">otapas</t>
+
+        <t pos="Pcle">ottaisitko</t>
       </tg>
     </mg>
   </e>
@@ -1166,7 +1293,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <t pos="Pcle">ota vaan</t>
       </tg>
     </mg>
   </e>
@@ -1183,10 +1310,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK synon: тек Vrt est: las (tehku!)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <t pos="Pcle">olkoon</t>
       </tg>
     </mg>
   </e>
@@ -1206,7 +1333,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <t pos="Pcle">eikös</t>
       </tg>
     </mg>
   </e>
@@ -1326,7 +1453,37 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <t pos="Pcle">kas</t>
+
+        <t pos="Pcle">kas tässä</t>
+
+        <t pos="Pcle">näes</t>
+
+        <t pos="Pcle">no</t>
+
+        <t pos="Pcle">noniin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">тевеш</l>
+
+      <stg>
+        <st Contlex="PCLE_">тевеш</st>
+      </stg>
+
+      <stress>те•веш</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">noniin</t>
+
+        <t pos="Pcle">näes</t>
       </tg>
     </mg>
   </e>
@@ -1346,7 +1503,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <t pos="Pcle">olkoon</t>
       </tg>
 
       <tg xml:lang="rus">
@@ -1409,7 +1566,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK_ eksistentiaaliverbi (?)</defNative>
 
       <tg xml:lang="fin">
         <t pos="Pcle">olemassa</t>
@@ -1431,10 +1588,13 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Сав 2008E: (вводн. сл.) ей-богу, истинно. - JK lisäys:
+      Прават-цурат ей-богу же (2008E:127)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <t pos="Pcle">niinpä</t>
+
+        <t pos="Pcle">tosiaan</t>
       </tg>
     </mg>
   </e>
@@ -1451,10 +1611,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: (вводн. сл.)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <t pos="Pcle">totta tosiaan</t>
       </tg>
     </mg>
   </e>
@@ -1474,7 +1634,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pcle"/>
+        <t pos="Pcle">näe</t>
+
+        <t pos="Pcle">ennäe</t>
       </tg>
     </mg>
   </e>
@@ -1498,6 +1660,44 @@
 
         <td pos="Pcle">sillä ilmaistaan voimakasta tahtoa tehdä jotakin</td>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">ӓ</l>
+
+      <stg>
+        <st Contlex="PCLE_">ӓ</st>
+      </stg>
+
+      <stress>ӓ</stress>
+    </lg>
+
+    <mg>
+      <defNative>Sav (2008E:159) употребляется для выражения восклицания или
+      вопроса; ӹштет, ӓ? сделаешь ведь, да? JK_: Etkös tekeekin!?</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">eikös</t>
+
+        <t pos="Pcle">eikö</t>
+
+        <t pos="Pcle">etkö niin</t>
+
+        <td pos="Pcle">virkkeen lopussa kysymyspartikkeli jolla haetaan
+        ...</td>
+
+        <t pos="Pcle">-hAn</t>
+      </tg>
+
+      <xg>
+        <x>ӹштет, ӓ?</x>
+
+        <xt>Teethän?</xt>
+
+        <xt>Etkös tekeekin!</xt>
+      </xg>
     </mg>
   </e>
 
