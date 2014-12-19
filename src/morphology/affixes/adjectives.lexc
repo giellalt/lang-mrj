@@ -13,32 +13,32 @@ LEXICON A_  !!≈ * __@CODE@__
 
 LEXICON A_ОЛМА !!≈ * __@CODE@__
 +A+Pos: # ;
-+A+Comp:%>р%{аӓ%}к # ;
++A+Comp:%>рак # ;
 +A+Der/N+N: NMN_ОЛМА ;
 
 LEXICON A_ӒЗӒ !!≈ * __@CODE@__
 +A+Pos: # ;
-+A+Comp:%>р%{аӓ%}к # ;
++A+Comp:%>рӓк # ;
 +A+Der/N+N: NMN_ӒЗӒ ;
-
-LEXICON A_ТӸРВӸ  !!≈ * __@CODE@__
-+A+Pos: # ;
-+A+Comp:%>р%{аӓ%}к # ;
-+A+Der/N+N: NMN_ТӸРВӸ ;
 
 LEXICON A_МАРЫ  !!≈ * __@CODE@__
 +A+Pos: # ;
-+A+Comp:%>р%{аӓ%}к # ;
++A+Comp:%>рак # ;
 +A+Der/N+N: NMN_МАРЫ ;
+
+LEXICON A_ТӸРВӸ  !!≈ * __@CODE@__
++A+Pos: # ;
++A+Comp:%>рӓк # ;
++A+Der/N+N: NMN_ТӸРВӸ ;
 
 LEXICON A_КОЛ  !!≈ * __@CODE@__
 +A+Pos: # ;
-+A+Comp:%>р%{аӓ%}к # ;
++A+Comp:%>рак # ;
 +A+Der/N+N: NMN_КОЛ ; !!≈ * __@CODE@__ The +N tag is given here to curtail over generation from derived nouns
 
 LEXICON A_МӦР  !!≈ * __@CODE@__
 +A+Pos: # ;
-+A+Comp:%>р%{аӓ%}к # ;
++A+Comp:%>рӓк # ;
 +A+Der/N+N: NMN_МӦР ; !!≈ * __@CODE@__ The +N tag is given here to curtail over generation from derived nouns
 
 
