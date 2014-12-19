@@ -7,7 +7,7 @@ LEXICON nouns
 аборт:аборт N_КОЛ  "abortti" ;
 абстракци:абстракци N_ОЛМА  "abstraktio" ;
 абсурд:абсурд N_КОЛ  "absurdius" ;
-авада:авада NTag  "kirous" ;
+авада:авада N_  "kirous" ;
 авалянылмаш:авалянылмаш N_КОЛ  "liikkuminen kontaten" ;
 авалянымаш:авалянымаш N_КОЛ  "konttaaminen" ;
 аванс:аванс N_КОЛ  "etumaksu" ;
@@ -22,7 +22,7 @@ LEXICON nouns
 аварымаш:аварымаш N_КОЛ  "paisuminen" ;
 аваха:аваха N_ОЛМА  "kuori" ;
 август:август N_КОЛ  "elokuu" ;
-авиа:авиа NTag  "lento" ;
+авиа:авиа N_  "lento" ;
 авиапочта:авиа#почта N_ПОЧТА  "lentoposti" ;
 авиаци:авиаци N_ОЛМА  "ilmailuala" ;
 аврал:аврал N_КОЛ  "ylimääräinen kiireellinen työ" ;
@@ -41,10 +41,10 @@ LEXICON nouns
 авторучка:авторучка N_КАРТА  "kynä" ;
 автостанци:автостанци N_ОЛМА  "autolinja-pääasema" ;
 авызи:авызи N_ОЛМА  "tuhrimus" ;
-авыре:авыре NTag  "voimakkuus" ;
-авыре:авре NTag  "voimakkuus" ;
+авыре:авыре N_  "voimakkuus" ;
+авыре:авре N_  "voimakkuus" ;
 агент:агент N_МӦР  "agentti" ;
-агентство:агентство NTag  "agentuuri" ;
+агентство:агентство N_  "agentuuri" ;
 агентура:агентура N_КАРТА  "agenttitoiminta" ;
 агитатор:агитатор N_КОЛ  "agitaattori" ;
 агитаци:агитаци N_ОЛМА  "agitaatio" ;
@@ -108,7 +108,7 @@ LEXICON nouns
 акварель:акварель N_МӦР  "vesivärit" ;
 аквариум:аквариум N_КОЛ  "akvaario" ;
 акел:акел N_МӦР  "perättömyys" ;
-акел:аккел NTag  "perättömyys" ;
+акел:аккел N_  "perättömyys" ;
 аккомпанемент:аккомпанемент N_МӦР  "säestys" ;
 аккомпанируйымаш:аккомпанируйымаш N_КОЛ  "säestäminen" ;
 аккорд:аккорд N_КОЛ  "akordi" ;
@@ -150,9 +150,9 @@ LEXICON nouns
 аланышы:аланышы N_МАРЫ  "kansa" ;
 алапанти:алапанти N_ОЛМА  "petkuttaja" ;
 алати:алати N_ОЛМА  "petkuttaja" ;
-алати:алаготи NTag  "petkuttaja" ;
+алати:алаготи N_  "petkuttaja" ;
 алаша:алаша N_ОЛМА  "ruuna" ;
-алашоэ:алашоэ NTag  "sotka" ;
+алашоэ:алашоэ N_  "sotka" ;
 алаэмдӹмӓш:алаэмдӹмӓш N_МӦР  "kirjavoittaminen" ;
 алаэммӓш:алаэммӓш N_МӦР  "kirjavaksi muuttuminen" ;
 алгебра:алгебра N_БИРЖА  "algebra" ;
@@ -162,7 +162,7 @@ LEXICON nouns
 алкоголизм:алкоголизм N_МӦР  "alkoholismi" ;
 алкоголик:алкоголик N_МӦР  "alkoholisti" ;
 алкоголь:алкоголь N_КОЛ  "alkoholi" ;
-аллах:аллах NTag  "allah" ;
+аллах:аллах N_  "allah" ;
 аллегори:аллегори N_ОЛМА  "allegoria" ;
 аллей:аллей N_МӦР  "puistokuja" ;
 алмаз:алмаз N_КОЛ  "timantti" ;
@@ -176,13 +176,13 @@ LEXICON nouns
 алтарь:алтарь N_КОЛ  "alttari" ;
 алтаца:алтаца N_ОЛМА  "rakkula" ;
 алты:алты N_МАРЫ  "kainalotilkku" ;
-алу:алу NTag  "autiomaa" ;
+алу:алу N_  "autiomaa" ;
 алуй:алуй N_КОЛ  "autiomaa" ;
 алфавит:алфавит N_МӦР  "aakkoset" ;
 алха:алха N_ОЛМА  "korvarengas" ;
 алык:алык N_КОЛ  "niitty" ;
 альбом:альбом N_КОЛ  "albumi" ;
-альманах:альманах NTag  "almanakka" ;
+альманах:альманах N_  "almanakka" ;
 альпинизм:альпинизм N_МӦР  "vuoristokiipeily" ;
 альпинист:альпинист N_МӦР  "vuoristokiipeilijä" ;
 альт:альт N_КОЛ  "altto" ;
@@ -194,7 +194,7 @@ LEXICON nouns
 амаса:амаса N_ОЛМА  "ovi" ;
 амаш:амаш N_КОЛ  "teltta" ;
 амбар:амбар N_КОЛ  "aitta" ;
-ӓмбичӹ:ӓмбич NTag  "kasvimaa" ;
+ӓмбичӹ:ӓмбич N_  "kasvimaa" ;
 амбулатори:амбулатори N_ОЛМА  "poliklinikka" ;
 амбылцы:амбылцы N_МАРЫ  "laskokset" ;
 амбылцымаш:амбылцымаш N_КОЛ  "laskostuminen" ;
@@ -315,7 +315,7 @@ LEXICON nouns
 арйӹлмӹ:арйӹлмӹ N_ТӸРВӸ  "kitakieleke" ;
 арка:арка N_КАРТА  "kumppu" ;
 аркан:аркан N_КОЛ  "suopunki" ;
-арлу:арлу NTag  "pielipuu" ;
+арлу:арлу N_  "pielipuu" ;
 арлыдымаш:арлыдымаш N_КОЛ  "ryyppyputki" ;
 арлык:арлык N_КОЛ  "terttu" ;
 арлыктымаш:арлыктымаш N_КОЛ  "juopumuksesta selvittäminen" ;
@@ -429,7 +429,7 @@ LEXICON nouns
 аярталмаш:аярталмаш N_КОЛ  "auringon pilkahdus" ;
 аяртымаш:аяртымаш N_КОЛ  "selkeneminen" ;
 аярымаш:аярымаш N_КОЛ  "selkeneminen" ;
-аҥ:аҥ NTag  "aukko" ;
+аҥ:аҥ N_  "aukko" ;
 бабун:бабун N_КОЛ  "hyppyrotan laji" ;
 бавар:бавар N_КОЛ  "baijerilainen" ;
 багаж:багаж N_КОЛ  "matkatavarat" ;
@@ -494,7 +494,7 @@ LEXICON nouns
 баскетболист:баскетболист N_МӦР  "koripalloilija" ;
 баскетболистка:баскетболистка N_КАРТА  "naiskoripalloilija" ;
 басмач:басмач N_КОЛ  "basmatsh" ;
-басня:басня NTag  "taru" ;
+басня:басня N_  "taru" ;
 бассейн:бассейн N_МӦР  "vesiallas" ;
 бастион:бастион N_КОЛ  "bastioni" ;
 бастуйымаш:бастуйымаш N_КОЛ  "lakko" ;
@@ -507,7 +507,7 @@ LEXICON nouns
 батюшка:батюшка N_КАРТА  "pappi" ;
 бахча:бахча N_ОЛМА  "melonitarha" ;
 бацилла:бацилла N_КАРТА  "basilli" ;
-башня:башня NTag  "torni" ;
+башня:башня N_  "torni" ;
 баян:баян N_КОЛ  "hanuri" ;
 баянист:баянист N_МӦР  "hanuristi" ;
 бегемот:бегемот N_КОЛ  "virtahepo" ;
@@ -543,7 +543,7 @@ LEXICON nouns
 благословайымаш:благословайымаш N_КОЛ  "siunaaminen" ;
 благословени:благословени N_ОЛМА  "siunaus" ;
 бланк:бланк N_КОЛ  "lomake" ;
-блесна:блесна NTag  "uistin" ;
+блесна:блесна N_  "uistin" ;
 блиндаж:блиндаж N_КОЛ  "korsu" ;
 блок:блок N_КОЛ  "liitto" ;
 блокада:блокада N_КАРТА  "saarto" ;
@@ -588,7 +588,7 @@ LEXICON nouns
 броневик:броневик N_МӦР  "panssariauto" ;
 бронза:бронза N_КАРТА  "pronssi" ;
 бронь:бронь N_КОЛ  "varaus" ;
-броня:броня NTag  "panssari" ;
+броня:броня N_  "panssari" ;
 брошюра:брошюра N_КАРТА  "esite" ;
 брутто:брутто N_ОЛМА  "brutto" ;
 брынза:брынза N_КАРТА  "vuohenmaitojuusto" ;
@@ -709,14 +709,14 @@ LEXICON nouns
 варвар:варвар N_КОЛ  "barbaari" ;
 варган:варган N_КОЛ  "??" ;
 варгыцмаш:варгыцмаш N_КОЛ  "kiljunta" ;
-варенье:варенье NTag  "hillo" ;
+варенье:варенье N_  "hillo" ;
 вариант:вариант N_КОЛ  "variantti" ;
 вариаци:вариаци N_ОЛМА  "muuntelu" ;
 варымаш:варымаш N_КОЛ  "pikillä käsitteleminen" ;
 вата:вата N_КАРТА  "pumpuli" ;
 ватер:ватер N_МӦР  "asunto" ;
 ватка:ватка N_КАРТА  "vanu" ;
-вафля:вафля NTag  "vohveli" ;
+вафля:вафля N_  "vohveli" ;
 вахта:вахта N_КАРТА  "vahti" ;
 вацак:вацак N_КОЛ  "ahjo" ;
 вацмаш:вацмаш N_КОЛ  "pitkäkseen käyminen" ;
@@ -852,7 +852,7 @@ LEXICON nouns
 водород:водород N_КОЛ  "vety" ;
 водянка:водянка N_КАРТА  "vesitauti" ;
 вожатый:вожатый N_КОЛ  "pioneeriohjaaja" ;
-воздух:воздух NTag  "ilma" ;
+воздух:воздух N_  "ilma" ;
 возы:возы N_МАРЫ  "kuorma" ;
 воин:воин N_МӦР  "soturi" ;
 войска:войска N_ОЛМА  "joukko" ;
@@ -1039,7 +1039,7 @@ LEXICON nouns
 вӹдцӹвӹ:вӹдцӹвӹ N_ТӸРВӸ  "nokikana" ;
 вӹдшер:вӹдшер N_МӦР  "vesipisara" ;
 вӹдшор:вӹдшор N_КОЛ  "kattilakivi" ;
-вӹдшу:вӹдшу NTag  "tulva" ;
+вӹдшу:вӹдшу N_  "tulva" ;
 вӹдшуа:вӹдшуа N_ОЛМА  "tulva" ;
 вӹдъяжгал:вӹдъяжгал N_КОЛ  "järviruoko" ;
 вӹдъял:вӹдъял N_КОЛ  "lahti" ;
@@ -1083,7 +1083,7 @@ LEXICON nouns
 вӹцкӹжгӹмӓш:вӹцкӹжгӹмӓш N_МӦР  "kaventuminen" ;
 вӹцкӹжемдӹмӓш:вӹцкӹжемдӹмӓш N_МӦР  "kaventaminen" ;
 вӹцкӹжеммӓш:вӹцкӹжеммӓш N_МӦР  "laihtuminen" ;
-вӹцкӹжлу:вӹцкӹжлу NTag  "pohjeluu" ;
+вӹцкӹжлу:вӹцкӹжлу N_  "pohjeluu" ;
 вӹцкӹжтӹмаш:вӹцкӹжтӹмаш N_КОЛ  "kaventaminen" ;
 вӹцлӓш:вӹцлӓш N_МӦР  "viisikymppinen" ;
 вӹцӓш:вӹцӓш N_МӦР  "hankaluu" ;
@@ -1187,7 +1187,7 @@ LEXICON nouns
 госпиталь:госпиталь N_КОЛ  "sotilassairaala" ;
 госплан:госплан N_КОЛ  "valtion suunnitelmat" ;
 гостиница:гостиница N_КАРТА  "hotelli" ;
-готовальня:готовальня NTag  "harppilaatikko" ;
+готовальня:готовальня N_  "harppilaatikko" ;
 грави:грави N_ОЛМА  "sora" ;
 гравюра:гравюра N_КАРТА  "kaiverrus" ;
 гравёр:гравёр N_КОЛ  "kaivertaja" ;
@@ -1222,7 +1222,7 @@ LEXICON nouns
 груша:груша N_ОЛМА  "päärynä" ;
 гуаш:гуаш N_КОЛ  "guaššiväri" ;
 губерни:губерни N_ОЛМА  "lääni" ;
-губерня:губерня NTag  "lääni" ;
+губерня:губерня N_  "lääni" ;
 губка:губка N_КАРТА  "pesusieni" ;
 гудок:гудок N_КОЛ  "pilli" ;
 гуляйӹмӓш:гуляйӹмӓш N_МӦР  "huvitteleminen" ;
@@ -1387,13 +1387,13 @@ LEXICON nouns
 дробь:дробь N_КОЛ  "murtoluku" ;
 дружина:дружина N_КАРТА  "joukko" ;
 дубликат:дубликат N_КОЛ  "kaksoiskappale" ;
-дух:дух NTag  "henki" ;
+дух:дух N_  "henki" ;
 духи:духи N_ОЛМА  "hajuvesi" ;
 духовка:духовка N_КАРТА  "paistinuuni" ;
 душ:душ N_КОЛ  "suihku" ;
 дуэль:дуэль N_МӦР  "kaksintaistelu" ;
 дуэт:дуэт N_МӦР  "duettosävellys" ;
-дыня:дыня NTag  "meloni" ;
+дыня:дыня N_  "meloni" ;
 дюйм:дюйм N_КОЛ  "tuuma" ;
 евангели:евангели N_ОЛМА  "evankeliumikirja" ;
 еврей:еврей N_МӦР  "juutalainen" ;
@@ -1519,14 +1519,14 @@ LEXICON nouns
 здорова:здорова N_ОЛМА  "terveys" ;
 здороваэммӓш:здороваэммӓш N_МӦР  "paraneminen" ;
 землетрясени:землетрясени N_ОЛМА  "maanjäristys" ;
-земля:земля NTag  "maa" ;
+земля:земля N_  "maa" ;
 земляк:земляк N_КОЛ  "maanmies" ;
 земство:земство N_ОЛМА  "maasäädyt" ;
 зенитка:зенитка N_КАРТА  "ilmatorjuntatykki" ;
 зенитчик:зенитчик N_МӦР  "ilmatorjuntatykkimies" ;
 знак:знак N_КОЛ  "merkki" ;
 знаменатель:знаменатель N_МӦР  "nimittäjä" ;
-знамя:знамя NTag  "lippu" ;
+знамя:знамя N_  "lippu" ;
 значени:значени N_ОЛМА  "merkitys" ;
 значок:значок N_КОЛ  "rintamerkki" ;
 зона:зона N_КАРТА  "vyöhyke" ;
@@ -1574,7 +1574,7 @@ LEXICON nouns
 изверг:изверг N_МӦР  "hirviö" ;
 извержени:извержени N_ОЛМА  "purkaus" ;
 издани:издани N_ОЛМА  "julkaisu" ;
-издательство:издательство NTag  "kustantamo" ;
+издательство:издательство N_  "kustantamo" ;
 изи:изи N_ОЛМА  "lapsi" ;
 издели:издели N_ОЛМА  "valmiste" ;
 изиварня:издели N_ОЛМА  "pikkurilli" ;
@@ -1594,7 +1594,7 @@ LEXICON nouns
 изиохырец:изиохырец N_МӦР  "avokurkku" ;
 изиэмдӹмӓш:изиэмдӹмӓш N_МӦР  "pienentäminen" ;
 изиэммӓш:изиэммӓш N_МӦР  "väheneminen" ;
-изиӓтя:изиӓтя NTag  "isäpuoli" ;
+изиӓтя:изиӓтя N_  "isäpuoli" ;
 изложени:изложени N_ОЛМА  "mukaelma" ;
 изображайымаш:изображайымаш N_КОЛ  "esittäminen" ;
 изображени:изображени N_ОЛМА  "kuva" ;
@@ -1602,7 +1602,7 @@ LEXICON nouns
 изоляци:изоляци N_ОЛМА  "eristys" ;
 изумруд:изумруд N_КОЛ  "smaragdi" ;
 изюм:изюм N_КОЛ  "rusina" ;
-изӓрня:изӓрня NTag  "torstai" ;
+изӓрня:изӓрня N_  "torstai" ;
 иканемдӹмӓш:иканемдӹмӓш N_МӦР  "yhtäläistäminen" ;
 икань:икань A_  "yhtäläinen" ;
 икмахать:икмахать N_КОЛ  "yllätys" ;
@@ -1634,7 +1634,7 @@ LEXICON nouns
 илӹ:илӹ N_ТӸРВӸ  "liete" ;
 им:им N_МӦР  "neula" ;
 иманцыц:иманцыц N_КОЛ  "" ;
-именья:именья NTag  "nimipäivä" ;
+именья:именья N_  "nimipäivä" ;
 иммигрируйымаш:иммигрируйымаш N_КОЛ  "maahanmuutto" ;
 иммунитет:иммунитет N_МӦР  "vastustuskyky" ;
 имни:имни N_ОЛМА  "hevonen" ;
@@ -1649,7 +1649,7 @@ LEXICON nouns
 импортируйымаш:импортируйымаш N_КОЛ  "tuonti" ;
 импровизаци:импровизаци N_ОЛМА  "improvisaatio" ;
 импульс:импульс N_КОЛ  "sysäys" ;
-имущество:имущество NTag  "omaisuus" ;
+имущество:имущество N_  "omaisuus" ;
 имӓнгдӹмӓш:имӓнгдӹмӓш N_МӦР  "piikikkääksi muuttaminen; piikikkääksi tekeminen" ;
 имӓнгмӓш:имӓнгмӓш N_МӦР  "piikikkääksi muuttuminen" ;
 инвалид:инвалид N_МӦР  "vammainen" ;
@@ -1695,7 +1695,7 @@ LEXICON nouns
 интервал:интервал N_КОЛ  "väli" ;
 интервент:интервент N_МӦР  "maahanhyökkääjä" ;
 интервенци:интервенци N_ОЛМА  "maahanhyökkäys" ;
-интервью:интервью NTag  "haastattelu" ;
+интервью:интервью N_  "haastattelu" ;
 интерес:интерес N_МӦР  "mielenkiinto" ;
 интересуялтдымаш:интересуялтдымаш N_КОЛ  "kiinnostumattomuus" ;
 интересуялтмаш:интересуялтмаш N_КОЛ  "kiinnostus" ;
@@ -1749,7 +1749,7 @@ LEXICON nouns
 ирӹктӹдӹмӓш:ирӹктӹдӹмӓш N_МӦР  "puhdistamattomuus" ;
 ирӹктӹмӓш:ирӹктӹмӓш N_МӦР  "puhdistaminen" ;
 ис:ис N_МӦР  "kaide" ;
-искусство:искусство NTag  "taide" ;
+искусство:искусство N_  "taide" ;
 испанец:испанец N_МӦР  "espanjalainen" ;
 испанка:испанка N_КАРТА  "espanjalainen" ;
 исповедуйыдымаш:исповедуйыдымаш N_КОЛ  "ripittämättömyys" ;
@@ -1782,7 +1782,7 @@ LEXICON nouns
 июль:июль N_КОЛ  "heinäkuu" ;
 июнь:июнь N_КОЛ  "kesäkuu" ;
 иӓ:иӓ N_ОЛМА  "haltia" ;
-иӓварня:иӓварня NTag  "belemniittipuikko" ;
+иӓварня:иӓварня N_  "belemniittipuikko" ;
 иӓвонгы:иӓвонгы N_МАРЫ  "myrkkysieni" ;
 иӓвыч:иӓвыч N_КОЛ  "katko" ;
 иӓк-пелӓк:иӓк-пелӓк N_МӦР  "puolitoista vuotta" ;
@@ -1891,7 +1891,7 @@ LEXICON nouns
 йыргыжтымаш:йыргыжтымаш N_КОЛ  "levittäminen" ;
 йырлан:йырлан N_КОЛ  "jyrkänne" ;
 йырсаул:йырсаул N_КОЛ  "maleksija" ;
-йых:йых NTag  "suku" ;
+йых:йых N_  "suku" ;
 йыхныдымаш:йыхныдымаш N_КОЛ  "sekaantumattomuus" ;
 йыхнымаш:йыхнымаш N_КОЛ  "sekaantuminen" ;
 йышкырыдымаш:йышкырыдымаш N_КОЛ  "houkuttelemattomuus" ;
@@ -2144,12 +2144,12 @@ LEXICON nouns
 казак:казак N_КОЛ  "kasakka" ;
 казаньга:казаньга N_ОЛМА  "marilaistalon nurkkauspaikka uunin takana" ;
 казарма:казарма N_КАРТА  "kasarmi" ;
-казах:казах NTag  "kasakki" ;
+казах:казах N_  "kasakki" ;
 казачка:казачка N_КАРТА  "kasakki" ;
 каземат:каземат N_КОЛ  "vankila" ;
 казна:казна N_ОЛМА  "rahasto" ;
 казначей:казначей N_МӦР  "rahastonhoitaja" ;
-казначейство:казначейство NTag  "rahasto" ;
+казначейство:казначейство N_  "rahasto" ;
 казньымаш:казньымаш N_КОЛ  "rangaistus" ;
 казоной:казоной N_КОЛ  "valtion metsä" ;
 казуйыдымаш:казуйыдымаш N_КОЛ  "lörpöttämättömyys" ;
@@ -2218,7 +2218,7 @@ LEXICON nouns
 калькулятор:калькулятор N_КОЛ  "laskuri" ;
 кальци:кальци N_ОЛМА  "kalsium" ;
 кальымаш:кальымаш N_КОЛ  "kuumentaminen" ;
-каля:каля NTag  "hiiri" ;
+каля:каля N_  "hiiri" ;
 калявач:калявач N_КОЛ  "palmikko" ;
 калявонгы:калявонгы N_МАРЫ  "sieni" ;
 калявӓрӓш:калявӓрӓш N_МӦР  "" ;
@@ -2398,7 +2398,7 @@ LEXICON nouns
 качдымаш:качдымаш N_КОЛ  "syömättömyys" ;
 качемдӹмӓш:качемдӹмӓш N_МӦР  "kitkeröittäminen" ;
 качеммӓш:качеммӓш N_МӦР  "kitkeröityminen" ;
-качество:качество NTag  "kvaliteetti" ;
+качество:качество N_  "kvaliteetti" ;
 качештмӓш:качештмӓш N_МӦР  "kitkeröityminen" ;
 качкыш:качкыш N_КОЛ  "ruoka" ;
 качкыш-йӱш:качкыш-йӱш N_МӦР  "ravinto" ;
@@ -2433,7 +2433,7 @@ LEXICON nouns
 каштыртымаш:каштыртымаш N_КОЛ  "ahavoittaminen" ;
 каштыртыш:каштыртыш N_КОЛ  "rohtuma" ;
 каюта:каюта N_КАРТА  "hytti" ;
-кая:кая NTag  "rasva" ;
+кая:кая N_  "rasva" ;
 каявонгы:каявонгы N_МАРЫ  "voitatti" ;
 каялогер:каялогер N_МӦР  "herkkusuu" ;
 квадрат:квадрат N_КОЛ  "neliö" ;
@@ -2466,7 +2466,7 @@ LEXICON nouns
 келде:келде N_ОЛМА  "nuotta" ;
 келдевач:келдевач N_КОЛ  "" ;
 келдегол:келдегол N_КОЛ  "nuotalla pyydetty kala" ;
-келделу:келделу NTag  "hankaluu" ;
+келделу:келделу N_  "hankaluu" ;
 келдӹмӓш:келдӹмӓш N_МӦР  "tarpeettomuus" ;
 келесӓлтдӹмӓш:келесӓлтдӹмӓш N_МӦР  "ilmaisemattomuus" ;
 келесӓлтмӓш:келесӓлтмӓш N_МӦР  "ilmaiseminen" ;
@@ -2484,7 +2484,7 @@ LEXICON nouns
 кенвацмаш:кенвацмаш N_КОЛ  "putoaminen" ;
 кенвацтарымаш:кенвацтарымаш N_КОЛ  "pudottaminen" ;
 кенвацтымаш:кенвацтымаш N_КОЛ  "pudottaminen" ;
-кенгуру:кенгуру NTag  "kenguru" ;
+кенгуру:кенгуру N_  "kenguru" ;
 кензӓлӓнӹдӹмӓш:кензӓлӓнӹдӹмӓш N_МӦР  "nirsoilemattomuus" ;
 кензӓлӓнӹмӓш:кензӓлӓнӹмӓш N_МӦР  "nirsoileminen" ;
 кепка:кепка N_КАРТА  "lippalakki" ;
@@ -2645,9 +2645,9 @@ LEXICON nouns
 ковеньйӓ:ковеньйӓ N_ОЛМА  "paasto" ;
 ковузы:ковузы N_МАРЫ  "myllyn osia" ;
 ковыз:ковыз N_КОЛ  "myllyn osia" ;
-ковышта-пице:ковышта-пице NTag  "kaalitarha" ;
+ковышта-пице:ковышта-пице N_  "kaalitarha" ;
 ковёр:ковёр N_КОЛ  "matto" ;
-когарня:когарня NTag  "perjantai" ;
+когарня:когарня N_  "perjantai" ;
 когер:когер N_МӦР  "karsta" ;
 когергӹмӓш:когергӹмӓш N_МӦР  "kärventyminen" ;
 когертӹмӓш:когертӹмӓш N_МӦР  "kärventäminen" ;
@@ -2655,13 +2655,13 @@ LEXICON nouns
 когечӹ:когечӹ N_ТӸРВӸ  "pääsiäinen" ;
 когешнӹдӹмӓш:когешнӹдӹмӓш N_МӦР  "kunnioittamattomuus" ;
 когешнӹмӓш:когешнӹмӓш N_МӦР  "kunnoittaminen" ;
-коговарня:коговарня NTag  "peukalo" ;
+коговарня:коговарня N_  "peukalo" ;
 коговуйванды:коговуйванды N_МАРЫ  "sudenkorento" ;
 коговуйванды:коговуйванды N_МАРЫ  "kutomakoneen osa" ;
 коговушты:коговушты N_МАРЫ  "" ;
 коговӓрӓш:коговӓрӓш N_МӦР  "haarahaukka" ;
 коговӓтӹ:коговӓтӹ N_ТӸРВӸ  "ensimmäinen vaimo" ;
-когогаля:когогаля NTag  "rotta" ;
+когогаля:когогаля N_  "rotta" ;
 когогапка:когогапка N_ОЛМА  "pääportti" ;
 когогек:когогек N_МӦР  "lintulaji" ;
 когогорны:когогорны N_МАРЫ  "autotie" ;
@@ -2675,7 +2675,7 @@ LEXICON nouns
 когопапа:когопапа N_ОЛМА  "isoisoäiti" ;
 когопапи:когопапи N_ОЛМА  "isomummi" ;
 когосавыц:когосавыц N_КОЛ  "huivi" ;
-коготьотя:коготьотя NTag  "isoisoisä" ;
+коготьотя:коготьотя N_  "isoisoisä" ;
 когошӱн:когошӱн N_МӦР  "jäänne" ;
 когоэмдӹмӓш:когоэмдӹмӓш N_МӦР  "suurentaminen" ;
 когоэммӓш:когоэммӓш N_МӦР  "kasvaaminen" ;
@@ -2920,7 +2920,7 @@ LEXICON nouns
 конъюнктивит:конъюнктивит N_МӦР  "sidekalvon tulehdus" ;
 конъюнктура:конъюнктура N_КАРТА  "suhdanteet" ;
 коньяк:коньяк N_КОЛ  "konjakki" ;
-конюшня:конюшня NTag  "hevostalli" ;
+конюшня:конюшня N_  "hevostalli" ;
 кооператив:кооператив N_МӦР  "osuuskunta" ;
 кооператор:кооператор N_КОЛ  "osuuskauppamies" ;
 коопераци:коопераци N_ОЛМА  "yhteistoiminta" ;
@@ -2964,7 +2964,7 @@ LEXICON nouns
 корона:корона N_КАРТА  "kruunu" ;
 короп:короп N_КОЛ  "ruumisarkku" ;
 коропка:коропка N_ОЛМА  "rasia" ;
-коропля:коропля NTag  "laatikko" ;
+коропля:коропля N_  "laatikko" ;
 корпус:корпус N_КОЛ  "rakennus" ;
 корректируйыдымаш:корректируйыдымаш N_КОЛ  "korjaamattomuus" ;
 корректируйымаш:корректируйымаш N_КОЛ  "korjaaminen" ;
@@ -2999,14 +2999,14 @@ LEXICON nouns
 костюм:костюм N_КОЛ  "puku" ;
 костюмаш:костюмаш N_КОЛ  "pukukangas" ;
 костёр:костёр N_КОЛ  "kokko" ;
-косуля:косуля NTag  "metsäkauris" ;
+косуля:косуля N_  "metsäkauris" ;
 косынка:косынка N_КАРТА  "kolmikolkkainen huivi" ;
 котелок:котелок N_КОЛ  "pakki" ;
 коти:коти N_ОЛМА  "kissa" ;
 котивач:котивач N_КОЛ  "osmankäämi" ;
 котивыч:котивыч N_КОЛ  "kumina" ;
 котик:котик N_МӦР  "merikarhu" ;
-котилу-пилу:котилу-пилу NTag  "luita eläimille" ;
+котилу-пилу:котилу-пилу N_  "luita eläimille" ;
 котлет:котлет N_МӦР  "kotletti" ;
 котлован:котлован N_КОЛ  "peruskuoppa" ;
 котомка:котомка N_ОЛМА  "reppu" ;
@@ -3036,7 +3036,7 @@ LEXICON nouns
 кошкымаш:кошкымаш N_КОЛ  "kuivuminen" ;
 кошма:кошма N_ОЛМА  "huopa" ;
 коштымаш:коштымаш N_КОЛ  "kuivaaminen" ;
-коэ:коэ NTag  "aalto" ;
+коэ:коэ N_  "aalto" ;
 коэлӓнӹмӓш:коэлӓнӹмӓш N_МӦР  "aaltoilu" ;
 коэм:коэм N_МӦР  "nauha" ;
 коэмӹнер:коэмӹнер N_МӦР  "aivinakangas" ;
@@ -3055,7 +3055,7 @@ LEXICON nouns
 крановщик:крановщик N_МӦР  "nosturinkäyttäjä" ;
 крановщица:крановщица N_КАРТА  "nosturinkäyttäjä" ;
 кратер:кратер N_МӦР  "kraatteri" ;
-крах:крах NTag  "romahdus" ;
+крах:крах N_  "romahdus" ;
 крахмал:крахмал N_КОЛ  "tärkkelys" ;
 крахмаллымаш:крахмаллымаш N_КОЛ  "tärkkäys" ;
 кредит:кредит N_МӦР  "luotto" ;
@@ -3069,7 +3069,7 @@ LEXICON nouns
 кремаци:кремаци N_ОЛМА  "polttohautaus" ;
 креной:креной N_КОЛ  "kanta-asukas" ;
 крепдешин:крепдешин N_МӦР  "kiinankreppi" ;
-крепостничество:крепостничество NTag  "maaorjuus" ;
+крепостничество:крепостничество N_  "maaorjuus" ;
 крепостной:крепостной N_КОЛ  "maaorja" ;
 крептук:крептук N_КОЛ  "syöttöpussi" ;
 крепӹдӹмӓш:крепӹдӹмӓш N_МӦР  "kiristämättömyys" ;
@@ -3081,7 +3081,7 @@ LEXICON nouns
 крестӹмӓш:крестӹмӓш N_МӦР  "ristiäiset" ;
 кресӓн:кресӓн N_МӦР  "" ;
 кречет:кречет N_МӦР  "tunturihaukka" ;
-крешенья:крешенья NTag  "loppiainen" ;
+крешенья:крешенья N_  "loppiainen" ;
 кригӓ:кригӓ N_ОЛМА  "kalaverkko" ;
 кризис:кризис N_МӦР  "kriisi" ;
 кринкӓ:кринкӓ N_ОЛМА  "saviruukku" ;
@@ -3103,7 +3103,7 @@ LEXICON nouns
 крӓгӓ:крӓгӓ N_ОЛМА  "saituri" ;
 крӓгӓлӓнӹмӓш:крӓгӓлӓнӹмӓш N_МӦР  "oikuttelu" ;
 крӓж:крӓж N_МӦР  "pölkky" ;
-крӓпля:крӓпля NTag  "harava" ;
+крӓпля:крӓпля N_  "harava" ;
 крӓсин:крӓсин N_МӦР  "kerosiini" ;
 крӱгӓ:крӱгӓ N_ОЛМА  "ympyrä" ;
 крӱк:крӱк N_МӦР  "haka" ;
@@ -3164,7 +3164,7 @@ LEXICON nouns
 куктынзык:куктынзык N_КОЛ  "sekaannus" ;
 кукугынзалаванды:кукугынзалаванды N_МАРЫ  "voikukka" ;
 кукулымаш:кукулымаш N_КОЛ  "kukkuminen" ;
-кукуняня:кукуняня NTag  "peltokortteen keväiset versot" ;
+кукуняня:кукуняня N_  "peltokortteen keväiset versot" ;
 кукурка:кукурка N_ОЛМА  "rinkeli" ;
 кукуруза:кукуруза N_КАРТА  "maissi" ;
 кукшыгечӹ:кукшыгечӹ N_ТӸРВӸ  "lauantai" ;
@@ -3187,10 +3187,10 @@ LEXICON nouns
 кулёк:кулёк N_КОЛ  "niinisäkki" ;
 кума:кума N_ОЛМА  "kummi" ;
 кумпапа:кумпапа N_ОЛМА  "kummitädin tai kummisedän isä" ;
-кумтьотя:кумтьотя NTag  "kummisedän tai kummitädin isä" ;
+кумтьотя:кумтьотя N_  "kummisedän tai kummitädin isä" ;
 кумыс:кумыс N_КОЛ  "kumissi" ;
 кумӓвӓ:кумӓвӓ N_ОЛМА  "kummitäti" ;
-кумӓтя:кумӓтя NTag  "kummisetä" ;
+кумӓтя:кумӓтя N_  "kummisetä" ;
 кунжут:кунжут N_КОЛ  "seesami" ;
 куньыри:куньыри A_  "hiljainen" ;
 куньырымаш:куньырымаш N_КОЛ  "mähkiminen" ;
@@ -3232,7 +3232,7 @@ LEXICON nouns
 кутан:кутан N_КОЛ  "pakapuoli" ;
 кутньык:кутньык N_КОЛ  "talon takanurkassa tai uunin takana oleva puusänky" ;
 кутузка:кутузка N_ОЛМА  "selli" ;
-кухня:кухня NTag  "keittiö" ;
+кухня:кухня N_  "keittiö" ;
 кучер:кучер N_МӦР  "kuski" ;
 кучкыж:кучкыж N_КОЛ  "kotka" ;
 кучкыж:ӓмӹрт N_КОЛ  "kotka" ;
@@ -3384,7 +3384,7 @@ LEXICON nouns
 кыскымаш:кыскымаш N_КОЛ  "rauhallisesti nukkuminen" ;
 кыт:кыт N_КОЛ  "pituus" ;
 кыталгымаш:кыталгымаш N_КОЛ  "pidennys" ;
-кытге-торешге:кытге-торешге NTag  "palttina-kankaan laji" ;
+кытге-торешге:кытге-торешге N_  "palttina-kankaan laji" ;
 кыти-мути:кыти-мути N_ОЛМА  "romutavara" ;
 кыткы:кыткы N_МАРЫ  "muurahainen" ;
 кытла:кытла N_ОЛМА  "lähistö" ;
@@ -3439,12 +3439,12 @@ LEXICON nouns
 кӓжӓнгмӓш:кӓжӓнгмӓш N_МӦР  "ruohottuminen" ;
 кӓжӓр:кӓжӓр N_МӦР  "kynnöspelto" ;
 кӓжӓр:кӓжӓр N_МӦР  "hakkuupalsta" ;
-кӓзӓварня:кӓзӓварня NTag  "pikkusormi" ;
-кӓзӓля:кӓзӓля NTag  "vihervarpunen" ;
+кӓзӓварня:кӓзӓварня N_  "pikkusormi" ;
+кӓзӓля:кӓзӓля N_  "vihervarpunen" ;
 кӓй:кӓй N_МӦР  "äpäre" ;
 кӓйлӓнӹмӓш:кӓйлӓнӹмӓш N_МӦР  "nuoren ruohon kasvaaminen" ;
 кӓкӓ:кӓкӓ N_ОЛМА  "mustelma" ;
-кӓкӓля:кӓкӓля NTag  "kaakattaja" ;
+кӓкӓля:кӓкӓля N_  "kaakattaja" ;
 кӓкӓлӹмӓш:кӓкӓлӹмӓш N_МӦР  "kaakattaminen" ;
 кӓкӓргӹ:кӓкӓргӹ N_ТӸРВӸ  "mustelma" ;
 кӓкӓргӹмӓш:кӓкӓргӹмӓш N_МӦР  "sinertyminen" ;
@@ -3614,7 +3614,7 @@ LEXICON nouns
 кӹнервурды:кӹнервурды N_МАРЫ  "kyynärpää" ;
 кӹнергыт:кӹнергыт N_КОЛ  "kyynärä" ;
 кӹнергыт:кӹнер N_КОЛ  "kyynärä" ;
-кӹнерлу:кӹнерлу NTag  "kyynärluu" ;
+кӹнерлу:кӹнерлу N_  "kyynärluu" ;
 кӹнертӹлмӓш:кӹнертӹлмӓш N_МӦР  "kyynärpäillä nojaileminen" ;
 кӹнертӹмӓш:кӹнертӹмӓш N_МӦР  "kyynärpäillä nojaaminen" ;
 кӹнерӓш:кӹнерӓш N_МӦР  "lankakerä" ;
@@ -3797,7 +3797,7 @@ LEXICON nouns
 лампа:лампа N_КАРТА  "lamppu" ;
 ламыт:ламыт N_КОЛ  "viilu" ;
 ланга:ланга N_ОЛМА  "takaraivo" ;
-лангалу:лангалу NTag  "reisiluu" ;
+лангалу:лангалу N_  "reisiluu" ;
 лангем:лангем N_МӦР  "kuoppa" ;
 ландака:ландака N_ОЛМА  "notko" ;
 ландем:ландем N_МӦР  "laakso" ;
@@ -3871,13 +3871,13 @@ LEXICON nouns
 лейкоцит:лейкоцит N_МӦР  "valkosolu" ;
 лейтенант:лейтенант N_КОЛ  "luutnantti" ;
 лейтмотив:лейтмотив N_МӦР  "johtoaihe" ;
-лекарство:лекарство NTag  "lääke" ;
+лекарство:лекарство N_  "lääke" ;
 лексика:лексика N_КАРТА  "sanasto" ;
 лектор:лектор N_КОЛ  "lehtori" ;
 лекци:лекци N_ОЛМА  "luento" ;
 лекӓрцӹ:лекӓрцӹ N_ТӸРВӸ  "lääke" ;
 лем:лем N_МӦР  "liemi" ;
-лемех:лемех NTag  "vannas" ;
+лемех:лемех N_  "vannas" ;
 лемтӓ:лемтӓ N_ОЛМА  "nauha" ;
 лентӓ:лентӓ N_ОЛМА  "nauha" ;
 леопард:леопард N_КОЛ  "leopardi" ;
@@ -3887,7 +3887,7 @@ LEXICON nouns
 лепӹ:лепӹ N_ТӸРВӸ  "perna" ;
 лес:лес N_МӦР  "rakennuspuu" ;
 лесник:лесник N_МӦР  "metsänvartija" ;
-лесничество:лесничество NTag  "metsänhoito" ;
+лесничество:лесничество N_  "metsänhoito" ;
 лесничий:лесничий N_МӦР  "metsänhoitaja" ;
 летоисчислени:летоисчислени N_ОЛМА  "ajanlasku" ;
 летопись:летопись N_МӦР  "kronikka" ;
@@ -3993,7 +3993,7 @@ LEXICON nouns
 лоэц:лоэц N_МӦР  "pyydystäjä" ;
 лоэштмӓш:лоэштмӓш N_МӦР  "häiritseminen" ;
 лоэштӓрӹмӓш:лоэштӓрӹмӓш N_МӦР  "keskeyttäminen" ;
-лу:лу NTag  "luu" ;
+лу:лу N_  "luu" ;
 луангдымаш:луангдымаш N_КОЛ  "luututtaminen" ;
 луангмаш:луангмаш N_КОЛ  "luutuminen" ;
 луаш:луаш N_КОЛ  "kymppi" ;
@@ -4081,8 +4081,8 @@ LEXICON nouns
 льыскымаш:льыскымаш N_КОЛ  "heikkeneminen" ;
 льыстарымаш:льыстарымаш N_КОЛ  "löyhentäminen" ;
 люк:люк N_КОЛ  "luukku" ;
-люлю:люлю NTag  "kukkopilli" ;
-люрекс:люрекс NTag  "lurex" ;
+люлю:люлю N_  "kukkopilli" ;
+люрекс:люрекс N_  "lurex" ;
 люстра:люстра N_КАРТА  "kattokruunu" ;
 люцерна:люцерна N_КАРТА  "mailanen" ;
 лявӹргӹмӓш:лявӹргӹмӓш N_МӦР  "likaantuminen" ;
@@ -4120,7 +4120,7 @@ LEXICON nouns
 лӧргӹзӹ:лӧргӹзӹ N_ТӸРВӸ  "hölöttäjä" ;
 лӧркӓ:лӧркӓ N_ОЛМА  "sinisorsa" ;
 лӧценӓ:лӧценӓ N_ОЛМА  "päre" ;
-лӧценӓварня:лӧценӓварня NTag  "pärepihti" ;
+лӧценӓварня:лӧценӓварня N_  "pärepihti" ;
 лӧчкер:лӧчкер N_МӦР  "orjantappuran tiheikkö" ;
 лӧчкӓ:лӧчкӓ N_ОЛМА  "villiruusu" ;
 лӧчкӓванды:лӧчкӓванды N_МАРЫ  "villiruusun pensas" ;
@@ -4162,7 +4162,7 @@ LEXICON nouns
 лӹмдер:лӹмдер N_МӦР  "sanakirja" ;
 лӹмдӹлмӓш:лӹмдӹлмӓш N_МӦР  "nimittely" ;
 лӹмдӹлтӹш:лӹмдӹлтӹш N_МӦР  "liikanimi" ;
-лӹмдӹмварня:лӹмдӹмварня NTag  "nimetön sormi" ;
+лӹмдӹмварня:лӹмдӹмварня N_  "nimetön sormi" ;
 лӹмдӹмӓш:лӹмдӹмӓш N_МӦР  "nimitys" ;
 лӹмедӹк:лӹмедӹк N_МӦР  "nimi" ;
 лӹмештмӓш:лӹмештмӓш N_МӦР  "nimittäminen jnk kunniaksi" ;
@@ -4185,7 +4185,7 @@ LEXICON nouns
 магистраль:магистраль N_КОЛ  "liikenneväylä" ;
 магни:магни N_ОЛМА  "magnesium" ;
 магнит:магнит N_МӦР  "magneetti" ;
-магометанство:магометанство NTag  "muhamettilaisuus" ;
+магометанство:магометанство N_  "muhamettilaisuus" ;
 магыргымаш:магыргымаш N_КОЛ  "turtuminen" ;
 магыртымаш:магыртымаш N_КОЛ  "puuduttaminen" ;
 мадмаш:мадмаш N_КОЛ  "leikkiminen" ;
@@ -4261,7 +4261,7 @@ LEXICON nouns
 марксизм:марксизм N_МӦР  "marxilaisuus" ;
 марксизм-ленинизм:марксизм-ленинизм N_МӦР  "marxismi-leninismi" ;
 марксист:марксист N_МӦР  "marxilainen" ;
-марля:марля NTag  "harso" ;
+марля:марля N_  "harso" ;
 март:март N_КОЛ  "maaliskuu" ;
 мартыгыр+Err/Sub:мартыгыр N_КОЛ  "marilainen kansallispuku" ;
 мартышка:мартышка N_КАРТА  "marakatti" ;
@@ -4274,7 +4274,7 @@ LEXICON nouns
 мары-вӓтӹ:мары-вӓтӹ N_ТӸРВӸ  "puolisot" ;
 марын:марын N_КОЛ  "mari" ;
 марьи:марьи N_ОЛМА  "<" ;
-марья:марья NTag  "muukalaisnainen paitsi tšuvašši eli naishenkilö joka ei ole mari eikä tšuvašši" ;
+марья:марья N_  "muukalaisnainen paitsi tšuvašši eli naishenkilö joka ei ole mari eikä tšuvašši" ;
 марьявонгы:марьявонгы N_МАРЫ  "kantarelli" ;
 марьявуй:марьявуй N_КОЛ  "peltokorte" ;
 марьявыч:марьявыч N_КОЛ  "<" ;
@@ -4301,7 +4301,7 @@ LEXICON nouns
 материализм:материализм N_МӦР  "materialismi" ;
 материалист:материалист N_МӦР  "materian palvoja" ;
 материк:материк N_МӦР  "mantere" ;
-матня:матня NTag  "kalaverkon keskiosa" ;
+матня:матня N_  "kalaverkon keskiosa" ;
 маточник:маточник N_МӦР  "emokenno" ;
 матрас:матрас N_КОЛ  "patjakangas" ;
 матрац:матрац N_КОЛ  "patja" ;
@@ -4309,7 +4309,7 @@ LEXICON nouns
 матч:матч N_КОЛ  "ottelu" ;
 матышка:матышка N_ОЛМА  "papinrouva" ;
 маузер:маузер N_МӦР  "mauserpistooli" ;
-мах:мах NTag  "luovuttaminen" ;
+мах:мах N_  "luovuttaminen" ;
 махайымаш:махайымаш N_КОЛ  "huiskuttaminen" ;
 махинаци:махинаци N_ОЛМА  "salahanke" ;
 маховик:маховик N_МӦР  "vauhtipyörä" ;
@@ -4367,7 +4367,7 @@ LEXICON nouns
 меномшык:меномшык N_КОЛ  "vaihtokauppias" ;
 меномшык:меномшык N_КОЛ  "tarapaappa" ;
 меньшевик:меньшевик N_МӦР  "menševikki" ;
-меню:меню NTag  "ruokalista" ;
+меню:меню N_  "ruokalista" ;
 мергель:мергель N_МӦР  "merkelikivi" ;
 меридиан:меридиан N_КОЛ  "meridiaani" ;
 меринос:меринос N_КОЛ  "merinolammas" ;
@@ -4408,7 +4408,7 @@ LEXICON nouns
 мешӓк:мешӓк N_МӦР  "säkki" ;
 мещанин:мещанин N_МӦР  "porvari" ;
 мещанка:мещанка N_КАРТА  "porvarilaisnainen" ;
-мещанство:мещанство NTag  "pikkuporvaristo" ;
+мещанство:мещанство N_  "pikkuporvaristo" ;
 миж:миж N_МӦР  "villa" ;
 мижгем:мижгем N_МӦР  "huovikkaat" ;
 микроб:микроб N_КОЛ  "mikrobi" ;
@@ -4436,7 +4436,7 @@ LEXICON nouns
 миниатюра:миниатюра N_КАРТА  "pienoiskuva" ;
 минимум:минимум N_КОЛ  "minimimäärä" ;
 минируйымаш:минируйымаш N_КОЛ  "miinoittaminen" ;
-министерство:министерство NTag  "ministeriö" ;
+министерство:министерство N_  "ministeriö" ;
 министр:министр N_МӦР  "ministeri" ;
 минор:минор N_КОЛ  "molli" ;
 минус:минус N_КОЛ  "miinusmerkki" ;
@@ -4502,11 +4502,11 @@ LEXICON nouns
 момент:момент N_МӦР  "hetki" ;
 момоца:момоца N_ОЛМА  "sauna" ;
 момоцаанзыл:момоцаанзыл N_КОЛ  "saunan eteinen" ;
-монарх:монарх NTag  "yksinvaltias" ;
+монарх:монарх N_  "yksinvaltias" ;
 монархи:монархи N_ОЛМА  "monarkia" ;
 монархизм:монархизм N_МӦР  "yksinvaltaisuus" ;
 монархист:монархист N_МӦР  "monarkisti" ;
-монах:монах NTag  "munkki" ;
+монах:монах N_  "munkki" ;
 монашкы:монашкы N_МАРЫ  "nunna" ;
 монгол:монгол N_КОЛ  "mongoli" ;
 монголка:монголка N_КАРТА  "mongoli" ;
@@ -4578,7 +4578,7 @@ LEXICON nouns
 мулине:мулине N_ОЛМА  "mouline-lanka" ;
 мулла:мулла N_ОЛМА  "mulla" ;
 мультфильм:мультфильм N_МӦР  "piirretty elokuva" ;
-мумиё:мумиё NTag  "mumio" ;
+мумиё:мумиё N_  "mumio" ;
 мундир:мундир N_МӦР  "univormu" ;
 мундштук:мундштук N_КОЛ  "suutin" ;
 мускул:мускул N_КОЛ  "lihas" ;
@@ -4724,7 +4724,7 @@ LEXICON nouns
 мӓштӓм:мӓштӓм N_МӦР  "vauvan kapalointi-alusta" ;
 мӧк-мӧк:мӧк-мӧк N_МӦР  "kömpelys" ;
 мӧлтӧк:мӧлтӧк N_МӦР  "kävelykepin nuppi" ;
-мӧмӧ:мӧмӧ NTag  "mörkkö" ;
+мӧмӧ:мӧмӧ N_  "mörkkö" ;
 мӧр:мӧр N_МӦР  "mansikka" ;
 мӧрйӓрӹм:мӧрйӓрӹм N_МӦР  "mansikan rönsyt" ;
 мӧрйӓрӹм:мӧрйӓрӹм N_МӦР  "peltoluoho" ;
@@ -4847,7 +4847,7 @@ LEXICON nouns
 нарзан:нарзан N_КОЛ  "narzan-kivennäisvesi" ;
 наркоз:наркоз N_КОЛ  "nukutus" ;
 наркотик:наркотик N_МӦР  "huume" ;
-народничество:народничество NTag  "narodnikkilaisuus" ;
+народничество:народничество N_  "narodnikkilaisuus" ;
 нарцисс:нарцисс N_МӦР  "narsissi" ;
 нарымаш:нарымаш N_КОЛ  "likaantuminen" ;
 нарынзалгымаш:нарынзалгымаш N_КОЛ  "keltaväriseksi tuleminen" ;
@@ -4875,7 +4875,7 @@ LEXICON nouns
 натурализм:натурализм N_МӦР  "naturalismi" ;
 натуралист:натуралист N_МӦР  "luonnontutkija" ;
 натюрморт:натюрморт N_КОЛ  "asetelma" ;
-натя:натя NTag  "kömpelys" ;
+натя:натя N_  "kömpelys" ;
 наука:наука N_КАРТА  "tiede" ;
 наушник:наушник N_МӦР  "kuulokkeet" ;
 наушник:наушник N_МӦР  "korvalaput" ;
@@ -4943,9 +4943,9 @@ LEXICON nouns
 нерештӓрӹмӓш:нерештӓрӹмӓш N_МӦР  "idättäminen" ;
 нерештӹш:нерештӹш N_МӦР  "itu" ;
 неркӓ:неркӓ N_ОЛМА  "kumpura" ;
-нерлу:нерлу NTag  "nenärusto" ;
+нерлу:нерлу N_  "nenärusto" ;
 нерраж:нерраж N_КОЛ  "sieraimet" ;
-нершу:нершу NTag  "nenärusto" ;
+нершу:нершу N_  "nenärusto" ;
 неръюк:неръюк N_КОЛ  "kuorsaus" ;
 нерӓлтӹмӓш:нерӓлтӹмӓш N_МӦР  "torkahtaminen" ;
 нерӓнгдӹмӓш:нерӓнгдӹмӓш N_МӦР  "idättäminen" ;
@@ -5011,7 +5011,7 @@ LEXICON nouns
 ныр:ныр N_КОЛ  "turvottuma" ;
 ныр-шӹргӹ:ныр-шӹргӹ N_ТӸРВӸ  "" ;
 нырвичӹ:нырвичӹ N_ТӸРВӸ  "peltojen aitaus" ;
-ныргаля:ныргаля NTag  "peltohiiri" ;
+ныргаля:ныргаля N_  "peltohiiri" ;
 ныргештмӓш:ныргештмӓш N_МӦР  "sakeneminen" ;
 ныргыльы:ныргыльы N_МАРЫ  "suohaukka" ;
 нырмызы:нырмызы N_МАРЫ  "peltopyy" ;
@@ -5058,12 +5058,12 @@ LEXICON nouns
 ньӹпцӹртӹмӓш:ньӹпцӹртӹмӓш N_МӦР  "litistys" ;
 ньӹшкӓ:ньӹшкӓ N_ОЛМА  "tark. sekaisin mennystä viljasta" ;
 нюни:нюни N_ОЛМА  "jörö" ;
-нюню:нюню NTag  "jörö" ;
+нюню:нюню N_  "jörö" ;
 нюцкымаш:нюцкымаш N_КОЛ  "lyöminen" ;
 нягӓлӹмӓш:нягӓлӹмӓш N_МӦР  "jalan hiertäminen" ;
 няммаш:няммаш N_КОЛ  "syöminen" ;
-няня:няня NTag  "leipä" ;
-няня:няня NTag  "lastenhoitaja" ;
+няня:няня N_  "leipä" ;
+няня:няня N_  "lastenhoitaja" ;
 няцка:няцка N_ОЛМА  "pakara" ;
 нӓлмӓш:нӓлмӓш N_МӦР  "ostos" ;
 нӓлӹктӹмӓш:нӓлӹктӹмӓш N_МӦР  "ostattaminen" ;
@@ -5099,7 +5099,7 @@ LEXICON nouns
 нӹргӓвӹд:нӹргӓвӹд N_МӦР  "kirnupiimä" ;
 нӹшкемдӹмӓш:нӹшкемдӹмӓш N_МӦР  "tylsentäminen" ;
 нӹшкеммӓш:нӹшкеммӓш N_МӦР  "tylsentyminen" ;
-обедня:обедня NTag  "päiväjumalanpalvelus" ;
+обедня:обедня N_  "päiväjumalanpalvelus" ;
 обезьяна:обезьяна N_КАРТА  "apina" ;
 обезьянланымаш:обезьянланымаш N_КОЛ  "hassuttelu" ;
 обеспечени:обеспечени N_ОЛМА  "turvaaminen" ;
@@ -5120,11 +5120,11 @@ LEXICON nouns
 образовани:образовани N_ОЛМА  "koulutus" ;
 обсерватори:обсерватори N_ОЛМА  "tähtitorni" ;
 обстановка:обстановка N_КАРТА  "tilanne" ;
-обстоятельство:обстоятельство NTag  "seikka" ;
+обстоятельство:обстоятельство N_  "seikka" ;
 общежити:общежити N_ОЛМА  "asuntola" ;
 общественник:общественник N_МӦР  "yhteiskunnallisen työn tekijä" ;
 общественность:общественность N_КОЛ  "yhteiskuntapiirit" ;
-общество:общество NTag  "yhteiskunta" ;
+общество:общество N_  "yhteiskunta" ;
 община:община N_КАРТА  "yhteisö" ;
 объект:объект N_МӦР  "kohde" ;
 объектив:объектив N_МӦР  "objektiivi" ;
@@ -5170,7 +5170,7 @@ LEXICON nouns
 оккупаци:оккупаци N_ОЛМА  "miehitys" ;
 оккупируйымаш:оккупируйымаш N_КОЛ  "miehittäminen" ;
 окмакланымаш:окмакланымаш N_КОЛ  "pelleileminen" ;
-окня:окня NTag  "ikkuna" ;
+окня:окня N_  "ikkuna" ;
 окня-омаса:окня-омаса N_ОЛМА  "ikkunat-ovet" ;
 окоп:окоп N_КОЛ  "juoksuhauta" ;
 окрошка:окрошка N_КАРТА  "okroška" ;
@@ -5188,7 +5188,7 @@ LEXICON nouns
 олифа:олифа N_КАРТА  "maaliöljy" ;
 олицӓ:олицӓ N_ОЛМА  "katu" ;
 олма:олма N_ОЛМА  "omena" ;
-олмаву:олмаву NTag  "omenapuu" ;
+олмаву:олмаву N_  "omenapuu" ;
 олманга:олманга N_ОЛМА  "penkki" ;
 олмы:олмы N_КОЛ  "sija" ;
 олмыгыт:олмыгыт N_КОЛ  "palttinakankaan pituusmitta joka vastaa noin 4 m" ;
@@ -5202,7 +5202,7 @@ LEXICON nouns
 олым:олым N_КОЛ  "olki" ;
 олымангмаш:олымангмаш N_КОЛ  "korsistuminen" ;
 олымгыт:олымгыт N_КОЛ  "" ;
-оля:оля NTag  "uhriliha" ;
+оля:оля N_  "uhriliha" ;
 ом:ом N_КОЛ  "uni" ;
 омдыктымаш:омдыктымаш N_КОЛ  "pehmittäminen" ;
 омдымаш:омдымаш N_КОЛ  "kerääntyminen" ;
@@ -5378,8 +5378,8 @@ LEXICON nouns
 ошма:ошма N_ОЛМА  "hiekka" ;
 ошмагол:ошмагол N_КОЛ  "törö" ;
 ошмел:ошмел N_МӦР  "kotieläinten nimi (valkokaula)" ;
-ошпатя:ошпатя NTag  "pakkaspäivinä aukinaiselle ovelle muodostuva valkoinen höyry" ;
-ошпатя:ошпатя NTag  "hääseremonian osa (hääjuhlan seuraavana päivänä avioparin tanssi)" ;
+ошпатя:ошпатя N_  "pakkaspäivinä aukinaiselle ovelle muodostuva valkoinen höyry" ;
+ошпатя:ошпатя N_  "hääseremonian osa (hääjuhlan seuraavana päivänä avioparin tanssi)" ;
 ошпач:ошпач N_КОЛ  "merikotka" ;
 ошпонгы:ошпонгы N_МАРЫ  "herkkutatti" ;
 ошпӧрт:ошпӧрт N_МӦР  "vierashuone" ;
@@ -5515,7 +5515,7 @@ LEXICON nouns
 парланымаш:парланымаш N_КОЛ  "höyryäminen" ;
 пармы:пармы N_МАРЫ  "paarma" ;
 парньык:парньык N_КОЛ  "kasvilava" ;
-парня:парня NTag  "sormi" ;
+парня:парня N_  "sormi" ;
 парняш:парняш N_КОЛ  "sormustin" ;
 парняшка:парняшка N_ОЛМА  "sormustin" ;
 пароди:пароди N_ОЛМА  "parodia" ;
@@ -5583,9 +5583,9 @@ LEXICON nouns
 патькыктымаш:патькыктымаш N_КОЛ  "tiputtaminen" ;
 патькымаш:патькымаш N_КОЛ  "pisaroiminen" ;
 патькыш:патькыш N_КОЛ  "suojasää" ;
-патя:патя NTag  "karitsa" ;
-патямӧр:патямӧр NTag  "keltamaksaruoho" ;
-патямыж:патямыж NTag  "vihvilä" ;
+патя:патя N_  "karitsa" ;
+патямӧр:патямӧр N_  "keltamaksaruoho" ;
+патямыж:патямыж N_  "vihvilä" ;
 пауза:пауза N_КАРТА  "tauko" ;
 пафос:пафос N_КОЛ  "paatos" ;
 пахыра:пахыра N_ОЛМА  "aurankukka" ;
@@ -5603,7 +5603,7 @@ LEXICON nouns
 пачкалтмаш:пачкалтмаш N_КОЛ  "karistuminen" ;
 пачкалтымаш:пачкалтымаш N_КОЛ  "pudistaminen" ;
 пачкымаш:пачкымаш N_КОЛ  "ravistelu" ;
-пачлу:пачлу NTag  "häntäluu" ;
+пачлу:пачлу N_  "häntäluu" ;
 пачмаш:пачмаш N_КОЛ  "avaus" ;
 пачтангата:пачтангата N_ОЛМА  "häntäluu" ;
 пачтӹнг:пачтӹнг N_МӦР  "hännän alku eläimillä" ;
@@ -5623,7 +5623,7 @@ LEXICON nouns
 пашлик:пашлик N_МӦР  "paslikka" ;
 пашма:пашма N_ОЛМА  "pasma" ;
 пашмак:пашмак N_КОЛ  "tohveli" ;
-паштекмары:паштекмары NTag  "häihin kutsuttu sukulainen morsiamen puolelta" ;
+паштекмары:паштекмары N_  "häihin kutsuttu sukulainen morsiamen puolelta" ;
 паштет:паштет N_МӦР  "pasteija" ;
 пашыктымаш:пашыктымаш N_КОЛ  "lisäännyttäminen" ;
 пашымаш:пашымаш N_КОЛ  "lisääntyminen" ;
@@ -5647,7 +5647,7 @@ LEXICON nouns
 педӓ:педӓ N_ОЛМА  "hätä" ;
 пезмен:пезмен N_МӦР  "puntari" ;
 пейзаж:пейзаж N_КОЛ  "maisema" ;
-пекарня:пекарня NTag  "leipomo" ;
+пекарня:пекарня N_  "leipomo" ;
 пекет:пекет N_МӦР  "vartio" ;
 пел:пел N_МӦР  "puoli" ;
 пелапай:пелапай N_КОЛ  "änkyttäjä" ;
@@ -5724,7 +5724,7 @@ LEXICON nouns
 пецӓтлӹмӓш:пецӓтлӹмӓш N_МӦР  "painatus" ;
 пецӓтлӹмӓш+Err/Sub:пецӓтлӹмӓш N_МӦР  "tikkukirjaimin kirjoittaminen" ;
 печать:печать N_КОЛ  "leima" ;
-печенье:печенье NTag  "keksi" ;
+печенье:печенье N_  "keksi" ;
 печкӓлтмӓш:печкӓлтмӓш N_МӦР  "halkeaminen" ;
 печкӓлтӓрӹмӓш:печкӓлтӓрӹмӓш N_МӦР  "halkaiseminen" ;
 печкӹмӓш:печкӹмӓш N_МӦР  "lehdittyminen" ;
@@ -5732,10 +5732,10 @@ LEXICON nouns
 печурка:печурка N_ОЛМА  "uuninkomero" ;
 печурка:пичурка N_ОЛМА  "uuninkomero" ;
 пешера:пешера N_ОЛМА  "luola" ;
-пешня:пешня NTag  "rautakangen puinen kädensija" ;
+пешня:пешня N_  "rautakangen puinen kädensija" ;
 пешӹр:пешӹр N_МӦР  "tuohikori" ;
 пи:пи N_ОЛМА  "koira" ;
-пианино:пианино NTag  "piano" ;
+пианино:пианино N_  "piano" ;
 пианист:пианист N_МӦР  "pianisti" ;
 пианистка:пианистка N_КАРТА  "pianonsoittajatar" ;
 пивач:пивач N_КОЛ  "hepsankeikka" ;
@@ -5847,8 +5847,8 @@ LEXICON nouns
 платинӓ:платинӓ N_ОЛМА  "pato" ;
 плато:плато N_ОЛМА  "ylätasanko" ;
 платформа:платформа N_КАРТА  "laituri" ;
-платье:платье NTag  "mekko" ;
-платя:платя NTag  "makuulava" ;
+платье:платье N_  "mekko" ;
+платя:платя N_  "makuulava" ;
 платялык:платялык N_КОЛ  "laveriaihio" ;
 платяш:платяш N_КОЛ  "mekkokangas" ;
 плафон:плафон N_КОЛ  "lampunkupu" ;
@@ -5858,7 +5858,7 @@ LEXICON nouns
 плаш:плаш N_КОЛ  "sadetakki" ;
 плашкоут:плашкоут N_КОЛ  "" ;
 плеврит:плеврит N_МӦР  "keuhkopussintulehdus" ;
-племя:племя NTag  "rotu" ;
+племя:племя N_  "rotu" ;
 плен:плен N_МӦР  "vankeus" ;
 пленум:пленум N_КОЛ  "täysistunto" ;
 плетон:плетон N_КОЛ  "pitsi" ;
@@ -5866,7 +5866,7 @@ LEXICON nouns
 плетӹлмӓш:плетӹлмӓш N_МӦР  "sitoileminen" ;
 плетӹмӓш:плетӹмӓш N_МӦР  "palmikointi" ;
 плинтус:плинтус N_КОЛ  "jalkalista" ;
-плиссе:плиссе NTag  "plisee" ;
+плиссе:плиссе N_  "plisee" ;
 плиткӓ:плиткӓ N_ОЛМА  "laatta" ;
 плитӓ:плитӓ N_ОЛМА  "liesi" ;
 плицӓ:плицӓ N_ОЛМА  "sotanuija" ;
@@ -5893,9 +5893,9 @@ LEXICON nouns
 поведӓйӹдӹмӓш:поведӓйӹдӹмӓш N_МӦР  "ripittäytymättömyys" ;
 поведӓйӹмӓш:поведӓйӹмӓш N_МӦР  "ripittäytyminen" ;
 повестка:повестка N_КАРТА  "kutsu" ;
-повидло:повидло NTag  "marmeladi" ;
+повидло:повидло N_  "marmeladi" ;
 повозка:повозка N_КАРТА  "vaunut" ;
-поганя:поганя NTag  "pakana" ;
+поганя:поганя N_  "pakana" ;
 погон:погон N_КОЛ  "olkalappu" ;
 пограничник:пограничник N_МӦР  "rajavartija" ;
 погыдымаш:погыдымаш N_КОЛ  "keräämättömyysripittäyty" ;
@@ -5913,7 +5913,7 @@ LEXICON nouns
 подвиг:подвиг N_МӦР  "uroteko" ;
 подвойымаш:подвойымаш N_КОЛ  "luottamuksen pettäminen" ;
 подданный:подданный N_КОЛ  "alamainen" ;
-подданство:подданство NTag  "alamaisuus" ;
+подданство:подданство N_  "alamaisuus" ;
 подделывайымаш:подделывайымаш N_КОЛ  "väärentäminen" ;
 поддымактымаш:поддымактымаш N_КОЛ  "myöntely" ;
 подкормка:подкормка N_КАРТА  "jälkilannoitus" ;
@@ -5948,7 +5948,7 @@ LEXICON nouns
 покталтымаш:покталтымаш N_КОЛ  "karjan ajo" ;
 поктылмаш:поктылмаш N_КОЛ  "takaa-ajo" ;
 поктымаш:поктымаш N_КОЛ  "poisajaminen" ;
-покшалварня:покшалварня NTag  "keskisormi" ;
+покшалварня:покшалварня N_  "keskisormi" ;
 покшалвушты:покшалвушты N_МАРЫ  "" ;
 покшым:покшым N_КОЛ  "kuura" ;
 покыр:покыр N_КОЛ  "elämään sopeutumattomasta ihmisestä" ;
@@ -5983,7 +5983,7 @@ LEXICON nouns
 полой:полой N_КОЛ  "kevättulva" ;
 полом:полом N_КОЛ  "rinne" ;
 полом:полом N_КОЛ  "palo metsässä" ;
-полотенце:полотенце NTag  "pyyheliina" ;
+полотенце:полотенце N_  "pyyheliina" ;
 полтикпанды:полтикпанды N_МАРЫ  "kalojen säikyttelyä varten käytettävä erikoiskeppi" ;
 полтиньӹк:полтиньӹк N_МӦР  "puoliruplanen" ;
 полушари:полушари N_ОЛМА  "pallonpuolisko" ;
@@ -6029,7 +6029,7 @@ LEXICON nouns
 порог:порог N_КОЛ  "kynnys" ;
 порогы:порогы N_МАРЫ  "kynnys" ;
 порода:порода N_КАРТА  "rotu" ;
-порох:порох NTag  "ruuti" ;
+порох:порох N_  "ruuti" ;
 порошок:порошок N_КОЛ  "jauhe" ;
 порошок:прошок N_КОЛ  "jauhe" ;
 порт:порт N_КОЛ  "satama" ;
@@ -6051,7 +6051,7 @@ LEXICON nouns
 послелог:послелог N_КОЛ  "postpositio" ;
 пособи:пособи N_ОЛМА  "avustus" ;
 посол:посол N_КОЛ  "suurlähettiläs" ;
-посольство:посольство NTag  "suurlähetystö" ;
+посольство:посольство N_  "suurlähetystö" ;
 поспейтӹмӓш:поспейтӹмӓш N_МӦР  "x" ;
 поспейӹктӹмӓш:поспейӹктӹмӓш N_МӦР  "kypsyttäminen" ;
 пост:пост N_КОЛ  "virka" ;
@@ -6073,7 +6073,7 @@ LEXICON nouns
 потяк-керем:потяк-керем N_МӦР  "naru joka sidotaan aatran perusrunkoon ja aisaan" ;
 потяк-панды:потяк-панды N_МАРЫ  "aatran perusrungon osa" ;
 потяш:потяш N_КОЛ  "koirashamppu" ;
-поханя:поханя NTag  "nukke" ;
+поханя:поханя N_  "nukke" ;
 похыро:похыро N_ОЛМА  "ortodoksisen kirkon eräs kalenteripyhä" ;
 почерк:почерк N_МӦР  "käsiala" ;
 почингӓ:почингӓ N_ОЛМА  "" ;
@@ -6086,7 +6086,7 @@ LEXICON nouns
 поэма:поэма N_КАРТА  "runoelma" ;
 поэт:поэт N_МӦР  "runoilija" ;
 права:права N_ОЛМА  "oikeus" ;
-правило:правило NTag  "sääntö" ;
+правило:правило N_  "sääntö" ;
 практика:практика N_КАРТА  "käytäntö" ;
 практикант:практикант N_КОЛ  "harjoittelija" ;
 прапорщик:прапорщик N_МӦР  "vänrikki" ;
@@ -6109,7 +6109,7 @@ LEXICON nouns
 премьер:премьер N_МӦР  "pääosien esittäjä" ;
 премьер-министр:премьер-министр N_МӦР  "pääministeri" ;
 премьера:премьера N_КАРТА  "ensi-ilta" ;
-преня:преня NTag  "hirsi" ;
+преня:преня N_  "hirsi" ;
 препарат:препарат N_КОЛ  "valmiste" ;
 преподаватель:преподаватель N_МӦР  "lehtori" ;
 преследовани:преследовани N_ОЛМА  "takaa-ajo" ;
@@ -6129,7 +6129,7 @@ LEXICON nouns
 привикньӹмӓш:привикньӹмӓш N_МӦР  "tottuminen" ;
 привилеги:привилеги N_ОЛМА  "etuoikeus" ;
 привычка:привычка N_КАРТА  "tapa" ;
-привычка:привичкӓ NTag  "tapa" ;
+привычка:привичкӓ N_  "tapa" ;
 приз:приз N_МӦР  "palkinto" ;
 призвани:призвани N_ОЛМА  "kutsumus" ;
 призма:призма N_КАРТА  "prisma" ;
@@ -6165,7 +6165,7 @@ LEXICON nouns
 приёмник:приёмник N_МӦР  "vastaanotin" ;
 проба:проба N_КАРТА  "näyte" ;
 пробирка:пробирка N_КАРТА  "koeputki" ;
-пробирка:провиркӓ NTag  "koeputki" ;
+пробирка:провиркӓ N_  "koeputki" ;
 пробка:пробка N_ОЛМА  "korkki" ;
 пробка:пропка N_ОЛМА  "korkki" ;
 проблема:проблема N_КАРТА  "ongelma" ;
@@ -6200,7 +6200,7 @@ LEXICON nouns
 проза:проза N_КАРТА  "proosa" ;
 прозаик:прозаик N_МӦР  "prosaisti" ;
 произведени:произведени N_ОЛМА  "teos" ;
-производство:производство NTag  "valmistus" ;
+производство:производство N_  "valmistus" ;
 прокат:прокат N_КОЛ  "laitevuokra" ;
 прокуратура:прокуратура N_КАРТА  "prokuraattorilaitos" ;
 прокурор:прокурор N_КОЛ  "syyttäjä" ;
@@ -6228,11 +6228,11 @@ LEXICON nouns
 просвещени:просвещени N_ОЛМА  "valistus" ;
 просвещӓйӹдӹмӓш:просвещӓйӹдӹмӓш N_МӦР  "valistamattomuus" ;
 просвещӓйӹмӓш:просвещӓйӹмӓш N_МӦР  "valistaminen" ;
-просвирня:просвирня NTag  "ehtoollisleipä" ;
+просвирня:просвирня N_  "ehtoollisleipä" ;
 просек:просек N_МӦР  "linja" ;
 проспект:проспект N_МӦР  "valtakatu" ;
 проспект:проспект N_МӦР  "esittelyvihkonen" ;
-пространство:пространство NTag  "pinta-ala" ;
+пространство:пространство N_  "pinta-ala" ;
 простуда:простуда N_КАРТА  "vilustus" ;
 простуйымаш:простуйымаш N_КОЛ  "vilustuminen" ;
 простынь:простынь N_КОЛ  "lakana" ;
@@ -6285,7 +6285,7 @@ LEXICON nouns
 психолог:психолог N_КОЛ  "psykologi" ;
 психологи:психологи N_ОЛМА  "psykologia" ;
 психопат:психопат N_КОЛ  "psykopaatti" ;
-пу:пу NTag  "polttopuut" ;
+пу:пу N_  "polttopuut" ;
 пуалмаш:пуалмаш N_КОЛ  "puhaltaminen" ;
 пуалтем:пуалтем N_МӦР  "lumikinos" ;
 пуалтымаш:пуалтымаш N_КОЛ  "pasunan soitto" ;
@@ -6337,7 +6337,7 @@ LEXICON nouns
 пустануж:пустануж N_КОЛ  "nukula" ;
 пустаэмдӹмӓш:пустаэмдӹмӓш N_МӦР  "tyhjentäminen" ;
 пустаэммӓш:пустаэммӓш N_МӦР  "tyhjeneminen" ;
-пустыня:пустыня NTag  "aavikko" ;
+пустыня:пустыня N_  "aavikko" ;
 путайымаш:путайымаш N_КОЛ  "yrittäminen" ;
 путыйыдымаш:путыйыдымаш N_КОЛ  "yrittämättömyys" ;
 путыйымаш:путыйымаш N_КОЛ  "sekoittaminen" ;
@@ -6555,7 +6555,7 @@ LEXICON nouns
 пӓрдӓлмӓш:пӓрдӓлмӓш N_МӦР  "lojuminen" ;
 пӓрдӓлӹктӹмӓш:пӓрдӓлӹктӹмӓш N_МӦР  "lojuttaminen" ;
 пӓрдӓш:пӓрдӓш N_МӦР  "säynävä" ;
-пӓртня:пӓртня NTag  "silmu" ;
+пӓртня:пӓртня N_  "silmu" ;
 пӓрцӓ:пӓрцӓ N_ОЛМА  "tähkä" ;
 пӓрӓлтӹмӓш:пӓрӓлтӹмӓш N_МӦР  "kolautus" ;
 пӓрӓнгӹ:пӓрӓнгӹ N_ТӸРВӸ  "peruna" ;
@@ -6671,7 +6671,7 @@ LEXICON nouns
 пӹлӓнгдӹмӓш:пӹлӓнгдӹмӓш N_МӦР  "sään synkistyminen" ;
 пӹлӓнгмӓш:пӹлӓнгмӓш N_МӦР  "pilvistyminen" ;
 пӹлӹш:пӹлӹш N_МӦР  "korva" ;
-пӹлӹшкая:пӹлӹшкая NTag  "korvanlehden paksummat kohdat" ;
+пӹлӹшкая:пӹлӹшкая N_  "korvanlehden paksummat kohdat" ;
 пӹлӹштӹнг:пӹлӹштӹнг N_МӦР  "ohimo" ;
 пӹн:пӹн N_МӦР  "mänty" ;
 пӹнегӹ:пӹнегӹ N_ТӸРВӸ  "koiran pentu" ;
@@ -6745,9 +6745,9 @@ LEXICON nouns
 раведдӹмӓш:раведдӹмӓш N_МӦР  "huitoamattomuus" ;
 раведмӓш:раведмӓш N_МӦР  "huitominen" ;
 раведӹлмӓш:раведӹлмӓш N_МӦР  "häärääminen" ;
-равенство:равенство NTag  "yhtäläisyys" ;
+равенство:равенство N_  "yhtäläisyys" ;
 равы:равы N_МАРЫ  "seiväs" ;
-рагу:рагу NTag  "muhennos" ;
+рагу:рагу N_  "muhennos" ;
 ради:ради N_ОЛМА  "almut" ;
 радиатор:радиатор N_КОЛ  "jäähdytin" ;
 радиаци:радиаци N_ОЛМА  "säteily" ;
@@ -6885,7 +6885,7 @@ LEXICON nouns
 репатриаци:репатриаци N_ОЛМА  "kotimaahan palauttaminen" ;
 репертуар:репертуар N_КОЛ  "ohjelmisto" ;
 репетируйымаш:репетируйымаш N_КОЛ  "harjoittelu" ;
-репетици:репетици NTag  "harjoittelu" ;
+репетици:репетици N_  "harjoittelu" ;
 реплика:реплика N_КАРТА  "vuorosana" ;
 репортаж:репортаж N_КОЛ  "selostus" ;
 репортёр:репортёр N_КОЛ  "reportteri" ;
@@ -7098,7 +7098,7 @@ LEXICON nouns
 салютуйымаш:салютуйымаш N_КОЛ  "tervehtiminen" ;
 сам:сам N_КОЛ  "rikkaruoho" ;
 самбо:самбо N_ОЛМА  "sambo" ;
-саме:саме NTag  "" ;
+саме:саме N_  "" ;
 самлалтмаш:самлалтмаш N_КОЛ  "kitkettävissä oleminen" ;
 самлалтымаш:самлалтымаш N_КОЛ  "kitkeminen" ;
 самлыдымаш:самлыдымаш N_КОЛ  "kitkemättömyys" ;
@@ -7170,7 +7170,7 @@ LEXICON nouns
 свезӓэммӓш:свезӓэммӓш N_МӦР  "raikastuminen" ;
 свет:свет N_МӦР  "maailma" ;
 светофор:светофор N_КОЛ  "liikennevalot" ;
-свидетельство:свидетельство NTag  "todistus" ;
+свидетельство:свидетельство N_  "todistus" ;
 свизӹн:свизӹн N_МӦР  "ristinpäivä" ;
 свинец:свинец N_МӦР  "lyijy" ;
 свисток:свисток N_КОЛ  "vihellin" ;
@@ -7228,7 +7228,7 @@ LEXICON nouns
 семестр:семестр N_МӦР  "lukukausi" ;
 семинар:семинар N_КОЛ  "seminaari" ;
 семинари:семинари N_ОЛМА  "oppilaitos" ;
-семня:семня NTag  "perhe" ;
+семня:семня N_  "perhe" ;
 семӓлӹмӓш:семӓлӹмӓш N_МӦР  "lohduttelu" ;
 сенат:сенат N_КОЛ  "senaatti" ;
 сенатор:сенатор N_КОЛ  "senaattori" ;
@@ -7454,7 +7454,7 @@ LEXICON nouns
 союз:союз N_КОЛ  "liitto" ;
 союз:союз N_КОЛ  "sidesana" ;
 союзник:союзник N_МӦР  "liittolainen" ;
-соя:соя NTag  "soija" ;
+соя:соя N_  "soija" ;
 спартакиада:спартакиада N_КАРТА  "spartakiadit" ;
 спас:спас N_КОЛ  "joidenkin kirkkokalenterijuhlien nimityksiä" ;
 спектакль:спектакль N_КОЛ  "näytelmä" ;
@@ -7509,8 +7509,8 @@ LEXICON nouns
 статистика:статистика N_КАРТА  "tilastotiede" ;
 статуй:статуй N_КОЛ  "kuvapatsas" ;
 статус:статус N_КОЛ  "asema" ;
-статья:статья NTag  "artikkeli" ;
-статья:статья NTag  "pykälä" ;
+статья:статья N_  "artikkeli" ;
+статья:статья N_  "pykälä" ;
 стационар:стационар N_КОЛ  "sairaalahoito" ;
 стачка:стачка N_КАРТА  "lakko" ;
 стеллаж:стеллаж N_КОЛ  "hylly" ;
@@ -7532,7 +7532,7 @@ LEXICON nouns
 стимулируйымаш:стимулируйымаш N_КОЛ  "stimuloiminen" ;
 стипенди:стипенди N_ОЛМА  "stipendi" ;
 стипендиат:стипендиат N_КОЛ  "stipendiaatti" ;
-стих:стих NTag  "runosäe" ;
+стих:стих N_  "runosäe" ;
 стойымаш:стойымаш N_КОЛ  "kannattavuus" ;
 столица:столица N_КАРТА  "pääkaupunki" ;
 столмы:столица N_КАРТА  "kaaviopylväs" ;
@@ -7582,8 +7582,8 @@ LEXICON nouns
 суворовец:суворовец N_МӦР  "suvorovilainen" ;
 суд:суд N_КОЛ  "oikeus" ;
 судак:судак N_КОЛ  "kuha" ;
-судно:судно NTag  "kuljetuslaiva" ;
-судья:судья NTag  "tuomari" ;
+судно:судно N_  "kuljetuslaiva" ;
+судья:судья N_  "tuomari" ;
 сузы:сузы N_МАРЫ  "metso" ;
 суйыктымаш:суйыктымаш N_КОЛ  "pakotus tuomitsemaan" ;
 суйымаш:суйымаш N_КОЛ  "oikeuskäsittely" ;
@@ -7846,7 +7846,7 @@ LEXICON nouns
 талтымаш:талтымаш N_КОЛ  "omaisuuden anastaminen" ;
 тамбур:тамбур N_КОЛ  "eteinen" ;
 тамга:тамга N_ОЛМА  "tahra" ;
-таможня:таможня NTag  "tulli" ;
+таможня:таможня N_  "tulli" ;
 танг:танг N_КОЛ  "hyvä ilme" ;
 тангата:тангата N_ОЛМА  "kanto" ;
 тангенс:тангенс N_МӦР  "tangentti" ;
@@ -7903,8 +7903,8 @@ LEXICON nouns
 ташкыктымаш:ташкыктымаш N_КОЛ  "pyyntö tallaamaan" ;
 ташкымаш:ташкымаш N_КОЛ  "poljenta" ;
 ташмарлымаш:ташмарлымаш N_КОЛ  "hutilointi" ;
-тая:тая NTag  "" ;
-таҥгыж-кӓде:таҥгыж-кӓде NTag  "" ;
+тая:тая N_  "" ;
+таҥгыж-кӓде:таҥгыж-кӓде N_  "" ;
 творчество:творчество N_КАРТА  "luomistyö" ;
 театр:театр N_КОЛ  "teatteri" ;
 тезис:тезис N_МӦР  "väittämä" ;
@@ -7973,7 +7973,7 @@ LEXICON nouns
 территори:территори N_ОЛМА  "alue" ;
 террор:террор N_КОЛ  "terrori" ;
 тетрадь:тетрадь N_КОЛ  "vihko" ;
-тетя:тетя NTag  "lapsi" ;
+тетя:тетя N_  "lapsi" ;
 тетядыгыр:тетядыгыр N_КОЛ  "" ;
 техник:техник N_МӦР  "teknikko" ;
 техника:техника N_КАРТА  "tekniikka" ;
@@ -8165,8 +8165,8 @@ LEXICON nouns
 трикотаж:трикотаж N_КОЛ  "neulekangas" ;
 трилоги:трилоги N_ОЛМА  "trilogia" ;
 трио:трио N_ОЛМА  "trio" ;
-триспотня:триспотня NTag  "helvetti" ;
-триспотня:триспотньы NTag  "helvetti" ;
+триспотня:триспотня N_  "helvetti" ;
+триспотня:триспотньы N_  "helvetti" ;
 триумф:триумф N_КОЛ  "riemuvoitto" ;
 тровы:тровы N_МАРЫ  "haulit" ;
 тровы+Err/Sub:тропльы N_ТӸРВӸ  "haulit" ;
@@ -8401,7 +8401,7 @@ LEXICON nouns
 тьосынкы:тьосынкы N_МАРЫ  "karstavilla-huopikkaat" ;
 тьоти:тьоти N_ОЛМА  "ukki" ;
 тьотьыргымаш:тьотьыргымаш N_КОЛ  "rupattelu" ;
-тьотя:тьотя NTag  "isoisä" ;
+тьотя:тьотя N_  "isoisä" ;
 тьыжгымаш:тьыжгымаш N_КОЛ  "sähinä" ;
 тьылгымаш:тьылгымаш N_КОЛ  "värehtiminen" ;
 тьыргец:тьыргец N_МӦР  "puro (JK)" ;
@@ -8663,7 +8663,7 @@ LEXICON nouns
 улы:улы N_МАРЫ  "kylläisyys" ;
 улы-уке:улы-уке N_ОЛМА  "kaikki mikä on" ;
 ультиматум:ультиматум N_КОЛ  "uhkavaatimus" ;
-уля:уля NTag  "mehiläispesä" ;
+уля:уля N_  "mehiläispesä" ;
 умды:умды N_МАРЫ  "keihäs" ;
 умножымаш:умножымаш N_КОЛ  "kertolasku" ;
 умывальник:умывальник N_МӦР  "lavuaari" ;
@@ -8706,7 +8706,7 @@ LEXICON nouns
 устав:устав N_КОЛ  "säännöt" ;
 установка:установка N_КАРТА  "asetus" ;
 устретьӹн:устретьӹн N_МӦР  "kirkkojuhlapäivä jota juhlistetaan 15.2." ;
-устройство:устройство NTag  "rakenne" ;
+устройство:устройство N_  "rakenne" ;
 уталгымаш:уталгымаш N_КОЛ  "tajunnanmenetys" ;
 уталтарымаш:уталтарымаш N_КОЛ  "" ;
 утверждени:утверждени N_ОЛМА  "vahvistus" ;
@@ -8733,7 +8733,7 @@ LEXICON nouns
 учебник:учебник N_МӦР  "oppikirja" ;
 ученик:ученик N_КОЛ  "oppilas" ;
 ученица:ученица N_КАРТА  "oppilas" ;
-училище:училище NTag  "oppilaitos" ;
+училище:училище N_  "oppilaitos" ;
 учреждени:учреждени N_ОЛМА  "laitos" ;
 учёный:учёный N_КОЛ  "tiedemies" ;
 уша:уша N_ОЛМА  "leikkuulauta" ;
@@ -8980,7 +8980,7 @@ LEXICON nouns
 хобот:хобот N_КОЛ  "kärsä" ;
 ход:ход N_КОЛ  "käynti" ;
 ход+Err/Sub:хот N_КОЛ  "käynti" ;
-ходатайство:ходатайство NTag  "hakemus" ;
+ходатайство:ходатайство N_  "hakemus" ;
 ходатайствуйымаш:ходатайствуйымаш N_КОЛ  "hakeminen" ;
 хоза:хоза N_ОЛМА  "isäntä" ;
 хоза% вӓтӹ:хоза% вӓтӹ N_ОЛМА  "emäntä" ;
@@ -8988,7 +8988,7 @@ LEXICON nouns
 хозанлык:хозанлык N_КОЛ  "talous" ;
 хозрасчёт:хозрасчёт N_КОЛ  "itsekannattavuus" ;
 хозяйственник:хозяйственник N_МӦР  "talousmies" ;
-хозяйство:хозяйство NTag  "maatila" ;
+хозяйство:хозяйство N_  "maatila" ;
 хой:хой N_КОЛ  "kankaansävy" ;
 хойыктымаш:хойыктымаш N_КОЛ  "raivostuttaminen" ;
 хойыктымаш:ойыктымаш N_КОЛ  "raivostuttaminen" ;
@@ -9015,7 +9015,7 @@ LEXICON nouns
 хресӓнь:хресӓнь N_МӦР  "talonpoika" ;
 хресӓньӹк:хресӓньӹк N_МӦР  "talonpoika" ;
 Христа% ради:Христа% ради N_ОЛМА  "almut" ;
-христианство:христианство NTag  "kristinusko" ;
+христианство:христианство N_  "kristinusko" ;
 христосовайымаш:христосовайымаш N_КОЛ  "pääsiäissuutelu" ;
 хром:хром N_КОЛ  "krominahka" ;
 хром:хром N_КОЛ  "kromi" ;
@@ -9385,11 +9385,11 @@ LEXICON nouns
 чангем:чангем N_МӦР  "merkintä" ;
 чангымаш:чангымаш N_КОЛ  "salvominen" ;
 чапан:чапан N_КОЛ  "vanha talvitakki" ;
-часовня:часовня NTag  "rukoushuone" ;
+часовня:часовня N_  "rukoushuone" ;
 частица:частица N_КАРТА  "partikkeli" ;
 частник:частник N_МӦР  "yksityistaksi" ;
 часть:часть N_КОЛ  "osa" ;
-частя:частя NTag  "varaosa" ;
+частя:частя N_  "varaosa" ;
 чахотка:чахотка N_КАРТА  "keuhkotauti" ;
 чек:чек N_МӦР  "kuitti" ;
 чельньӹк:чельньӹк N_КОЛ  "mehiläistarha" ;
@@ -9400,7 +9400,7 @@ LEXICON nouns
 чепуха:чепуха N_ОЛМА  "pöty" ;
 черепаха:черепаха N_КАРТА  "kilpikonna" ;
 черепица:черепица N_КАРТА  "kattotiili" ;
-черешня:черешня NTag  "linnunkirsikka" ;
+черешня:черешня N_  "linnunkirsikka" ;
 черкес:черкес N_МӦР  "tšerkessi" ;
 чернила:чернила N_ОЛМА  "muste" ;
 черновик:черновик N_МӦР  "luonnos" ;
@@ -9410,11 +9410,11 @@ LEXICON nouns
 черчени:черчени N_ОЛМА  "piirustustunti" ;
 чес:чес N_МӦР  "juhlistaminen" ;
 чеснок:чеснок N_КОЛ  "valkosipuli" ;
-чесня:чесня NTag  "niinikoppa" ;
+чесня:чесня N_  "niinikoppa" ;
 честь:честь N_МӦР  "kunnia" ;
 четверть:четверть N_МӦР  "kvarttali" ;
 четушка:четушка N_ОЛМА  "neljänneslitraa" ;
-чешня:чешня NTag  "" ;
+чешня:чешня N_  "" ;
 чивалмаш:чивалмаш N_КОЛ  "näpsäyttäminen" ;
 чивалтыш:чивалтыш N_КОЛ  "näpsäytys" ;
 чивык:чивык N_КОЛ  "napsauttaminen" ;
@@ -9642,7 +9642,7 @@ LEXICON nouns
 шаршы:шаршы N_МАРЫ  "koiranheisi" ;
 шаршыванды:шаршыванды N_МАРЫ  "koiranheisipensas" ;
 шарык:шарык N_КОЛ  "lammas" ;
-шарык-шудо:шарык-шудо NTag  "maksaruoho" ;
+шарык-шудо:шарык-шудо N_  "maksaruoho" ;
 шарыкаш:шарыкаш N_КОЛ  "vuonimaton uuhi" ;
 шарыктара:шарыктара N_ОЛМА  "" ;
 шарыктымаш:шарыктымаш N_КОЛ  "säikähdyttäminen" ;
@@ -9660,7 +9660,7 @@ LEXICON nouns
 шашка+Err/Sub:шӓшкӹ N_ТӸРВӸ  "tammipeli" ;
 шашка+Err/Sub:шашка N_КАРТА  "miekka" ;
 шашка:шӓшкӹ N_ТӸРВӸ  "miekka" ;
-шая:шая NTag  "puhe" ;
+шая:шая N_  "puhe" ;
 шаягарем:шаягарем N_МӦР  "takaraivo" ;
 шаягарем% лу:шаягарем% лу N_ОЛМА  "niskaluu" ;
 швед:швед N_МӦР  "ruotsalainen" ;
@@ -9831,7 +9831,7 @@ LEXICON nouns
 шолып:шолып N_КОЛ  "" ;
 шолыштмаш:шолыштмаш N_КОЛ  "" ;
 шольы:шольы N_МАРЫ  "nuorempi veli" ;
-шоля:шоля NTag  "pikkuveli" ;
+шоля:шоля N_  "pikkuveli" ;
 шомаш:шомаш N_КОЛ  "" ;
 шомпыл:шомпыл N_КОЛ  "" ;
 шонг:шонг N_КОЛ  "" ;
@@ -9993,7 +9993,7 @@ LEXICON nouns
 шуршы:шуршы N_МАРЫ  "kirppu" ;
 шуткымаш:шуткымаш N_КОЛ  "naputus" ;
 шутьымаш:шутьымаш N_КОЛ  "vitsailu" ;
-шутя:шутя NTag  "vitsi" ;
+шутя:шутя N_  "vitsi" ;
 шуша:шуша N_ОЛМА  "sukkula" ;
 шушил+Err/Sub:шушил N_МӦР  "ullakko" ;
 шушил:пӧртвуй N_КОЛ  "ullakko" ;
@@ -10041,7 +10041,7 @@ LEXICON nouns
 шынгалтмаш:шынгалтмаш N_КОЛ  "kaatuminen" ;
 шынгалтыш:шынгалтыш N_КОЛ  "hartiaviitta" ;
 шынгымаш:шынгымаш N_КОЛ  "hävittäminen" ;
-шынзыш-полко:шынзыш-полко NTag  "" ;
+шынзыш-полко:шынзыш-полко N_  "" ;
 шыпшалмаш:шыпшалмаш N_КОЛ  "suuttelu" ;
 шыпшалыктыдымаш:шыпшалыктыдымаш N_КОЛ  "suukkokielto" ;
 шыпшалыктымаш:шыпшалыктымаш N_КОЛ  "suukkopyyntö" ;
@@ -10076,7 +10076,7 @@ LEXICON nouns
 шытьыри:шытьыри N_ОЛМА  "ipanat" ;
 шытьыртан:шытьыртан N_КОЛ  "ketteryys" ;
 шышыл:шышыл N_КОЛ  "leseet" ;
-шыя:шыя NTag  "piikki" ;
+шыя:шыя N_  "piikki" ;
 шӓвӓлтмӓш:шӓвӓлтмӓш N_МӦР  "tuhlautuminen" ;
 шӓвӹктӹлмӓш:шӓвӹктӹлмӓш N_МӦР  "roiskuttaminen" ;
 шӓвӹктӹмӓш:шӓвӹктӹмӓш N_МӦР  "roiskutus" ;
@@ -10151,7 +10151,7 @@ LEXICON nouns
 шӧвригӓ:шӧвригӓ N_ОЛМА  "lohikala" ;
 шӧгӹль:шӧгӹль N_МӦР  "umpisolmu" ;
 шӧгӹль:шогыль N_КОЛ  "umpisolmu" ;
-шӧгӹля:шӧгӹля NTag  "mätäs" ;
+шӧгӹля:шӧгӹля N_  "mätäs" ;
 шӧр:шӧр N_МӦР  "särmä" ;
 шӧрвӓ:шӧрвӓ N_ОЛМА  "metsäsaarni" ;
 шӧргӓлтмӓш:шӧргӓлтмӓш N_МӦР  "solmu" ;
@@ -10328,7 +10328,7 @@ LEXICON nouns
 шӹнзӹшволкы:шӹнзӹшволкы N_МАРЫ  "illanistujaiset" ;
 шӹнӹмӓш:шӹнӹмӓш N_МӦР  "" ;
 шӹп:шӹп N_КОЛ  "hiljaisuus" ;
-шӹпке:шӹпке NTag  "" ;
+шӹпке:шӹпке N_  "" ;
 шӹпкӓн:шӹпкӓн N_МӦР  "" ;
 шӹплӓндӓрӹмӓш:шӹплӓндӓрӹмӓш N_МӦР  "" ;
 шӹплӓнӹмӓш:шӹплӓнӹмӓш N_МӦР  "" ;
@@ -10336,7 +10336,7 @@ LEXICON nouns
 шӹргӹ:шӹргӹ N_ТӸРВӸ  "metsä" ;
 шӹргӹ:шӹргӹ N_ТӸРВӸ  "poski" ;
 шӹргӹвӹлӹш:шӹргӹвӹлӹш N_МӦР  "kasvot" ;
-шӹргӹлу:шӹргӹлу NTag  "poskipäät" ;
+шӹргӹлу:шӹргӹлу N_  "poskipäät" ;
 шӹргӹмсавыц:шӹргӹмсавыц N_КОЛ  "pyyhe" ;
 шӹргӹмыны:шӹргӹмыны N_МАРЫ  "posket" ;
 шӹрдӓлтӹмӓш:шӹрдӓлтӹмӓш N_МӦР  "moite" ;
@@ -10672,7 +10672,7 @@ LEXICON nouns
 якшаронг:якшаронг N_КОЛ  "punatulkku" ;
 якшарсӹнзӓ:якшарсӹнзӓ N_ОЛМА  "särki" ;
 якшартымаш:якшартымаш N_КОЛ  "punertaminen" ;
-якшаршоэ:якшаршоэ NTag  "" ;
+якшаршоэ:якшаршоэ N_  "" ;
 якшаршукш:якшаршукш N_КОЛ  "" ;
 якшаръял:якшаръял N_КОЛ  "rikkaruoho" ;
 ял:ял N_КОЛ  "jalka" ;
@@ -10757,7 +10757,7 @@ LEXICON nouns
 ёлка:ёлка N_КАРТА  "joulukuusi" ;
 ӓви:ӓви N_ОЛМА  "äiti" ;
 ӓвӓ:ӓвӓ N_ӒВӒ  "äiti" ;
-ӓвӓ-ӓтя:ӓвӓ-ӓтя NTag  "vanhemmat" ;
+ӓвӓ-ӓтя:ӓвӓ-ӓтя N_  "vanhemmat" ;
 ӓвӓвел:ӓвӓвел N_КОЛ  "äitipuoli" ;
 ӓвӓви:ӓвӓви N_ОЛМА  "kevytkenkäinen nainen" ;
 ӓвӓвын:ӓвӓвын N_КОЛ  "untuvat sulkien alla" ;
@@ -10874,7 +10874,7 @@ LEXICON nouns
 ӓрештӹлмӓш:ӓрештӹлмӓш N_МӦР  "häiritseminen" ;
 ӓрлӓн:ӓрлӓн N_КОЛ  "hamsteri" ;
 ӓрлӓнгӹ:ӓрлӓнгӹ N_КОЛ  "hamsteri" ;
-ӓрня:ӓрня NTag  "viikko" ;
+ӓрня:ӓрня N_  "viikko" ;
 ӓрнягечӹ:ӓрнягечӹ N_ТӸРВӸ  "perjantai" ;
 ӓрсӹк:ӓрсӹк N_МӦР  "kankaan pala" ;
 ӓртньӹ:ӓртньӹ N_ТӸРВӸ  "kerinlaudat" ;
@@ -10898,7 +10898,7 @@ LEXICON nouns
 ӓтмӓ:ӓтмӓ N_ОЛМА  "kauha" ;
 ӓтмӓ:ӓтмӓ N_ОЛМА  "uimaräpylät" ;
 ӓтньӹ:ӓтньӹ N_ТӸРВӸ  "" ;
-ӓтя:ӓтя NTag  "isä" ;
+ӓтя:ӓтя N_  "isä" ;
 ӓтя-ӓвӓ:ӓтя-ӓвӓ N_ОЛМА  "vanhemmat" ;
 ӓтявел:ӓтявел N_МӦР  "isäpuoli" ;
 ӓтяжӹ:ӓтяжӹ N_ТӸРВӸ  "vaimon puhuttelusana miehelleen - lasten isälle" ;
@@ -10933,7 +10933,7 @@ LEXICON nouns
 ӧпкӹ:ӧпкӹ N_ТӸРВӸ  "tyytymättömyys" ;
 ӧрдыж-йӓл:ӧрдыж-йӓл N_МӦР  "ventovieras" ;
 ӧрдӹж:ӧрдӹж N_МӦР  "kylki" ;
-ӧрдӹжлу:ӧрдӹжлу NTag  "kylkiluu" ;
+ӧрдӹжлу:ӧрдӹжлу N_  "kylkiluu" ;
 ӧрдӹжлӓнӹмӓш:ӧрдӹжлӓнӹмӓш N_МӦР  "syrjään väistyminen" ;
 ӧрдӹктӹмӓш:ӧрдӹктӹмӓш N_МӦР  "pakkolihottaminen" ;
 ӧрдӹмӓш:ӧрдӹмӓш N_МӦР  "lihoaminen" ;
@@ -10993,7 +10993,7 @@ LEXICON nouns
 ӱштӹ:ӱштӹ N_ТӸРВӸ  "kylmyys" ;
 ӱштӹмыж:ӱштӹмыж N_КОЛ  "vilutauti" ;
 ӱштӹмыжолма:ӱштӹмыжолма N_ОЛМА  "" ;
-ӱэ:ӱэ NTag  "hopeapaju" ;
+ӱэ:ӱэ N_  "hopeapaju" ;
 ӱэгӹцкӹ:ӱэгӹцкӹ N_ТӸРВӸ  "norkko" ;
 ӱэдара:ӱэдара N_ОЛМА  "norkko" ;
 ӱэлӓ:ӱэлӓ N_ОЛМА  "hopeapajula" ;
