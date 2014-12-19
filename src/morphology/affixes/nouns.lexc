@@ -81,7 +81,6 @@ LEXICON N_БИРЖА-PL
 LEXICON N_ПОЧТА !!= @CODE@  почта:почта
 +N: NMN_OBLIQUE-INDEFINITE-SG_BACK ;
 +N: NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ;
-!+N: NMN_OBLIQUE-POSSESSA_BACK ;
 +N: NMN_OBLIQUE-POSSESSA-SG_BACK ;!!!!
 +N: NMN_OBLIQUE-POSSESSA-PL_BACK ;
 +N+Sg+Nom: 	  K	; 
@@ -105,6 +104,15 @@ LEXICON N_ӒЗӒ-SG
 +N: NMN_ӒЗӒ-SG ;
 LEXICON N_ӒЗӒ-PL
 +N: NMN_ӒЗӒ-PL ;
+
+LEXICON N_ПЕЧЕНЬЕ !!= @CODE@  печенье:печенье
+!! Front harmony
+ N_ПЕЧЕНЬЕ-SG ;
+ N_ПЕЧЕНЬЕ-PL ;
+LEXICON N_ПЕЧЕНЬЕ-SG
++N: NMN_ПЕЧЕНЬЕ-SG ;
+LEXICON N_ПЕЧЕНЬЕ-PL
++N: NMN_ПЕЧЕНЬЕ-PL ;
 
 !!
 LEXICON NMN_КОЛ !!= @CODE@ кол:кол
@@ -146,7 +154,7 @@ LEXICON NMN_МАРЫ-SG
 LEXICON NMN_МАРЫ-PL
  NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ;
  NMN_OBLIQUE-POSSESSA-PL_BACK ;
-+PxSg1:эм PL-ABEACCCOMDATGENILLINELATNOM_MUTUAL ;
+!+PxSg1:эм PL-ABEACCCOMDATGENILLINELATNOM_MUTUAL ;
 
 LEXICON NMN_ТӸРВӸ !!≈ * __@CODE@__ тӹрвӹ:тӹрвӹ
 !! The stem vowel "е" is found with possessor indices and the lative
@@ -161,7 +169,7 @@ LEXICON NMN_ТӸРВӸ-SG
 LEXICON NMN_ТӸРВӸ-PL
  NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ;
  NMN_OBLIQUE-POSSESSA-PL_FRONT ;
-+PxSg1:эм PL-ABEACCCOMDATGENILLINELATNOM_MUTUAL ;
+!+PxSg1:эм PL-ABEACCCOMDATGENILLINELATNOM_MUTUAL ;
 
 LEXICON NMN_КАРТА	 !!≈ * __@CODE@__ карта:карта
 !! Back а/ы 
@@ -238,6 +246,19 @@ LEXICON NMN_ӒЗӒ-PL
 !+PxSg2+Pl+Nom:етвлӓ K ;
 !+PxSg2+Pl+Nom:твлӓ K ;
 !+Pl+Nom+PxSg2:влӓэт K ;
+
+LEXICON NMN_ПЕЧЕНЬЕ !!= @CODE@  печенье:печенье
+!! Front harmony
+ NMN_ПЕЧЕНЬЕ-SG ;
+ NMN_ПЕЧЕНЬЕ-PL ;
+LEXICON NMN_ПЕЧЕНЬЕ-SG
++Sg+Nom:          K     ;
+ NMN_OBLIQUE-INDEFINITE-SG_FRONT ;
+ NMN_OBLIQUE-POSSESSA-SG_FRONT ;
+
+LEXICON NMN_ПЕЧЕНЬЕ-PL
+ NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ;
+ NMN_OBLIQUE-POSSESSA-PL_FRONT ;
 
 LEXICON N_ӒВӒ !!= @CODE@  ӓвӓ:ӓвӓ
 +N: NMN_OBLIQUE-INDEFINITE-SG_FRONT ;
