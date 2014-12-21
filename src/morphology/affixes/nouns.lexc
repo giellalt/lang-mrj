@@ -756,7 +756,7 @@ LEXICON SG-LAT-PXSG1_MUTUAL
 +Sg+PxSg1+Lat:%>емӹш	   K  ;
 
 LEXICON SG-NOM-PXSG1_MUTUAL 
-+Sg+PxSg1+Nom:%>ем K ;
++Sg+Nom+PxSg1:%>ем K ;
 
 !+!
 LEXICON PL-ABE-PXSG1_MUTUAL 
@@ -802,7 +802,7 @@ LEXICON PL-LAT-PXSG1_MUTUAL
 +PxSg1+Pl+Lat:%>емвлӓш   K  ;
 
 LEXICON PL-NOM-PXSG1_MUTUAL 
-+Pl+PxSg1+Nom:%>влӓэм	   K  ;
++Pl+Nom+PxSg1:%>влӓэм	   K  ;
 +PxSg1+Pl+Nom:%>емвлӓ	   K  ;
 
 !!
@@ -849,7 +849,7 @@ LEXICON SG-LAT-PXSG2_MUTUAL
 +Sg+PxSg2+Lat:%>етӹш	   K  ;
 
 LEXICON SG-NOM-PXSG2_MUTUAL 
-+Sg+PxSg2+Nom:%>ет		   K  ;
++Sg+Nom+PxSg2:%>ет		   K  ;
 
 LEXICON PL-ABE-PXSG2_MUTUAL 
 +Pl+PxSg2+Abe:%>влӓэтде	   K  ;
@@ -894,7 +894,7 @@ LEXICON PL-LAT-PXSG2_MUTUAL
 
 LEXICON PL-NOM-PXSG2_MUTUAL 
 +PxSg2+Pl+Nom:%>етвлӓ	   K  ;
-+Pl+PxSg2+Nom:%>влӓэт	   K  ;
++Pl+Nom+PxSg2:%>влӓэт	   K  ;
 
 !! PXSG3
 !LEXICON PXSG3-SG-ABE
@@ -975,9 +975,9 @@ LEXICON SG-LAT-PXSG3_FRONT
 +Sg+PxSg3+Lat:%>жӹш	   K  ;
 
 LEXICON SG-NOM-PXSG3_BACK
-+Sg+PxSg3+Nom:%>жы 	   K  ;
++Sg+Nom+PxSg3:%>жы 	   K  ;
 LEXICON SG-NOM-PXSG3_FRONT
-+Sg+PxSg3+Nom:%>жӹ 	   K  ;
++Sg+Nom+PxSg3:%>жӹ 	   K  ;
 
 LEXICON PL-ABE-PXSG3_MUTUAL
 +Pl+PxSg3+Abe:%>влӓжӹде    K  ;
@@ -1050,7 +1050,7 @@ LEXICON PL-LAT-PXSG3_FRONT
 +PxSg3+Pl+Lat:%>жӹ%>влӓэш   K  ;
 
 LEXICON PL-NOM-PXSG3_MUTUAL
-+Pl+PxSg3+Nom:%>влӓжӹ	   K  ;
++Pl+Nom+PxSg3:%>влӓжӹ	   K  ;
 LEXICON PL-NOM-PXSG3_BACK
 +PxSg3+Pl+Nom:%>жы%>влӓ	   K  ;
 LEXICON PL-NOM-PXSG3_FRONT
@@ -1097,7 +1097,7 @@ LEXICON PXPL1-SG-LAT
 +Sg+Lat+PxPl1:%>еш%>н%{аӓ%}	K	;
 
 LEXICON PXPL1-SG-NOM 
-+Sg+PxPl1+Nom:%>н%{аӓ%}	K	;
++Sg+Nom+PxPl1:%>н%{аӓ%}	K	;
 
 !+!
 LEXICON PL-ABE-PXPL1_MUTUAL 
@@ -1122,7 +1122,7 @@ LEXICON PL-INE-PXPL1_MUTUAL
 LEXICON PL-LAT-PXPL1_MUTUAL 
 +Pl+Lat+PxPl1:%>влӓэшнӓ	K	;
 LEXICON PL-NOM-PXPL1_MUTUAL 
-+Pl+PxPl1+Nom:%>влӓ%>нӓ	K	;
++Pl+Nom+PxPl1:%>влӓ%>нӓ	K	;
 
 !!PxPl2
 LEXICON PXPL2-SG-ABE 
@@ -1154,7 +1154,7 @@ LEXICON SG-INE-PXPL2_FRONT
 LEXICON PXPL2-SG-LAT 
 +Sg+Lat+PxPl2:%>еш%>дӓ	K	;
 LEXICON SG-NOM-PXPL2 
-+Sg+PxPl2+Nom:%>д%{аӓ%}	K	;
++Sg+Nom+PxPl2:%>д%{аӓ%}	K	;
 
 !+!
 LEXICON PL-ABE-PXPL2_MUTUAL
@@ -1182,7 +1182,7 @@ LEXICON PL-LAT-PXPL2_MUTUAL
 +Pl+Lat+PxPl2:%>влӓэшдӓ	K	;
 !+Pl+Lat+PxPl2:%>влӓ%>Е2ш%>дӓ	K	;
 LEXICON PL-NOM-PXPL2_MUTUAL
-+Pl+PxPl2+Nom:%>влӓ%>дӓ	K	;
++Pl+Nom+PxPl2:%>влӓ%>дӓ	K	;
 
 !!PxPl3
 !LEXICON PXPL3-SG-ABE 
@@ -1245,9 +1245,9 @@ LEXICON SG-LAT-PXPL3_MUTUAL
 !LEXICON PXPL3-SG-NOM 
 !+Sg+PxPl3+Nom:%>%{ыӹØ%}шт%{ыӹØ%}	K	;
 LEXICON SG-NOM-PXPL3_BACK
-+Sg+PxPl3+Nom:%>ышты	K	;
++Sg+Nom+PxPl3:%>ышты	K	;
 LEXICON SG-NOM-PXPL3_FRONT
-+Sg+PxPl3+Nom:%>ӹштӹ	K	;
++Sg+Nom+PxPl3:%>ӹштӹ	K	;
 !+!
 LEXICON PL-ABE-PXPL3_MUTUAL
 +Pl+PxPl3+Abe:%>влӓ%>ӹштӹ%>де	K	;
@@ -1270,7 +1270,7 @@ LEXICON PL-INE-PXPL3_MUTUAL
 LEXICON PL-LAT-PXPL3_MUTUAL
 +Pl+Lat+PxPl3:%>влӓ%>Е2ш%>ӹштӹ	K	;
 LEXICON PL-NOM-PXPL3_MUTUAL
-+Pl+PxPl3+Nom:%>влӓ%>ӹштӹ	K	;
++Pl+Nom+PxPl3:%>влӓ%>ӹштӹ	K	;
 
 
 

@@ -91,7 +91,7 @@ Tests:
      коаш+V+Der/шЫ+ActPrc+Pl+Comp: кошывлӓлӓ
      коаш+V+Der/шЫ+ActPrc+Pl+Abe: кошывлӓде
      
-     коаш+V+Der/шЫ+ActPrc+Sg+PxSg1+Nom: кошем 
+     коаш+V+Der/шЫ+ActPrc+Sg+Nom+PxSg1: кошем 
      коаш+V+Der/шЫ+ActPrc+Sg+PxSg1+Gen: кошемӹн
      коаш+V+Der/шЫ+ActPrc+Sg+PxSg1+Acc: кошемӹм
      коаш+V+Der/шЫ+ActPrc+Sg+PxSg1+Com: кошемге
@@ -149,7 +149,7 @@ Tests:
      коаш+V+Der/мЫ+PssPrc+Pl+Abe: комывлӓде
 
 
-     коаш+V+Der/мЫ+PssPrc+Sg+PxSg1+Nom: комем 
+     коаш+V+Der/мЫ+PssPrc+Sg+Nom+PxSg1: комем 
      коаш+V+Der/мЫ+PssPrc+Sg+PxSg1+Gen: комемӹн
      коаш+V+Der/мЫ+PssPrc+Sg+PxSg1+Acc: комемӹм
      коаш+V+Der/мЫ+PssPrc+Sg+PxSg1+Com: комемге
@@ -195,7 +195,7 @@ Tests:
      коаш+V+Der/дЫмЫ+NegPrc+Sg+Lat: [кодымеш, кодымешкӹ]
 #lisӓtty gerundimuoto -мешкЫ rinnakkaisena vaihtoehtona
 #jӓtӓn?vaikka homonyyminen muoto кодымешкӹ'jӓttӓmisen asemesta'
-     коаш+V+Der/дЫмЫ+NegPrc+Sg+Comp: коӹыӹыӹлӓ
+     коаш+V+Der/дЫмЫ+NegPrc+Sg+Comp: кодымыла
      коаш+V+Der/дЫмЫ+NegPrc+Sg+Abe: кодымыде
      коаш+V+Der/дЫмЫ+NegPrc+Pl+Nom: кодымывлӓ
      коаш+V+Der/дЫмЫ+NegPrc+Pl+Gen: кодымывлӓн
@@ -208,7 +208,7 @@ Tests:
      коаш+V+Der/дЫмЫ+NegPrc+Pl+Comp: кодымывлӓлӓ
      коаш+V+Der/дЫмЫ+NegPrc+Pl+Abe: кодымывлӓде
  
-     коаш+V+Der/дЫмЫ+NegPrc+Sg+PxSg1+Nom: кодымем 
+     коаш+V+Der/дЫмЫ+NegPrc+Sg+Nom+PxSg1: кодымем 
      коаш+V+Der/дЫмЫ+NegPrc+Sg+PxSg1+Gen: кодымемӹн
      коаш+V+Der/дЫмЫ+NegPrc+Sg+PxSg1+Acc: кодымемӹм
      коаш+V+Der/дЫмЫ+NegPrc+Sg+PxSg1+Com: кодымемге
