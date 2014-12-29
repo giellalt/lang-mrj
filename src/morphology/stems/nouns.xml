@@ -1258,11 +1258,11 @@
   <e>
     <lg>
       <l pos="N">ад</l>
-        <l_ref pos="N">кишпад</l_ref>
+
+      <l_ref pos="N">кишпад</l_ref>
 
       <stg>
         <st Contlex="N_КОЛ">ад</st>
-
       </stg>
 
       <stress>ад</stress>
@@ -1342,7 +1342,8 @@
     <lg>
       <l pos="N">адахаэмдӹмӓш</l>
 
-        <l_ref pos="N">тӓрвӓнӹктӹмӓш</l_ref>
+      <l_ref pos="N">тӓрвӓнӹктӹмӓш</l_ref>
+
       <stg>
         <st Contlex="N_МӦР">адахаэмдӹмӓш</st>
       </stg>
@@ -1361,7 +1362,9 @@
       <tg xml:lang="fin">
         <t pos="N">liikkeellepano</t>
 
-        <tf pos="N">yllytys liikkumaan</tf><!-- (JK) -->
+        <tf pos="N">yllytys liikkumaan</tf>
+
+        <!-- (JK) -->
       </tg>
 
       <tg xml:lang="rus">
@@ -1381,14 +1384,16 @@
       <stress>тӓрвӓнӹ•ктӹмӓш</stress>
     </lg>
 
-
     <mg>
-      <defNative>тӓрвӓнӹктӹмӓш рисньӹктӹмӓш vrt ытырыктымаш пыдыратымаш</defNative>
+      <defNative>тӓрвӓнӹктӹмӓш рисньӹктӹмӓш vrt ытырыктымаш
+      пыдыратымаш</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">liikkeellepano</t>
 
-        <tf pos="N">yllytys liikkumaan</tf><!-- (JK) -->
+        <tf pos="N">yllytys liikkumaan</tf>
+
+        <!-- (JK) -->
       </tg>
 
       <tg xml:lang="rus">
@@ -4746,7 +4751,9 @@
 
         <tf pos="N">однолетняя ветка</tf>
 
-        <tf pos="N">однолетнее дерево</tf><!-- (JK) -->
+        <tf pos="N">однолетнее дерево</tf>
+
+        <!-- (JK) -->
       </tg>
 
       <tg xml:lang="fin">
@@ -4979,6 +4986,7 @@
 
       <stg>
         <st Contlex="N_КОЛ">ангел</st>
+
         <st Contlex="N_КОЛ" status="Err/Sub">ангыл</st>
       </stg>
 
@@ -16442,6 +16450,7 @@
 
       <stg>
         <st Contlex="N_КОЛ">венгр</st>
+
         <st Contlex="N_КОЛ" status="Err/Sub">венгыр</st>
       </stg>
 
@@ -41705,7 +41714,9 @@
       <tg xml:lang="fin">
         <t pos="N">roska</t>
 
-        <tf pos="A">palavat kivet</tf><!-- (JK) -->
+        <tf pos="A">palavat kivet</tf>
+
+        <!-- (JK) -->
       </tg>
 
       <xg>
@@ -67746,7 +67757,9 @@
 
         <t pos="N">kiristys (JK)</t>
 
-        <tf pos="N">viimeinen varoitus</tf><!-- (JK) -->
+        <tf pos="N">viimeinen varoitus</tf>
+
+        <!-- (JK) -->
       </tg>
     </mg>
   </e>
@@ -107763,6 +107776,50 @@
 
         <t pos="N">silmu</t>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">нер</l>
+
+      <stg>
+        <st Contlex="N_МӦР">нер</st>
+      </stg>
+
+      <stress>нер</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK (pyrtenäm) omonimichny shamak (Vasikovan Toponimika knigä
+      semynj). Paikannimistö-termi esim. пригорок - kunnas, tässä tap.myös
+      synon. неркӓ.</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">ylänkö</t>
+
+        <t pos="N">ylänne</t>
+
+        <t pos="N">kumpu</t>
+
+        <t pos="N">kunnas</t>
+
+        <t pos="N">töyry</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">горка</t>
+
+        <t pos="N">пригорок</t>
+
+        <t pos="N">возвышенная местность</t>
+      </tg>
+
+      <xg>
+        <x>Аламнер сага (JK)</x>
+
+        <xt>Alam ylänteen vieressä</xt>
+      </xg>
     </mg>
   </e>
 
@@ -179326,7 +179383,9 @@
 
         <t pos="N">maleksinta</t>
 
-        <tf pos="N">tömisytys</tf><!-- (JK) -->
+        <tf pos="N">tömisytys</tf>
+
+        <!-- (JK) -->
       </tg>
     </mg>
   </e>
@@ -184727,7 +184786,9 @@
 
         <tf pos="N">liikkeelle pano</tf>
 
-        <tf pos="N">toisen innostaminen</tf><!-- (JK) -->
+        <tf pos="N">toisen innostaminen</tf>
+
+        <!-- (JK) -->
       </tg>
     </mg>
   </e>
@@ -189327,7 +189388,9 @@
 
         <t pos="N">vauraus</t>
 
-        <tf pos="N">perustarpeiden olemassaolo</tf><!-- (JK) -->
+        <tf pos="N">perustarpeiden olemassaolo</tf>
+
+        <!-- (JK) -->
       </tg>
 
       <tg xml:lang="rus">
@@ -193125,7 +193188,9 @@
 
         <t pos="N">raha-asiat</t>
 
-        <tf pos="N">rahatilanne</tf><!-- (JK) -->
+        <tf pos="N">rahatilanne</tf>
+
+        <!-- (JK) -->
       </tg>
     </mg>
   </e>
@@ -219396,7 +219461,9 @@
 
         <t pos="N">vääntövipu</t>
 
-        <tf pos="N">tukeva seiväs</tf><!-- (JK) -->
+        <tf pos="N">tukeva seiväs</tf>
+
+        <!-- (JK) -->
       </tg>
 
       <xg>
