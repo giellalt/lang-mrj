@@ -12030,10 +12030,30 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: не для чего, ни для чего.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ei miksikään</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нималан</l>
+
+      <stg>
+        <st Contlex="ADV_">нималан</st>
+      </stg>
+
+      <stress>нима•лан</stress>
+    </lg>
+
+    <mg>
+      <defNative>JK_ ei kiitämistä (venäjän kalka: не-за-что)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ei kiitämistä</t>
       </tg>
     </mg>
   </e>
@@ -12053,7 +12073,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ei yhtään</t>
       </tg>
     </mg>
   </e>
@@ -12104,10 +12124,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: бедно</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">köyhästi</t>
       </tg>
     </mg>
   </e>
@@ -12124,10 +12144,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>1)мягко 2)нежно</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">pehmeästi</t>
+
+        <t pos="Adv">hellästi</t>
       </tg>
     </mg>
   </e>
@@ -12144,10 +12166,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: о ходьбе в мокрой обуви</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">märästi</t>
       </tg>
     </mg>
   </e>
@@ -12164,10 +12186,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: о звуке удара по мокрому</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">lompsis-lompsis</t>
       </tg>
     </mg>
   </e>
@@ -12184,10 +12206,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav uly: ньоц ньоцок</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">läpikotaisin märkää</t>
       </tg>
     </mg>
   </e>
@@ -12204,10 +12226,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav uke. JK: шӱм ньӹген = яжо агыл вӹлец (?)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">tähän hätään</t>
       </tg>
     </mg>
   </e>
@@ -12224,10 +12246,11 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: ark. ньӹмешкӹ якте - до сего времени
+      (1981:104)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">toistaiseksi</t>
       </tg>
     </mg>
   </e>
@@ -12244,10 +12267,15 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: yleensä ilmaisu тӹ нӱжвец - между тем, тем
+      временем</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">siinä välissä</t>
+
+        <t pos="Adv">siinä lomassa</t>
+
+        <t pos="Adv">siinä aikana</t>
       </tg>
     </mg>
   </e>
@@ -12264,11 +12292,18 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: Vain ilmaisussa нӱжвӓкӹлӓ кеӓш (arkaismi) -
+      опуститься</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">heitteillä</t>
       </tg>
+
+      <xg>
+        <x>солажат нӱжвӓкӹлӓ кен (1981:102)</x>
+
+        <xt>kyläkin on jäänyt heitteille</xt>
+      </xg>
     </mg>
   </e>
 
@@ -12284,10 +12319,13 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: лб. Тенгежӹ литер.вариант: (тӹ) нӱжвец - между тем, тем
+      временем </defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">siinä aikana</t>
+
+        <t pos="Adv">siinä lomassa</t>
       </tg>
     </mg>
   </e>
@@ -12307,7 +12345,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">kaikki neljä</t>
       </tg>
     </mg>
   </e>
@@ -12327,7 +12365,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">nelistään</t>
       </tg>
     </mg>
   </e>
@@ -12347,7 +12385,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">harmillista</t>
       </tg>
     </mg>
   </e>
@@ -12367,7 +12405,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">puolueettomasti</t>
+
+        <t pos="Adv">objektiivisesti</t>
       </tg>
     </mg>
   </e>
@@ -12387,7 +12427,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">on pakko</t>
       </tg>
     </mg>
   </e>
@@ -12404,10 +12444,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: лечге (стало) лучше (1981:105)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">helpottuneesti</t>
+
+        <t pos="Adv">paremmin</t>
       </tg>
     </mg>
   </e>
@@ -12427,7 +12469,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">toistuvasti</t>
       </tg>
     </mg>
   </e>
@@ -12483,10 +12525,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: медленно тихонько JK (myös) salaa</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">hiljakseen</t>
+
+        <t pos="Adv">hiljaisesti</t>
+
+        <t pos="Adv">hissunkissun</t>
       </tg>
     </mg>
   </e>
@@ -12503,10 +12549,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: Kilemar murt. попеременно посменно</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">vuorottellen</t>
       </tg>
     </mg>
   </e>
@@ -12523,10 +12569,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: особенно, больше всего.</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">erityisesti</t>
+
+        <t pos="Adv">erikoisesti</t>
       </tg>
     </mg>
   </e>
@@ -12546,8 +12594,16 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">eritoten</t>
+
+        <t pos="Adv">kaikkein eniten</t>
       </tg>
+
+      <xg>
+        <x>осовынок тыменяш яратем (1981:109)</x>
+
+        <xt>eritoten pidän opiskelusta</xt>
+      </xg>
     </mg>
   </e>
 
@@ -12566,7 +12622,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">ihan viimeiseksi</t>
       </tg>
     </mg>
   </e>
@@ -12586,7 +12642,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">mainiosti</t>
+
+        <t pos="Adv">oivallisesti</t>
       </tg>
     </mg>
   </e>
@@ -12606,7 +12664,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">keventyneesti</t>
+
+        <t pos="Adv">helpottuneesti</t>
       </tg>
     </mg>
   </e>
@@ -12626,7 +12686,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">tyhjästi</t>
+
+        <t pos="Adv">ammentuneesti</t>
       </tg>
     </mg>
   </e>
@@ -12646,7 +12708,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">valkoisesti</t>
       </tg>
     </mg>
   </e>
@@ -12663,10 +12725,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Lyhyt muoto: пакы</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">kauas</t>
       </tg>
     </mg>
   </e>
@@ -12686,7 +12748,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">kauas</t>
       </tg>
     </mg>
   </e>
@@ -12706,7 +12768,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">eteenpäin</t>
       </tg>
     </mg>
   </e>
@@ -12723,10 +12785,10 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav: вдали (JK: вдаль ! )</defNative>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">kauas</t>
       </tg>
     </mg>
   </e>
@@ -12746,7 +12808,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">kaukana</t>
       </tg>
     </mg>
   </e>
@@ -12763,7 +12825,7 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Sav uke.</defNative>
 
       <tg xml:lang="fin">
         <t pos="Adv"/>
