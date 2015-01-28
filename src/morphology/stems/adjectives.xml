@@ -2357,6 +2357,7 @@
 
       <stg>
         <st Contlex="A_КОЛ">англ</st>
+
         <st Contlex="A_КОЛ" status="Err/Sub">ангыл</st>
       </stg>
 
@@ -4635,7 +4636,9 @@
 
       <stg>
         <st Contlex="ADV_">барщинӹде</st>
-      </stg><!-- Predicative -->
+      </stg>
+
+      <!-- Predicative -->
 
       <stress>ба•рщинӹде</stress>
     </lg>
@@ -58190,7 +58193,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">märkä</t>
+
+        <t pos="A">kostea</t>
       </tg>
     </mg>
   </e>
@@ -58247,10 +58252,12 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Кол гишӓн (j)</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kiduksinen</t>
+
+        <t pos="A">kiduksia sisällä oleva</t>
       </tg>
     </mg>
   </e>
@@ -58270,7 +58277,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kiduksissa oleva</t>
       </tg>
     </mg>
   </e>
@@ -58287,10 +58294,14 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK (rektio) johonkin pohjautuva</defNative>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">pohjautuva</t>
+
+        <t pos="A">perusteinen</t>
+
+        <t pos="A">perusta=</t>
       </tg>
     </mg>
   </e>
@@ -58310,7 +58321,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">köyhä</t>
       </tg>
     </mg>
   </e>
@@ -58330,7 +58341,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">neutraali</t>
       </tg>
     </mg>
   </e>
@@ -58350,7 +58361,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">raskas</t>
+
+        <t pos="A">vaikea</t>
       </tg>
     </mg>
   </e>
@@ -58370,7 +58383,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">painoton</t>
       </tg>
     </mg>
   </e>
@@ -58390,7 +58403,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">painava</t>
       </tg>
     </mg>
   </e>
