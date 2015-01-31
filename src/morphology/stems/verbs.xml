@@ -1616,10 +1616,10 @@
     <lg>
       <l pos="V">анаш</l>
 
-        <l_ref Contlex="V_АЗЕМ" pos="V">ханаш</l_ref>
+      <l_ref Contlex="V_АЗЕМ" pos="V">ханаш</l_ref>
+
       <stg>
         <st Contlex="V_АЗЕМ">аны</st>
-
       </stg>
 
       <stress>а•наш</stress>
@@ -3445,7 +3445,9 @@
       </xg>
 
       <xg>
-        <x>(usk.) сӹнзӓ ак вац сӓй</x><!--  (JK) -->
+        <x>(usk.) сӹнзӓ ак вац сӓй</x>
+
+        <!--  (JK) -->
 
         <xt>toivottavasti ei tenhätä</xt>
       </xg>
@@ -7239,7 +7241,9 @@
       <l pos="V">гуляйӓш</l>
 
       <stg>
-        <st Contlex="V_ВИДЕМ">гуляйы</st><!-- ??JMR  -->
+        <st Contlex="V_ВИДЕМ">гуляйы</st>
+
+        <!-- ??JMR  -->
       </stg>
 
       <stress>гуля•йӓш</stress>
@@ -7944,7 +7948,9 @@
       </tg>
 
       <xg>
-        <x>жура веле качкеш</x><!--  (JK) -->
+        <x>жура веле качкеш</x>
+
+        <!--  (JK) -->
 
         <xt>hotkii kuin mikäkin</xt>
       </xg>
@@ -14192,9 +14198,21 @@
       </tg>
 
       <xg>
-        <x>ам кач</x>
+        <x>качк/аш : качкам : кач- [Мӹнь качкам -&gt; мӹнь ам кач ] </x>
 
-        <xt>en syö</xt>
+        <xt>syödä.INF:syön:syö- [Minä syön -&gt; minä en syö ]</xt>
+      </xg>
+
+      <xg>
+        <x>Нӹнӹ качкыт -&gt; нӹнӹ ак кач/еп</x>
+
+        <xt>He syövät -&gt; he eivät syö</xt>
+      </xg>
+
+      <xg>
+        <x>Ирок мӓ пайым ана кач - нелӹ качкышым качмы ак шо.</x>
+
+        <xt>Aamulla me emme syö lihaa - emme halua syödä tuhtia ruokaa.</xt>
       </xg>
     </mg>
   </e>
@@ -22352,7 +22370,9 @@
       </tg>
 
       <xg>
-        <x>мам кӹлдӓлӓт вӓл</x><!--  (JK) -->
+        <x>мам кӹлдӓлӓт вӓл</x>
+
+        <!--  (JK) -->
 
         <xt>mitä sekoittelet että menee lankoja solmuun</xt>
       </xg>
@@ -22490,7 +22510,9 @@
       </tg>
 
       <xg>
-        <x>мӧрӹм кӹлмӹктен шӹндӓш</x><!--  (JK) -->
+        <x>мӧрӹм кӹлмӹктен шӹндӓш</x>
+
+        <!--  (JK) -->
 
         <xt>pakastaa marjoja</xt>
       </xg>
@@ -22534,7 +22556,9 @@
       </xg>
 
       <xg>
-        <x>тагачы кӹлмӹктен шӹнден</x><!--  (JK) -->
+        <x>тагачы кӹлмӹктен шӹнден</x>
+
+        <!--  (JK) -->
 
         <xt>tänään pakastaa</xt>
       </xg>
@@ -25559,7 +25583,9 @@
       </xg>
 
       <xg>
-        <x>весин семинар лиэш</x><!--  (JK) -->
+        <x>весин семинар лиэш</x>
+
+        <!--  (JK) -->
 
         <xt>seminaari tulee olemaan ensi vuonna</xt>
 
@@ -25573,7 +25599,9 @@
       </xg>
 
       <xg>
-        <x>ирок ышкална лин</x><!--  (JK) -->
+        <x>ирок ышкална лин</x>
+
+        <!--  (JK) -->
 
         <xt>lehmämme on poikinut aamulla</xt>
       </xg>
@@ -26499,6 +26527,42 @@
 
         <t pos="V">laskea</t>
       </tg>
+
+      <xg>
+        <x>лыд/аш : лыдам : лыд- [Тӹнь книгӓм лыдат - книгӓм ат лыд.]</x>
+
+        <xt>lukea.INF : luen : luke- [Sinä luet kirjaa - et lue kirjaa.]</xt>
+      </xg>
+
+      <xg>
+        <x>лыдын пуаш (2008:84)</x>
+
+        <xt>deklamoida lukea eteen</xt>
+      </xg>
+
+      <xg>
+        <x>лыдын нӓлӓш (2008:84)</x>
+
+        <xt>a)vähentää laskussa b) laskea</xt>
+      </xg>
+
+      <xg>
+        <x>Тагачы лыдмем ак шо.</x>
+
+        <xt>Tänään en haua lukea (lit.: lukemani ei ehdi).</xt>
+      </xg>
+
+      <xg>
+        <x>Экзаменеш лыд/шашлык/ем нимат кодде. (Jk)</x>
+
+        <xt>Minulla ei ole jäänyt (enää) mitään luettavaa tenttiä varten.</xt>
+      </xg>
+
+      <xg>
+        <x>Маняр цӹвигӹ ылмым шӹжӹм лыдыт. (Jk)</x>
+
+        <xt>Kanatipujen lukua lasketaan vasta syksyllä.</xt>
+      </xg>
     </mg>
   </e>
 
@@ -29074,7 +29138,9 @@
       </tg>
 
       <xg>
-        <x>Малын ти ӓнгӹр Сазан ӓнгӹр маналтеш?</x><!--  (JK) -->
+        <x>Малын ти ӓнгӹр Сазан ӓнгӹр маналтеш?</x>
+
+        <!--  (JK) -->
 
         <xt>Miksi tätä jokea kutsutaan Sazanjoeksi?</xt>
 
@@ -29082,7 +29148,9 @@
       </xg>
 
       <xg>
-        <x>Лӹм шамаквлӓ вес семӹньжӹ субстантив маналтыт</x><!--  (JK) -->
+        <x>Лӹм шамаквлӓ вес семӹньжӹ субстантив маналтыт</x>
+
+        <!--  (JK) -->
 
         <xt>Nimisanat ovat toiselta nimeltään substantiivit.</xt>
       </xg>
@@ -40720,7 +40788,9 @@
       </tg>
 
       <xg>
-        <x>ти шамак тенге ак попалт</x><!--  (JK) -->
+        <x>ти шамак тенге ак попалт</x>
+
+        <!--  (JK) -->
 
         <xt>tätä sanaa ei äännetä noin</xt>
       </xg>
@@ -42277,7 +42347,9 @@
       </tg>
 
       <xg>
-        <x>самынь пыдыртен шуаш</x><!--  (JK) -->
+        <x>самынь пыдыртен шуаш</x>
+
+        <!--  (JK) -->
 
         <xt>vahingossa rikkoa</xt>
       </xg>
@@ -43864,7 +43936,9 @@
       </tg>
 
       <xg>
-        <x>кол ак изишӓт ак пытькы</x><!--  (JK) -->
+        <x>кол ак изишӓт ак пытькы</x>
+
+        <!--  (JK) -->
 
         <xt>kala ei tärppää ollenkaan</xt>
       </xg>
@@ -46375,7 +46449,9 @@
       </tg>
 
       <xg>
-        <x>пӹтӹрнӓлт шӹнзӓш</x><!--  (JK) -->
+        <x>пӹтӹрнӓлт шӹнзӓш</x>
+
+        <!--  (JK) -->
 
         <xt>sotkeutua</xt>
       </xg>
@@ -49774,7 +49850,9 @@
       </tg>
 
       <xg>
-        <x>вуй севӹмешкӹ лӓкмӹлӓ</x><!--  (JK) -->
+        <x>вуй севӹмешкӹ лӓкмӹлӓ</x>
+
+        <!--  (JK) -->
 
         <xt>pitää poistua ennen kuin tulee häkämyrkytys</xt>
       </xg>
@@ -50573,7 +50651,9 @@
       </xg>
 
       <xg>
-        <x>пӓшӓ мастарвлӓм славенӓ</x><!--  (JK) -->
+        <x>пӓшӓ мастарвлӓм славенӓ</x>
+
+        <!--  (JK) -->
 
         <xt>me ylistämme eturivin työtekijöitä</xt>
 
@@ -50677,7 +50757,9 @@
       </tg>
 
       <xg>
-        <x>тенге ӹштӓш ит смейӹ!</x><!--  (JK) -->
+        <x>тенге ӹштӓш ит смейӹ!</x>
+
+        <!--  (JK) -->
 
         <xt>et saa tehdä näin!</xt>
       </xg>
@@ -56505,7 +56587,9 @@
       </xg>
 
       <xg>
-        <x>сравачым кыш пиштӹмӹжӹм тусарет ма</x><!--  (JK) -->
+        <x>сравачым кыш пиштӹмӹжӹм тусарет ма</x>
+
+        <!--  (JK) -->
 
         <xt>tarkkailetko mihin on (isä) laittamassa avaimia</xt>
       </xg>
@@ -56882,7 +56966,9 @@
       </tg>
 
       <xg>
-        <x>сарайнам тыптылна</x><!--  (JK) -->
+        <x>сарайнам тыптылна</x>
+
+        <!--  (JK) -->
 
         <xt>paikattiin navettamme</xt>
       </xg>
@@ -58646,7 +58732,9 @@
       </tg>
 
       <xg>
-        <x>кӹрисвлӓ тӱленок миӓт</x><!--  (JK) -->
+        <x>кӹрисвлӓ тӱленок миӓт</x>
+
+        <!--  (JK) -->
 
         <xt>rotad lisääntyvät loputtomiin</xt>
 
@@ -62307,7 +62395,9 @@
       </tg>
 
       <xg>
-        <x>вуем туре укш царгалт кеш</x><!--  (JK) -->
+        <x>вуем туре укш царгалт кеш</x>
+
+        <!--  (JK) -->
 
         <xt>pääni kohdalla oksa rasahti</xt>
       </xg>
@@ -67222,7 +67312,9 @@
       </tg>
 
       <xg>
-        <x>мам анжен шалгет?</x><!--  (JK) -->
+        <x>мам анжен шалгет?</x>
+
+        <!--  (JK) -->
 
         <xt>mitä tuijotat?</xt>
 
@@ -67957,13 +68049,17 @@
       </xg>
 
       <xg>
-        <x>у тӹлзӹ шачмешкӹ</x><!--  (JK) -->
+        <x>у тӹлзӹ шачмешкӹ</x>
+
+        <!--  (JK) -->
 
         <xt>ennen kuin on tullut uusi kuu</xt>
       </xg>
 
       <xg>
-        <x>мӹнь изи солаэш шачынам</x><!--  (JK) -->
+        <x>мӹнь изи солаэш шачынам</x>
+
+        <!--  (JK) -->
 
         <xt>olen syntynyt pienessä kylässä</xt>
       </xg>
@@ -69165,7 +69261,9 @@
       </tg>
 
       <xg>
-        <x>вӹд шолаш пырыш</x><!--  (JK) -->
+        <x>вӹд шолаш пырыш</x>
+
+        <!--  (JK) -->
 
         <xt>vesi kiehahti</xt>
       </xg>
@@ -70357,7 +70455,9 @@
       </tg>
 
       <xg>
-        <x>шужышы мӹшкӹреш пӓшӓм ӹштӓш нелӹ</x><!--  (JK) -->
+        <x>шужышы мӹшкӹреш пӓшӓм ӹштӓш нелӹ</x>
+
+        <!--  (JK) -->
 
         <xt>nälkäisenä on vaikea tehdä työtä</xt>
       </xg>
@@ -70615,7 +70715,9 @@
       </tg>
 
       <xg>
-        <x>папи калацым шулеш</x><!--  (JK) -->
+        <x>папи калацым шулеш</x>
+
+        <!--  (JK) -->
 
         <xt>isoäiti leikkaa vehnäleipää</xt>
       </xg>
@@ -70821,7 +70923,9 @@
       </tg>
 
       <xg>
-        <x>утла идӓ шумы</x><!--  (JK) -->
+        <x>утла идӓ шумы</x>
+
+        <!--  (JK) -->
 
         <xt>älkää melutko liikaa</xt>
       </xg>
@@ -72067,7 +72171,9 @@
       </xg>
 
       <xg>
-        <x>им доно парняэтӹм ит шырал шӹндӹ моло</x><!--  (JK) -->
+        <x>им доно парняэтӹм ит шырал шӹндӹ моло</x>
+
+        <!--  (JK) -->
 
         <xt>älähän pistä sitten sormeasi vahingossa neulalla</xt>
       </xg>
@@ -72415,7 +72521,9 @@
       </tg>
 
       <xg>
-        <x>шӓвӹктӓш веле мастар</x><!--  (JK) -->
+        <x>шӓвӹктӓш веле мастар</x>
+
+        <!--  (JK) -->
 
         <xt>hän on hyvä hajottamaan tavaroita</xt>
       </xg>
@@ -72713,7 +72821,9 @@
       </tg>
 
       <xg>
-        <x>пумагавлӓэм цилӓ шӓнген лӓктӹм, шӹм мо</x><!--  (JK) -->
+        <x>пумагавлӓэм цилӓ шӓнген лӓктӹм, шӹм мо</x>
+
+        <!--  (JK) -->
 
         <xt>en löytänyt vaikka pengoin kaikki paperini läpi</xt>
       </xg>
@@ -75233,7 +75343,9 @@
       </tg>
 
       <xg>
-        <x>лемӹм шолташ шӹндӓш</x><!--  (JK) -->
+        <x>лемӹм шолташ шӹндӓш</x>
+
+        <!--  (JK) -->
 
         <xt>alkaa laittamaan keittoa (liter: keittoa kiehumaan laittaa)</xt>
       </xg>
@@ -75339,7 +75451,9 @@
       </tg>
 
       <xg>
-        <x>пӧкенӹш пырен шӹнзӹ</x><!--  (JK) -->
+        <x>пӧкенӹш пырен шӹнзӹ</x>
+
+        <!--  (JK) -->
 
         <xt>istahti tuolille</xt>
       </xg>
@@ -75369,7 +75483,9 @@
       </tg>
 
       <xg>
-        <x>телевизорым анжен шӹнзедӓ</x><!--  (JK) -->
+        <x>телевизорым анжен шӹнзедӓ</x>
+
+        <!--  (JK) -->
 
         <xt>istutte katselette telkkaria</xt>
       </xg>
@@ -75636,7 +75752,9 @@
       </tg>
 
       <xg>
-        <x>сасна тек шӹркӓлен каштеш</x><!--  (JK) -->
+        <x>сасна тек шӹркӓлен каштеш</x>
+
+        <!--  (JK) -->
 
         <xt>sika hankaa itseään (puita vasten)</xt>
       </xg>
@@ -78709,7 +78827,9 @@
       </tg>
 
       <xg>
-        <x>мам вӓл ямалтыл каштеш</x><!--  (JK) -->
+        <x>мам вӓл ямалтыл каштеш</x>
+
+        <!--  (JK) -->
 
         <xt>mitä hän satuilee</xt>
       </xg>
@@ -80598,7 +80718,9 @@
       </tg>
 
       <xg>
-        <x>тыл ӓрӓлӓнен кеш</x><!--  (JK) -->
+        <x>тыл ӓрӓлӓнен кеш</x>
+
+        <!--  (JK) -->
 
         <xt>tulipalo äityi riehaantui</xt>
       </xg>
