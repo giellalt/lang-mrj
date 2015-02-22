@@ -1,7 +1,4 @@
-!! Verb inflection
-!! ----
-
-!! Hill Mari (Western Mari) verbs are inflected for (subject) person, tense and mood.
+!! !!!Hill Mari (Western Mari) verb inflection
 
 LEXICON VAux !!≈ * __@CODE@__ = auxiliaries first
 
@@ -19,10 +16,13 @@ LEXICON V_АМ_SUB !!≈ * __@CODE@__ substandard
 LEXICON V_ЕМ_SUB !!≈ * __@CODE@__ substandard
 +Err/Sub: V_ЕМ ;
 
+!! !!Regular verbs
+
 !! !V_АМ verbs
-!! !REGULAR VERBS
+
 
 LEXICON V_ИӒМ
+!! LEXICON @LEXNAME@
 !! Approximately 619 2014-12-21
 !! Front Vowel harmony for V_АМ verbs
  V_АМ ;
@@ -31,10 +31,12 @@ LEXICON V_ИӒМ
 +V: PSS-PRC_FRONT ;
 +V: NEG-PRC_FRONT ;
 LEXICON V_ИӒМ-SG3
+!! LEXICON @LEXNAME@
 !! Approximately 4 2014-12-21
 !! Front Vowel harmony for V_АМ-SG3 verbs
  V_АМ-SG3 ;
 LEXICON V_ИӒМ-3
+!! LEXICON @LEXNAME@
 !! Approximately 2 2014-12-21
 !! Front Vowel harmony for V_АМ-3 verbs
  V_АМ-3 ;
@@ -43,6 +45,7 @@ LEXICON V_ИӒМ-3
 +V: NEG-PRC_FRONT ;
 
 LEXICON V_МОАМ
+!! LEXICON @LEXNAME@
 !! Approximately 465 2014-12-21
 !! Back Vowel harmony for  V_АМ	verbs
  V_АМ ; 
@@ -51,6 +54,7 @@ LEXICON V_МОАМ
 +V: PSS-PRC_BACK ;
 +V: NEG-PRC_BACK ;
 LEXICON V_МОАМ-SG3
+!! LEXICON @LEXNAME@
 !! Approximately 2 2014-12-21
 !! Back Vowel harmony for  V_АМ-SG3 verbs
  V_АМ-SG3 ; 
@@ -64,6 +68,7 @@ LEXICON V_МОАМ-3
 
 !! !STEM CHANGE
 LEXICON V_ПӸЧКӒМ
+!! LEXICON @LEXNAME@
 !! Approximately 12 2014-12-21
 !! Back Vowel harmony for  V_АМ verbs
  V_АМ ;
@@ -72,6 +77,7 @@ LEXICON V_ПӸЧКӒМ
 +V: PSS-PRC_FRONT ;
 +V: NEG-PRC_FRONT ;
 LEXICON V_ПӸЧКӒМ-SG3
+!! LEXICON @LEXNAME@
 !! Approximately 0 2014-12-21
 !! Back Vowel harmony for  V_АМ-SG3 verbs
  V_АМ-SG3 ;
@@ -79,11 +85,13 @@ LEXICON V_ПӸЧКӒМ-SG3
 +V: PSS-PRC_FRONT ;
 +V: NEG-PRC_FRONT ;
 LEXICON V_ПӸЧКӒМ-3
+!! LEXICON @LEXNAME@
 !! Approximately 0 2014-12-21
 !! Back Vowel harmony for  V_АМ-3 verbs
  V_АМ-3 ;
 
 LEXICON V_КАЧКАМ
+!! LEXICON @LEXNAME@
 !! Approximately 11 2014-12-21
 !! Back Vowel harmony for  V_АМ verbs
  V_АМ ;
@@ -92,6 +100,7 @@ LEXICON V_КАЧКАМ
 +V: PSS-PRC_BACK ;
 +V: NEG-PRC_BACK ;
 LEXICON V_КАЧКАМ-SG3
+!! LEXICON @LEXNAME@
 !! Approximately 0 2014-12-21
 !! Back Vowel harmony for  V_АМ-SG3 verbs
  V_АМ-SG3 ;
@@ -99,12 +108,14 @@ LEXICON V_КАЧКАМ-SG3
 +V: PSS-PRC_BACK ;
 +V: NEG-PRC_BACK ;
 LEXICON V_КАЧКАМ-3
+!! LEXICON @LEXNAME@
 !! Approximately 0 2014-12-21
 !! Back Vowel harmony for  V_АМ-3 verbs
  V_АМ-3 ;
 
 
 LEXICON	V_ВИДЕМ
+!! LEXICON @LEXNAME@
 !! Approximately 1052 2014-12-21
 !! Front Vowel harmony for V_ЕМ	verbs
  V_ЕМ ;
@@ -113,6 +124,7 @@ LEXICON	V_ВИДЕМ
 +V: PSS-PRC_FRONT ;
 +V: NEG-PRC_FRONT ;
 LEXICON	V_ВИДЕМ-SG3
+!! LEXICON @LEXNAME@
 !! Approximately 2 2014-12-21
 !! Front Vowel harmony for V_ЕМ-SG3 verbs
  V_ЕМ-SG3 ;
@@ -121,6 +133,7 @@ LEXICON	V_ВИДЕМ-SG3
 +V: NEG-PRC_FRONT ;
 
 LEXICON	V_АЗЕМ
+!! LEXICON @LEXNAME@
 !! Approximately 1315 2014-12-21
 !! Back	Vowel harmony for  V_ЕМ verbs
  V_ЕМ ;
@@ -129,6 +142,7 @@ LEXICON	V_АЗЕМ
 +V: PSS-PRC_BACK ;
 +V: NEG-PRC_BACK ;
 LEXICON	V_АЗЕМ-SG3
+!! LEXICON @LEXNAME@
 !! Approximately 4 2014-12-21
 !! Back	Vowel harmony for  V_ЕМ verbs
  V_ЕМ-SG3 ;
@@ -136,6 +150,7 @@ LEXICON	V_АЗЕМ-SG3
 +V: PSS-PRC_BACK ;
 +V: NEG-PRC_BACK ;
 LEXICON	V_АЗЕМ-3
+!! LEXICON @LEXNAME@
 !! Approximately 1 2014-12-21
 !! Back	Vowel harmony for  V_ЕМ verbs
  V_ЕМ-3 ;
@@ -328,7 +343,7 @@ LEXICON V_ЕМ  !!≈ * __@CODE@__ колташ:колты
 !+V: NEG-PRC ;
 
 
-!! !!NONPAST 
+!! !NONPAST 
 
 !! !am verbs
 
