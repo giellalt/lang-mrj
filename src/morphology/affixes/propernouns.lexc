@@ -8,25 +8,25 @@ LEXICON PROP_
 +N+Prop: N_01 ;
 
 LEXICON PROP-PLC_КОЛ
-+N+Prop+Plc: NMN_КОЛ ;
++N+Prop+Sem/Plc: NMN_КОЛ ;
 LEXICON PROP_КОЛ !!= @CODE@ кол:кол
 +N+Prop: NMN_КОЛ ;
 
 LEXICON PROP-PLC_ТӸРВӸ
-+N+Prop+Plc: NMN_ТӸРВӸ ;
++N+Prop+Sem/Plc: NMN_ТӸРВӸ ;
 
 LEXICON PROP_ТӸРВӸ !!≈ * __@CODE@__ тӹрвӹ:тӹрвӹ
 !! The stem vowel "е" is found with possessor indices and the lative
 +N+Prop: NMN_ТӸРВӸ ;
 
 LEXICON PROP-PLC_ОЛМА
-+N+Prop+Plc: NMN_ОЛМА ;
++N+Prop+Sem/Plc: NMN_ОЛМА ;
 
 LEXICON PROP_ОЛМА !!= @CODE@ кол:кол
 +N+Prop: NMN_ОЛМА ;
 
 LEXICON PROP-PLC_КАРТА
-+N+Prop+Plc: NMN_КАРТА ;
++N+Prop+Sem/Plc: NMN_КАРТА ;
 LEXICON PROP_КАРТА !!≈ * __@CODE@__ карта:карта
 !! а is specific to the +Sg+Nom, elsewhere ы or ӹ
 +N+Prop: NMN_КАРТА ;
