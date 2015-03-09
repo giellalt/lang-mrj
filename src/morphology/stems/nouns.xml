@@ -43665,7 +43665,8 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>JK: Кол йӧнӓтӹлмӓш - kalan käsittely
+      (Tj.2.1934:19)</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">valmistaminen</t>
@@ -104211,12 +104212,32 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>мӹндӹрэммӓш</defNative>
 
       <tg xml:lang="fin">
         <t pos="N">kaftaanikangas</t>
 
         <td pos="N">kangasmäärä joka riittää yhteen kaftaaniin</td>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">мӹндӹрeммӓш</l>
+
+      <stg>
+        <st Contlex="N_МӦР">мӹндӹрeммӓш</st>
+      </stg>
+
+      <stress>мӹндӹрeммӓ•ш</stress>
+    </lg>
+
+    <mg>
+      <defNative>(Tj.1.1934:62) мӹндӹрэммӓш</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="N">etääntyminen</t>
       </tg>
     </mg>
   </e>

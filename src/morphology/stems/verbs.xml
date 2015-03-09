@@ -4465,11 +4465,39 @@
     </lg>
 
     <mg>
-      <defNative/>
+      <defNative>Ти пӓшӓ худан винэн.</defNative>
 
       <tg xml:lang="fin">
         <t pos="V">ruuvata</t>
       </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="V">винӓш</l>
+
+      <stg>
+        <st Contlex="V_ВИДЕМ">винӹ</st>
+      </stg>
+
+      <stress>ви•нӓш</stress>
+    </lg>
+
+    <mg>
+      <defNative>Lisätty.Löytö: Ти пӓшӓ худан винэн (Tj.2.1934:16)</defNative>
+
+      <tg xml:lang="fin">
+        <t pos="V">onnistua</t>
+
+        <t pos="V">sujua</t>
+      </tg>
+
+      <xg>
+        <x>Ти пӓшӓ худан винэн (Tj.2.1934:16)</x>
+
+        <xt>Tämä asia ei sujunut hyvin.</xt>
+      </xg>
     </mg>
   </e>
 
@@ -14198,7 +14226,7 @@
       </tg>
 
       <xg>
-        <x>качк/аш : качкам : кач- [Мӹнь качкам -&gt; мӹнь ам кач ] </x>
+        <x>качк/аш : качкам : кач- [Мӹнь качкам -&gt; мӹнь ам кач ]</x>
 
         <xt>syödä.INF:syön:syö- [Minä syön -&gt; minä en syö ]</xt>
       </xg>
@@ -28737,6 +28765,26 @@
 
   <e>
     <lg>
+      <l pos="V">магнитӓнгӓш</l>
+
+      <stg>
+        <st Contlex="V_МОАМ">магнитӓнг</st>
+      </stg>
+
+      <stress>магнитӓ•нгӓш</stress>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="V">magnitoitua</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V">лӹплӓнӓш</l>
 
       <stg>
@@ -32799,6 +32847,31 @@
 
   <e>
     <lg>
+      <l pos="V">мӹндӹремӓш</l>
+
+      <stg>
+        <st Contlex="V_ИӒМ">мӹндӹремӓш</st>
+      </stg>
+
+      <stress>мӹндӹре•мӓш</stress>
+    </lg>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative>(Tj.1.1934:62) анчэн каймаш мӹндӹрэммӓшӹмӓт
+        цаклаш</defNative>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="V">etääntyä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="V">награждаяш</l>
 
       <stg>
@@ -34412,6 +34485,8 @@
         <t pos="V">saeta</t>
 
         <t pos="V">sakeutua</t>
+
+        <t pos="V">tiivistyä (1934)</t>
       </tg>
     </mg>
   </e>
