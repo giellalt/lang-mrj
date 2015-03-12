@@ -122,7 +122,7 @@
         <t pos="N">absurdius</t>
 
         <tCtn>
-          <t>järjettömyys</t>
+          <t pos="N">järjettömyys</t>
 
           <re/>
         </tCtn>
@@ -222,7 +222,7 @@
         <t pos="N">ennakkomaksu</t>
 
         <tCtn>
-          <t>ennakkomaksu</t>
+          <t pos="N">ennakkomaksu</t>
 
           <re>ilmoittautumismaksu</re>
         </tCtn>
@@ -268,7 +268,7 @@
         <t pos="N">seikkailu</t>
 
         <tCtn>
-          <t>uhkayritys</t>
+          <t pos="N">uhkayritys</t>
 
           <re/>
         </tCtn>
@@ -320,7 +320,7 @@
         <t pos="N">kohoaminen</t>
 
         <tCtn>
-          <t>hieman nouseminen</t>
+          <t pos="N">hieman nouseminen</t>
 
           <re>taikina</re>
         </tCtn>
@@ -346,13 +346,13 @@
         <t pos="N">pullistuminen</t>
 
         <tCtn>
-          <t>nouseminen</t>
+          <t pos="N">nouseminen</t>
 
           <re>taikina</re>
         </tCtn>
 
         <tCtn>
-          <t>ylipaisuminen</t>
+          <t pos="N">ylipaisuminen</t>
 
           <re>vaahto</re>
         </tCtn>
@@ -378,7 +378,7 @@
         <t pos="N">haaksirikko</t>
 
         <tCtn>
-          <t>haaveri</t>
+          <t pos="N">haaveri</t>
 
           <re/>
         </tCtn>
@@ -408,7 +408,7 @@
         <t pos="N">liioitteleminen</t>
 
         <tCtn>
-          <t>pöyhiminen</t>
+          <t pos="N">pöyhiminen</t>
 
           <re>heinää</re>
         </tCtn>
@@ -466,7 +466,7 @@
         <t pos="N">paisuminen</t>
 
         <tCtn>
-          <t>nouseminen</t>
+          <t pos="N">nouseminen</t>
 
           <re>taikina</re>
         </tCtn>
@@ -492,13 +492,13 @@
         <t pos="N">kuori</t>
 
         <tCtn>
-          <t>palko</t>
+          <t pos="N">palko</t>
 
           <re>herne</re>
         </tCtn>
 
         <tCtn>
-          <t>suomu</t>
+          <t pos="N">suomu</t>
 
           <re>pähkinän</re>
         </tCtn>
@@ -544,7 +544,7 @@
         <t pos="N">lento</t>
 
         <tCtn>
-          <t>ykkösposti</t>
+          <t pos="N">ykkösposti</t>
 
           <re>kirje</re>
         </tCtn>
@@ -1544,7 +1544,7 @@
         <t pos="N">osoittaa</t>
 
         <tCtn>
-          <t>osoittaa</t>
+          <t pos="N">osoittaa</t>
 
           <re>postilähetys jllek</re>
         </tCtn>
@@ -1630,13 +1630,13 @@
         <t pos="N">neuvominen</t>
 
         <tCtn>
-          <t>näyttäminen</t>
+          <t pos="N">näyttäminen</t>
 
           <re>tietä</re>
         </tCtn>
 
         <tCtn>
-          <t>näyttäminen</t>
+          <t pos="N">näyttäminen</t>
 
           <re>osoittamalla</re>
         </tCtn>
@@ -1730,7 +1730,7 @@
         <t pos="N">turmeleminen</t>
 
         <tCtn>
-          <t>ärsyttäminen</t>
+          <t pos="N">ärsyttäminen</t>
 
           <re>eläimiä</re>
         </tCtn>
@@ -1778,7 +1778,7 @@
         <t pos="N">ärttyminen</t>
 
         <tCtn>
-          <t>kimpaantuminen</t>
+          <t pos="N">kimpaantuminen</t>
 
           <re>eläimestä</re>
         </tCtn>
@@ -1830,9 +1830,9 @@
         <t pos="N">taimi</t>
 
         <tCtn>
-          <t>istukas</t>
+          <t pos="N">istukas</t>
 
-          <t>taimi</t>
+          <t pos="N">taimi</t>
 
           <re>kaalitaimi</re>
         </tCtn>
@@ -1860,7 +1860,7 @@
         <t pos="N">orastaminen</t>
 
         <tCtn>
-          <t>orastaminen</t>
+          <t pos="N">orastaminen</t>
 
           <re>taimi</re>
         </tCtn>
@@ -3144,7 +3144,7 @@
         <t pos="N">värjäytyminen</t>
 
         <tCtn>
-          <t>selkiintyminen</t>
+          <t pos="N">selkiintyminen</t>
 
           <re>taivas</re>
         </tCtn>
@@ -3206,7 +3206,7 @@
         <t pos="N">tuhrimus</t>
 
         <tCtn>
-          <t>sottapytty</t>
+          <t pos="N">sottapytty</t>
 
           <re>likaisesta lapsesta</re>
         </tCtn>
@@ -4209,7 +4209,7 @@
         <tf pos="N">yösijan tarjoaminen</tf>
 
         <tCtn>
-          <t>hapattaminen</t>
+          <t pos="N">hapattaminen</t>
 
           <re>maito</re>
         </tCtn>
@@ -4703,7 +4703,7 @@
       </tg>
 
       <tg xml:lang="rus">
-        <t>хомутина</t>
+        <t pos="N">хомутина</t>
       </tg>
     </mg>
   </e>
@@ -4766,7 +4766,7 @@
         <tf pos="N">yksivuotinen puu</tf>
 
         <tCtn>
-          <t>yksivuotinen</t>
+          <t pos="N">yksivuotinen</t>
 
           <re>kasvi tai puu</re>
         </tCtn>
@@ -4973,9 +4973,9 @@
       </tg>
 
       <tg xml:lang="rus">
-        <t>посох</t>
+        <t pos="N">посох</t>
 
-        <t>трость</t>
+        <t pos="N">трость</t>
       </tg>
     </mg>
   </e>
@@ -5381,7 +5381,7 @@
       </tg>
 
       <tg xml:lang="rus">
-        <t>геолог. квасцы</t>
+        <t pos="N">геолог. квасцы</t>
       </tg>
     </mg>
   </e>
@@ -5658,7 +5658,7 @@
         <t pos="N">antikristus</t>
 
         <tCtn>
-          <t>perkele</t>
+          <t pos="N">perkele</t>
 
           <re>ihmisestä</re>
         </tCtn>
@@ -5792,11 +5792,11 @@
         <t pos="N">reheväksi kasvaaminen</t>
 
         <tCtn>
-          <t>käsitellä</t>
+          <t pos="N">käsitellä</t>
 
-          <t>työstää</t>
+          <t pos="N">työstää</t>
 
-          <t>kaulia</t>
+          <t pos="N">kaulia</t>
 
           <re>taikinasta</re>
         </tCtn>
@@ -6134,7 +6134,7 @@
         <t pos="N">röykkiö</t>
 
         <tCtn>
-          <t>varjoa</t>
+          <t pos="N">varjoa</t>
 
           <re>ihmisestä</re>
         </tCtn>
@@ -6604,7 +6604,7 @@
         <t pos="N">bestman</t>
 
         <tCtn>
-          <t>edeskäypä</t>
+          <t pos="N">edeskäypä</t>
 
           <re>häissä</re>
         </tCtn>
@@ -7429,7 +7429,7 @@
         <te pos="N">tieseuralaisena oleva henkilö</te>
 
         <tCtn>
-          <t>matkaseuralainen (JK)</t>
+          <t pos="N">matkaseuralainen (JK)</t>
 
           <re>mukaan lähtijä</re>
         </tCtn>
@@ -7563,7 +7563,7 @@
         <t pos="N">artisti</t>
 
         <tCtn>
-          <t>pelleilijä</t>
+          <t pos="N">pelleilijä</t>
 
           <re>lapsista</re>
         </tCtn>
@@ -8015,7 +8015,7 @@
         <t pos="N">ruokoheinä</t>
 
         <tCtn>
-          <t>ruokoheinä</t>
+          <t pos="N">ruokoheinä</t>
 
           <re>karkea heinä</re>
         </tCtn>
@@ -8775,24 +8775,24 @@
         <td pos="N">sänki viljanleikuun jälkeen</td>
 
         <tCtn>
-          <t>äpäre</t>
+          <t pos="N">äpäre</t>
 
-          <t>äpärerehut</t>
+          <t pos="N">äpärerehut</t>
 
-          <t>odelma</t>
+          <t pos="N">odelma</t>
 
           <re>heinä</re>
         </tCtn>
       </tg>
 
       <tg xml:lang="rus">
-        <t>жнивье</t>
+        <t pos="N">жнивье</t>
 
-        <t>жнива</t>
+        <t pos="N">жнива</t>
 
-        <t>стернь</t>
+        <t pos="N">стернь</t>
 
-        <t>отава</t>
+        <t pos="N">отава</t>
       </tg>
 
       <xg>
@@ -9253,7 +9253,7 @@
         <td pos="N">esim. työskentely korvaukseksi</td>
 
         <tCtn>
-          <t>korvaukseksi</t>
+          <t pos="N">korvaukseksi</t>
 
           <re>työskenteleminen</re>
         </tCtn>
@@ -9640,7 +9640,7 @@
       </tg>
 
       <tg xml:lang="rus">
-        <t>земляной заяц, пятипалый тушканчик</t>
+        <t pos="N">земляной заяц, пятипалый тушканчик</t>
       </tg>
     </mg>
   </e>
@@ -10277,7 +10277,7 @@
         <t pos="N">leikkiminen</t>
 
         <tCtn>
-          <t>hemmotteleminen</t>
+          <t pos="N">hemmotteleminen</t>
 
           <re>lapsesta</re>
         </tCtn>
@@ -10411,7 +10411,7 @@
         <t pos="N">leimaside</t>
 
         <tCtn>
-          <t>ristiside</t>
+          <t pos="N">ristiside</t>
 
           <re>posti</re>
         </tCtn>
@@ -11664,7 +11664,7 @@
         <t pos="N">pystö</t>
 
         <tCtn>
-          <t>petrolikannu</t>
+          <t pos="N">petrolikannu</t>
 
           <re>petroli</re>
         </tCtn>
@@ -12710,7 +12710,7 @@
         <t pos="N">hylkääminen</t>
 
         <tCtn>
-          <t>hylkytavaraksi</t>
+          <t pos="N">hylkytavaraksi</t>
 
           <re>laaduntarkastuksessa</re>
         </tCtn>
@@ -14114,7 +14114,7 @@
         <t pos="N">sumentuminen</t>
 
         <tCtn>
-          <t>sumentuminen</t>
+          <t pos="N">sumentuminen</t>
 
           <re>silmät</re>
         </tCtn>
@@ -14278,15 +14278,15 @@
         <t pos="N">suoni</t>
 
         <tCtn>
-          <t>lähde</t>
+          <t pos="N">lähde</t>
 
           <re>vesi</re>
         </tCtn>
 
         <tCtn>
-          <t>sanavartalo</t>
+          <t pos="N">sanavartalo</t>
 
-          <t>sanan kanta</t>
+          <t pos="N">sanan kanta</t>
 
           <re>kieliopin</re>
         </tCtn>
@@ -14474,7 +14474,7 @@
         <t pos="N">halkeaminen</t>
 
         <tCtn>
-          <t>halkeaminen</t>
+          <t pos="N">halkeaminen</t>
 
           <re>puu</re>
         </tCtn>
@@ -14842,9 +14842,9 @@
         <t pos="N">kopioiminen</t>
 
         <tCtn>
-          <t>kirjoittaminen</t>
+          <t pos="N">kirjoittaminen</t>
 
-          <t>uudelleen kirjoittaminen</t>
+          <t pos="N">uudelleen kirjoittaminen</t>
 
           <re>kirje; teksti</re>
         </tCtn>
@@ -14896,7 +14896,7 @@
         <t pos="N">irtaantuminen</t>
 
         <tCtn>
-          <t>irti lähteminen</t>
+          <t pos="N">irti lähteminen</t>
 
           <re>kuori</re>
         </tCtn>
@@ -14932,9 +14932,9 @@
         <tf pos="N">vesipisaroiden tippuminen</tf>
 
         <tCtn>
-          <t>pisaroiminen</t>
+          <t pos="N">pisaroiminen</t>
 
-          <t>vesipisaroiden tippuminen</t>
+          <t pos="N">vesipisaroiden tippuminen</t>
 
           <re>keväällä jääpalikan pisaroiminen</re>
         </tCtn>
@@ -14984,7 +14984,7 @@
         <t pos="N">vesikouru</t>
 
         <tCtn>
-          <t>вал вӹд</t>
+          <t pos="N">вал вӹд</t>
 
           <re>lähdevettä</re>
         </tCtn>
@@ -15012,7 +15012,7 @@
         <tf pos="N">vesikaukalo eläimille</tf>
 
         <tCtn>
-          <t>вӹд валак</t>
+          <t pos="N">вӹд валак</t>
 
           <re>lähdevesikouru</re>
         </tCtn>
@@ -15776,7 +15776,7 @@
         <t pos="N">muunnelmat</t>
 
         <tCtn>
-          <t>мыры вариацивлӓ</t>
+          <t pos="N">мыры вариацивлӓ</t>
 
           <re>variaatiot</re>
         </tCtn>
@@ -16348,7 +16348,7 @@
         <t pos="N">puoli</t>
 
         <tCtn>
-          <t>puoli</t>
+          <t pos="N">puoli</t>
 
           <re>kotipuoli</re>
         </tCtn>
@@ -17322,7 +17322,7 @@
         <t pos="N">sävel</t>
 
         <tCtn>
-          <t>sävelmä</t>
+          <t pos="N">sävelmä</t>
 
           <re>laulun</re>
         </tCtn>
@@ -17450,7 +17450,7 @@
         <tf pos="N">työn johtaaminen</tf>
 
         <tCtn>
-          <t>ohjata</t>
+          <t pos="N">ohjata</t>
 
           <re>hevosta</re>
         </tCtn>
@@ -17484,9 +17484,9 @@
         <tf pos="N">loimilankojen luominen</tf>
 
         <tCtn>
-          <t>pingottaminen</t>
+          <t pos="N">pingottaminen</t>
 
-          <t>kiristäminen</t>
+          <t pos="N">kiristäminen</t>
 
           <re>loimi</re>
         </tCtn>
@@ -17574,7 +17574,7 @@
         <t pos="N">juokseminen</t>
 
         <tCtn>
-          <t>juokseminen</t>
+          <t pos="N">juokseminen</t>
 
           <re>nesteen</re>
         </tCtn>
@@ -17602,7 +17602,7 @@
         <t pos="N">jälsi</t>
 
         <tCtn>
-          <t>jälsi</t>
+          <t pos="N">jälsi</t>
 
           <re>heinä tai ruoho</re>
         </tCtn>
@@ -17664,7 +17664,7 @@
         <t pos="N">valuttaminen</t>
 
         <tCtn>
-          <t>pudottaminen</t>
+          <t pos="N">pudottaminen</t>
 
           <re>puu syyslehtiä</re>
         </tCtn>
@@ -19170,7 +19170,7 @@
         <tf pos="N">itsepäisenä oleminen</tf>
 
         <tCtn>
-          <t>niskoitella</t>
+          <t pos="N">niskoitella</t>
 
           <re>hevosesta</re>
         </tCtn>
@@ -19577,7 +19577,7 @@
         <td pos="N">noin 2 m</td>
 
         <tCtn>
-          <t>syli</t>
+          <t pos="N">syli</t>
 
           <re>mitta</re>
         </tCtn>
@@ -20891,9 +20891,9 @@
         <t pos="N">muhentuminen</t>
 
         <tCtn>
-          <t>kuohkeutuminen</t>
+          <t pos="N">kuohkeutuminen</t>
 
-          <t>muhentuminen</t>
+          <t pos="N">muhentuminen</t>
 
           <re>multa</re>
         </tCtn>
@@ -20927,13 +20927,13 @@
         <t pos="N">joukko</t>
 
         <tCtn>
-          <t>kasantuma</t>
+          <t pos="N">kasantuma</t>
 
           <re>hiirien</re>
         </tCtn>
 
         <tCtn>
-          <t>joukko</t>
+          <t pos="N">joukko</t>
 
           <re>lapsista</re>
         </tCtn>
@@ -21063,7 +21063,7 @@
         <t pos="N">hölläntyminen</t>
 
         <tCtn>
-          <t>höllä</t>
+          <t pos="N">höllä</t>
 
           <re>iho</re>
         </tCtn>
@@ -21149,7 +21149,7 @@
         <t pos="N">oksidointi</t>
 
         <tCtn>
-          <t>tummuminen</t>
+          <t pos="N">tummuminen</t>
 
           <re>hopea</re>
         </tCtn>
@@ -21227,7 +21227,7 @@
         <t pos="N">huolehtiminen</t>
 
         <tCtn>
-          <t>pieni jännitys</t>
+          <t pos="N">pieni jännitys</t>
 
           <re>mieli</re>
         </tCtn>
@@ -21563,7 +21563,7 @@
         <tf pos="N">vastaan puhuminen</tf>
 
         <tCtn>
-          <t>esiintyminen</t>
+          <t pos="N">esiintyminen</t>
 
           <re>konsertissä</re>
         </tCtn>
@@ -22209,7 +22209,7 @@
         <t pos="N">suokumpura</t>
 
         <tCtn>
-          <t>mätäs</t>
+          <t pos="N">mätäs</t>
 
           <re>suossa</re>
         </tCtn>
@@ -22767,7 +22767,7 @@
         <t pos="N">seuraukset</t>
 
         <tCtn>
-          <t>seuraukset</t>
+          <t pos="N">seuraukset</t>
 
           <re>tauti</re>
         </tCtn>
@@ -22835,7 +22835,7 @@
         <t pos="N">mahla</t>
 
         <tCtn>
-          <t>mahla</t>
+          <t pos="N">mahla</t>
 
           <re>koivun</re>
         </tCtn>
@@ -22873,7 +22873,7 @@
         <t pos="N">muratti</t>
 
         <tCtn>
-          <t>muratti</t>
+          <t pos="N">muratti</t>
 
           <re>vesikasvi; vesiheinä</re>
         </tCtn>
@@ -23578,9 +23578,9 @@
         <t pos="N">punoutuminen</t>
 
         <tCtn>
-          <t>kiertyminen</t>
+          <t pos="N">kiertyminen</t>
 
-          <t>punoutuminen</t>
+          <t pos="N">punoutuminen</t>
 
           <re>humala seiväässä</re>
         </tCtn>
@@ -23634,7 +23634,7 @@
         <tf pos="N">viiden arvoinen</tf>
 
         <tCtn>
-          <t>vitonen</t>
+          <t pos="N">vitonen</t>
 
           <re>raha</re>
         </tCtn>
@@ -23730,7 +23730,7 @@
         <t pos="N">pulkkosienet</t>
 
         <tCtn>
-          <t>rousku</t>
+          <t pos="N">rousku</t>
 
           <re>sieni</re>
         </tCtn>
@@ -23840,7 +23840,7 @@
         <t pos="N">verihyytymä</t>
 
         <tCtn>
-          <t>hyytynyt verikasa</t>
+          <t pos="N">hyytynyt verikasa</t>
 
           <re>teurastuspaikassa</re>
         </tCtn>
@@ -24263,7 +24263,7 @@
         <t pos="N">kapeneminen</t>
 
         <tCtn>
-          <t>kapeneminen</t>
+          <t pos="N">kapeneminen</t>
 
           <re>lanka</re>
         </tCtn>
@@ -28619,7 +28619,7 @@
         <t pos="N">desjatiina</t>
 
         <tCtn>
-          <t>desjatiina</t>
+          <t pos="N">desjatiina</t>
 
           <re>mittayksikkö</re>
         </tCtn>
@@ -31160,7 +31160,7 @@
         <t pos="A">kelvoton</t>
 
         <tCtn>
-          <t>kelvoton</t>
+          <t pos="N">kelvoton</t>
 
           <re>kiroilusana</re>
         </tCtn>
@@ -32560,7 +32560,7 @@
         <t pos="N">vetääminen</t>
 
         <tCtn>
-          <t>vetääminen</t>
+          <t pos="N">vetääminen</t>
 
           <re>kello</re>
         </tCtn>
@@ -34124,7 +34124,7 @@
         <t pos="N">vahingonteko</t>
 
         <tCtn>
-          <t>ilkivalta</t>
+          <t pos="N">ilkivalta</t>
 
           <re>linnunpesästä</re>
         </tCtn>
@@ -39195,7 +39195,7 @@
         <t pos="N">haka</t>
 
         <tCtn>
-          <t>suudin</t>
+          <t pos="N">suudin</t>
 
           <re>kirveellä</re>
         </tCtn>
@@ -39567,7 +39567,7 @@
         <t pos="N">lainamattomuus</t>
 
         <tCtn>
-          <t>lainamattomuus</t>
+          <t pos="N">lainamattomuus</t>
 
           <re>vain rahan lainaamisesta</re>
         </tCtn>
@@ -39593,7 +39593,7 @@
         <t pos="N">lainaaminen</t>
 
         <tCtn>
-          <t>lainaaminen</t>
+          <t pos="N">lainaaminen</t>
 
           <re>vain rahan lainaamisesta</re>
         </tCtn>
@@ -40579,7 +40579,7 @@
         <t pos="N">tasa-astuja</t>
 
         <tCtn>
-          <t>tasa-astuja</t>
+          <t pos="N">tasa-astuja</t>
 
           <re>hevonen</re>
         </tCtn>
@@ -40763,7 +40763,7 @@
         <t pos="N">sätely</t>
 
         <tCtn>
-          <t>säteleminen</t>
+          <t pos="N">säteleminen</t>
 
           <re>särystä</re>
         </tCtn>
@@ -41481,7 +41481,7 @@
         <t pos="N">niskoitteleminen</t>
 
         <tCtn>
-          <t>touhotus</t>
+          <t pos="N">touhotus</t>
 
           <re>hevosesta</re>
         </tCtn>
@@ -43367,9 +43367,9 @@
         <t pos="N">seimi</t>
 
         <tCtn>
-          <t>seimi</t>
+          <t pos="N">seimi</t>
 
-          <t>soimi</t>
+          <t pos="N">soimi</t>
 
           <re>myös kotieläinten</re>
         </tCtn>
@@ -44567,7 +44567,7 @@
         <t pos="N">syttyminen</t>
 
         <tCtn>
-          <t>syttyminen</t>
+          <t pos="N">syttyminen</t>
 
           <re>silmät hehkumaan</re>
         </tCtn>
@@ -48276,7 +48276,7 @@
         <t pos="N">kuivuminen</t>
 
         <tCtn>
-          <t>kovettuminen</t>
+          <t pos="N">kovettuminen</t>
 
           <re>maapinta</re>
         </tCtn>
@@ -48324,7 +48324,7 @@
         <t pos="N">kuivaaminen</t>
 
         <tCtn>
-          <t>kovettaminen</t>
+          <t pos="N">kovettaminen</t>
 
           <re>maapinnasta</re>
         </tCtn>
@@ -51934,7 +51934,7 @@
         <t pos="N">kiertyminen</t>
 
         <tCtn>
-          <t>takkuuntuminen</t>
+          <t pos="N">takkuuntuminen</t>
 
           <re>lanka</re>
         </tCtn>
@@ -52159,7 +52159,7 @@
         <t pos="N">rahastaja</t>
 
         <tCtn>
-          <t>talousosasto</t>
+          <t pos="N">talousosasto</t>
 
           <re>esim. koulussa</re>
         </tCtn>
@@ -57679,7 +57679,7 @@
         <t pos="N">yhteissuoli</t>
 
         <tCtn>
-          <t>yhteissuoli</t>
+          <t pos="N">yhteissuoli</t>
 
           <re>eläimillä</re>
         </tCtn>
@@ -59369,7 +59369,7 @@
         <t pos="N">valtti</t>
 
         <tCtn>
-          <t>valtti</t>
+          <t pos="N">valtti</t>
 
           <re>korttipelissä</re>
         </tCtn>
@@ -60365,7 +60365,7 @@
         <t pos="N">kelvoton</t>
 
         <tCtn>
-          <t>kelvoton</t>
+          <t pos="N">kelvoton</t>
 
           <re>kiroilusana</re>
         </tCtn>
@@ -63131,7 +63131,7 @@
         <t pos="N">neuvola</t>
 
         <tCtn>
-          <t>neuvola</t>
+          <t pos="N">neuvola</t>
 
           <re>poliklinikassa</re>
         </tCtn>
@@ -64636,7 +64636,7 @@
         <t pos="A">kelvoton</t>
 
         <tCtn>
-          <t>kelvoton ihminen</t>
+          <t pos="N">kelvoton ihminen</t>
 
           <re>kiroilusana</re>
         </tCtn>
@@ -64673,7 +64673,7 @@
         <t pos="A">kelvoton</t>
 
         <tCtn>
-          <t>kelvoton ihminen</t>
+          <t pos="N">kelvoton ihminen</t>
 
           <re>kiroilusana</re>
         </tCtn>
@@ -64883,7 +64883,7 @@
         <t pos="N">rivi</t>
 
         <tCtn>
-          <t>rivi</t>
+          <t pos="N">rivi</t>
 
           <re>kouluvihon</re>
         </tCtn>
@@ -67332,7 +67332,7 @@
         <t pos="N">kiristäminen</t>
 
         <tCtn>
-          <t>kiristäminen</t>
+          <t pos="N">kiristäminen</t>
 
           <re>ruuvi</re>
         </tCtn>
@@ -69168,7 +69168,7 @@
         <t pos="N">sotkeminen</t>
 
         <tCtn>
-          <t>sotkeminen</t>
+          <t pos="N">sotkeminen</t>
 
           <re>asioiden</re>
         </tCtn>
@@ -69194,7 +69194,7 @@
         <t pos="N">sotkeminen</t>
 
         <tCtn>
-          <t>sotkeminen</t>
+          <t pos="N">sotkeminen</t>
 
           <re>lankojen</re>
         </tCtn>
@@ -69690,7 +69690,7 @@
         <t pos="N">kuli</t>
 
         <tCtn>
-          <t>säkki</t>
+          <t pos="N">säkki</t>
 
           <re>jauhoja varten</re>
         </tCtn>
@@ -71325,7 +71325,7 @@
         <t pos="N">poreileminen</t>
 
         <tCtn>
-          <t>kupliminen</t>
+          <t pos="N">kupliminen</t>
 
           <re>veden pinnalla vesisateen aiheuttamat</re>
         </tCtn>
@@ -72100,7 +72100,7 @@
         <t pos="N">tykyttäminen</t>
 
         <tCtn>
-          <t>tykyttäminen</t>
+          <t pos="N">tykyttäminen</t>
 
           <re>sydämen</re>
         </tCtn>
@@ -74885,7 +74885,7 @@
         <t pos="N">astuminen</t>
 
         <tCtn>
-          <t>astuminen</t>
+          <t pos="N">astuminen</t>
 
           <re>eläimistä</re>
         </tCtn>
@@ -75977,7 +75977,7 @@
         <t pos="N">kammitsa</t>
 
         <tCtn>
-          <t>kammitsa</t>
+          <t pos="N">kammitsa</t>
 
           <re>hevosen etujalkojen sitoamiseksi</re>
         </tCtn>
@@ -83090,7 +83090,7 @@
         <t pos="N">kostuttaminen</t>
 
         <tCtn>
-          <t>kosteaksi</t>
+          <t pos="N">kosteaksi</t>
 
           <re>suola</re>
         </tCtn>
@@ -83116,7 +83116,7 @@
         <t pos="N">kostuminen</t>
 
         <tCtn>
-          <t>kostuminen</t>
+          <t pos="N">kostuminen</t>
 
           <re>suola</re>
         </tCtn>
@@ -85330,7 +85330,7 @@
         <t pos="N">lämmittäminen</t>
 
         <tCtn>
-          <t>lämmittäminen</t>
+          <t pos="N">lämmittäminen</t>
 
           <re>neste</re>
         </tCtn>
@@ -85356,7 +85356,7 @@
         <t pos="N">lämpeneminen</t>
 
         <tCtn>
-          <t>lämpeneminen</t>
+          <t pos="N">lämpeneminen</t>
 
           <re>neste</re>
         </tCtn>
@@ -85602,7 +85602,7 @@
         <t pos="N">poikiminen</t>
 
         <tCtn>
-          <t>poikiminen</t>
+          <t pos="N">poikiminen</t>
 
           <re>lehmä tai lammas</re>
         </tCtn>
@@ -94047,7 +94047,7 @@
         <t pos="N">istukas</t>
 
         <tCtn>
-          <t>istukas</t>
+          <t pos="N">istukas</t>
 
           <re>perunasta</re>
         </tCtn>
@@ -100833,13 +100833,13 @@
         <t pos="N">pari</t>
 
         <tCtn>
-          <t>pari</t>
+          <t pos="N">pari</t>
 
           <re>käsineistä</re>
         </tCtn>
 
         <tCtn>
-          <t>pari</t>
+          <t pos="N">pari</t>
 
           <re>jalkineista</re>
         </tCtn>
@@ -105657,7 +105657,7 @@
         <t pos="N">jännite</t>
 
         <tCtn>
-          <t>jännite</t>
+          <t pos="N">jännite</t>
 
           <re>sähköinen</re>
         </tCtn>
@@ -105860,7 +105860,7 @@
         <t pos="N">homehtuminen</t>
 
         <tCtn>
-          <t>homehtuminen</t>
+          <t pos="N">homehtuminen</t>
 
           <re>hapettunut neste</re>
         </tCtn>
@@ -109454,7 +109454,7 @@
         <t pos="N">turvottuma</t>
 
         <tCtn>
-          <t>turvottuma</t>
+          <t pos="N">turvottuma</t>
 
           <re>lehmällä</re>
         </tCtn>
@@ -109746,7 +109746,7 @@
         <t pos="N">vinkuminen</t>
 
         <tCtn>
-          <t>vinkuminen</t>
+          <t pos="N">vinkuminen</t>
 
           <re>porsas</re>
         </tCtn>
@@ -112655,7 +112655,7 @@
         <t pos="N">raivokohtaus</t>
 
         <tCtn>
-          <t>raivoaminen</t>
+          <t pos="N">raivoaminen</t>
 
           <re>ori</re>
         </tCtn>
@@ -112929,7 +112929,7 @@
         <t pos="N">raivoaminen</t>
 
         <tCtn>
-          <t>raivoaminen</t>
+          <t pos="N">raivoaminen</t>
 
           <re>ori</re>
         </tCtn>
@@ -113860,7 +113860,7 @@
         <t pos="N">pehmittäminen</t>
 
         <tCtn>
-          <t>pehmittäminen</t>
+          <t pos="N">pehmittäminen</t>
 
           <re>utare</re>
         </tCtn>
@@ -113886,7 +113886,7 @@
         <t pos="N">kerääntyminen</t>
 
         <tCtn>
-          <t>kerääntyminen</t>
+          <t pos="N">kerääntyminen</t>
 
           <re>maitoa utareessa</re>
         </tCtn>
@@ -141151,7 +141151,7 @@
         <t pos="N">nykäisy</t>
 
         <tCtn>
-          <t>nykäisy</t>
+          <t pos="N">nykäisy</t>
 
           <re>kalastuksessa</re>
         </tCtn>
@@ -147364,7 +147364,7 @@
         <t pos="N">lukuluokka</t>
 
         <tCtn>
-          <t>lukuluokka</t>
+          <t pos="N">lukuluokka</t>
 
           <re>matem: ykkösten lukuluokka</re>
         </tCtn>
@@ -150498,7 +150498,7 @@
         <t pos="N">mädäntyminen</t>
 
         <tCtn>
-          <t>mädäntyminen</t>
+          <t pos="N">mädäntyminen</t>
 
           <re>olki (aumassa)</re>
         </tCtn>
@@ -151259,7 +151259,7 @@
         <t pos="N">hevossairaus</t>
 
         <tCtn>
-          <t>sairaus</t>
+          <t pos="N">sairaus</t>
 
           <re>yksikavioisten</re>
         </tCtn>
@@ -152789,7 +152789,7 @@
         <t pos="N">huurre</t>
 
         <tCtn>
-          <t>kuura</t>
+          <t pos="N">kuura</t>
 
           <re>puissa</re>
         </tCtn>
@@ -153372,7 +153372,7 @@
         <t pos="N">pukki</t>
 
         <tCtn>
-          <t>pukki</t>
+          <t pos="N">pukki</t>
 
           <re>käsin sahaamista varten</re>
         </tCtn>
@@ -153492,7 +153492,7 @@
         <t pos="N">liina</t>
 
         <tCtn>
-          <t>pyyhe</t>
+          <t pos="N">pyyhe</t>
 
           <re>käsipyyhe</re>
         </tCtn>
@@ -153717,7 +153717,7 @@
         <t pos="N">kuivahtaminen</t>
 
         <tCtn>
-          <t>kuivahtaminen</t>
+          <t pos="N">kuivahtaminen</t>
 
           <re>puuastia</re>
         </tCtn>
@@ -157628,7 +157628,7 @@
         <t pos="N">idättäminen</t>
 
         <tCtn>
-          <t>idättäminen</t>
+          <t pos="N">idättäminen</t>
 
           <re>siemenperuna</re>
         </tCtn>
@@ -157654,7 +157654,7 @@
         <t pos="N">itäminen</t>
 
         <tCtn>
-          <t>itäminen</t>
+          <t pos="N">itäminen</t>
 
           <re>siemenperuna</re>
         </tCtn>
@@ -158972,7 +158972,7 @@
         <t pos="N">voimistuminen</t>
 
         <tCtn>
-          <t>voimistuminen</t>
+          <t pos="N">voimistuminen</t>
 
           <re>ääni</re>
         </tCtn>
@@ -163073,7 +163073,7 @@
         <t pos="N">pukki</t>
 
         <tCtn>
-          <t>pukki</t>
+          <t pos="N">pukki</t>
 
           <re>puun sahaamista varten</re>
         </tCtn>
@@ -167828,7 +167828,7 @@
         <t pos="N">jälkeiset</t>
 
         <tCtn>
-          <t>jälkeiset</t>
+          <t pos="N">jälkeiset</t>
 
           <re>eläimien</re>
         </tCtn>
@@ -170292,7 +170292,7 @@
         <t pos="N">hionta</t>
 
         <tCtn>
-          <t>kovaksi tallantuminen</t>
+          <t pos="N">kovaksi tallantuminen</t>
 
           <re>tie tai polku</re>
         </tCtn>
@@ -170988,7 +170988,7 @@
         <t pos="N">tiivistyminen</t>
 
         <tCtn>
-          <t>tiivistyminen</t>
+          <t pos="N">tiivistyminen</t>
 
           <re>maapinta</re>
         </tCtn>
@@ -175152,7 +175152,7 @@
         <t pos="N">siemen</t>
 
         <tCtn>
-          <t>siemen</t>
+          <t pos="N">siemen</t>
 
           <re>kasvin</re>
         </tCtn>
@@ -175160,7 +175160,7 @@
         <t pos="N">kivi</t>
 
         <tCtn>
-          <t>kivi</t>
+          <t pos="N">kivi</t>
 
           <re>hedelmän</re>
         </tCtn>
@@ -175168,7 +175168,7 @@
         <t pos="N">sydän</t>
 
         <tCtn>
-          <t>sydän</t>
+          <t pos="N">sydän</t>
 
           <re>pähkinän</re>
         </tCtn>
@@ -175758,7 +175758,7 @@
         <t pos="N">poikittaisluu</t>
 
         <tCtn>
-          <t>poikittaisluu</t>
+          <t pos="N">poikittaisluu</t>
 
           <re>eläimen</re>
         </tCtn>
@@ -176351,7 +176351,7 @@
         <t pos="N">rätinä</t>
 
         <tCtn>
-          <t>rätinä</t>
+          <t pos="N">rätinä</t>
 
           <re>koneen</re>
         </tCtn>
@@ -176463,7 +176463,7 @@
         <t pos="N">selkäpuoli</t>
 
         <tCtn>
-          <t>selkäpuoli</t>
+          <t pos="N">selkäpuoli</t>
 
           <re>sahan</re>
         </tCtn>
@@ -177884,7 +177884,7 @@
         <t pos="N">haulit</t>
 
         <tCtn>
-          <t>haulit</t>
+          <t pos="N">haulit</t>
 
           <re>aseen</re>
         </tCtn>
@@ -177973,7 +177973,7 @@
         <t pos="N">haulit</t>
 
         <tCtn>
-          <t>haulit</t>
+          <t pos="N">haulit</t>
 
           <re>aseen</re>
         </tCtn>
@@ -180326,7 +180326,7 @@
         <t pos="N">erottaminen</t>
 
         <tCtn>
-          <t>erottaminen</t>
+          <t pos="N">erottaminen</t>
 
           <re>tappelijoiden</re>
         </tCtn>
@@ -181753,7 +181753,7 @@
         <t pos="N">tyyntyminen</t>
 
         <tCtn>
-          <t>tyyntyminen</t>
+          <t pos="N">tyyntyminen</t>
 
           <re>tuuli</re>
         </tCtn>
@@ -181891,7 +181891,7 @@
         <t pos="N">paikkaus</t>
 
         <tCtn>
-          <t>paikkaus</t>
+          <t pos="N">paikkaus</t>
 
           <re>vanhan rakennuksen</re>
         </tCtn>
@@ -183198,7 +183198,7 @@
         <t pos="N">raastaminen</t>
 
         <tCtn>
-          <t>raastaminen</t>
+          <t pos="N">raastaminen</t>
 
           <re>vihannesten</re>
         </tCtn>
@@ -183332,7 +183332,7 @@
         <t pos="N">sähiseminen</t>
 
         <tCtn>
-          <t>sähiseminen</t>
+          <t pos="N">sähiseminen</t>
 
           <re>vanhiemon</re>
         </tCtn>
@@ -183810,7 +183810,7 @@
         <t pos="N">soiminen</t>
 
         <tCtn>
-          <t>soiminen</t>
+          <t pos="N">soiminen</t>
 
           <re>korvassa</re>
         </tCtn>
@@ -185315,7 +185315,7 @@
         <t pos="N">oikaisuhoito</t>
 
         <tCtn>
-          <t>oikaisuhoito</t>
+          <t pos="N">oikaisuhoito</t>
 
           <re>hampaiden</re>
         </tCtn>
@@ -185405,7 +185405,7 @@
         <t pos="N">oikaisemishoito</t>
 
         <tCtn>
-          <t>oikaisemishoito</t>
+          <t pos="N">oikaisemishoito</t>
 
           <re>hampaiden</re>
         </tCtn>
@@ -185615,7 +185615,7 @@
         <t pos="N">papatus</t>
 
         <tCtn>
-          <t>papatus</t>
+          <t pos="N">papatus</t>
 
           <re>vanhempi teini-ikäiselle</re>
         </tCtn>
@@ -185627,7 +185627,7 @@
         <t pos="N">rätiseminen</t>
 
         <tCtn>
-          <t>rätiseminen</t>
+          <t pos="N">rätiseminen</t>
 
           <re>aseen</re>
         </tCtn>
@@ -185739,7 +185739,7 @@
         <t pos="N">lisäys</t>
 
         <tCtn>
-          <t>lisäys</t>
+          <t pos="N">lisäys</t>
 
           <re>nuoren karjan</re>
         </tCtn>
@@ -185855,7 +185855,7 @@
         <t pos="N">lisääntyminen</t>
 
         <tCtn>
-          <t>lisääntyminen</t>
+          <t pos="N">lisääntyminen</t>
 
           <re>eläinten</re>
         </tCtn>
@@ -186497,7 +186497,7 @@
         <t pos="N">tökkiminen</t>
 
         <tCtn>
-          <t>nykiminen</t>
+          <t pos="N">nykiminen</t>
 
           <re>hihasta</re>
         </tCtn>
@@ -186807,7 +186807,7 @@
         <t pos="N">tyvi</t>
 
         <tCtn>
-          <t>tyvi</t>
+          <t pos="N">tyvi</t>
 
           <re>puun</re>
         </tCtn>
@@ -187343,7 +187343,7 @@
         <tf pos="N">hyppiminen silmille</tf>
 
         <tCtn>
-          <t>hyppiminen silmille</t>
+          <t pos="N">hyppiminen silmille</t>
 
           <re>teini-ikäisestä</re>
         </tCtn>
@@ -187914,7 +187914,7 @@
         <t pos="N">kuluminen</t>
 
         <tCtn>
-          <t>kuluminen</t>
+          <t pos="N">kuluminen</t>
 
           <re>vaatteet</re>
         </tCtn>
@@ -188688,7 +188688,7 @@
         <t pos="N">aksentti</t>
 
         <tCtn>
-          <t>aksentti</t>
+          <t pos="N">aksentti</t>
 
           <re>muusikassa</re>
         </tCtn>
@@ -193780,7 +193780,7 @@
         <t pos="N">käytävä</t>
 
         <tCtn>
-          <t>käytävä</t>
+          <t pos="N">käytävä</t>
 
           <re>rakennuksessa</re>
         </tCtn>
@@ -195591,7 +195591,7 @@
         <tf pos="N">yksivuotinen puu</tf>
 
         <tCtn>
-          <t>yksivuotinen</t>
+          <t pos="N">yksivuotinen</t>
 
           <re>puu tai pensas</re>
         </tCtn>
@@ -195875,7 +195875,7 @@
         <t pos="N">koukku</t>
 
         <tCtn>
-          <t>koukku</t>
+          <t pos="N">koukku</t>
 
           <re>ongen</re>
         </tCtn>
@@ -195885,7 +195885,7 @@
         <t pos="N">жало</t>
 
         <tCtn>
-          <t>жало</t>
+          <t pos="N">жало</t>
 
           <re>насекомых</re>
         </tCtn>
@@ -198110,7 +198110,7 @@
         <t pos="N">jyrinä</t>
 
         <tCtn>
-          <t>jyrinä</t>
+          <t pos="N">jyrinä</t>
 
           <re>ukkosen</re>
         </tCtn>
@@ -198136,7 +198136,7 @@
         <t pos="N">jyrinä</t>
 
         <tCtn>
-          <t>jyrinä</t>
+          <t pos="N">jyrinä</t>
 
           <re>ukkosen</re>
         </tCtn>
@@ -198189,7 +198189,7 @@
         <tf pos="N">heinäkasvien pölytys</tf>
 
         <tCtn>
-          <t>siitepöly</t>
+          <t pos="N">siitepöly</t>
 
           <re>heinäkasvit</re>
         </tCtn>
@@ -198796,7 +198796,7 @@
         <t pos="N">rauhastulehdus</t>
 
         <tCtn>
-          <t>rauhastulehdus</t>
+          <t pos="N">rauhastulehdus</t>
 
           <re>hevosilla</re>
         </tCtn>
@@ -199766,7 +199766,7 @@
         <t pos="N">ähky</t>
 
         <tCtn>
-          <t>ähky</t>
+          <t pos="N">ähky</t>
 
           <re>kotieläinten</re>
         </tCtn>
@@ -199939,7 +199939,7 @@
         <t pos="N">nilkka</t>
 
         <tCtn>
-          <t>nilkka</t>
+          <t pos="N">nilkka</t>
 
           <re>linnuilla</re>
         </tCtn>
@@ -201667,7 +201667,7 @@
         <tf pos="N">piirroksen teko</tf>
 
         <tCtn>
-          <t>piirroksen teko</t>
+          <t pos="N">piirroksen teko</t>
 
           <re>kirvesmiesten</re>
         </tCtn>
@@ -201793,7 +201793,7 @@
         <tf pos="N">kirkas tulipalo</tf>
 
         <tCtn>
-          <t>kirkas tulipalo</t>
+          <t pos="N">kirkas tulipalo</t>
 
           <re>pystyuunissa</re>
         </tCtn>
@@ -204424,7 +204424,7 @@
         <t pos="N">äksyily</t>
 
         <tCtn>
-          <t>äksyily</t>
+          <t pos="N">äksyily</t>
 
           <re>hevosen</re>
         </tCtn>
@@ -204432,7 +204432,7 @@
         <t pos="N">oikkuilu</t>
 
         <tCtn>
-          <t>oikkuilu</t>
+          <t pos="N">oikkuilu</t>
 
           <re>hevosen</re>
         </tCtn>
@@ -204691,7 +204691,7 @@
         <t pos="N">väri</t>
 
         <tCtn>
-          <t>väri</t>
+          <t pos="N">väri</t>
 
           <re>eläimillä</re>
         </tCtn>
@@ -207200,7 +207200,7 @@
         <t pos="N">onnistuminen</t>
 
         <tCtn>
-          <t>onnistuminen</t>
+          <t pos="N">onnistuminen</t>
 
           <re>tehtävän-annossa</re>
         </tCtn>
@@ -211458,7 +211458,7 @@
         <t pos="N">konealusta</t>
 
         <tCtn>
-          <t>konealusta</t>
+          <t pos="N">konealusta</t>
 
           <re>auton</re>
         </tCtn>
@@ -211466,7 +211466,7 @@
         <t pos="N">laskuteline</t>
 
         <tCtn>
-          <t>laskuteline</t>
+          <t pos="N">laskuteline</t>
 
           <re>lentokoneen</re>
         </tCtn>
@@ -211666,7 +211666,7 @@
         <t pos="N">kantaminen</t>
 
         <tCtn>
-          <t>kantaminen</t>
+          <t pos="N">kantaminen</t>
 
           <re>viljan</re>
         </tCtn>
@@ -212266,7 +212266,7 @@
         <td pos="N">rasvan kerääntyminen eläimillä</td>
 
         <tCtn>
-          <t>lihominen</t>
+          <t pos="N">lihominen</t>
 
           <re>eläinten</re>
         </tCtn>
@@ -212642,7 +212642,7 @@
         <t pos="N">hikoaminen</t>
 
         <tCtn>
-          <t>hikoaminen</t>
+          <t pos="N">hikoaminen</t>
 
           <re>ikkunoiden</re>
         </tCtn>
@@ -213569,7 +213569,7 @@
         <t pos="N">päällystakki</t>
 
         <tCtn>
-          <t>päällystakki</t>
+          <t pos="N">päällystakki</t>
 
           <re>virkapuvun</re>
         </tCtn>
@@ -214201,7 +214201,7 @@
         <t pos="N">kolhiintuminen</t>
 
         <tCtn>
-          <t>kolhiintuminen</t>
+          <t pos="N">kolhiintuminen</t>
 
           <re>hedelmien</re>
         </tCtn>
@@ -214692,7 +214692,7 @@
         <t pos="N">kohiseminen</t>
 
         <tCtn>
-          <t>kohiseminen</t>
+          <t pos="N">kohiseminen</t>
 
           <re>tuulen tai vesisateen</re>
         </tCtn>
@@ -217561,7 +217561,7 @@
 
         <td pos="N">nahkaleili (JK_)</td>
 
-        <t>nahkaleili (JK)</t>
+        <t pos="N">nahkaleili (JK)</t>
       </tg>
     </mg>
   </e>
@@ -219817,7 +219817,7 @@
         <t pos="N">pistin</t>
 
         <tCtn>
-          <t>pistin</t>
+          <t pos="N">pistin</t>
 
           <re>hyönteisen</re>
         </tCtn>
@@ -220120,7 +220120,7 @@
         <t pos="N">väsyminen</t>
 
         <tCtn>
-          <t>väsyminen</t>
+          <t pos="N">väsyminen</t>
 
           <re>ruumiinjäsenen</re>
         </tCtn>
@@ -220264,7 +220264,7 @@
         <t pos="N">hävittäminen</t>
 
         <tCtn>
-          <t>hävittäminen</t>
+          <t pos="N">hävittäminen</t>
 
           <re>linnunpesän</re>
         </tCtn>
@@ -221119,7 +221119,7 @@
         <t pos="N">piikki</t>
 
         <tCtn>
-          <t>piikki</t>
+          <t pos="N">piikki</t>
 
           <re>kukon jalassa</re>
         </tCtn>
@@ -221383,7 +221383,7 @@
         <t pos="N">syli</t>
 
         <tCtn>
-          <t>syli</t>
+          <t pos="N">syli</t>
 
           <re>mittayksikkö</re>
         </tCtn>
@@ -222890,7 +222890,7 @@
         <t pos="N">kieltäytyminen</t>
 
         <tCtn>
-          <t>kieltäytyminen</t>
+          <t pos="N">kieltäytyminen</t>
 
           <re>verukkeella</re>
         </tCtn>
@@ -222902,7 +222902,7 @@
         <t pos="N">väljähtyminen</t>
 
         <tCtn>
-          <t>väljähtyminen</t>
+          <t pos="N">väljähtyminen</t>
 
           <re>oluen</re>
         </tCtn>
@@ -222910,7 +222910,7 @@
         <t pos="N">asettuminen</t>
 
         <tCtn>
-          <t>asettuminen</t>
+          <t pos="N">asettuminen</t>
 
           <re>vihan</re>
         </tCtn>
@@ -222918,7 +222918,7 @@
         <t pos="N">tyyntyminen</t>
 
         <tCtn>
-          <t>tyyntyminen</t>
+          <t pos="N">tyyntyminen</t>
 
           <re>hermostumisesta tms</re>
         </tCtn>
@@ -224128,7 +224128,7 @@
         <t pos="N">löystyminen</t>
 
         <tCtn>
-          <t>löysystyminen</t>
+          <t pos="N">löysystyminen</t>
 
           <re>nyörin</re>
         </tCtn>
@@ -226012,7 +226012,7 @@
         <t pos="N">seitsemänkymppinen</t>
 
         <tCtn>
-          <t>seitsemänkymppinen</t>
+          <t pos="N">seitsemänkymppinen</t>
 
           <re>seteli</re>
         </tCtn>
@@ -226430,7 +226430,7 @@
         <t pos="N">verkkohattu</t>
 
         <tCtn>
-          <t>verkkohattu</t>
+          <t pos="N">verkkohattu</t>
 
           <re>mehiläissuoja</re>
         </tCtn>
@@ -226460,7 +226460,7 @@
         <tf pos="N">mehiläishoitajien hattu</tf>
 
         <tCtn>
-          <t>verkkohattu</t>
+          <t pos="N">verkkohattu</t>
 
           <re>mehiläishoidossa</re>
         </tCtn>
@@ -227150,7 +227150,7 @@
         <t pos="N">karheutuminen</t>
 
         <tCtn>
-          <t>karheutuminen</t>
+          <t pos="N">karheutuminen</t>
 
           <re>puuastia kulutuksesta</re>
         </tCtn>
@@ -227242,7 +227242,7 @@
         <t pos="N">tikku</t>
 
         <tCtn>
-          <t>tikku</t>
+          <t pos="N">tikku</t>
 
           <re>ihossa</re>
         </tCtn>
@@ -227520,7 +227520,7 @@
         <tf pos="N">heinäkasvien pölytys</tf>
 
         <tCtn>
-          <t>siitepöly</t>
+          <t pos="N">siitepöly</t>
 
           <re>heinäkasvit</re>
         </tCtn>
@@ -227776,7 +227776,7 @@
         <t pos="N">levittäminen</t>
 
         <tCtn>
-          <t>levittäminen</t>
+          <t pos="N">levittäminen</t>
 
           <re>voin</re>
         </tCtn>
@@ -227918,7 +227918,7 @@
         <t pos="N">jumittuminen</t>
 
         <tCtn>
-          <t>jumittuminen</t>
+          <t pos="N">jumittuminen</t>
 
           <re>kuraan</re>
         </tCtn>
@@ -228879,7 +228879,7 @@
         <td>sopiva sauma</td>
 
         <tCtn>
-          <t>ынгайым вычем (Сав:379)</t>
+          <t pos="N">ынгайым вычем (Сав:379)</t>
 
           <re>odotan sopivaa hetkeä</re>
         </tCtn>
@@ -229109,7 +229109,7 @@
         <t pos="N">kulkunen</t>
 
         <tCtn>
-          <t>онгырым ышкал шӱэш сӓкӹмӹ (Сав:379)</t>
+          <t pos="N">онгырым ышкал шӱэш сӓкӹмӹ (Сав:379)</t>
 
           <re>lehmän kaulaan on ripustettu kilistin</re>
         </tCtn>
@@ -230142,7 +230142,7 @@
         <t pos="N">suupaltti (kuv.)</t>
 
         <tCtn>
-          <t>кого ышмараж (2008:382)</t>
+          <t pos="N">кого ышмараж (2008:382)</t>
 
           <re>suunpieksijä lörpöttelijä</re>
         </tCtn>
@@ -233475,7 +233475,7 @@
         <t pos="N">kuiskaus</t>
 
         <tCtn>
-          <t>kuiskaus</t>
+          <t pos="N">kuiskaus</t>
 
           <re>lintujen eläinten</re>
         </tCtn>
@@ -233581,7 +233581,7 @@
         <t pos="N">viileneminen</t>
 
         <tCtn>
-          <t>kylmeneminen</t>
+          <t pos="N">kylmeneminen</t>
 
           <re>tunteen mielenkiinnon</re>
         </tCtn>
@@ -233861,7 +233861,7 @@
         <t pos="N">sataaminen</t>
 
         <tCtn>
-          <t>sataaminen</t>
+          <t pos="N">sataaminen</t>
 
           <re>vesisateen</re>
         </tCtn>
@@ -234186,7 +234186,7 @@
         <t pos="N">lainaaminen</t>
 
         <tCtn>
-          <t>lainaaminen</t>
+          <t pos="N">lainaaminen</t>
 
           <re>tavaran</re>
         </tCtn>
@@ -234254,7 +234254,7 @@
         <t pos="N">leviäminen</t>
 
         <tCtn>
-          <t>leviäminen</t>
+          <t pos="N">leviäminen</t>
 
           <re>taikinan</re>
         </tCtn>
@@ -236529,7 +236529,7 @@
         <t pos="N">ala</t>
 
         <tCtn>
-          <t>ala</t>
+          <t pos="N">ala</t>
 
           <re>(с-х.)</re>
         </tCtn>
@@ -237384,7 +237384,7 @@
         <tf pos="N">notkistus</tf>
 
         <tCtn>
-          <t>notkistus</t>
+          <t pos="N">notkistus</t>
 
           <re>selän</re>
         </tCtn>
@@ -238123,7 +238123,7 @@
         <t pos="N">suu</t>
 
         <tCtn>
-          <t>suu</t>
+          <t pos="N">suu</t>
 
           <re>esineen</re>
 
@@ -238133,7 +238133,7 @@
         <t pos="N">kaula</t>
 
         <tCtn>
-          <t>kaula</t>
+          <t pos="N">kaula</t>
 
           <re>astian</re>
         </tCtn>
@@ -238141,7 +238141,7 @@
         <t pos="N">suu</t>
 
         <tCtn>
-          <t>suu</t>
+          <t pos="N">suu</t>
 
           <re>joen</re>
         </tCtn>
@@ -239324,7 +239324,7 @@
         <tf pos="N">verkon kutoaminen</tf>
 
         <tCtn>
-          <t>verkon kutoaminen</t>
+          <t pos="N">verkon kutoaminen</t>
 
           <re>hämähäkin</re>
         </tCtn>
@@ -239560,7 +239560,7 @@
         <t pos="N">luonne</t>
 
         <tCtn>
-          <t>luonne</t>
+          <t pos="N">luonne</t>
 
           <re>hevosen</re>
         </tCtn>
@@ -239568,7 +239568,7 @@
         <t pos="N">vikuri</t>
 
         <tCtn>
-          <t>vikuri</t>
+          <t pos="N">vikuri</t>
 
           <re>hevonen</re>
         </tCtn>
@@ -239576,7 +239576,7 @@
         <td pos="N">oikku (kuv.merk.)</td>
 
         <tCtn>
-          <t>oikku</t>
+          <t pos="N">oikku</t>
 
           <re>ihmisen</re>
         </tCtn>
@@ -239610,7 +239610,7 @@
         <t pos="N">äksyily</t>
 
         <tCtn>
-          <t>äksyily</t>
+          <t pos="N">äksyily</t>
 
           <re>hevonen</re>
         </tCtn>
@@ -239620,7 +239620,7 @@
         <t pos="N">oikkuilu</t>
 
         <tCtn>
-          <t>oikkuilu</t>
+          <t pos="N">oikkuilu</t>
 
           <re>ihminen</re>
         </tCtn>
@@ -240996,7 +240996,7 @@
         <t pos="N">pakkolihottaminen</t>
 
         <tCtn>
-          <t>pakkolihottaminen</t>
+          <t pos="N">pakkolihottaminen</t>
 
           <re>sikoja</re>
         </tCtn>
@@ -243263,7 +243263,7 @@
         <t pos="N">juurtuminen</t>
 
         <tCtn>
-          <t>juurtuminen</t>
+          <t pos="N">juurtuminen</t>
 
           <re>istutetun-puun</re>
         </tCtn>
