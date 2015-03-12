@@ -13308,7 +13308,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv"/>
+        <t pos="Adv">hyvin</t>
+        <t pos="Adv">erittäin</t>
       </tg>
     </mg>
   </e>
@@ -15334,7 +15335,7 @@
       <tg xml:lang="rus">
         <td pos="Adv">на короткий промежуток времени _j_</td>
 
-        <tf pos="Adv">на минутку</tf>
+        <t pos="Adv">на минутку</t>
       </tg>
 
       <xg>
@@ -15368,9 +15369,9 @@
       <tg xml:lang="fin">
         <t pos="Adv">paikoittain</t>
 
-        <tf pos="Adv">paikka paikoin</tf>
+        <t pos="Adv">paikka paikoin</t>
 
-        <tf pos="Adv">aika ajoin</tf>
+        <t pos="Adv">aika ajoin</t>
 
         <td pos="Adv">ajallisesti välillä</td>
       </tg>
