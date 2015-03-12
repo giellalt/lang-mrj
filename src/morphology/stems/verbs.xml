@@ -186,13 +186,13 @@
         <t pos="V">suurennella</t>
 
         <tCtn>
-          <t>pöyhiä</t>
+          <t pos="V">pöyhiä</t>
 
           <re>heinää</re>
         </tCtn>
 
         <tCtn>
-          <t>puhaltaa</t>
+          <t pos="V">puhaltaa</t>
 
           <re>kuplaa</re>
         </tCtn>
@@ -625,9 +625,9 @@
         <t pos="V">kiusoitella</t>
 
         <tCtn>
-          <t>kiusoitella</t>
+          <t pos="V">kiusoitella</t>
 
-          <t>kiusata</t>
+          <t pos="V">kiusata</t>
 
           <re>eläimiä</re>
         </tCtn>
@@ -1019,9 +1019,9 @@
         <t pos="V">lähteä pois työstä</t>
 
         <tCtn>
-          <t>muodostaa parvi</t>
+          <t pos="V">muodostaa parvi</t>
 
-          <t>parveutua</t>
+          <t pos="V">parveutua</t>
 
           <re>mehiläiset</re>
         </tCtn>
@@ -1190,13 +1190,13 @@
         <t pos="V">värjäytyä vahingossa</t>
 
         <tCtn>
-          <t>värjäytyä vahingossa</t>
+          <t pos="V">värjäytyä vahingossa</t>
 
           <re>pyykkipesussa</re>
         </tCtn>
 
         <tCtn>
-          <t>seljetä</t>
+          <t pos="V">seljetä</t>
 
           <re>taivas</re>
         </tCtn>
@@ -1524,7 +1524,7 @@
         <t pos="V">piimiä</t>
 
         <tCtn>
-          <t>hapannuttaa</t>
+          <t pos="V">hapannuttaa</t>
 
           <re>maitoa</re>
         </tCtn>
@@ -1550,7 +1550,7 @@
         <t pos="V">venyä</t>
 
         <tCtn>
-          <t>venyä</t>
+          <t pos="V">venyä</t>
 
           <re>kangas</re>
         </tCtn>
@@ -2124,7 +2124,7 @@
         <t pos="V">olla raivotaudissa</t>
 
         <tCtn>
-          <t>olla raivotaudissa</t>
+          <t pos="V">olla raivotaudissa</t>
 
           <re>eläin</re>
         </tCtn>
@@ -3232,7 +3232,7 @@
         <t pos="V">antaa juurtua</t>
 
         <tCtn>
-          <t>luoda suotuista olot juurtumiselle</t>
+          <t pos="V">luoda suotuista olot juurtumiselle</t>
 
           <re>puutarhassa</re>
         </tCtn>
@@ -3260,7 +3260,7 @@
         <t pos="V">haarautua</t>
 
         <tCtn>
-          <t>haljeta</t>
+          <t pos="V">haljeta</t>
 
           <re>puu kahtia</re>
         </tCtn>
@@ -3316,7 +3316,7 @@
         <t pos="V">saattaa häpeään</t>
 
         <tCtn>
-          <t>häkellyttää</t>
+          <t pos="V">häkellyttää</t>
 
           <re>hämilleen</re>
         </tCtn>
@@ -4401,7 +4401,7 @@
         <t pos="V">valua yli</t>
 
         <tCtn>
-          <t>putoilla</t>
+          <t pos="V">putoilla</t>
 
           <re>syyslehdet</re>
         </tCtn>
@@ -5429,7 +5429,7 @@
         <t pos="V">myydä itsensä</t>
 
         <tCtn>
-          <t>myydä itsensä</t>
+          <t pos="V">myydä itsensä</t>
 
           <re>viholliselle</re>
         </tCtn>
@@ -6466,7 +6466,7 @@
         <t pos="V">höyryyntyä</t>
 
         <tCtn>
-          <t>hikoa</t>
+          <t pos="V">hikoa</t>
 
           <re>ikkunat</re>
         </tCtn>
@@ -6708,7 +6708,7 @@
         <t pos="V">karkottaa</t>
 
         <tCtn>
-          <t>pölyttää</t>
+          <t pos="V">pölyttää</t>
 
           <re>tiellä</re>
         </tCtn>
@@ -7048,7 +7048,7 @@
         <t pos="V">esittää sankaria</t>
 
         <tCtn>
-          <t>tärkeillä</t>
+          <t pos="V">tärkeillä</t>
 
           <re>ryhmässä</re>
         </tCtn>
@@ -7116,7 +7116,7 @@
         <t pos="V">sammua</t>
 
         <tCtn>
-          <t>sammua</t>
+          <t pos="V">sammua</t>
 
           <re>moottori</re>
         </tCtn>
@@ -7144,7 +7144,7 @@
         <t pos="V">vaimentaa</t>
 
         <tCtn>
-          <t>sammuttaa</t>
+          <t pos="V">sammuttaa</t>
 
           <re>moottori</re>
         </tCtn>
@@ -7194,7 +7194,7 @@
         <t pos="V">naamioitua</t>
 
         <tCtn>
-          <t>olla meikattavana</t>
+          <t pos="V">olla meikattavana</t>
 
           <re>näyttelijä</re>
         </tCtn>
@@ -7220,7 +7220,7 @@
         <t pos="V">laittaa meikkiä</t>
 
         <tCtn>
-          <t>laittaa meikkiä</t>
+          <t pos="V">laittaa meikkiä</t>
 
           <re>näyttelijälle, tv-esiintyjälle</re>
         </tCtn>
@@ -7256,7 +7256,7 @@
         <t pos="V">kuormata tavaroilla</t>
 
         <tCtn>
-          <t>kuormittaa</t>
+          <t pos="V">kuormittaa</t>
 
           <re>kysymyksillä, asioilla</re>
         </tCtn>
@@ -7294,7 +7294,7 @@
         <t pos="V">kemuilla</t>
 
         <tCtn>
-          <t>olla kiimassa</t>
+          <t pos="V">olla kiimassa</t>
 
           <re>lehmä</re>
         </tCtn>
@@ -8652,7 +8652,7 @@
         <t pos="V">irtoa</t>
 
         <tCtn>
-          <t>kesiä</t>
+          <t pos="V">kesiä</t>
 
           <re>nahka</re>
         </tCtn>
@@ -8882,7 +8882,7 @@
         <t pos="V">muuttua raikkaaksi</t>
 
         <tCtn>
-          <t>muuttua raikkaaksi</t>
+          <t pos="V">muuttua raikkaaksi</t>
 
           <re>vesi</re>
         </tCtn>
@@ -8908,7 +8908,7 @@
         <t pos="V">puhdistaa</t>
 
         <tCtn>
-          <t>puhdistaa</t>
+          <t pos="V">puhdistaa</t>
 
           <re>vesikaivoa</re>
         </tCtn>
@@ -9845,7 +9845,7 @@
         <t pos="V">kiirehtiä</t>
 
         <tCtn>
-          <t>ajaa hölkkää</t>
+          <t pos="V">ajaa hölkkää</t>
 
           <re>hevonen</re>
         </tCtn>
@@ -10486,7 +10486,7 @@
         <t pos="V">muuttua mureaksi</t>
 
         <tCtn>
-          <t>muuttua mureaksi</t>
+          <t pos="V">muuttua mureaksi</t>
 
           <re>peruna</re>
         </tCtn>
@@ -10594,7 +10594,7 @@
         <t pos="V">sammaltua</t>
 
         <tCtn>
-          <t>lahota</t>
+          <t pos="V">lahota</t>
 
           <re>puu</re>
         </tCtn>
@@ -11178,7 +11178,7 @@
         <t pos="V">sammua</t>
 
         <tCtn>
-          <t>sammua</t>
+          <t pos="V">sammua</t>
 
           <re>tuli</re>
         </tCtn>
@@ -11564,7 +11564,7 @@
         <t pos="V">kasvaa kauhtuneena</t>
 
         <tCtn>
-          <t>kasvaa vaivalloisesti</t>
+          <t pos="V">kasvaa vaivalloisesti</t>
 
           <re>taimi</re>
         </tCtn>
@@ -12322,7 +12322,7 @@
         <t pos="V">muuttua mureaksi</t>
 
         <tCtn>
-          <t>muuttua mureaksi</t>
+          <t pos="V">muuttua mureaksi</t>
 
           <re>peruna</re>
         </tCtn>
@@ -12370,7 +12370,7 @@
         <t pos="V">muuttua vähitellen jauhomaiseksi</t>
 
         <tCtn>
-          <t>muuttua vähitellen jauhomaiseksi</t>
+          <t pos="V">muuttua vähitellen jauhomaiseksi</t>
 
           <re>omena</re>
         </tCtn>
@@ -12642,7 +12642,7 @@
         <t pos="V">pilaantua</t>
 
         <tCtn>
-          <t>kipristyä</t>
+          <t pos="V">kipristyä</t>
 
           <re>tuomenmarjat kylmästä</re>
         </tCtn>
@@ -12722,7 +12722,7 @@
         <t pos="V">kuivahtaa</t>
 
         <tCtn>
-          <t>kuivua</t>
+          <t pos="V">kuivua</t>
 
           <re>maapinta</re>
         </tCtn>
@@ -12780,7 +12780,7 @@
         <t pos="V">rapautua</t>
 
         <tCtn>
-          <t>rapautua</t>
+          <t pos="V">rapautua</t>
 
           <re>maa</re>
         </tCtn>
@@ -13139,7 +13139,7 @@
         <t pos="V">tehdä karheaksi</t>
 
         <tCtn>
-          <t>tehdä karkeaksi</t>
+          <t pos="V">tehdä karkeaksi</t>
 
           <re>villa; kangas; nahkakäsineet</re>
         </tCtn>
@@ -13289,7 +13289,7 @@
         <t pos="V">kovettaa</t>
 
         <tCtn>
-          <t>kovettaa</t>
+          <t pos="V">kovettaa</t>
 
           <re>maapintaa</re>
         </tCtn>
@@ -13319,7 +13319,7 @@
         <t pos="V">kovettua</t>
 
         <tCtn>
-          <t>kovettuu</t>
+          <t pos="V">kovettuu</t>
 
           <re>maapinta</re>
         </tCtn>
@@ -13431,7 +13431,7 @@
         <t pos="V">paahtaa kevyesti pannulla</t>
 
         <tCtn>
-          <t>kevyesti paahtaa pannulla</t>
+          <t pos="V">kevyesti paahtaa pannulla</t>
 
           <re>pähkinöitä</re>
         </tCtn>
@@ -13851,7 +13851,7 @@
         <t pos="V">ylikiertyä</t>
 
         <tCtn>
-          <t>ylikiertyä</t>
+          <t pos="V">ylikiertyä</t>
 
           <re>kehruulanka</re>
         </tCtn>
@@ -14443,7 +14443,7 @@
         <t pos="V">seurustella</t>
 
         <tCtn>
-          <t>pariutua</t>
+          <t pos="V">pariutua</t>
 
           <re>eläimet</re>
         </tCtn>
@@ -15203,11 +15203,11 @@
         <td pos="V">ilmaistaan myös tekemisen päättyneisyyttä</td>
 
         <tCtn>
-          <t>lähetä</t>
+          <t pos="V">lähetä</t>
 
-          <t>lähestyä</t>
+          <t pos="V">lähestyä</t>
 
-          <t>lähentyä</t>
+          <t pos="V">lähentyä</t>
 
           <re>aika</re>
         </tCtn>
@@ -16305,7 +16305,7 @@
         <t pos="V">kertoa</t>
 
         <tCtn>
-          <t>kertoa</t>
+          <t pos="V">kertoa</t>
 
           <re>juttuja</re>
         </tCtn>
@@ -18309,7 +18309,7 @@
         <t pos="V">narahdella lunta vasten</t>
 
         <tCtn>
-          <t>narahtelee lunta vasten</t>
+          <t pos="V">narahtelee lunta vasten</t>
 
           <re>reki</re>
         </tCtn>
@@ -18445,19 +18445,19 @@
         <t pos="V">suurentaa</t>
 
         <tCtn>
-          <t>kasvattaa</t>
+          <t pos="V">kasvattaa</t>
 
           <re>lapsia</re>
         </tCtn>
 
         <tCtn>
-          <t>korottaa</t>
+          <t pos="V">korottaa</t>
 
           <re>hintaa</re>
         </tCtn>
 
         <tCtn>
-          <t>lisätä</t>
+          <t pos="V">lisätä</t>
 
           <re>vauhtia</re>
         </tCtn>
@@ -18465,7 +18465,7 @@
         <t pos="V">hoitaa terveeksi</t>
 
         <tCtn>
-          <t>suurentaa</t>
+          <t pos="V">suurentaa</t>
 
           <re>kokoa</re>
         </tCtn>
@@ -18653,7 +18653,7 @@
         <t pos="V">kuplehtia</t>
 
         <tCtn>
-          <t>kuplia</t>
+          <t pos="V">kuplia</t>
 
           <re>vesisade maassa</re>
         </tCtn>
@@ -18689,7 +18689,7 @@
         <t pos="V">ajaa laukkaa</t>
 
         <tCtn>
-          <t>juosta</t>
+          <t pos="V">juosta</t>
 
           <re>eläimet</re>
         </tCtn>
@@ -18779,7 +18779,7 @@
         <t pos="V">juoksennella</t>
 
         <tCtn>
-          <t>juoksennella</t>
+          <t pos="V">juoksennella</t>
 
           <re>eläimet</re>
         </tCtn>
@@ -18811,7 +18811,7 @@
         <t pos="V">irrota käsistä vasten tahtoa</t>
 
         <tCtn>
-          <t>pudota</t>
+          <t pos="V">pudota</t>
 
           <re>liian isot vaatteet</re>
         </tCtn>
@@ -18909,7 +18909,7 @@
         <t pos="V">myrkyttää</t>
 
         <tCtn>
-          <t>myrkyttää</t>
+          <t pos="V">myrkyttää</t>
 
           <re>muurahaiset</re>
         </tCtn>
@@ -19141,7 +19141,7 @@
         <t pos="V">sykkiä</t>
 
         <tCtn>
-          <t>tykyttää</t>
+          <t pos="V">tykyttää</t>
 
           <re>sydän</re>
         </tCtn>
@@ -19167,7 +19167,7 @@
         <t pos="V">kotkottaa</t>
 
         <tCtn>
-          <t>kotkottaa</t>
+          <t pos="V">kotkottaa</t>
 
           <re>kanaemo</re>
         </tCtn>
@@ -19199,7 +19199,7 @@
         <t pos="V">linkata</t>
 
         <tCtn>
-          <t>nikotella</t>
+          <t pos="V">nikotella</t>
 
           <re>hikasta</re>
         </tCtn>
@@ -20535,7 +20535,7 @@
         <t pos="V">repeytyä</t>
 
         <tCtn>
-          <t>revetä</t>
+          <t pos="V">revetä</t>
 
           <re>vaatteet</re>
         </tCtn>
@@ -20591,7 +20591,7 @@
         <t pos="V">astua</t>
 
         <tCtn>
-          <t>astua</t>
+          <t pos="V">astua</t>
 
           <re>eläimet</re>
         </tCtn>
@@ -20731,7 +20731,7 @@
         <t pos="V">heittää henkensä</t>
 
         <tCtn>
-          <t>kuolla</t>
+          <t pos="V">kuolla</t>
 
           <re>eläimet</re>
         </tCtn>
@@ -20761,7 +20761,7 @@
         <t pos="V">heittää henkensä</t>
 
         <tCtn>
-          <t>kuolla</t>
+          <t pos="V">kuolla</t>
 
           <re>eläimet</re>
         </tCtn>
@@ -20927,7 +20927,7 @@
         <t pos="V">kaakottaa</t>
 
         <tCtn>
-          <t>kaakottaa</t>
+          <t pos="V">kaakottaa</t>
 
           <re>kana</re>
         </tCtn>
@@ -21907,7 +21907,7 @@
         <t pos="V">kohota</t>
 
         <tCtn>
-          <t>kohota</t>
+          <t pos="V">kohota</t>
 
           <re>maapinta</re>
         </tCtn>
@@ -21991,7 +21991,7 @@
         <t pos="V">menehtyä suolen puhkeamisen seurauksena</t>
 
         <tCtn>
-          <t>turvota</t>
+          <t pos="V">turvota</t>
 
           <re>lehmien vatsat</re>
         </tCtn>
@@ -22571,7 +22571,7 @@
         <t pos="V">pakastaa</t>
 
         <tCtn>
-          <t>pakastaa</t>
+          <t pos="V">pakastaa</t>
 
           <re>sää</re>
         </tCtn>
@@ -22849,7 +22849,7 @@
         <t pos="V">päällystää niinillä</t>
 
         <tCtn>
-          <t>päällystää niinillä</t>
+          <t pos="V">päällystää niinillä</t>
 
           <re>reen osia</re>
         </tCtn>
@@ -23363,7 +23363,7 @@
         <t pos="V">antaa kasvaa</t>
 
         <tCtn>
-          <t>antaa kasvaa</t>
+          <t pos="V">antaa kasvaa</t>
 
           <re>hedelmä</re>
         </tCtn>
@@ -23389,7 +23389,7 @@
         <t pos="V">kasvaa</t>
 
         <tCtn>
-          <t>kasvaa</t>
+          <t pos="V">kasvaa</t>
 
           <re>hedelmä</re>
         </tCtn>
@@ -23896,7 +23896,7 @@
         puolelta</td>
 
         <tCtn>
-          <t>sitoa</t>
+          <t pos="V">sitoa</t>
 
           <re>hevosen jalkoja</re>
         </tCtn>
@@ -24228,7 +24228,7 @@
         <t pos="V">viivähtää</t>
 
         <tCtn>
-          <t>takertua</t>
+          <t pos="V">takertua</t>
 
           <re>uppotukki</re>
         </tCtn>
@@ -24262,7 +24262,7 @@
         <t pos="V">kaivaa kuoppia</t>
 
         <tCtn>
-          <t>kaivaa kuoppia</t>
+          <t pos="V">kaivaa kuoppia</t>
 
           <re>leikkejä varten</re>
         </tCtn>
@@ -24288,7 +24288,7 @@
         <t pos="V">syventää</t>
 
         <tCtn>
-          <t>syventää</t>
+          <t pos="V">syventää</t>
 
           <re>kuoppa</re>
         </tCtn>
@@ -24318,7 +24318,7 @@
         <t pos="V">painua kuopalle</t>
 
         <tCtn>
-          <t>шӹргӹжӹ лаксемеш</t>
+          <t pos="V">шӹргӹжӹ лаксемеш</t>
 
           <re>posket painuvat kuopalle</re>
         </tCtn>
@@ -24488,7 +24488,7 @@
         <t pos="V">muuttаa kosteaksi</t>
 
         <tCtn>
-          <t>kostuttaa</t>
+          <t pos="V">kostuttaa</t>
 
           <re>suola</re>
         </tCtn>
@@ -24516,7 +24516,7 @@
         <t pos="V">tulla kosteaksi</t>
 
         <tCtn>
-          <t>kostua</t>
+          <t pos="V">kostua</t>
 
           <re>suola</re>
         </tCtn>
@@ -25236,7 +25236,7 @@
         <t pos="V">lämmetä</t>
 
         <tCtn>
-          <t>lämmetä</t>
+          <t pos="V">lämmetä</t>
 
           <re>keli</re>
         </tCtn>
@@ -25524,7 +25524,7 @@
 
       <tg xml:lang="eng">
         <tCtn>
-          <t>to be</t>
+          <t pos="V">to be</t>
 
           <re>depictive</re>
         </tCtn>
@@ -25594,7 +25594,7 @@
         <t pos="V">olla järjestetty</t>
 
         <tCtn>
-          <t>tuleentua</t>
+          <t pos="V">tuleentua</t>
 
           <re>vilja</re>
         </tCtn>
@@ -25850,7 +25850,7 @@
         <t pos="V">pilaantua</t>
 
         <tCtn>
-          <t>pilaantua</t>
+          <t pos="V">pilaantua</t>
 
           <re>ruoka</re>
         </tCtn>
@@ -25878,7 +25878,7 @@
         <t pos="V">pilaannuttaa</t>
 
         <tCtn>
-          <t>pilata</t>
+          <t pos="V">pilata</t>
 
           <re>ruoka</re>
         </tCtn>
@@ -26010,7 +26010,7 @@
         <t pos="V">pudistaa päätään</t>
 
         <tCtn>
-          <t>pudistaa päätään</t>
+          <t pos="V">pudistaa päätään</t>
 
           <re>paarmoista hevonen tai lehmä</re>
         </tCtn>
@@ -26442,7 +26442,7 @@
         <t pos="V">lauhtua</t>
 
         <tCtn>
-          <t>lauhtua</t>
+          <t pos="V">lauhtua</t>
 
           <re>sää</re>
         </tCtn>
@@ -26646,7 +26646,7 @@
         <t pos="V">mennä hajalle</t>
 
         <tCtn>
-          <t>hajota</t>
+          <t pos="V">hajota</t>
 
           <re>kulunut vaate</re>
         </tCtn>
@@ -26998,7 +26998,7 @@
         tiellä; heilua tuulesta</t>
 
         <tCtn>
-          <t>läikkyä</t>
+          <t pos="V">läikkyä</t>
 
           <re>vesi</re>
         </tCtn>
@@ -27058,7 +27058,7 @@
         <t pos="V">loiskua</t>
 
         <tCtn>
-          <t>loiskua</t>
+          <t pos="V">loiskua</t>
 
           <re>aallot</re>
         </tCtn>
@@ -27100,7 +27100,7 @@
         <t pos="V">päästä auki</t>
 
         <tCtn>
-          <t>päästä auki</t>
+          <t pos="V">päästä auki</t>
 
           <re>nauha</re>
         </tCtn>
@@ -27932,7 +27932,7 @@
         <t pos="V">tehdä kuoppaiseksi</t>
 
         <tCtn>
-          <t>kuoppaiseksi</t>
+          <t pos="V">kuoppaiseksi</t>
 
           <re>tie</re>
         </tCtn>
@@ -27958,7 +27958,7 @@
         <t pos="V">tulla kuoppaiseksi</t>
 
         <tCtn>
-          <t>tulla kuoppaiseksi</t>
+          <t pos="V">tulla kuoppaiseksi</t>
 
           <re>tie</re>
         </tCtn>
@@ -27986,7 +27986,7 @@
         <t pos="V">latkia</t>
 
         <tCtn>
-          <t>hotkia</t>
+          <t pos="V">hotkia</t>
 
           <re>eläimet</re>
         </tCtn>
@@ -28241,7 +28241,7 @@
         ruokaa karjaeläimille</t>
 
         <tCtn>
-          <t>sekoittaa</t>
+          <t pos="V">sekoittaa</t>
 
           <re>rehu</re>
         </tCtn>
@@ -28419,7 +28419,7 @@
         <t pos="V">hauduttaa</t>
 
         <tCtn>
-          <t>hauduttaa</t>
+          <t pos="V">hauduttaa</t>
 
           <re>vihtaa</re>
         </tCtn>
@@ -28653,7 +28653,7 @@
         <t pos="V">tehdä tyyneksi; muuttaa kosteaksi</t>
 
         <tCtn>
-          <t>tyynnyttää</t>
+          <t pos="V">tyynnyttää</t>
 
           <re>tuuli</re>
         </tCtn>
@@ -28891,7 +28891,7 @@
         <t pos="V">vilkuilla</t>
 
         <tCtn>
-          <t>vilkuilla</t>
+          <t pos="V">vilkuilla</t>
 
           <re>silmät</re>
         </tCtn>
@@ -29374,7 +29374,7 @@
         <t pos="V">puhaltaa</t>
 
         <tCtn>
-          <t>puhaltaa</t>
+          <t pos="V">puhaltaa</t>
 
           <re>tuuli</re>
         </tCtn>
@@ -29500,7 +29500,7 @@
         <t pos="V">räpytellä</t>
 
         <tCtn>
-          <t>räpyttää</t>
+          <t pos="V">räpyttää</t>
 
           <re>siipiä</re>
         </tCtn>
@@ -30522,7 +30522,7 @@
         <t pos="V">tiivistyä</t>
 
         <tCtn>
-          <t>muodostua</t>
+          <t pos="V">muodostua</t>
 
           <re>mustat pilvet</re>
         </tCtn>
@@ -31237,7 +31237,7 @@
         <t pos="V">kerääntyä vähitellen</t>
 
         <tCtn>
-          <t>tiivistyä</t>
+          <t pos="V">tiivistyä</t>
 
           <re>pilvet</re>
         </tCtn>
@@ -31325,7 +31325,7 @@
         <t pos="V">parittua</t>
 
         <tCtn>
-          <t>parittua</t>
+          <t pos="V">parittua</t>
 
           <re>eläimet</re>
         </tCtn>
@@ -31581,7 +31581,7 @@
         <t pos="V">laskea munia</t>
 
         <tCtn>
-          <t>laskea munia</t>
+          <t pos="V">laskea munia</t>
 
           <re>hyönteiset</re>
         </tCtn>
@@ -31713,13 +31713,13 @@
         <t pos="V">loukuttaa</t>
 
         <tCtn>
-          <t>loukuttaa</t>
+          <t pos="V">loukuttaa</t>
 
           <re>pellavaa</re>
         </tCtn>
 
         <tCtn>
-          <t>sotkea</t>
+          <t pos="V">sotkea</t>
 
           <re>savea</re>
         </tCtn>
@@ -32433,7 +32433,7 @@
         <t pos="V">mädännyttää</t>
 
         <tCtn>
-          <t>mädännyttää</t>
+          <t pos="V">mädännyttää</t>
 
           <re>puu</re>
         </tCtn>
@@ -32459,7 +32459,7 @@
         <t pos="V">mädäntyä</t>
 
         <tCtn>
-          <t>mädäntyä</t>
+          <t pos="V">mädäntyä</t>
 
           <re>puu</re>
         </tCtn>
@@ -32529,7 +32529,7 @@
         <t pos="V">kajahtaa</t>
 
         <tCtn>
-          <t>kuulua</t>
+          <t pos="V">kuulua</t>
 
           <re>ääni</re>
         </tCtn>
@@ -32613,7 +32613,7 @@
         <t pos="V">pauhauttaa</t>
 
         <tCtn>
-          <t>pauhauttaa</t>
+          <t pos="V">pauhauttaa</t>
 
           <re>television äänen</re>
         </tCtn>
@@ -33264,7 +33264,7 @@
         <t pos="V">homehtua</t>
 
         <tCtn>
-          <t>homettua</t>
+          <t pos="V">homettua</t>
 
           <re>neste</re>
         </tCtn>
@@ -33464,7 +33464,7 @@
         <t pos="V">kansallistaa</t>
 
         <tCtn>
-          <t>kansallistaa</t>
+          <t pos="V">kansallistaa</t>
 
           <re>omaisuutta</re>
         </tCtn>
@@ -33783,7 +33783,7 @@
         <t pos="V">pehmetä</t>
 
         <tCtn>
-          <t>pehmetä</t>
+          <t pos="V">pehmetä</t>
 
           <re>ruoka-aine</re>
         </tCtn>
@@ -34261,13 +34261,13 @@
         <t pos="V">hypistellä</t>
 
         <tCtn>
-          <t>silittää</t>
+          <t pos="V">silittää</t>
 
           <re>eläimiä</re>
         </tCtn>
 
         <tCtn>
-          <t>hypistellä</t>
+          <t pos="V">hypistellä</t>
 
           <re>kangasta</re>
         </tCtn>
@@ -34349,7 +34349,7 @@
         <t pos="V">tulehtua</t>
 
         <tCtn>
-          <t>turvota</t>
+          <t pos="V">turvota</t>
 
           <re>silmäluomet</re>
         </tCtn>
@@ -34729,7 +34729,7 @@
         <t pos="V">vikistä</t>
 
         <tCtn>
-          <t>vinkua</t>
+          <t pos="V">vinkua</t>
 
           <re>porsas</re>
         </tCtn>
@@ -35005,7 +35005,7 @@
         <t pos="V">kypsyä liikaa</t>
 
         <tCtn>
-          <t>kypsyä liikaa</t>
+          <t pos="V">kypsyä liikaa</t>
 
           <re>perunat keittäessä</re>
         </tCtn>
@@ -35113,7 +35113,7 @@
         <t pos="V">kalvaa</t>
 
         <tCtn>
-          <t>kalvaa</t>
+          <t pos="V">kalvaa</t>
 
           <re>koira luuta</re>
         </tCtn>
@@ -36738,7 +36738,7 @@
         <t pos="V">sopia</t>
 
         <tCtn>
-          <t>sopia</t>
+          <t pos="V">sopia</t>
 
           <re>vaatteet</re>
         </tCtn>
@@ -36850,7 +36850,7 @@
         <t pos="V">täyttyä</t>
 
         <tCtn>
-          <t>kerääntyä</t>
+          <t pos="V">kerääntyä</t>
 
           <re>maitoa utareessa</re>
         </tCtn>
@@ -37168,7 +37168,7 @@
         <t pos="V">haukkua</t>
 
         <tCtn>
-          <t>haukkua</t>
+          <t pos="V">haukkua</t>
 
           <re>koira</re>
         </tCtn>
@@ -38694,7 +38694,7 @@
         <t pos="V">availla</t>
 
         <tCtn>
-          <t>availla</t>
+          <t pos="V">availla</t>
 
           <re>ikkunoita</re>
         </tCtn>
@@ -38984,7 +38984,7 @@
         <t pos="V">lisääntyä</t>
 
         <tCtn>
-          <t>lisääntyä</t>
+          <t pos="V">lisääntyä</t>
 
           <re>hyönteiset</re>
         </tCtn>
@@ -39050,7 +39050,7 @@
         <t pos="V">lisäännyttää</t>
 
         <tCtn>
-          <t>lisäännyttää</t>
+          <t pos="V">lisäännyttää</t>
 
           <re>hyönteisten</re>
         </tCtn>
@@ -39222,7 +39222,7 @@
         <t pos="V">sulattaa</t>
 
         <tCtn>
-          <t>sulattaa</t>
+          <t pos="V">sulattaa</t>
 
           <re>rasva</re>
         </tCtn>
@@ -39324,7 +39324,7 @@
         <t pos="V">painattaa</t>
 
         <tCtn>
-          <t>painattaa</t>
+          <t pos="V">painattaa</t>
 
           <re>kirjoja</re>
         </tCtn>
@@ -39400,7 +39400,7 @@
         <t pos="V">puhjeta</t>
 
         <tCtn>
-          <t>puhjeta</t>
+          <t pos="V">puhjeta</t>
 
           <re>silmut puussa</re>
         </tCtn>
@@ -39450,7 +39450,7 @@
         <t pos="V">neulottaa</t>
 
         <tCtn>
-          <t>neulottaa</t>
+          <t pos="V">neulottaa</t>
 
           <re>puikoilla</re>
         </tCtn>
@@ -39584,7 +39584,7 @@
         <t pos="V">syöksyä</t>
 
         <tCtn>
-          <t>syöksyä</t>
+          <t pos="V">syöksyä</t>
 
           <re>lentokone</re>
         </tCtn>
@@ -39882,7 +39882,7 @@
         <t pos="V">aidottaa</t>
 
         <tCtn>
-          <t>aidottua</t>
+          <t pos="V">aidottua</t>
 
           <re>kuu</re>
         </tCtn>
@@ -40062,7 +40062,7 @@
         <t pos="V">paikata</t>
 
         <tCtn>
-          <t>paikata</t>
+          <t pos="V">paikata</t>
 
           <re>hammas</re>
         </tCtn>
@@ -40428,7 +40428,7 @@
         <t pos="V">ajaa</t>
 
         <tCtn>
-          <t>ajaa</t>
+          <t pos="V">ajaa</t>
 
           <re>karjaa</re>
         </tCtn>
@@ -41975,7 +41975,7 @@
         <t pos="V">kypsyä</t>
 
         <tCtn>
-          <t>kypsyä</t>
+          <t pos="V">kypsyä</t>
 
           <re>vilja</re>
         </tCtn>
@@ -43005,7 +43005,7 @@
         <t pos="V">punoa</t>
 
         <tCtn>
-          <t>punoa</t>
+          <t pos="V">punoa</t>
 
           <re>nuora</re>
         </tCtn>
@@ -43033,7 +43033,7 @@
         <t pos="V">surista</t>
 
         <tCtn>
-          <t>surisee</t>
+          <t pos="V">surisee</t>
 
           <re>kimalainen</re>
         </tCtn>
@@ -43063,7 +43063,7 @@
         <t pos="V">päättää</t>
 
         <tCtn>
-          <t>päättää</t>
+          <t pos="V">päättää</t>
 
           <re>kokouksessa</re>
         </tCtn>
@@ -43109,7 +43109,7 @@
         <t pos="V">takertua puuhun</t>
 
         <tCtn>
-          <t>takertua puuhun</t>
+          <t pos="V">takertua puuhun</t>
 
           <re>mehiläisparvi</re>
         </tCtn>
@@ -43139,7 +43139,7 @@
         <t pos="V">löyttäytyä seuraan</t>
 
         <tCtn>
-          <t>tungetella</t>
+          <t pos="V">tungetella</t>
 
           <re>jnkun seuraan</re>
         </tCtn>
@@ -43881,7 +43881,7 @@
         <t pos="V">nuutua</t>
 
         <tCtn>
-          <t>näivettyä</t>
+          <t pos="V">näivettyä</t>
 
           <re>oraat</re>
         </tCtn>
@@ -43928,7 +43928,7 @@
         <t pos="V">nykäistä</t>
 
         <tCtn>
-          <t>nykäistä</t>
+          <t pos="V">nykäistä</t>
 
           <re>kala</re>
         </tCtn>
@@ -43936,7 +43936,7 @@
         <t pos="V">tärpätä</t>
 
         <tCtn>
-          <t>tärpätä</t>
+          <t pos="V">tärpätä</t>
 
           <re>kalastuksessa</re>
         </tCtn>
@@ -43968,7 +43968,7 @@
         <t pos="V">räpyttää</t>
 
         <tCtn>
-          <t>räpyttää</t>
+          <t pos="V">räpyttää</t>
 
           <re>silmiään</re>
         </tCtn>
@@ -44004,7 +44004,7 @@
         <t pos="V">nykäistä</t>
 
         <tCtn>
-          <t>tärpätä</t>
+          <t pos="V">tärpätä</t>
 
           <re>kalastuksessa</re>
         </tCtn>
@@ -44322,7 +44322,7 @@
         <t pos="V">ommella</t>
 
         <tCtn>
-          <t>kiinnittää</t>
+          <t pos="V">kiinnittää</t>
 
           <re>hakaneulalla</re>
         </tCtn>
@@ -45158,7 +45158,7 @@
         <t pos="V">kääntyä nurin</t>
 
         <tCtn>
-          <t>kääntyä nurin</t>
+          <t pos="V">kääntyä nurin</t>
 
           <re>vaatteet</re>
         </tCtn>
@@ -45510,7 +45510,7 @@
         <t pos="V">hautoa</t>
 
         <tCtn>
-          <t>hautoa</t>
+          <t pos="V">hautoa</t>
 
           <re>linnut</re>
         </tCtn>
@@ -46234,7 +46234,7 @@
         <t pos="V">tehdä ryppyjä</t>
 
         <tCtn>
-          <t>tehdä ryppyjä</t>
+          <t pos="V">tehdä ryppyjä</t>
 
           <re>piirakkaan</re>
         </tCtn>
@@ -47132,7 +47132,7 @@
         <t pos="V">jyrähtää</t>
 
         <tCtn>
-          <t>jyrähtää</t>
+          <t pos="V">jyrähtää</t>
 
           <re>ukkonen</re>
         </tCtn>
@@ -47602,7 +47602,7 @@
         <t pos="V">mädäntyä</t>
 
         <tCtn>
-          <t>mädäntyä</t>
+          <t pos="V">mädäntyä</t>
 
           <re>olki (aumassa)</re>
         </tCtn>
@@ -47890,7 +47890,7 @@
       <tg xml:lang="fin">
         <t pos="V">työskennellä</t>
 
-        <t>tehdä työtä</t>
+        <t pos="V">tehdä työtä</t>
       </tg>
     </mg>
   </e>
@@ -48511,7 +48511,7 @@
         <t pos="V">ladata</t>
 
         <tCtn>
-          <t>ladata</t>
+          <t pos="V">ladata</t>
 
           <re>pyssy</re>
         </tCtn>
@@ -48977,7 +48977,7 @@
         <t pos="V">kuivahtaa</t>
 
         <tCtn>
-          <t>kuivua</t>
+          <t pos="V">kuivua</t>
 
           <re>puuastia</re>
         </tCtn>
@@ -50176,7 +50176,7 @@
         <t pos="V">säilöä</t>
 
         <tCtn>
-          <t>säilöä</t>
+          <t pos="V">säilöä</t>
 
           <re>rehua</re>
         </tCtn>
@@ -52959,7 +52959,7 @@
         <t pos="V">kuoria</t>
 
         <tCtn>
-          <t>kuoria</t>
+          <t pos="V">kuoria</t>
 
           <re>hedelmiä vihanneksia</re>
         </tCtn>
@@ -54169,7 +54169,7 @@
         <t pos="V">tiivistyä</t>
 
         <tCtn>
-          <t>tiivistyä</t>
+          <t pos="V">tiivistyä</t>
 
           <re>maapinta</re>
         </tCtn>
@@ -54649,7 +54649,7 @@
         <t pos="V">painaa</t>
 
         <tCtn>
-          <t>painaa</t>
+          <t pos="V">painaa</t>
 
           <re>nappia</re>
         </tCtn>
@@ -54677,7 +54677,7 @@
         <t pos="V">pyytää painamaan</t>
 
         <tCtn>
-          <t>pyytää painamaan</t>
+          <t pos="V">pyytää painamaan</t>
 
           <re>nappia</re>
         </tCtn>
@@ -55027,7 +55027,7 @@
         <t pos="V">katkoa</t>
 
         <tCtn>
-          <t>katkoa</t>
+          <t pos="V">katkoa</t>
 
           <re>oksia</re>
         </tCtn>
@@ -55102,7 +55102,7 @@
         <t pos="V">murtua</t>
 
         <tCtn>
-          <t>murtua</t>
+          <t pos="V">murtua</t>
 
           <re>mieli</re>
         </tCtn>
@@ -55198,21 +55198,21 @@
         <td pos="V">ilmaisee tekemisen pitkällisyyttä ja kestoa</td>
 
         <tCtn>
-          <t>виӓнг толаш</t>
+          <t pos="V">виӓнг толаш</t>
 
           <re>kehittyä pitkään</re>
         </tCtn>
 
         <tCtn>
-          <t>лым толеш</t>
+          <t pos="V">лым толеш</t>
 
           <re>alkaa sataa lunta</re>
         </tCtn>
 
         <tCtn>
-          <t>koittaa</t>
+          <t pos="V">koittaa</t>
 
-          <t>saapua</t>
+          <t pos="V">saapua</t>
 
           <re>aika</re>
         </tCtn>
@@ -55607,7 +55607,7 @@
         <t pos="V">makeutua</t>
 
         <tCtn>
-          <t>makeutua</t>
+          <t pos="V">makeutua</t>
 
           <re>hedelmistä</re>
         </tCtn>
@@ -56553,7 +56553,7 @@
         <t pos="V">jähmettyä</t>
 
         <tCtn>
-          <t>jähmettyä</t>
+          <t pos="V">jähmettyä</t>
 
           <re>pehmeän aineen</re>
         </tCtn>
@@ -56561,7 +56561,7 @@
         <t pos="V">kohmettua</t>
 
         <tCtn>
-          <t>kohmettua</t>
+          <t pos="V">kohmettua</t>
 
           <re>elollisen olion tai pehmeän aineen</re>
         </tCtn>
@@ -56619,7 +56619,7 @@
         <t pos="V">vetäytyä kokoon</t>
 
         <tCtn>
-          <t>vetäytyä kokoon</t>
+          <t pos="V">vetäytyä kokoon</t>
 
           <re>eläin tai muu elollinen olio</re>
         </tCtn>
@@ -56689,7 +56689,7 @@
         <t pos="V">hautua</t>
 
         <tCtn>
-          <t>hautua</t>
+          <t pos="V">hautua</t>
 
           <re>ruoka</re>
         </tCtn>
@@ -57244,7 +57244,7 @@
         <t pos="V">kirkastua</t>
 
         <tCtn>
-          <t>selvitä</t>
+          <t pos="V">selvitä</t>
 
           <re>nesteen</re>
         </tCtn>
@@ -58380,7 +58380,7 @@
         <t pos="V">ojentaa</t>
 
         <tCtn>
-          <t>ojentaa</t>
+          <t pos="V">ojentaa</t>
 
           <re>kehonjäseniä</re>
         </tCtn>
@@ -58727,7 +58727,7 @@
         <t pos="V">rätistä</t>
 
         <tCtn>
-          <t>rätistä</t>
+          <t pos="V">rätistä</t>
 
           <re>ase</re>
         </tCtn>
@@ -60367,7 +60367,7 @@
         <t pos="V">kertoa</t>
 
         <tCtn>
-          <t>kertoa</t>
+          <t pos="V">kertoa</t>
 
           <re>kertolasku</re>
         </tCtn>
@@ -60769,7 +60769,7 @@
         <t pos="V">silittää</t>
 
         <tCtn>
-          <t>silittää</t>
+          <t pos="V">silittää</t>
 
           <re>vaatteista</re>
         </tCtn>
@@ -61219,7 +61219,7 @@
         <t pos="V">olla vesikauhussa</t>
 
         <tCtn>
-          <t>olla raivotaudissa</t>
+          <t pos="V">olla raivotaudissa</t>
 
           <re>eläimet</re>
         </tCtn>
@@ -61607,7 +61607,7 @@
         <t pos="V">ärsyttää</t>
 
         <tCtn>
-          <t>vimmastuttaa</t>
+          <t pos="V">vimmastuttaa</t>
 
           <re>hevosta</re>
         </tCtn>
@@ -62217,7 +62217,7 @@
         <t pos="V">jäätyä</t>
 
         <tCtn>
-          <t>jäätyä</t>
+          <t pos="V">jäätyä</t>
 
           <re>maapinta</re>
         </tCtn>
@@ -62723,7 +62723,7 @@
         <t pos="V">karkeutua</t>
 
         <tCtn>
-          <t>karkeutua</t>
+          <t pos="V">karkeutua</t>
 
           <re>kangas</re>
         </tCtn>
@@ -62775,7 +62775,7 @@
         <t pos="V">seljetä</t>
 
         <tCtn>
-          <t>seljetä</t>
+          <t pos="V">seljetä</t>
 
           <re>sää</re>
         </tCtn>
@@ -62805,7 +62805,7 @@
         <t pos="V">seljetä</t>
 
         <tCtn>
-          <t>seljetä</t>
+          <t pos="V">seljetä</t>
 
           <re>sää</re>
         </tCtn>
@@ -63301,7 +63301,7 @@
         <t pos="V">pihistä</t>
 
         <tCtn>
-          <t>pihisee</t>
+          <t pos="V">pihisee</t>
 
           <re>märät puut</re>
         </tCtn>
@@ -63473,7 +63473,7 @@
         <t pos="V">kilistellä</t>
 
         <tCtn>
-          <t>kilistellä</t>
+          <t pos="V">kilistellä</t>
 
           <re>pulloilla</re>
         </tCtn>
@@ -63559,7 +63559,7 @@
         <t pos="V">sirittää</t>
 
         <tCtn>
-          <t>sirittää</t>
+          <t pos="V">sirittää</t>
 
           <re>heinäsirkat</re>
         </tCtn>
@@ -63591,7 +63591,7 @@
         <t pos="V">piirustaa</t>
 
         <tCtn>
-          <t>piirustaa</t>
+          <t pos="V">piirustaa</t>
 
           <re>kirvesmiehet</re>
         </tCtn>
@@ -63879,7 +63879,7 @@
         <t pos="V">pilaantua</t>
 
         <tCtn>
-          <t>pilaantua</t>
+          <t pos="V">pilaantua</t>
 
           <re>hautomisen jälkeen pilallisia kanamunia</re>
         </tCtn>
@@ -63925,7 +63925,7 @@
         <t pos="V">kihistä</t>
 
         <tCtn>
-          <t>kihistä</t>
+          <t pos="V">kihistä</t>
 
           <re>vesi ennen kiehumista</re>
         </tCtn>
@@ -63951,7 +63951,7 @@
         <t pos="V">kihistä</t>
 
         <tCtn>
-          <t>kihistä</t>
+          <t pos="V">kihistä</t>
 
           <re>öljy pannulla</re>
         </tCtn>
@@ -63999,7 +63999,7 @@
         <t pos="V">laskea alas</t>
 
         <tCtn>
-          <t>laskea</t>
+          <t pos="V">laskea</t>
 
           <re>huulet alas</re>
         </tCtn>
@@ -64901,7 +64901,7 @@
         <t pos="V">oikkuilla</t>
 
         <tCtn>
-          <t>äksyillä</t>
+          <t pos="V">äksyillä</t>
 
           <re>hevonen</re>
         </tCtn>
@@ -65171,7 +65171,7 @@
         <t pos="V">antaa kastella</t>
 
         <tCtn>
-          <t>kastella</t>
+          <t pos="V">kastella</t>
 
           <re>lapsen</re>
         </tCtn>
@@ -66661,7 +66661,7 @@
         <t pos="V">visertää</t>
 
         <tCtn>
-          <t>visertää</t>
+          <t pos="V">visertää</t>
 
           <re>varpuslinnut</re>
         </tCtn>
@@ -66735,7 +66735,7 @@
         <t pos="V">nokkia</t>
 
         <tCtn>
-          <t>nokkia</t>
+          <t pos="V">nokkia</t>
 
           <re>linnut toisiaan</re>
         </tCtn>
@@ -68171,7 +68171,7 @@
         <t pos="V">herättää</t>
 
         <tCtn>
-          <t>herättää</t>
+          <t pos="V">herättää</t>
 
           <re>ajatuksia</re>
         </tCtn>
@@ -68183,7 +68183,7 @@
         <t pos="V">kantaa</t>
 
         <tCtn>
-          <t>kantaa</t>
+          <t pos="V">kantaa</t>
 
           <re>viljaa</re>
         </tCtn>
@@ -68494,7 +68494,7 @@
         <t pos="V">hiota</t>
 
         <tCtn>
-          <t>hikoavat</t>
+          <t pos="V">hikoavat</t>
 
           <re>ikkunat</re>
         </tCtn>
@@ -69141,7 +69141,7 @@
         <t pos="V">kohista</t>
 
         <tCtn>
-          <t>kohista</t>
+          <t pos="V">kohista</t>
 
           <re>tuuli vesisade</re>
         </tCtn>
@@ -69393,13 +69393,13 @@
         <t pos="V">polttaa</t>
 
         <tCtn>
-          <t>lämmittää</t>
+          <t pos="V">lämmittää</t>
 
           <re>maitoa</re>
         </tCtn>
 
         <tCtn>
-          <t>polttaa</t>
+          <t pos="V">polttaa</t>
 
           <re>pontikkaa</re>
         </tCtn>
@@ -70181,7 +70181,7 @@
         <t pos="V">tulla hohkaiseksi</t>
 
         <tCtn>
-          <t>tulla hohkaiseksi</t>
+          <t pos="V">tulla hohkaiseksi</t>
 
           <re>lumesta</re>
         </tCtn>
@@ -70235,7 +70235,7 @@
         <t pos="V">käydä</t>
 
         <tCtn>
-          <t>käydä</t>
+          <t pos="V">käydä</t>
 
           <re>olut</re>
         </tCtn>
@@ -70243,7 +70243,7 @@
         <t pos="V">nousta</t>
 
         <tCtn>
-          <t>nousta</t>
+          <t pos="V">nousta</t>
 
           <re>taikina</re>
         </tCtn>
@@ -70363,7 +70363,7 @@
         <t pos="V">kulahdella</t>
 
         <tCtn>
-          <t>piestä</t>
+          <t pos="V">piestä</t>
 
           <re>isot aallot rantaa</re>
         </tCtn>
@@ -71309,7 +71309,7 @@
         <t pos="V">vuolla</t>
 
         <tCtn>
-          <t>vuolla</t>
+          <t pos="V">vuolla</t>
 
           <re>veitsellä</re>
         </tCtn>
@@ -71707,7 +71707,7 @@
         <t pos="V">väsyä</t>
 
         <tCtn>
-          <t>väsyä</t>
+          <t pos="V">väsyä</t>
 
           <re>ruumiinjäsen</re>
         </tCtn>
@@ -71843,7 +71843,7 @@
         <t pos="V">hävittää</t>
 
         <tCtn>
-          <t>hävittää</t>
+          <t pos="V">hävittää</t>
 
           <re>linnunpesää</re>
         </tCtn>
@@ -72803,7 +72803,7 @@
         <t pos="V">levittää</t>
 
         <tCtn>
-          <t>levittää</t>
+          <t pos="V">levittää</t>
 
           <re>hiuksia</re>
         </tCtn>
@@ -72811,7 +72811,7 @@
         <t pos="V">jakaa</t>
 
         <tCtn>
-          <t>jakaa</t>
+          <t pos="V">jakaa</t>
 
           <re>postia</re>
         </tCtn>
@@ -72859,7 +72859,7 @@
         <t pos="V">murentua</t>
 
         <tCtn>
-          <t>murentua</t>
+          <t pos="V">murentua</t>
 
           <re>keitetyt perunat</re>
         </tCtn>
@@ -73061,7 +73061,7 @@
         <t pos="V">aukaista</t>
 
         <tCtn>
-          <t>aukaista</t>
+          <t pos="V">aukaista</t>
 
           <re>lehti</re>
         </tCtn>
@@ -73400,7 +73400,7 @@
         <t pos="V">kursia</t>
 
         <tCtn>
-          <t>kursia</t>
+          <t pos="V">kursia</t>
 
           <re>kankaan reunaa</re>
         </tCtn>
@@ -75161,7 +75161,7 @@
         <t pos="V">murentua</t>
 
         <tCtn>
-          <t>murentua</t>
+          <t pos="V">murentua</t>
 
           <re>keitetyt perunat</re>
         </tCtn>
@@ -75217,7 +75217,7 @@
         <t pos="V">tasaantua</t>
 
         <tCtn>
-          <t>tasaantua</t>
+          <t pos="V">tasaantua</t>
 
           <re>pilvet</re>
         </tCtn>
@@ -75970,7 +75970,7 @@
         <t pos="V">mennä ihoon</t>
 
         <tCtn>
-          <t>mennä ihoon</t>
+          <t pos="V">mennä ihoon</t>
 
           <re>tikusta</re>
         </tCtn>
@@ -76038,7 +76038,7 @@
         <t pos="V">pölyttää</t>
 
         <tCtn>
-          <t>pölyttää</t>
+          <t pos="V">pölyttää</t>
 
           <re>kasvit</re>
         </tCtn>
@@ -76064,7 +76064,7 @@
         <t pos="V">pölyttyä</t>
 
         <tCtn>
-          <t>pölyttyä</t>
+          <t pos="V">pölyttyä</t>
 
           <re>kasvit</re>
         </tCtn>
@@ -77802,7 +77802,7 @@
         <t pos="V">viiletä</t>
 
         <tCtn>
-          <t>viiletä</t>
+          <t pos="V">viiletä</t>
 
           <re>sää</re>
         </tCtn>
@@ -77932,7 +77932,7 @@
         <t pos="V">kuiskata</t>
 
         <tCtn>
-          <t>kuiskaa</t>
+          <t pos="V">kuiskaa</t>
 
           <re>eläimiä tai lintuja</re>
         </tCtn>
@@ -78055,7 +78055,7 @@
         <t pos="V">kulua rikki</t>
 
         <tCtn>
-          <t>kulua</t>
+          <t pos="V">kulua</t>
 
           <re>vaatteista</re>
         </tCtn>
@@ -79559,7 +79559,7 @@
         <t pos="V">olla venyvä</t>
 
         <tCtn>
-          <t>venyä</t>
+          <t pos="V">venyä</t>
 
           <re>taikina</re>
         </tCtn>
@@ -80522,7 +80522,7 @@
         <td pos="V">kaatua väsymyksestä</td>
 
         <tCtn>
-          <t>kaatua</t>
+          <t pos="V">kaatua</t>
 
           <re>hevosesta</re>
         </tCtn>
@@ -80550,7 +80550,7 @@
         <t pos="V">kutoa verkkoa</t>
 
         <tCtn>
-          <t>kutoa verkkoa</t>
+          <t pos="V">kutoa verkkoa</t>
 
           <re>hämähäkki</re>
         </tCtn>
@@ -80654,7 +80654,7 @@
         <t pos="V">oikkuilla</t>
 
         <tCtn>
-          <t>äksyillä</t>
+          <t pos="V">äksyillä</t>
 
           <re>hevonen</re>
         </tCtn>
@@ -80778,7 +80778,7 @@
         <t pos="V">äityä</t>
 
         <tCtn>
-          <t>äityä</t>
+          <t pos="V">äityä</t>
 
           <re>tulipalo</re>
         </tCtn>
@@ -80974,7 +80974,7 @@
         <td pos="V">(kuv.) säästää</td>
 
         <tCtn>
-          <t>(kuv.) säästää</t>
+          <t pos="V">(kuv.) säästää</t>
 
           <re>rahaa</re>
         </tCtn>
@@ -81284,7 +81284,7 @@
         <t pos="V">rasvoittua</t>
 
         <tCtn>
-          <t>rasvoittua</t>
+          <t pos="V">rasvoittua</t>
 
           <re>kala</re>
         </tCtn>
@@ -81336,7 +81336,7 @@
         <t pos="V">lihottaa</t>
 
         <tCtn>
-          <t>lihottaa</t>
+          <t pos="V">lihottaa</t>
 
           <re>sika</re>
         </tCtn>
@@ -82485,7 +82485,7 @@
         <t pos="V">kyteä</t>
 
         <tCtn>
-          <t>kytevät</t>
+          <t pos="V">kytevät</t>
 
           <re>kosteat polttopuut</re>
         </tCtn>
@@ -82715,7 +82715,7 @@
         <t pos="V">riipiä</t>
 
         <tCtn>
-          <t>riipiä</t>
+          <t pos="V">riipiä</t>
 
           <re>humalaa</re>
         </tCtn>
@@ -83415,7 +83415,7 @@
         <t pos="V">varjella itseään</t>
 
         <tCtn>
-          <t>suojella itseään</t>
+          <t pos="V">suojella itseään</t>
 
           <re>huonosta ilmasta</re>
         </tCtn>
@@ -83445,7 +83445,7 @@
         <t pos="V">väitellä</t>
 
         <tCtn>
-          <t>väitellä</t>
+          <t pos="V">väitellä</t>
 
           <re>väitöstilaisuudessa</re>
         </tCtn>

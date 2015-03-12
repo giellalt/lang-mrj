@@ -748,7 +748,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>mutta</t>
+        <t pos="CC">mutta</t>
       </tg>
     </mg>
   </e>
@@ -896,11 +896,11 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>mutta</t>
+        <t pos="CC">mutta</t>
 
-        <tf>juuri kun</tf>
+        <t pos="CS">juuri kun</t>
 
-        <tf>heti kun</tf>
+        <t pos="CS">heti kun</t>
       </tg>
     </mg>
   </e>
@@ -930,7 +930,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>mutta</t>
+        <t pos="CC">mutta</t>
 
         <tf>juuri kun</tf>
 
@@ -960,9 +960,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>muuten</t>
+        <t pos="CS">muuten</t>
 
-        <t>muutoin</t>
+        <t pos="CS">muutoin</t>
 
         <tf>muussa tapauksessa</tf>
       </tg>
@@ -1056,7 +1056,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>vaikka</t>
+        <t pos="CS">vaikka</t>
 
         <tf>vaikkakaan ei</tf>
       </tg>
@@ -1102,7 +1102,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>vaikka</t>
+        <t pos="CS">vaikka</t>
       </tg>
     </mg>
   </e>
@@ -1129,7 +1129,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>esimerkiksi</t>
+        <t pos="CS">esimerkiksi</t>
       </tg>
     </mg>
   </e>
@@ -1160,13 +1160,13 @@ ja konjunktio (jos; vaikka; jollei) - уступительные союзы-->
       </m>
 
       <tg xml:lang="fin">
-        <t>jospa</t>
+        <t pos="CS">jospa</t>
 
-        <t>jos</t>
+        <t pos="CS">jos</t>
 
-        <t>vaikka</t>
+        <t pos="CS">vaikka</t>
 
-        <t>jollei</t>
+        <t pos="CS">jollei</t>
       </tg>
     </mg>
   </e>
@@ -1194,9 +1194,9 @@ ja konjunktio (jos; vaikka; jollei) - уступительные союзы-->
       </m>
 
       <tg xml:lang="fin">
-        <t>tai</t>
+        <t pos="CC">tai</t>
 
-        <t>taikka</t>
+        <t pos="CC">taikka</t>
       </tg>
     </mg>
   </e>
@@ -1224,11 +1224,11 @@ ja konjunktio (jos; vaikka; jollei) - уступительные союзы-->
       </m>
 
       <tg xml:lang="fin">
-        <t>tai</t>
+        <t pos="CC">tai</t>
 
-        <t>taikka</t>
+        <t pos="CC">taikka</t>
 
-        <t>eli</t>
+        <t pos="CC">eli</t>
 
         <td>muuten (1957:29)</td>
       </tg>
@@ -1263,7 +1263,7 @@ ja konjunktio (jos; vaikka; jollei) - уступительные союзы-->
       </m>
 
       <tg xml:lang="fin">
-        <t>valitettavasti</t>
+        <t pos="CS">valitettavasti</t>
       </tg>
 
       <xg>

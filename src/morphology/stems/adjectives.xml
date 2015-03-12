@@ -22,13 +22,13 @@
         <tf pos="A">Volgan tuonpuoleinen</tf>
 
         <tCtn>
-          <t>Volgajoen tuonpuoleinen</t>
+          <t pos="A">Volgajoen tuonpuoleinen</t>
 
           <re>alue</re>
         </tCtn>
 
         <tCtn>
-          <t>pohjoinen</t>
+          <t pos="A">pohjoinen</t>
 
           <re>tuuli</re>
         </tCtn>
@@ -140,7 +140,7 @@
         <tf pos="A">ilman haaksirikkoa oleva</tf>
 
         <tCtn>
-          <t>ilman haaveria oleva</t>
+          <t pos="A">ilman haaveria oleva</t>
 
           <re>tilanne</re>
         </tCtn>
@@ -314,7 +314,7 @@
         <t pos="A">signeerattu</t>
 
         <tCtn>
-          <t>allekirjoituksella varustettu</t>
+          <t pos="A">allekirjoituksella varustettu</t>
 
           <re/>
         </tCtn>
@@ -424,7 +424,7 @@
         <tf pos="A">ilman autonomiaa oleva</tf>
 
         <tCtn>
-          <t>ei-autonominen</t>
+          <t pos="A">ei-autonominen</t>
 
           <re>alue</re>
         </tCtn>
@@ -450,7 +450,7 @@
         <t pos="A">autonominen</t>
 
         <tCtn>
-          <t>itsenäinen</t>
+          <t pos="A">itsenäinen</t>
 
           <re>alue</re>
         </tCtn>
@@ -874,7 +874,7 @@
         <tf pos="A">pyhiä sisältävä</tf>
 
         <tCtn>
-          <t>pyhäpäiviä sisältävä</t>
+          <t pos="A">pyhäpäiviä sisältävä</t>
 
           <re>kuukausi</re>
         </tCtn>
@@ -1153,7 +1153,7 @@
         <t pos="A">pöytäkirjaton</t>
 
         <tCtn>
-          <t>ilman pöytäkirjaa oleva</t>
+          <t pos="A">ilman pöytäkirjaa oleva</t>
 
           <re>asiakirja</re>
         </tCtn>
@@ -1201,7 +1201,7 @@
         <t pos="A">auditorio=</t>
 
         <tCtn>
-          <t>juhla=</t>
+          <t pos="A">juhla=</t>
 
           <re>sali</re>
         </tCtn>
@@ -1291,7 +1291,7 @@
         <tf pos="A">korostuksellinen</tf>
 
         <tCtn>
-          <t>korostuksella</t>
+          <t pos="A">korostuksella</t>
 
           <re>vieraalla korostuksella puhumisesta</re>
         </tCtn>
@@ -1659,13 +1659,13 @@
         <t pos="A">salakuoppainen</t>
 
         <tCtn>
-          <t>salakuoppaa sisältävä</t>
+          <t pos="A">salakuoppaa sisältävä</t>
 
           <re>kuoppa</re>
         </tCtn>
 
         <tCtn>
-          <t>ansalla viritetty</t>
+          <t pos="A">ansalla viritetty</t>
 
           <re>metsäalue</re>
         </tCtn>
@@ -1825,7 +1825,7 @@
         <tf pos="A">ilman niittyä oleva</tf>
 
         <tCtn>
-          <t>ilman niittyjä oleva</t>
+          <t pos="A">ilman niittyjä oleva</t>
 
           <re>alue</re>
         </tCtn>
@@ -2007,7 +2007,7 @@
         <tf pos="A">ilman telttaa oleva</tf>
 
         <tCtn>
-          <t>ilman telttoja oleva</t>
+          <t pos="A">ilman telttoja oleva</t>
 
           <re>alue</re>
         </tCtn>
@@ -2073,7 +2073,7 @@
         <t pos="A">laskoksellinen</t>
 
         <tCtn>
-          <t>laskoksia täynnä oleva</t>
+          <t pos="A">laskoksia täynnä oleva</t>
 
           <re>palttina</re>
         </tCtn>
@@ -2141,7 +2141,7 @@
         <t pos="A">kaislainen</t>
 
         <tCtn>
-          <t>kaislaa täynnä oleva</t>
+          <t pos="A">kaislaa täynnä oleva</t>
 
           <re>alue</re>
         </tCtn>
@@ -2189,7 +2189,7 @@
         <tf pos="A">ilman analyysiä oleva</tf>
 
         <tCtn>
-          <t>ilman koetuloksia oleva</t>
+          <t pos="A">ilman koetuloksia oleva</t>
 
           <re>lähete</re>
         </tCtn>
@@ -2217,7 +2217,7 @@
         <t pos="A">yksivuotinen</t>
 
         <tCtn>
-          <t>yksivuotinen</t>
+          <t pos="A">yksivuotinen</t>
 
           <re>kasvi tai puu</re>
         </tCtn>
@@ -2249,7 +2249,7 @@
         <tf pos="A">analyysiä sisältävä</tf>
 
         <tCtn>
-          <t>koetuloksilla varustettu</t>
+          <t pos="A">koetuloksilla varustettu</t>
 
           <re>lähete</re>
         </tCtn>
@@ -2343,7 +2343,7 @@
         <tf pos="A">kurkkutulehdusta poteva</tf>
 
         <tCtn>
-          <t>nielurisatulehdusta poteva</t>
+          <t pos="A">nielurisatulehdusta poteva</t>
 
           <re>potilas</re>
         </tCtn>
@@ -2445,7 +2445,7 @@
         <t pos="A">tyhmä</t>
 
         <tCtn>
-          <t>tyhmeliini</t>
+          <t pos="A">tyhmeliini</t>
 
           <re>lapsi</re>
         </tCtn>
@@ -2496,7 +2496,7 @@
         <te pos="A">tulevaisuudessa tapahtuva</te>
 
         <tCtn>
-          <t>tulevaisuudessa tapahtuva</t>
+          <t pos="A">tulevaisuudessa tapahtuva</t>
 
           <re>suunnitelma</re>
         </tCtn>
@@ -7625,7 +7625,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>iloinen</t>
+        <t pos="A">iloinen</t>
       </tg>
     </mg>
   </e>
@@ -8666,7 +8666,7 @@
         <t pos="A">pirteä</t>
 
         <tCtn>
-          <t>pirteä</t>
+          <t pos="A">pirteä</t>
 
           <re>vanhus</re>
         </tCtn>
@@ -8962,7 +8962,7 @@
         <tf pos="A">syyllisen näköinen</tf>
 
         <tCtn>
-          <t>syyllisen näköinen</t>
+          <t pos="A">syyllisen näköinen</t>
 
           <re>katse</re>
         </tCtn>
@@ -8970,7 +8970,7 @@
         <t pos="A">syyllisen</t>
 
         <tCtn>
-          <t>syyllisen</t>
+          <t pos="A">syyllisen</t>
 
           <re>katse</re>
         </tCtn>
@@ -9058,7 +9058,7 @@
         <t pos="A">varreton</t>
 
         <tCtn>
-          <t>korreton (JK)</t>
+          <t pos="A">korreton (JK)</t>
 
           <re>heinä</re>
         </tCtn>
@@ -9180,7 +9180,7 @@
         <t pos="A">raaka</t>
 
         <tCtn>
-          <t>raaka</t>
+          <t pos="A">raaka</t>
 
           <re>kypsymättömästä hedelmästä</re>
         </tCtn>
@@ -9294,7 +9294,7 @@
         <t pos="A">ilmaava</t>
 
         <tCtn>
-          <t>ilmaava</t>
+          <t pos="A">ilmaava</t>
 
           <re>leipä</re>
         </tCtn>
@@ -9302,7 +9302,7 @@
         <t pos="A">kevyt</t>
 
         <tCtn>
-          <t>kevyt</t>
+          <t pos="A">kevyt</t>
 
           <re>tuuli</re>
         </tCtn>
@@ -9310,7 +9310,7 @@
         <t pos="A">kuohkea</t>
 
         <tCtn>
-          <t>kuohkea</t>
+          <t pos="A">kuohkea</t>
 
           <re>multa</re>
         </tCtn>
@@ -9384,7 +9384,7 @@
         <tf pos="A">nopeasti valmistettava</tf>
 
         <tCtn>
-          <t>nopeasti valmistettava</t>
+          <t pos="A">nopeasti valmistettava</t>
 
           <re>keitto</re>
         </tCtn>
@@ -9782,7 +9782,7 @@
         <tf pos="A">aviossa oleva</tf>
 
         <tCtn>
-          <t>aviossa oleva</t>
+          <t pos="A">aviossa oleva</t>
 
           <re>mies</re>
         </tCtn>
@@ -10371,7 +10371,7 @@
         <t pos="A">korkea</t>
 
         <tCtn>
-          <t>korkea</t>
+          <t pos="A">korkea</t>
 
           <re>ääni</re>
         </tCtn>
@@ -10397,7 +10397,7 @@
         <t pos="A">viiskymppinen</t>
 
         <tCtn>
-          <t>viiskymppinen</t>
+          <t pos="A">viiskymppinen</t>
 
           <re>raha</re>
         </tCtn>
@@ -19622,7 +19622,7 @@
         <t pos="A">lapsellinen</t>
 
         <tCtn>
-          <t>lapsellinen</t>
+          <t pos="A">lapsellinen</t>
 
           <re>aikuisista</re>
         </tCtn>
@@ -19899,7 +19899,7 @@
         <t pos="A">siisti</t>
 
         <tCtn>
-          <t>siisti</t>
+          <t pos="A">siisti</t>
 
           <re>vaate</re>
         </tCtn>
@@ -21157,7 +21157,7 @@
         <t pos="A">puhdas</t>
 
         <tCtn>
-          <t>puhdas</t>
+          <t pos="A">puhdas</t>
 
           <re>ääni</re>
         </tCtn>
@@ -21165,7 +21165,7 @@
         <t pos="A">joutuisa</t>
 
         <tCtn>
-          <t>joutuisa</t>
+          <t pos="A">joutuisa</t>
 
           <re>hevonen</re>
         </tCtn>
@@ -21269,7 +21269,7 @@
         <t pos="A">tasa-astuva</t>
 
         <tCtn>
-          <t>tasa-astuva</t>
+          <t pos="A">tasa-astuva</t>
 
           <re>hevonen</re>
         </tCtn>
@@ -21455,7 +21455,7 @@
         <t pos="A">kirpeä</t>
 
         <tCtn>
-          <t>kirpeä</t>
+          <t pos="A">kirpeä</t>
 
           <re>tuuli</re>
         </tCtn>
@@ -21622,7 +21622,7 @@
         <t pos="A">pitkä</t>
 
         <tCtn>
-          <t>pitkä</t>
+          <t pos="A">pitkä</t>
 
           <re>vaate</re>
         </tCtn>
@@ -21778,7 +21778,7 @@
         <t pos="A">murakka</t>
 
         <tCtn>
-          <t>murakka</t>
+          <t pos="A">murakka</t>
 
           <re>peruna</re>
         </tCtn>
@@ -22686,7 +22686,7 @@
         <t pos="A">kelvollinen</t>
 
         <tCtn>
-          <t>kelvollinen</t>
+          <t pos="A">kelvollinen</t>
 
           <re>ruoka</re>
         </tCtn>
@@ -22858,7 +22858,7 @@
         <t pos="A">pehmeä</t>
 
         <tCtn>
-          <t>pehmeä</t>
+          <t pos="A">pehmeä</t>
 
           <re>ääni</re>
         </tCtn>
@@ -22936,7 +22936,7 @@
         <t pos="A">kevyt</t>
 
         <tCtn>
-          <t>kevyt</t>
+          <t pos="A">kevyt</t>
 
           <re>tuuli</re>
         </tCtn>
@@ -23233,7 +23233,7 @@
         <t pos="A">murakka</t>
 
         <tCtn>
-          <t>murakka</t>
+          <t pos="A">murakka</t>
 
           <re>peruna</re>
         </tCtn>
@@ -23501,7 +23501,7 @@
         <t pos="A">kuiva</t>
 
         <tCtn>
-          <t>kuiva</t>
+          <t pos="A">kuiva</t>
 
           <re>iho</re>
         </tCtn>
@@ -23874,7 +23874,7 @@
         <t pos="A">kuiva</t>
 
         <tCtn>
-          <t>kuiva</t>
+          <t pos="A">kuiva</t>
 
           <re>oksa</re>
         </tCtn>
@@ -23928,7 +23928,7 @@
         <t pos="A">lenko</t>
 
         <tCtn>
-          <t>lenko</t>
+          <t pos="A">lenko</t>
 
           <re>seiväs</re>
         </tCtn>
@@ -23936,7 +23936,7 @@
         <t pos="A">kuivunut</t>
 
         <tCtn>
-          <t>kuivunut</t>
+          <t pos="A">kuivunut</t>
 
           <re>oksa</re>
         </tCtn>
@@ -23992,7 +23992,7 @@
         <tf pos="A">nurkkauspaikkaa sisältävä</tf>
 
         <tCtn>
-          <t>nurkkauspaikkaa sisältävä</t>
+          <t pos="A">nurkkauspaikkaa sisältävä</t>
 
           <re>marilaistalo</re>
         </tCtn>
@@ -24018,7 +24018,7 @@
         <t pos="A">nurkkauspaikaton</t>
 
         <tCtn>
-          <t>nurkkauspaikaton</t>
+          <t pos="A">nurkkauspaikaton</t>
 
           <re>marilaistalo</re>
         </tCtn>
@@ -24223,7 +24223,7 @@
         <t pos="A">rapea</t>
 
         <tCtn>
-          <t>rapea</t>
+          <t pos="A">rapea</t>
 
           <re>leipäkuori</re>
         </tCtn>
@@ -24499,7 +24499,7 @@
         <t pos="A">karhea</t>
 
         <tCtn>
-          <t>karhea</t>
+          <t pos="A">karhea</t>
 
           <re>nahka</re>
         </tCtn>
@@ -24507,7 +24507,7 @@
         <t pos="A">kova</t>
 
         <tCtn>
-          <t>kova</t>
+          <t pos="A">kova</t>
 
           <re>kangas</re>
         </tCtn>
@@ -24671,7 +24671,7 @@
         <tf pos="A">pehmeäksi keitetty</tf>
 
         <tCtn>
-          <t>pehmeäksi keitetty</t>
+          <t pos="A">pehmeäksi keitetty</t>
 
           <re>kanamuna</re>
         </tCtn>
@@ -24719,7 +24719,7 @@
         <tf pos="A">pehmeäksi keitetty</tf>
 
         <tCtn>
-          <t>pehmeäksi keitetty</t>
+          <t pos="A">pehmeäksi keitetty</t>
 
           <re>kanamuna</re>
         </tCtn>
@@ -24747,7 +24747,7 @@
         <tf pos="A">pehmeäksi keitetty</tf>
 
         <tCtn>
-          <t>pehmeäksi keitetty</t>
+          <t pos="A">pehmeäksi keitetty</t>
 
           <re>kanamuna</re>
         </tCtn>
@@ -26598,7 +26598,7 @@
         <t pos="A">kierä</t>
 
         <tCtn>
-          <t>kierä</t>
+          <t pos="A">kierä</t>
 
           <re>lanka</re>
         </tCtn>
@@ -26770,7 +26770,7 @@
         <t pos="A">tuohinen</t>
 
         <tCtn>
-          <t>tuohinen</t>
+          <t pos="A">tuohinen</t>
 
           <re>koivu</re>
         </tCtn>
@@ -27814,7 +27814,7 @@
         <t pos="A">(vanhan)aikainen</t>
 
         <tCtn>
-          <t>(vanhan)aikainen</t>
+          <t pos="A">(vanhan)aikainen</t>
 
           <re>ajatus</re>
         </tCtn>
@@ -28966,7 +28966,7 @@
         <t pos="A">nopeavirtainen</t>
 
         <tCtn>
-          <t>nopeavirtainen</t>
+          <t pos="A">nopeavirtainen</t>
 
           <re>joki</re>
         </tCtn>
@@ -29826,7 +29826,7 @@
         <t pos="A">ankara</t>
 
         <tCtn>
-          <t>ankara</t>
+          <t pos="A">ankara</t>
 
           <re>ihminen</re>
         </tCtn>
@@ -30183,7 +30183,7 @@
         <t pos="A">jämäkkänahkainen</t>
 
         <tCtn>
-          <t>jämäkkänahkainen</t>
+          <t pos="A">jämäkkänahkainen</t>
 
           <re>saapas</re>
         </tCtn>
@@ -31241,7 +31241,7 @@
         <t pos="A">kulttuuritaloton</t>
 
         <tCtn>
-          <t>kulttuuritaloton</t>
+          <t pos="A">kulttuuritaloton</t>
 
           <re>kylä</re>
         </tCtn>
@@ -31527,7 +31527,7 @@
         <t pos="A">matala</t>
 
         <tCtn>
-          <t>matala</t>
+          <t pos="A">matala</t>
 
           <re>vesistö</re>
         </tCtn>
@@ -32323,7 +32323,7 @@
         <td pos="A">hankala (JK)</td>
 
         <tCtn>
-          <t>kelvoton</t>
+          <t pos="A">kelvoton</t>
 
           <re>ihminen</re>
         </tCtn>
@@ -32587,7 +32587,7 @@
         <tf pos="A">lapio kädessä oleva</tf>
 
         <tCtn>
-          <t>lapio kädessä oleva</t>
+          <t pos="A">lapio kädessä oleva</t>
 
           <re>ihminen</re>
         </tCtn>
@@ -32679,7 +32679,7 @@
         <tf pos="A">lastenvaunuilla oleva</tf>
 
         <tCtn>
-          <t>lastenvaunuilla oleva</t>
+          <t pos="A">lastenvaunuilla oleva</t>
 
           <re>henkilö</re>
         </tCtn>
@@ -33271,7 +33271,7 @@
         <t pos="A">pitkävartiset</t>
 
         <tCtn>
-          <t>pitkävartiset</t>
+          <t pos="A">pitkävartiset</t>
 
           <re>saappaat</re>
         </tCtn>
@@ -35461,7 +35461,7 @@
         <td pos="A">hankala (JK)</td>
 
         <tCtn>
-          <t>kelvoton</t>
+          <t pos="A">kelvoton</t>
 
           <re>ihminen</re>
         </tCtn>
@@ -38302,7 +38302,7 @@
         <t pos="A">haallinen</t>
 
         <tCtn>
-          <t>haallinen</t>
+          <t pos="A">haallinen</t>
 
           <re>ikkuna</re>
         </tCtn>
@@ -41382,7 +41382,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>myötämielinen</t>
+        <t pos="A">myötämielinen</t>
 
         <tCtn>
           <t pos="A">suopea</t>
@@ -41391,7 +41391,7 @@
         </tCtn>
 
         <tCtn>
-          <t>innostava</t>
+          <t pos="A">innostava</t>
 
           <re>ihminen</re>
         </tCtn>
@@ -42912,7 +42912,7 @@
         <t pos="A">täyttävä</t>
 
         <tCtn>
-          <t>täyttävä</t>
+          <t pos="A">täyttävä</t>
 
           <re>ateria</re>
         </tCtn>
@@ -43561,7 +43561,7 @@
         <t pos="A">ulkonevat</t>
 
         <tCtn>
-          <t>ulkonevat</t>
+          <t pos="A">ulkonevat</t>
 
           <re>silmät</re>
         </tCtn>
@@ -43679,7 +43679,7 @@
         <t pos="A">hauras</t>
 
         <tCtn>
-          <t>hauras</t>
+          <t pos="A">hauras</t>
 
           <re>puu tai metalli</re>
         </tCtn>
@@ -43809,7 +43809,7 @@
         <t pos="A">pullistuva</t>
 
         <tCtn>
-          <t>pullistuva</t>
+          <t pos="A">pullistuva</t>
 
           <re>rinta</re>
         </tCtn>
@@ -44065,7 +44065,7 @@
         <t pos="A">epämukava</t>
 
         <tCtn>
-          <t>epämukava</t>
+          <t pos="A">epämukava</t>
 
           <re>vaate</re>
         </tCtn>
@@ -45173,7 +45173,7 @@
         <t pos="A">matala</t>
 
         <tCtn>
-          <t>matala</t>
+          <t pos="A">matala</t>
 
           <re>ääni</re>
         </tCtn>
@@ -45339,7 +45339,7 @@
         <t pos="A">тягучий</t>
 
         <tCtn>
-          <t>тягучий</t>
+          <t pos="A">тягучий</t>
 
           <re>о еде</re>
         </tCtn>
@@ -46443,7 +46443,7 @@
         <t pos="A">hauras</t>
 
         <tCtn>
-          <t>hauras</t>
+          <t pos="A">hauras</t>
 
           <re>lanka</re>
         </tCtn>
@@ -46513,7 +46513,7 @@
         <t pos="A">metallikärjetön</t>
 
         <tCtn>
-          <t>metallikärjetön</t>
+          <t pos="A">metallikärjetön</t>
 
           <re>ohjaiden</re>
         </tCtn>
@@ -46541,7 +46541,7 @@
         <t pos="A">metallikärjellä varustettu</t>
 
         <tCtn>
-          <t>metallikärki=</t>
+          <t pos="A">metallikärki=</t>
 
           <re>ohjaiden</re>
         </tCtn>
@@ -46567,7 +46567,7 @@
         <t pos="A">hidaskulkuinen</t>
 
         <tCtn>
-          <t>hidaskulkuinen</t>
+          <t pos="A">hidaskulkuinen</t>
 
           <re>hevonen</re>
         </tCtn>
@@ -47797,7 +47797,7 @@
         <t pos="A">kostea</t>
 
         <tCtn>
-          <t>kostea</t>
+          <t pos="A">kostea</t>
 
           <re>suolasta</re>
         </tCtn>
@@ -48733,7 +48733,7 @@
         <t pos="A">henkilö=</t>
 
         <tCtn>
-          <t>henkilö=</t>
+          <t pos="A">henkilö=</t>
 
           <re>autosta</re>
         </tCtn>
@@ -50667,7 +50667,7 @@
         <t pos="A">heikko</t>
 
         <tCtn>
-          <t>heikko</t>
+          <t pos="A">heikko</t>
 
           <re>olo</re>
         </tCtn>
@@ -50921,7 +50921,7 @@
         <t pos="A">hellä</t>
 
         <tCtn>
-          <t>hellä</t>
+          <t pos="A">hellä</t>
 
           <re>puhe</re>
         </tCtn>
@@ -51307,7 +51307,7 @@
         <t pos="A">ylikeitetty</t>
 
         <tCtn>
-          <t>ylikeitetty</t>
+          <t pos="A">ylikeitetty</t>
 
           <re>makaroonituotteet</re>
         </tCtn>
@@ -51699,7 +51699,7 @@
         <t pos="A">ruma</t>
 
         <tCtn>
-          <t>ruma</t>
+          <t pos="A">ruma</t>
 
           <re>(vaate)</re>
         </tCtn>
@@ -52239,7 +52239,7 @@
         <t pos="A">iloinen</t>
 
         <tCtn>
-          <t>iloinen</t>
+          <t pos="A">iloinen</t>
 
           <re>sävel</re>
         </tCtn>
@@ -52585,7 +52585,7 @@
         <t pos="A">kierätettävä</t>
 
         <tCtn>
-          <t>kierätettävä</t>
+          <t pos="A">kierätettävä</t>
 
           <re>paperista</re>
         </tCtn>
@@ -58570,7 +58570,7 @@
         <t pos="A">nenetsiläinen</t>
 
         <tCtn>
-          <t>nenetsiläinen</t>
+          <t pos="A">nenetsiläinen</t>
 
           <re>kieli</re>
         </tCtn>
@@ -77298,7 +77298,7 @@
         <t pos="A">synkkä</t>
 
         <tCtn>
-          <t>synkkä</t>
+          <t pos="A">synkkä</t>
 
           <re>metsä</re>
         </tCtn>
@@ -77306,7 +77306,7 @@
         <t pos="A">huonoilmainen</t>
 
         <tCtn>
-          <t>huonoilmainen</t>
+          <t pos="A">huonoilmainen</t>
 
           <re>huone</re>
         </tCtn>
@@ -77314,7 +77314,7 @@
         <t pos="A">painostava</t>
 
         <tCtn>
-          <t>painostava</t>
+          <t pos="A">painostava</t>
 
           <re>ilma</re>
         </tCtn>
@@ -83194,7 +83194,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>riittävä</t>
+        <t pos="A">riittävä</t>
       </tg>
     </mg>
   </e>
@@ -90773,7 +90773,7 @@
         <t pos="A">kapea</t>
 
         <tCtn>
-          <t>kapea</t>
+          <t pos="A">kapea</t>
 
           <re>tie</re>
         </tCtn>
@@ -92669,7 +92669,7 @@
         <td pos="A">arvokas (JK)</td>
 
         <tCtn>
-          <t>arvokas (JK)</t>
+          <t pos="A">arvokas (JK)</t>
 
           <re>ihminen</re>
         </tCtn>
@@ -95404,7 +95404,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>sikäläinen</t>
+        <t pos="A">sikäläinen</t>
       </tg>
     </mg>
   </e>
@@ -98432,7 +98432,7 @@
       <tg xml:lang="fin">
         <t pos="A">ranskalainen</t>
 
-        <t>ranskalais-</t>
+        <t pos="A">ranskalais-</t>
       </tg>
     </mg>
   </e>
@@ -98832,7 +98832,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>villi</t>
+        <t pos="A">villi</t>
       </tg>
     </mg>
   </e>
@@ -99172,7 +99172,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>mikä tahansa, minkälainen tahansa</t>
+        <t pos="A">mikä tahansa, minkälainen tahansa</t>
       </tg>
     </mg>
   </e>
@@ -99192,7 +99192,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>mikä tahansa, minkälainen tahansa</t>
+        <t pos="A">mikä tahansa, minkälainen tahansa</t>
       </tg>
     </mg>
   </e>
@@ -99352,10 +99352,10 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>voikko ???</t>
+        <t pos="A">voikko ???</t>
 
         <tCtn>
-          <t>hiirakko ???</t>
+          <t pos="A">hiirakko ???</t>
 
           <re>hevonen</re>
         </tCtn>
@@ -101004,7 +101004,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>kaunis</t>
+        <t pos="A">kaunis</t>
       </tg>
     </mg>
   </e>
@@ -103409,7 +103409,7 @@
         <t pos="A">pilaantunut</t>
 
         <tCtn>
-          <t>pilaantunut</t>
+          <t pos="A">pilaantunut</t>
 
           <re>liha</re>
         </tCtn>
@@ -108200,7 +108200,7 @@
         <t pos="A">samea</t>
 
         <tCtn>
-          <t>samea</t>
+          <t pos="A">samea</t>
 
           <re>silmät tai vesi</re>
         </tCtn>
@@ -108208,7 +108208,7 @@
         <t pos="A">sumea</t>
 
         <tCtn>
-          <t>sumea</t>
+          <t pos="A">sumea</t>
 
           <re>käsitteet enemmän</re>
         </tCtn>
@@ -111326,7 +111326,7 @@
         <t pos="A">kirpeä</t>
 
         <tCtn>
-          <t>kirpeä</t>
+          <t pos="A">kirpeä</t>
 
           <re>tuuli</re>
         </tCtn>
@@ -114370,7 +114370,7 @@
         <t pos="A">matala</t>
 
         <tCtn>
-          <t>matala</t>
+          <t pos="A">matala</t>
 
           <re>tuoli tai sänky</re>
         </tCtn>
@@ -114884,7 +114884,7 @@
         <t pos="A">kostea</t>
 
         <tCtn>
-          <t>kostea</t>
+          <t pos="A">kostea</t>
 
           <re>polttopuu</re>
         </tCtn>
@@ -115118,7 +115118,7 @@
         <t pos="A">tuttia imevä</t>
 
         <tCtn>
-          <t>tuttia imevä</t>
+          <t pos="A">tuttia imevä</t>
 
           <re>vauva</re>
         </tCtn>
