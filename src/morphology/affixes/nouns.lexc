@@ -10,10 +10,10 @@ LEXICON N_  !!≈ * __@CODE@__
 !! !!Substandard
 
 LEXICON N_КОЛ_SUB !!≈ * __@CODE@__ 
-+Err/Sub: N_КОЛ ;
++Err/Orth: N_КОЛ ;
 
 LEXICON N_ТӸРВӸ_SUB !!≈ * __@CODE@__ 
-+Err/Sub: N_ТӸРВӸ ;
++Err/Orth: N_ТӸРВӸ ;
 
 !! !!Standard
 
@@ -56,7 +56,7 @@ LEXICON N_ТӸРВӸ-PL
 +N: NMN_ТӸРВӸ-PL ;
 
 LEXICON N_КАРТА_SUB
-+Err/Sub: N_КАРТА ;
++Err/Orth: N_КАРТА ;
 
 LEXICON N_КАРТА !!≈ * __@CODE@__ карта:карта 
 !! а is specific to the +Sg+Nom, elsewhere ы or ӹ
@@ -86,7 +86,7 @@ LEXICON N_ПОЧТА !!= @CODE@  почта:почта
 +N+Sg+Nom: 	  K	; 
 
 LEXICON N_ОЛМА_SUB
-+Err/Sub: N_ОЛМА ;
++Err/Orth: N_ОЛМА ;
 LEXICON N_ОЛМА !!= @CODE@  олма:олма
 !! Back harmony
  N_ОЛМА-SG ;

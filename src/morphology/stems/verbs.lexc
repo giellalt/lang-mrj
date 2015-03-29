@@ -14,8 +14,8 @@ LEXICON verbs
 агыл:агыл VAux  "hän ei ole" ;
 агылеп:агылеп VAux  "eivät ole" ;
 ада:ада VAux  "ette" ;
-адахаэмдӓш+Hom2+Err/Sub:адахаэмдӹ V_ВИДЕМ  "saada liikkeelle" ;
-адахэмӓлтӓш+Hom1+Err/Sub:адахэмӓлт V_ИӒМ  "kiirehtiä" ;
+адахаэмдӓш+Hom2+Err/Orth:адахаэмдӹ V_ВИДЕМ  "saada liikkeelle" ;
+адахэмӓлтӓш+Hom1+Err/Orth:адахэмӓлт V_ИӒМ  "kiirehtiä" ;
 адресуяш:адресуйы V_АЗЕМ  "osoittaa" ;
 ажедӓш:ажед V_ИӒМ  "neuvoa" ;
 ажналташ:ажналт V_МОАМ  "tehdä syntiä" ;
@@ -322,7 +322,7 @@ LEXICON verbs
 жульыкланаш:жульыкланы V_АЗЕМ  "petkuttaa" ;
 жульыкланылаш:жульыкланыл V_МОАМ  "petkutella" ;
 жураш:журы V_АЗЕМ  "nuhdella" ;
-жураш+Err/Sub:журы V_АЗЕМ  "hotkia" ;
+жураш+Err/Orth:журы V_АЗЕМ  "hotkia" ;
 жӓлӓйӓш:жӓлӓйӹ V_ВИДЕМ  "sääliä" ;
 завоялташ:завоялт V_МОАМ  "käynnistyä" ;
 завояш:завойы V_АЗЕМ  "käynnistää moottori" ;
@@ -748,7 +748,7 @@ LEXICON verbs
 купангдаш:купангды V_АЗЕМ  "soistuttaa" ;
 купоросангаш:купоросанг V_МОАМ  "sulfaatistua" ;
 купоросангдаш:купоросангды V_АЗЕМ  "kyllästää vihtrillillä" ;
-курваланаш+Err/Sub:курваланы V_АЗЕМ  "vietellä" ;
+курваланаш+Err/Orth:курваланы V_АЗЕМ  "vietellä" ;
 курваланаш:шӓхӓрлӓнӹ V_ВИДЕМ  "vietellä" ;
 курымлаш:курымлы V_АЗЕМ  "elää" ;
 кусланаш:кусланы V_АЗЕМ  "takertua" ;
@@ -917,7 +917,7 @@ LEXICON verbs
 кӹжгемӓш:кӹжгем V_ИӒМ  "lihoa" ;
 кӹлдӓлтӓш:кӹлдӓлт V_ИӒМ  "sitoutua" ;
 кӹлдӓлтӓш:кӹлдӓлтӹ V_ВИДЕМ  "sitoa" ;
-кӹлдӓлӓш+Err/Sub:кӹлдӓл V_ИӒМ  "sekoittaa" ;
+кӹлдӓлӓш+Err/Orth:кӹлдӓл V_ИӒМ  "sekoittaa" ;
 кӹлдӓш:кӹлдӹ V_ВИДЕМ  "sitoa" ;
 кӹлдӹлӓш:кӹлдӹл V_ИӒМ  "kietoa" ;
 кӹлештӓш:кӹлешт V_ИӒМ  "kuvottaa" ;
@@ -2507,7 +2507,7 @@ LEXICON verbs
 тӹкӹлӓлтӓш:тӹкӹлӓлт V_ИӒМ  "lukkiintua" ;
 тӹкӹлӓш:тӹкӹлӹ V_ВИДЕМ  "lukita" ;
 тӹлнӓш:тӹлнӹ V_ВИДЕМ  "unelmoida" ;
-тӹлянӓш+Err/Sub:тӹлянӹ V_ВИДЕМ  "unelmoida" ;
+тӹлянӓш+Err/Orth:тӹлянӹ V_ВИДЕМ  "unelmoida" ;
 тӹлянӓш:тӹлнӹ V_ВИДЕМ  "unelmoida" ;
 тӹлӓтӓш:тӹлӓтӹ V_ВИДЕМ  "tasoittaa" ;
 тӹмӹрӓш:тӹмӹрӹ V_ВИДЕМ  "rummuttaa" ;
@@ -3403,8 +3403,8 @@ LEXICON verbs
 ӓптӹргӓлӓш:ӓптӹргӓл V_ИӒМ  "hätääntyä" ;
 ӓптӹргӓш:ӓптӹргӹ V_ВИДЕМ  "hävetä" ;
 ӓптӹртӓш:ӓптӹртӹ V_ВИДЕМ  "häiritä" ;
-ӓптӹрӓтӓш+Err/Sub:ӓптӹрӓтӹ V_ВИДЕМ  "hämmentää mieltä" ;
-ӓптӹрӓш+Err/Sub:ӓптӹрӹ V_ВИДЕМ  "häiritä" ;
+ӓптӹрӓтӓш+Err/Orth:ӓптӹрӓтӹ V_ВИДЕМ  "hämmentää mieltä" ;
+ӓптӹрӓш+Err/Orth:ӓптӹрӹ V_ВИДЕМ  "häiritä" ;
 ӓпшӓтлӓш:ӓпшӓтлӹ V_ВИДЕМ  "tehdä sepän töitä" ;
 ӓргӓлтӓш:ӓргӓлт V_ИӒМ  "sotkeutua" ;
 ӓргӓлтӓш:ӓргӓлтӹ V_ВИДЕМ  "sotkea" ;
