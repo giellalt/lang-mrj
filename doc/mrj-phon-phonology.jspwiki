@@ -24,7 +24,7 @@
  *  Ь2:0   except with V АМ +Prt1+Sg1-3
 
 !!Triggers
-
+ *  %{front%}:0 %{back%}:0  front-back vowel harmony
  * %^ConsTransf:0  
  * %^KIN:0          with ӓвӓ in +PxSg1+Sg+Gen etc.
  * %^А2ЫӸ:0         with карта and картын витринӹн

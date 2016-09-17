@@ -355,7 +355,7 @@ Multichar_Symbols
 Ы2 %{аӓ%} А2 Е2 Е3
  Ь2 ! V_АМ +Prt1+Sg1
 !! And following triggers to control variation
- {front} {back}
+ %{front%} %{back%}
 
 !! !!Lexeme disambiguation tags
   +Hom1          !!≈ * @CODE@ : Homonymy толам used in l element and lexc
