@@ -1916,10 +1916,12 @@
      </stg> <stress>ала•готи</stress>
    </lg>
    <mg> <defNative/>
-     <tg xml:lang="fin"> <t pos="N">likainen lapsi</t> <te pos="N">veijari (kuv.)</te> <te pos="N">petkuttaja (kuv.)</te>
+     <tg xml:lang="fin"> 
+       <t pos="N">likainen lapsi</t>
+ <t pos="N" re="kuv.">veijari</t> <t pos="N" re="kuv.">petkuttaja</t>
      </tg>
-     <tg xml:lang="fin">
-       <t pos="N">грязнуля</t> <td pos="N">обманщик (kuvaannoll.)</td>
+     <tg xml:lang="rus">
+       <t pos="N">грязнуля</t> <t pos="N" re="kuv.">обманщик</t>
      </tg>
    </mg>
 </e>
