@@ -1,105 +1,105 @@
 
 !! !!!Compounding
-!! Does Hill Mari have anything like LEXICON R and %- N ;
+! ! Does Hill Mari have anything like LEXICON R and %- N ;
 
 
 ! ============ !
-!! !!Interj lexica 
+!! !!Interj lexica
 ! ============ !
 
-LEXICON INTERJ_  !!= * @CODE@ 
-+Interj: K ;
+LEXICON INTERJ_  !!= * @CODE@
+ +Interj: K ;
 
 
 ! ============ !
-!! !!Postp lexica 
+!! !!Postp lexica
 ! ============ !
 
 
-! This contlex allows for relational word which, otherwise, are open 
+! This contlex allows for relational word which, otherwise, are open
 ! to extensive declension
 
-LEXICON POSTP_  !!= * @CODE@ 
-+Po: K ;
-+Po+PxSg1:%>Е2м K ;
-+Po+PxSg2:%>Е2т K ;
-+Po+PxSg3:%>%{ыӹØ%}ж%{ыӹØ%} K ;
-+Po+PxPl1:%>н%{аӓ%} K ;
-+Po+PxPl2:%>д%{аӓ%} K ;
-+Po+PxPl3:%>%{ыӹØ%}шт%{ыӹØ%} K ;
+LEXICON POSTP_  !!= * @CODE@
+       +Po:                   K ;
+ +Po+PxSg1:%>Е2м              K ;
+ +Po+PxSg2:%>Е2т              K ;
+ +Po+PxSg3:%>%{ыӹØ%}ж%{ыӹØ%}  K ;
+ +Po+PxPl1:%>н%{аӓ%}          K ;
+ +Po+PxPl2:%>д%{аӓ%}          K ;
+ +Po+PxPl3:%>%{ыӹØ%}шт%{ыӹØ%} K ;
 
-LEXICON Ad-A_ !!= * @CODE@ 
-+AdA: # ;
+LEXICON Ad-A_ !!= * @CODE@
+ +AdA: # ;
 
-LEXICON ADV_ ! 
-+Adv: K ;
-+Adv+Comp:%>рак # ;
+LEXICON ADV_ !
+      +Adv:      K ;
+ +Adv+Comp:%>рак # ;
 
-LEXICON ADV_КОЛ ! 
- ADV_ ;
+LEXICON ADV_КОЛ !
+  ADV_ ;
 
-LEXICON ADV_ОЛМА ! 
- ADV_ ;
+LEXICON ADV_ОЛМА !
+  ADV_ ;
 
 LEXICON DESCR_
-+Adv+Descr: K ;
+ +Adv+Descr: K ;
 
 LEXICON SPAT_
-+Spat: K ;
+ +Spat: K ;
 
 
 !!Temporal tags with cases
 
-LEXICON ADV-TEMP_  !!= * @CODE@ 
-+Adv+Temp: K ;
+LEXICON ADV-TEMP_  !!= * @CODE@
+ +Adv+Temp: K ;
 
 
 
 
 LEXICON Cc
-+CC: # ;
+ +CC: # ;
 
 LEXICON Cs
-+CS: # ;
+ +CS: # ;
 
 LEXICON CONJ_
-+Conj: # ;
+ +Conj: # ;
 
 LEXICON Pcle-Compar-Stnd
-+Pcle+Compar: # ;
+ +Pcle+Compar: # ;
 
 LEXICON Pcle-Epist
-+Pcle+Epist: # ;
+ +Pcle+Epist: # ;
 
 LEXICON Pcle-Neg-Contrast
-+Pcle+Neg+Intensive: # ;
+ +Pcle+Neg+Intensive: # ;
 
 LEXICON Pcle-Neg
-+Pcle+Neg: # ;
+ +Pcle+Neg: # ;
 
 LEXICON Pcle-Qst
-+Pcle+Qst: # ;
+ +Pcle+Qst: # ;
 
 LEXICON Pcle-Superl
-+Pcle+Superl: # ;
+ +Pcle+Superl: # ;
 
 LEXICON PCLE_
-+Pcle: # ;
+ +Pcle: # ;
 
 
 LEXICON N-Voc-PxSg1
-+N+PxSg1+Interj+Voc: # ;
+  +N+PxSg1+Interj+Voc: # ;
 
-!LEXICON EndNeg 
-!+CC+Neg: # ; ! ни
+!LEXICON EndNeg
+!             +CC+Neg: # ; ! ни
 
 !LEXICON EndQST
-!+Qst: # ;
+!                +Qst: # ;
 
 !LEXICON ONOM-End
-!+Onom: # ;
+!               +Onom: # ;
 
 !LEXICON DESCR-End
-!+Descr: # ;
+!              +Descr: # ;
 
 ! vim: set ft=xfst-lexc:
