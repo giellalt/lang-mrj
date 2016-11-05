@@ -4,8 +4,8 @@
 !! Hill Mari (Western Mari) numerals...
 
 LEXICON NUM_
-+Num+Card: WORDEND ;
-+Num+Ord:%>ш%{ыӹØ%} WORDEND ;
+ +Num+Card:           WORDEND ;
+  +Num+Ord:%>ш%{ыӹØ%} WORDEND ;
 
 
 
