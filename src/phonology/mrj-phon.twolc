@@ -343,6 +343,12 @@ Rules
 а:0 <=> Cns:+ _ %^А2ЫӸ:0 %> е  ;
         # [ Cns: | Vows: | %> ]+ Cns:+ _ %> [ ӹ: | ы: ] %> ;            
 
+"Not SgNom for lat е:0"
+!! __@RULENAME@__
+е:0 <=> 
+        Cns:+ (ь) _ %> [ ӹ: | ы: ] %> ;            
+!!€ варенье%>ӹ%>влӓ
+!!€ варень0%>ӹ%>влӓ
 
 !! !!Devoicing
 "Onset consonant devoicing" 
