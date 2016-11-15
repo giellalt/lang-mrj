@@ -78,6 +78,16 @@ LEXICON N_БИРЖА-SG
 LEXICON N_БИРЖА-PL
  +N: NMN_БИРЖА-PL ;
 
+LEXICON N_ВАРЕНЬЕ !!≈ * __@CODE@__ варенье:варенье
+!! е is specific to the +Sg+Nom, elsewhere  ӹ
+!! Front harmony
+  N_ВАРЕНЬЕ-SG ;
+  N_ВАРЕНЬЕ-PL ;
+LEXICON N_ВАРЕНЬЕ-SG
+ +N: NMN_ВАРЕНЬЕ-SG ;
+LEXICON N_ВАРЕНЬЕ-PL
+ +N: NMN_ВАРЕНЬЕ-PL ;
+
 LEXICON N_ПОЧТА !!= @CODE@  почта:почта
         +N: NMN_OBLIQUE-INDEFINITE-SG_BACK   ;
         +N: NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ;
@@ -198,6 +208,22 @@ LEXICON NMN_БИРЖА-SG
 !        :%^А2ЫӸ NMN_OBLIQUE-POSSESSA-SG_FRONT   ;
 
 LEXICON NMN_БИРЖА-PL
+ :%>ӹ NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ; !!= * __@CODE@__ %>влӓ
+ :%>ӹ NMN_OBLIQUE-POSSESSA-PL_FRONT    ;
+
+LEXICON NMN_ВАРЕНЬЕ	 !!≈ * __@CODE@__ варенье:варенье
+!! Front е/ӹ
+!! е is specific to the +Sg+Nom, elsewhere ӹ
+  NMN_ВАРЕНЬЕ-SG ;
+  NMN_ВАРЕНЬЕ-PL ;
+LEXICON NMN_ВАРЕНЬЕ-SG
+  +Sg+Nom:       K                               ;
+         :%>ӹ    NMN_OBLIQUE-INDEFINITE-SG_FRONT ;
+!        :%^А2ЫӸ NMN_OBLIQUE-INDEFINITE-SG_FRONT ;
+         :%>ӹ    NMN_OBLIQUE-POSSESSA-SG_FRONT   ;
+!        :%^А2ЫӸ NMN_OBLIQUE-POSSESSA-SG_FRONT   ;
+
+LEXICON NMN_ВАРЕНЬЕ-PL
  :%>ӹ NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ; !!= * __@CODE@__ %>влӓ
  :%>ӹ NMN_OBLIQUE-POSSESSA-PL_FRONT    ;
 
