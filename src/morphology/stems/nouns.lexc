@@ -704,12 +704,12 @@ LEXICON nouns
 варака:варака N_ОЛМА  "puun halkeama" ;
 вараланымаш:вараланымаш N_КОЛ  "myöhäisemmäksi jättäminen" ;
 варашӓвӓ+Err/Sub:варашӓвӓ N_ӒЗӒ  "äitipuoli" ;
-варашӓтя+Err/Sub:варашӓтя N_ОЛМА  "isäpuoli" ;
-варашӓтя:изиӓтя N_ОЛМА  "isäpuoli" ;
+варашӓтя+Err/Sub:варашӓтя N_ӒЗӒ  "isäpuoli" ;
+варашӓтя:изиӓтя N_ӒЗӒ  "isäpuoli" ;
 варвар:варвар N_КОЛ  "barbaari" ;
 варган:варган N_КОЛ  "??" ;
 варгыцмаш:варгыцмаш N_КОЛ  "kiljunta" ;
-варенье:варенье N_  "hillo" ;
+варенье:варенье N_ВАРЕНЬЕ  "hillo" ;
 вариант:вариант N_КОЛ  "variantti" ;
 вариаци:вариаци N_ӒЗӒ  "muuntelu" ;
 варымаш:варымаш N_КОЛ  "pikillä käsitteleminen" ;
@@ -1594,7 +1594,7 @@ LEXICON nouns
 изиохырец:изиохырец N_МӦР  "avokurkku" ;
 изиэмдӹмӓш:изиэмдӹмӓш N_МӦР  "pienentäminen" ;
 изиэммӓш:изиэммӓш N_МӦР  "väheneminen" ;
-изиӓтя:изиӓтя N_  "isäpuoli" ;
+изиӓтя:изиӓтя N_ӒЗӒ  "isäpuoli" ;
 изложени:изложени N_ӒЗӒ  "mukaelma" ;
 изображайымаш:изображайымаш N_КОЛ  "esittäminen" ;
 изображени:изображени N_ӒЗӒ  "kuva" ;
@@ -3190,7 +3190,7 @@ LEXICON nouns
 кумтьотя:кумтьотя N_  "kummisedän tai kummitädin isä" ;
 кумыс:кумыс N_КОЛ  "kumissi" ;
 кумӓвӓ:кумӓвӓ N_ӒЗӒ  "kummitäti" ;
-кумӓтя:кумӓтя N_  "kummisetä" ;
+кумӓтя:кумӓтя N_ӒЗӒ  "kummisetä" ;
 кунжут:кунжут N_КОЛ  "seesami" ;
 куньыри:куньыри A_  "hiljainen" ;
 куньырымаш:куньырымаш N_КОЛ  "mähkiminen" ;
@@ -3541,7 +3541,7 @@ LEXICON nouns
 кӱкшӹц:кӱкшӹц N_МӦР  "korkeus" ;
 кӱкӱ:кӱкӱ N_ӒЗӒ  "huntu" ;
 кӱмӓвӓ+Err/Sub:кӱмӓвӓ N_ӒЗӒ  "kummitäti" ;
-кӱмӓтя+Err/Sub:кӱмӓвӓ N_ОЛМА  "kummisetä" ;
+кӱмӓтя+Err/Sub:кӱмӓвӓ N_ӒЗӒ  "kummisetä" ;
 кӱмӓш:кӱмӓш N_МӦР  "kypsyminen" ;
 кӱплӓнӹмӓш:кӱплӓнӹмӓш N_МӦР  "vatsan turvotus" ;
 кӱпцӹмӓш:кӱпцӹмӓш N_МӦР  "kosteudesta paisuminen" ;
@@ -5849,7 +5849,7 @@ LEXICON nouns
 платинӓ:платинӓ N_ӒЗӒ  "pato" ;
 плато:плато N_ОЛМА  "ylätasanko" ;
 платформа:платформа N_КАРТА  "laituri" ;
-платье:платье N_  "mekko" ;
+платье:платье N_КАРТА  "mekko" ;
 платя:платя N_  "makuulava" ;
 платялык:платялык N_КОЛ  "laveriaihio" ;
 платяш:платяш N_КОЛ  "mekkokangas" ;
@@ -5985,7 +5985,7 @@ LEXICON nouns
 полой:полой N_КОЛ  "kevättulva" ;
 полом:полом N_КОЛ  "rinne" ;
 полом:полом N_КОЛ  "palo metsässä" ;
-полотенце:полотенце N_  "pyyheliina" ;
+полотенце:полотенце N_БИРЖА  "pyyheliina" ;
 полтикпанды:полтикпанды N_МАРЫ  "kalojen säikyttelyä varten käytettävä erikoiskeppi" ;
 полтиньӹк:полтиньӹк N_МӦР  "puoliruplanen" ;
 полушари:полушари N_ӒЗӒ  "pallonpuolisko" ;
@@ -7905,7 +7905,7 @@ LEXICON nouns
 ташкыктымаш:ташкыктымаш N_КОЛ  "pyyntö tallaamaan" ;
 ташкымаш:ташкымаш N_КОЛ  "poljenta" ;
 ташмарлымаш:ташмарлымаш N_КОЛ  "hutilointi" ;
-тая:тая N_  "" ;
+тая:тая N_ОЛМА  "" ;
 таҥгыж-кӓде:таҥгыж-кӓде N_  "" ;
 творчество:творчество N_КАРТА  "luomistyö" ;
 театр:театр N_КОЛ  "teatteri" ;
@@ -9662,7 +9662,7 @@ LEXICON nouns
 шашка+Err/Sub:шӓшкӹ N_ТӸРВӸ  "tammipeli" ;
 шашка+Err/Sub:шашка N_КАРТА  "miekka" ;
 шашка:шӓшкӹ N_ТӸРВӸ  "miekka" ;
-шая:шая N_  "puhe" ;
+шая:шая N_ОЛМА  "puhe" ;
 шаягарем:шаягарем N_МӦР  "takaraivo" ;
 шаягарем% лу:шаягарем% лу N_ОЛМА  "niskaluu" ;
 швед:швед N_МӦР  "ruotsalainen" ;
@@ -10759,7 +10759,7 @@ LEXICON nouns
 ёлка:ёлка N_КАРТА  "joulukuusi" ;
 ӓви:ӓви N_ӒЗӒ  "äiti" ;
 ӓвӓ:ӓвӓ N_ӒВӒ  "äiti" ;
-ӓвӓ-ӓтя:ӓвӓ-ӓтя N_  "vanhemmat" ;
+ӓвӓ-ӓтя:ӓвӓ-ӓтя N_ӒЗӒ  "vanhemmat" ;
 ӓвӓвел:ӓвӓвел N_КОЛ  "äitipuoli" ;
 ӓвӓви:ӓвӓви N_ӒЗӒ  "kevytkenkäinen nainen" ;
 ӓвӓвын:ӓвӓвын N_КОЛ  "untuvat sulkien alla" ;
@@ -10900,7 +10900,7 @@ LEXICON nouns
 ӓтмӓ:ӓтмӓ N_ӒЗӒ  "kauha" ;
 ӓтмӓ:ӓтмӓ N_ӒЗӒ  "uimaräpylät" ;
 ӓтньӹ:ӓтньӹ N_ТӸРВӸ  "" ;
-ӓтя:ӓтя N_  "isä" ;
+ӓтя:ӓтя N_ӒЗӒ  "isä" ;
 ӓтя-ӓвӓ:ӓтя-ӓвӓ N_ӒЗӒ  "vanhemmat" ;
 ӓтявел:ӓтявел N_МӦР  "isäpuoli" ;
 ӓтяжӹ:ӓтяжӹ N_ТӸРВӸ  "vaimon puhuttelusana miehelleen - lasten isälle" ;

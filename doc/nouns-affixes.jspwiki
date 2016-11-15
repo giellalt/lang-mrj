@@ -2,13 +2,13 @@
 ----
 
 Hill Mari nouns inflect in cases.
- * __LEXICON N___ 
+ * __LEXICON N___
 
 !!Substandard
 
- * __LEXICON N_КОЛ_SUB__ 
+ * __LEXICON N_КОЛ_SUB__
 
- * __LEXICON N_ТӸРВӸ_SUB__ 
+ * __LEXICON N_ТӸРВӸ_SUB__
 
 !!Standard
 
@@ -27,12 +27,16 @@ The stem vowel "е" is found with possessor indices and the lative
 Front harmony
 
 
- * __LEXICON N_КАРТА__ карта:карта 
+ * __LEXICON N_КАРТА__ карта:карта
 а is specific to the +Sg+Nom, elsewhere ы or ӹ
 Back harmony
 
- * __LEXICON N_БИРЖА__ биржа:биржа 
+ * __LEXICON N_БИРЖА__ биржа:биржа
 а is specific to the +Sg+Nom, elsewhere  ӹ
+Front harmony
+
+ * __LEXICON N_ВАРЕНЬЕ__ варенье:варенье
+е is specific to the +Sg+Nom, elsewhere  ӹ
 Front harmony
 
  LEXICON N_ПОЧТА   почта:почта
@@ -65,7 +69,7 @@ Front harmony
 
 
  * __LEXICON NMN_КАРТА	__ карта:карта
-Back а/ы 
+Back а/ы
 а is specific to the +Sg+Nom, elsewhere ы
 
 
@@ -73,7 +77,13 @@ Back а/ы
 Front а/ӹ
 а is specific to the +Sg+Nom, elsewhere ӹ
 
- * __:%>ӹ NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ; __ %>влӓ
+ * __ :%>ӹ NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ; __ %>влӓ
+
+ * __LEXICON NMN_ВАРЕНЬЕ	__ варенье:варенье
+Front е/ӹ
+е is specific to the +Sg+Nom, elsewhere ӹ
+
+ * __ :%>ӹ NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ; __ %>влӓ
 
  LEXICON NMN_ОЛМА   олма:олма
 Back harmony
