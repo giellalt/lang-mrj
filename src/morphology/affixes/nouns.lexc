@@ -311,7 +311,7 @@ LEXICON PL-ABEACCCOMDATGENILLINELATNOM_MUTUAL
   +Pl+Abe:влӓде    K ;
   +Pl+Acc:%>влӓм   K ;
   +Pl+Com:%>влӓге  K ;
- +Pl+Comp:%>влӓлӓ  K ;
+ +Pl+Cmpr:%>влӓлӓ  K ;
   +Pl+Dat:%>влӓлӓн K ;
   +Pl+Gen:%>влӓн   K ;
   +Pl+Ill:%>влӓшкӹ K ;
@@ -332,7 +332,7 @@ LEXICON NMN_OBLIQUE-INDEFINITE-SG
   +Sg+Ill:%>%{ыӹØ%}шкЫ2 K ; ! (to a village)
   +Sg+Ill:%>%{ыӹØ%}ш    K ; ! (to a village)
   +Sg+Lat:%>еш          K ; ! (into a village)
- +Sg+Comp:%>л%{аӓ%}     K ; ! (like a village)
+ +Sg+Cmpr:%>л%{аӓ%}     K ; ! (like a village)
   +Sg+Abe:%>де          K ; ! (without a village)
 
 LEXICON NMN_OBLIQUE-INDEFINITE-SG_BACK
@@ -344,7 +344,7 @@ LEXICON NMN_OBLIQUE-INDEFINITE-SG_BACK
   +Sg+Ill:%>ышкы K ; ! (to a village)
   +Sg+Ill:%>ыш   K ; ! (to a village)
   +Sg+Lat:%>еш   K ; ! (into a village)
- +Sg+Comp:%>ла   K ; ! (like a village)
+ +Sg+Cmpr:%>ла   K ; ! (like a village)
   +Sg+Abe:%>де   K ; ! (without a village)
 
 LEXICON NMN_OBLIQUE-INDEFINITE-SG_FRONT
@@ -356,7 +356,7 @@ LEXICON NMN_OBLIQUE-INDEFINITE-SG_FRONT
   +Sg+Ill:%>ӹшкӹ K ; ! (to a village)
   +Sg+Ill:%>ӹш   K ; ! (to a village)
   +Sg+Lat:%>еш   K ; ! (into a village)
- +Sg+Comp:%>лӓ   K ; ! (like a village)
+ +Sg+Cmpr:%>лӓ   K ; ! (like a village)
   +Sg+Abe:%>де   K ; ! (without a village)
 
 LEXICON NMN_OBLIQUE-INDEFINITE-PL_MUTUAL
@@ -370,7 +370,7 @@ LEXICON NMN_OBLIQUE-INDEFINITE-PL_MUTUAL
   +Pl+Ill:%>влӓшкӹ K ; ! (to a village)
   +Pl+Ill:%>влӓш   K ; ! (to a village)
   +Pl+Lat:%>влӓэш  K ; ! (into a village)
- +Pl+Comp:%>влӓлӓ  K ; ! (like a village)
+ +Pl+Cmpr:%>влӓлӓ  K ; ! (like a village)
   +Pl+Abe:%>влӓде  K ; ! (without a village)
 
 
@@ -384,7 +384,7 @@ LEXICON N_01
   +Sg+Ill:%>%{ыӹØ%}шк%{ыӹØ%}    K ; ! (to a village)
   +Sg+Ill:%>%{ыӹØ%}ш            K ; ! (to a village)
   +Sg+Lat:%>еш                  K ; ! (into a village)
- +Sg+Comp:%>л%{аӓ%}             K ; ! (like a village)
+ +Sg+Cmpr:%>л%{аӓ%}             K ; ! (like a village)
   +Sg+Abe:%>де                  K ; ! (without a village)
 !!
   +Pl+Nom:влӓ                   K ;
@@ -396,7 +396,7 @@ LEXICON N_01
   +Pl+Ill:влӓ%>%{ыӹØ%}шк%{ыӹØ%} K ; ! (to a village)
   +Pl+Ill:влӓ%>%{ыӹØ%}ш         K ; ! (to a village)
   +Pl+Lat:влӓ%>Е2ш              K ; ! (into a village)
- +Pl+Comp:влӓ%>л%{аӓ%}          K ; ! (like a village)
+ +Pl+Cmpr:влӓ%>л%{аӓ%}          K ; ! (like a village)
   +Pl+Abe:влӓ%>де               K ; ! (without a village)
 
 LEXICON NMN_OBLIQUE-POSSESSA-SG_BACK
@@ -411,9 +411,9 @@ LEXICON NMN_OBLIQUE-POSSESSA-SG_BACK
   SG-ABE-PXSG1_MUTUAL  ;
   SG-ACC-PXSG1_MUTUAL  ;
   SG-COM-PXSG1_MUTUAL  ;
-  SG-COMP-PXSG1_MUTUAL ;
+  SG-CMPR-PXSG1_MUTUAL ;
   SG-DAT-PXSG1_MUTUAL  ;
-  SG-COMP-PXSG1_BACK   ;
+  SG-CMPR-PXSG1_BACK   ;
   SG-DAT-PXSG1_BACK    ;
   SG-GEN-PXSG1_MUTUAL  ;
   SG-ILL-PXSG1_MUTUAL  ;
@@ -426,8 +426,8 @@ LEXICON NMN_OBLIQUE-POSSESSA-SG_BACK
   SG-ABE-PXSG2_MUTUAL  ;
   SG-ACC-PXSG2_MUTUAL  ;
   SG-COM-PXSG2_MUTUAL  ;
-  SG-COMP-PXSG2_MUTUAL ;
-  SG-COMP-PXSG2_BACK   ;
+  SG-CMPR-PXSG2_MUTUAL ;
+  SG-CMPR-PXSG2_BACK   ;
   SG-DAT-PXSG2_MUTUAL  ;
   SG-GEN-PXSG2_MUTUAL  ;
   SG-ILL-PXSG2_MUTUAL  ;
@@ -440,7 +440,7 @@ LEXICON NMN_OBLIQUE-POSSESSA-SG_BACK
   SG-ABE-PXSG3_BACK    ;
   SG-ACC-PXSG3_BACK    ;
   SG-COM-PXSG3_BACK    ;
-  SG-COMP-PXSG3_BACK   ;
+  SG-CMPR-PXSG3_BACK   ;
   SG-DAT-PXSG3_BACK    ;
   SG-GEN-PXSG3_BACK    ;
   SG-ILL-PXSG3_BACK    ;
@@ -451,7 +451,7 @@ LEXICON NMN_OBLIQUE-POSSESSA-SG_BACK
   PXPL1-SG-ABE         ;
   PXPL1-SG-ACC         ;
   PXPL1-SG-COM         ;
-  PXPL1-SG-COMP        ;
+  PXPL1-SG-CMPR        ;
   PXPL1-SG-DAT         ;
   PXPL1-SG-GEN         ;
   SG-ILL-PXPL1_BACK    ;
@@ -462,7 +462,7 @@ LEXICON NMN_OBLIQUE-POSSESSA-SG_BACK
   PXPL2-SG-ABE         ;
   PXPL2-SG-ACC         ;
   PXPL2-SG-COM         ;
-  PXPL2-SG-COMP        ;
+  PXPL2-SG-CMPR        ;
   PXPL2-SG-DAT         ;
   PXPL2-SG-GEN         ;
   SG-ILL-PXPL2_BACK    ;
@@ -473,7 +473,7 @@ LEXICON NMN_OBLIQUE-POSSESSA-SG_BACK
   SG-ABE-PXPL3_BACK    ;
   SG-ACC-PXPL3_BACK    ;
   SG-COM-PXPL3_BACK    ;
-  SG-COMP-PXPL3_BACK   ;
+  SG-CMPR-PXPL3_BACK   ;
   SG-DAT-PXPL3_BACK    ;
   SG-GEN-PXPL3_BACK    ;
   SG-ILL-PXPL3_BACK    ;
@@ -493,9 +493,9 @@ LEXICON NMN_OBLIQUE-POSSESSA-SG_FRONT
   SG-ABE-PXSG1_MUTUAL  ;
   SG-ACC-PXSG1_MUTUAL  ;
   SG-COM-PXSG1_MUTUAL  ;
-  SG-COMP-PXSG1_MUTUAL ;
+  SG-CMPR-PXSG1_MUTUAL ;
   SG-DAT-PXSG1_MUTUAL  ;
-  SG-COMP-PXSG1_FRONT  ;
+  SG-CMPR-PXSG1_FRONT  ;
   SG-DAT-PXSG1_FRONT   ;
   SG-GEN-PXSG1_MUTUAL  ;
   SG-ILL-PXSG1_MUTUAL  ;
@@ -508,8 +508,8 @@ LEXICON NMN_OBLIQUE-POSSESSA-SG_FRONT
   SG-ABE-PXSG2_MUTUAL  ;
   SG-ACC-PXSG2_MUTUAL  ;
   SG-COM-PXSG2_MUTUAL  ;
-  SG-COMP-PXSG2_MUTUAL ;
-  SG-COMP-PXSG2_FRONT  ;
+  SG-CMPR-PXSG2_MUTUAL ;
+  SG-CMPR-PXSG2_FRONT  ;
   SG-DAT-PXSG2_MUTUAL  ;
   SG-GEN-PXSG2_MUTUAL  ;
   SG-ILL-PXSG2_MUTUAL  ;
@@ -522,7 +522,7 @@ LEXICON NMN_OBLIQUE-POSSESSA-SG_FRONT
   SG-ABE-PXSG3_FRONT   ;
   SG-ACC-PXSG3_FRONT   ;
   SG-COM-PXSG3_FRONT   ;
-  SG-COMP-PXSG3_FRONT  ;
+  SG-CMPR-PXSG3_FRONT  ;
   SG-DAT-PXSG3_FRONT   ;
   SG-GEN-PXSG3_FRONT   ;
   SG-ILL-PXSG3_FRONT   ;
@@ -533,7 +533,7 @@ LEXICON NMN_OBLIQUE-POSSESSA-SG_FRONT
   PXPL1-SG-ABE         ;
   PXPL1-SG-ACC         ;
   PXPL1-SG-COM         ;
-  PXPL1-SG-COMP        ;
+  PXPL1-SG-CMPR        ;
   PXPL1-SG-DAT         ;
   PXPL1-SG-GEN         ;
   SG-ILL-PXPL1_FRONT   ;
@@ -544,7 +544,7 @@ LEXICON NMN_OBLIQUE-POSSESSA-SG_FRONT
   PXPL2-SG-ABE         ;
   PXPL2-SG-ACC         ;
   PXPL2-SG-COM         ;
-  PXPL2-SG-COMP        ;
+  PXPL2-SG-CMPR        ;
   PXPL2-SG-DAT         ;
   PXPL2-SG-GEN         ;
   SG-ILL-PXPL2_FRONT   ;
@@ -555,7 +555,7 @@ LEXICON NMN_OBLIQUE-POSSESSA-SG_FRONT
   SG-ABE-PXPL3_FRONT   ;
   SG-ACC-PXPL3_FRONT   ;
   SG-COM-PXPL3_FRONT   ;
-  SG-COMP-PXPL3_FRONT  ;
+  SG-CMPR-PXPL3_FRONT  ;
   SG-DAT-PXPL3_FRONT   ;
   SG-GEN-PXPL3_FRONT   ;
   SG-ILL-PXPL3_FRONT   ;
@@ -570,7 +570,7 @@ LEXICON NMN_OBLIQUE-POSSESSA-PL_BACK
   PL-ABE-PXSG1_MUTUAL  ;
   PL-ACC-PXSG1_MUTUAL  ;
   PL-COM-PXSG1_MUTUAL  ;
-  PL-COMP-PXSG1_MUTUAL ;
+  PL-CMPR-PXSG1_MUTUAL ;
   PL-DAT-PXSG1_MUTUAL  ;
   PL-GEN-PXSG1_MUTUAL  ;
   PL-ILL-PXSG1_MUTUAL  ;
@@ -582,7 +582,7 @@ LEXICON NMN_OBLIQUE-POSSESSA-PL_BACK
   PL-ABE-PXSG2_MUTUAL  ;
   PL-ACC-PXSG2_MUTUAL  ;
   PL-COM-PXSG2_MUTUAL  ;
-  PL-COMP-PXSG2_MUTUAL ;
+  PL-CMPR-PXSG2_MUTUAL ;
   PL-DAT-PXSG2_MUTUAL  ;
   PL-GEN-PXSG2_MUTUAL  ;
   PL-ILL-PXSG2_MUTUAL  ;
@@ -594,7 +594,7 @@ LEXICON NMN_OBLIQUE-POSSESSA-PL_BACK
   PL-ABE-PXSG3_MUTUAL  ;
   PL-ACC-PXSG3_MUTUAL  ;
   PL-COM-PXSG3_MUTUAL  ;
-  PL-COMP-PXSG3_MUTUAL ;
+  PL-CMPR-PXSG3_MUTUAL ;
   PL-DAT-PXSG3_MUTUAL  ;
   PL-GEN-PXSG3_MUTUAL  ;
   PL-ILL-PXSG3_MUTUAL  ;
@@ -604,7 +604,7 @@ LEXICON NMN_OBLIQUE-POSSESSA-PL_BACK
   PL-ABE-PXSG3_BACK    ;
   PL-ACC-PXSG3_BACK    ;
   PL-COM-PXSG3_BACK    ;
-  PL-COMP-PXSG3_BACK   ;
+  PL-CMPR-PXSG3_BACK   ;
   PL-DAT-PXSG3_BACK    ;
   PL-GEN-PXSG3_BACK    ;
   PL-ILL-PXSG3_BACK    ;
@@ -616,7 +616,7 @@ LEXICON NMN_OBLIQUE-POSSESSA-PL_BACK
   PL-ABE-PXPL1_MUTUAL  ;
   PL-ACC-PXPL1_MUTUAL  ;
   PL-COM-PXPL1_MUTUAL  ;
-  PL-COMP-PXPL1_MUTUAL ;
+  PL-CMPR-PXPL1_MUTUAL ;
   PL-DAT-PXPL1_MUTUAL  ;
   PL-GEN-PXPL1_MUTUAL  ;
   PL-ILL-PXPL1_MUTUAL  ;
@@ -628,7 +628,7 @@ LEXICON NMN_OBLIQUE-POSSESSA-PL_BACK
   PL-ABE-PXPL2_MUTUAL  ;
   PL-ACC-PXPL2_MUTUAL  ;
   PL-COM-PXPL2_MUTUAL  ;
-  PL-COMP-PXPL2_MUTUAL ;
+  PL-CMPR-PXPL2_MUTUAL ;
   PL-DAT-PXPL2_MUTUAL  ;
   PL-GEN-PXPL2_MUTUAL  ;
   PL-ILL-PXPL2_MUTUAL  ;
@@ -640,7 +640,7 @@ LEXICON NMN_OBLIQUE-POSSESSA-PL_BACK
   PL-ABE-PXPL3_MUTUAL  ;
   PL-ACC-PXPL3_MUTUAL  ;
   PL-COM-PXPL3_MUTUAL  ;
-  PL-COMP-PXPL3_MUTUAL ;
+  PL-CMPR-PXPL3_MUTUAL ;
   PL-DAT-PXPL3_MUTUAL  ;
   PL-GEN-PXPL3_MUTUAL  ;
   PL-ILL-PXPL3_MUTUAL  ;
@@ -655,7 +655,7 @@ LEXICON NMN_OBLIQUE-POSSESSA-PL_FRONT
   PL-ABE-PXSG1_MUTUAL  ;
   PL-ACC-PXSG1_MUTUAL  ;
   PL-COM-PXSG1_MUTUAL  ;
-  PL-COMP-PXSG1_MUTUAL ;
+  PL-CMPR-PXSG1_MUTUAL ;
   PL-DAT-PXSG1_MUTUAL  ;
   PL-GEN-PXSG1_MUTUAL  ;
   PL-ILL-PXSG1_MUTUAL  ;
@@ -667,7 +667,7 @@ LEXICON NMN_OBLIQUE-POSSESSA-PL_FRONT
   PL-ABE-PXSG2_MUTUAL  ;
   PL-ACC-PXSG2_MUTUAL  ;
   PL-COM-PXSG2_MUTUAL  ;
-  PL-COMP-PXSG2_MUTUAL ;
+  PL-CMPR-PXSG2_MUTUAL ;
   PL-DAT-PXSG2_MUTUAL  ;
   PL-GEN-PXSG2_MUTUAL  ;
   PL-ILL-PXSG2_MUTUAL  ;
@@ -679,7 +679,7 @@ LEXICON NMN_OBLIQUE-POSSESSA-PL_FRONT
   PL-ABE-PXSG3_MUTUAL  ;
   PL-ACC-PXSG3_MUTUAL  ;
   PL-COM-PXSG3_MUTUAL  ;
-  PL-COMP-PXSG3_MUTUAL ;
+  PL-CMPR-PXSG3_MUTUAL ;
   PL-DAT-PXSG3_MUTUAL  ;
   PL-GEN-PXSG3_MUTUAL  ;
   PL-ILL-PXSG3_MUTUAL  ;
@@ -690,7 +690,7 @@ LEXICON NMN_OBLIQUE-POSSESSA-PL_FRONT
   PL-ABE-PXSG3_FRONT   ;
   PL-ACC-PXSG3_FRONT   ;
   PL-COM-PXSG3_FRONT   ;
-  PL-COMP-PXSG3_FRONT  ;
+  PL-CMPR-PXSG3_FRONT  ;
   PL-DAT-PXSG3_FRONT   ;
   PL-GEN-PXSG3_FRONT   ;
   PL-ILL-PXSG3_FRONT   ;
@@ -702,7 +702,7 @@ LEXICON NMN_OBLIQUE-POSSESSA-PL_FRONT
   PL-ABE-PXPL1_MUTUAL  ;
   PL-ACC-PXPL1_MUTUAL  ;
   PL-COM-PXPL1_MUTUAL  ;
-  PL-COMP-PXPL1_MUTUAL ;
+  PL-CMPR-PXPL1_MUTUAL ;
   PL-DAT-PXPL1_MUTUAL  ;
   PL-GEN-PXPL1_MUTUAL  ;
   PL-ILL-PXPL1_MUTUAL  ;
@@ -714,7 +714,7 @@ LEXICON NMN_OBLIQUE-POSSESSA-PL_FRONT
   PL-ABE-PXPL2_MUTUAL  ;
   PL-ACC-PXPL2_MUTUAL  ;
   PL-COM-PXPL2_MUTUAL  ;
-  PL-COMP-PXPL2_MUTUAL ;
+  PL-CMPR-PXPL2_MUTUAL ;
   PL-DAT-PXPL2_MUTUAL  ;
   PL-GEN-PXPL2_MUTUAL  ;
   PL-ILL-PXPL2_MUTUAL  ;
@@ -726,7 +726,7 @@ LEXICON NMN_OBLIQUE-POSSESSA-PL_FRONT
   PL-ABE-PXPL3_MUTUAL  ;
   PL-ACC-PXPL3_MUTUAL  ;
   PL-COM-PXPL3_MUTUAL  ;
-  PL-COMP-PXPL3_MUTUAL ;
+  PL-CMPR-PXPL3_MUTUAL ;
   PL-DAT-PXPL3_MUTUAL  ;
   PL-GEN-PXPL3_MUTUAL  ;
   PL-ILL-PXPL3_MUTUAL  ;
@@ -737,8 +737,8 @@ LEXICON NMN_OBLIQUE-POSSESSA-PL_FRONT
 
 !!
 LEXICON SG-ABE-PXSG1_MUTUAL
- +Sg+Abe+PxSg1:%>деэм K ;
- +Sg+PxSg1+Abe:%>емде K ;
+ +Sg+Abe+PxSg1:%>деэм K ; !NB_CX_PX
+ +Sg+PxSg1+Abe:%>емде K ; !NB_PX_CX
 
 LEXICON SG-ACC-PXSG1_MUTUAL
  +Sg+PxSg1+Acc:%>емӹм K ;
@@ -746,12 +746,12 @@ LEXICON SG-ACC-PXSG1_MUTUAL
 LEXICON SG-COM-PXSG1_MUTUAL
  +Sg+PxSg1+Com:%>емге K ;
 
-LEXICON SG-COMP-PXSG1_MUTUAL
- +Sg+PxSg1+Comp:%>емлӓ K ;
-LEXICON SG-COMP-PXSG1_BACK
- +Sg+Comp+PxSg1:%>ла%>эм K ;
-LEXICON SG-COMP-PXSG1_FRONT
- +Sg+Comp+PxSg1:%>лӓ%>эм K ;
+LEXICON SG-CMPR-PXSG1_MUTUAL
+ +Sg+PxSg1+Cmpr:%>емлӓ K ; !NB_PX_CX
+LEXICON SG-CMPR-PXSG1_BACK
+ +Sg+Cmpr+PxSg1:%>ла%>эм K ;
+LEXICON SG-CMPR-PXSG1_FRONT
+ +Sg+Cmpr+PxSg1:%>лӓ%>эм K ;
 
 LEXICON SG-DAT-PXSG1_MUTUAL
  +Sg+PxSg1+Dat:%>емлӓн K ;
@@ -778,8 +778,8 @@ LEXICON SG-INE-PXSG1_FRONT
  +Sg+Ine+PxSg1:%>ӹштем K ;
 
 LEXICON SG-LAT-PXSG1_MUTUAL
- +Sg+Lat+PxSg1:%>ешем K ;
- +Sg+PxSg1+Lat:%>емӹш K ;
+ +Sg+Lat+PxSg1:%>ешем K ; !NB_CX_PX
+ +Sg+PxSg1+Lat:%>емӹш K ; !NB_PX_CX
 
 LEXICON SG-NOM-PXSG1_MUTUAL
  +Sg+Nom+PxSg1:%>ем K ;
@@ -797,10 +797,10 @@ LEXICON PL-COM-PXSG1_MUTUAL
  +PxSg1+Pl+Com:%>емвлӓге K ;
  +Pl+PxSg1+Com:%>влӓэмге K ;
 
-LEXICON PL-COMP-PXSG1_MUTUAL
- +Pl+PxSg1+Comp:%>влӓэмлӓ K ;
- +Pl+Comp+PxSg1:%>влӓлӓэм K ;
- +PxSg1+Pl+Comp:%>емвлӓлӓ K ;
+LEXICON PL-CMPR-PXSG1_MUTUAL
+ +Pl+PxSg1+Cmpr:%>влӓэмлӓ K ;
+ +Pl+Cmpr+PxSg1:%>влӓлӓэм K ;
+ +PxSg1+Pl+Cmpr:%>емвлӓлӓ K ;
 
 LEXICON PL-DAT-PXSG1_MUTUAL
   +Pl+PxSg1+Dat:%>влӓэмлӓн K ;
@@ -842,12 +842,12 @@ LEXICON SG-ACC-PXSG2_MUTUAL
 LEXICON SG-COM-PXSG2_MUTUAL
  +Sg+PxSg2+Com:%>етге K ;
 
-LEXICON SG-COMP-PXSG2_MUTUAL
- +Sg+PxSg2+Comp:%>етлӓ K ;
-LEXICON SG-COMP-PXSG2_BACK
- +Sg+Comp+PxSg2:%>лаэт K ;
-LEXICON SG-COMP-PXSG2_FRONT
- +Sg+Comp+PxSg2:%>лӓэт K ;
+LEXICON SG-CMPR-PXSG2_MUTUAL
+ +Sg+PxSg2+Cmpr:%>етлӓ K ;
+LEXICON SG-CMPR-PXSG2_BACK
+ +Sg+Cmpr+PxSg2:%>лаэт K ;
+LEXICON SG-CMPR-PXSG2_FRONT
+ +Sg+Cmpr+PxSg2:%>лӓэт K ;
 
 LEXICON SG-DAT-PXSG2_MUTUAL
  +Sg+PxSg2+Dat:%>етлӓн K ;
@@ -889,10 +889,10 @@ LEXICON PL-COM-PXSG2_MUTUAL
  +PxSg2+Pl+Com:%>етвлӓге K ;
  +Pl+PxSg2+Com:%>влӓэтге K ;
 
-LEXICON PL-COMP-PXSG2_MUTUAL
- +Pl+PxSg2+Comp:%>влӓэтлӓ K ;
- +Pl+Comp+PxSg2:%>влӓлӓэт K ;
- +PxSg2+Pl+Comp:%>етвлӓлӓ K ;
+LEXICON PL-CMPR-PXSG2_MUTUAL
+ +Pl+PxSg2+Cmpr:%>влӓэтлӓ K ;
+ +Pl+Cmpr+PxSg2:%>влӓлӓэт K ;
+ +PxSg2+Pl+Cmpr:%>етвлӓлӓ K ;
 
 LEXICON PL-DAT-PXSG2_MUTUAL
   +Pl+PxSg2+Dat:%>влӓэтлӓн K ;
@@ -953,17 +953,17 @@ LEXICON SG-COM-PXSG3_BACK
 LEXICON SG-COM-PXSG3_FRONT
    +Sg+PxSg3+Com:%>жӹ%>ге       K ;
 
-!LEXICON PXSG3-SG-COMP
-! +Sg+Comp+PxSg3:%>л%{аӓ%}%>жЫ2 K ;
-! +Sg+PxSg3+Comp:%>жЫ2%>л%{аӓ%} K ;
+!LEXICON PXSG3-SG-CMPR
+! +Sg+Cmpr+PxSg3:%>л%{аӓ%}%>жЫ2 K ;
+! +Sg+PxSg3+Cmpr:%>жЫ2%>л%{аӓ%} K ;
 
-LEXICON SG-COMP-PXSG3_BACK
- +Sg+Comp+PxSg3:%>ла%>жы K ;
- +Sg+PxSg3+Comp:%>жы%>ла K ;
+LEXICON SG-CMPR-PXSG3_BACK
+ +Sg+Cmpr+PxSg3:%>ла%>жы K ;
+ +Sg+PxSg3+Cmpr:%>жы%>ла K ;
 
-LEXICON SG-COMP-PXSG3_FRONT
-  +Sg+Comp+PxSg3:%>лӓ%>жӹ        K ;
-  +Sg+PxSg3+Comp:%>жӹ%>лӓ        K ;
+LEXICON SG-CMPR-PXSG3_FRONT
+  +Sg+Cmpr+PxSg3:%>лӓ%>жӹ        K ;
+  +Sg+PxSg3+Cmpr:%>жӹ%>лӓ        K ;
 
 !LEXICON PXSG3-SG-DAT
 !  +Sg+PxSg3+Dat:%>жЫ2%>л%{аӓ%}н K ;
@@ -1028,13 +1028,13 @@ LEXICON PL-COM-PXSG3_BACK
 LEXICON PL-COM-PXSG3_FRONT
  +PxSg3+Pl+Com:%>жӹ%>влӓге K ;
 
-LEXICON PL-COMP-PXSG3_MUTUAL
- +Pl+PxSg3+Comp:%>влӓжӹлӓ K ;
- +Pl+Comp+PxSg3:%>влӓлӓжӹ K ;
-LEXICON PL-COMP-PXSG3_BACK
- +PxSg3+Pl+Comp:%>жы%>влӓлӓ K ;
-LEXICON PL-COMP-PXSG3_FRONT
- +PxSg3+Pl+Comp:%>жӹ%>влӓлӓ K ;
+LEXICON PL-CMPR-PXSG3_MUTUAL
+ +Pl+PxSg3+Cmpr:%>влӓжӹлӓ K ;
+ +Pl+Cmpr+PxSg3:%>влӓлӓжӹ K ;
+LEXICON PL-CMPR-PXSG3_BACK
+ +PxSg3+Pl+Cmpr:%>жы%>влӓлӓ K ;
+LEXICON PL-CMPR-PXSG3_FRONT
+ +PxSg3+Pl+Cmpr:%>жӹ%>влӓлӓ K ;
 
 LEXICON PL-DAT-PXSG3_MUTUAL
  +Pl+PxSg3+Dat:%>влӓжӹлӓн K ;
@@ -1097,9 +1097,9 @@ LEXICON PXPL1-SG-ACC
 LEXICON PXPL1-SG-COM
  +Sg+PxPl1+Com:%>н%{аӓ%}%>ге K ;
 
-LEXICON PXPL1-SG-COMP
- +Sg+Comp+PxPl1:%>л%{аӓ%}%>н%{аӓ%} K ;
- +Sg+PxPl1+Comp:%>н%{аӓ%}%>л%{аӓ%} K ;
+LEXICON PXPL1-SG-CMPR
+ +Sg+Cmpr+PxPl1:%>л%{аӓ%}%>н%{аӓ%} K ;
+ +Sg+PxPl1+Cmpr:%>н%{аӓ%}%>л%{аӓ%} K ;
 
 LEXICON PXPL1-SG-DAT
  +Sg+PxPl1+Dat:%>н%{аӓ%}%>л%{аӓ%}н K ;
@@ -1134,8 +1134,8 @@ LEXICON PL-ACC-PXPL1_MUTUAL
  +Pl+PxPl1+Acc:%>влӓнӓм K ;
 LEXICON PL-COM-PXPL1_MUTUAL
  +Pl+PxPl1+Com:%>влӓнӓге K ;
-LEXICON PL-COMP-PXPL1_MUTUAL
- +Pl+PxPl1+Comp:%>влӓнӓлӓ K ;
+LEXICON PL-CMPR-PXPL1_MUTUAL
+ +Pl+PxPl1+Cmpr:%>влӓнӓлӓ K ;
 
 LEXICON PL-DAT-PXPL1_MUTUAL
  +Pl+PxPl1+Dat:%>влӓнӓлӓн K ;
@@ -1159,9 +1159,9 @@ LEXICON PXPL2-SG-ACC
  +Sg+PxPl2+Acc:%>д%{аӓ%}%>%{ыӹØ%}м K ;
 LEXICON PXPL2-SG-COM
  +Sg+PxPl2+Com:%>д%{аӓ%}%>ге K ;
-LEXICON PXPL2-SG-COMP
- +Sg+Comp+PxPl2:%>л%{аӓ%}%>д%{аӓ%} K ;
- +Sg+PxPl2+Comp:%>д%{аӓ%}%>л%{аӓ%} K ;
+LEXICON PXPL2-SG-CMPR
+ +Sg+Cmpr+PxPl2:%>л%{аӓ%}%>д%{аӓ%} K ;
+ +Sg+PxPl2+Cmpr:%>д%{аӓ%}%>л%{аӓ%} K ;
 LEXICON PXPL2-SG-DAT
  +Sg+PxPl2+Dat:%>д%{аӓ%}%>л%{аӓ%}н K ;
  +Sg+Dat+PxPl2:%>л%{аӓ%}н%>д%{аӓ%} K ;
@@ -1191,8 +1191,8 @@ LEXICON PL-ACC-PXPL2_MUTUAL
  +Pl+PxPl2+Acc:%>влӓ%>дӓ%>ӹм K ;
 LEXICON PL-COM-PXPL2_MUTUAL
  +Pl+PxPl2+Com:%>влӓ%>дӓ%>ге K ;
-LEXICON PL-COMP-PXPL2_MUTUAL
- +Pl+PxPl2+Comp:%>влӓ%>дӓ%>лӓ K ;
+LEXICON PL-CMPR-PXPL2_MUTUAL
+ +Pl+PxPl2+Cmpr:%>влӓ%>дӓ%>лӓ K ;
 LEXICON PL-DAT-PXPL2_MUTUAL
   +Pl+PxPl2+Dat:%>влӓ%>дӓлӓн   K ;
   +Pl+Dat+PxPl2:%>влӓ%>лӓндӓ   K ;
@@ -1231,14 +1231,14 @@ LEXICON SG-COM-PXPL3_BACK
  +Sg+PxPl3+Com:%>ышты%>ге K ;
 LEXICON SG-COM-PXPL3_FRONT
    +Sg+PxPl3+Com:%>ӹштӹ%>ге                  K ;
-!LEXICON PXPL3-SG-COMP
-! +Sg+PxPl3+Comp:%>%{ыӹØ%}шт%{ыӹØ%}%>л%{аӓ%} K ;
-LEXICON SG-COMP-PXPL3_BACK
- +Sg+PxPl3+Comp:%>ышты%>ла K ;
- +Sg+Comp+PxPl3:%>ла%>ышты K ;
-LEXICON SG-COMP-PXPL3_FRONT
-  +Sg+PxPl3+Comp:%>ӹштӹ%>лӓ                   K ;
-  +Sg+Comp+PxPl3:%>лӓ%>ӹштӹ                   K ;
+!LEXICON PXPL3-SG-CMPR
+! +Sg+PxPl3+Cmpr:%>%{ыӹØ%}шт%{ыӹØ%}%>л%{аӓ%} K ;
+LEXICON SG-CMPR-PXPL3_BACK
+ +Sg+PxPl3+Cmpr:%>ышты%>ла K ;
+ +Sg+Cmpr+PxPl3:%>ла%>ышты K ;
+LEXICON SG-CMPR-PXPL3_FRONT
+  +Sg+PxPl3+Cmpr:%>ӹштӹ%>лӓ                   K ;
+  +Sg+Cmpr+PxPl3:%>лӓ%>ӹштӹ                   K ;
 !LEXICON PXPL3-SG-DAT
 !  +Sg+PxPl3+Dat:%>%{ыӹØ%}шт%{ыӹØ%}%>л%{аӓ%}н K ;
 !  +Sg+Dat+PxPl3:%>л%{аӓ%}н%>%{ыӹØ%}шт%{ыӹØ%} K ;
@@ -1283,9 +1283,9 @@ LEXICON PL-ACC-PXPL3_MUTUAL
  +Pl+PxPl3+Acc:%>влӓ%>ӹштӹ%>ӹм K ;
 LEXICON PL-COM-PXPL3_MUTUAL
  +Pl+PxPl3+Com:%>влӓ%>ӹштӹ%>ге K ;
-LEXICON PL-COMP-PXPL3_MUTUAL
- +Pl+PxPl3+Comp:%>влӓ%>ӹштӹ%>лӓ K ;
- +Pl+Comp+PxPl3:%>влӓ%>лӓ%>ӹштӹ K ;
+LEXICON PL-CMPR-PXPL3_MUTUAL
+ +Pl+PxPl3+Cmpr:%>влӓ%>ӹштӹ%>лӓ K ;
+ +Pl+Cmpr+PxPl3:%>влӓ%>лӓ%>ӹштӹ K ;
 LEXICON PL-DAT-PXPL3_MUTUAL
  +Pl+PxPl3+Dat:%>влӓ%>ӹштӹ%>лӓн K ;
  +Pl+Dat+PxPl3:%>влӓ%>лӓн%>ӹштӹ K ;
