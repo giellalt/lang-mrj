@@ -60,7 +60,7 @@ Multichar_Symbols
 
 !! The nominals are inflected in the following Case and Number
  +Sg +Du +Pl
- +Ess +Nom +Gen +Acc +Ill +Loc +Com +Com/Sh
+ +Ess +Nom +Gen +Acc +Ill +Loc +Com +Com/Sh +Cmpr
 
 !! The possession is marked as such:
  +PxSg1 +PxSg2 +PxSg3 +PxDu1 +PxDu2 +PxDu3 +PxPl1 +PxPl2 +PxPl3
@@ -78,10 +78,11 @@ Multichar_Symbols
  +Ger
  +ConNeg +ConNegII +Neg
  +ImprtII !! ыма
- +ActPrc !! active participle ЫшЫ
- +PssPrc !! passive participle ЫмЫ
+ +Act !! Prc active participle ЫшЫ
+ +Pass +Prc !! passive participle ЫмЫ
  +NegPrc !! negative passive participle ЫдЫмЫ
  +Sup +VGen +VAbess
+ +FutPrc
 
 ! Abbreviated words are classified with:
  +ABBR +ACR
@@ -364,6 +365,8 @@ Multichar_Symbols
 %^ConsTransf !!≈ * __@CODE@__  k loss in am-verbs, also z to ts
 %^KIN 	     !!≈ * __@CODE@__  with kin terms for ӓвӓмӹн not мӱэмӹн
 %^А2ЫӸ       !!≈ * __@CODE@__  with карта and картын витринӹн
+
++Cmp
 
 !! !!Flag diacritics
 !! We have manually optimised the structure of our lexicon using following
