@@ -11,7 +11,7 @@ LEXICON PERS-SG1
   +Pron+Pers+Sg1+Gen:ньӹн  K ;
   +Pron+Pers+Sg1+Acc:ньӹм  K ;
   +Pron+Pers+Sg1+Dat:лӓнем K ;
- +Pron+Pers+Sg1+Comp:ньлӓ  K ;
+ +Pron+Pers+Sg1+Cmpr:ньлӓ  K ;
   +Pron+Pers+Sg1+Com:ньге  K ;
 
 LEXICON PERS-SG2
@@ -19,7 +19,7 @@ LEXICON PERS-SG2
   +Pron+Pers+Sg2+Gen:ньӹн  K ;
   +Pron+Pers+Sg2+Acc:ньӹм  K ;
   +Pron+Pers+Sg2+Dat:лӓнет K ;
- +Pron+Pers+Sg2+Comp:ньлӓ  K ;
+ +Pron+Pers+Sg2+Cmpr:ньлӓ  K ;
   +Pron+Pers+Sg2+Com:ньге  K ;
 
 LEXICON PERS-SG3
@@ -27,7 +27,7 @@ LEXICON PERS-SG3
   +Pron+Pers+Sg3+Gen:%>н   K ;
   +Pron+Pers+Sg3+Acc:%>м   K ;
   +Pron+Pers+Sg3+Dat:%>лӓн K ;
- +Pron+Pers+Sg3+Comp:%>лӓ  K ;
+ +Pron+Pers+Sg3+Cmpr:%>лӓ  K ;
   +Pron+Pers+Sg3+Com:%>ге  K ;
 
 LEXICON PERS-PL1
@@ -35,7 +35,7 @@ LEXICON PERS-PL1
   +Pron+Pers+Pl1+Gen:мнӓ%>н  K ;
   +Pron+Pers+Pl1+Acc:мнӓ%>м  K ;
   +Pron+Pers+Pl1+Dat:%>лӓннӓ K ;
- +Pron+Pers+Pl1+Comp:%>лӓ    K ;
+ +Pron+Pers+Pl1+Cmpr:%>лӓ    K ;
   +Pron+Pers+Pl1+Com:%>ге    K ;
 
 LEXICON PERS-PL2
@@ -43,7 +43,7 @@ LEXICON PERS-PL2
   +Pron+Pers+Pl2+Gen:мдӓ%>н  K ;
   +Pron+Pers+Pl2+Acc:мдӓ%>м  K ;
   +Pron+Pers+Pl2+Dat:%>лӓндӓ K ;
- +Pron+Pers+Pl2+Comp:%>лӓ    K ;
+ +Pron+Pers+Pl2+Cmpr:%>лӓ    K ;
   +Pron+Pers+Pl2+Com:%>ге    K ;
 
 LEXICON PERS-PL3 !!= @CODE@ нӹнӹ:нӹнӹ
@@ -51,7 +51,7 @@ LEXICON PERS-PL3 !!= @CODE@ нӹнӹ:нӹнӹ
   +Pron+Pers+Pl3+Gen:%>н   K ;
   +Pron+Pers+Pl3+Acc:%>м   K ;
   +Pron+Pers+Pl3+Dat:%>лӓн K ;
- +Pron+Pers+Pl3+Comp:%>лӓ  K ;
+ +Pron+Pers+Pl3+Cmpr:%>лӓ  K ;
   +Pron+Pers+Pl3+Com:%>ге  K ;
 
 LEXICON REFL !!= @CODE@ ӹшке:ӹшк
@@ -96,14 +96,14 @@ LEXICON DEM-SG !!= @CODE@ тидӹ:ти
   +Pron+Dem+Sg+Gen:дӹ%>н        K       ;
   +Pron+Dem+Sg+Acc:дӹ%>м        K       ;
   +Pron+Dem+Sg+Dat:дӹ%>лӓн      K       ;
- +Pron+Dem+Sg+Comp:дӹ%>лӓ       K       ;
+ +Pron+Dem+Sg+Cmpr:дӹ%>лӓ       K       ;
   +Pron+Dem+Sg+Com:дӹ%>ге       K       ;
 
   +Pron+Dem+Pl+Nom:дӹ%>влӓ      K       ;
   +Pron+Dem+Pl+Gen:дӹ%>влӓ%>н   K       ;
   +Pron+Dem+Pl+Acc:дӹ%>влӓ%>м   K       ;
   +Pron+Dem+Pl+Dat:дӹ%>влӓ%>лӓн K       ;
- +Pron+Dem+Pl+Comp:дӹ%>влӓ%>лӓ  K       ;
+ +Pron+Dem+Pl+Cmpr:дӹ%>влӓ%>лӓ  K       ;
   +Pron+Dem+Pl+Com:дӹ%>влӓ%>ге  K       ;
 
 LEXICON DEM-PL !!= @CODE@ нинӹ:ни
@@ -112,14 +112,14 @@ LEXICON DEM-PL !!= @CODE@ нинӹ:ни
      +Pron+Dem+Pl+Gen:нӹ%>н        K       ;
      +Pron+Dem+Pl+Acc:нӹ%>м        K       ;
      +Pron+Dem+Pl+Dat:нӹ%>лӓн      K       ;
-    +Pron+Dem+Pl+Comp:нӹ%>лӓ       K       ;
+    +Pron+Dem+Pl+Cmpr:нӹ%>лӓ       K       ;
      +Pron+Dem+Pl+Com:нӹ%>ге       K       ;
 !! Plural pronoun with additional plural marking
   +Pron+Dem+Pl+Pl+Nom:нӹ%>влӓ      K       ;
   +Pron+Dem+Pl+Pl+Gen:нӹ%>влӓ%>н   K       ;
   +Pron+Dem+Pl+Pl+Acc:нӹ%>влӓ%>м   K       ;
   +Pron+Dem+Pl+Pl+Dat:нӹ%>влӓ%>лӓн K       ;
- +Pron+Dem+Pl+Pl+Comp:нӹ%>влӓ%>лӓ  K       ;
+ +Pron+Dem+Pl+Pl+Cmpr:нӹ%>влӓ%>лӓ  K       ;
   +Pron+Dem+Pl+Pl+Com:нӹ%>влӓ%>ге  K       ;
 
 

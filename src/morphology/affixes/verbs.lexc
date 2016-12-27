@@ -28,7 +28,7 @@ LEXICON V_ИӒМ
      V_АМ          ;
  +V: INF_FRONT     ;
  +V: ACT-PRC_FRONT ;
- +V: PSS-PRC_FRONT ;
+ +V: PASS-PRC_FRONT ;
  +V: NEG-PRC_FRONT ;
 LEXICON V_ИӒМ-SG3
 !! LEXICON @LEXNAME@
@@ -41,7 +41,7 @@ LEXICON V_ИӒМ-3
 !! Front Vowel harmony for V_АМ-3 verbs
      V_АМ-3        ;
  +V: ACT-PRC_FRONT ;
- +V: PSS-PRC_FRONT ;
+ +V: PASS-PRC_FRONT ;
  +V: NEG-PRC_FRONT ;
 
 LEXICON V_МОАМ
@@ -51,7 +51,7 @@ LEXICON V_МОАМ
      V_АМ         ;
  +V: INF_BACK     ;
  +V: ACT-PRC_BACK ;
- +V: PSS-PRC_BACK ;
+ +V: PASS-PRC_BACK ;
  +V: NEG-PRC_BACK ;
 LEXICON V_МОАМ-SG3
 !! LEXICON @LEXNAME@
@@ -59,7 +59,7 @@ LEXICON V_МОАМ-SG3
 !! Back Vowel harmony for  V_АМ-SG3 verbs
      V_АМ-SG3     ;
  +V: ACT-PRC_BACK ;
- +V: PSS-PRC_BACK ;
+ +V: PASS-PRC_BACK ;
  +V: NEG-PRC_BACK ;
 LEXICON V_МОАМ-3
 !! Approximately 1 2014-12-21
@@ -74,7 +74,7 @@ LEXICON V_ПӸЧКӒМ
      V_АМ          ;
  +V: INF_FRONT     ;
  +V: ACT-PRC_FRONT ;
- +V: PSS-PRC_FRONT ;
+ +V: PASS-PRC_FRONT ;
  +V: NEG-PRC_FRONT ;
 LEXICON V_ПӸЧКӒМ-SG3
 !! LEXICON @LEXNAME@
@@ -82,7 +82,7 @@ LEXICON V_ПӸЧКӒМ-SG3
 !! Back Vowel harmony for  V_АМ-SG3 verbs
      V_АМ-SG3      ;
  +V: ACT-PRC_FRONT ;
- +V: PSS-PRC_FRONT ;
+ +V: PASS-PRC_FRONT ;
  +V: NEG-PRC_FRONT ;
 LEXICON V_ПӸЧКӒМ-3
 !! LEXICON @LEXNAME@
@@ -97,7 +97,7 @@ LEXICON V_КАЧКАМ
      V_АМ         ;
  +V: INF_BACK     ;
  +V: ACT-PRC_BACK ;
- +V: PSS-PRC_BACK ;
+ +V: PASS-PRC_BACK ;
  +V: NEG-PRC_BACK ;
 LEXICON V_КАЧКАМ-SG3
 !! LEXICON @LEXNAME@
@@ -105,7 +105,7 @@ LEXICON V_КАЧКАМ-SG3
 !! Back Vowel harmony for  V_АМ-SG3 verbs
      V_АМ-SG3     ;
  +V: ACT-PRC_BACK ;
- +V: PSS-PRC_BACK ;
+ +V: PASS-PRC_BACK ;
  +V: NEG-PRC_BACK ;
 LEXICON V_КАЧКАМ-3
 !! LEXICON @LEXNAME@
@@ -121,7 +121,7 @@ LEXICON	V_ВИДЕМ
      V_ЕМ          ;
  +V: INF_FRONT     ;
  +V: ACT-PRC_FRONT ;
- +V: PSS-PRC_FRONT ;
+ +V: PASS-PRC_FRONT ;
  +V: NEG-PRC_FRONT ;
 LEXICON	V_ВИДЕМ-SG3
 !! LEXICON @LEXNAME@
@@ -129,7 +129,7 @@ LEXICON	V_ВИДЕМ-SG3
 !! Front Vowel harmony for V_ЕМ-SG3 verbs
      V_ЕМ-SG3      ;
  +V: ACT-PRC_FRONT ;
- +V: PSS-PRC_FRONT ;
+ +V: PASS-PRC_FRONT ;
  +V: NEG-PRC_FRONT ;
 
 LEXICON	V_АЗЕМ
@@ -139,7 +139,7 @@ LEXICON	V_АЗЕМ
      V_ЕМ          ;
  +V: INF_BACK      ;
  +V: ACT-PRC_BACK  ;
- +V: PSS-PRC_BACK  ;
+ +V: PASS-PRC_BACK  ;
  +V: NEG-PRC_BACK  ;
 LEXICON	V_АЗЕМ-SG3
 !! LEXICON @LEXNAME@
@@ -147,7 +147,7 @@ LEXICON	V_АЗЕМ-SG3
 !! Back	Vowel harmony for  V_ЕМ verbs
      V_ЕМ-SG3      ;
  +V: ACT-PRC_BACK  ;
- +V: PSS-PRC_BACK  ;
+ +V: PASS-PRC_BACK  ;
  +V: NEG-PRC_BACK  ;
 LEXICON	V_АЗЕМ-3
 !! LEXICON @LEXNAME@
@@ -196,9 +196,9 @@ LEXICON V_АМ !!= @CODE@ ӹштӓш:ӹшт
                 +V:           DES-am              ;
 
 !               +V:           INF                 ;
-!        +V+ActPrc:%>ш%{ыӹØ%} K                   ; !! Contlex needed
-! +V+ActPrc+Der/шЫ:%>ш%{ыӹØ%} NMN_ТӸРВӸ           ;
-!               +V:           PSS-PRC             ;
+!        +V+Act+Prc:%>ш%{ыӹØ%} K                   ; !! Contlex needed
+! +V+Act+Prc+Der/шЫ:%>ш%{ыӹØ%} NMN_ТӸРВӸ           ;
+!               +V:           PASS-PRC             ;
 !               +V:           NEG-PRC             ;
 
 LEXICON V_АМ-3
@@ -221,9 +221,9 @@ LEXICON V_АМ-SG3 !! пелӓш: онг пелеш
                   +V:                DESSG3-am           ;
 !! What else is needed 2014-05-08
 !                 +V:                INF                 ;
-!          +V+ActPrc:%>ш%{ыӹØ%}      K                   ; !! Contlex needed
-!   +V+ActPrc+Der/шЫ:%>ш%{ыӹØ%}      NMN_ТӸРВӸ           ;
-!                 +V:                PSS-PRC             ;
+!          +V+Act+Prc:%>ш%{ыӹØ%}      K                   ; !! Contlex needed
+!   +V+Act+Prc+Der/шЫ:%>ш%{ыӹØ%}      NMN_ТӸРВӸ           ;
+!                 +V:                PASS-PRC             ;
 !                 +V:                NEG-PRC             ;
 
 
@@ -266,9 +266,9 @@ LEXICON V_АМ-SG3 !! пелӓш: онг пелеш
 !                 +V:                DES-em              ;
 !
 !                 +V:                INF                 ;
-!+V+ActPrc:%>%{ыӹØ%}ш%{ыӹØ%} K  ;  Contlex needed
-!   +V+ActPrc+Der/шЫ:%>%{ыӹØ%}шЫ2    NMN_ТӸРВӸ           ;
-!   +V+PssPrc+Der/мЫ:%>%{ыӹØ%}мЫ2    NMN_ТӸРВӸ           ;
+!+V+Act+Prc:%>%{ыӹØ%}ш%{ыӹØ%} K  ;  Contlex needed
+!   +V+Act+Prc+Der/шЫ:%>%{ыӹØ%}шЫ2    NMN_ТӸРВӸ           ;
+!   +V+Pass+Prc+Der/мЫ:%>%{ыӹØ%}мЫ2    NMN_ТӸРВӸ           ;
 ! +V+NegPrc+Der/дЫмЫ:%>%{ыӹØ%}дЫ2мЫ2 NMN_ТӸРВӸ           ;
 
 LEXICON V_ЕМ-3
@@ -291,9 +291,9 @@ LEXICON V_ЕМ-SG3 !! хӹдӹртӓш: хӹдӹртӹ
                 +V:           DESSG3-am        ;
 !! What else is needed 2014-05-08
 !               +V:           INF              ;
-!        +V+ActPrc:%>ш%{ыӹØ%} K                ; !! Contlex needed
-! +V+ActPrc+Der/шЫ:%>ш%{ыӹØ%} NMN_ТӸРВӸ        ;
-!               +V:           PSS-PRC          ;
+!        +V+Act+Prc:%>ш%{ыӹØ%} K                ; !! Contlex needed
+! +V+Act+Prc+Der/шЫ:%>ш%{ыӹØ%} NMN_ТӸРВӸ        ;
+!               +V:           PASS-PRC          ;
 !               +V:           NEG-PRC          ;
 
 
@@ -337,9 +337,9 @@ LEXICON V_ЕМ  !!≈ * __@CODE@__ колташ:колты
                 +V:           DES-am              ;
 
 !               +V:           INF                 ;
-! +V+Der/шЫ+ActPrc:%>ш%{ыӹØ%} K                   ; !! Contlex needed
-! +V+Der/шЫ+ActPrc:%>ш%{ыӹØ%} NMN_ТӸРВӸ           ;
-!               +V:           PSS-PRC             ;
+! +V+Der/шЫ+Act+Prc:%>ш%{ыӹØ%} K                   ; !! Contlex needed
+! +V+Der/шЫ+Act+Prc:%>ш%{ыӹØ%} NMN_ТӸРВӸ           ;
+!               +V:           PASS-PRC             ;
 !               +V:           NEG-PRC             ;
 
 
@@ -628,9 +628,9 @@ LEXICON NEG-PRC
         +Der/дЫмЫ+NegPrc:%>дЫ2м%{ыӹØ%}                 NMN_ТӸРВӸ ;
  +Der/дЫмЫ+NegPrc+Sg+Lat:%>дЫ2м%{ыӹØ%}%>м%{ыӹØ%}%>ешкӹ K         ;
 
-LEXICON PSS-PRC
-        +Der/мЫ+PssPrc:%>м%{ыӹØ%}       NMN_ТӸРВӸ ;
- +Der/мЫ+PssPrc+Sg+Lat:%>м%{ыӹØ%}%>ешкӹ K         ; ! ()
+LEXICON PASS-PRC
+        +Der/мЫ+Pass+Prc:%>м%{ыӹØ%}       NMN_ТӸРВӸ ;
+ +Der/мЫ+Pass+Prc+Sg+Lat:%>м%{ыӹØ%}%>ешкӹ K         ; ! ()
 
 
 LEXICON INF_BACK
@@ -640,13 +640,13 @@ LEXICON NEG-PRC_BACK
         +Der/дЫмЫ+NegPrc:%>дымы       NMN_МАРЫ ;
  +Der/дЫмЫ+NegPrc+Sg+Lat:%>дымы%>ешкӹ K        ;
 
-LEXICON PSS-PRC_BACK
-        +Der/мЫ+PssPrc:%>мы       NMN_МАРЫ ;
- +Der/мЫ+PssPrc+Sg+Lat:%>мы%>ешкӹ K        ; ! ()
+LEXICON PASS-PRC_BACK
+        +Der/мЫ+Pass+Prc:%>мы       NMN_МАРЫ ;
+ +Der/мЫ+Pass+Prc+Sg+Lat:%>мы%>ешкӹ K        ; ! ()
 
 LEXICON ACT-PRC_BACK
- +Der/шЫ+ActPrc:%>шы K        ; !!
- +Der/шЫ+ActPrc:%>шы NMN_МАРЫ ;
+ +Der/шЫ+Act+Prc:%>шы K        ; !!
+ +Der/шЫ+Act+Prc:%>шы NMN_МАРЫ ;
 
 LEXICON INF_FRONT
  +Inf:%>ӓш K ;
@@ -655,13 +655,13 @@ LEXICON NEG-PRC_FRONT
         +Der/дЫмЫ+NegPrc:%>дӹмӹ           NMN_ТӸРВӸ ;
  +Der/дЫмЫ+NegPrc+Sg+Lat:%>дӹмӹ%>мӹ%>ешкӹ K         ;
 
-LEXICON PSS-PRC_FRONT
-        +Der/мЫ+PssPrc:%>мӹ       NMN_ТӸРВӸ ;
- +Der/мЫ+PssPrc+Sg+Lat:%>мӹ%>ешкӹ K         ; ! ()
+LEXICON PASS-PRC_FRONT
+        +Der/мЫ+Pass+Prc:%>мӹ       NMN_ТӸРВӸ ;
+ +Der/мЫ+Pass+Prc+Sg+Lat:%>мӹ%>ешкӹ K         ; ! ()
 
 LEXICON ACT-PRC_FRONT
- +Der/шЫ+ActPrc:%>шӹ K         ; !!
- +Der/шЫ+ActPrc:%>шӹ NMN_ТӸРВӸ ;
+ +Der/шЫ+Act+Prc:%>шӹ K         ; !!
+ +Der/шЫ+Act+Prc:%>шӹ NMN_ТӸРВӸ ;
 
 ! vim: set ft=xfst-lexc:
 
