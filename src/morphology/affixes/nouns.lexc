@@ -4,7 +4,11 @@
 !! Hill Mari nouns inflect in cases.
 LEXICON NTag
   N_ ;
-LEXICON N_  !!≈ * __@CODE@__
+
+! SNM: ensure there is a space before the jspwiki markup __ when the preceding
+! character (ie last of lexicon name) is also an _ char - otherwise one gets a
+! jspwiki syntax error.
+LEXICON N_  !!≈ * __@CODE@ __
  +N+WORK: K ;
 
 !! !!Substandard

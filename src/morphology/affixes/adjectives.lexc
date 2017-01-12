@@ -6,7 +6,10 @@
 LEXICON A-ADN_
  +A: # ; !!≈ * __@CODE@__ This adjective only occurs with a head word in an adnominal phrase
 
-LEXICON A_  !!≈ * __@CODE@__
+! SNM: ensure there is a space before the jspwiki markup __ when the preceding
+! character (ie last of lexicon name) is also an _ char - otherwise one gets a
+! jspwiki syntax error.
+LEXICON A_  !!≈ * __@CODE@ __
      +A+Pos:           #        ;
     +A+Comp:%>р%{аӓ%}к #        ;
  +A+Der/N+N:           NMN_ОЛМА ; !! This should be neutral 2013-05-11
