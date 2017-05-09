@@ -35,10 +35,13 @@ LEXICON ADV_ !
       +Adv:      K ;
  +Adv+Comp:%>рак # ;
 
-LEXICON ADV_КОЛ !
+LEXICON ADV_MOER !
   ADV_ ;
 
-LEXICON ADV_ОЛМА !
+LEXICON ADV_KOL !
+  ADV_ ;
+
+LEXICON ADV_OLMA !
   ADV_ ;
 
 LEXICON DESCR_

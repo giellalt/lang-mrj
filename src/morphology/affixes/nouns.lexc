@@ -13,229 +13,229 @@ LEXICON N_  !!≈ * __@CODE@ __
 
 !! !!Substandard
 
-LEXICON N_КОЛ_SUB !!≈ * __@CODE@__
- +Err/Orth: N_КОЛ ;
+LEXICON N_KOL_SUB !!≈ * __@CODE@__
+ +Err/Orth: N_KOL ;
 
-LEXICON N_ТӸРВӸ_SUB !!≈ * __@CODE@__
- +Err/Orth: N_ТӸРВӸ ;
+LEXICON N_TYERVYE_SUB !!≈ * __@CODE@__
+ +Err/Orth: N_TYERVYE ;
 
 !! !!Standard
 
-LEXICON N_КОЛ !!= @CODE@ кол:кол
+LEXICON N_KOL !!= @CODE@ кол:кол
 !! Back harmony
-  N_КОЛ-SG ;
-  N_КОЛ-PL ;
-LEXICON N_КОЛ-SG
- +N: NMN_КОЛ-SG ;
-LEXICON N_КОЛ-PL
- +N: NMN_КОЛ-PL ;
+  N_KOL-SG ;
+  N_KOL-PL ;
+LEXICON N_KOL-SG
+ +N:%{back%} NMN_KOL-SG ;
+LEXICON N_KOL-PL
+ +N:%{back%} NMN_KOL-PL ;
 
-LEXICON N_МӦР !!= @CODE@ мӧр:мӧр
+LEXICON N_MOER !!= @CODE@ мӧр:мӧр
 !! Front harmony
-  N_МӦР-SG ;
-  N_МӦР-PL ;
-LEXICON N_МӦР-SG
- +N: NMN_МӦР-SG ;
-LEXICON N_МӦР-PL
- +N: NMN_МӦР-PL ;
+  N_MOER-SG ;
+  N_MOER-PL ;
+LEXICON N_MOER-SG
+ +N:%{front%} NMN_MOER-SG ;
+LEXICON N_MOER-PL
+ +N:%{front%} NMN_MOER-PL ;
 
-LEXICON N_МАРЫ !!≈ * __@CODE@__ мары:мары
+LEXICON N_MARY !!≈ * __@CODE@__ мары:мары
 !! The stem vowel "е" is found with possessor indices and the lative
 !! Back harmony
-  N_МАРЫ-SG ;
-  N_МАРЫ-PL ;
-LEXICON N_МАРЫ-SG
- +N: NMN_МАРЫ-SG ;
-LEXICON N_МАРЫ-PL
- +N: NMN_МАРЫ-PL ;
+  N_MARY-SG ;
+  N_MARY-PL ;
+LEXICON N_MARY-SG
+ +N:%{back%} NMN_MARY-SG ;
+LEXICON N_MARY-PL
+ +N:%{back%} NMN_MARY-PL ;
 
-LEXICON N_ТӸРВӸ !!≈ * __@CODE@__ тӹрвӹ:тӹрвӹ
+LEXICON N_TYERVYE !!≈ * __@CODE@__ тӹрвӹ:тӹрвӹ
 !! The stem vowel "е" is found with possessor indices and the lative
 !! Front harmony
-  N_ТӸРВӸ-SG ;
-  N_ТӸРВӸ-PL ;
-LEXICON N_ТӸРВӸ-SG
- +N: NMN_ТӸРВӸ-SG ;
-LEXICON N_ТӸРВӸ-PL
- +N: NMN_ТӸРВӸ-PL ;
+  N_TYERVYE-SG ;
+  N_TYERVYE-PL ;
+LEXICON N_TYERVYE-SG
+ +N:%{front%} NMN_TYERVYE-SG ;
+LEXICON N_TYERVYE-PL
+ +N:%{front%} NMN_TYERVYE-PL ;
 
-LEXICON N_КАРТА_SUB
- +Err/Orth: N_КАРТА ;
+LEXICON N_KARTA_SUB
+ +Err/Orth: N_KARTA ;
 
-LEXICON N_КАРТА !!≈ * __@CODE@__ карта:карта
+LEXICON N_KARTA !!≈ * __@CODE@__ карта:карта
 !! а is specific to the +Sg+Nom, elsewhere ы or ӹ
 !! Back harmony
-  N_КАРТА-SG ;
-  N_КАРТА-PL ;
-LEXICON N_КАРТА-SG
- +N: NMN_КАРТА-SG ;
-LEXICON N_КАРТА-PL
- +N: NMN_КАРТА-PL ;
+  N_KARTA-SG ;
+  N_KARTA-PL ;
+LEXICON N_KARTA-SG
+ +N:%{back%} NMN_KARTA-SG ;
+LEXICON N_KARTA-PL
+ +N:%{back%} NMN_KARTA-PL ;
 
-LEXICON N_БИРЖА !!≈ * __@CODE@__ биржа:биржа
+LEXICON N_BIRZHA !!≈ * __@CODE@__ биржа:биржа
 !! а is specific to the +Sg+Nom, elsewhere  ӹ
 !! Front harmony
-  N_БИРЖА-SG ;
-  N_БИРЖА-PL ;
-LEXICON N_БИРЖА-SG
- +N: NMN_БИРЖА-SG ;
-LEXICON N_БИРЖА-PL
- +N: NMN_БИРЖА-PL ;
+  N_BIRZHA-SG ;
+  N_BIRZHA-PL ;
+LEXICON N_BIRZHA-SG
+ +N:%{front%} NMN_BIRZHA-SG ;
+LEXICON N_BIRZHA-PL
+ +N:%{front%} NMN_BIRZHA-PL ;
 
-LEXICON N_ВАРЕНЬЕ !!≈ * __@CODE@__ варенье:варенье
+LEXICON N_VAREN1E !!≈ * __@CODE@__ варенье:варенье
 !! е is specific to the +Sg+Nom, elsewhere  ӹ
 !! Front harmony
-  N_ВАРЕНЬЕ-SG ;
-  N_ВАРЕНЬЕ-PL ;
-LEXICON N_ВАРЕНЬЕ-SG
- +N: NMN_ВАРЕНЬЕ-SG ;
-LEXICON N_ВАРЕНЬЕ-PL
- +N: NMN_ВАРЕНЬЕ-PL ;
+  N_VAREN1E-SG ;
+  N_VAREN1E-PL ;
+LEXICON N_VAREN1E-SG
+ +N:%{front%} NMN_VAREN1E-SG ;
+LEXICON N_VAREN1E-PL
+ +N:%{front%} NMN_VAREN1E-PL ;
 
-LEXICON N_ПОЧТА !!= @CODE@  почта:почта
-        +N: NMN_OBLIQUE-INDEFINITE-SG_BACK   ;
-        +N: NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ;
-        +N: NMN_OBLIQUE-POSSESSA-SG_BACK     ; !!!!
-        +N: NMN_OBLIQUE-POSSESSA-PL_BACK     ;
- +N+Sg+Nom: K                                ;
+LEXICON N_POCHTA !!= @CODE@  почта:почта
+        +N:%{back%} NMN_OBLIQUE-INDEFINITE-SG_BACK   ;
+        +N:%{back%} NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ;
+        +N:%{back%} NMN_OBLIQUE-POSSESSA-SG_BACK     ; !!!!
+        +N:%{back%} NMN_OBLIQUE-POSSESSA-PL_BACK     ;
+ +N+Sg+Nom:%{back%} K                                ;
 
-LEXICON N_ОЛМА_SUB
- +Err/Orth: N_ОЛМА ;
-LEXICON N_ОЛМА !!= @CODE@  олма:олма
+LEXICON N_OLMA_SUB
+ +Err/Orth: N_OLMA ;
+LEXICON N_OLMA !!= @CODE@  олма:олма
 !! Back harmony
-  N_ОЛМА-SG ;
-  N_ОЛМА-PL ;
-LEXICON N_ОЛМА-SG
- +N: NMN_ОЛМА-SG ;
-LEXICON N_ОЛМА-PL
- +N: NMN_ОЛМА-PL ;
+  N_OLMA-SG ;
+  N_OLMA-PL ;
+LEXICON N_OLMA-SG
+ +N:%{back%} NMN_OLMA-SG ;
+LEXICON N_OLMA-PL
+ +N:%{back%} NMN_OLMA-PL ;
 
-LEXICON N_ӒЗӒ !!= @CODE@  ӓзӓ:ӓзӓ
+LEXICON N_AEZAE !!= @CODE@  ӓзӓ:ӓзӓ
 !! Front harmony
-  N_ӒЗӒ-SG ;
-  N_ӒЗӒ-PL ;
-LEXICON N_ӒЗӒ-SG
- +N: NMN_ӒЗӒ-SG ;
-LEXICON N_ӒЗӒ-PL
- +N: NMN_ӒЗӒ-PL ;
+  N_AEZAE-SG ;
+  N_AEZAE-PL ;
+LEXICON N_AEZAE-SG
+ +N:%{front%} NMN_AEZAE-SG ;
+LEXICON N_AEZAE-PL
+ +N:%{front%} NMN_AEZAE-PL ;
 
-LEXICON N_ПЕЧЕНЬЕ !!= @CODE@  печенье:печенье
+LEXICON N_PECHEN1E !!= @CODE@  печенье:печенье
 !! Front harmony
-  N_ПЕЧЕНЬЕ-SG ;
-  N_ПЕЧЕНЬЕ-PL ;
-LEXICON N_ПЕЧЕНЬЕ-SG
- +N: NMN_ПЕЧЕНЬЕ-SG ;
-LEXICON N_ПЕЧЕНЬЕ-PL
- +N: NMN_ПЕЧЕНЬЕ-PL ;
+  N_PECHEN1E-SG ;
+  N_PECHEN1E-PL ;
+LEXICON N_PECHEN1E-SG
+ +N:%{front%} NMN_PECHEN1E-SG ;
+LEXICON N_PECHEN1E-PL
+ +N:%{front%} NMN_PECHEN1E-PL ;
 
 !!
-LEXICON NMN_КОЛ !!= @CODE@ кол:кол
+LEXICON NMN_KOL !!= @CODE@ кол:кол
 !! Back harmony
-  NMN_КОЛ-SG ;
-  NMN_КОЛ-PL ;
-LEXICON NMN_КОЛ-SG
+  NMN_KOL-SG ;
+  NMN_KOL-PL ;
+LEXICON NMN_KOL-SG
  +Sg+Nom: K                              ;
           NMN_OBLIQUE-INDEFINITE-SG_BACK ;
           NMN_OBLIQUE-POSSESSA-SG_BACK   ;
 
-LEXICON NMN_КОЛ-PL
+LEXICON NMN_KOL-PL
   NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ;
   NMN_OBLIQUE-POSSESSA-PL_BACK     ;
 
-LEXICON NMN_МӦР !!= @CODE@ мӧр:мӧр
+LEXICON NMN_MOER !!= @CODE@ мӧр:мӧр
 !! Front harmony
-  NMN_МӦР-SG ;
-  NMN_МӦР-PL ;
-LEXICON NMN_МӦР-SG
+  NMN_MOER-SG ;
+  NMN_MOER-PL ;
+LEXICON NMN_MOER-SG
  +Sg+Nom: K                               ;
           NMN_OBLIQUE-INDEFINITE-SG_FRONT ;
           NMN_OBLIQUE-POSSESSA-SG_FRONT   ;
 
-LEXICON NMN_МӦР-PL
+LEXICON NMN_MOER-PL
   NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ;
   NMN_OBLIQUE-POSSESSA-PL_FRONT    ;
 
-LEXICON NMN_МАРЫ !!≈ * __@CODE@__ мары:мары
+LEXICON NMN_MARY !!≈ * __@CODE@__ мары:мары
 !! The stem vowel "е" is found with possessor indices and the lative
 !! Back harmony
-  NMN_МАРЫ-SG ;
-  NMN_МАРЫ-PL ;
-LEXICON NMN_МАРЫ-SG
+  NMN_MARY-SG ;
+  NMN_MARY-PL ;
+LEXICON NMN_MARY-SG
  +Sg+Nom: K                              ;
           NMN_OBLIQUE-INDEFINITE-SG_BACK ;
           NMN_OBLIQUE-POSSESSA-SG_BACK   ;
 
-LEXICON NMN_МАРЫ-PL
+LEXICON NMN_MARY-PL
             NMN_OBLIQUE-INDEFINITE-PL_MUTUAL      ;
             NMN_OBLIQUE-POSSESSA-PL_BACK          ;
 ! +PxSg1:эм PL-ABEACCCOMDATGENILLINELATNOM_MUTUAL ;
 
-LEXICON NMN_ТӸРВӸ !!≈ * __@CODE@__ тӹрвӹ:тӹрвӹ
+LEXICON NMN_TYERVYE !!≈ * __@CODE@__ тӹрвӹ:тӹрвӹ
 !! The stem vowel "е" is found with possessor indices and the lative
 !! Front harmony
-  NMN_ТӸРВӸ-SG ;
-  NMN_ТӸРВӸ-PL ;
-LEXICON NMN_ТӸРВӸ-SG
+  NMN_TYERVYE-SG ;
+  NMN_TYERVYE-PL ;
+LEXICON NMN_TYERVYE-SG
  +Sg+Nom: K                               ;
           NMN_OBLIQUE-INDEFINITE-SG_FRONT ;
           NMN_OBLIQUE-POSSESSA-SG_FRONT   ;
 
-LEXICON NMN_ТӸРВӸ-PL
+LEXICON NMN_TYERVYE-PL
             NMN_OBLIQUE-INDEFINITE-PL_MUTUAL      ;
             NMN_OBLIQUE-POSSESSA-PL_FRONT         ;
 ! +PxSg1:эм PL-ABEACCCOMDATGENILLINELATNOM_MUTUAL ;
 
-LEXICON NMN_КАРТА	 !!≈ * __@CODE@__ карта:карта
+LEXICON NMN_KARTA	 !!≈ * __@CODE@__ карта:карта
 !! Back а/ы
 !! а is specific to the +Sg+Nom, elsewhere ы
-  NMN_КАРТА-SG ;
-  NMN_КАРТА-PL ;
-LEXICON NMN_КАРТА-SG
+  NMN_KARTA-SG ;
+  NMN_KARTA-PL ;
+LEXICON NMN_KARTA-SG
  +Sg+Nom:    K                              ;
         :%>ы NMN_OBLIQUE-INDEFINITE-SG_BACK ;
         :%>ы NMN_OBLIQUE-POSSESSA-SG_BACK   ;
 
-LEXICON NMN_КАРТА-PL
+LEXICON NMN_KARTA-PL
  :%>ы NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ;
  :%>ы NMN_OBLIQUE-POSSESSA-PL_BACK     ;
 
-LEXICON NMN_БИРЖА	 !!≈ * __@CODE@__ биржа:биржа
+LEXICON NMN_BIRZHA	 !!≈ * __@CODE@__ биржа:биржа
 !! Front а/ӹ
 !! а is specific to the +Sg+Nom, elsewhere ӹ
-  NMN_БИРЖА-SG ;
-  NMN_БИРЖА-PL ;
-LEXICON NMN_БИРЖА-SG
+  NMN_BIRZHA-SG ;
+  NMN_BIRZHA-PL ;
+LEXICON NMN_BIRZHA-SG
   +Sg+Nom:       K                               ;
          :%>ӹ    NMN_OBLIQUE-INDEFINITE-SG_FRONT ;
 !        :%^А2ЫӸ NMN_OBLIQUE-INDEFINITE-SG_FRONT ;
          :%>ӹ    NMN_OBLIQUE-POSSESSA-SG_FRONT   ;
 !        :%^А2ЫӸ NMN_OBLIQUE-POSSESSA-SG_FRONT   ;
 
-LEXICON NMN_БИРЖА-PL
+LEXICON NMN_BIRZHA-PL
  :%>ӹ NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ; !!= * __@CODE@__ %>влӓ
  :%>ӹ NMN_OBLIQUE-POSSESSA-PL_FRONT    ;
 
-LEXICON NMN_ВАРЕНЬЕ	 !!≈ * __@CODE@__ варенье:варенье
+LEXICON NMN_VAREN1E	 !!≈ * __@CODE@__ варенье:варенье
 !! Front е/ӹ
 !! е is specific to the +Sg+Nom, elsewhere ӹ
-  NMN_ВАРЕНЬЕ-SG ;
-  NMN_ВАРЕНЬЕ-PL ;
-LEXICON NMN_ВАРЕНЬЕ-SG
+  NMN_VAREN1E-SG ;
+  NMN_VAREN1E-PL ;
+LEXICON NMN_VAREN1E-SG
   +Sg+Nom:       K                               ;
          :%>ӹ    NMN_OBLIQUE-INDEFINITE-SG_FRONT ;
 !        :%^А2ЫӸ NMN_OBLIQUE-INDEFINITE-SG_FRONT ;
          :%>ӹ    NMN_OBLIQUE-POSSESSA-SG_FRONT   ;
 !        :%^А2ЫӸ NMN_OBLIQUE-POSSESSA-SG_FRONT   ;
 
-LEXICON NMN_ВАРЕНЬЕ-PL
+LEXICON NMN_VAREN1E-PL
  :%>ӹ NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ; !!= * __@CODE@__ %>влӓ
  :%>ӹ NMN_OBLIQUE-POSSESSA-PL_FRONT    ;
 
-LEXICON NMN_ОЛМА !!= @CODE@  олма:олма
+LEXICON NMN_OLMA !!= @CODE@  олма:олма
 !! Back harmony
-  NMN_ОЛМА-SG ;
-  NMN_ОЛМА-PL ;
-LEXICON NMN_ОЛМА-SG
+  NMN_OLMA-SG ;
+  NMN_OLMA-PL ;
+LEXICON NMN_OLMA-SG
         +Sg+Nom:                    K                              ;
                                     NMN_OBLIQUE-INDEFINITE-SG_BACK ;
                                     NMN_OBLIQUE-POSSESSA-SG_BACK   ;
@@ -243,7 +243,7 @@ LEXICON NMN_ОЛМА-SG
 ! +PxSg2+Sg+Nom:ет                  K                              ;
 ! +Sg+Lat+PxSg3:%>еш%{ыӹØ%}ж%{ыӹØ%} K                              ;
 
-LEXICON NMN_ОЛМА-PL
+LEXICON NMN_OLMA-PL
                       NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ;
                       NMN_OBLIQUE-POSSESSA-PL_BACK     ;
 
@@ -254,11 +254,11 @@ LEXICON NMN_ОЛМА-PL
 ! +PxSg2+Pl+Nom:твлӓ  K                                ;
 ! +Pl+Nom+PxSg2:влӓэт K                                ;
 
-LEXICON NMN_ӒЗӒ !!= @CODE@  ӓзӓ:ӓзӓ
+LEXICON NMN_AEZAE !!= @CODE@  ӓзӓ:ӓзӓ
 !! Front harmony
-  NMN_ӒЗӒ-SG ;
-  NMN_ӒЗӒ-PL ;
-LEXICON NMN_ӒЗӒ-SG
+  NMN_AEZAE-SG ;
+  NMN_AEZAE-PL ;
+LEXICON NMN_AEZAE-SG
         +Sg+Nom:                    K                               ;
                                     NMN_OBLIQUE-INDEFINITE-SG_FRONT ;
                                     NMN_OBLIQUE-POSSESSA-SG_FRONT   ;
@@ -266,7 +266,7 @@ LEXICON NMN_ӒЗӒ-SG
 ! +PxSg2+Sg+Nom:ет                  K                               ;
 ! +Sg+Lat+PxSg3:%>еш%{ыӹØ%}ж%{ыӹØ%} K                               ;
 
-LEXICON NMN_ӒЗӒ-PL
+LEXICON NMN_AEZAE-PL
                       NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ;
                       NMN_OBLIQUE-POSSESSA-PL_FRONT    ;
 
@@ -277,34 +277,34 @@ LEXICON NMN_ӒЗӒ-PL
 ! +PxSg2+Pl+Nom:твлӓ  K                                ;
 ! +Pl+Nom+PxSg2:влӓэт K                                ;
 
-LEXICON NMN_ПЕЧЕНЬЕ !!= @CODE@  печенье:печенье
+LEXICON NMN_PECHEN1E !!= @CODE@  печенье:печенье
 !! Front harmony
-  NMN_ПЕЧЕНЬЕ-SG ;
-  NMN_ПЕЧЕНЬЕ-PL ;
-LEXICON NMN_ПЕЧЕНЬЕ-SG
+  NMN_PECHEN1E-SG ;
+  NMN_PECHEN1E-PL ;
+LEXICON NMN_PECHEN1E-SG
  +Sg+Nom: K                               ;
           NMN_OBLIQUE-INDEFINITE-SG_FRONT ;
           NMN_OBLIQUE-POSSESSA-SG_FRONT   ;
 
-LEXICON NMN_ПЕЧЕНЬЕ-PL
+LEXICON NMN_PECHEN1E-PL
   NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ;
   NMN_OBLIQUE-POSSESSA-PL_FRONT    ;
 
-LEXICON N_ӒВӒ !!= @CODE@  ӓвӓ:ӓвӓ
-                           +N:                    NMN_OBLIQUE-INDEFINITE-SG_FRONT  ;
-                           +N:                    NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ;
-                           +N:%^KIN               NMN_OBLIQUE-POSSESSA-SG_FRONT    ; !!!!
-                           +N:%^KIN               NMN_OBLIQUE-POSSESSA-PL_FRONT    ;
+LEXICON N_AEVAE !!= @CODE@  ӓвӓ:ӓвӓ
+                           +N:%{front%}                    NMN_OBLIQUE-INDEFINITE-SG_FRONT  ;
+                           +N:%{front%}             NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ;
+                           +N:%{front%}%^KIN               NMN_OBLIQUE-POSSESSA-SG_FRONT    ; !!!!
+                           +N:%{front%}%^KIN               NMN_OBLIQUE-POSSESSA-PL_FRONT    ;
 
-                    +N+Sg+Nom:                    K                                ;
-              +N+PxSg1+Sg+Nom:эм                  K                                ;
-! !2013-10-18!+N+PxSg1+Sg+Nom:м                   K                                ; !! Special
-              +N+PxSg1+Pl+Nom:эмвлӓ               K                                ;
-! !2013-10-18!+N+PxSg1+Pl+Nom:мвлӓ                K                                ;
+                    +N+Sg+Nom:%{front%}                    K                                ;
+              +N+PxSg1+Sg+Nom:%{front%}%>эм                  K                                ;
+! !2013-10-18!+N+PxSg1+Sg+Nom:%{front%}%>м                   K                                ; !! Special
+              +N+PxSg1+Pl+Nom:%{front%}%>эмвлӓ               K                                ;
+! !2013-10-18!+N+PxSg1+Pl+Nom:%{front%}%>мвлӓ                K                                ;
 ! !2013-10-18!+N+Pl+PxSg1+Nom:влӓэм               K                                ;
-              +N+PxSg2+Sg+Nom:ет                  K                                ;
-! !2013-10-18!+N+PxSg2+Sg+Nom:т                   K                                ; !! Special
-              +N+PxSg2+Pl+Nom:етвлӓ               K                                ;
+              +N+PxSg2+Sg+Nom:%{front%}%>ет                  K                                ;
+! !2013-10-18!+N+PxSg2+Sg+Nom:%{front%}%>т                   K                                ; !! Special
+              +N+PxSg2+Pl+Nom:%{front%}%>етвлӓ               K                                ;
 ! !2013-10-18!+N+PxSg2+Pl+Nom:твлӓ                K                                ;
 ! !2013-10-18!+N+Pl+Nom+PxSg2:влӓэт               K                                ;
 ! !2013-10-18!+N+Sg+Lat+PxSg3:%>эш%{ыӹØ%}ж%{ыӹØ%} K                                ;

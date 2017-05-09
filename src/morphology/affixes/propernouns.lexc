@@ -7,44 +7,44 @@
 LEXICON PROP_
  +N+Prop: N_01 ;
 
-LEXICON PROP-PLC_КОЛ
- +Sem/Plc+N+Prop: NMN_КОЛ ;
-LEXICON PROP_КОЛ !!= @CODE@ кол:кол
- +N+Prop: NMN_КОЛ ;
+LEXICON PROP-PLC_KOL
+ +Sem/Plc+N+Prop:%{back%} NMN_KOL ;
+LEXICON PROP_KOL !!= @CODE@ кол:кол
+ +N+Prop:%{back%} NMN_KOL ;
 
-LEXICON PROP-PLC_МӦР
- +Sem/Plc+N+Prop: NMN_МӦР ;
-LEXICON PROP_МӦР
- +N+Prop: NMN_МӦР ;
-
-
+LEXICON PROP-PLC_MOER
+ +Sem/Plc+N+Prop:%{front%} NMN_MOER ;
+LEXICON PROP_MOER
+ +N+Prop:%{front%} NMN_MOER ;
 
 
-LEXICON PROP-PLC_ТӸРВӸ
- +Sem/Plc+N+Prop: NMN_ТӸРВӸ ;
 
-LEXICON PROP_ТӸРВӸ !!≈ * __@CODE@__ тӹрвӹ:тӹрвӹ
+
+LEXICON PROP-PLC_TYERVYE
+ +Sem/Plc+N+Prop:%{front%} NMN_TYERVYE ;
+
+LEXICON PROP_TYERVYE !!≈ * __@CODE@__ тӹрвӹ:тӹрвӹ
 !! The stem vowel "е" is found with possessor indices and the lative
- +N+Prop: NMN_ТӸРВӸ ;
+ +N+Prop:%{front%} NMN_TYERVYE ;
 
-LEXICON PROP-PLC_ОЛМА
- +Sem/Plc+N+Prop: NMN_ОЛМА ;
+LEXICON PROP-PLC_OLMA
+ +Sem/Plc+N+Prop:%{back%} NMN_OLMA ;
 
 
-LEXICON PROP-PLC_ӒЗӒ
- +Sem/Plc+N+Prop: NMN_ӒЗӒ ;
-LEXICON PROP-PLC_ОЛМА/ӒЗӒ
-        +Sem/Plc+N+Prop: NMN_ӒЗӒ  ;
- +Use/NG+Sem/Plc+N+Prop: NMN_ОЛМА ;
+LEXICON PROP-PLC_AEZAE
+ +Sem/Plc+N+Prop:%{front%} NMN_AEZAE ;
+LEXICON PROP-PLC_OLMA/AEZAE
+        +Sem/Plc+N+Prop:%{front%} NMN_AEZAE  ;
+ +Use/NG+Sem/Plc+N+Prop:%{back%} NMN_OLMA ;
 
-LEXICON PROP_ОЛМА !!= @CODE@ кол:кол
- +N+Prop: NMN_ОЛМА ;
+LEXICON PROP_OLMA !!= @CODE@ кол:кол
+ +N+Prop:%{back%} NMN_OLMA ;
 
-LEXICON PROP-PLC_КАРТА
- +Sem/Plc+N+Prop: NMN_КАРТА ;
-LEXICON PROP_КАРТА !!≈ * __@CODE@__ карта:карта
+LEXICON PROP-PLC_KARTA
+ +Sem/Plc+N+Prop:%{back%} NMN_KARTA ;
+LEXICON PROP_KARTA !!≈ * __@CODE@__ карта:карта
 !! а is specific to the +Sg+Nom, elsewhere ы or ӹ
- +N+Prop: NMN_КАРТА ;
+ +N+Prop:%{back%} NMN_KARTA ;
 
 
 LEXICON ACRONDELIMITER ! Here we need some kind of vowel harmony
