@@ -267,9 +267,9 @@ LEXICON V_AM-SG3 !! пелӓш: онг пелеш
 !
 !                 +V:                INF                 ;
 !+V+Act+Prc:%>%{ыӹØ%}ш%{ыӹØ%} K  ;  Contlex needed
-!   +V+Act+Prc+Der/шЫ:%>%{ыӹØ%}шЫ2    NMN_TYERVYE           ;
-!   +V+Pass+Prc+Der/мЫ:%>%{ыӹØ%}мЫ2    NMN_TYERVYE           ;
-! +V+NegPrc+Der/дЫмЫ:%>%{ыӹØ%}дЫ2мЫ2 NMN_TYERVYE           ;
+!   +V+Act+Prc+Der/шЫ:%>%{ыӹØ%}ш%{ыӹ%}    NMN_TYERVYE           ;
+!   +V+Pass+Prc+Der/мЫ:%>%{ыӹØ%}м%{ыӹ%}    NMN_TYERVYE           ;
+! +V+NegPrc+Der/дЫмЫ:%>%{ыӹØ%}д%{ыӹ%}м%{ыӹ%} NMN_TYERVYE           ;
 
 LEXICON V_EM-3
      V_EM-SG3            ;
@@ -543,13 +543,13 @@ LEXICON IMPRTSG2-am
  +Imprt+Sg2:%^ConsTransf K ; !
 
 LEXICON IMPRTSG3-am
- +Imprt+Sg3:%^ConsTransf%>жЫ2 K ;
+ +Imprt+Sg3:%^ConsTransf%>ж%{ыӹ%} K ;
 
 LEXICON IMPRTPL2-am
  +Imprt+Pl2:%>д%{аӓ%} K ; !
 
 LEXICON IMPRTPL3-am
- +Imprt+Pl3:%>%{ыӹØ%}штЫ2 K ;
+ +Imprt+Pl3:%>%{ыӹØ%}шт%{ыӹ%} K ;
 
 LEXICON IMPRTIISG2-am
  +ImprtII+Sg2:%>%{ыӹе%}м%{аӓ%} K ; !
@@ -562,13 +562,13 @@ LEXICON IMPRTIIPL2-am
 ! +Imprt+Sg2:%>%{ыӹØ%} K ; !
 
 !LEXICON IMPRTSG3-em
-! +Imprt+Sg3:%>%{ыӹØ%}жЫ2 K ;
+! +Imprt+Sg3:%>%{ыӹØ%}ж%{ыӹ%} K ;
 
 !LEXICON IMPRTPL2-em
 ! +Imprt+Pl2:%>%{ыӹØ%}д%{аӓ%} K ; !
 
 !LEXICON IMPRTPL3-em
-! +Imprt+Pl3:%>%{ыӹØ%}штЫ2 K ;
+! +Imprt+Pl3:%>%{ыӹØ%}шт%{ыӹ%} K ;
 
 !LEXICON IMPRTIISG2-em
 ! +ImprtII+Sg2:%>Е2мӓ K ; !
@@ -625,8 +625,8 @@ LEXICON INF
  +Inf:%>%{аӓ%}ш K ;
 
 LEXICON NEG-PRC
-        +Der/дЫмЫ+NegPrc:%>дЫ2м%{ыӹØ%}                 NMN_TYERVYE ;
- +Der/дЫмЫ+NegPrc+Sg+Lat:%>дЫ2м%{ыӹØ%}%>м%{ыӹØ%}%>ешкӹ K         ;
+        +Der/дЫмЫ+NegPrc:%>д%{ыӹ%}м%{ыӹØ%}                 NMN_TYERVYE ;
+ +Der/дЫмЫ+NegPrc+Sg+Lat:%>д%{ыӹ%}м%{ыӹØ%}%>м%{ыӹØ%}%>ешкӹ K         ;
 
 LEXICON PASS-PRC
         +Der/мЫ+Pass+Prc:%>м%{ыӹØ%}       NMN_TYERVYE ;

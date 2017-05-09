@@ -332,8 +332,8 @@ LEXICON NMN_OBLIQUE-INDEFINITE-SG
   +Sg+Acc:%>%{ыӹØ%}м    K ; !
   +Sg+Com:%>ге          K ; ! (with a village)
   +Sg+Dat:%>л%{аӓ%}н    K ; !
-  +Sg+Ine:%>%{ыӹØ%}штЫ2 K ; ! (in a village)
-  +Sg+Ill:%>%{ыӹØ%}шкЫ2 K ; ! (to a village)
+  +Sg+Ine:%>%{ыӹØ%}шт%{ыӹ%} K ; ! (in a village)
+  +Sg+Ill:%>%{ыӹØ%}шк%{ыӹ%} K ; ! (to a village)
   +Sg+Ill:%>%{ыӹØ%}ш    K ; ! (to a village)
   +Sg+Lat:%>еш          K ; ! (into a village)
  +Sg+Cmpr:%>л%{аӓ%}     K ; ! (like a village)
@@ -928,8 +928,8 @@ LEXICON PL-NOM-PXSG2_MUTUAL
 
 !! PXSG3
 !LEXICON PXSG3-SG-ABE
-! +Sg+Abe+PxSg3:%>де%>жЫ2 K ;
-! +Sg+PxSg3+Abe:%>жЫ2%>де K ;
+! +Sg+Abe+PxSg3:%>де%>ж%{ыӹ%} K ;
+! +Sg+PxSg3+Abe:%>ж%{ыӹ%}%>де K ;
 
 LEXICON SG-ABE-PXSG3_BACK
  +Sg+Abe+PxSg3:%>де%>жӹ K ;
@@ -940,7 +940,7 @@ LEXICON SG-ABE-PXSG3_FRONT
   +Sg+PxSg3+Abe:%>жӹ%>де K ;
 
 !LEXICON PXSG3-SG-ACC
-! +Sg+PxSg3+Acc:%>жЫ2%>м K ;
+! +Sg+PxSg3+Acc:%>ж%{ыӹ%}%>м K ;
 
 LEXICON SG-ACC-PXSG3_BACK
  +Sg+PxSg3+Acc:%>жы%>м K ;
@@ -949,7 +949,7 @@ LEXICON SG-ACC-PXSG3_FRONT
   +Sg+PxSg3+Acc:%>жӹ%>м   K ;
 
 !LEXICON PXSG3-SG-COM
-! +Sg+PxSg3+Com:%>жЫ2%>ге K ;
+! +Sg+PxSg3+Com:%>ж%{ыӹ%}%>ге K ;
 
 LEXICON SG-COM-PXSG3_BACK
  +Sg+PxSg3+Com:%>жы%>ге K ;
@@ -958,8 +958,8 @@ LEXICON SG-COM-PXSG3_FRONT
    +Sg+PxSg3+Com:%>жӹ%>ге       K ;
 
 !LEXICON PXSG3-SG-CMPR
-! +Sg+Cmpr+PxSg3:%>л%{аӓ%}%>жЫ2 K ;
-! +Sg+PxSg3+Cmpr:%>жЫ2%>л%{аӓ%} K ;
+! +Sg+Cmpr+PxSg3:%>л%{аӓ%}%>ж%{ыӹ%} K ;
+! +Sg+PxSg3+Cmpr:%>ж%{ыӹ%}%>л%{аӓ%} K ;
 
 LEXICON SG-CMPR-PXSG3_BACK
  +Sg+Cmpr+PxSg3:%>ла%>жы K ;
@@ -970,7 +970,7 @@ LEXICON SG-CMPR-PXSG3_FRONT
   +Sg+PxSg3+Cmpr:%>жӹ%>лӓ        K ;
 
 !LEXICON PXSG3-SG-DAT
-!  +Sg+PxSg3+Dat:%>жЫ2%>л%{аӓ%}н K ;
+!  +Sg+PxSg3+Dat:%>ж%{ыӹ%}%>л%{аӓ%}н K ;
 LEXICON SG-DAT-PXSG3_BACK
  +Sg+PxSg3+Dat:%>жы%>лан K ;
 LEXICON SG-DAT-PXSG3_FRONT
