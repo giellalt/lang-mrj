@@ -12,37 +12,37 @@ LEXICON A-ADN_
 LEXICON A_  !!≈ * __@CODE@ __
      +A+Pos:           #        ;
     +A+Comp:%>р%{аӓ%}к #        ;
- +A+Der/N+N:           NMN_ОЛМА ; !! This should be neutral 2013-05-11
+ +A+Der/N+N:           NMN_OLMA ; !! This should be neutral 2013-05-11
 
-LEXICON A_ОЛМА !!≈ * __@CODE@__
+LEXICON A_OLMA !!≈ * __@CODE@__
      +A+Pos:      #        ;
-    +A+Comp:%>рак #        ;
- +A+Der/N+N:      NMN_ОЛМА ;
+    +A+Comp:%{back%}%>рак #        ;
+ +A+Der/N+N:%{back%}      NMN_OLMA ;
 
-LEXICON A_ӒЗӒ !!≈ * __@CODE@__
+LEXICON A_AEZAE !!≈ * __@CODE@__
      +A+Pos:      #       ;
-    +A+Comp:%>рӓк #       ;
- +A+Der/N+N:      NMN_ӒЗӒ ;
+    +A+Comp:%{front%}%>рӓк #       ;
+ +A+Der/N+N:%{front%}      NMN_AEZAE ;
 
-LEXICON A_МАРЫ  !!≈ * __@CODE@__
+LEXICON A_MARY  !!≈ * __@CODE@__
      +A+Pos:      #        ;
-    +A+Comp:%>рак #        ;
- +A+Der/N+N:      NMN_МАРЫ ;
+    +A+Comp:%{back%}%>рак #        ;
+ +A+Der/N+N:%{back%}      NMN_MARY ;
 
-LEXICON A_ТӸРВӸ  !!≈ * __@CODE@__
+LEXICON A_TYERVYE  !!≈ * __@CODE@__
      +A+Pos:      #         ;
-    +A+Comp:%>рӓк #         ;
- +A+Der/N+N:      NMN_ТӸРВӸ ;
+    +A+Comp:%{front%}%>рӓк #         ;
+ +A+Der/N+N:%{front%}      NMN_TYERVYE ;
 
-LEXICON A_КОЛ  !!≈ * __@CODE@__
+LEXICON A_KOL  !!≈ * __@CODE@__
      +A+Pos:      #       ;
-    +A+Comp:%>рак #       ;
- +A+Der/N+N:      NMN_КОЛ ; !!≈ * __@CODE@__ The +N tag is given here to curtail over generation from derived nouns
+    +A+Comp:%{back%}%>рак #       ;
+ +A+Der/N+N:%{back%}      NMN_KOL ; !!≈ * __@CODE@__ The +N tag is given here to curtail over generation from derived nouns
 
-LEXICON A_МӦР  !!≈ * __@CODE@__
+LEXICON A_MOER  !!≈ * __@CODE@__
      +A+Pos:      #       ;
-    +A+Comp:%>рӓк #       ;
- +A+Der/N+N:      NMN_МӦР ; !!≈ * __@CODE@__ The +N tag is given here to curtail over generation from derived nouns
+    +A+Comp:%{front%}%>рӓк #       ;
+ +A+Der/N+N:%{front%}      NMN_MOER ; !!≈ * __@CODE@__ The +N tag is given here to curtail over generation from derived nouns
 
 
 
