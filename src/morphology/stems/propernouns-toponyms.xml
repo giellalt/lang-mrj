@@ -4,44 +4,44 @@
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-<e> <lg> <l pos="N" type="Prop">Австрали</l> <stg>  <st Contlex="PROP-PLC_ОЛМА">Австрали</st> </stg> <stress>Австра•ли</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Australia</t> </tg> </mg> </e>
+<e> <lg> <l pos="N" type="Prop">Австрали</l> <stg>  <st Contlex="PROP-PLC_OLMA">Австрали</st> </stg> <stress>Австра•ли</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Australia</t> </tg> </mg> </e>
 
-<e> <lg> <l pos="N" type="Prop">Австри</l> <stg>  <st Contlex="PROP-PLC_ОЛМА">Австри</st> </stg> <stress>А•встри</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Itä-Valta</t> </tg> </mg> </e>
+<e> <lg> <l pos="N" type="Prop">Австри</l> <stg>  <st Contlex="PROP-PLC_OLMA">Австри</st> </stg> <stress>А•встри</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Itä-Valta</t> </tg> </mg> </e>
 
-<e> <lg> <l pos="N" type="Prop">Ази</l> <stg>  <st Contlex="PROP-PLC_ОЛМА">Ази</st> </stg> <stress>А•зи</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Aasia</t> </tg> </mg> </e>
+<e> <lg> <l pos="N" type="Prop">Ази</l> <stg>  <st Contlex="PROP-PLC_OLMA">Ази</st> </stg> <stress>А•зи</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Aasia</t> </tg> </mg> </e>
 
-<e> <lg> <l pos="N" type="Prop">Алык мары</l> <stg>  <st Contlex="PROP-PLC_ТӸРВӸ">Алык мары</st> </stg> <stress>А•лыкмары</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative>Алык мары = Цӓрлӓ мары</defNative> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Niittymarialue</t> </tg> </mg> </e>
+<e> <lg> <l pos="N" type="Prop">Алык мары</l> <stg>  <st Contlex="PROP-PLC_TYERVYE">Алык мары</st> </stg> <stress>А•лыкмары</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative>Алык мары = Цӓрлӓ мары</defNative> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Niittymarialue</t> </tg> </mg> </e>
 
-<e> <lg> <l pos="N" type="Prop">Аляска</l> <stg>  <st Contlex="PROP-PLC_КАРТА">Аляска</st> </stg> <stress>Аля•ска</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Alaska</t> </tg> </mg> </e>
+<e> <lg> <l pos="N" type="Prop">Аляска</l> <stg>  <st Contlex="PROP-PLC_KARTA">Аляска</st> </stg> <stress>Аля•ска</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Alaska</t> </tg> </mg> </e>
 
-<e> <lg> <l pos="N" type="Prop">Америка</l> <l_ref pos="Prop">АУШ</l_ref> <stg>  <st Contlex="PROP-PLC_КАРТА">Америка</st> </stg> <stress>Аме•рика</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Yhdysvallat</t>  <t pos="N" type="Prop">USA</t> </tg> </mg> </e>
+<e> <lg> <l pos="N" type="Prop">Америка</l> <l_ref pos="Prop">АУШ</l_ref> <stg>  <st Contlex="PROP-PLC_KARTA">Америка</st> </stg> <stress>Аме•рика</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Yhdysvallat</t>  <t pos="N" type="Prop">USA</t> </tg> </mg> </e>
 
-<e> <lg> <l pos="N" type="Prop">АУШ</l> <l_ref pos="Prop">Америка</l_ref> <stg>  <st Contlex="PROP-PLC_КОЛ">АУШ</st> </stg> <stress>АУШ</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">USA</t>  <t pos="N" type="Prop">Yhdysvallat</t> </tg> </mg> </e>
+<e> <lg> <l pos="N" type="Prop">АУШ</l> <l_ref pos="Prop">Америка</l_ref> <stg>  <st Contlex="PROP-PLC_KOL">АУШ</st> </stg> <stress>АУШ</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">USA</t>  <t pos="N" type="Prop">Yhdysvallat</t> </tg> </mg> </e>
 
-<e> <lg> <l pos="N" type="Prop">Бельги</l> <stg>  <st Contlex="PROP-PLC_ОЛМА">Бельги</st> </stg> <stress>Бе•льги</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Belgia</t> </tg> </mg> </e>
+<e> <lg> <l pos="N" type="Prop">Бельги</l> <stg>  <st Contlex="PROP-PLC_OLMA">Бельги</st> </stg> <stress>Бе•льги</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Belgia</t> </tg> </mg> </e>
 
-<e> <lg> <l pos="N" type="Prop">Болгари</l> <stg>  <st Contlex="PROP-PLC_ОЛМА">Болгари</st> </stg> <stress>Болга•ри</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Bulgaria</t> </tg> </mg> </e>
+<e> <lg> <l pos="N" type="Prop">Болгари</l> <stg>  <st Contlex="PROP-PLC_OLMA">Болгари</st> </stg> <stress>Болга•ри</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Bulgaria</t> </tg> </mg> </e>
 
-<e> <lg> <l pos="N" type="Prop">Бразили</l> <stg>  <st Contlex="PROP-PLC_ОЛМА">Бразили</st> </stg> <stress>Брази•ли</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Brasilia</t> </tg> </mg> </e>
+<e> <lg> <l pos="N" type="Prop">Бразили</l> <stg>  <st Contlex="PROP-PLC_OLMA">Бразили</st> </stg> <stress>Брази•ли</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Brasilia</t> </tg> </mg> </e>
 
-<e> <lg> <l pos="N" type="Prop">Вадывел</l> <stg>  <st Contlex="PROP-PLC_КОЛ">Вадывел</st> </stg> <stress>Ва•дывел</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Länsi</t> </tg> <xg>  <x>Вадывелнӹ техень принцип (JK)</x>  <xt>Lännessä on tällainen systeemi</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N" type="Prop">Вадывел</l> <stg>  <st Contlex="PROP-PLC_KOL">Вадывел</st> </stg> <stress>Ва•дывел</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Länsi</t> </tg> <xg>  <x>Вадывелнӹ техень принцип (JK)</x>  <xt>Lännessä on tällainen systeemi</xt> </xg> </mg> </e>
 
-<e> <lg> <l pos="N" type="Prop">Голланди</l> <stg>  <st Contlex="PROP-PLC_ОЛМА">Голланди</st> </stg> <stress>Голла•нди</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Alankomaat</t>  <t pos="N" type="Prop">Hollanti</t> </tg> </mg> </e>
+<e> <lg> <l pos="N" type="Prop">Голланди</l> <stg>  <st Contlex="PROP-PLC_OLMA">Голланди</st> </stg> <stress>Голла•нди</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Alankomaat</t>  <t pos="N" type="Prop">Hollanti</t> </tg> </mg> </e>
 
-<e> <lg> <l pos="N" type="Prop">Грузи</l> <stg>  <st Contlex="PROP-PLC_ОЛМА">Грузи</st> </stg> <stress>Гру•зи</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Georgia</t> </tg> </mg> </e>
+<e> <lg> <l pos="N" type="Prop">Грузи</l> <stg>  <st Contlex="PROP-PLC_OLMA">Грузи</st> </stg> <stress>Гру•зи</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Georgia</t> </tg> </mg> </e>
 
-<e> <lg> <l pos="N" type="Prop">Европа</l> <stg>  <st Contlex="PROP-PLC_КАРТА">Европа</st> </stg> <stress>Евро•па</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Eurooppa</t> </tg> </mg> </e>
+<e> <lg> <l pos="N" type="Prop">Европа</l> <stg>  <st Contlex="PROP-PLC_KARTA">Европа</st> </stg> <stress>Евро•па</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Eurooppa</t> </tg> </mg> </e>
 
-<e> <lg> <l pos="N" type="Prop">Египет</l> <stg>  <st Contlex="PROP-PLC_КОЛ">Египет</st> </stg> <stress>Еги•пет</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Egypti</t> </tg> </mg> </e>
+<e> <lg> <l pos="N" type="Prop">Египет</l> <stg>  <st Contlex="PROP-PLC_KOL">Египет</st> </stg> <stress>Еги•пет</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Egypti</t> </tg> </mg> </e>
 
-<e> <lg> <l pos="N" type="Prop">Испани</l> <stg>  <st Contlex="PROP-PLC_ОЛМА">Испани</st> </stg> <stress>Испа•ни</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Hispania</t> </tg> </mg> </e>
+<e> <lg> <l pos="N" type="Prop">Испани</l> <stg>  <st Contlex="PROP-PLC_OLMA">Испани</st> </stg> <stress>Испа•ни</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Hispania</t> </tg> </mg> </e>
 
   <e>
     <lg>
       <l pos="N" type="Prop">Йоласал</l>
 
       <stg>
-        <st Contlex="PROP-PLC_КОЛ">Йоласал</st>
+        <st Contlex="PROP-PLC_KOL">Йоласал</st>
       </stg>
 
       <stress>Йоласал</stress>
@@ -67,16 +67,16 @@
     </mg>
   </e>
 
-<e> <lg> <l pos="N" type="Prop">Йыл</l> <stg>  <st Contlex="PROP-PLC_КОЛ">Йыл</st> </stg> <stress>Йыл</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Volga</t>  <td pos="N" type="Prop">Volgan vuorimarinkielinen nimitys</td> </tg> </mg> </e>
+<e> <lg> <l pos="N" type="Prop">Йыл</l> <stg>  <st Contlex="PROP-PLC_KOL">Йыл</st> </stg> <stress>Йыл</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Volga</t>  <td pos="N" type="Prop">Volgan vuorimarinkielinen nimitys</td> </tg> </mg> </e>
 
-<e> <lg> <l pos="N" type="Prop">Йылымбал</l> <stg>  <st Contlex="PROP-PLC_КОЛ">Йылымбал</st> </stg> <stress>Йылы•мбал</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <td pos="N" type="Prop">Taka-Volgan alue</td>  <td pos="N" type="Prop">Volga-joen vasemman rannan puoleinen alue</td> </tg> </mg> </e>
+<e> <lg> <l pos="N" type="Prop">Йылымбал</l> <stg>  <st Contlex="PROP-PLC_KOL">Йылымбал</st> </stg> <stress>Йылы•мбал</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <td pos="N" type="Prop">Taka-Volgan alue</td>  <td pos="N" type="Prop">Volga-joen vasemman rannan puoleinen alue</td> </tg> </mg> </e>
 
   <e>
     <lg>
       <l pos="N" type="Prop">Йынгы</l>
 
       <stg>
-        <st Contlex="PROP-PLC_ТӸРВӸ">Йынгы</st>
+        <st Contlex="PROP-PLC_TYERVYE">Йынгы</st>
       </stg>
 
       <stress>Йы•нгы</stress>
@@ -109,18 +109,18 @@
     </mg>
   </e>
 
-<e> <lg> <l pos="N" type="Prop">Кырык</l> <stg>  <st Contlex="PROP-PLC_КОЛ">Кырык</st> </stg> <stress>Кы•рык</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative>Кырык мары</defNative> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Vuorimari</t> </tg> </mg> </e>
+<e> <lg> <l pos="N" type="Prop">Кырык</l> <stg>  <st Contlex="PROP-PLC_KOL">Кырык</st> </stg> <stress>Кы•рык</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative>Кырык мары</defNative> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Vuorimari</t> </tg> </mg> </e>
 
-<e> <lg> <l pos="N" type="Prop">Москва</l> <stg>  <st Contlex="PROP-PLC_ОЛМА">Москва</st> </stg> <stress>Москва</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop"/> </tg> </mg> </e>
+<e> <lg> <l pos="N" type="Prop">Москва</l> <stg>  <st Contlex="PROP-PLC_OLMA">Москва</st> </stg> <stress>Москва</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop"/> </tg> </mg> </e>
 
-<e> <lg> <l pos="N" type="Prop">Ошпӧрт</l> <stg>  <st Contlex="PROP-PLC_КОЛ">Ошпӧрт</st> </stg> <stress>О•шпӧрт</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative>Ош пӧрт</defNative> </m> <tg xml:lang="fin">  <td pos="N" type="Prop">Valkoinen talo eli hallitustalo</td> </tg> </mg> </e>
+<e> <lg> <l pos="N" type="Prop">Ошпӧрт</l> <stg>  <st Contlex="PROP-PLC_KOL">Ошпӧрт</st> </stg> <stress>О•шпӧрт</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative>Ош пӧрт</defNative> </m> <tg xml:lang="fin">  <td pos="N" type="Prop">Valkoinen talo eli hallitustalo</td> </tg> </mg> </e>
 
   <e>
     <lg>
       <l pos="N" type="Prop">Пӹсӹрмӓн</l>
 
       <stg>
-        <st Contlex="PROP-PLC_КОЛ">Пӹсӹрмӓн</st>
+        <st Contlex="PROP-PLC_KOL">Пӹсӹрмӓн</st>
       </stg>
 
       <stress>Пӹсӹ•рмӓн</stress>
@@ -148,7 +148,7 @@
       <l pos="N" type="Prop">Россий</l>
 
       <stg>
-        <st Contlex="PROP-PLC_КОЛ">Россий</st>
+        <st Contlex="PROP-PLC_KOL">Россий</st>
       </stg>
 
       <stress>Росси•й</stress>
@@ -174,7 +174,7 @@
       <l pos="N" type="Prop">Сибирь</l>
 
       <stg>
-        <st Contlex="PROP-PLC_КОЛ">Сибирь</st>
+        <st Contlex="PROP-PLC_KOL">Сибирь</st>
       </stg>
 
       <stress>Сиби•рь</stress>
@@ -196,14 +196,14 @@
   </e>
 
 
-<e> <lg> <l pos="N" type="Prop">Турци</l> <stg>  <st Contlex="PROP-PLC_ОЛМА">Турци</st> </stg> <stress>Ту•рци</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Turkki</t> </tg> </mg> </e>
+<e> <lg> <l pos="N" type="Prop">Турци</l> <stg>  <st Contlex="PROP-PLC_OLMA">Турци</st> </stg> <stress>Ту•рци</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop">Turkki</t> </tg> </mg> </e>
 
   <e>
     <lg>
       <l pos="N" type="Prop">Усола</l>
 
       <stg>
-        <st Contlex="PROP-PLC_ОЛМА">Усола</st>
+        <st Contlex="PROP-PLC_OLMA">Усола</st>
       </stg>
 
       <stress>Усо•ла</stress>
@@ -229,7 +229,7 @@
       <l pos="N" type="Prop">Цикмӓ</l>
 
       <stg>
-        <st Contlex="PROP-PLC_ОЛМА">Цикмӓ</st>
+        <st Contlex="PROP-PLC_OLMA">Цикмӓ</st>
       </stg>
 
       <stress>Ци•кмӓ</stress>
@@ -257,7 +257,7 @@
       <l pos="N" type="Prop">Цӓрлӓ</l>
 
       <stg>
-        <st Contlex="PROP-PLC_ОЛМА">Цӓрлӓ</st>
+        <st Contlex="PROP-PLC_OLMA">Цӓрлӓ</st>
       </stg>
 
       <stress>Цӓ•рлӓ</stress>
@@ -284,14 +284,14 @@
     </mg>
   </e>
 
-<e> <lg> <l pos="N" type="Prop">Шавашӓнгӹр</l> <stg>  <st Contlex="PROP-PLC_КОЛ">Шавашӓнгӹр</st> </stg> <stress>Шавашӓнгӹр</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop"/> </tg> </mg> </e>
+<e> <lg> <l pos="N" type="Prop">Шавашӓнгӹр</l> <stg>  <st Contlex="PROP-PLC_KOL">Шавашӓнгӹр</st> </stg> <stress>Шавашӓнгӹр</stress> </lg> <pos>Prop</pos> <mg> <m>  <head/>  <defNative/> </m> <tg xml:lang="fin">  <t pos="N" type="Prop"/> </tg> </mg> </e>
 
   <e>
     <lg>
       <l pos="N" type="Prop">Шывашар</l>
 
       <stg>
-        <st Contlex="PROP-PLC_КОЛ">Шывашар</st>
+        <st Contlex="PROP-PLC_KOL">Шывашар</st>
       </stg>
 
       <stress>Шыва•шар</stress>
