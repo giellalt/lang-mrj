@@ -58,14 +58,14 @@
        <t compl="Hum:Gen,All" pos="Po">suuntaan</t>
      </tg>
      <xg> <x>ти векӹлӓ</x>
-       <xt>tännepäin</xt>
+       <xt xml:lang="fin">tännepäin</xt>
      </xg>
      <xg> <x>тӹ векӹлӓ</x>
-       <xt>sinnepäin</xt>
+       <xt xml:lang="fin">sinnepäin</xt>
      </xg>
      <xg> <x>ӹшке векӹлӓжӹ</x>
-       <xt>omalle puolelleen</xt>
-       <xt>itselleen</xt>
+       <xt xml:lang="fin">omalle puolelleen</xt>
+       <xt xml:lang="fin">itselleen</xt>
      </xg>
    </mg>
 </e>
@@ -100,11 +100,11 @@
        <t compl="Gen" pos="Po">kimpussa</t> <td pos="Po">luona tai lähellä</td>
      </tg>
      <xg> <x>изивлӓ тӹнь веленет пижӹнӹт (1981:20)</x>
-       <xt>lapset ovat sinun kimpussasi</xt>
-       <xt>lapset tarrautuivat sinuun</xt>
+       <xt xml:lang="fin">lapset ovat sinun kimpussasi</xt>
+       <xt xml:lang="fin">lapset tarrautuivat sinuun</xt>
      </xg>
      <xg> <x>веленем ит кечӹ! (JK)</x>
-       <xt>älä kiehnä (minun lähelläni)</xt>
+       <xt xml:lang="fin">älä kiehnä (minun lähelläni)</xt>
      </xg>
    </mg>
 </e>
@@ -134,7 +134,7 @@
      <tg xml:lang="fin"> <tf pos="Po">vain -silla(an)</tf> <tf pos="Adv">-silla(an)</tf>
      </tg>
      <xg> <x>тыгыр велӓ</x>
-       <xt>vain paitasillaan</xt>
+       <xt xml:lang="fin">vain paitasillaan</xt>
      </xg>
    </mg>
 </e>
@@ -152,10 +152,10 @@
        <t compl="Gen" pos="Po">taholle</t>
      </tg>
      <xg> <x>вес велӓн</x>
-       <xt>toiselle puolelle</xt>
+       <xt xml:lang="fin">toiselle puolelle</xt>
      </xg>
      <xg> <x>ти велӓн</x>
-       <xt>tälle puolelle</xt>
+       <xt xml:lang="fin">tälle puolelle</xt>
      </xg>
    </mg>
 </e>
@@ -174,7 +174,7 @@
        <t compl="Gen" pos="Po">vuoksi</t>
      </tg>
      <xg> <x>яжо лӓктӹш верц шалгаш</x>
-       <xt>hyvien tulosten vuoksi</xt>
+       <xt xml:lang="fin">hyvien tulosten vuoksi</xt>
      </xg>
    </mg>
    <mg> <defNative/>
@@ -183,7 +183,7 @@
        <t compl="Hum,Gen" pos="Po">puolesta</t>
      </tg>
      <xg> <x>ӹшке верцшӹ колтыш</x>
-       <xt>lähetti itsensä puolesta</xt>
+       <xt xml:lang="fin">lähetti itsensä puolesta</xt>
      </xg>
    </mg>
 </e>
@@ -224,7 +224,7 @@
        <t compl="Gen" pos="Po">puoleltа</t> <tf pos="Po">jltakin suunnaltа</tf>
      </tg>
      <xg> <x>хала вец толеш</x>
-       <xt>tulee kaupungin suunalta</xt>
+       <xt xml:lang="fin">tulee kaupungin suunalta</xt>
      </xg>
    </mg>
 </e>
@@ -258,8 +258,8 @@
        <t compl="Gen" pos="Po">lähellä</t>
      </tg>
      <xg> <x>сола воктен кашташ</x>
-       <xt>kylän lähellä kuljeskella</xt>
-       <xt>pyöriä pitkin kylää</xt>
+       <xt xml:lang="fin">kylän lähellä kuljeskella</xt>
+       <xt xml:lang="fin">pyöriä pitkin kylää</xt>
      </xg>
    </mg>
 </e>
@@ -275,13 +275,13 @@
        <t pos="Po">-päin</t> <td pos="Po">mm.pukeutunut jhnkin: N (Nom) + вуя esimerkiksi савыц вуя "ollessa rättipäinen"</td>
      </tg>
      <xg> <x>цӓрӓ вуя</x>
-       <xt>paljain päin</xt>
+       <xt xml:lang="fin">paljain päin</xt>
      </xg>
      <xg> <x>ӹшке вуя</x>
-       <xt>itsenäisesti</xt>
+       <xt xml:lang="fin">itsenäisesti</xt>
      </xg>
      <xg> <x>вес вуя шагалтемӓ!</x>
-       <xt>laitahan toisin päin</xt>
+       <xt xml:lang="fin">laitahan toisin päin</xt>
      </xg>
    </mg>
 </e>
@@ -367,10 +367,10 @@
        <t pos="Conj">vaikka</t>
      </tg>
      <xg> <x>улы вӹлец</x>
-       <xt>vaikka on olemassa</xt>
+       <xt xml:lang="fin">vaikka on olemassa</xt>
      </xg>
      <xg> <x>попымы вӹлец</x>
-       <xt>vaikka on sovittu</xt>
+       <xt xml:lang="fin">vaikka on sovittu</xt>
      </xg>
    </mg>
 </e>
@@ -451,10 +451,10 @@
        <t pos="Adv">melkein</t> <tf pos="Adv">(oli) vähällä</tf>
      </tg>
      <xg> <x>кенвазеш ганьок</x>
-       <xt>oli vähällä pudota</xt>
+       <xt xml:lang="fin">oli vähällä pudota</xt>
      </xg>
      <xg> <x>нӓлӓм ганьок ыльы</x>
-       <xt>melkein olin ostamassa</xt>
+       <xt xml:lang="fin">melkein olin ostamassa</xt>
      </xg>
    </mg>
 </e>
@@ -505,10 +505,10 @@
        <t pos="Po">takia; vuoksi</t> <td>ilmaistaan Elatiivilla: esim. puhua hänestä</td>
      </tg>
      <xg> <x>пӓшӓ гишӓн попаш</x>
-       <xt>puhua työstä</xt>
+       <xt xml:lang="fin">puhua työstä</xt>
      </xg>
      <xg> <x>тӹнь гишӓнет кешнӓ</x>
-       <xt>menimme sinun takia</xt>
+       <xt xml:lang="fin">menimme sinun takia</xt>
      </xg>
    </mg>
 </e>
@@ -681,8 +681,8 @@
        <t pos="Det">joka</t>
      </tg>
      <xg> <x>вады йӹде</x>
-       <xt>joka ilta</xt>
-       <xt>iltaisin</xt>
+       <xt xml:lang="fin">joka ilta</xt>
+       <xt xml:lang="fin">iltaisin</xt>
      </xg>
    </mg>
 </e>
@@ -808,7 +808,7 @@
        <t pos="Po">väliin</t>
      </tg>
      <xg> <x>лоэш кодет</x>
-       <xt>jätät väliin</xt>
+       <xt xml:lang="fin">jätät väliin</xt>
      </xg>
    </mg>
 </e>
@@ -1135,13 +1135,13 @@
        <t compl="Gen" pos="Po">yli</t>
      </tg>
      <xg> <x>ӧлицӓ тореш (1981:161)</x>
-       <xt>kadun yli</xt>
-       <xt>kadun poikki tai kadun poikitse</xt>
-       <xt>poikki kadun</xt>
-       <xt>katua poikin</xt>
+       <xt xml:lang="fin">kadun yli</xt>
+       <xt xml:lang="fin">kadun poikki tai kadun poikitse</xt>
+       <xt xml:lang="fin">poikki kadun</xt>
+       <xt xml:lang="fin">katua poikin</xt>
      </xg>
      <xg> <x>корны тореш (1981:161)</x>
-       <xt>tien yli</xt>
+       <xt xml:lang="fin">tien yli</xt>
      </xg>
    </mg>
 </e>
@@ -1157,7 +1157,7 @@
        <t pos="Po">kohdalla</t>
      </tg>
      <xg> <x>вуем туре кӱшнӹ тама царгалт кеш (1957:10)</x>
-       <xt>pääni kohdalla jokin rasahti</xt>
+       <xt xml:lang="fin">pääni kohdalla jokin rasahti</xt>
      </xg>
    </mg>
 </e>
