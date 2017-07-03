@@ -23,7 +23,7 @@ Tests:
      ӓвӓ+N+Sg+Ine: ӓвӓштӹ
      ӓвӓ+N+Sg+Ill: [ӓвӓшкӹ, ӓвӓш]
      ӓвӓ+N+Sg+Lat: ӓвӓэш
-     ӓвӓ+N+Sg+Comp: ӓвӓлӓ
+     ӓвӓ+N+Sg+Cmpr: ӓвӓлӓ
      ӓвӓ+N+Sg+Abe: ӓвӓде
      ӓвӓ+N+Pl+Nom: ӓвӓвлӓ
      ӓвӓ+N+Pl+Gen: ӓвӓвлӓн
@@ -33,7 +33,7 @@ Tests:
      ӓвӓ+N+Pl+Ine: ӓвӓвлӓштӹ
      ӓвӓ+N+Pl+Ill: [ӓвӓвлӓшкӹ, ӓвӓвлӓш]
      ӓвӓ+N+Pl+Lat: ӓвӓвлӓэш
-     ӓвӓ+N+Pl+Comp: ӓвӓвлӓлӓ
+     ӓвӓ+N+Pl+Cmpr: ӓвӓвлӓлӓ
      ӓвӓ+N+Pl+Abe: ӓвӓвлӓде
 
      ӓвӓ+N+Sg+Nom+PxSg1: [ӓвӓм, ӓвӓэм] # х2 ӓвӓэмжӹ
@@ -44,7 +44,7 @@ Tests:
      ӓвӓ+N+Sg+PxSg1+Ine: ӓвӓмӹштӹ
      ӓвӓ+N+Sg+PxSg1+Ill: ӓвӓмӹшкӹ
      ӓвӓ+N+Sg+PxSg1+Lat: ӓвӓмӹш
-     ӓвӓ+N+Sg+PxSg1+Comp: ӓвӓмлӓ
+     ӓвӓ+N+Sg+PxSg1+Cmpr: ӓвӓмлӓ
      ӓвӓ+N+Sg+PxSg1+Abe: ӓвӓмде
      ӓвӓ+N+PxSg1+Pl+Nom: [ӓвӓмвлӓ, ӓвӓэмвлӓ] # х3
      ӓвӓ+N+Pl+Nom+PxSg1: ӓвӓвлӓэм
@@ -55,7 +55,7 @@ Tests:
      ӓвӓ+N+PxSg1+Pl+Ine: ӓвӓмвлӓштӹ
      ӓвӓ+N+PxSg1+Pl+Ill: ӓвӓмвлӓшкӹ
      ӓвӓ+N+PxSg1+Pl+Lat: ӓвӓмвлӓш
-     ӓвӓ+N+PxSg1+Pl+Comp: ӓвӓмвлӓлӓ
+     ӓвӓ+N+PxSg1+Pl+Cmpr: ӓвӓмвлӓлӓ
      ӓвӓ+N+PxSg1+Pl+Abe: ӓвӓмвлӓде
 
      ӓвӓ+N+PxSg2+Sg+Nom: [ӓвӓт, ӓвӓэт]
@@ -66,7 +66,7 @@ Tests:
      ӓвӓ+N+PxSg2+Sg+Ine: ӓвӓтӹштӹ
      ӓвӓ+N+PxSg2+Sg+Ill: ӓвӓтӹшкӹ
      ӓвӓ+N+PxSg2+Sg+Lat: ӓвӓтӹш
-     ӓвӓ+N+PxSg2+Sg+Comp: ӓвӓтлӓ
+     ӓвӓ+N+PxSg2+Sg+Cmpr: ӓвӓтлӓ
      ӓвӓ+N+PxSg2+Sg+Abe: ӓвӓтде
      ӓвӓ+N+PxSg2+Pl+Nom: [ӓвӓтвлӓ, ӓвӓэтвлӓ] 
      ӓвӓ+N+Pl+Nom+PxSg2: ӓвӓвлӓэт
@@ -78,7 +78,7 @@ Tests:
      ӓвӓ+N+PxSg2+Pl+Ine: ӓвӓтвлӓштӹ
      ӓвӓ+N+PxSg2+Pl+Ill: ӓвӓтвлӓшкӹ
      ӓвӓ+N+PxSg2+Pl+Lat: ӓвӓтвлӓэш
-     ӓвӓ+N+PxSg2+Pl+Comp: ӓвӓтвлӓлӓ
+     ӓвӓ+N+PxSg2+Pl+Cmpr: ӓвӓтвлӓлӓ
      ӓвӓ+N+PxSg2+Pl+Abe: ӓвӓтвлӓде
 
      ӓвӓ+N+PxSg3+Sg+Nom: ӓвӓжӹ
@@ -90,7 +90,7 @@ Tests:
      ӓвӓ+N+PxSg3+Sg+Ill: ӓвӓжӹшкӹ #??
      ӓвӓ+N+Sg+Ill+PxSg3: ӓвӓшкӹжӹ
      ӓвӓ+N+Sg+Lat+PxSg3: ӓвӓэшӹжӹ #
-     ӓвӓ+N+PxSg3+Sg+Comp: ӓвӓжӹлӓ
+     ӓвӓ+N+PxSg3+Sg+Cmpr: ӓвӓжӹлӓ
      ӓвӓ+N+PxSg3+Sg+Abe: ӓвӓжӹде
      ӓвӓ+N+PxSg3+Pl+Nom: ӓвӓжӹвлӓ
      ӓвӓ+N+Pl+Nom+PxSg3: ӓвӓвлӓжӹ
@@ -101,7 +101,7 @@ Tests:
      ӓвӓ+N+PxSg3+Pl+Ine: ӓвӓжӹвлӓштӹ #??
      ӓвӓ+N+PxSg3+Pl+Ill: ӓвӓжӹвлӓшкӹ #??
      ӓвӓ+N+PxSg3+Pl+Lat: ӓвӓжӹвлӓш #??
-     ӓвӓ+N+PxSg3+Pl+Comp: ӓвӓжӹвлӓлӓ
+     ӓвӓ+N+PxSg3+Pl+Cmpr: ӓвӓжӹвлӓлӓ
      ӓвӓ+N+PxSg3+Pl+Abe: ӓвӓжӹвлӓде
 
 
