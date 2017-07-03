@@ -23,7 +23,7 @@ Tests:
      мӱ+N+Sg+Ine: мӱштӹ
      мӱ+N+Sg+Ill: мӱшкӹ
      мӱ+N+Sg+Lat: мӱэш
-     мӱ+N+Sg+Comp: мӱлӓ
+     мӱ+N+Sg+Cmpr: мӱлӓ
      мӱ+N+Sg+Abe: мӱде
      мӱ+N+Pl+Nom: мӱвлӓ
      мӱ+N+Pl+Gen: мӱвлӓн
@@ -33,7 +33,7 @@ Tests:
      мӱ+N+Pl+Ine: мӱвлӓштӹ
      мӱ+N+Pl+Ill: [мӱвлӓшкӹ, мӱвлӓш]
      мӱ+N+Pl+Lat: мӱвлӓэш
-     мӱ+N+Pl+Comp: мӱвлӓлӓ
+     мӱ+N+Pl+Cmpr: мӱвлӓлӓ
      мӱ+N+Pl+Abe: мӱвлӓде
 
 #     мӱ+N+Sg+Nom+PxSg1: мӱэм
@@ -45,9 +45,9 @@ Tests:
      мӱ+N+Sg+Ine+PxSg1: мӱштем
      мӱ+N+Sg+Ill+PxSg1: мӱшкем
      мӱ+N+Sg+Lat+PxSg1: мӱэшем
-#     мӱ+N+PxSg1+Sg+Comp: [мӱлӓэм, мӱэмлӓ] 
-     мӱ+N+Sg+Comp+PxSg1: мӱлӓэм # teoreett tai toissijais.versio_jk
-     мӱ+N+Sg+PxSg1+Comp: мӱэмлӓ 
+#     мӱ+N+PxSg1+Sg+Cmpr: [мӱлӓэм, мӱэмлӓ] 
+     мӱ+N+Sg+Cmpr+PxSg1: мӱлӓэм # teoreett tai toissijais.versio_jk
+     мӱ+N+Sg+PxSg1+Cmpr: мӱэмлӓ 
 #     мӱ+N+PxSg1+Sg+Abe: [мӱдеэм, мӱэмде] 
      мӱ+N+Sg+Abe+PxSg1: мӱдеэм # teoreett tai toissijais.versio_jk
      мӱ+N+Sg+PxSg1+Abe: мӱэмде 
@@ -71,10 +71,10 @@ Tests:
 #     мӱ+N+PxSg1+Pl+Lat: [мӱвлӓэшем, мӱэмвлӓэш]
      мӱ+N+Pl+Lat+PxSg1: мӱвлӓэшем  
      мӱ+N+PxSg1+Pl+Lat: мӱэмвлӓэш # kӓytӓ toinen var: мӱвлӓэшем
-#     мӱ+N+PxSg1+Pl+Comp: [мӱвлӓэмлӓ, мӱвлӓлӓэм, мӱэмвлӓлӓ]
-     мӱ+N+Pl+PxSg1+Comp: мӱвлӓэмлӓ
-     мӱ+N+Pl+Comp+PxSg1: мӱвлӓлӓэм
-     мӱ+N+PxSg1+Pl+Comp: мӱэмвлӓлӓ # kӓytӓ toinen var: мӱвлӓлӓэм
+#     мӱ+N+PxSg1+Pl+Cmpr: [мӱвлӓэмлӓ, мӱвлӓлӓэм, мӱэмвлӓлӓ]
+     мӱ+N+Pl+PxSg1+Cmpr: мӱвлӓэмлӓ
+     мӱ+N+Pl+Cmpr+PxSg1: мӱвлӓлӓэм
+     мӱ+N+PxSg1+Pl+Cmpr: мӱэмвлӓлӓ # kӓytӓ toinen var: мӱвлӓлӓэм
 #     мӱ+N+PxSg1+Pl+Abe: [мӱвлӓэмде, мӱэмвлӓде]
      мӱ+N+Pl+PxSg1+Abe: мӱвлӓэмде
      мӱ+N+PxSg1+Pl+Abe: мӱэмвлӓде

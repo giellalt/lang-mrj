@@ -82,7 +82,7 @@ Tests:
      кеӓш+V+Der/шЫ+Act+Prc+Sg+Ine: кешӹшты
      кеӓш+V+Der/шЫ+Act+Prc+Sg+Ill: [кешӹш, кешӹшкӹ]
      кеӓш+V+Der/шЫ+Act+Prc+Sg+Lat: кешӹш
-     кеӓш+V+Der/шЫ+Act+Prc+Sg+Comp: кешӹлӓ
+     кеӓш+V+Der/шЫ+Act+Prc+Sg+Cmpr: кешӹлӓ
      кеӓш+V+Der/шЫ+Act+Prc+Sg+Abe: кешӹде
                                 
      кеӓш+V+Der/шЫ+Act+Prc+Pl+Nom: кешӹвлӓ
@@ -93,7 +93,7 @@ Tests:
      кеӓш+V+Der/шЫ+Act+Prc+Pl+Ine: кешӹвлӓштӹ
      кеӓш+V+Der/шЫ+Act+Prc+Pl+Ill: [кешӹвлӓшкӹ, кешӹвлӓш]
      кеӓш+V+Der/шЫ+Act+Prc+Pl+Lat: кешӹвлӓэш
-     кеӓш+V+Der/шЫ+Act+Prc+Pl+Comp: кешӹвлӓлӓ
+     кеӓш+V+Der/шЫ+Act+Prc+Pl+Cmpr: кешӹвлӓлӓ
      кеӓш+V+Der/шЫ+Act+Prc+Pl+Abe: кешӹвлӓде
       
      кеӓш+V+Der/шЫ+Act+Prc+Sg+PxSg1+Nom: кешем 
@@ -104,8 +104,8 @@ Tests:
      кеӓш+V+Der/шЫ+Act+Prc+Sg+Ine+PxSg1: кешӹштем
      кеӓш+V+Der/шЫ+Act+Prc+Sg+Ill+PxSg1: кешӹшкем
      кеӓш+V+Der/шЫ+Act+Prc+Sg+Lat+PxSg1: кешешем
-     кеӓш+V+Der/шЫ+Act+Prc+Sg+Comp+PxSg1: кешӹлӓэм
-#    кеӓш+V+Der/шЫ+Act+Prc+Sg+PxSg1+Comp: кешемлӓ ! esim -ok-liitepart.kanssa
+     кеӓш+V+Der/шЫ+Act+Prc+Sg+Cmpr+PxSg1: кешӹлӓэм
+#    кеӓш+V+Der/шЫ+Act+Prc+Sg+PxSg1+Cmpr: кешемлӓ ! esim -ok-liitepart.kanssa
      кеӓш+V+Der/шЫ+Act+Prc+Sg+Abe+PxSg1: кешӹдеэм 
 #    кеӓш+V+Der/шЫ+Act+Prc+Sg+PxSg1+Abe: кешемде ! harvinainen liitepart.yht.
      
@@ -123,9 +123,9 @@ Tests:
      кеӓш+V+Der/шЫ+Act+Prc+Pl+Ine+PxSg1: кешӹвлӓштем
      кеӓш+V+Der/шЫ+Act+Prc+Pl+Ill+PxSg1: кешӹвлӓшкем
      кеӓш+V+Der/шЫ+Act+Prc+Pl+Lat+PxSg1: кешӹвлӓэшем
-     кеӓш+V+Der/шЫ+Act+Prc+Pl+Comp+PxSg1: кешӹвлӓлӓэм
-     кеӓш+V+Der/шЫ+Act+Prc+Pl+PxSg1+Comp: кешӹвлӓэмлӓ
-     кеӓш+V+Der/шЫ+Act+Prc+PxSg1+Pl+Comp: кешемвлӓлӓ
+     кеӓш+V+Der/шЫ+Act+Prc+Pl+Cmpr+PxSg1: кешӹвлӓлӓэм
+     кеӓш+V+Der/шЫ+Act+Prc+Pl+PxSg1+Cmpr: кешӹвлӓэмлӓ
+     кеӓш+V+Der/шЫ+Act+Prc+PxSg1+Pl+Cmpr: кешемвлӓлӓ
      кеӓш+V+Der/шЫ+Act+Prc+Pl+PxSg1+Abe: кешӹвлӓэмде
      кеӓш+V+Der/шЫ+Act+Prc+PxSg1+Pl+Abe: кешемвлӓде
 
@@ -139,7 +139,7 @@ Tests:
      кеӓш+V+Der/мЫ+Pass+Prc+Sg+Ill: [кeмӹш, кемӹшкӹ]
      кеӓш+V+Der/мЫ+Pass+Prc+Sg+Lat: [кeмеш, кемешкӹ]
 #tӓmӓ deverbaali -мешкЫ on lisӓtty rinnakkaismuotona
-     кеӓш+V+Der/мЫ+Pass+Prc+Sg+Comp: кeмӹлӓ
+     кеӓш+V+Der/мЫ+Pass+Prc+Sg+Cmpr: кeмӹлӓ
      кеӓш+V+Der/мЫ+Pass+Prc+Sg+Abe: кeмӹде
 
      кеӓш+V+Der/мЫ+Pass+Prc+Pl+Nom: кeмӹвлӓ
@@ -150,7 +150,7 @@ Tests:
      кеӓш+V+Der/мЫ+Pass+Prc+Pl+Ine: кeмӹвлӓштӹ
      кеӓш+V+Der/мЫ+Pass+Prc+Pl+Ill: [кeмӹвлӓшкӹ, кемӹвлӓш]
      кеӓш+V+Der/мЫ+Pass+Prc+Pl+Lat: кeмӹвлӓэш
-     кеӓш+V+Der/мЫ+Pass+Prc+Pl+Comp: кeмӹвлӓлӓ
+     кеӓш+V+Der/мЫ+Pass+Prc+Pl+Cmpr: кeмӹвлӓлӓ
      кеӓш+V+Der/мЫ+Pass+Prc+Pl+Abe: кeмӹвлӓде
 
      кеӓш+V+Der/мЫ+Pass+Prc+Sg+PxSg1+Nom: кeмем 
@@ -162,8 +162,8 @@ Tests:
      кеӓш+V+Der/мЫ+Pass+Prc+Sg+Ine+PxSg1: кемӹштем
      кеӓш+V+Der/мЫ+Pass+Prc+Sg+Ill+PxSg1: кемӹшкем
      кеӓш+V+Der/мЫ+Pass+Prc+Sg+Lat+PxSg1: кемешем
-#    кеӓш+V+Der/мЫ+Pass+Prc+Sg+PxSg1+Comp: кемемлӓ 
-     кеӓш+V+Der/мЫ+Pass+Prc+Sg+Comp+PxSg1: кемӹлӓэм 
+#    кеӓш+V+Der/мЫ+Pass+Prc+Sg+PxSg1+Cmpr: кемемлӓ 
+     кеӓш+V+Der/мЫ+Pass+Prc+Sg+Cmpr+PxSg1: кемӹлӓэм 
      кеӓш+V+Der/мЫ+Pass+Prc+Sg+Abe+PxSg1: кемӹдеэм 
 #    кеӓш+V+Der/мЫ+Pass+Prc+Sg+PxSg1+Abe: кемемде ! harvinais- esm.liitep.yht.
       
@@ -182,9 +182,9 @@ Tests:
      кеӓш+V+Der/мЫ+Pass+Prc+Pl+Ill+PxSg1: кемӹвлӓшкем
      кеӓш+V+Der/мЫ+Pass+Prc+PxSg1+Pl+Lat: кемемвлӓэш
      кеӓш+V+Der/мЫ+Pass+Prc+Pl+Lat+PxSg1: кемӹвлӓэшем
-     кеӓш+V+Der/мЫ+Pass+Prc+PxSg1+Pl+Comp: кемемвлӓлӓ
-     кеӓш+V+Der/мЫ+Pass+Prc+Pl+Comp+PxSg1: кемӹвлӓлӓэм
-     кеӓш+V+Der/мЫ+Pass+Prc+Pl+PxSg1+Comp: кемӹвлӓэмлӓ
+     кеӓш+V+Der/мЫ+Pass+Prc+PxSg1+Pl+Cmpr: кемемвлӓлӓ
+     кеӓш+V+Der/мЫ+Pass+Prc+Pl+Cmpr+PxSg1: кемӹвлӓлӓэм
+     кеӓш+V+Der/мЫ+Pass+Prc+Pl+PxSg1+Cmpr: кемӹвлӓэмлӓ
      кеӓш+V+Der/мЫ+Pass+Prc+Pl+PxSg1+Abe: кемӹвлӓэмде
      кеӓш+V+Der/мЫ+Pass+Prc+PxSg1+Pl+Abe: кемемвлӓде
 ##   
@@ -197,7 +197,7 @@ Tests:
      кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Ine: кедӹмӹштӹ
      кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Lat: [кедӹмеш, кедӹмешкӹ]
 #lisӓtty gerundimuoto -мешкЫ rinnakkaisena vaihtoehtona   
-     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Comp: кедӹмӹлӓ
+     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Cmpr: кедӹмӹлӓ
      кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Abe: кедӹмӹде
      
      кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Nom: кедӹмӹвлӓ
@@ -208,7 +208,7 @@ Tests:
      кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Ine: кедӹмӹвлӓштӹ
      кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Ill: [кедӹмӹвлӓшкӹ, кедӹмӹвлӓш]
      кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Lat: кедӹмӹвлӓэш
-     кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Comp: кедӹмӹвлӓлӓ
+     кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Cmpr: кедӹмӹвлӓлӓ
      кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Abe: кедӹмӹвлӓде
     
      кеӓш+V+Der/дЫмЫ+NegPrc+Sg+PxSg1+Nom: кедӹмем 
@@ -220,8 +220,8 @@ Tests:
      кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Ine+PxSg1: кедӹмӹштем
      кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Ill+PxSg1: кедӹмӹшкем
      кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Lat+PxSg1: кедӹмешем
-     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+PxSg1+Comp: кедӹмемлӓ 
-     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Comp+PxSg1: кедӹмӹлӓэм 
+     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+PxSg1+Cmpr: кедӹмемлӓ 
+     кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Cmpr+PxSg1: кедӹмӹлӓэм 
      кеӓш+V+Der/дЫмЫ+NegPrc+Sg+Abe+PxSg1: кедӹмӹдеэм 
      кеӓш+V+Der/дЫмЫ+NegPrc+Sg+PxSg1+Abe: кедӹмемде
      кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Nom+PxSg1: кедӹмӹвлӓэм
@@ -239,8 +239,8 @@ Tests:
 #    кеӓш+V+Der/дЫмЫ+NegPrc+PxSg1+Pl+Ill: [кедӹмемвлӓшкӹ, кедӹмемвлӓш] 
      кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Lat+PxSg1: кедӹмӹвлӓэшем
      кеӓш+V+Der/дЫмЫ+NegPrc+PxSg1+Pl+Lat: кедӹмемвлӓэш
-     кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Comp+PxSg1: кедӹмӹвлӓлӓэм
-     кеӓш+V+Der/дЫмЫ+NegPrc+PxSg1+Pl+Comp: кедӹмемвлӓлӓ
-     кеӓш+V+Der/дЫмЫ+NegPrc+Pl+PxSg1+Comp: кедӹмӹвлӓэмлӓ
+     кеӓш+V+Der/дЫмЫ+NegPrc+Pl+Cmpr+PxSg1: кедӹмӹвлӓлӓэм
+     кеӓш+V+Der/дЫмЫ+NegPrc+PxSg1+Pl+Cmpr: кедӹмемвлӓлӓ
+     кеӓш+V+Der/дЫмЫ+NegPrc+Pl+PxSg1+Cmpr: кедӹмӹвлӓэмлӓ
      кеӓш+V+Der/дЫмЫ+NegPrc+Pl+PxSg1+Abe: кедӹмӹвлӓэмде
      кеӓш+V+Der/дЫмЫ+NegPrc+PxSg1+Pl+Abe: кедӹмемвлӓде

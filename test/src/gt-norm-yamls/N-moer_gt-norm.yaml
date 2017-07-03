@@ -24,7 +24,7 @@ Tests:
      мӧр+N+Sg+Ine: мӧрӹштӹ
      мӧр+N+Sg+Ill: [мӧркӹшкӹ, мӧркӹш]
      мӧр+N+Sg+Lat: мӧреш
-     мӧр+N+Sg+Comp: мӧрӹлӓ
+     мӧр+N+Sg+Cmpr: мӧрӹлӓ
      мӧр+N+Sg+Abe: мӧрӹде
      
      мӧр+N+Pl+Nom: мӧрӹвлӓ
@@ -35,7 +35,7 @@ Tests:
      мӧр+N+Pl+Ine: мӧрӹвлӓштӹ
      мӧр+N+Pl+Ill: [мӧрӹвлӓшкӹ, мӧрӹвлӓш]
      мӧр+N+Pl+Lat: мӧрӹвлӓэш
-     мӧр+N+Pl+Comp: мӧрӹвлӓлӓ
+     мӧр+N+Pl+Cmpr: мӧрӹвлӓлӓ
      мӧр+N+Pl+Abe: мӧрӹвлӓде
 
 #Sg,PxSg1
@@ -48,8 +48,8 @@ Tests:
      мӧр+N+Sg+Ine+PxSg1: мӧрӹштем
      мӧр+N+Sg+Ill+PxSg1: мӧрӹшкем
      мӧр+N+Sg+Lat+PxSg1: мӧрешем
-     мӧр+N+Sg+PxSg1+Comp: мӧремлӓ 
-     мӧр+N+Sg+Comp+PxSg1: мӧрӹлӓэм 
+     мӧр+N+Sg+PxSg1+Cmpr: мӧремлӓ 
+     мӧр+N+Sg+Cmpr+PxSg1: мӧрӹлӓэм 
      мӧр+N+Sg+PxSg1+Abe: мӧремде
 
 #Pl,PxSg1     
@@ -69,9 +69,9 @@ Tests:
      мӧр+N+Pl+Ine+PxSg1:  мӧрӹвлӓштем
      мӧр+N+Pl+Ill+PxSg1:  мӧрӹвлӓшкем
      мӧр+N+Pl+Lat+PxSg1:  мӧрӹвлӓэшем
-     мӧр+N+Pl+Comp+PxSg1: мӧрӹвлӓлӓэм
-#    мӧр+N+Pl+PxSg1+Comp: мӧрӹвлӓэмлӓ          
-#    мӧр+N+PxSg1+Pl+Comp: мӧремвлӓлӓ
+     мӧр+N+Pl+Cmpr+PxSg1: мӧрӹвлӓлӓэм
+#    мӧр+N+Pl+PxSg1+Cmpr: мӧрӹвлӓэмлӓ          
+#    мӧр+N+PxSg1+Pl+Cmpr: мӧремвлӓлӓ
      мӧр+N+Pl+PxSg1+Abe:  мӧрӹвлӓэмде
 #    мӧр+N+PxSg1+Pl+Abe:  мӧремвлӓде
 
@@ -93,9 +93,9 @@ Tests:
      мӧр+N+Pl+Ine+PxSg2: мӧрӹвлӓштет
      мӧр+N+Pl+Ill+PxSg2: мӧрӹвлӓшкет
      мӧр+N+Pl+Lat+PxSg2: мӧрӹвлӓэшет
-     мӧр+N+Pl+Comp+PxS2: мӧрӹвлӓлӓэт     
-#    мӧр+N+PxSg1+Pl+Comp: мӧрвлӓлӓ
-     мӧр+N+Pl+PxSg1+Comp: мӧрӹвлӓэтлӓ
+     мӧр+N+Pl+Cmpr+PxS2: мӧрӹвлӓлӓэт     
+#    мӧр+N+PxSg1+Pl+Cmpr: мӧрвлӓлӓ
+     мӧр+N+Pl+PxSg1+Cmpr: мӧрӹвлӓэтлӓ
      мӧр+N+Pl+PxSg1+Abe: мӧрӹвлӓэтде
 #    мӧр+N+PxSg1+Pl+Abe: мӧретвлӓде
      
@@ -116,8 +116,8 @@ Tests:
      мӧр+N+Sg+Ine+PxPl1: мӧрӹштӹнӓ
      мӧр+N+Sg+Ill+PxPl1: мӧрӹшкӹнӓ
      мӧр+N+Sg+Lat+PxPl1: мӧрешнӓ
-     мӧр+N+Sg+PxPl1+Comp: мӧрӹнӓлӓ 
-     мӧр+N+Sg+Comp+PxPl1: мӧрӹлӓнӓ 
+     мӧр+N+Sg+PxPl1+Cmpr: мӧрӹнӓлӓ 
+     мӧр+N+Sg+Cmpr+PxPl1: мӧрӹлӓнӓ 
      мӧр+N+Sg+PxPl1+Abe: мӧрӹнӓде
      
      мӧр+N+Pl+Nom+PxPl1: мӧрӹвлӓнӓ
@@ -138,9 +138,9 @@ Tests:
      мӧр+N+Pl+Ill+PxPl1: мӧрӹвлӓшкӹнӓ
 #    мӧр+N+PxPl1+Pl+Lat: мӧрӹнӓвлӓэш
      мӧр+N+Pl+Lat+PxPl1: мӧрӹвлӓэшнӓ
-     мӧр+N+Pl+PxPl1+Comp: мӧрӹвлӓнӓлӓ     
-#    мӧр+N+PxPl1+Pl+Comp: мӧрӹнӓвлӓлӓ
-#    мӧр+N+Pl+Comp+PxPl1: мӧрӹвлӓлӓнӓ
+     мӧр+N+Pl+PxPl1+Cmpr: мӧрӹвлӓнӓлӓ     
+#    мӧр+N+PxPl1+Pl+Cmpr: мӧрӹнӓвлӓлӓ
+#    мӧр+N+Pl+Cmpr+PxPl1: мӧрӹвлӓлӓнӓ
      мӧр+N+Pl+PxPl1+Abe: мӧрӹвлӓнӓде
 #    мӧр+N+PxPl1+Pl+Abe: мӧрӹнӓвлӓде
      
@@ -154,8 +154,8 @@ Tests:
      мӧр+N+Sg+Ine+PxPl1: мӧрӹштӹдӓ
      мӧр+N+Sg+Ill+PxPl1: мӧрӹшкӹдӓ
      мӧр+N+Sg+Lat+PxPl1: мӧрешдӓ
-     мӧр+N+Sg+PxPl1+Comp: мӧрӹдӓлӓ 
-     мӧр+N+Sg+Comp+PxPl1: мӧрӹлӓдӓ 
+     мӧр+N+Sg+PxPl1+Cmpr: мӧрӹдӓлӓ 
+     мӧр+N+Sg+Cmpr+PxPl1: мӧрӹлӓдӓ 
      мӧр+N+Sg+PxPl1+Abe: мӧрӹдӓде
    
      мӧр+N+Pl+Nom+PxPl2: мӧрӹвлӓдӓ
@@ -178,9 +178,9 @@ Tests:
      мӧр+N+Pl+Ill+PxPl2: мӧрӹвлӓшкӹдӓ
 #    мӧр+N+PxPl2+Pl+Lat: мӧрӹдӓвлӓэш     
      мӧр+N+Pl+Lat+PxPl2: мӧрӹвлӓэшдӓ
-     мӧр+N+Pl+PxPl2+Comp: мӧрӹвлӓдӓлӓ    
-#    мӧр+N+PxPl2+Pl+Comp: мӧрӹдӓвлӓлӓ
-#    мӧр+N+Pl+Comp+PxPl2: мӧрӹвлӓлӓдӓ
+     мӧр+N+Pl+PxPl2+Cmpr: мӧрӹвлӓдӓлӓ    
+#    мӧр+N+PxPl2+Pl+Cmpr: мӧрӹдӓвлӓлӓ
+#    мӧр+N+Pl+Cmpr+PxPl2: мӧрӹвлӓлӓдӓ
      мӧр+N+Pl+PxPl2+Abe: мӧрӹвлӓдӓде
 #    мӧр+N+PxPl2+Pl+Abe: мӧрӹдӓвлӓде
         
@@ -194,8 +194,8 @@ Tests:
      мӧр+N+Sg+Ine+PxPl1: мӧрӹштӹштӹ
      мӧр+N+Sg+Ill+PxPl1: мӧрӹшкӹштӹ
      мӧр+N+Sg+Lat+PxPl1: мӧрешӹштӹ
-     мӧр+N+Sg+PxPl1+Comp: мӧрӹштӹлӓ 
-     мӧр+N+Sg+Comp+PxPl1: мӧрӹлӓштӹ
+     мӧр+N+Sg+PxPl1+Cmpr: мӧрӹштӹлӓ 
+     мӧр+N+Sg+Cmpr+PxPl1: мӧрӹлӓштӹ
      мӧр+N+Sg+PxPl1+Abe: мӧрӹштӹде  
      
      мӧр+N+Pl+Nom+PxPl3: мӧрӹвлӓштӹ
@@ -207,7 +207,7 @@ Tests:
      мӧр+N+Pl+Ine+PxPl3: мӧрӹвлӓштӹштӹ
      мӧр+N+Pl+Ill+PxPl3: мӧрӹвлӓшкӹштӹ
      мӧр+N+Pl+Lat+PxPl3: мӧрӹвлӓэшӹштӹ
-     мӧр+N+Pl+Comp+PxPl3: мӧрӹвлӓлӓштӹ
-     мӧр+N+Pl+PxPl3+Comp: мӧрӹвлӓштӹлӓ
+     мӧр+N+Pl+Cmpr+PxPl3: мӧрӹвлӓлӓштӹ
+     мӧр+N+Pl+PxPl3+Cmpr: мӧрӹвлӓштӹлӓ
      мӧр+N+Pl+PxPl3+Abe: мӧрӹвлӓштӹде
 

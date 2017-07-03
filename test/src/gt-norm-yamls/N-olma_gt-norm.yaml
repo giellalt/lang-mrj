@@ -23,7 +23,7 @@ Tests:
      олма+N+Sg+Ine: олмашты
      олма+N+Sg+Ill: олмашкы
      олма+N+Sg+Lat: олмаэш
-     олма+N+Sg+Comp: олмала
+     олма+N+Sg+Cmpr: олмала
      олма+N+Sg+Abe: олмаде
      олма+N+Pl+Nom: олмавлӓ
      олма+N+Pl+Gen: олмавлӓн
@@ -33,7 +33,7 @@ Tests:
      олма+N+Pl+Ine: олмавлӓштӹ
      олма+N+Pl+Ill: [олмавлӓшкӹ, олмавлӓш]
      олма+N+Pl+Lat: олмавлӓэш
-     олма+N+Pl+Comp: олмавлӓлӓ
+     олма+N+Pl+Cmpr: олмавлӓлӓ
      олма+N+Pl+Abe: олмавлӓде
      
      олма+N+Sg+Nom+PxSg1: олмаэм
@@ -44,7 +44,7 @@ Tests:
      олма+N+Sg+Ine+PxSg1: олмаштем
      олма+N+Sg+Ill+PxSg1: олмашкем
      олма+N+Sg+Lat+PxSg1: олмаэшем
-     олма+N+Sg+PxSg1+Comp: олмаэмлӓ 
+     олма+N+Sg+PxSg1+Cmpr: олмаэмлӓ 
      олма+N+Sg+PxSg1+Abe: олмаэмде 
      олма+N+PxSg1+Pl+Nom: олмаэмвлӓ
      олма+N+Pl+Nom+PxSg1: олмавлӓэм
@@ -62,7 +62,7 @@ Tests:
      олма+N+PxSg1+Pl+Ill: олмаэмвлӓшкӹ
      олма+N+Pl+Lat+PxSg1: олмавлӓэшем
      олма+N+PxSg1+Pl+Lat: олмаэмвлӓэш
-     олма+N+Pl+PxSg1+Comp: олмавлӓэмлӓ
-     олма+N+PxSg1+Pl+Comp: олмаэмвлӓлӓ
+     олма+N+Pl+PxSg1+Cmpr: олмавлӓэмлӓ
+     олма+N+PxSg1+Pl+Cmpr: олмаэмвлӓлӓ
      олма+N+Pl+PxSg1+Abe: олмавлӓэмде
      олма+N+PxSg1+Pl+Abe: олмаэмвлӓде
