@@ -273,7 +273,11 @@ Rules
 !!€0 комб00еш0нӓ
 !          :FrontVow Cns* %> р _ к ;
 !          FrontVow  ӹ: %> _ # ;
-          FHARM [ Cns:0 - [й:0|ь:0] | :FrontVow | :FrontLabVow]+ %> Cns* _ ;
+          [FHARM [ Cns:0 - [й:0|ь:0] ]+] %> Cns* _ ;
+          [:FrontVow | :FrontLabVow] [ Cns:0 - [й:0|ь:0] ]+ %> Cns* _ ;
+!! ӹштӓш+Hom2+V+Ind+Prs+Sg3: __do/tehdä__
+!!€ ӹштӹ%{front%}%>%{аӓ%}
+!          FHARM [ Cns:0 - [й:0|ь:0] | :FrontVow | :FrontLabVow]+ %> Cns* _ ;
 !          [ :FrontVow | :FrontLabVow ] [ :0 - й:0 ]* %> Cns* _ ;
 ! [ FHARM (ӹ:) [ :Cns (%>)| %> Cns:+ ] | :FrontVow Cns* %> ( %{ыӹØ%}: м ) | %> [ Е2:е | %{ыӹе%}:е | %{ыӹе%}:ӹ | %{ыӹе%}: м %{аӓ%}:ӓ ] [в|д|м|н|т|ш] Cns:* | Cns ӹ: %> ] _ [д|м|н|т|ш|%>|#] ;
 !!€# библиотека%{front%}%^А2ЫӸ%>л%{аӓ%}н
