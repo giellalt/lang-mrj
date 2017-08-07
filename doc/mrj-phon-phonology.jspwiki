@@ -18,7 +18,7 @@
 *  %{ыӹØ%}:0  used in verb affix onset
 *  %{ыӹØ%}:0  used in noun affix onset ine, ill
 *  %{ыӹØ%}:0  used in verb affix onset
- *  Ы2:0   
+ *  %{ыӹ%}:0   
  *  А2:а  
 
  *  Ь2:0   except with V АМ +Prt1+Sg1-3
@@ -54,6 +54,10 @@
 
 
 
+
+
+
+
 !!Rules
 
 
@@ -79,13 +83,13 @@ __Ь2:ш Palatal mark for V ЕМ +Prt1+Sg1__
 !!Vowel rules
 __Onset vowel in а__
 
+
 __Onset vowel in ӓ__
 
 __Onset vowel in я__
 
 __Onset vowel in е__
 
-__Onset vowel in э__
 
 
 __Onset vowel loss in suffix ыӹ0__  
@@ -148,29 +152,31 @@ __олма0эштем examples:__
 
 __Affix mid or final front %{аӓ%}:ӓ__
 
+
 __комбы%>еш%>н%{аӓ%} examples:__
 
 __комб00еш0нӓ examples:__
 
-__библиотека%^А2ЫӸ%>л%{аӓ%}н examples:__
+__библиотека%{front%}%^А2ЫӸ%>л%{аӓ%}н examples:__
 
-__библиотек0ӹ0лӓн examples:__
+__библиотекӹ00%>лӓн examples:__
 
 __Affix mid or final back %{аӓ%}:а__  
+
 
 __колт>%{ыӹØ%}д%{аӓ%} examples:__
 
 __колт0ыда examples:__
 
-__яд%>%{аӓ%}ш examples:__
+__яд%{back%}%>%{аӓ%}ш examples:__
 
-__яд0аш examples:__
+__яд0%>аш examples:__
 
 __Affix mid or final back %{аӓ%}:я__  
 
 __кай%>%{аӓ%}ш examples:__
 
-__ка00яш examples:__
+__ка0%>яш examples:__
 
 __Affix initial back а:я__  
 
@@ -179,10 +185,11 @@ __Not SgNom а:ы__
 __Not SgNom а:ӹ__
 
 
-__suffix-final vowel backed Ы2ы__  
+__suffix-final vowel backed %{ыӹ%}ы__  
 
 
-__suffix-final vowel fronted Ы2:ӹ__  
+
+__suffix-final vowel fronted %{ыӹ%}:ӹ__  
 
 !!Consonant loss or transformation
 
@@ -203,7 +210,7 @@ __0:ӹ between ш _ ж__ йиш:йишӹжӹ
 
 
 !Vowel loss
-__suffix-final vowel loss before subsequent suffix-initial vowel Ы2:0 __  
+__suffix-final vowel loss before subsequent suffix-initial vowel %{ыӹ%}:0 __  
 
 __Not SgNom for lat а:0__
 
