@@ -1,0 +1,54 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests: 
+
+# todo: 
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+   Noun - окня: # Noun 'a window'
+     окня+N+Sg+Nom: окня
+     окня+N+Sg+Gen: окнян
+     окня+N+Sg+Acc: окням
+     окня+N+Sg+Com: окняге
+     окня+N+Sg+Dat: окнялан
+     окня+N+Sg+Ine: окняшты
+     окня+N+Sg+Ill: окняшкы
+     окня+N+Sg+Lat: окняэш
+     окня+N+Sg+Cmpr: окняла
+     окня+N+Sg+Abe: окняде
+
+     окня+N+Pl+Nom: окнявлӓ
+
+     окня+N+Sg+PxSg1+Nom: окняэм
+     окня+N+Sg+PxSg2+Nom: окняэт
+     окня+N+Sg+PxSg3+Nom: окняжы
+     окня+N+Sg+PxPl1+Nom: окняна
+     окня+N+Sg+PxPl2+Nom: окняда
+     окня+N+Sg+PxPl3+Nom: окняшты
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

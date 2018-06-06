@@ -1,0 +1,54 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests: 
+
+# todo: 
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+   Noun - ӓтя: # Noun 'a father'
+     ӓтя+N+Sg+Nom: ӓтя
+     ӓтя+N+Sg+Gen: ӓтян
+     ӓтя+N+Sg+Acc: ӓтям
+     ӓтя+N+Sg+Com: ӓтяге
+     ӓтя+N+Sg+Dat: ӓтялӓн
+     ӓтя+N+Sg+Ine: ӓтяштӹ
+     ӓтя+N+Sg+Ill: [ӓтяш, ӓтяшкӹ]
+     ӓтя+N+Sg+Lat: ӓтяэш
+     ӓтя+N+Sg+Cmpr: ӓтялӓ
+     ӓтя+N+Sg+Abe: ӓтяде
+
+     ӓтя+N+Pl+Nom: ӓтявлӓ
+
+     ӓтя+N+Sg+PxSg1+Nom: [ӓтям, ӓтяэм]
+     ӓтя+N+Sg+PxSg2+Nom: [ӓтят, ӓтяэт]
+     ӓтя+N+Sg+PxSg3+Nom: ӓтяжӹ
+     ӓтя+N+Sg+PxPl1+Nom: ӓтянӓ
+     ӓтя+N+Sg+PxPl2+Nom: ӓтядӓ
+     ӓтя+N+Sg+PxPl3+Nom: ӓтяштӹ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

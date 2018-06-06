@@ -1,0 +1,54 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests: 
+
+# todo: 
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+   Noun - кид: # Noun 'a hand'
+     кид+N+Sg+Nom: кид
+     кид+N+Sg+Gen: кидӹн
+     кид+N+Sg+Acc: кидӹм
+     кид+N+Sg+Com: кидге
+     кид+N+Sg+Dat: кидлӓн
+     кид+N+Sg+Ine: кидӹштӹ
+     кид+N+Sg+Ill: [кидӹш, кидӹшкӹ]
+     кид+N+Sg+Lat: кидеш
+     кид+N+Sg+Cmpr: кидлӓ
+     кид+N+Sg+Abe: кидде
+
+     кид+N+Pl+Nom: кидвлӓ
+
+     кид+N+Sg+PxSg1+Nom: кидем
+     кид+N+Sg+PxSg2+Nom: кидет
+     кид+N+Sg+PxSg3+Nom: кидшӹ
+     кид+N+Sg+PxPl1+Nom: киднӓ
+     кид+N+Sg+PxPl2+Nom: киддӓ
+     кид+N+Sg+PxPl3+Nom: кидӹштӹ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

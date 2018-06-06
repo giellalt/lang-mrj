@@ -1,0 +1,54 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests: 
+
+# todo: 
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+   Noun - шоссе: # Noun 'a highway'
+     шоссе+N+Sg+Nom: шоссе
+     шоссе+N+Sg+Gen: шоссен
+     шоссе+N+Sg+Acc: шоссем
+     шоссе+N+Sg+Com: шоссеге
+     шоссе+N+Sg+Dat: шосселӓн
+     шоссе+N+Sg+Ine: шоссештӹ
+     шоссе+N+Sg+Ill: [шоссеш, шоссешкӹ]
+     шоссе+N+Sg+Lat: шоссеш
+     шоссе+N+Sg+Cmpr: шосселӓ
+     шоссе+N+Sg+Abe: шосседе
+
+     шоссе+N+Pl+Nom: шоссевлӓ
+
+     шоссе+N+Sg+PxSg1+Nom: шоссем
+     шоссе+N+Sg+PxSg2+Nom: шоссет
+     шоссе+N+Sg+PxSg3+Nom: шоссежӹ
+     шоссе+N+Sg+PxPl1+Nom: шоссенӓ
+     шоссе+N+Sg+PxPl2+Nom: шосседӓ
+     шоссе+N+Sg+PxPl3+Nom: шоссештӹ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
