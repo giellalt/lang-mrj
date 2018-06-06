@@ -1,0 +1,54 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests: 
+
+# todo: 
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+   Noun - алашоэ: # Noun 'a goldeneye (kind of bird)'
+     алашоэ+N+Sg+Nom: алашоэ
+     алашоэ+N+Sg+Gen: алашоэн
+     алашоэ+N+Sg+Acc: алашоэм
+     алашоэ+N+Sg+Com: алашоэге
+     алашоэ+N+Sg+Dat: алашоэлӓн
+     алашоэ+N+Sg+Ine: алашоэштӹ
+     алашоэ+N+Sg+Ill: [алашоэш, алашоэшкӹ]
+     алашоэ+N+Sg+Lat: алашоэш
+     алашоэ+N+Sg+Cmpr: алашоэлӓ
+     алашоэ+N+Sg+Abe: алашоэде
+
+     алашоэ+N+Pl+Nom: алашоэвлӓ
+
+     алашоэ+N+Sg+PxSg1+Nom: алашоэм
+     алашоэ+N+Sg+PxSg2+Nom: алашоэт
+     алашоэ+N+Sg+PxSg3+Nom: алашоэжӹ
+     алашоэ+N+Sg+PxPl1+Nom: алашоэнӓ
+     алашоэ+N+Sg+PxPl2+Nom: алашоэдӓ
+     алашоэ+N+Sg+PxPl3+Nom: алашоэштӹ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,54 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests: 
+
+# todo: 
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+   Noun - шанымаш: # Noun 'a thought'
+     шанымаш+N+Sg+Nom: шанымаш
+     шанымаш+N+Sg+Gen: шанымашын
+     шанымаш+N+Sg+Acc: шанымашым
+     шанымаш+N+Sg+Com: шанымашге
+     шанымаш+N+Sg+Dat: шанымашлан
+     шанымаш+N+Sg+Ine: [шанымашты, шанымашышты]
+     шанымаш+N+Sg+Ill: [шанымашыш, шанымашкы, шанымашышкы]
+     шанымаш+N+Sg+Lat: шанымашеш
+     шанымаш+N+Sg+Cmpr: шанымашлз
+     шанымаш+N+Sg+Abe: шанымашде
+
+     шанымаш+N+Pl+Nom: шанымашвлӓ
+
+     шанымаш+N+Sg+PxSg1+Nom: шанымашем
+     шанымаш+N+Sg+PxSg2+Nom: шанымашет
+     шанымаш+N+Sg+PxSg3+Nom: шанымашыжы
+     шанымаш+N+Sg+PxPl1+Nom: шанымашна
+     шанымаш+N+Sg+PxPl2+Nom: шанымашда
+     шанымаш+N+Sg+PxPl3+Nom: шанымашышты
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
