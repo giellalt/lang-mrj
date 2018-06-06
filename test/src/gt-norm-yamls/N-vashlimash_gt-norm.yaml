@@ -1,0 +1,54 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests: 
+
+# todo: 
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+   Noun - вӓшлимӓш: # Noun 'a meeting'
+     вӓшлимӓш+N+Sg+Nom: вӓшлимӓш
+     вӓшлимӓш+N+Sg+Gen: вӓшлимӓшӹн
+     вӓшлимӓш+N+Sg+Acc: вӓшлимӓшӹм
+     вӓшлимӓш+N+Sg+Com: вӓшлимӓшге
+     вӓшлимӓш+N+Sg+Dat: вӓшлимӓшлӓн
+     вӓшлимӓш+N+Sg+Ine: [вӓшлимӓштӹ, вӓшлимӓшӹштӹ]
+     вӓшлимӓш+N+Sg+Ill: [вӓшлимӓшӹш, вӓшлимӓшкӹ, вӓшлимӓшӹшкӹ]
+     вӓшлимӓш+N+Sg+Lat: вӓшлимӓшеш
+     вӓшлимӓш+N+Sg+Cmpr: вӓшлимӓшлӓ
+     вӓшлимӓш+N+Sg+Abe: вӓшлимӓшде
+
+     вӓшлимӓш+N+Pl+Nom: вӓшлимӓшвлӓ
+
+     вӓшлимӓш+N+Sg+PxSg1+Nom: вӓшлимӓшем
+     вӓшлимӓш+N+Sg+PxSg2+Nom: вӓшлимӓшет
+     вӓшлимӓш+N+Sg+PxSg3+Nom: вӓшлимӓшӹжӹ
+     вӓшлимӓш+N+Sg+PxPl1+Nom: вӓшлимӓшнӓ
+     вӓшлимӓш+N+Sg+PxPl2+Nom: вӓшлимӓшдӓ
+     вӓшлимӓш+N+Sg+PxPl3+Nom: вӓшлимӓшӹштӹ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
