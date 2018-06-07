@@ -37,202 +37,156 @@ Tests:
      олма+N+Pl+Abe: олмавлӓде
      
      олма+N+Sg+PxSg1+Nom: олмаэм
-     олма+N+Sg+PxSg1+Gen+SO/PC: олмаэмӹн
-     олма+N+Sg+PxSg1+Acc+SO/PC: олмаэмӹм
-     олма+N+Sg+PxSg1+Com+SO/PC: олмаэмге
-     олма+N+Sg+PxSg1+Dat+SO/PC: олмаэмлӓн
-     олма+N+Sg+PxSg1+Dat+SO/CP: олмаланем
-     олма+N+Sg+PxSg1+Ine+SO/CP: олмаштем
-     олма+N+Sg+PxSg1+Ile+SO/CP: олмашкем
-     олма+N+Sg+PxSg1+Lat+SO/CP: олмаэшем
-     олма+N+Sg+PxSg1+Cmpr+SO/PC: олмаэмлӓ 
-     олма+N+Sg+PxSg1+Abe+SO/PC: олмаэмде
+     олма+N+Sg+PxSg1+Gen: олмаэмӹн
+     олма+N+Sg+PxSg1+Acc: олмаэмӹм
+     олма+N+Sg+PxSg1+Com: олмаэмге
+     олма+N+Sg+PxSg1+Dat: [олмаэмлӓн, олмаланем]
+     олма+N+Sg+PxSg1+Ine: олмаштем
+     олма+N+Sg+PxSg1+Ile: олмашкем
+     олма+N+Sg+PxSg1+Lat: олмаэшем
+     олма+N+Sg+PxSg1+Cmpr: олмаэмлӓ 
+     олма+N+Sg+PxSg1+Abe: олмаэмде
 
-     олма+N+Pl+PxSg1+Nom+SO/PN: олмаэмвлӓ
-     олма+N+Pl+PxSg1+Nom+SO/NP: олмавлӓэм
-     олма+N+Pl+PxSg1+Gen+SO/NPC: олмавлӓэмӹн
-     олма+N+Pl+PxSg1+Gen+SO/PNC: олмаэмвлӓн
-     олма+N+Pl+PxSg1+Acc+SO/NPC: олмавлӓэмӹм
-     олма+N+Pl+PxSg1+Acc+SO/PNC: олмаэмвлӓм
-     олма+N+Pl+PxSg1+Com+SO/NPC: олмавлӓэмге
-     олма+N+Pl+PxSg1+Com+SO/PNC: олмаэмвлӓге
-     олма+N+Pl+PxSg1+Dat+SO/NPC: олмавлӓэмлӓн
-     олма+N+Pl+PxSg1+Dat+SO/PNC: олмаэмвлӓлӓн
-     олма+N+Pl+PxSg1+Ine+SO/NCP: олмавлӓштем
-     олма+N+Pl+PxSg1+Ine+SO/PNC: олмаэмвлӓштӹ
-     олма+N+Pl+PxSg1+Ill+SO/NCP: олмавлӓшкем
-     олма+N+Pl+PxSg1+Ill+SO/PNC: олмаэмвлӓшкӹ
-     олма+N+Pl+PxSg1+Lat+SO/NCP: олмавлӓэшем
-     олма+N+Pl+PxSg1+Lat+SO/PNC: олмаэмвлӓэш
-     олма+N+Pl+PxSg1+Cmpr+SO/NPC: олмавлӓэмлӓ
-     олма+N+Pl+PxSg1+Cmpr+SO/PNC: олмаэмвлӓлӓ
-     олма+N+Pl+PxSg1+Abe+SO/NPC: олмавлӓэмде
-     олма+N+Pl+PxSg1+Abe+SO/PNC: олмаэмвлӓде
+     олма+N+Pl+PxSg1+Nom: [олмаэмвлӓ, олмавлӓэм]
+     олма+N+Pl+PxSg1+Gen: [олмавлӓэмӹн, олмаэмвлӓн]
+     олма+N+Pl+PxSg1+Acc: [олмавлӓэмӹм, олмаэмвлӓм]
+     олма+N+Pl+PxSg1+Com: [олмавлӓэмге, олмаэмвлӓге]
+     олма+N+Pl+PxSg1+Dat: [олмавлӓэмлӓн, олмаэмвлӓлӓн]
+     олма+N+Pl+PxSg1+Ine: [олмавлӓштем, олмаэмвлӓштӹ]
+     олма+N+Pl+PxSg1+Ill: [олмавлӓшкем, олмаэмвлӓшкӹ]
+     олма+N+Pl+PxSg1+Lat: [олмавлӓэшем, олмаэмвлӓэш]
+     олма+N+Pl+PxSg1+Cmpr: [олмавлӓэмлӓ, олмаэмвлӓлӓ]
+     олма+N+Pl+PxSg1+Abe: [олмавлӓэмде, олмаэмвлӓде]
 
      олма+N+Sg+PxSg2+Nom: олмаэт
-     олма+N+Sg+PxSg2+Gen+SO/PC: олмаэтӹн
-     олма+N+Sg+PxSg2+Acc+SO/PC: олмаэтӹм
-     олма+N+Sg+PxSg2+Com+SO/PC: олмаэтге
-     олма+N+Sg+PxSg2+Dat+SO/PC: олмаэтлӓн
-     олма+N+Sg+PxSg2+Dat+SO/CP: олмаланет
-     олма+N+Sg+PxSg2+Ine+SO/CP: олмаштет
-     олма+N+Sg+PxSg2+Ile+SO/CP: олмашкет
-     олма+N+Sg+PxSg2+Lat+SO/CP: олмаэшет
-     олма+N+Sg+PxSg2+Cmpr+SO/PC: олмаэтлӓ 
-     олма+N+Sg+PxSg2+Abe+SO/PC: олмаэтде
+     олма+N+Sg+PxSg2+Gen: олмаэтӹн
+     олма+N+Sg+PxSg2+Acc: олмаэтӹм
+     олма+N+Sg+PxSg2+Com: олмаэтге
+     олма+N+Sg+PxSg2+Dat: [олмаэтлӓн, олмаланет]
+     олма+N+Sg+PxSg2+Ine: олмаштет
+     олма+N+Sg+PxSg2+Ile: олмашкет
+     олма+N+Sg+PxSg2+Lat: олмаэшет
+     олма+N+Sg+PxSg2+Cmpr: олмаэтлӓ 
+     олма+N+Sg+PxSg2+Abe: олмаэтде
 
-     олма+N+Pl+PxSg2+Nom+SO/PN: олмаэтвлӓ
-     олма+N+Pl+PxSg2+Nom+SO/NP: олмавлӓэт
-     олма+N+Pl+PxSg2+Gen+SO/NPC: олмавлӓэтӹн
-     олма+N+Pl+PxSg2+Gen+SO/PNC: олмаэтвлӓн
-     олма+N+Pl+PxSg2+Acc+SO/NPC: олмавлӓэтӹм
-     олма+N+Pl+PxSg2+Acc+SO/PNC: олмаэтвлӓм
-     олма+N+Pl+PxSg2+Com+SO/NPC: олмавлӓэтге
-     олма+N+Pl+PxSg2+Com+SO/PNC: олмаэтвлӓге
-     олма+N+Pl+PxSg2+Dat+SO/NPC: олмавлӓэтлӓн
-     олма+N+Pl+PxSg2+Dat+SO/PNC: олмаэтвлӓлӓн
-     олма+N+Pl+PxSg2+Ine+SO/NCP: олмавлӓштет
-     олма+N+Pl+PxSg2+Ine+SO/PNC: олмаэтвлӓштӹ
-     олма+N+Pl+PxSg2+Ill+SO/NCP: олмавлӓшкет
-     олма+N+Pl+PxSg2+Ill+SO/PNC: олмаэтвлӓшкӹ
-     олма+N+Pl+PxSg2+Lat+SO/NCP: олмавлӓэшет
-     олма+N+Pl+PxSg2+Lat+SO/PNC: олмаэтвлӓэш
-     олма+N+Pl+PxSg2+Cmpr+SO/NPC: олмавлӓэтлӓ
-     олма+N+Pl+PxSg2+Cmpr+SO/PNC: олмаэтвлӓлӓ
-     олма+N+Pl+PxSg2+Abe+SO/NPC: олмавлӓэтде
-     олма+N+Pl+PxSg2+Abe+SO/PNC: олмаэтвлӓде
+     олма+N+Pl+PxSg2+Nom: [олмаэтвлӓ, олмавлӓэт]
+     олма+N+Pl+PxSg2+Gen: [олмавлӓэтӹн, олмаэтвлӓн]
+     олма+N+Pl+PxSg2+Acc: [олмавлӓэтӹм, олмаэтвлӓм]
+     олма+N+Pl+PxSg2+Com: [олмавлӓэтге, олмаэтвлӓге]
+     олма+N+Pl+PxSg2+Dat: [олмавлӓэтлӓн, олмаэтвлӓлӓн]
+     олма+N+Pl+PxSg2+Ine: [олмавлӓштет, олмаэтвлӓштӹ]
+     олма+N+Pl+PxSg2+Ill: [олмавлӓшкет, олмаэтвлӓшкӹ]
+     олма+N+Pl+PxSg2+Lat: [олмавлӓэшет, олмаэтвлӓэш]
+     олма+N+Pl+PxSg2+Cmpr: [олмавлӓэтлӓ, олмаэтвлӓлӓ]
+     олма+N+Pl+PxSg2+Abe: [олмавлӓэтде, олмаэтвлӓде]
 
      олма+N+Sg+PxSg3+Nom: олмажы
-     олма+N+Sg+PxSg3+Gen+SO/PC: олмажын
-     олма+N+Sg+PxSg3+Acc+SO/PC: олмажым
-     олма+N+Sg+PxSg3+Com+SO/PC: олмажыге
-     олма+N+Sg+PxSg3+Dat+SO/PC: олмажылан
-     олма+N+Sg+PxSg3+Dat+SO/CP: олмаланжы
-     олма+N+Sg+PxSg3+Ine+SO/CP: олмаштыжы
-     олма+N+Sg+PxSg3+Ile+SO/CP: олмашкыжы
-     олма+N+Sg+PxSg3+Lat+SO/CP: олмаэшыжы
-     олма+N+Sg+PxSg3+Cmpr+SO/PC: олмажыла 
-     олма+N+Sg+PxSg3+Abe+SO/PC: олмажыде
+     олма+N+Sg+PxSg3+Gen: олмажын
+     олма+N+Sg+PxSg3+Acc: олмажым
+     олма+N+Sg+PxSg3+Com: олмажыге
+     олма+N+Sg+PxSg3+Dat: [олмажылан, олмаланжы]
+     олма+N+Sg+PxSg3+Ine: олмаштыжы
+     олма+N+Sg+PxSg3+Ile: олмашкыжы
+     олма+N+Sg+PxSg3+Lat: олмаэшыжы
+     олма+N+Sg+PxSg3+Cmpr: олмажыла 
+     олма+N+Sg+PxSg3+Abe: олмажыде
 
-#     олма+N+Pl+PxSg3+Nom+SO/PN: олмажывлӓ
-     олма+N+Pl+PxSg3+Nom+SO/NP: олмавлӓжӹ
-     олма+N+Pl+PxSg3+Gen+SO/NPC: олмавлӓжӹн
-#     олма+N+Pl+PxSg3+Gen+SO/PNC: олмажывлӓн
-     олма+N+Pl+PxSg3+Acc+SO/NPC: олмавлӓжӹм
-#     олма+N+Pl+PxSg3+Acc+SO/PNC: олмажывлӓм
-     олма+N+Pl+PxSg3+Com+SO/NPC: олмавлӓжӹге
-#     олма+N+Pl+PxSg3+Com+SO/PNC: олмажывлӓге
-     олма+N+Pl+PxSg3+Dat+SO/NPC: олмавлӓжӹлӓн
-#     олма+N+Pl+PxSg3+Dat+SO/PNC: олмажывлӓлӓн
-     олма+N+Pl+PxSg3+Ine+SO/NCP: олмавлӓштӹжӹ
-#     олма+N+Pl+PxSg3+Ine+SO/PNC: олмажывлӓштӹ
-     олма+N+Pl+PxSg3+Ill+SO/NCP: олмавлӓшкӹжӹ
-#     олма+N+Pl+PxSg3+Ill+SO/PNC: олмажывлӓшкӹ
-     олма+N+Pl+PxSg3+Lat+SO/NCP: олмавлӓэшӹжӹ
-#     олма+N+Pl+PxSg3+Lat+SO/PNC: олмажывлӓэш
-     олма+N+Pl+PxSg3+Cmpr+SO/NPC: олмавлӓжӹлӓ
-#     олма+N+Pl+PxSg3+Cmpr+SO/PNC: олмажывлӓлӓ
-     олма+N+Pl+PxSg3+Abe+SO/NPC: олмавлӓжӹде
-#     олма+N+Pl+PxSg3+Abe+SO/PNC: олмажывлӓде
+#     олма+N+Pl+PxSg3+Nom: олмажывлӓ
+     олма+N+Pl+PxSg3+Nom: олмавлӓжӹ
+     олма+N+Pl+PxSg3+Gen: олмавлӓжӹн
+#     олма+N+Pl+PxSg3+Gen: олмажывлӓн
+     олма+N+Pl+PxSg3+Acc: олмавлӓжӹм
+#     олма+N+Pl+PxSg3+Acc: олмажывлӓм
+     олма+N+Pl+PxSg3+Com: олмавлӓжӹге
+#     олма+N+Pl+PxSg3+Com: олмажывлӓге
+     олма+N+Pl+PxSg3+Dat: [олмавлӓжӹлӓн, олмавлӓлӓнжӹ]
+#     олма+N+Pl+PxSg3+Dat: олмажывлӓлӓн
+     олма+N+Pl+PxSg3+Ine: олмавлӓштӹжӹ
+#     олма+N+Pl+PxSg3+Ine: олмажывлӓштӹ
+     олма+N+Pl+PxSg3+Ill: олмавлӓшкӹжӹ
+#     олма+N+Pl+PxSg3+Ill: олмажывлӓшкӹ
+     олма+N+Pl+PxSg3+Lat: олмавлӓэшӹжӹ
+#     олма+N+Pl+PxSg3+Lat: олмажывлӓэш
+     олма+N+Pl+PxSg3+Cmpr: олмавлӓжӹлӓ
+#     олма+N+Pl+PxSg3+Cmpr: олмажывлӓлӓ
+     олма+N+Pl+PxSg3+Abe: олмавлӓжӹде
+#     олма+N+Pl+PxSg3+Abe: олмажывлӓде
 
      олма+N+Sg+PxPl1+Nom: олмана
-     олма+N+Sg+PxPl1+Gen+SO/PC: олманан
-     олма+N+Sg+PxPl1+Acc+SO/PC: олманам
-     олма+N+Sg+PxPl1+Com+SO/PC: олманаге
-     олма+N+Sg+PxPl1+Dat+SO/PC: олманалан
-     олма+N+Sg+PxPl1+Dat+SO/CP: олмаланна
-     олма+N+Sg+PxPl1+Ine+SO/CP: олмаштына
-     олма+N+Sg+PxPl1+Ile+SO/CP: олмашкына
-     олма+N+Sg+PxPl1+Lat+SO/CP: олмаэшына
-     олма+N+Sg+PxPl1+Cmpr+SO/PC: олманала 
-     олма+N+Sg+PxPl1+Abe+SO/PC: олманаде
+     олма+N+Sg+PxPl1+Gen: олманан
+     олма+N+Sg+PxPl1+Acc: олманам
+     олма+N+Sg+PxPl1+Com: олманаге
+     олма+N+Sg+PxPl1+Dat: [олманалан, олмаланна]
+     олма+N+Sg+PxPl1+Ine: олмаштына
+     олма+N+Sg+PxPl1+Ile: олмашкына
+     олма+N+Sg+PxPl1+Lat: олмаэшына
+     олма+N+Sg+PxPl1+Cmpr: олманала 
+     олма+N+Sg+PxPl1+Abe: олманаде
 
-     олма+N+Pl+PxPl1+Nom+SO/PN: олманавлӓ
-     олма+N+Pl+PxPl1+Nom+SO/NP: олмавлӓнӓ
-     олма+N+Pl+PxPl1+Gen+SO/NPC: олмавлӓнӓн
-     олма+N+Pl+PxPl1+Gen+SO/PNC: олманавлӓн
-     олма+N+Pl+PxPl1+Acc+SO/NPC: олмавлӓнӓм
-     олма+N+Pl+PxPl1+Acc+SO/PNC: олманавлӓм
-     олма+N+Pl+PxPl1+Com+SO/NPC: олмавлӓнӓге
-     олма+N+Pl+PxPl1+Com+SO/PNC: олманавлӓге
-     олма+N+Pl+PxPl1+Dat+SO/NPC: олмавлӓнӓлӓн
-     олма+N+Pl+PxPl1+Dat+SO/PNC: олманавлӓлӓн
-     олма+N+Pl+PxPl1+Ine+SO/NCP: олмавлӓштӹнӓ
-     олма+N+Pl+PxPl1+Ine+SO/PNC: олманавлӓштӹ
-     олма+N+Pl+PxPl1+Ill+SO/NCP: олмавлӓшкӹнӓ
-     олма+N+Pl+PxPl1+Ill+SO/PNC: олманавлӓшкӹ
-     олма+N+Pl+PxPl1+Lat+SO/NCP: олмавлӓэшӹнӓ
-     олма+N+Pl+PxPl1+Lat+SO/PNC: олманавлӓэш
-     олма+N+Pl+PxPl1+Cmpr+SO/NPC: олмавлӓнӓлӓ
-     олма+N+Pl+PxPl1+Cmpr+SO/PNC: олманавлӓлӓ
-     олма+N+Pl+PxPl1+Abe+SO/NPC: олмавлӓнӓде
-     олма+N+Pl+PxPl1+Abe+SO/PNC: олманавлӓде
+     олма+N+Pl+PxPl1+Nom: [олманавлӓ, олмавлӓнӓ]
+     олма+N+Pl+PxPl1+Gen: [олмавлӓнӓн, олманавлӓн]
+     олма+N+Pl+PxPl1+Acc: [олмавлӓнӓм, олманавлӓм]
+     олма+N+Pl+PxPl1+Com: [олмавлӓнӓге, олманавлӓге]
+     олма+N+Pl+PxPl1+Dat: [олмавлӓнӓлӓн, олманавлӓлӓн]
+     олма+N+Pl+PxPl1+Ine: [олмавлӓштӹнӓ, олманавлӓштӹ]
+     олма+N+Pl+PxPl1+Ill: [олмавлӓшкӹнӓ, олманавлӓшкӹ]
+     олма+N+Pl+PxPl1+Lat: [олмавлӓэшӹнӓ, олманавлӓэш]
+     олма+N+Pl+PxPl1+Cmpr: [олмавлӓнӓлӓ, олманавлӓлӓ]
+     олма+N+Pl+PxPl1+Abe: [олмавлӓнӓде, олманавлӓде]
 
      олма+N+Sg+PxPl2+Nom: олмада
-     олма+N+Sg+PxPl2+Gen+SO/PC: олмадан
-     олма+N+Sg+PxPl2+Acc+SO/PC: олмадам
-     олма+N+Sg+PxPl2+Com+SO/PC: олмадаге
-     олма+N+Sg+PxPl2+Dat+SO/PC: олмадалан
-     олма+N+Sg+PxPl2+Dat+SO/CP: олмаланда
-     олма+N+Sg+PxPl2+Ine+SO/CP: олмаштыда
-     олма+N+Sg+PxPl2+Ile+SO/CP: олмашкыда
-     олма+N+Sg+PxPl2+Lat+SO/CP: олмаэшыда
-     олма+N+Sg+PxPl2+Cmpr+SO/PC: олмадала 
-     олма+N+Sg+PxPl2+Abe+SO/PC: олмададе
+     олма+N+Sg+PxPl2+Gen: олмадан
+     олма+N+Sg+PxPl2+Acc: олмадам
+     олма+N+Sg+PxPl2+Com: олмадаге
+     олма+N+Sg+PxPl2+Dat: [олмадалан, олмаланда]
+     олма+N+Sg+PxPl2+Ine: олмаштыда
+     олма+N+Sg+PxPl2+Ile: олмашкыда
+     олма+N+Sg+PxPl2+Lat: олмаэшыда
+     олма+N+Sg+PxPl2+Cmpr: олмадала 
+     олма+N+Sg+PxPl2+Abe: олмададе
 
-     олма+N+Pl+PxPl2+Nom+SO/PN: олмадавлӓ
-     олма+N+Pl+PxPl2+Nom+SO/NP: олмавлӓдӓ
-     олма+N+Pl+PxPl2+Gen+SO/NPC: олмавлӓдӓн
-     олма+N+Pl+PxPl2+Gen+SO/PNC: олмадавлӓн
-     олма+N+Pl+PxPl2+Acc+SO/NPC: олмавлӓдӓм
-     олма+N+Pl+PxPl2+Acc+SO/PNC: олмадавлӓм
-     олма+N+Pl+PxPl2+Com+SO/NPC: олмавлӓдӓге
-     олма+N+Pl+PxPl2+Com+SO/PNC: олмадавлӓге
-     олма+N+Pl+PxPl2+Dat+SO/NPC: олмавлӓдӓлӓн
-     олма+N+Pl+PxPl2+Dat+SO/PNC: олмадавлӓлӓн
-     олма+N+Pl+PxPl2+Ine+SO/NCP: олмавлӓштӹдӓ
-     олма+N+Pl+PxPl2+Ine+SO/PNC: олмадавлӓштӹ
-     олма+N+Pl+PxPl2+Ill+SO/NCP: олмавлӓшкӹдӓ
-     олма+N+Pl+PxPl2+Ill+SO/PNC: олмадавлӓшкӹ
-     олма+N+Pl+PxPl2+Lat+SO/NCP: олмавлӓэшӹдӓ
-     олма+N+Pl+PxPl2+Lat+SO/PNC: олмадавлӓэш
-     олма+N+Pl+PxPl2+Cmpr+SO/NPC: олмавлӓдӓлӓ
-     олма+N+Pl+PxPl2+Cmpr+SO/PNC: олмадавлӓлӓ
-     олма+N+Pl+PxPl2+Abe+SO/NPC: олмавлӓдӓде
-     олма+N+Pl+PxPl2+Abe+SO/PNC: олмадавлӓде
+     олма+N+Pl+PxPl2+Nom: [олмадавлӓ, олмавлӓдӓ]
+     олма+N+Pl+PxPl2+Gen: [олмавлӓдӓн, олмадавлӓн]
+     олма+N+Pl+PxPl2+Acc: [олмавлӓдӓм, олмадавлӓм]
+     олма+N+Pl+PxPl2+Com: [олмавлӓдӓге, олмадавлӓге]
+     олма+N+Pl+PxPl2+Dat: [олмавлӓдӓлӓн, олмадавлӓлӓн]
+     олма+N+Pl+PxPl2+Ine: [олмавлӓштӹдӓ, олмадавлӓштӹ]
+     олма+N+Pl+PxPl2+Ill: [олмавлӓшкӹдӓ, олмадавлӓшкӹ]
+     олма+N+Pl+PxPl2+Lat: [олмавлӓэшӹдӓ, олмадавлӓэш]
+     олма+N+Pl+PxPl2+Cmpr: [олмавлӓдӓлӓ, олмадавлӓлӓ]
+     олма+N+Pl+PxPl2+Abe: [олмавлӓдӓде, олмадавлӓде]
 
      олма+N+Sg+PxPl3+Nom: олмашты
-     олма+N+Sg+PxPl3+Gen+SO/PC: олмаштын
-     олма+N+Sg+PxPl3+Acc+SO/PC: олмаштым
-     олма+N+Sg+PxPl3+Com+SO/PC: олмаштыге
-     олма+N+Sg+PxPl3+Dat+SO/PC: олмаштылан
-     олма+N+Sg+PxPl3+Dat+SO/CP: олмаланшты
-     олма+N+Sg+PxPl3+Ine+SO/CP: олмаштышты
-     олма+N+Sg+PxPl3+Ile+SO/CP: олмашкышты
-     олма+N+Sg+PxPl3+Lat+SO/CP: олмаэшышты
-     олма+N+Sg+PxPl3+Cmpr+SO/PC: олмаштыла 
-     олма+N+Sg+PxPl3+Abe+SO/PC: олмаштыде
+     олма+N+Sg+PxPl3+Gen: олмаштын
+     олма+N+Sg+PxPl3+Acc: олмаштым
+     олма+N+Sg+PxPl3+Com: олмаштыге
+     олма+N+Sg+PxPl3+Dat: [олмаштылан, олмаланшты]
+     олма+N+Sg+PxPl3+Ine: олмаштышты
+     олма+N+Sg+PxPl3+Ile: олмашкышты
+     олма+N+Sg+PxPl3+Lat: олмаэшышты
+     олма+N+Sg+PxPl3+Cmpr: олмаштыла 
+     олма+N+Sg+PxPl3+Abe: олмаштыде
 
-#     олма+N+Pl+PxPl3+Nom+SO/PN: олмаштывлӓ
-     олма+N+Pl+PxPl3+Nom+SO/NP: олмавлӓштӹ
-     олма+N+Pl+PxPl3+Gen+SO/NPC: олмавлӓштӹн
-#     олма+N+Pl+PxPl3+Gen+SO/PNC: олмаштывлӓн
-     олма+N+Pl+PxPl3+Acc+SO/NPC: олмавлӓштӹм
-#     олма+N+Pl+PxPl3+Acc+SO/PNC: олмаштывлӓм
-     олма+N+Pl+PxPl3+Com+SO/NPC: олмавлӓштӹге
-#     олма+N+Pl+PxPl3+Com+SO/PNC: олмаштывлӓге
-     олма+N+Pl+PxPl3+Dat+SO/NPC: олмавлӓштӹлӓн
-#     олма+N+Pl+PxPl3+Dat+SO/PNC: олмаштывлӓлӓн
-     олма+N+Pl+PxPl3+Ine+SO/NCP: олмавлӓштӹштӹ
-#     олма+N+Pl+PxPl3+Ine+SO/PNC: олмаштывлӓштӹ
-     олма+N+Pl+PxPl3+Ill+SO/NCP: олмавлӓшкӹштӹ
-#     олма+N+Pl+PxPl3+Ill+SO/PNC: олмаштывлӓшкӹ
-     олма+N+Pl+PxPl3+Lat+SO/NCP: олмавлӓэшӹштӹ
-#     олма+N+Pl+PxPl3+Lat+SO/PNC: олмаштывлӓэш
-     олма+N+Pl+PxPl3+Cmpr+SO/NPC: олмавлӓштӹлӓ
-#     олма+N+Pl+PxPl3+Cmpr+SO/PNC: олмаштывлӓлӓ
-     олма+N+Pl+PxPl3+Abe+SO/NPC: олмавлӓштӹде
-#     олма+N+Pl+PxPl3+Abe+SO/PNC: олмаштывлӓде
+#     олма+N+Pl+PxPl3+Nom: олмаштывлӓ
+     олма+N+Pl+PxPl3+Nom: олмавлӓштӹ
+     олма+N+Pl+PxPl3+Gen: олмавлӓштӹн
+#     олма+N+Pl+PxPl3+Gen: олмаштывлӓн
+     олма+N+Pl+PxPl3+Acc: олмавлӓштӹм
+#     олма+N+Pl+PxPl3+Acc: олмаштывлӓм
+     олма+N+Pl+PxPl3+Com: олмавлӓштӹге
+#     олма+N+Pl+PxPl3+Com: олмаштывлӓге
+     олма+N+Pl+PxPl3+Dat: [олмавлӓштӹлӓн, олмавлӓлӓнӹштӹ]
+#     олма+N+Pl+PxPl3+Dat: олмаштывлӓлӓн
+     олма+N+Pl+PxPl3+Ine: олмавлӓштӹштӹ
+#     олма+N+Pl+PxPl3+Ine: олмаштывлӓштӹ
+     олма+N+Pl+PxPl3+Ill: олмавлӓшкӹштӹ
+#     олма+N+Pl+PxPl3+Ill: олмаштывлӓшкӹ
+     олма+N+Pl+PxPl3+Lat: олмавлӓэшӹштӹ
+#     олма+N+Pl+PxPl3+Lat: олмаштывлӓэш
+     олма+N+Pl+PxPl3+Cmpr: олмавлӓштӹлӓ
+#     олма+N+Pl+PxPl3+Cmpr: олмаштывлӓлӓ
+     олма+N+Pl+PxPl3+Abe: олмавлӓштӹде
+#     олма+N+Pl+PxPl3+Abe: олмаштывлӓде
 
 
 
