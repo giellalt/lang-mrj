@@ -9,11 +9,15 @@
 GT_ORTHOGRAPHIC_REGEX_SRCS=\
 		inituppercase.regex \
 		spellrelax.regex    \
+                spellrelax.thirties.regex    \
+                spellrelax.eighties.regex    \
 		spellrelax-mobile-keyboard.regex \
 		spellrelax-tags.regex
 
 GT_ORTHOGRAPHIC_XFSCRIPT_SRCS=\
 		allcaps.xfscript      \
+		standard-to-thirties.xfscript \
+		standard-to-eighties.xfscript \
 		downcase-derived_proper-strings.xfscript \
 		spellrelax-with-tags.xfscript
 
