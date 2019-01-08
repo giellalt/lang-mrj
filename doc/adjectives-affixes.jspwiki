@@ -3,7 +3,7 @@
 
 Hill Mari adjectives compare.
 
- * __+A: # ;__ This adjective only occurs with a head word in an adnominal phrase
+ * __# ;__ This adjective only occurs with a head word in an adnominal phrase
 
  * __LEXICON A_ __
 This should be neutral 2013-05-11
@@ -17,10 +17,10 @@ This should be neutral 2013-05-11
  * __LEXICON A_TYERVYE__
 
  * __LEXICON A_KOL__
- * __+A+Der/N+N:%{back%} NMN_KOL ;__ The +N tag is given here to curtail over generation from derived nouns
+ * __+Der/N+N:%{back%} NMN_KOL ;__ The +N tag is given here to curtail over generation from derived nouns
 
  * __LEXICON A_MOER__
- * __+A+Der/N+N:%{front%} NMN_MOER ;__ The +N tag is given here to curtail over generation from derived nouns
+ * __+Der/N+N:%{front%} NMN_MOER ;__ The +N tag is given here to curtail over generation from derived nouns
 
 
 
