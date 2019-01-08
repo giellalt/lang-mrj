@@ -9,7 +9,7 @@ LEXICON NTag
 ! character (ie last of lexicon name) is also an _ char - otherwise one gets a
 ! jspwiki syntax error.
 LEXICON N_  !!≈ * __@CODE@ __
- +N+WORK: K ;
+ +WORK: K ;
 
 !! !!Substandard
 
@@ -26,18 +26,18 @@ LEXICON N_KOL !!= @CODE@ кол:кол
   N_KOL-SG ;
   N_KOL-PL ;
 LEXICON N_KOL-SG
- +N:%{back%} NMN_KOL-SG ;
+ :%{back%} NMN_KOL-SG ;
 LEXICON N_KOL-PL
- +N:%{back%} NMN_KOL-PL ;
+ :%{back%} NMN_KOL-PL ;
 
 LEXICON N_MOER !!= @CODE@ мӧр:мӧр
 !! Front harmony
   N_MOER-SG ;
   N_MOER-PL ;
 LEXICON N_MOER-SG
- +N:%{front%} NMN_MOER-SG ;
+ :%{front%} NMN_MOER-SG ;
 LEXICON N_MOER-PL
- +N:%{front%} NMN_MOER-PL ;
+ :%{front%} NMN_MOER-PL ;
 
 LEXICON N_MARY !!≈ * __@CODE@__ мары:мары
 !! The stem vowel "е" is found with possessor indices and the lative
@@ -45,9 +45,9 @@ LEXICON N_MARY !!≈ * __@CODE@__ мары:мары
   N_MARY-SG ;
   N_MARY-PL ;
 LEXICON N_MARY-SG
- +N:%{back%} NMN_MARY-SG ;
+ :%{back%} NMN_MARY-SG ;
 LEXICON N_MARY-PL
- +N:%{back%} NMN_MARY-PL ;
+ :%{back%} NMN_MARY-PL ;
 
 LEXICON N_TYERVYE !!≈ * __@CODE@__ тӹрвӹ:тӹрвӹ
 !! The stem vowel "е" is found with possessor indices and the lative
@@ -55,9 +55,9 @@ LEXICON N_TYERVYE !!≈ * __@CODE@__ тӹрвӹ:тӹрвӹ
   N_TYERVYE-SG ;
   N_TYERVYE-PL ;
 LEXICON N_TYERVYE-SG
- +N:%{front%} NMN_TYERVYE-SG ;
+ :%{front%} NMN_TYERVYE-SG ;
 LEXICON N_TYERVYE-PL
- +N:%{front%} NMN_TYERVYE-PL ;
+ :%{front%} NMN_TYERVYE-PL ;
 
 LEXICON N_KARTA_SUB
  +Err/Orth: N_KARTA ;
@@ -68,9 +68,9 @@ LEXICON N_KARTA !!≈ * __@CODE@__ карта:карта
   N_KARTA-SG ;
   N_KARTA-PL ;
 LEXICON N_KARTA-SG
- +N:%{back%} NMN_KARTA-SG ;
+ :%{back%} NMN_KARTA-SG ;
 LEXICON N_KARTA-PL
- +N:%{back%} NMN_KARTA-PL ;
+ :%{back%} NMN_KARTA-PL ;
 
 LEXICON N_BIRZHA !!≈ * __@CODE@__ биржа:биржа
 !! а is specific to the +Sg+Nom, elsewhere  ӹ
@@ -78,9 +78,9 @@ LEXICON N_BIRZHA !!≈ * __@CODE@__ биржа:биржа
   N_BIRZHA-SG ;
   N_BIRZHA-PL ;
 LEXICON N_BIRZHA-SG
- +N:%{front%} NMN_BIRZHA-SG ;
+ :%{front%} NMN_BIRZHA-SG ;
 LEXICON N_BIRZHA-PL
- +N:%{front%} NMN_BIRZHA-PL ;
+ :%{front%} NMN_BIRZHA-PL ;
 
 LEXICON N_VAREN1E !!≈ * __@CODE@__ варенье:варенье
 !! е is specific to the +Sg+Nom, elsewhere  ӹ
@@ -88,16 +88,16 @@ LEXICON N_VAREN1E !!≈ * __@CODE@__ варенье:варенье
   N_VAREN1E-SG ;
   N_VAREN1E-PL ;
 LEXICON N_VAREN1E-SG
- +N:%{front%} NMN_VAREN1E-SG ;
+ :%{front%} NMN_VAREN1E-SG ;
 LEXICON N_VAREN1E-PL
- +N:%{front%} NMN_VAREN1E-PL ;
+ :%{front%} NMN_VAREN1E-PL ;
 
 LEXICON N_POCHTA !!= @CODE@  почта:почта
-        +N:%{back%} NMN_OBLIQUE-INDEFINITE-SG_BACK   ;
-        +N:%{back%} NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ;
-        +N:%{back%} NMN_OBLIQUE-POSSESSA-SG_BACK     ; !!!!
-        +N:%{back%} NMN_OBLIQUE-POSSESSA-PL_BACK     ;
- +N+Sg+Nom:%{back%} K                                ;
+        :%{back%} NMN_OBLIQUE-INDEFINITE-SG_BACK   ;
+        :%{back%} NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ;
+        :%{back%} NMN_OBLIQUE-POSSESSA-SG_BACK     ; !!!!
+        :%{back%} NMN_OBLIQUE-POSSESSA-PL_BACK     ;
+ +Sg+Nom:%{back%} K                                ;
 
 LEXICON N_OLMA_SUB
  +Err/Orth: N_OLMA ;
@@ -106,27 +106,27 @@ LEXICON N_OLMA !!= @CODE@  олма:олма
   N_OLMA-SG ;
   N_OLMA-PL ;
 LEXICON N_OLMA-SG
- +N:%{back%} NMN_OLMA-SG ;
+ :%{back%} NMN_OLMA-SG ;
 LEXICON N_OLMA-PL
- +N:%{back%} NMN_OLMA-PL ;
+ :%{back%} NMN_OLMA-PL ;
 
 LEXICON N_AEZAE !!= @CODE@  ӓзӓ:ӓзӓ
 !! Front harmony
   N_AEZAE-SG ;
   N_AEZAE-PL ;
 LEXICON N_AEZAE-SG
- +N:%{front%} NMN_AEZAE-SG ;
+ :%{front%} NMN_AEZAE-SG ;
 LEXICON N_AEZAE-PL
- +N:%{front%} NMN_AEZAE-PL ;
+ :%{front%} NMN_AEZAE-PL ;
 
 LEXICON N_PECHEN1E !!= @CODE@  печенье:печенье
 !! Front harmony
   N_PECHEN1E-SG ;
   N_PECHEN1E-PL ;
 LEXICON N_PECHEN1E-SG
- +N:%{front%} NMN_PECHEN1E-SG ;
+ :%{front%} NMN_PECHEN1E-SG ;
 LEXICON N_PECHEN1E-PL
- +N:%{front%} NMN_PECHEN1E-PL ;
+ :%{front%} NMN_PECHEN1E-PL ;
 
 !!
 LEXICON NMN_KOL !!= @CODE@ кол:кол
@@ -291,23 +291,23 @@ LEXICON NMN_PECHEN1E-PL
   NMN_OBLIQUE-POSSESSA-PL_FRONT    ;
 
 LEXICON N_AEVAE !!= @CODE@  ӓвӓ:ӓвӓ
-                           +N:%{front%}                    NMN_OBLIQUE-INDEFINITE-SG_FRONT  ;
-                           +N:%{front%}             NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ;
-                           +N:%{front%}%^KIN               NMN_OBLIQUE-POSSESSA-SG_FRONT    ; !!!!
-                           +N:%{front%}%^KIN               NMN_OBLIQUE-POSSESSA-PL_FRONT    ;
+                           :%{front%}                    NMN_OBLIQUE-INDEFINITE-SG_FRONT  ;
+                           :%{front%}             NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ;
+                           :%{front%}%^KIN               NMN_OBLIQUE-POSSESSA-SG_FRONT    ; !!!!
+                           :%{front%}%^KIN               NMN_OBLIQUE-POSSESSA-PL_FRONT    ;
 
-                    +N+Sg+Nom:%{front%}                    K                                ;
-              +N+PxSg1+Sg+Nom:%{front%}%>эм                  K                                ;
-! !2013-10-18!+N+PxSg1+Sg+Nom:%{front%}%>м                   K                                ; !! Special
-              +N+PxSg1+Pl+Nom:%{front%}%>эмвлӓ               K                                ;
-! !2013-10-18!+N+PxSg1+Pl+Nom:%{front%}%>мвлӓ                K                                ;
-! !2013-10-18!+N+Pl+PxSg1+Nom:влӓэм               K                                ;
-              +N+PxSg2+Sg+Nom:%{front%}%>ет                  K                                ;
-! !2013-10-18!+N+PxSg2+Sg+Nom:%{front%}%>т                   K                                ; !! Special
-              +N+PxSg2+Pl+Nom:%{front%}%>етвлӓ               K                                ;
-! !2013-10-18!+N+PxSg2+Pl+Nom:твлӓ                K                                ;
-! !2013-10-18!+N+Pl+Nom+PxSg2:влӓэт               K                                ;
-! !2013-10-18!+N+Sg+Lat+PxSg3:%>эш%{ыӹØ%}ж%{ыӹØ%} K                                ;
+                    +Sg+Nom:%{front%}                    K                                ;
+              +PxSg1+Sg+Nom:%{front%}%>эм                  K                                ;
+! !2013-10-18!+PxSg1+Sg+Nom:%{front%}%>м                   K                                ; !! Special
+              +PxSg1+Pl+Nom:%{front%}%>эмвлӓ               K                                ;
+! !2013-10-18!+PxSg1+Pl+Nom:%{front%}%>мвлӓ                K                                ;
+! !2013-10-18!+Pl+PxSg1+Nom:влӓэм               K                                ;
+              +PxSg2+Sg+Nom:%{front%}%>ет                  K                                ;
+! !2013-10-18!+PxSg2+Sg+Nom:%{front%}%>т                   K                                ; !! Special
+              +PxSg2+Pl+Nom:%{front%}%>етвлӓ               K                                ;
+! !2013-10-18!+PxSg2+Pl+Nom:твлӓ                K                                ;
+! !2013-10-18!+Pl+Nom+PxSg2:влӓэт               K                                ;
+! !2013-10-18!+Sg+Lat+PxSg3:%>эш%{ыӹØ%}ж%{ыӹØ%} K                                ;
 
 !!
 
@@ -409,7 +409,7 @@ LEXICON NMN_OBLIQUE-POSSESSA-SG_BACK
 !!
 
 !!
-!     кол+N+PxSg1+Sg+Nom: [колем, колэм] # х2 колэмжӹ
+!     кол+PxSg1+Sg+Nom: [колем, колэм] # х2 колэмжӹ
 
 !!PxSg1
   SG-ABE-PXSG1_MUTUAL  ;
