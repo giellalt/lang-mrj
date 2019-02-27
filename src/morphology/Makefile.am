@@ -36,6 +36,7 @@ GT_LEXC_SRCS_L1_L2=\
 			 affixes/propernouns.lexc \
 			 affixes/pronouns.lexc    \
 			 affixes/quantifiers.lexc \
+			 affixes/symbols.lexc     \
 			 affixes/verbs.lexc
 
 # If you are building an error-detecting L2 analyser, specify the lexc files
@@ -56,7 +57,8 @@ GT_LEXC_L2_SRCS=\
 # Set this to the names of all generated lexc files, if any
 GENERATED_LEXC_SRCS=\
 			generated_files/urj-Cyrl-propernouns.lexc \
-            generated_files/punctuation.lexc   \
+			generated_files/punctuation.lexc   \
+			generated_files/symbols.lexc       \
 			$(srcdir)/stems/adjectives.lexc    \
 			$(srcdir)/stems/adpositions.lexc   \
 			$(srcdir)/stems/adverbs.lexc       \
