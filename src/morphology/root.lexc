@@ -86,6 +86,7 @@ Multichar_Symbols
 
 ! Abbreviated words are classified with:
  +ABBR +ACR
++Symbol !!≈ * @CODE@ = independent symbols in the text stream, like £, €, ©
 !! Special symbols are classified with:
 +CLB +PUNCT +LEFT +RIGHT
 !! The verbs are syntactically split according to transitivity:
