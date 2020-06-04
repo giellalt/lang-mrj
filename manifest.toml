@@ -1,0 +1,9 @@
+name = "Western Mari"
+version = "0.1.0"
+
+[macos]
+system_pkg_id = "no.divvun.MacDivvun.mrj"
+
+[windows]
+system_product_code = "C1F02079-F538-4511-B713-70C0F06E5CDC"
+msoffice_product_code = "6D055FC3-18F2-46AD-9A63-D547BDB89888"
