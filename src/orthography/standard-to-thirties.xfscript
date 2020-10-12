@@ -1,0 +1,52 @@
+! =====================================!
+! Orthographic converter for Hill Mari thirties orth !
+! =====================================!
+
+! This program translates text written in the orthographies
+! of the 20s and 30s into modern orthography
+
+echo <<defining Cns and Vow...>>
+
+
+define Vow [ а | е | и | э | я | о | у | ё | ю | ӓ | ӧ | ӱ | ӹ | А | Е | И | Э | Я | О | У | Ё | Ю | Ӓ | Ӧ | Ӱ | Ӹ ] ; 
+
+define Vow2 [ а | э | у | А | Э | У ] ; 
+
+define FrontVow [ ӓ | ӧ | ӹ | Ӓ | Ӧ | Ӹ ] ;
+
+define Cns  [ б | в | г | д | ж | з | й | к | л | м | н | ҥ | п | р | с | т | ф | х | ц | ч | ш | щ | 
+              Б | В | Г | Д | Ж | З | Й | К | Л | М | Н | Ҥ | П | Р | С | Т | Ф | Х | Ц | Ч | Ш | Щ ] ;
+
+
+define Sign [ ъ | ь | Ъ | Ь ] ;
+
+define Segm [ Sign | Cns | Vow ] ;
+define FrontSegm [ Sign | Cns | FrontVow ] ;
+
+echo << Rules>>
+
+echo << We here do pre-1938 >>
+
+define CnsJV й -> ъ й , Й -> Ъ Й || Cns _ Vow2 ;  # пӧрйэҥ -> пӧръйэҥ
+
+define JE  й э -> е , ь э -> е , Й [Э|э] -> Е , Ь Э -> Е ; # пӧръйэҥ -> пӧръеҥ
+define JA  й а -> я , ь [а|ӓ]  -> я , Й [А|а] -> Я , Ь [А|Ӓ] -> Я ;
+define JU  й у -> ю , ь у -> ю , Й [У|у] -> Ю , Ь У -> Ю ;
+
+define CnsE [ э -> е , Э -> Е || Cns _ ] ;
+		    
+define NG [ ҥ -> н г , Ҥ -> Н Г ] ;
+
+
+echo << Combining >>
+
+read regex [ CnsJV
+.o. JE 
+.o. JA 
+.o. JU
+.o. CnsE
+.o. NG ] ;
+
+
+
+

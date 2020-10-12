@@ -1,0 +1,30 @@
+! =====================================!
+! Orthographic converter for Hill Mari eighties
+! =====================================!
+
+
+! In the period 1939-1994, front vowel in non-initial syllables were written as
+! back vowels whenever the word had a front vowel to the left (like if Fi. "täälla").
+! This spellrelax file thus takes all back vowels in a front context and allows
+! them to be interpreted as front.
+! The current orthography writes front vowels throughout.
+! Shibboleth word: päshä spelled as päsha in the eighties since 
+
+define Vow [ а | е | и | э | я | о | у | ё | ю | ӓ | ӧ | ӱ | ӹ | А | Е | И | Э | Я | О | У | Ё | Ю | Ӓ | Ӧ | Ӱ | Ӹ ] ;
+
+define Vow2 [ а | э | у | А | Э | У ] ;
+
+define FrontVow [ ӓ | ӧ | ӹ | Ӓ | Ӧ | Ӹ ] ;
+
+define Cns  [ б | в | г | д | ж | з | й | к | л | м | н | ҥ | п | р | с | т | ф | х | ц | ч | ш | щ |
+              Б | В | Г | Д | Ж | З | Й | К | Л | М | Н | Ҥ | П | Р | С | Т | Ф | Х | Ц | Ч | Ш | Щ ] ;
+
+define Sgm [ Vow | Cns ] ;
+
+
+define FrontRelax [ а -> ӓ, о -> ӧ, ы -> ӹ, А -> Ӓ,  О -> Ӧ, Ы -> Ӹ || FrontVow ?* _  ;
+
+read regex FrontRelax ;
+
+
+
