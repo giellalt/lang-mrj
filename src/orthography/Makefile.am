@@ -9,8 +9,7 @@
 GT_ORTHOGRAPHIC_REGEX_SRCS=\
 		inituppercase.regex \
 		spellrelax.regex    \
-                spellrelax.thirties.regex    \
-                spellrelax.eighties.regex    \
+		spellrelax.1938.regex    \
 		spellrelax-mobile-keyboard.regex \
 		spellrelax-tags.regex
 
