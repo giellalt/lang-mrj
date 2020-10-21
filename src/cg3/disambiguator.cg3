@@ -5974,7 +5974,7 @@ SELECT:AAttrCop (A Attr) IF (*-1 COPULAS BARRIER NOT-ADV)(NEGATE 0 Adv LINK 1 A)
 	#$ Dán áiggi sii johtet biillaiguin, jos headjavissui lea guhkit mátki.
 	#$ Sámegiella ja dárogiella leat ovttaárvosaš gielat. 
 
-SELECT:ANomCop (A Nom) IF (*-1 COPULAS BARRIER NOT-ADV LINK *-1 BOS BARRIER Nom)(0 DEHALAS + Attr LINK 1 N - Nom - Gen LINK NOT *1 REAL-V BARRIER S-BOUNDARY) 
+SELECT:ANomCop (A Nom) IF (*-1 COPULAS BARRIER NOT-ADV LINK *-1 BOS BARRIER Nom)(0 DEHALAS + Attr LINK 1 N - Nom - Gen LINK NOT *1 REAL-V BARRIER S-BOUNDARY) ;
 	#$ Lea suohtas kurssas.
 
 
