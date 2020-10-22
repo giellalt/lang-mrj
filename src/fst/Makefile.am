@@ -30,6 +30,8 @@ GT_LEXC_SRCS_L1_L2=\
 			 stems/exceptions.lexc    \
 			 stems/adjectives_newwords.lexc  \
 			 stems/nouns_newwords.lexc       \
+			 stems/numbers.lexc       \
+			 stems/numerals.lexc       \
 			 stems/propernouns_newwords.lexc \
 			 affixes/adjectives.lexc  \
 			 affixes/adverbs.lexc     \
