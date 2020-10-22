@@ -1,91 +1,301 @@
-!! Numerals
-!  --------
-!! Numerals in the Western Mari language are numbers.
+! Divvun & Giellatekno - open source grammars for Sámi and other languages
+! Copyright © 2000-2010 The University of Tromsø & the Norwegian Sámi Parliament
+! http://giellatekno.uit.no & http://divvun.no
+!
+! This program is free software; you can redistribute and/or modify
+! this file under the terms of the GNU General Public License as published by
+! the Free Software Foundation, either version 3 of the License, or
+! (at your option) any later version. The GNU General Public License
+! is found at http://www.gnu.org/licenses/gpl.html. It is
+! also available in the file $GTHOME/LICENSE.txt.
+!
+! Other licensing options are available upon request, please contact
+! giellatekno@uit.no or feedback@divvun.no
 
-LEXICON Numerals
+! ############################## !
+!! !!!Meadow & Eastern Mari numerals 
+! ############################## !
 
-ик:ик NumTag  "" ;
-и•ктӹ:иктӹ NumTag  "" ;
-и•ктӹт:иктӹт NumTag  "" ;
-вӹзӹ•мшӹ:вӹзӹмшӹ NumTag  "" ;
-вӹ•зӹт:вӹзӹт NumTag  "" ;
-вӹц:вӹц NumTag  "" ;
-вӹ•цлӹ:вӹцлӹ NumTag  "" ;
-вӹцшӱ•дӹ:вӹцшӱдӹ NumTag  "" ;
-ик-кок:ик-кок NumTag  "" ;
-иктӓ•к-пелӓ•к:иктӓк-пелӓк NumTag  "" ;
-и•кшӹ:икшӹ NumTag  "" ;
-кӓндӓ•кш:кӓндӓкш NumTag  "" ;
-кӓндӓ•кшлу:кӓндӓкшлу NumTag  "" ;
-кӓндӓкшшӱ•дӹ:кӓндӓкшшӱдӹ NumTag  "" ;
-кӓндӓкшшӱ•дӹшӹ:кӓндӓкшшӱдӹшӹ NumTag  "" ;
-кӓндӓ•кшӹ:кӓндӓкшӹ NumTag  "" ;
-кӓндӓ•кшӹмшӹ:кӓндӓкшӹмшӹ NumTag  "" ;
-кок:кок NumTag  "" ;
-ко•клы:коклы NumTag  "" ;
-ко•кты:кокты NumTag  "" ;
-ко•ктыт:коктыт NumTag  "" ;
-кокшӱ•дӹ:кокшӱдӹ NumTag  "" ;
-ко•кшы:кокшы NumTag  "" ;
-ку•д:куд NumTag  "" ;
-ку•длу:кудлу NumTag  "" ;
-кудлу•шы:кудлушы NumTag  "" ;
-кудшӱ•дӹ:кудшӱдӹ NumTag  "" ;
-ку•д-шӹ•м:куд-шӹм NumTag  "" ;
-ку•дымшы:кудымшы NumTag  "" ;
-ку•дыт:кудыт NumTag  "" ;
-кым:кым NumTag  "" ;
-кы•млы:кымлы NumTag  "" ;
-кы•млышы:кымлышы NumTag  "" ;
-кымшӱ•дӹ:кымшӱдӹ NumTag  "" ;
-кы•мыт:кымыт NumTag  "" ;
-лу:лу NumTag  "" ;
-луатвӹ•зӹт:луатвӹзӹт NumTag  "" ;
-луатвӹ•ц:луатвӹц NumTag  "" ;
-луати•к:луатик NumTag  "" ;
-луати•ктӹ:луатиктӹ NumTag  "" ;
-луаткӓндӓ•кш:луаткӓндӓкш NumTag  "" ;
-луатко•к:луаткок NumTag  "" ;
-луатко•кты:луаткокты NumTag  "" ;
-луатку•д:луаткуд NumTag  "" ;
-луатку•дыт:луаткудыт NumTag  "" ;
-луаткы•м:луаткым NumTag  "" ;
-луаткы•мыт:луаткымыт NumTag  "" ;
-луатнӹ•л:луатнӹл NumTag  "" ;
-луатнӹ•лӹт:луатнӹлӹт NumTag  "" ;
-луатшӹ•м:луатшӹм NumTag  "" ;
-луатшӹ•мӹт:луатшӹмӹт NumTag  "" ;
-луатӹнде•кш:луатӹндекш NumTag  "" ;
-луатӹнде•кшӹ:луатӹндекшӹ NumTag  "" ;
-лу•цкы:луцкы NumTag  "" ;
-лу•шы:лушы NumTag  "" ;
-миллиа•рд:миллиард NumTag  "" ;
-миллио•н:миллион NumTag  "" ;
-нӹл:нӹл NumTag  "" ;
-нӹ•ллӹ:нӹллӹ NumTag  "" ;
-нӹ•ллӹшӹ:нӹллӹшӹ NumTag  "" ;
-нӹлшӱ•дӹ:нӹлшӱдӹ NumTag  "" ;
-нӹлшӱ•дӹшӹ:нӹлшӱдӹшӹ NumTag  "" ;
-нӹ•лӹмшӹ:нӹлӹмшӹ NumTag  "" ;
-нӹ•лӹт:нӹлӹт NumTag  "" ;
-триллио•н:триллион NumTag  "" ;
-тӹже•м:тӹжем NumTag  "" ;
-тӹже•мшӹ:тӹжемшӹ NumTag  "" ;
-шӱ•дӹ:шӱдӹ NumTag  "" ;
-шӱ•дӹшӹ:шӱдӹшӹ NumTag  "" ;
-шӹм:шӹм NumTag  "" ;
-шӹ•млу:шӹмлу NumTag  "" ;
-шӹмлу•шы:шӹмлушы NumTag  "" ;
-шӹмшӱ•дӹ:шӹмшӱдӹ NumTag  "" ;
-шӹмшӱ•дӹшӹ:шӹмшӱдӹшӹ NumTag  "" ;
-шӹ•мшӹ:шӹмшӹ NumTag  "" ;
-шӹ•мӹт:шӹмӹт NumTag  "" ;
-ӹнде•кш:ӹндекш NumTag  "" ;
-ӹнде•кшлу:ӹндекшлу NumTag  "" ;
-ӹндекшлу•шы:ӹндекшлушы NumTag  "" ;
-ӹндекшшӱ•дӹ:ӹндекшшӱдӹ NumTag  "" ;
-ӹндекшшӱ•дӹшӹ:ӹндекшшӱдӹшӹ NumTag  "" ;
-ӹнде•кшӹ:ӹндекшӹ NumTag  "" ;
-ӹнде•кшӹмшӹ:ӹндекшӹмшӹ NumTag  "" ;
 
-! vim: set ft=xfst-lexc:
+
+
+! Numerals
+! ========
+
+!! !!The initial lexica
+! ------------------
+
+LEXICON Numeral   !!≈ * __@CODE@__  initial lexica
+                       ARABICS          ; ! for the arabic numerals
+            +Use/Circ: ROMAN            ; ! for the roman numerals
+
+LEXICON ARABICS
+            +Use/Circ: ARABIC          ; ! for the arabic numerals
+!                       ARABICDATE       ; ! for dates
+!                       ARABICYEAR       ; ! for years
+!                       ARABICCLOCK       ; ! for time
+                       ARABICORD        ; ! for ordinals
+
+
+
+
+LEXICON ARABIC   !!≈ * __@CODE@__ arabic numerals
+< [1|2|3|4|5|6|7|8|9|%0] > ARABICLOOPS ;
+
+LEXICON ARABICLOOPS
+ ARABICLOOP      ;
++Num+Card+Arab: ENDLEX ; !These numerals are not ordinals 
+ 
+
+
+LEXICON ARABICORD
+   < [1|2|3|4|5|6|7|8|9] %0 %0 %0 > ARABICLOOPORD_Front ;
+   < [1|2|3|4|5|6|7|8|9] [1|2|3|4|5|6|7|8|9|0] [1|2|3|6] %0 > ARABICLOOPORD_Back ;
+   < [1|2|3|4|5|6|7|8|9] [1|2|3|4|5|6|7|8|9|0] [4|5|7|8|9] %0 > ARABICLOOPORD_Front ;
+ < [1|2|3|4|5|6|7|8|9] [1|2|3|4|5|6|7|8|9|0] [1|2|3|4|5|6|7|8|9|0] [2|3|6] > ARABICLOOPORD_Back ;
+ < [1|2|3|4|5|6|7|8|9] [1|2|3|4|5|6|7|8|9|0] [1|2|3|4|5|6|7|8|9|0] [1|4|5|7|8|9] > ARABICLOOPORD_Front ;
+
+   < [1|2|3|4|5|6|7|8|9] %0 %0 > ARABICLOOPORD_FrontRound ;
+
+   < [1|2|3|4|5|6|7|8|9] [1|2|3|6] %0 > ARABICLOOPORD_Back ;
+   < [1|2|3|4|5|6|7|8|9] [4|5|7|8|9] %0 > ARABICLOOPORD_Front ;
+ < [1|2|3|4|5|6|7|8|9] [1|2|3|4|5|6|7|8|9|0] [2|3|6] > ARABICLOOPORD_Back ;
+ < [1|2|3|4|5|6|7|8|9] [1|2|3|4|5|6|7|8|9|0] [1|4|5|7|8|9] > ARABICLOOPORD_Front ;
+   < [1|2|3|6] %0 > ARABICLOOPORD_Back ;
+   < [4|5|7|8|9] %0 > ARABICLOOPORD_Front ;
+ < [1|2|3|4|5|6|7|8|9] [2|3|6] > ARABICLOOPORD_Back ;
+ < [1|2|3|4|5|6|7|8|9] [1|4|5|7|8|9] > ARABICLOOPORD_Front ;
+                        < [2|3|6] > ARABICLOOPORD_Back ;
+                        < [1|4|5|7|8|9] > ARABICLOOPORD_Front ;
+
+
+LEXICON ARABICLOOP   !!≈ * __@CODE@__
+                           ARABIC          ;
+               %-:%-       ARABIC          ; ! 1-2 multipart numbers
+               %–:%–       ARABIC          ; ! 1–2 multipart numbers
+               %—:%—       ARABIC          ; ! 1—2 multipart numbers
+             %.%-:%.%-     ARABIC          ; ! 1.-2 multipart numbers ! !
+             %.%–:%.%–     ARABIC          ; ! 1.–2 multipart numbers ! !
+             %.%—:%.%—     ARABIC          ; ! 1.—2 multipart numbers ! !
+             %-% :%-%      ARABIC          ; ! 1- 2 multipart numbers
+             %–% :%–%      ARABIC          ; ! 1– 2 multipart numbers
+             %—% :%—%      ARABIC          ; ! 1— 2 multipart numbers
+             % %-:% %-     ARABIC          ; ! 1 -2 multipart numbers
+             % %–:% %–     ARABIC          ; ! 1 –2 multipart numbers
+             % %—:% %—     ARABIC          ; ! 1 —2 multipart numbers
+           % %-% :% %-%    ARABIC          ; ! 1 - 2 multipart numbers
+           % %–% :% %–%    ARABIC          ; ! 1 – 2 multipart numbers
+           % %—% :% %—%    ARABIC          ; ! 1 — 2 multipart numbers
+         % %-%-% :% %-%-%  ARABIC          ; ! 1 -- 2 multipart numbers
+         % %–%–% :% %–%–%  ARABIC          ; ! 1 –– 2 multipart numbers
+         % %—%—% :% %—%—%  ARABIC          ; ! 1 —— 2 multipart numbers
+               %.:%.       ARABIC          ;
+               %::%:       ARABIC          ;
+               %,:%,       ARABIC          ;
+               % :%        ARABIC          ; ! Allowing for "23 500". Lene: Denne er plagsom og bør forbedres. F.eks. 2017 30 vil vi ikke ha om ett tall.
+                 :         ARABIC          ; ! Allowing for "23 500" w/nbsp (init char = alt-space)
+               %/:%/       ARABIC          ; ! 24/12
+             %/% :%/%      ARABIC          ; ! 24/ 12
+             % %/:% %/     ARABIC          ; ! 24 /12
+                ':'        ARABIC          ; ! 24'12
+
+
+LEXICON ARABICLOOPORD_Back   !!≈ * __@CODE@__ ordinals
+ +A+Ord+Attr:%-шо # ;
+! +Num+Arab+Sg+Nom#%.%<sent%>:%. # ; !for Apertium bz. 22
+ +A+Ord+Use/Circ: ARABICDELIMITERORD_Back ;
+
+LEXICON ARABICLOOPORD_Front   !!≈ * __@CODE@__ ordinals
+ +A+Ord+Attr:%-ше # ;
+! +Num+Arab+Sg+Nom#%.%<sent%>:%. # ; !for Apertium bz. 22
+ +A+Ord+Use/Circ: ARABICDELIMITERORD_Front ;
+
+LEXICON ARABICLOOPORD_FrontRound   !!≈ * __@CODE@__ ordinals
+ +A+Ord+Attr:%-шӧ # ;
+! +Num+Arab+Sg+Nom#%.%<sent%>:%. # ; !for Apertium bz. 22
+ +A+Ord+Use/Circ: ARABICDELIMITERORD_FrontRound ;
+
+
+LEXICON ARABICDELIMITERORD_Back   !!≈ * __@CODE@__ ordinals
+ +Err/Orth:   ARABICCASEORD_Back ; ! This is the 1984s case.
+ +Err/Orth:'  ARABICCASEORD_Back ; ! This is the 1984's case.
+ :%- ARABICCASEORD_Back ; ! This is the 1984-s case.
+
+LEXICON ARABICDELIMITERORD_Front   !!≈ * __@CODE@__ ordinals
+ +Err/Orth:   ARABICCASEORD_Front ; ! This is the 1984s case.
+ +Err/Orth:'  ARABICCASEORD_Front ; ! This is the 1984's case.
+ :%- ARABICCASEORD_Front ; ! This is the 1984-s case.
+
+LEXICON ARABICDELIMITERORD_FrontRound   !!≈ * __@CODE@__ ordinals
+ +Err/Orth:   ARABICCASEORD_FrontRound ; ! This is the 1984s case.
+ +Err/Orth:'  ARABICCASEORD_FrontRound ; ! This is the 1984's case.
+ :%- ARABICCASEORD_FrontRound ; ! This is the 1984-s case.
+
+
+
+!! The Roman numerals !
+!! ------------------ !
+
+LEXICON ROMAN   !!≈ * __@CODE@__  roman numerals
+ +Use/Circ: ROM-THOUSAND ; !
+ +Use/Circ: ROM-HUNDRED ; !
+ +Use/Circ: ROM-TEN ; !
+ +Use/Circ: ROM-ONE ; !
+
+LEXICON ROM-THOUSAND   !!≈ * __@CODE@__
+     M+Use/Circ:M     ROM-THOUSAND-TAG ;
+    MM+Use/Circ:MM    ROM-THOUSAND-TAG ;
+   MMM+Use/Circ:MMM   ROM-THOUSAND-TAG ;
+  MMMM+Use/Circ:MMMM  ROM-THOUSAND-TAG ;
+ MMMMM+Use/Circ:MMMMM ROM-THOUSAND-TAG ;
+
+LEXICON ROM-THOUSAND-TAG   !!≈ * __@CODE@__
+ +Use/Circ: ROMNUMTAG   ; !
+ +Use/Circ: ROM-HUNDRED ; !
+ +Use/Circ: ROM-TEN     ; !
+ +Use/Circ: ROM-ONE     ; !
+ +Use/Circ: ROM-SPLIT   ; !
+
+LEXICON ROM-HUNDRED   !!≈ * __@CODE@__
+    C+Use/Circ:C    ROM-HUNDRED-TAG ;
+   CC+Use/Circ:CC   ROM-HUNDRED-TAG ;
+  CCC+Use/Circ:CCC  ROM-HUNDRED-TAG ;
+   CD+Use/Circ:CD   ROM-HUNDRED-TAG ;
+    D+Use/Circ:D    ROM-HUNDRED-TAG ;
+   DC+Use/Circ:DC   ROM-HUNDRED-TAG ;
+  DCC+Use/Circ:DCC  ROM-HUNDRED-TAG ;
+ DCCC+Use/Circ:DCCC ROM-HUNDRED-TAG ;
+   CM+Use/Circ:CM   ROM-HUNDRED-TAG ;
+
+LEXICON ROM-HUNDRED-TAG   !!≈ * __@CODE@__
+ +Use/Circ: ROMNUMTAG ;
+ +Use/Circ: ROM-TEN   ;
+ +Use/Circ: ROM-ONE   ;
+ +Use/Circ: ROM-SPLIT ;
+
+LEXICON ROM-TEN   !!≈ * __@CODE@__
+    X+Use/Circ:X    ROM-TEN-TAG ;
+   XX+Use/Circ:XX   ROM-TEN-TAG ;
+  XXX+Use/Circ:XXX  ROM-TEN-TAG ;
+   XL+Use/Circ:XL   ROM-TEN-TAG ;
+    L+Use/Circ:L    ROM-TEN-TAG ;
+   LX+Use/Circ:LX   ROM-TEN-TAG ;
+  LXX+Use/Circ:LXX  ROM-TEN-TAG ;
+ LXXX+Use/Circ:LXXX ROM-TEN-TAG ;
+   XC+Use/Circ:XC   ROM-TEN-TAG ;
+
+LEXICON ROM-TEN-TAG   !!≈ * __@CODE@__
+ +Use/Circ: ROMNUMTAG ;
+ +Use/Circ: ROM-ONE   ;
+ +Use/Circ: ROM-SPLIT ;
+
+LEXICON ROM-ONE   !!≈ * __@CODE@__
+    I+Use/Circ:I    ROM-ONE-TAG ;
+   II+Use/Circ:II   ROM-ONE-TAG ;
+  III+Use/Circ:III  ROM-ONE-TAG ;
+   IV+Use/Circ:IV   ROM-ONE-TAG ;
+    V+Use/Circ:V    ROM-ONE-TAG ;
+   VI+Use/Circ:VI   ROM-ONE-TAG ;
+  VII+Use/Circ:VII  ROM-ONE-TAG ;
+ VIII+Use/Circ:VIII ROM-ONE-TAG ;
+   IX+Use/Circ:IX   ROM-ONE-TAG ;
+
+LEXICON ROM-ONE-TAG   !!≈ * __@CODE@__
+  +Use/Circ: ROMNUMTAG ;
+!        +N: ROMNUMTAG ; ! !The Olav viđeš fix (Roman V now gets A)
+  +Use/Circ: ROM-SPLIT ;
+
+! Here, we split the Roman numerals, in order to account for cases like
+! "Kapihtal II-IV". We may send this first part directly to ROM-TAG below (and
+! get the +Num tag), or we may send them through a second loop, identical to
+! the first one, but marked wit "2" (the lexica are called 2ROMAN, etc. We do
+! this instead of making a loop, since we do not want cases like
+! "II-IV-VI-VII-IX". If that should turn out to be a good idea, a loop would
+! do the trick.
+
+LEXICON ROM-SPLIT   !!≈ * __@CODE@__
+ +Use/Circ:%- 2ROMAN ; ! II-VI, etc. !
+
+
+! Here goes loop 2.
+
+LEXICON 2ROMAN   !!≈ * __@CODE@__
+ +Use/Circ: 2ROM-THOUSAND ;
+ +Use/Circ: 2ROM-HUNDRED  ;
+ +Use/Circ: 2ROM-TEN      ;
+ +Use/Circ: 2ROM-ONE      ;
+
+LEXICON 2ROM-THOUSAND   !!≈ * __@CODE@__
+     M+Use/Circ:M     2ROM-THOUSAND-TAG ;
+    MM+Use/Circ:MM    2ROM-THOUSAND-TAG ;
+   MMM+Use/Circ:MMM   2ROM-THOUSAND-TAG ;
+  MMMM+Use/Circ:MMMM  2ROM-THOUSAND-TAG ;
+ MMMMM+Use/Circ:MMMMM 2ROM-THOUSAND-TAG ;
+
+LEXICON 2ROM-THOUSAND-TAG   !!≈ * __@CODE@__
+ +Use/Circ: ROMNUMTAG    ;
+ +Use/Circ: 2ROM-HUNDRED ;
+ +Use/Circ: 2ROM-TEN     ;
+ +Use/Circ: 2ROM-ONE     ;
+
+LEXICON 2ROM-HUNDRED   !!≈ * __@CODE@__
+    C+Use/Circ:C    2ROM-HUNDRED-TAG ;
+   CC+Use/Circ:CC   2ROM-HUNDRED-TAG ;
+  CCC+Use/Circ:CCC  2ROM-HUNDRED-TAG ;
+   CD+Use/Circ:CD   2ROM-HUNDRED-TAG ;
+    D+Use/Circ:D    2ROM-HUNDRED-TAG ;
+   DC+Use/Circ:DC   2ROM-HUNDRED-TAG ;
+  DCC+Use/Circ:DCC  2ROM-HUNDRED-TAG ;
+ DCCC+Use/Circ:DCCC 2ROM-HUNDRED-TAG ;
+   CM+Use/Circ:CM   2ROM-HUNDRED-TAG ;
+
+LEXICON 2ROM-HUNDRED-TAG   !!≈ * __@CODE@__
+ +Use/Circ: ROMNUMTAG ;
+ +Use/Circ: 2ROM-TEN  ;
+ +Use/Circ: 2ROM-ONE  ;
+
+LEXICON 2ROM-TEN   !!≈ * __@CODE@__
+    X+Use/Circ:X    2ROM-TEN-TAG ;
+   XX+Use/Circ:XX   2ROM-TEN-TAG ;
+  XXX+Use/Circ:XXX  2ROM-TEN-TAG ;
+   XL+Use/Circ:XL   2ROM-TEN-TAG ;
+    L+Use/Circ:L    2ROM-TEN-TAG ;
+   LX+Use/Circ:LX   2ROM-TEN-TAG ;
+  LXX+Use/Circ:LXX  2ROM-TEN-TAG ;
+ LXXX+Use/Circ:LXXX 2ROM-TEN-TAG ;
+   XC+Use/Circ:XC   2ROM-TEN-TAG ;
+
+LEXICON 2ROM-TEN-TAG   !!≈ * __@CODE@__
+ +Use/Circ: ROMNUMTAG ;
+ +Use/Circ: 2ROM-ONE  ;
+
+LEXICON 2ROM-ONE   !!≈ * __@CODE@__
+    I+Use/Circ:I    2ROM-ONE-TAG ;
+   II+Use/Circ:II   2ROM-ONE-TAG ;
+  III+Use/Circ:III  2ROM-ONE-TAG ;
+   IV+Use/Circ:IV   2ROM-ONE-TAG ;
+    V+Use/Circ:V    2ROM-ONE-TAG ;
+   VI+Use/Circ:VI   2ROM-ONE-TAG ;
+  VII+Use/Circ:VII  2ROM-ONE-TAG ;
+ VIII+Use/Circ:VIII 2ROM-ONE-TAG ;
+   IX+Use/Circ:IX   2ROM-ONE-TAG ;
+
+LEXICON 2ROM-ONE-TAG   !!≈ * __@CODE@__
+ +Use/Circ: ROMNUMTAG ;
+
+LEXICON ROMNUMTAG   !!≈ * __@CODE@__
+  +Num+Rom+Sg+Nom+Use/Circ:   #            ;
+
+
+! From mhr, pleas fix.
+ LEXICON ARABICCASEORD_Back   !!≈ * __@CODE@__ ordinals Is this then becoming +Ex/A?
+ +Arab+N:%>ш  N-continuation ;
+ +Err/Orth+Arab+N:%>шы  N-continuation ;
+ +Err/Orth+Arab+N:%>шы  N-continuation ;
+ LEXICON ARABICCASEORD_Front   !!≈ * __@CODE@__ ordinals
+ +Arab+N:%>ш%{еы%}  N-continuation ;
+ +Err/Orth+Arab+N:%>шӹ  N-continuation ;
+ LEXICON ARABICCASEORD_FrontRound   !!≈ * __@CODE@__ ordinals
+ +Err/Orth+Arab+N:%>шӹ  N-continuation ;
+ +Err/Orth+Arab+N:%>шы  N-continuation ;
+
