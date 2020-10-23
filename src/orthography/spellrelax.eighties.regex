@@ -1,0 +1,31 @@
+# Hill Mari
+
+
+# These relax transformations come from the age of electronic data
+Ӧ (->) Ö, # Cyrillic allow Latin
+ӧ (->) ö, # Cyrillic allow Latin
+Ӓ (->) Ä, # Cyrillic allow Latin
+ӓ (->) ä, # Cyrillic allow Latin
+О (->) O, # Cyrillic allow Latin
+о (->) o, # Cyrillic allow Latin
+А (->) A, # Cyrillic allow Latin
+а (->) a, # Cyrillic allow Latin
+Е (->) E, # Cyrillic allow Latin
+е (->) e, # Cyrillic allow Latin
+# Social media Cyrillics without funny letters
+Ё (->) Е, # Diaresis missing
+ё (->) е, # Diaresis missing
+ӱ (->) у, # Diaresis missing
+Ӱ (->) У, # Diaresis missing
+ӹ (->) ы, # Diaresis missing
+Ӹ (->) Ы, # Diaresis missing
+ӧ (->) о, # Diaresis missing
+Ӧ (->) О, # Diaresis missing
+ӓ (->) а, # Diaresis missing
+Ӓ (->) А # Diaresis missing
+;
+
+# Explanation:
+# lexical side (->) input 
+
+
