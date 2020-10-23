@@ -2,8 +2,21 @@
 ! Orthographic converter for Hill Mari thirties orth !
 ! =====================================!
 
+! Explanation for orthographies (perhaps to be revised)
+! In the period before 1938, palatalisation was written according to Mari and not
+! Russian rules, thus, we had ъэ and ьэ for later е.
+! (= "thirties")
+! In the period 1939-1994, front vowel in non-initial syllables were written as 
+! back vowels whenever the word had a front vowel to the left (like if Fi. "täälla").
+! This spellrelax file thus takes all back vowels in a front context and allows
+! them to be interpreted as front.
+! (= "eighties")
+! The current orthography writes front vowels throughout.
+! Shibboleth word: päshä spelled as päsha in the eighties since 
+! (= "standard")
+
 ! This program translates text written in the orthographies
-! of the 20s and 30s into modern orthography
+! of the 20s and 30s (here called "thirties" into modern orthography
 
 echo <<defining Cns and Vow...>>
 
