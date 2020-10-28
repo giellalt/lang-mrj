@@ -31,7 +31,7 @@ define Cns  [ б | в | г | д | ж | з | й | к | л | м | н | ҥ | п | �
 define Sgm [ Vow | Cns ] ;
 
 
-define FrontRelax [ а -> ӓ, о -> ӧ, ы -> ӹ, А -> Ӓ,  О -> Ӧ, Ы -> Ӹ || FrontVow ?* _  ;
+define FrontRelax  а -> ӓ, о -> ӧ, ы -> ӹ, А -> Ӓ,  О -> Ӧ, Ы -> Ӹ  || FrontVow ?* _  ;
 
 read regex FrontRelax ;
 
