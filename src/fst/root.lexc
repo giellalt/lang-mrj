@@ -26,6 +26,8 @@ Multichar_Symbols
 !! language are presented in this system in terms of the following symbols.
 !! (It is highly suggested to follow existing standards when adding new tags).
 
+
+
 !! The parts-of-speech are:
  +N +A +Adv +V
  +Pron +CS +CC +Adp +Po +Pr +Interj +Pcle +Num +Descr
@@ -99,6 +101,20 @@ Multichar_Symbols
 !! Question and Focus particles:
  +Qst +Foc
 
+
+!! So far undeclared tags to be checked and harmonised.
++AdA
++Adn
++Arab
++Ela
++Epist
++Intensive
++Orth/Colloq
++Rom
++Spat
++Use/Circ
++Voc
+!! So far undeclared tags to be checked and harmonised end here.
 
 ! Semantic tags to help disambiguation & synt. analysis: (before POS)
 ! Borrowed from main/langs/sme/src/morphology/root.lexc
