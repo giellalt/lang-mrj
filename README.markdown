@@ -22,7 +22,7 @@ Documentation
 
 Documentation can be found at:
 
--   <https://giellalt.uit.no/lang/mrjdoc/index.html>
+-   <https://giellalt.uit.no/lang/mrj/WesternMariDocumentation.html>
 -   <https://giellalt.uit.no/index.html>
 
 Core dependencies
