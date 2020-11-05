@@ -20,20 +20,20 @@ LEXICON INTERJ_  !!= * @CODE@
 ! to extensive declension
 
 LEXICON POSTP_  !!= * @CODE@
-       +Po:                   K ;
- +Po+PxSg1:%>Е2м              K ;
- +Po+PxSg2:%>Е2т              K ;
- +Po+PxSg3:%>%{ыӹØ%}ж%{ыӹØ%}  K ;
- +Po+PxPl1:%>н%{аӓ%}          K ;
- +Po+PxPl2:%>д%{аӓ%}          K ;
- +Po+PxPl3:%>%{ыӹØ%}шт%{ыӹØ%} K ;
+                           K ;
+ +PxSg1:%>Е2м              K ;
+ +PxSg2:%>Е2т              K ;
+ +PxSg3:%>%{ыӹØ%}ж%{ыӹØ%}  K ;
+ +PxPl1:%>н%{аӓ%}          K ;
+ +PxPl2:%>д%{аӓ%}          K ;
+ +PxPl3:%>%{ыӹØ%}шт%{ыӹØ%} K ;
 
 LEXICON Ad-A_ !!= * @CODE@
  +AdA: # ;
 
 LEXICON ADV_ !
-      +Adv:      K ;
- +Adv+Comp:%>рак # ;
+           K ;
+ +Comp:%>рак # ;
 
 LEXICON ADV_MOER !
   ADV_ ;
@@ -45,7 +45,7 @@ LEXICON ADV_OLMA !
   ADV_ ;
 
 LEXICON DESCR_
- +Adv+Descr: K ;
+ +Descr: K ;
 
 LEXICON SPAT_
  +Spat: K ;
@@ -54,7 +54,7 @@ LEXICON SPAT_
 !!Temporal tags with cases
 
 LEXICON ADV-TEMP_  !!= * @CODE@
- +Adv+Temp: K ;
+ +Temp: K ;
 
 
 
@@ -66,28 +66,28 @@ LEXICON Cs
  +CS: # ;
 
 LEXICON CONJ_
- +Conj: # ;
+  # ;
 
 LEXICON Pcle-Compar-Stnd
- +Pcle+Comp: # ;
+ +Comp: # ;
 
 LEXICON Pcle-Epist
- +Pcle+Epist: # ;
+ +Epist: # ;
 
 LEXICON Pcle-Neg-Contrast
- +Pcle+Neg+Intensive: # ;
+ +Neg+Intensive: # ;
 
 LEXICON Pcle-Neg
- +Pcle+Neg: # ;
+ +Neg: # ;
 
 LEXICON Pcle-Qst
- +Pcle+Qst: # ;
+ +Qst: # ;
 
 LEXICON Pcle-Superl
- +Pcle+Superl: # ;
+ +Superl: # ;
 
 LEXICON PCLE_
- +Pcle: # ;
+  # ;
 
 
 LEXICON N-Voc-PxSg1
