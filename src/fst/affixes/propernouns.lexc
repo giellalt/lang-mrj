@@ -5,46 +5,46 @@
 !! nouns
 
 LEXICON PROP_
- +N+Prop: N_01 ;
+ : N_01 ;
 
 LEXICON PROP-PLC_KOL
- +Sem/Plc+N+Prop:%{back%} NMN_KOL ;
+ +Sem/Plc:%{back%} NMN_KOL ;
 LEXICON PROP_KOL !!= @CODE@ кол:кол
- +N+Prop:%{back%} NMN_KOL ;
+ :%{back%} NMN_KOL ;
 
 LEXICON PROP-PLC_MOER
- +Sem/Plc+N+Prop:%{front%} NMN_MOER ;
+ +Sem/Plc:%{front%} NMN_MOER ;
 LEXICON PROP_MOER
- +N+Prop:%{front%} NMN_MOER ;
+ :%{front%} NMN_MOER ;
 
 
 
 
 LEXICON PROP-PLC_TYERVYE
- +Sem/Plc+N+Prop:%{front%} NMN_TYERVYE ;
+ +Sem/Plc:%{front%} NMN_TYERVYE ;
 
 LEXICON PROP_TYERVYE !!≈ * __@CODE@__ тӹрвӹ:тӹрвӹ
 !! The stem vowel "е" is found with possessor indices and the lative
- +N+Prop:%{front%} NMN_TYERVYE ;
+ :%{front%} NMN_TYERVYE ;
 
 LEXICON PROP-PLC_OLMA
- +Sem/Plc+N+Prop:%{back%} NMN_OLMA ;
+ +Sem/Plc:%{back%} NMN_OLMA ;
 
 
 LEXICON PROP-PLC_AEZAE
- +Sem/Plc+N+Prop:%{front%} NMN_AEZAE ;
+ +Sem/Plc:%{front%} NMN_AEZAE ;
 LEXICON PROP-PLC_OLMA/AEZAE
-        +Sem/Plc+N+Prop:%{front%} NMN_AEZAE  ;
- +Use/NG+Sem/Plc+N+Prop:%{back%} NMN_OLMA ;
+        +Sem/Plc:%{front%} NMN_AEZAE  ;
+ +Use/NG+Sem/Plc:%{back%} NMN_OLMA ;
 
 LEXICON PROP_OLMA !!= @CODE@ кол:кол
- +N+Prop:%{back%} NMN_OLMA ;
+ :%{back%} NMN_OLMA ;
 
 LEXICON PROP-PLC_KARTA
- +Sem/Plc+N+Prop:%{back%} NMN_KARTA ;
+ +Sem/Plc:%{back%} NMN_KARTA ;
 LEXICON PROP_KARTA !!≈ * __@CODE@__ карта:карта
 !! а is specific to the +Sg+Nom, elsewhere ы or ӹ
- +N+Prop:%{back%} NMN_KARTA ;
+ :%{back%} NMN_KARTA ;
 
 
 LEXICON ACRONDELIMITER ! Here we need some kind of vowel harmony
@@ -97,16 +97,16 @@ LEXICON PropNameMaleDer-Ovich
 !! !!Female Given names
 
 LEXICON Prop-kal_fem
- +N+Prop+Sem/Fem: N_01 ;
+ +Sem/Fem: N_01 ;
 
 LEXICON Prop-lak_fem
- +N+Prop+Sem/Fem: N_01 ;
+ +Sem/Fem: N_01 ;
 
 LEXICON Prop-kit_fem
- +N+Prop+Sem/Fem: N_01 ;
+ +Sem/Fem: N_01 ;
 
 LEXICON Prop-osh_fem
- +N+Prop+Sem/Fem: N_01 ;
+ +Sem/Fem: N_01 ;
 
 LEXICON Prop-teshte_fem
   Prop-pango_fem ;
@@ -115,10 +115,10 @@ LEXICON Prop-tinge_fem
   Prop-pango_fem ;
 
 LEXICON Prop-pango_fem
- +N+Prop+Sem/Fem: N_01 ;
+ +Sem/Fem: N_01 ;
 
 LEXICON Prop-kudo_fem
- +N+Prop+Sem/Fem: N_01 ;
+ +Sem/Fem: N_01 ;
 
 
 
@@ -178,58 +178,58 @@ LEXICON CYRL-A_SUR
   PROP_KUDO_SUR ;
 
 LEXICON PROP_KAL_FEM
- +N+Prop+Sem/Fem: N_01 ;
+ +Sem/Fem: N_01 ;
 
 LEXICON PROP_KAL_MAL
- +N+Prop+Sem/Mal: N_01 ;
+ +Sem/Mal: N_01 ;
 
 LEXICON PROP_KAL_SURMAL
- +N+Prop+Sem/Sur+Sem/Mal: N_01 ;
+ +Sem/Sur+Sem/Mal: N_01 ;
 
 LEXICON PROP_KAL_SUR
- +N+Prop+Sem/Sur: N_01 ;
+ +Sem/Sur: N_01 ;
 
 LEXICON PROP_KIT_FEM
- +N+Prop+Sem/Fem: N_01 ;
+ +Sem/Fem: N_01 ;
 
 LEXICON PROP_KIT_MAL
- +N+Prop+Sem/Mal: N_01 ;
+ +Sem/Mal: N_01 ;
 
 LEXICON PROP_KIT_SUR
   PROP_KAL_SUR ;
 
 LEXICON PROP_KUDO_FEM
- +N+Prop+Sem/Fem: N_01 ;
+ +Sem/Fem: N_01 ;
 
 LEXICON PROP_KUDO_MAL
- +N+Prop+Sem/Mal: N_01 ;
+ +Sem/Mal: N_01 ;
 
 LEXICON PROP_KUDO_PATRFEM
- +N+Prop+Sem/Patr+Sem/Fem: N_01 ;
+ +Sem/Patr+Sem/Fem: N_01 ;
 
 LEXICON PROP_KUDO_SUR
- +N+Prop+Sem/Sur: N_01 ;
+ +Sem/Sur: N_01 ;
 
 LEXICON PROP_KUDO_SURFEM
- +N+Prop+Sem/Sur+Sem/Fem: N_01 ;
+ +Sem/Sur+Sem/Fem: N_01 ;
 
 LEXICON PROP_LAK_MAL
- +N+Prop+Sem/Mal: N_01 ;
+ +Sem/Mal: N_01 ;
 
 LEXICON PROP_LAK_SUR
   PROP_KAL_SUR ;
 
 LEXICON PROP_OSH_FEM
- +N+Prop+Sem/Fem: N_01 ;
+ +Sem/Fem: N_01 ;
 
 LEXICON PROP_OSH_MAL
- +N+Prop+Sem/Mal: N_01 ;
+ +Sem/Mal: N_01 ;
 
 LEXICON PROP_OSH_PATRMAL
- +N+Prop+Sem/Patr+Sem/Mal: N_01 ;
+ +Sem/Patr+Sem/Mal: N_01 ;
 
 LEXICON PROP_OSH_SUR
- +N+Prop+Sem/Sur: N_01 ;
+ +Sem/Sur: N_01 ;
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -237,16 +237,16 @@ LEXICON PROP_OSH_SUR
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PROP-PLC_KAL
- +Sem/Plc+N+Prop: N_01 ;
+ +Sem/Plc: N_01 ;
 
 LEXICON PROP-PLC_KIT
- +Sem/Plc+N+Prop: N_01 ;
+ +Sem/Plc: N_01 ;
 
 LEXICON PROP-PLC_OSH
- +Sem/Plc+N+Prop: N_01 ;
+ +Sem/Plc: N_01 ;
 
 LEXICON PROP-PLC_KUDO
- +Sem/Plc+N+Prop: N_01 ;
+ +Sem/Plc: N_01 ;
 
 
 
