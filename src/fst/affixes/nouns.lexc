@@ -12,7 +12,8 @@ LEXICON NTag
 ! character (ie last of lexicon name) is also an _ char - otherwise one gets a
 ! jspwiki syntax error.
 LEXICON N_  !!≈ * __@CODE@ __
- +WORK: K ;
+! +WORK: K ; ! comment out WORK tag for Korp
+K ;
 
 !! !!Substandard
 
