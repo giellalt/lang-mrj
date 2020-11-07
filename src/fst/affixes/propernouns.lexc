@@ -5,7 +5,8 @@
 !! nouns
 
 LEXICON PROP_
- : N_01 ;
+ +Sg+Nom: K ;
+  N_01 ;
 
 LEXICON PROP-PLC_KOL
  +Sem/Plc:%{back%} NMN_KOL ;
@@ -98,15 +99,19 @@ LEXICON PropNameMaleDer-Ovich
 
 LEXICON Prop-kal_fem
  +Sem/Fem: N_01 ;
+ +Sem/Fem+N+Sg: N_01 ;
 
 LEXICON Prop-lak_fem
  +Sem/Fem: N_01 ;
+ +Sem/Fem+N+Sg: N_01 ;
 
 LEXICON Prop-kit_fem
  +Sem/Fem: N_01 ;
+ +Sem/Fem+N+Sg: N_01 ;
 
 LEXICON Prop-osh_fem
  +Sem/Fem: N_01 ;
+ +Sem/Fem+N+Sg: N_01 ;
 
 LEXICON Prop-teshte_fem
   Prop-pango_fem ;
@@ -116,9 +121,11 @@ LEXICON Prop-tinge_fem
 
 LEXICON Prop-pango_fem
  +Sem/Fem: N_01 ;
+ +Sem/Fem+N+Sg: N_01 ;
 
 LEXICON Prop-kudo_fem
  +Sem/Fem: N_01 ;
+ +Sem/Fem+N+Sg: N_01 ;
 
 
 
@@ -179,57 +186,73 @@ LEXICON CYRL-A_SUR
 
 LEXICON PROP_KAL_FEM
  +Sem/Fem: N_01 ;
+ +Sem/Fem+N+Sg: N_01 ;
 
 LEXICON PROP_KAL_MAL
  +Sem/Mal: N_01 ;
+ +Sem/Mal+N+Sg: N_01 ;
 
 LEXICON PROP_KAL_SURMAL
  +Sem/Sur+Sem/Mal: N_01 ;
+ +Sem/Sur+Sem/Mal+Sg+Nom: K ;
 
 LEXICON PROP_KAL_SUR
  +Sem/Sur: N_01 ;
+ +Sem/Sur+N+Sg: N_01 ;
 
 LEXICON PROP_KIT_FEM
  +Sem/Fem: N_01 ;
+ +Sem/Fem+N+Sg: N_01 ;
 
 LEXICON PROP_KIT_MAL
  +Sem/Mal: N_01 ;
+ +Sem/Mal+N+Sg: N_01 ;
 
 LEXICON PROP_KIT_SUR
   PROP_KAL_SUR ;
 
 LEXICON PROP_KUDO_FEM
  +Sem/Fem: N_01 ;
+ +Sem/Fem+N+Sg: N_01 ;
 
 LEXICON PROP_KUDO_MAL
  +Sem/Mal: N_01 ;
+ +Sem/Mal+N+Sg: N_01 ;
 
 LEXICON PROP_KUDO_PATRFEM
  +Sem/Patr+Sem/Fem: N_01 ;
+ +Sem/Patr+Sem/Fem+N+Sg: N_01 ;
 
 LEXICON PROP_KUDO_SUR
  +Sem/Sur: N_01 ;
+ +Sem/Sur+N+Sg: N_01 ;
 
 LEXICON PROP_KUDO_SURFEM
  +Sem/Sur+Sem/Fem: N_01 ;
+ +Sem/Sur+Sem/Fem+N+Sg: N_01 ;
 
 LEXICON PROP_LAK_MAL
  +Sem/Mal: N_01 ;
+ +Sem/Mal+N+Sg: N_01 ;
 
 LEXICON PROP_LAK_SUR
   PROP_KAL_SUR ;
 
 LEXICON PROP_OSH_FEM
  +Sem/Fem: N_01 ;
+ +Sem/Fem+N+Sg: N_01 ;
 
 LEXICON PROP_OSH_MAL
  +Sem/Mal: N_01 ;
+ +Sem/Mal+N+Sg: N_01 ;
 
 LEXICON PROP_OSH_PATRMAL
  +Sem/Patr+Sem/Mal: N_01 ;
+ +Sem/Patr+Sem/Mal+N+Sg: N_01 ;
 
 LEXICON PROP_OSH_SUR
  +Sem/Sur: N_01 ;
+ +Sem/Sur+N+Sg: N_01 ;
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -238,15 +261,19 @@ LEXICON PROP_OSH_SUR
 
 LEXICON PROP-PLC_KAL
  +Sem/Plc: N_01 ;
+ +Sem/Plc+N+Sg: N_01 ;
 
 LEXICON PROP-PLC_KIT
  +Sem/Plc: N_01 ;
+ +Sem/Plc+N+Sg: N_01 ;
 
 LEXICON PROP-PLC_OSH
  +Sem/Plc: N_01 ;
+ +Sem/Plc+N+Sg: N_01 ;
 
 LEXICON PROP-PLC_KUDO
  +Sem/Plc: N_01 ;
+ +Sem/Plc+N+Sg: N_01 ;
 
 
 
