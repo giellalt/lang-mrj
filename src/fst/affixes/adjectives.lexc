@@ -12,37 +12,37 @@ LEXICON A-ADN_
 LEXICON A_  !!≈ * __@CODE@ __
      +Pos:           #        ;
     +Comp:%>р%{аӓ%}к #        ;
- +Der/N+N:           NMN_OLMA ; !! This should be neutral 2013-05-11
+ +Der+Der/N+N:           NMN_OLMA ; !! This should be neutral 2013-05-11
 
 LEXICON A_OLMA !!≈ * __@CODE@__
      +Pos:      #        ;
     +Comp:%{back%}%>рак #        ;
- +Der/N+N:%{back%}      NMN_OLMA ;
+ +Der+Der/N+N:%{back%}      NMN_OLMA ;
 
 LEXICON A_AEZAE !!≈ * __@CODE@__
      +Pos:      #       ;
     +Comp:%{front%}%>рӓк #       ;
- +Der/N+N:%{front%}      NMN_AEZAE ;
+ +Der+Der/N+N:%{front%}      NMN_AEZAE ;
 
 LEXICON A_MARY  !!≈ * __@CODE@__
      +Pos:      #        ;
     +Comp:%{back%}%>рак #        ;
- +Der/N+N:%{back%}      NMN_MARY ;
+ +Der+Der/N+N:%{back%}      NMN_MARY ;
 
 LEXICON A_TYERVYE  !!≈ * __@CODE@__
      +Pos:      #         ;
     +Comp:%{front%}%>рӓк #         ;
- +Der/N+N:%{front%}      NMN_TYERVYE ;
+ +Der+Der/N+N:%{front%}      NMN_TYERVYE ;
 
 LEXICON A_KOL  !!≈ * __@CODE@__
      +Pos:      #       ;
     +Comp:%{back%}%>рак #       ;
- +Der/N+N:%{back%}      NMN_KOL ; !!≈ * __@CODE@__ The +N tag is given here to curtail over generation from derived nouns
+ +Der+Der/N+N:%{back%}      NMN_KOL ; !!≈ * __@CODE@__ The +N tag is given here to curtail over generation from derived nouns
 
 LEXICON A_MOER  !!≈ * __@CODE@__
      +Pos:      #       ;
     +Comp:%{front%}%>рӓк #       ;
- +Der/N+N:%{front%}      NMN_MOER ; !!≈ * __@CODE@__ The +N tag is given here to curtail over generation from derived nouns
+ +Der+Der/N+N:%{front%}      NMN_MOER ; !!≈ * __@CODE@__ The +N tag is given here to curtail over generation from derived nouns
 
 
 
