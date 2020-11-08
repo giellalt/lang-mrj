@@ -26,6 +26,9 @@ Multichar_Symbols
 !! language are presented in this system in terms of the following symbols.
 !! (It is highly suggested to follow existing standards when adding new tags).
 
++Ex/N	!!= * __@CODE@__ - This tag is not added in lexc. The POS tag before derivation is converted into this tag when compiling FST for disambiguation.
++Ex/A	!!= * __@CODE@__ - This tag is not added in lexc. The POS tag before derivation is converted into this tag when compiling FST for disambiguation.
++Ex/V	!!= * __@CODE@__ - This tag is not added in lexc. The POS tag before derivation is converted into this tag when compiling FST for disambiguation.
 
 
 !! The parts-of-speech are:
