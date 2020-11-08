@@ -10,11 +10,7 @@
   "+Ex/V"   <- "+V"   ||
 # change always and only when followed by a derivation:
   _ \[ "+Cmp" ]*
-       [ "+Der/шЫ"
-       | "+Der/мЫ"
-       | "+Der/дЫмЫ"
-       | "+Der/N"
-       | "+Der/MWN"
+       [ "+Der"
        ]
 ] .o.
 
