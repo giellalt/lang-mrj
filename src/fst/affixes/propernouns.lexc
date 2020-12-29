@@ -8,13 +8,35 @@ LEXICON PROP_
  +Sg+Nom: K ;
   N_01 ;
 
-LEXICON PROP-PLC_KOL
+
+
+LEXICON PROP-PLC_
  +Sem/Plc:%{back%} NMN_KOL ;
+
+LEXICON PROP_KOL_PLC
+ +Sem/Plc:%{back%} NMN_KOL ;
+
+LEXICON PROP_KOL_FEM
+ +Sem/Fem:%{back%} NMN_KOL ;
+
+LEXICON PROP_OLMA_FEM
+ +Sem/Fem:%{back%} NMN_OLMA ;
+
+LEXICON PROP_OLMA_MAL
+ +Sem/Mal:%{back%} NMN_OLMA ;
+
+LEXICON PROP_OLMA_PLC
+ +Sem/Plc:%{back%} NMN_OLMA ;
+
+LEXICON PROP_KOL_MAL
+ +Sem/Mal:%{back%} NMN_KOL ;
+ 
 LEXICON PROP_KOL !!= @CODE@ кол:кол
  :%{back%} NMN_KOL ;
 
 LEXICON PROP-PLC_MOER
  +Sem/Plc:%{front%} NMN_MOER ;
+
 LEXICON PROP_MOER
  :%{front%} NMN_MOER ;
 
