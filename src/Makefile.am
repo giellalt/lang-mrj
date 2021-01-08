@@ -85,6 +85,15 @@ analyser-disamb-gt-desc%hfst: analyser-disamb-gt-desc%tmp.hfst \
 	save stack $@\n\
 	quit\n" | $(HFST_XFST) -p $(MORE_VERBOSITY)
 
+analyser-pmatchdisamb-gt-desc%hfst: analyser-pmatchdisamb-gt-desc%tmp.hfst \
+				filters/rename-POS_before_Der-tags.hfst        
+	$(AM_V_HXFST)$(PRINTF) "read regex \
+		    @\"filters/rename-POS_before_Der-tags.hfst\"      \
+		.o. @\"$<\"                                           \
+		;\n\
+	invert net\n\
+	save stack $@\n\
+	quit\n" | $(HFST_XFST) -p $(MORE_VERBOSITY)
 
 
 # We need to add processing of language-specific tags in the generator:
