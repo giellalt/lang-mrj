@@ -582,7 +582,7 @@ SETS
 LIST NOT-REAL-V = (Actio Nom) (Actio Gen) (Actio Loc) (Actio Com) PrsPrc ;
 
 SET REAL-V = V - NOT-REAL-V  ;
-  #!! ** V is all readings with a V tag in them, REAL-V should
+  #!!     - V is all readings with a V tag in them, REAL-V should
   #!! be the ones without an N tag following the V.  
   #!! The REAL-V set thus awaits a fix to the preprocess V ... N bug.
             
@@ -630,7 +630,7 @@ SET NP-HEAD-GEN    = (Pron Gen) OR (N Gen) OR (A Gen) - RCmpnd - (Dem Attr);
 
 #!! These sets model noun phrases (NPs). The idea is to first define whatever can
 #!! occur in front of the head of the NP, and thereafter negate that with the
-#!! expression __WORD - premodifiers__.
+#!! expression **WORD - premodifiers**.
 
 
 SET PRE-NP-HEAD = (Prop Attr) OR (Prop @>N) OR (A Attr) OR (ABBR Attr) OR ("buorre") 
@@ -660,7 +660,7 @@ SET PRE-APP   = COMMA OR PUNCT-LEFT OR PRE-NP-HEAD ;
 
 
 
-#!! The set __NOT-NPMOD__ is used to find barriers between NPs.
+#!! The set **NOT-NPMOD** is used to find barriers between NPs.
 #!! Typical usage: ... (*1 N BARRIER NPT-NPMOD) ...
 #!! meaning: Scan to the first noun, ignoring anything that can be
 #!! part of the noun phrase of that noun (i.e., "scan to the next NP head")
@@ -765,8 +765,8 @@ SET SVF-BOUNDARY = S-BOUNDARY OR VFIN ;
 # Here we search for either an S-BOUNDARY or a finite verb, either aux or main.
 
 LIST ADVLCASE = Abl Dat Com Cns Ins Ine Ill Cmpr ;
-LIST CASE = Nom Gen Abl Dat Com Cns Acc Ins Ine Ill Cmpr ; #!! * __CASE__ = all cases
-SET OBLCASE = CASE - Nom ; #!! * __OBLCASE__ = All cases except Nom
+LIST CASE = Nom Gen Abl Dat Com Cns Acc Ins Ine Ill Cmpr ; #!! * **CASE** = all cases
+SET OBLCASE = CASE - Nom ; #!! * **OBLCASE** = All cases except Nom
 
 
 #!! * Syntactic sets
@@ -782,7 +782,7 @@ SET NON-APP = ALLSYNTAG - (@APP);
 
          SECTION         #
 
-#!! * __CCasCNPCVP__ Map (@CNP @CVP) to CC
+#!! * **CCasCNPCVP** Map (@CNP @CVP) to CC
 MAP:CCasCNPCVP (@CNP) TARGET ("ден" CC) ;
 MAP:CCasCNPCVP (@CNP @CVP) TARGET ("да" CC) ;
 
@@ -794,22 +794,22 @@ MAP:shkeattr @>N TARGET ("шке") IF (NOT 0 OBLCASE)(1 N);
 
 
 
-#!! !!NP attributives
+#!! ## NP attributives
 
 MAP:XN (@>N) TARGET ATTRFORM IF (1 N OR A);
 
 MAP:preNmodif @>N TARGET Pron + Gen IF (1C N);
 MAP:indefpreNmodif @>N TARGET Pron + Indef IF (1C N);	
 
-#!! !!Postposition
+#!! ## Postposition
 
 MAP:PoCompl (@>P) TARGET N + Nom OR N + Gen IF (1 Po) ;
 
-#!! !!HABITIVE MAPPING
+#!! ## HABITIVE MAPPING
 
 	# Habitives - HAB
 	
-#!! * __hab1__ 
+#!! * **hab1** 
 MAP:hab1 (<hab> @ADVL>) TARGET HAB-ACTOR + HAB-CASE - Attr (NEGATE 0 HAB-ACTOR-NOT-HUMAN LINK *1 HUMAN BARRIER (N Nom))(1 FAUXV + HAB-V-TAGS LINK *1 LEAT BARRIER NP-HEAD OR MAIN-V);
 	#$ Mus eai leat girjjit mielde.
 	#% Dorskis sáhttet leat vuoivvas ja meađđemat.
@@ -817,10 +817,10 @@ MAP:hab1 (<hab> @ADVL>) TARGET HAB-ACTOR + HAB-CASE - Attr (NEGATE 0 HAB-ACTOR-N
 MAP:hab_numo (<hab> @ADVL>) TARGET HAB-ACTOR + HAB-CASE - Attr (NEGATE 0 HAB-ACTOR-NOT-HUMAN LINK *1 HUMAN BARRIER (N Nom))(1 COPULAS + HAB-V-TAGS LINK 1 COMMA LINK *1 COMMA LINK 1 (N Nom)) ;
 	#%Dus lea, nu mo buot eará bargiin, vuoigatvuohta oahppasoahpamuša lassin maiddái čálalaš bargosoahpamuššii oahppafitnodagain.
 
-#!! * __hab2__ 
+#!! * **hab2** 
 MAP:hab2 (<hab> @ADVL>) TARGET HAB-ACTOR + HAB-CASE - Attr (NEGATE 0 HAB-ACTOR-NOT-HUMAN LINK *1 HUMAN BARRIER (N Nom))(1 FAUXV + HAB-V-TAGS LINK 1 Adv LINK *1 LEAT BARRIER NOT-ADV-PCLE);
 
-#!! * __hab3__ (<hab> @ADVL>) for hab-actor and hab-case; if leat to the right, and Nom to the right of leat. Lots of restrictions.
+#!! * **hab3** (<hab> @ADVL>) for hab-actor and hab-case; if leat to the right, and Nom to the right of leat. Lots of restrictions.
 MAP:hab3 (<hab> @ADVL>) TARGET HAB-ACTOR + HAB-CASE - Attr (NEGATE 0 Sem/Group OR Pl - Rel LINK *-1 Indef - BUOT + Nom OR HUMAN + Nom BARRIER NOT-NPMOD-ACC)(NEGATE 0 HAB-ACTOR-NOT-HUMAN LINK *1 HUMAN BARRIER (N Nom))(NEGATE 0 (Sem/Ani Sem/Group) LINK *1 Sem/Ani BARRIER (N Nom))(NEGATE 0 (Sem/Hum Sem/Group) LINK *1 Sem/Hum BARRIER (N Nom))(NEGATE 0 N OR Pers OR Indef LINK *-1 HAB-ACTOR + HAB-CASE BARRIER NOT-NPMOD-ACC OR CC)(NEGATE -1 Num LINK -1 Num)(*1 LEAT + HAB-V-TAGS BARRIER NOT-ADV-PCLE LINK *1 Nom BARRIER S-BOUNDARY);
 	#$ Máhtes lea beana.
 	#% Juos gorreválggain Sámedikkis lea dárbbašlaš deavdit gáibádusa, ahte okta stivrralahtuin ja su sadjásašlahttu galgaba leat boazodoalu ovddasteaddjit, de galgá boazodoalu ovddasteddjiid loktet badjeliidda dan listtas, mii lea ožžon uhcimus jienaid daid listtaid gaskkas, mat galget ovddastuvvot ja main leat dakkár evttohasat. 
@@ -830,31 +830,31 @@ MAP:hab3 (<hab> @ADVL>) TARGET HAB-ACTOR + HAB-CASE - Attr (NEGATE 0 Sem/Group O
 MAP:habInf (<hab> @ADVL>) TARGET HAB-ACTOR + HAB-CASE OR ("dat" Dem) +  HAB-CASE - Attr (1 LEAT + Sg3 LINK 1 Inf) ;
 	#$ Mis lea cahkkehit dola.
 
-#!! * __habNomLeft__ 
+#!! * **habNomLeft** 
 MAP:habNomLeft (<hab> @ADVL>) TARGET HAB-ACTOR + HAB-CASE - Attr ((-1 Nom LINK NEGATE *-1 (Pers Gen) BARRIER NOT-NPMOD) OR (-1 (Sg Gen) LINK -1 (Sg Num Nom) LINK NEGATE *-1 (Pers Gen) BARRIER NOT-NPMOD))(NEGATE -1 Num LINK -1 Num)(*1 LEAT + HAB-V-TAGS BARRIER NOT-ADV-PCLE);
 	#$ Mii dus lea?
 
 MAP:habAdvl (<hab> @ADVL>) TARGET HAB-ACTOR + HAB-CASE - Attr  (NEGATE 0 HAB-ACTOR-NOT-HUMAN LINK *1 HUMAN BARRIER (N Nom))(NEGATE 0 (Sem/Ani Sem/Group) LINK *1 Sem/Ani BARRIER (N Nom))(NEGATE 0 (Sem/Hum Sem/Group) LINK *1 Sem/Hum BARRIER (N Nom))((*1 HAB-CASE BARRIER NOT-NPMOD-ACC LINK *1 LEAT + HAB-V-TAGS BARRIER NOT-ADV-PCLE) OR (*1 HAB-CASE BARRIER NOT-NPMODADV LINK *1 FAUXV LINK *1 LEAT + HAB-V-TAGS BARRIER NOT-ADV-PCLE));
 	#$ Ii han ovttasge du sogas leat dat namma.
 
-#!! * __hab4__ 	
+#!! * **hab4** 	
 MAP:hab4 (<hab> @ADVL>) TARGET HAB-ACTOR + HAB-CASE - Attr (NEGATE 0 HAB-ACTOR-NOT-HUMAN LINK *1 HUMAN BARRIER (N Nom))(1 CC LINK *1 HAB-ACTOR BARRIER NOT-NPMOD LINK *1 LEAT + HAB-V-TAGS BARRIER NOT-ADV-PCLE);
 
 
 
-#!! * __hab6__ 
+#!! * **hab6** 
 MAP:hab6 (<hab> @<ADVL) TARGET HAB-ACTOR + HAB-CASE - Attr ((*-1 go BARRIER NOT-NPMOD LINK -1 LEAT + HAB-V-TAGS LINK -1 BOC) OR (*-1 LEAT + Qst BARRIER NOT-NPMOD LINK -1 BOC));
 	#$ Lea go dis ruhta?
 	#$ Leago sámeálbmogis vuoigatvuođat vai eai?
 
-#!! * __hab7__ 
+#!! * **hab7** 
 MAP:hab7 (<hab> @<ADVL) TARGET HAB-ACTOR + HAB-CASE - Attr (*-1 go BARRIER NOT-NPMOD LINK -1 LEAT + HAB-V-TAGS LINK -1 MAIN-V);
 	#$ Dalle mun ferten iskat lea go dus feber.
 
-#!! * __hab8__ This is not HAB
+#!! * **hab8** This is not HAB
 #MAP:hab8 (<hab> @ADVL>) TARGET HAB-ACTOR + Ill IF (*-1 BOS BARRIER NOT-NPMODADV)(*1 COPULAS BARRIER NOT-ADV-PCLE LINK *1 A OR N BARRIER NOT-ADV-PCLE);
 	#$ Ellii šattai hoahppu.
-#!! * __hab5__  This is not HAB
+#!! * **hab5**  This is not HAB
 #MAP:hab5 (<hab> @ADVL>) TARGET HAB-ACTOR + HAB-CASE (NEGATE 0 HAB-ACTOR-NOT-HUMAN LINK *1 HUMAN BARRIER (N Nom))(*1 HAB-V BARRIER NOT-ADV-PCLE LINK *1 Nom BARRIER VFIN);
 	#$ Mánás gollot gieđat. 
 
@@ -876,7 +876,7 @@ MAP:habRel (<hab> @ADVL>) TARGET HAB-ACTOR + HAB-CASE (NEGATE 0 HAB-ACTOR-NOT-HU
 MAP:habEllipse (<hab> @<ADVL) TARGET HAB-ACTOR + HAB-CASE (1 Adv LINK 1 (N Nom))(-1 COMMA LINK -1 (N Nom) LINK *-1 LEAT + HAB-V-TAGS BARRIER NOT-NPMOD LINK -1 HAB-ACTOR + HAB-CASE);
 	#$ Buot gánddain lea dreassa, nieiddain fas gákti.
 
-#!! * __habGen__ (<hab> @<ADVL) hab for Gen; if Gen is located in the end of the sentence and Nom is sentence initial
+#!! * **habGen** (<hab> @<ADVL) hab for Gen; if Gen is located in the end of the sentence and Nom is sentence initial
 MAP:habGen (<hab> @<ADVL) TARGET HAB-ACTOR + Gen (*-1 LEAT + HAB-V-TAGS BARRIER NOT-NPMODADV LINK -1 (N Nom) OR (Dem Nom))(1 EOC) ;
 	#$ Dát lea áhči.
 
@@ -1120,20 +1120,20 @@ MAP:subj>Pers (@SUBJ>) TARGET (Sg1 Nom) (1 CC LINK *1 (N Pl) BARRIER NOT-NPMOD L
 	#$ Gii ..
 MAP:<subjPers (@<SUBJ) TARGET $$PERS-TAGS + Nom IF (*-1 $$PERS-TAGS + VFIN BARRIER NOT-ADV-PCLE) ;
 	
-#!! * __subj>Sgnr1__ (@SUBJ>) for Nom Sg, including Indef Nom if; VFIN + Sg3 or Pl3 to the right (VFIN not allowed to the left) 
+#!! * **subj>Sgnr1** (@SUBJ>) for Nom Sg, including Indef Nom if; VFIN + Sg3 or Pl3 to the right (VFIN not allowed to the left) 
 MAP:subj>Sg (@SUBJ>) TARGET (Nom Sg) OR (Sg3 Nom) OR (Indef Nom) IF (*1 VFIN + Sg3 OR VFIN + Pl3 BARRIER REAL-V OR S-BOUNDARY)(NEGATE *-1 VFIN + Sg3 BARRIER NOT-ADV-PCLE);
 	#$ Niibi lea stális.
 
-#!! * __subj>Pl__ (@SUBJ>) for plural nominatives, including Coll and Sem/Group. VFIN + Pl3 to the right.
+#!! * **subj>Pl** (@SUBJ>) for plural nominatives, including Coll and Sem/Group. VFIN + Pl3 to the right.
 
-#!! * __subj>Pl__ (@SUBJ>) for plural nominatives
+#!! * **subj>Pl** (@SUBJ>) for plural nominatives
 MAP:subj>Pl (@SUBJ>) TARGET (Nom Pl) OR (Pl3 Nom) OR (Sem/Group Nom) OR (Coll Nom) IF (*1 VFIN + Pl3 BARRIER REAL-V OR S-BOUNDARY) ;
  
 
-#!! * __subj>Sgnr2__ (@SUBJ>) for Nom Sg; if VFIN + Sg3 to the right.
+#!! * **subj>Sgnr2** (@SUBJ>) for Nom Sg; if VFIN + Sg3 to the right.
 MAP:subj>Sg (@SUBJ>) TARGET (Nom Sg) IF (*1 VFIN + Sg3 BARRIER REAL-V OR S-BOUNDARY OR COMMA);
 
-#!! * __<subjSg__ (@<SUBJ) for Nom Sg; if VFIN Sg3 or Du2 to the left (no HAB allowed to the left).
+#!! * **<subjSg** (@<SUBJ) for Nom Sg; if VFIN Sg3 or Du2 to the left (no HAB allowed to the left).
 MAP:<subjSg (@<SUBJ) TARGET (Nom Sg) IF (*-1 VFIN + Sg3  BARRIER S-BOUNDARY)(NEGATE *-1 <hab> BARRIER BOC) ;
 	#$ Vuovssá goddá boanda. 
 	#% Oppalaš hábmema strategiija mii galgá váikkuhit dasa ahte servodat šaddá buohkaide olahahttin, ja dasa ahte vealaheapmi eastaduvvo, lea maid deattuhuvvon.
@@ -1176,7 +1176,7 @@ MAP:r253 (@Num<) TARGET (Sg Nom) IF (*-1 NUM BARRIER N OR REAL-CLB OR PUNCT LINK
 
 MAP:advl (@ADVL>) TARGET ADVLCASE OR Adv OR Po (*1 V);	
 
-#!! * __advlPoPr>__ (@<ADVL) if mainverb to the right.
+#!! * **advlPoPr>** (@<ADVL) if mainverb to the right.
 MAP:advlPoPr> (@ADVL>) TARGET Po (*1 V BARRIER SV-BOUNDARY) ;
 
 
@@ -1194,14 +1194,14 @@ MAP:advlGer (@ADVL>) TARGET Ger (1 VFIN OR Ger); # also Ger chains.
 
 
 
-#!! !!SUBJ MAPPING - leftovers
+#!! ## SUBJ MAPPING - leftovers
 MAP:subj> (@SUBJ>) TARGET NP-HEAD-NOM - A  OR (Num Nom) (*1 FMAINV BARRIER (":")) ;
 
-#!! !!OBJ MAPPING - leftovers
+#!! ## OBJ MAPPING - leftovers
 MAP:obj> (@OBJ>) TARGET NP-HEAD-ACC  (*1 FMAINV BARRIER (":"))(NOT *-1 Interj BARRIER NOT-NPMOD) ;
 
 
-#!! !!HNOUN MAPPING
+#!! ## HNOUN MAPPING
 
 MAP:hnounNom (@HNOUN) TARGET NP-HEAD-NOM (NEGATE *0 REAL-V)(NOT 1 N)(NOT 0 V);
 	#$ Fiskes, rukses, alit, ruoná ja muđui buotlágaš ivnnit.

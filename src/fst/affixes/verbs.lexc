@@ -1,24 +1,24 @@
-!! !!!Hill Mari (Western Mari) verb inflection
+!! # Hill Mari (Western Mari) verb inflection
 
-LEXICON VAux !!≈ * __@CODE@__ = auxiliaries first
+LEXICON VAux !!≈ * **@CODE@** = auxiliaries first
 
  +Aux: # ;
 
-LEXICON V_AM-HOM1 !!≈ * __@CODE@__ homonyms @hid=Hom1
+LEXICON V_AM-HOM1 !!≈ * **@CODE@** homonyms @hid=Hom1
  +Hom1: V_AM ;
 
-LEXICON V_EM-HOM2 !!≈ * __@CODE@__ homonyms @hid=Hom2
+LEXICON V_EM-HOM2 !!≈ * **@CODE@** homonyms @hid=Hom2
  +Hom2: V_EM ;
 
-LEXICON V_AM_SUB !!≈ * __@CODE@__ substandard
+LEXICON V_AM_SUB !!≈ * **@CODE@** substandard
  +Err/Orth: V_AM ;
 
-LEXICON V_EM_SUB !!≈ * __@CODE@__ substandard
+LEXICON V_EM_SUB !!≈ * **@CODE@** substandard
  +Err/Orth: V_EM ;
 
-!! !!Regular verbs
+!! ## Regular verbs
 
-!! !V_AM verbs
+!! ### V_AM verbs
 
 
 LEXICON V_IAEM
@@ -66,7 +66,7 @@ LEXICON V_MOAM-3
 !! Back Vowel harmony for  V_AM-3 verbs
 :%{back%}  V_AM-3 ;
 
-!! !STEM CHANGE
+!! ### STEM CHANGE
 LEXICON V_PYECHKAEM
 !! LEXICON @LEXNAME@
 !! Approximately 12 2014-12-21
@@ -298,7 +298,7 @@ LEXICON V_EM-SG3 !! хӹдӹртӓш: хӹдӹртӹ
 
 
 !!-1
-LEXICON V_EM  !!≈ * __@CODE@__ колташ:колты
+LEXICON V_EM  !!≈ * **@CODE@** колташ:колты
                           INDPRSSG1-am        ;
                           INDPRSSG2-am        ;
                           INDPRSSG3-em        ;
@@ -343,9 +343,9 @@ LEXICON V_EM  !!≈ * __@CODE@__ колташ:колты
 !                         NEG-PRC             ;
 
 
-!! !NONPAST
+!! ### NONPAST
 
-!! !am verbs
+!! ### am verbs
 
 LEXICON INDPRSSG1-am
  +Ind+Prs+Sg1:%>%{аӓе%}м K ;
@@ -371,7 +371,7 @@ LEXICON INDPRSCONNEG-am
 LEXICON INDPRSPL3CONNEG-am
  +Ind+Prs+Pl3+ConNeg:%^ConsTransf%>Е2п K ;
 
-!! !em verbs
+!! ### em verbs
 
 LEXICON INDPRSSG1-em
  +Ind+Prs+Sg1:%>ем K ;
@@ -399,9 +399,9 @@ LEXICON INDPRSPL3-em
 
 
 
-!! !!PRETERIT 1
+!! ## PRETERIT 1
 
-!! !am
+!! ### am
 
 LEXICON INDPRT1SG1-am
  +Ind+Prt1+Sg1:Ь2%>%{ыӹØ%}м K ; !
@@ -427,7 +427,7 @@ LEXICON INDPRT1CONNEG-am
 LEXICON INDPRT1PL3CONNEG-am
  +Ind+Prt1+Pl3+ConNeg:%^ConsTransf%>Е2п K ;
 
-!! !em
+!! ### em
 
 LEXICON INDPRT1SG1-em
  +Ind+Prt1+Sg1:%>ш%>%{ыӹØ%}м K ; !
@@ -453,9 +453,9 @@ LEXICON INDPRT1CONNEG-em
 LEXICON INDPRT1PL3CONNEG-em
  +Ind+Prt1+Pl3+ConNeg:%>Е2п K ;
 
-!! !!PRETERIT 2
+!! ## PRETERIT 2
 
-!! !am
+!! ### am
 LEXICON INDPRT2SG1-am
  +Ind+Prt2+Sg1:%>%{ыӹе%}н%{аӓ%}м K ; !
 
@@ -495,7 +495,7 @@ LEXICON	INDPRT2NEGPL2-am
 LEXICON	INDPRT2NEGPL3-am
  +Ind+Prt2+Neg+Pl3:%^ConsTransf%>делыт K                ;
 
-!! !em
+!! ### em
 
 !LEXICON INDPRT2SG1-em
 ! +Ind+Prt2+Sg1:%>Е2н%{аӓ%}м K ; !
@@ -536,7 +536,7 @@ LEXICON	INDPRT2NEGPL2-em
 LEXICON	INDPRT2NEGPL3-em
  +Ind+Prt2+Neg+Pl3:%>%{ыӹØ%}делыт K                ;
 
-!! !!IMPERATIVE
+!! ## IMPERATIVE
 
 
 LEXICON IMPRTSG2-am
@@ -576,7 +576,7 @@ LEXICON IMPRTIIPL2-am
 !LEXICON IMPRTIIPL2-em
 ! +ImprtII+Pl2:%>Е2мӓдӓ K ; !
 
-!! !!DESIDERATIVE
+!! ## DESIDERATIVE
 LEXICON DES-am
   DESSG1-am ;
   DESSG2-am ;
@@ -618,7 +618,7 @@ LEXICON DESPL3-em
  +Des+Pl3:%>%{ыӹØ%}нештӹ K ;
 
 
-!! !!INFINITIVE
+!! ## INFINITIVE
 
 
 LEXICON INF

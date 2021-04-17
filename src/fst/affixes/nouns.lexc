@@ -1,4 +1,4 @@
-!! !!!Noun inflection
+!! # Noun inflection
 !! ----
 
 LEXICON N-continutation ! this lexicon made on model from mhr, please adjust ad lib
@@ -11,23 +11,23 @@ LEXICON NTag
 ! SNM: ensure there is a space before the jspwiki markup __ when the preceding
 ! character (ie last of lexicon name) is also an _ char - otherwise one gets a
 ! jspwiki syntax error.
-LEXICON N_  !!≈ * __@CODE@ __
+LEXICON N_  !!≈ * **@CODE@**
 ! +WORK: K ; ! comment out WORK tag for Korp
 K ;
 
-!! !!Substandard
+!! ## Substandard
 
-LEXICON N_KOL_SUB !!≈ * __@CODE@__
+LEXICON N_KOL_SUB !!≈ * **@CODE@**
  +Err/Orth: N_KOL ;
 
-LEXICON N_TYERVYE_SUB !!≈ * __@CODE@__
+LEXICON N_TYERVYE_SUB !!≈ * **@CODE@**
  +Err/Orth: N_TYERVYE ;
 
 
 LEXICON N-continuation
 N_ ; ! to be fixed
 
-!! !!Standard
+!! ## Standard
 
 LEXICON N_KOL !!= @CODE@ кол:кол
 !! Back harmony
@@ -47,7 +47,7 @@ LEXICON N_MOER-SG
 LEXICON N_MOER-PL
  :%{front%} NMN_MOER-PL ;
 
-LEXICON N_MARY !!≈ * __@CODE@__ мары:мары
+LEXICON N_MARY !!≈ * **@CODE@** мары:мары
 !! The stem vowel "е" is found with possessor indices and the lative
 !! Back harmony
   N_MARY-SG ;
@@ -57,7 +57,7 @@ LEXICON N_MARY-SG
 LEXICON N_MARY-PL
  :%{back%} NMN_MARY-PL ;
 
-LEXICON N_TYERVYE !!≈ * __@CODE@__ тӹрвӹ:тӹрвӹ
+LEXICON N_TYERVYE !!≈ * **@CODE@** тӹрвӹ:тӹрвӹ
 !! The stem vowel "е" is found with possessor indices and the lative
 !! Front harmony
   N_TYERVYE-SG ;
@@ -70,7 +70,7 @@ LEXICON N_TYERVYE-PL
 LEXICON N_KARTA_SUB
  +Err/Orth: N_KARTA ;
 
-LEXICON N_KARTA !!≈ * __@CODE@__ карта:карта
+LEXICON N_KARTA !!≈ * **@CODE@** карта:карта
 !! а is specific to the +Sg+Nom, elsewhere ы or ӹ
 !! Back harmony
   N_KARTA-SG ;
@@ -80,7 +80,7 @@ LEXICON N_KARTA-SG
 LEXICON N_KARTA-PL
  :%{back%} NMN_KARTA-PL ;
 
-LEXICON N_BIRZHA !!≈ * __@CODE@__ биржа:биржа
+LEXICON N_BIRZHA !!≈ * **@CODE@** биржа:биржа
 !! а is specific to the +Sg+Nom, elsewhere  ӹ
 !! Front harmony
   N_BIRZHA-SG ;
@@ -90,7 +90,7 @@ LEXICON N_BIRZHA-SG
 LEXICON N_BIRZHA-PL
  :%{front%} NMN_BIRZHA-PL ;
 
-LEXICON N_VAREN1E !!≈ * __@CODE@__ варенье:варенье
+LEXICON N_VAREN1E !!≈ * **@CODE@** варенье:варенье
 !! е is specific to the +Sg+Nom, elsewhere  ӹ
 !! Front harmony
   N_VAREN1E-SG ;
@@ -163,7 +163,7 @@ LEXICON NMN_MOER-PL
   NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ;
   NMN_OBLIQUE-POSSESSA-PL_FRONT    ;
 
-LEXICON NMN_MARY !!≈ * __@CODE@__ мары:мары
+LEXICON NMN_MARY !!≈ * **@CODE@** мары:мары
 !! The stem vowel "е" is found with possessor indices and the lative
 !! Back harmony
   NMN_MARY-SG ;
@@ -178,7 +178,7 @@ LEXICON NMN_MARY-PL
             NMN_OBLIQUE-POSSESSA-PL_BACK          ;
 ! +PxSg1:эм PL-ABEACCCOMDATGENILLINELATNOM_MUTUAL ;
 
-LEXICON NMN_TYERVYE !!≈ * __@CODE@__ тӹрвӹ:тӹрвӹ
+LEXICON NMN_TYERVYE !!≈ * **@CODE@** тӹрвӹ:тӹрвӹ
 !! The stem vowel "е" is found with possessor indices and the lative
 !! Front harmony
   NMN_TYERVYE-SG ;
@@ -193,7 +193,7 @@ LEXICON NMN_TYERVYE-PL
             NMN_OBLIQUE-POSSESSA-PL_FRONT         ;
 ! +PxSg1:эм PL-ABEACCCOMDATGENILLINELATNOM_MUTUAL ;
 
-LEXICON NMN_KARTA	 !!≈ * __@CODE@__ карта:карта
+LEXICON NMN_KARTA	 !!≈ * **@CODE@** карта:карта
 !! Back а/ы
 !! а is specific to the +Sg+Nom, elsewhere ы
   NMN_KARTA-SG ;
@@ -207,7 +207,7 @@ LEXICON NMN_KARTA-PL
  :%>ы NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ;
  :%>ы NMN_OBLIQUE-POSSESSA-PL_BACK     ;
 
-LEXICON NMN_BIRZHA	 !!≈ * __@CODE@__ биржа:биржа
+LEXICON NMN_BIRZHA	 !!≈ * **@CODE@** биржа:биржа
 !! Front а/ӹ
 !! а is specific to the +Sg+Nom, elsewhere ӹ
   NMN_BIRZHA-SG ;
@@ -220,10 +220,10 @@ LEXICON NMN_BIRZHA-SG
 !        :%^А2ЫӸ NMN_OBLIQUE-POSSESSA-SG_FRONT   ;
 
 LEXICON NMN_BIRZHA-PL
- :%>ӹ NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ; !!= * __@CODE@__ %>влӓ
+ :%>ӹ NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ; !!= * **@CODE@** %>влӓ
  :%>ӹ NMN_OBLIQUE-POSSESSA-PL_FRONT    ;
 
-LEXICON NMN_VAREN1E	 !!≈ * __@CODE@__ варенье:варенье
+LEXICON NMN_VAREN1E	 !!≈ * **@CODE@** варенье:варенье
 !! Front е/ӹ
 !! е is specific to the +Sg+Nom, elsewhere ӹ
   NMN_VAREN1E-SG ;
@@ -236,7 +236,7 @@ LEXICON NMN_VAREN1E-SG
 !        :%^А2ЫӸ NMN_OBLIQUE-POSSESSA-SG_FRONT   ;
 
 LEXICON NMN_VAREN1E-PL
- :%>ӹ NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ; !!= * __@CODE@__ %>влӓ
+ :%>ӹ NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ; !!= * **@CODE@** %>влӓ
  :%>ӹ NMN_OBLIQUE-POSSESSA-PL_FRONT    ;
 
 LEXICON NMN_OLMA !!= @CODE@  олма:олма

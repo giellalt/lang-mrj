@@ -1,48 +1,48 @@
-!! !!!Adjective inflection
+!! # Adjective inflection
 !! ----
 
 !! Hill Mari adjectives compare.
 
 LEXICON A-ADN_
-  # ; !!≈ * __@CODE@__ This adjective only occurs with a head word in an adnominal phrase
+  # ; !!≈ * **@CODE@** This adjective only occurs with a head word in an adnominal phrase
 
 ! SNM: ensure there is a space before the jspwiki markup __ when the preceding
 ! character (ie last of lexicon name) is also an _ char - otherwise one gets a
 ! jspwiki syntax error.
-LEXICON A_  !!≈ * __@CODE@ __
+LEXICON A_  !!≈ * **@CODE@**
      +Pos:           #        ;
     +Comp:%>р%{аӓ%}к #        ;
  +Der+Der/N+N:           NMN_OLMA ; !! This should be neutral 2013-05-11
 
-LEXICON A_OLMA !!≈ * __@CODE@__
+LEXICON A_OLMA !!≈ * **@CODE@**
      +Pos:      #        ;
     +Comp:%{back%}%>рак #        ;
  +Der+Der/N+N:%{back%}      NMN_OLMA ;
 
-LEXICON A_AEZAE !!≈ * __@CODE@__
+LEXICON A_AEZAE !!≈ * **@CODE@**
      +Pos:      #       ;
     +Comp:%{front%}%>рӓк #       ;
  +Der+Der/N+N:%{front%}      NMN_AEZAE ;
 
-LEXICON A_MARY  !!≈ * __@CODE@__
+LEXICON A_MARY  !!≈ * **@CODE@**
      +Pos:      #        ;
     +Comp:%{back%}%>рак #        ;
  +Der+Der/N+N:%{back%}      NMN_MARY ;
 
-LEXICON A_TYERVYE  !!≈ * __@CODE@__
+LEXICON A_TYERVYE  !!≈ * **@CODE@**
      +Pos:      #         ;
     +Comp:%{front%}%>рӓк #         ;
  +Der+Der/N+N:%{front%}      NMN_TYERVYE ;
 
-LEXICON A_KOL  !!≈ * __@CODE@__
+LEXICON A_KOL  !!≈ * **@CODE@**
      +Pos:      #       ;
     +Comp:%{back%}%>рак #       ;
- +Der+Der/N+N:%{back%}      NMN_KOL ; !!≈ * __@CODE@__ The +N tag is given here to curtail over generation from derived nouns
+ +Der+Der/N+N:%{back%}      NMN_KOL ; !!≈ * **@CODE@** The +N tag is given here to curtail over generation from derived nouns
 
-LEXICON A_MOER  !!≈ * __@CODE@__
+LEXICON A_MOER  !!≈ * **@CODE@**
      +Pos:      #       ;
     +Comp:%{front%}%>рӓк #       ;
- +Der+Der/N+N:%{front%}      NMN_MOER ; !!≈ * __@CODE@__ The +N tag is given here to curtail over generation from derived nouns
+ +Der+Der/N+N:%{front%}      NMN_MOER ; !!≈ * **@CODE@** The +N tag is given here to curtail over generation from derived nouns
 
 
 
