@@ -1,6 +1,10 @@
 The Hill Mari (Western Mari) morphology and tools
 ==========================================
 
+[![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-mrj)](https://github.com/giellalt/lang-mrj/issues)
+[![Build Status](https://github.com/giellalt/lang-mrj/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-mrj/actions)
+[![License](https://img.shields.io/github/license/giellalt/lang-mrj)](https://raw.githubusercontent.com/giellalt/lang-mrj/develop/LICENSE)
+
 This repository contains finite state source files for the Western Mari language,
 for building morphological analysers, proofing tools
 and dictionaries. The data and implementation are licenced under GNU GPL
@@ -8,10 +12,6 @@ licence, also detailed in the
 [LICENCE](https://github.com/giellalt/lang-mrj/blob/develop/LICENCE). The
 authors named in the AUTHORS file are available to grant other licencing
 choices.
-
-[![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-mrj)](https://github.com/giellalt/lang-mrj/issues)
-[![Build Status](https://github.com/giellalt/lang-mrj/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-mrj/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-mrj)](https://raw.githubusercontent.com/giellalt/lang-mrj/develop/LICENSE)
 
 Install proofing tools and [keyboards](https://github.com/giellalt/keyboard-mrj)
 for the Western Mari language by using the [Divvun Installer](http://divvun.no)
