@@ -1,7 +1,7 @@
 # Western Mari documentation
 
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
-[![License](https://img.shields.io/github/license/giellalt/template-lang-mrj)](https://raw.githubusercontent.com/giellalt/lang-mrj/develop/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-mrj)](https://raw.githubusercontent.com/giellalt/lang-mrj/develop/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-mrj)](https://github.com/giellalt/lang-mrj/issues)
 [![Build status](https://github.com/giellalt/lang-mrj/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-mrj/actions)
 
