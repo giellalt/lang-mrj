@@ -1,0 +1,24 @@
+[What is this?|WhatIsThis.html]
+
+
+
+
+ 
+ 
+ 
+ 
+* Generation of: [paradigms|http://giellatekno.uit.no/cgi/p-mrj.fi.html]
+ 
+
+!!! Grammatical issues
+
+* [The tags that are in use|https://gtsvn.uit.no/langtech/trunk/langs/mrj/src/fst/root.lexc]   
+* [A list of morphological tags|/lang/common/MorphologicalTags.html]
+
+!!!Resources
+* [Cyrillic keyboard|https://gtsvn.uit.no/langtech/trunk/techdoc/keyboards/download/KyrilliskQWERTY.zip]
+
+!!!Using the analysers
+
+* In the terminal: analyse words by writing ''umrj'', generate with ''dmrj''
+* For more info, see [How to use the morphological parsers|/tools/docu-sme-manual.html]
