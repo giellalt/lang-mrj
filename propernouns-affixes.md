@@ -1,0 +1,110 @@
+# Proper noun inflection
+----
+
+Hill Mari proper nouns inflect in the same cases as regular
+nouns
+
+
+
+
+
+
+
+
+
+
+
+ LEXICON PROP_KOL  кол:кол
+
+
+
+
+
+
+
+ * **LEXICON PROP_TYERVYE** тӹрвӹ:тӹрвӹ
+The stem vowel "е" is found with possessor indices and the lative
+
+
+
+
+ LEXICON PROP_OLMA  кол:кол
+
+ * **LEXICON PROP_KARTA** карта:карта
+а is specific to the +Sg+Nom, elsewhere ы or ӹ
+
+
+
+
+## Male given name for deriving patronyms
+
+
+
+
+
+
+
+Вили:Вил
+
+
+## Female Given names
+
+
+
+
+
+
+
+
+
+
+
+Russian type Surnames
+Абдеев:Абдеев
+
+Багрий:Багр
+
+Аморский:Аморск
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PLACE NAMES FROM TEMPLATES !!
+
+
+
+
+
+
+
+
+
