@@ -1,48 +1,54 @@
-!! # Adjective inflection
-!! ----
+!! # Hill Mari adjective inflection
 
-!! Hill Mari adjectives compare.
 
-LEXICON A-ADN_
-  # ; !!≈ * **@CODE@** This adjective only occurs with a head word in an adnominal phrase
+!! This file contains a handful of lexica, each with 3 subentries. The two first ones give +Pos+Attr dn +Comp:рак, respectively, whereeas the third entry gives a *+Der/N* tag and redirects to the relevant noun lexica for case inflection
+
+
+!! ## Temporary lexicon
+LEXICON A-ADN_ !!≈ * **@CODE@**  = This adjective only occurs with a head word in an adnominal phrase
+  # ; 
 
 ! SNM: ensure there is a space before the jspwiki markup __ when the preceding
 ! character (ie last of lexicon name) is also an _ char - otherwise one gets a
 ! jspwiki syntax error.
-LEXICON A_  !!≈ * **@CODE@**
-     +Pos:           #        ;
+
+
+!! ## Ordinary lexica
+
+LEXICON A_  !!≈ * **@CODE@** has *aä* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_OLMA. 
+     +Pos+Attr:           #        ;
     +Comp:%>р%{аӓ%}к #        ;
  +Der+Der/N+N:           NMN_OLMA ; !! This should be neutral 2013-05-11
 
-LEXICON A_OLMA !!≈ * **@CODE@**
-     +Pos:      #        ;
+LEXICON A_OLMA !!≈ * **@CODE@** has  *back* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_OLMA.
+     +Pos+Attr:      #        ;
     +Comp:%{back%}%>рак #        ;
  +Der+Der/N+N:%{back%}      NMN_OLMA ;
 
-LEXICON A_AEZAE !!≈ * **@CODE@**
-     +Pos:      #       ;
+LEXICON A_AEZAE !!≈ * **@CODE@** has *front* trigger, gets +Pos, +Comp, or goes via Der/N to NMN_AAEZAE.
+     +Pos+Attr:      #       ;
     +Comp:%{front%}%>рӓк #       ;
  +Der+Der/N+N:%{front%}      NMN_AEZAE ;
 
-LEXICON A_MARY  !!≈ * **@CODE@**
-     +Pos:      #        ;
+LEXICON A_MARY  !!≈ * **@CODE@** has *back* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_MARY.
+     +Pos+Attr:      #        ;
     +Comp:%{back%}%>рак #        ;
  +Der+Der/N+N:%{back%}      NMN_MARY ;
 
-LEXICON A_TYERVYE  !!≈ * **@CODE@**
-     +Pos:      #         ;
+LEXICON A_TYERVYE  !!≈ * **@CODE@** har *front* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_TYERVYE.
+     +Pos+Attr:      #         ;
     +Comp:%{front%}%>рӓк #         ;
  +Der+Der/N+N:%{front%}      NMN_TYERVYE ;
 
-LEXICON A_KOL  !!≈ * **@CODE@**
-     +Pos:      #       ;
+LEXICON A_KOL  !!≈ * **@CODE@** has *back* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_KOL.
+     +Pos+Attr:      #       ;
     +Comp:%{back%}%>рак #       ;
- +Der+Der/N+N:%{back%}      NMN_KOL ; !!≈ * **@CODE@** The +N tag is given here to curtail over generation from derived nouns
+ +Der+Der/N+N:%{back%}      NMN_KOL ; !!≈ @CODE@ The +N tag is given here to curtail over generation from derived nouns
 
-LEXICON A_MOER  !!≈ * **@CODE@**
-     +Pos:      #       ;
+LEXICON A_MOER  !!≈ * **@CODE@** has *front* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_MOER.
+     +Pos+Attr:      #       ;
     +Comp:%{front%}%>рӓк #       ;
- +Der+Der/N+N:%{front%}      NMN_MOER ; !!≈ * **@CODE@** The +N tag is given here to curtail over generation from derived nouns
+ +Der+Der/N+N:%{front%}      NMN_MOER ; !!≈  @CODE@ The +N tag is given here to curtail over generation from derived nouns
 
 
 

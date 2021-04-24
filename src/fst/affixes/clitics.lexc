@@ -4,11 +4,13 @@
 !! Hill Mari (Western Mari) adverbial clitics are not bound by POS.
 
 LEXICON K
+!! @LEXNAME@
                    WORDEND ;
  +Foc/Ат:%>%{аӓ%}т WORDEND ;
  +Foc/ок:%>ок      WORDEND ;
 
 LEXICON WORDEND
+!! @LEXNAME@
   # ;
 
 

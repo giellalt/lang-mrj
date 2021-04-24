@@ -1,6 +1,7 @@
 
 !! # Compounding
-! ! Does Hill Mari have anything like LEXICON R and %- N ;
+
+!! Does Hill Mari have anything like LEXICON R and %- N ;
 
 
 ! ============ !
@@ -31,7 +32,8 @@ LEXICON POSTP_  !!= * @CODE@
 LEXICON Ad-A_ !!= * @CODE@
  +AdA: # ;
 
-LEXICON ADV_ !
+LEXICON ADV_ 
+!! @LEXNAME@ 
            K ;
  +Comp:%>рак # ;
 
@@ -51,7 +53,7 @@ LEXICON SPAT_
  +Spat: K ;
 
 
-!!Temporal tags with cases
+!! Temporal tags with cases
 
 LEXICON ADV-TEMP_  !!= * @CODE@
  +Temp: K ;

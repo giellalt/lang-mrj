@@ -1,10 +1,12 @@
 !! # Noun inflection
 !! ----
 
+!! ## Ad hoc lexica
+
 LEXICON N-continutation ! this lexicon made on model from mhr, please adjust ad lib
  N_ ;
  
-!! Hill Mari nouns inflect in cases.
+
 LEXICON NTag
   N_ ;
 
@@ -15,7 +17,7 @@ LEXICON N_  !!≈ * **@CODE@**
 ! +WORK: K ; ! comment out WORK tag for Korp
 K ;
 
-!! ## Substandard
+!! ## Substandard lexica
 
 LEXICON N_KOL_SUB !!≈ * **@CODE@**
  +Err/Orth: N_KOL ;
@@ -27,7 +29,7 @@ LEXICON N_TYERVYE_SUB !!≈ * **@CODE@**
 LEXICON N-continuation
 N_ ; ! to be fixed
 
-!! ## Standard
+!! ## Standard lexica 
 
 LEXICON N_KOL !!= @CODE@ кол:кол
 !! Back harmony
@@ -68,6 +70,7 @@ LEXICON N_TYERVYE-PL
  :%{front%} NMN_TYERVYE-PL ;
 
 LEXICON N_KARTA_SUB
+!! @LEXNAME@
  +Err/Orth: N_KARTA ;
 
 LEXICON N_KARTA !!≈ * **@CODE@** карта:карта

@@ -15,12 +15,15 @@
 !! # Symbol affixes
 
 LEXICON Noun_symbols_possibly_inflected
+!! @LEXNAME@
  +N+Symbol: SYMBOL_connector ;
 
 LEXICON Noun_symbols_never_inflected
+!! @LEXNAME@
  +N+Symbol: # ;
 
 LEXICON SYMBOL_connector
+!! @LEXNAME@
                SYMBOL_NO_suff ; ! §
           :%:  SYMBOL_suff    ; ! §:sne
  +Err/Orth:    SYMBOL_suff    ; ! §esne
@@ -28,9 +31,11 @@ LEXICON SYMBOL_connector
  +Err/Orth:%'e SYMBOL_suff    ; ! §'esne
 
 LEXICON SYMBOL_NO_suff
+!! @LEXNAME@
  +Sg+Nom: # ;
 
 LEXICON SYMBOL_suff
+!! @LEXNAME@
  +Sg+Gen:n       # ;
  +Sg+Acc:m       # ;
  +Sg+Ill:se      # ;

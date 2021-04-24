@@ -4,9 +4,11 @@
 !! Hill Mari (Western Mari) pronouns...
 
 LEXICON PRON_
+!! @LEXNAME@
  : WORDEND ;
 
 LEXICON PERS-SG1
+!! @LEXNAME@
   +Pers+Sg1+Nom:нь    K ;
   +Pers+Sg1+Gen:ньӹн  K ;
   +Pers+Sg1+Acc:ньӹм  K ;
@@ -15,6 +17,7 @@ LEXICON PERS-SG1
   +Pers+Sg1+Com:ньге  K ;
 
 LEXICON PERS-SG2
+!! @LEXNAME@
   +Pers+Sg2+Nom:нь    K ;
   +Pers+Sg2+Gen:ньӹн  K ;
   +Pers+Sg2+Acc:ньӹм  K ;
@@ -23,6 +26,7 @@ LEXICON PERS-SG2
   +Pers+Sg2+Com:ньге  K ;
 
 LEXICON PERS-SG3
+!! @LEXNAME@
   +Pers+Sg3+Nom:      K ;
   +Pers+Sg3+Gen:%>н   K ;
   +Pers+Sg3+Acc:%>м   K ;
@@ -31,6 +35,7 @@ LEXICON PERS-SG3
   +Pers+Sg3+Com:%>ге  K ;
 
 LEXICON PERS-PL1
+!! @LEXNAME@
   +Pers+Pl1+Nom:        K ;
   +Pers+Pl1+Gen:мнӓ%>н  K ;
   +Pers+Pl1+Acc:мнӓ%>м  K ;
@@ -39,6 +44,7 @@ LEXICON PERS-PL1
   +Pers+Pl1+Com:%>ге    K ;
 
 LEXICON PERS-PL2
+!! @LEXNAME@
   +Pers+Pl2+Nom:        K ;
   +Pers+Pl2+Gen:мдӓ%>н  K ;
   +Pers+Pl2+Acc:мдӓ%>м  K ;
@@ -46,7 +52,8 @@ LEXICON PERS-PL2
  +Pers+Pl2+Cmpr:%>лӓ    K ;
   +Pers+Pl2+Com:%>ге    K ;
 
-LEXICON PERS-PL3 !!= @CODE@ нӹнӹ:нӹнӹ
+LEXICON PERS-PL3 
+!! @LEXNAME@ нӹнӹ:нӹнӹ
   +Pers+Pl3+Nom:      K ;
   +Pers+Pl3+Gen:%>н   K ;
   +Pers+Pl3+Acc:%>м   K ;
@@ -54,7 +61,8 @@ LEXICON PERS-PL3 !!= @CODE@ нӹнӹ:нӹнӹ
  +Pers+Pl3+Cmpr:%>лӓ  K ;
   +Pers+Pl3+Com:%>ге  K ;
 
-LEXICON REFL !!= @CODE@ ӹшке:ӹшк
+LEXICON REFL
+!! @LEXNAME@ ӹшке:ӹшк
       +Refl+Dep:е          K ;
       +Refl+Gen:ӹмӹ%>н     K ;
       +Refl+Acc:ӹмӹ%>м     K ;
@@ -124,11 +132,13 @@ LEXICON DEM-PL !!= @CODE@ нинӹ:ни
 
 
 LEXICON DemTag
+!! @LEXNAME@
   +Dem+Adn: WORDEND ;
  +Dem: Dem-Cx  ;
 !! What are these тӹдӹмӓт, тӹдӹлӓнӓт
 
 LEXICON Dem-Cx
+!! @LEXNAME@
  +Sg+Nom:                K ;
  +Sg+Gen:%>н             K ;
  +Sg+Acc:%>м             K ;

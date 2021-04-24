@@ -1,56 +1,70 @@
 !! # Proper noun inflection
-!! ----
+!    ----
 
 !! Hill Mari proper nouns inflect in the same cases as regular
 !! nouns
 
 LEXICON PROP_
+!! @LEXNAME@
  +Sg+Nom: K ;
   N_01 ;
 
 
 
 LEXICON PROP-PLC_
+!! @LEXNAME@
  +Sem/Plc:%{back%} NMN_KOL ;
 
 LEXICON PROP_KOL_PLC
+!! @LEXNAME@
  +Sem/Plc:%{back%} NMN_KOL ;
 
 LEXICON PROP_KOL_FEM
+!! @LEXNAME@
  +Sem/Fem:%{back%} NMN_KOL ;
 
 LEXICON PROP_OLMA_FEM
+!! @LEXNAME@
  +Sem/Fem:%{back%} NMN_OLMA ;
 
 LEXICON PROP_OLMA_MAL
+!! @LEXNAME@
  +Sem/Mal:%{back%} NMN_OLMA ;
 
 LEXICON PROP_OLMA_PLC
+!! @LEXNAME@
  +Sem/Plc:%{back%} NMN_OLMA ;
 
 LEXICON PROP_KOL_MAL
+!! @LEXNAME@
  +Sem/Mal:%{back%} NMN_KOL ;
  
 LEXICON PROP_KOL !!= @CODE@ кол:кол
+!! @LEXNAME@
  :%{back%} NMN_KOL ;
 
 LEXICON PROP-PLC_MOER
+!! @LEXNAME@
  +Sem/Plc:%{front%} NMN_MOER ;
 
 LEXICON PROP_MOER
+!! @LEXNAME@
  :%{front%} NMN_MOER ;
 
 
 
 
 LEXICON PROP-PLC_TYERVYE
+!! @LEXNAME@
  +Sem/Plc:%{front%} NMN_TYERVYE ;
 
 LEXICON PROP_TYERVYE !!≈ * **@CODE@** тӹрвӹ:тӹрвӹ
+!! @LEXNAME@
 !! The stem vowel "е" is found with possessor indices and the lative
  :%{front%} NMN_TYERVYE ;
 
 LEXICON PROP-PLC_OLMA
+!! @LEXNAME@
  +Sem/Plc:%{back%} NMN_OLMA ;
 
 
@@ -124,17 +138,21 @@ LEXICON PropNameMaleDer-Ovich
 !! ## Female Given names
 
 LEXICON Prop-kal_fem
+!! @LEXNAME@
  +Sem/Fem: N_01 ;
  +Sem/Fem+N+Sg: N_01 ;
 
 LEXICON Prop-lak_fem
+!! @LEXNAME@
  +Sem/Fem: N_01 ;
  +Sem/Fem+N+Sg: N_01 ;
 
 LEXICON Prop-kit_fem
+!! @LEXNAME@
  +Sem/Fem: N_01 ;
  +Sem/Fem+N+Sg: N_01 ;
 
+!! ... etc.
 LEXICON Prop-osh_fem
  +Sem/Fem: N_01 ;
  +Sem/Fem+N+Sg: N_01 ;
