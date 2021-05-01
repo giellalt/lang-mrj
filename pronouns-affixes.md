@@ -3,15 +3,21 @@
 
 Hill Mari (Western Mari) pronouns...
 
+PRON_
 
+PERS-SG1
 
+PERS-SG2
 
+PERS-SG3
 
+PERS-PL1
 
+PERS-PL2
 
- LEXICON PERS-PL3  нӹнӹ:нӹнӹ
+PERS-PL3 нӹнӹ:нӹнӹ
 
- LEXICON REFL  ӹшке:ӹшк
+REFL ӹшке:ӹшк
 
 
 
@@ -26,8 +32,10 @@ Hill Mari (Western Mari) pronouns...
 Plural pronoun with additional plural marking
 
 
+DemTag
 What are these тӹдӹмӓт, тӹдӹлӓнӓт
 
+Dem-Cx
 
 
 

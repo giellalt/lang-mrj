@@ -1,7 +1,10 @@
 # Hill Mari (Western Mari) verb inflection
 
- * **LEXICON VAux** = auxiliaries first
+## Irregular lexica
 
+Also lexica for +Hom tags
+
+ * **LEXICON VAux** = auxiliaries 
 
  * **LEXICON V_AM-HOM1** homonyms @hid=Hom1
 
@@ -12,6 +15,8 @@
  * **LEXICON V_EM_SUB** substandard
 
 ## Regular verbs
+
+Both *-am* and *-em* verbs and their subgroups.
 
 ### V_AM verbs
 
@@ -56,6 +61,7 @@ LEXICON V_KACHKAM-3
 Approximately 0 2014-12-21
 Back Vowel harmony for  V_AM-3 verbs
 
+### V_EM verbs
 
 LEXICON V_KACHKAM-3
 Approximately 1052 2014-12-21
@@ -74,7 +80,9 @@ LEXICON V_KACHKAM-3
 Approximately 1 2014-12-21
 Back	Vowel harmony for  V_EM verbs
 
+## Lexica pointing to suffix lexica
 
+### Intermediate AM lexica
 
  LEXICON V_AM  ӹштӓш:ӹшт
 
@@ -89,6 +97,7 @@ Back	Vowel harmony for  V_EM verbs
 пелӓш: онг пелеш
 What else is needed 2014-05-08
 
+### Intermediate EM lexcia
 
 
 
@@ -106,64 +115,107 @@ What else is needed 2014-05-08
 
 
 
+## Suffix lexica
+
 ### NONPAST
 
-### am verbs
+#### am verbs
 
+INDPRSSG1-am
 
+INDPRSSG2-am
 
+INDPRSSG3-am
 
+INDPRSPL1-am
 
+INDPRSPL2-am
 
+INDPRSPL3-am
 
+INDPRSCONNEG-am
 
+INDPRSPL3CONNEG-am
 
-### em verbs
+#### em verbs
 
+INDPRSSG1-em
 
+INDPRSSG2-em
 
+INDPRSSG3-em
 
 
 
+INDPRSPL3-em
 
 
 
 
 
-## PRETERIT 1
+### PRETERIT 1
 
-### am
+#### am
 
+INDPRT1SG1-am
 
+INDPRT1SG2-am
 
+INDPRT1SG3-am
 
+INDPRT1PL1-am
 
+INDPRT1PL2-am
 
+INDPRT1PL3-am
 
+INDPRT1CONNEG-am
 
+INDPRT1PL3CONNEG-am
 
-### em
+#### em
 
+INDPRT1SG1-em
 
+INDPRT1SG2-em
 
+INDPRT1SG3-em
 
+INDPRT1PL1-em
 
+INDPRT1PL2-em
 
+INDPRT1PL3-em
 
+INDPRT1CONNEG-em
 
+INDPRT1PL3CONNEG-em
 
-## PRETERIT 2
+### PRETERIT 2
 
-### am
+#### am
+INDPRT2SG1-am
 
+INDPRT2SG2-am
 
+INDPRT2SG3-am
 
+INDPRT2PL1-am
 
+INDPRT2PL2-am
 
+INDPRT2PL3-am
 
+INDPRT2NEG-am
+INDPRT2NEG-am
+INDPRT2NEG-am
+INDPRT2NEG-am
+INDPRT2NEG-am
+INDPRT2NEG-am
+INDPRT2NEG-am
 
+#### em
 
-### em
 
 
 
@@ -171,15 +223,27 @@ What else is needed 2014-05-08
 
 
 
+INDPRT2NEG-am
+INDPRT2NEG-am
+INDPRT2NEG-am
+INDPRT2NEG-am
+INDPRT2NEG-am
+INDPRT2NEG-am
 
+### IMPERATIVE
 
-## IMPERATIVE
 
+IMPRTSG2-am
 
+IMPRTSG3-am
 
+IMPRTPL2-am
 
+IMPRTPL3-am
 
+IMPRTIISG2-am
 
+IMPRTIIPL2-am
 
 
 
@@ -188,24 +252,48 @@ What else is needed 2014-05-08
 
 
 
+### DESIDERATIVE
+DES-am
+DESSG1-am
+DESSG2-am
+DESSG3-am
+DESPL1-am
+DESPL2-am
+DESPL3-am
 
-## DESIDERATIVE
+DES-em
+DESSG1-em
+DESSG2-em
+DESSG3-em
+DESPL1-em
+DESPL2-em
+DESPL3-em
 
 
+### INFINITIVE
 
-## INFINITIVE
 
+INF
 
+NEG-PRC
 
+PASS-PRC
 
 
+INF_BACK
 
+NEG-PRC_BACK
 
+PASS-PRC_BACK
 
+ACT-PRC_BACK
 
+INF_FRONT
 
+NEG-PRC_FRONT
 
+PASS-PRC_FRONT
 
-
+ACT-PRC_FRONT
 
 
