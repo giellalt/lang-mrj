@@ -1,0 +1,11 @@
+# Clitics
+----
+
+Hill Mari (Western Mari) adverbial clitics are not bound by POS.
+
+K
+
+WORDEND
+
+
+

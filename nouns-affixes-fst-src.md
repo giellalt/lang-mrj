@@ -75,18 +75,18 @@ The stem vowel "е" is found with possessor indices and the lative
 Front harmony
 
 
- * **LEXICON NMN_KARTA	** карта:карта
+ * **LEXICON NMN_KARTA** карта:карта
 Back а/ы
 а is specific to the +Sg+Nom, elsewhere ы
 
 
- * **LEXICON NMN_BIRZHA	** биржа:биржа
+ * **LEXICON NMN_BIRZHA** биржа:биржа
 Front а/ӹ
 а is specific to the +Sg+Nom, elsewhere ӹ
 
  * ** :%>ӹ NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ; ** %>влӓ
 
- * **LEXICON NMN_VAREN1E	** варенье:варенье
+ * **LEXICON NMN_VAREN1E** варенье:варенье
 Front е/ӹ
 е is specific to the +Sg+Nom, elsewhere ӹ
 
