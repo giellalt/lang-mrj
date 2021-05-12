@@ -2,6 +2,980 @@
 
 
 
+This is the Hill Mari disambiguation file. It chooses
+the correct morphological analyses in any given sentence context.
+
+It was copied from the Eastern Mari cg3 file 18.11.21. tt.
+
+The file first defines sentence delimiters and tags and sets.
+Thereafter come the rules, each rule is listed below.
+
+
+# Sentence delimiters
+
+The delimiters are: "<.>" "<!>" "<?>" "<...>" "<¶>" sent
+
+
+
+
+The **Tags** section lists all the tags inherited from the fst, and defines them for
+use in the syntactic analysis.
+The tags are documented in the root.lexc file, and here only listed for reference.
+
+The next section, **Sets**, contains sets defined
+on the basis of the tags listed here, those set names are not visible in the output.
+
+
+
+
+
+## Tags
+
+
+
+### Beginning and end of sentence
+
+BOS
+EOS
+
+### Clause boundary
+
+
+### Parts of speech tags
+
+N
+V
+A
+Adv
+CC
+CC
+CS
+Interj
+Pron
+Num
+Pcle
+Clt
+Po
+
+WORD is the set of all POS
+
+### Verbal tense and mood tags
+Prs
+Prt1
+Prt2
+Fut
+Imprt
+Ind
+Cond
+Des
+
+### Other verbal tags
+Act
+ConNeg
+FutPrc
+Ger
+Inf
+Nec
+Neg
+NegPrc
+Pass
+Prc
+PrfPrc
+
+Verbal person-number tags
+Sg1
+Sg2
+Sg3
+Pl1
+Pl2
+Pl3
+
+### Numeral tags
+
+Sg
+Pl
+
+### Case tags
+
+Nom
+Gen
+Abl
+Dat
+Com
+Cns
+Acc
+Ins
+Ine
+Ill
+Cmpr (case)
+
+
+
+### Other nominal tags
+
+Pers
+Refl
+Rel
+Interr
+Recipr
+Dem
+ABBR
+
+### Adjective comparison tags
+
+Pos (?)
+Superl
+Comp
+
+### Possessive suffix tags
+
+PxSg1
+PxSg2
+PxSg3
+PxPl1
+PxPl2
+PxPl3
+
+### Numeral tags
+
+Card
+Coll
+Ord
+Temp (?)
+
+
+### Particles
+Qst
+Foc
+
+### Punctuation marks
+
+CLB
+PUCT
+LEFT
+RIGHT
+COMMA
+
+### Derivation tags
+Der/MWN
+Der/sa
+Der/Pur
+Der/Caus
+Der/Nom
+
+### Tags for internal testing
+CmpTest
+Err
+
+
+## Sets
+
+* **CASE** = all cases
+* **OBLCASE** = All cases except Nom
+* **VFIN** = All moods
+
+
+
+
+
+
+
+
+
+Der/Date
+Der/Year
+Der/Hum
+Der/Lang
+Der/Domain
+Der/Feat-phys
+Der/Clth
+Der/Body
+Der/Act
+
+Sem/Ani
+Sem/Fem
+Sem/Group
+Sem/Mal
+Sem/Measr
+Sem/Money
+Sem/Obj
+Sem/Obj-el
+Sem/Org
+Sem/Perc-emo
+Sem/Plc
+Sem/Sign
+Sem/State-sick
+Sem/Sur
+Sem/Time
+Sem/Txt
+
+
+
+
+# Rule section
+
+
+## Early, word-internal rules
+
+* **CmpTst** remove CmpTst if not 1 N
+* **CmpTst2** Select CmpTst in all other cases
+***NoFocPossNoun** remove Foc/Poss if PxSg3
+
+### CC or Pcle
+* **teveteve1** gives CC if two теве
+* **teveteve1** gives CC if two теве
+* **onlyteve** gives Pcle if two теве
+
+* **PcleNotCC** Lauseen alussa on Pcle
+
+* **CCnotInterj**
+
+* **Posna** деч посна
+
+* **ikNum** ик is never A
+
+
+## Specific words
+
+### да
+
+* **da1** Adv initially
+
+* **da2** CC elsewhere
+
+### и
+* **iNotAbbr**
+
+### Interjection
+
+* **NoExclNoInterj**
+
+### Predicative
+
+**AifVövny** selects A if вӧвны somewhere to the left
+
+### Conjunctions
+
+* **NotPcle**
+
+
+### Particles
+
+***InterrQ** if question mark anywhere to the right
+
+***Interr** removes Rel if question mark to the right somewhere
+
+
+
+
+
+
+
+
+
+### Verbs
+
+Existential ulo
+
+
+Infinitives
+
+
+
+* **Ind** selects Ind if no Ind to the right or to the left
+
+* **1SgAgr** selects (Ind Sg1) if Pron1Sg to the right or to the left
+
+* **1SgAgr** selects (Ind Sg1) if (Pron1Sg Nom) to the right or to the left
+
+* **2SgAgr** selects (Ind Sg2) if Pron2Sg to the right or to the left
+
+* **IndAfterInf** selects Ind if Inf to the left
+
+* **NotImpWhenInd**
+
+* **NotImpWhenWords1**
+
+* **NotImpWhenWords2**
+
+
+
+### Adjectives
+
+
+
+
+
+***RemAdjBeforeProp** removes A if Prop to the left
+
+***AdjBeforeMo** selects A if Interr to the right
+
+* **AdjBeforeAN** selects A if N or A to the right
+
+* **RemN** removes N if N to the right
+
+* **AdjAfterNbeforeEOS** selects A if N to the left and EOS to the right (predicative position)
+
+*_AdjBeforeConjAdj_ selects A if conjuction and A to the right ;
+
+* **AdjNotAdv** removes Adv if N to the right
+
+* **AdjNotPron** removes Pron Pers if N to the right
+
+***AdjNotN** removes N if Pron Pers anywhere to the left
+
+* **RemAdj1** removes A if no N or A follows
+
+***RemAdj2** removes A if no N or Pron in a clause
+
+
+
+### Nouns
+
+* **lym** nalash "to take a name" = "to be given a title"
+
+
+***RemNomIfPronLeft** removes Nom if Pron Nom anywhere to the left
+
+***RemNomIfPronRight** removes Nom if Pron Nom anywhere to the right
+
+***NomBeforeConjNom** selects N Nom if conjoined with N Nom
+
+***NafterDem** selects N if Dem to the left (demonstratives tend to be sole modifiers) 
+
+***NotANoun**
+
+***NafterAbeforeEOS**
+
+***RemNafterAdv** removes N if adverb to the left
+
+### Derivations
+
+
+* **RemDerMWN1** removes Der/MWN if N is an option
+
+* **RemDerMWN2** removes Der/MWN if N to the right
+
+* **Dersa** if noun follows
+
+* **SelDerMWN** select Der/MWN if no noun follows
+
+### Cases
+
+* **RemNomNif12left** removes Nom with N if there is a verb with 1st or 2nd agreement to the lef
+
+* **RemNomNif12right** removes Nom with N if there is a verb with 1st or 2nd agreement to the right
+
+
+* **AccNeedsVerb** prefers Nom (TODO: does this make sense? SASHA: it does but there was a typo, -1* instead of 1* in the third clause of the condition)
+
+
+
+
+### Proper nouns
+
+
+### Numerals
+
+* **IkNumN** ik is num before N Sg
+* **IkNumAN** ik is num before A N Sg
+
+* **KumNumAN** ik is num before A N Sg
+
+### Pronouns
+* **NotImp** in most тиде cases
+
+
+* **NotInterr** if Rel
+
+* **Dem** if noun follows
+
+* **уке**
+
+### Conjunctions
+
+
+
+### Postpositions
+
+
+
+
+
+
+
+* **PoNeedsGen** removes postposition if the word to the left is not Gen or Nom
+
+**ConjNotPcle** supposes we have found the particles earlier on, and now go for Conj.
+
+## Adverbs
+
+
+
+
+
+
+* **molan** awaiting rules for dative verbs subcategorising for mo Dat
+
+
+
+
+
+
+
+## Verbs
+
+### Finite verb or Gerundium
+
+***RemGer** removes Ger Gen if there is no verb to the right 
+
+* **FinNotGer** removes Ger if there is a Ind Prt2 Sg3 in the clause
+
+* **GerNotFin**  Ger if there is a Ind next
+
+* **GerNotFin**  Ger if there is a Ger da Ger VFin
+
+
+
+
+
+
+### First or third person
+
+* **Sg1NotSg3** removes Prt1 Sg3 when Pers Sg1 Nom in same clause
+
+* **Sg3NotSg1** removes Prt1 Sg1 when there is no Pers Sg1 Nom in same clause
+    - This definitely is too strong, it precludes zero Sg1 subjects
+
+### ConNeg or not
+* **NoConNeg1** No ConNeg if no Neg to the left
+* **NoConNeg2** No ConNeg if another ConNeg to the left
+
+* **NoErrOrth**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Sets for POS sub-categories
+
+
+
+
+
+* Sets for Semantic tags
+
+
+
+
+
+* Sets for Morphosyntactic properties
+
+Nom
+Gen
+Abl
+Dat
+Com
+Cns
+Acc
+Ins
+Ine
+Ill
+Cmpr (case)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Sets for verbs
+
+
+    - V is all readings with a V tag in them, REAL-V should
+be the ones without an N tag following the V.  
+The REAL-V set thus awaits a fix to the preprocess V ... N bug.
+
+
+
+* The set COPULAS is for predicative constructions
+
+
+
+
+
+
+
+* NP sets defined according to their morphosyntactic features
+
+
+
+
+
+
+
+* The PRE-NP-HEAD family of sets
+
+These sets model noun phrases (NPs). The idea is to first define whatever can
+occur in front of the head of the NP, and thereafter negate that with the
+expression **WORD - premodifiers**.
+
+
+
+
+
+
+
+
+
+
+
+
+The set **NOT-NPMOD** is used to find barriers between NPs.
+Typical usage: ... (*1 N BARRIER NPT-NPMOD) ...
+meaning: Scan to the first noun, ignoring anything that can be
+part of the noun phrase of that noun (i.e., "scan to the next NP head")
+
+
+
+
+
+
+* Miscellaneous sets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Border sets and their complements
+
+
+
+
+
+
+
+
+
+
+
+* **CASE** = all cases
+* **OBLCASE** = All cases except Nom
+
+
+* Syntactic sets
+
+
+
+
+These were the set types.
+
+
+
+* **CCasCNPCVP** Map (@CNP @CVP) to CC
+
+
+
+
+
+
+## NP attributives
+
+
+
+## Postposition
+
+
+## HABITIVE MAPPING
+
+
+* **hab1** 
+
+
+* **hab2** 
+
+* **hab3** (<hab> @ADVL>) for hab-actor and hab-case; if leat to the right, and Nom to the right of leat. Lots of restrictions.
+
+
+
+* **habNomLeft** 
+
+
+* **hab4** 	
+
+
+
+* **hab6** 
+
+* **hab7** 
+
+* **hab8** This is not HAB
+* **hab5**  This is not HAB
+
+
+
+
+
+
+
+
+* **habGen** (<hab> @<ADVL) hab for Gen; if Gen is located in the end of the sentence and Nom is sentence initial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mari rules start here
+
+
+
+
+
+
+Mari rules stop here	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* **subj>Sgnr1** (@SUBJ>) for Nom Sg, including Indef Nom if; VFIN + Sg3 or Pl3 to the right (VFIN not allowed to the left) 
+
+* **subj>Pl** (@SUBJ>) for plural nominatives, including Coll and Sem/Group. VFIN + Pl3 to the right.
+
+* **subj>Pl** (@SUBJ>) for plural nominatives
+
+
+* **subj>Sgnr2** (@SUBJ>) for Nom Sg; if VFIN + Sg3 to the right.
+
+* **<subjSg** (@<SUBJ) for Nom Sg; if VFIN Sg3 or Du2 to the left (no HAB allowed to the left).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* **advlPoPr>** (@<ADVL) if mainverb to the right.
+
+
+
+
+
+
+
+
+
+## SUBJ MAPPING - leftovers
+
+## OBJ MAPPING - leftovers
+
+
+## HNOUN MAPPING
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 PROPER GIVEN NAMES
 
 PROPER PATRONYMS
@@ -1708,5 +2682,416 @@ For example:
  * v.:vuonna # ;  
  * esim.:esimerkki # ; 
  * esim.:esimerkiksi # ; 
+
+
+
+      [ L A N G U A G E ]  G R A M M A R   C H E C K E R
+
+
+
+
+
+
+
+
+
+# DELIMITERS
+
+
+# TAGS AND SETS
+
+
+
+## Tags
+
+
+This section lists all the tags inherited from the fst, and used as tags
+in the syntactic analysis. The next section, **Sets**, contains sets defined
+on the basis of the tags listed here, those set names are not visible in the output.
+
+
+
+
+### Beginning and end of sentence
+BOS
+EOS
+
+
+
+### Parts of speech tags
+
+N
+A
+Adv
+V
+Pron
+CS
+CC
+CC-CS
+Po
+Pr
+Pcle
+Num
+Interj
+ABBR
+ACR
+CLB
+LEFT
+RIGHT
+WEB
+QMARK
+PPUNCT
+PUNCT
+
+COMMA
+¶
+
+
+
+### Tags for POS sub-categories
+
+Pers
+Dem
+Interr
+Indef
+Recipr
+Refl
+Rel
+Coll
+NomAg
+Prop
+Allegro
+Arab
+Romertall
+
+
+### Tags for morphosyntactic properties
+
+Nom
+Acc
+Gen
+Ill
+Loc
+Com
+Ess
+Ess
+Sg
+Du
+Pl
+Cmp/SplitR
+Cmp/SgNom Cmp/SgGen
+Cmp/SgGen
+PxSg1
+PxSg2
+PxSg3
+PxDu1
+PxDu2
+PxDu3
+PxPl1
+PxPl2
+PxPl3
+Px
+
+Comp
+Superl
+Attr
+Ord
+Qst
+IV
+TV
+Prt
+Prs
+Ind
+Pot
+Cond
+Imprt
+ImprtII
+Sg1
+Sg2
+Sg3
+Du1
+Du2
+Du3
+Pl1
+Pl2
+Pl3
+Inf
+ConNeg
+Neg
+PrfPrc
+VGen
+PrsPrc
+Ger
+Sup
+Actio
+VAbess
+
+
+
+Err/Orth
+
+
+
+### Semantic tags
+
+Sem/Act
+Sem/Ani
+Sem/Atr
+Sem/Body
+Sem/Clth
+Sem/Domain
+Sem/Feat-phys
+Sem/Fem
+Sem/Group
+Sem/Lang
+Sem/Mal
+Sem/Measr
+Sem/Money
+Sem/Obj
+Sem/Obj-el
+Sem/Org
+Sem/Perc-emo
+Sem/Plc
+Sem/Sign
+Sem/State-sick
+Sem/Sur
+Sem/Time
+Sem/Txt
+
+HUMAN
+
+HAB-ACTOR
+HAB-ACTOR-NOT-HUMAN
+
+
+PROP-ATTR
+PROP-SUR
+
+
+
+TIME-N-SET
+
+
+###  Syntactic tags
+
+@+FAUXV
+@+FMAINV
+@-FAUXV
+@-FMAINV
+@-FSUBJ>
+@-F<OBJ
+@-FOBJ>
+@-FSPRED<OBJ
+@-F<ADVL
+@-FADVL>
+@-F<SPRED
+@-F<OPRED
+@-FSPRED>
+@-FOPRED>
+@>ADVL
+@ADVL<
+@<ADVL
+@ADVL>
+@ADVL
+@HAB>
+@<HAB
+@>N
+@Interj
+@N<
+@>A
+@P<
+@>P
+@HNOUN
+@INTERJ
+@>Num
+@Pron<
+@>Pron
+@Num<
+@OBJ
+@<OBJ
+@OBJ>
+@OPRED
+@<OPRED
+@OPRED>
+@PCLE
+@COMP-CS<
+@SPRED
+@<SPRED
+@SPRED>
+@SUBJ
+@<SUBJ
+@SUBJ>
+SUBJ
+SPRED
+OPRED
+@PPRED
+@APP
+@APP-N<
+@APP-Pron<
+@APP>Pron
+@APP-Num<
+@APP-ADVL<
+@VOC
+@CVP
+@CNP
+OBJ
+<OBJ
+OBJ>
+<OBJ-OTHERS
+OBJ>-OTHERS
+SYN-V
+@X
+
+
+
+
+
+## Sets containing sets of lists and tags
+
+This part of the file lists a large number of sets based partly upon the tags defined above, and
+partly upon lexemes drawn from the lexicon.
+See the sourcefile itself to inspect the sets, what follows here is an overview of the set types.
+
+
+
+### Sets for Single-word sets
+
+INITIAL
+
+
+### Sets for word or not
+
+WORD
+REAL-WORD
+REAL-WORD-NOT-ABBR
+NOT-COMMA
+
+
+### Case sets
+
+ADLVCASE
+
+CASE-AGREEMENT
+CASE
+
+NOT-NOM
+NOT-GEN
+NOT-ACC
+
+### Verb sets
+
+
+NOT-V
+
+### Sets for finiteness and mood
+
+REAL-NEG
+
+MOOD-V
+
+NOT-PRFPRC
+
+
+### Sets for person
+
+SG1-V
+SG2-V
+SG3-V
+DU1-V
+DU2-V
+DU3-V
+PL1-V
+PL2-V
+PL3-V
+
+
+
+
+
+### Pronoun sets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Adjectival sets and their complements
+
+
+
+
+### Adverbial sets and their complements
+
+
+
+
+### Sets of elements with common syntactic behaviour
+
+
+### NP sets defined according to their morphosyntactic features
+
+
+
+
+
+
+
+
+### The PRE-NP-HEAD family of sets
+
+These sets model noun phrases (NPs). The idea is to first define whatever can
+occur in front of the head of the NP, and thereafter negate that with the
+expression **WORD - premodifiers**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Border sets and their complements
+
+
+
+
+
+
+
+
+
+
+
+### Grammarchecker sets
+
+
+
+
+
+
 
 

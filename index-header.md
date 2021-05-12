@@ -5,7 +5,7 @@
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-mrj)](https://github.com/giellalt/lang-mrj/issues)
 [![Build status](https://github.com/giellalt/lang-mrj/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-mrj/actions)
 
-This page documents the work on the **Western Mari language model**. 
+This page documents the work on the [Western Mari language model](http://github.com/giellalt/lang-mrj). 
 
 # Project documentation
 
