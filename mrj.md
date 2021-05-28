@@ -1798,6 +1798,8 @@ SYMBOL_NO_suff
 SYMBOL_suff
 # Morphophonological rules for Hill Mari 
 
+This file documents the [phonology.twolc file](http://github.com/giellalt/lang-mrj/blob/main/src/fst/phonology.twolc) 
+
 ## Alphabet, Sets and Definitions 
 
 ### Alphabet 
