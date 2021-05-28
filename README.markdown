@@ -77,7 +77,7 @@ svn checkout https://github.com/giellalt/lang-mrj.git/trunk lang-mrj
 Building and installation
 -------------------------
 
-[INSTALL](https://github.com/giellalt/lang-mrj/blob/develop/INSTALL)
+[INSTALL](https://github.com/giellalt/lang-mrj/blob/main/INSTALL)
 describes the GNU build system in detail, but for most users it is the usual:
 
 ```sh
