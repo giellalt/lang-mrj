@@ -31,7 +31,7 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-m
 #### Boundary symbols 
 
  * ** %> ** 
- * hash # 
+* hash # 
  * ** %- ** 
 
 
@@ -270,3 +270,5 @@ LBH
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/phonology.twolc)</small>

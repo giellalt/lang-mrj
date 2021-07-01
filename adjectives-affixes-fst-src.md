@@ -32,3 +32,5 @@ This should be neutral 2013-05-11
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/adjectives.lexc)</small>

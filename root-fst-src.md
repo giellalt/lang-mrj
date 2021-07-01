@@ -344,7 +344,7 @@ source and target part-of-speech.
  * **+Err/Sub** = 
 
 
- ### Morphophonology
+### Morphophonology
 
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
@@ -441,3 +441,5 @@ the initial pos.lexc _LEXICON Pos_ entries
 
 ENDLEX goes to # for now.
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/root.lexc)</small>

@@ -8,3 +8,5 @@ ADD NOUNS BELOW
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns_newwords.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/stems/nouns_newwords.lexc)</small>
