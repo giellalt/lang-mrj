@@ -2,465 +2,6 @@
 
 
 
-This is the Hill Mari disambiguation file. It chooses
-the correct morphological analyses in any given sentence context.
-
-It was copied from the Eastern Mari cg3 file 18.11.21. tt.
-
-The file first defines sentence delimiters and tags and sets.
-Thereafter come the rules, each rule is listed below.
-
-
-# Sentence delimiters
-
-The delimiters are: "<.>" "<!>" "<?>" "<...>" "<¶>" sent
-
-
-
-
-The **Tags** section lists all the tags inherited from the fst, and defines them for
-use in the syntactic analysis.
-The tags are documented in the root.lexc file, and here only listed for reference.
-
-The next section, **Sets**, contains sets defined
-on the basis of the tags listed here, those set names are not visible in the output.
-
-
-
-
-
-## Tags
-
-
-
-### Beginning and end of sentence
-
-BOS
-EOS
-
-### Clause boundary
-
-
-### Parts of speech tags
-
-N
-V
-A
-Adv
-CC
-CC
-CS
-Interj
-Pron
-Num
-Pcle
-Clt
-Po
-
-WORD is the set of all POS
-
-### Verbal tense and mood tags
-Prs
-Prt1
-Prt2
-Fut
-Imprt
-Ind
-Cond
-Des
-
-### Other verbal tags
-Act
-ConNeg
-FutPrc
-Ger
-Inf
-Nec
-Neg
-NegPrc
-Pass
-Prc
-PrfPrc
-
-Verbal person-number tags
-Sg1
-Sg2
-Sg3
-Pl1
-Pl2
-Pl3
-
-### Numeral tags
-
-Sg
-Pl
-
-### Case tags
-
-Nom
-Gen
-Abl
-Dat
-Com
-Cns
-Acc
-Ins
-Ine
-Ill
-Cmpr (case)
-
-
-
-### Other nominal tags
-
-Pers
-Refl
-Rel
-Interr
-Recipr
-Dem
-ABBR
-
-### Adjective comparison tags
-
-Pos (?)
-Superl
-Comp
-
-### Possessive suffix tags
-
-PxSg1
-PxSg2
-PxSg3
-PxPl1
-PxPl2
-PxPl3
-
-### Numeral tags
-
-Card
-Coll
-Ord
-Temp (?)
-
-
-### Particles
-Qst
-Foc
-
-### Punctuation marks
-
-CLB
-PUCT
-LEFT
-RIGHT
-COMMA
-
-### Derivation tags
-Der/MWN
-Der/sa
-Der/Pur
-Der/Caus
-Der/Nom
-
-### Tags for internal testing
-CmpTest
-Err
-
-
-## Sets
-
-* **CASE** = all cases
-* **OBLCASE** = All cases except Nom
-* **VFIN** = All moods
-
-
-
-
-
-
-
-
-
-Der/Date
-Der/Year
-Der/Hum
-Der/Lang
-Der/Domain
-Der/Feat-phys
-Der/Clth
-Der/Body
-Der/Act
-
-Sem/Ani
-Sem/Fem
-Sem/Group
-Sem/Mal
-Sem/Measr
-Sem/Money
-Sem/Obj
-Sem/Obj-el
-Sem/Org
-Sem/Perc-emo
-Sem/Plc
-Sem/Sign
-Sem/State-sick
-Sem/Sur
-Sem/Time
-Sem/Txt
-
-
-
-
-# Rule section
-
-
-## Early, word-internal rules
-
-* **CmpTst** remove CmpTst if not 1 N
-* **CmpTst2** Select CmpTst in all other cases
-***NoFocPossNoun** remove Foc/Poss if PxSg3
-
-### CC or Pcle
-* **teveteve1** gives CC if two теве
-* **teveteve1** gives CC if two теве
-* **onlyteve** gives Pcle if two теве
-
-* **PcleNotCC** Lauseen alussa on Pcle
-
-* **CCnotInterj**
-
-* **Posna** деч посна
-
-* **ikNum** ик is never A
-
-
-## Specific words
-
-### да
-
-* **da1** Adv initially
-
-* **da2** CC elsewhere
-
-### и
-* **iNotAbbr**
-
-### Interjection
-
-* **NoExclNoInterj**
-
-### Predicative
-
-**AifVövny** selects A if вӧвны somewhere to the left
-
-### Conjunctions
-
-* **NotPcle**
-
-
-### Particles
-
-***InterrQ** if question mark anywhere to the right
-
-***Interr** removes Rel if question mark to the right somewhere
-
-
-
-
-
-
-
-
-
-### Verbs
-
-Existential ulo
-
-
-Infinitives
-
-
-
-* **Ind** selects Ind if no Ind to the right or to the left
-
-* **1SgAgr** selects (Ind Sg1) if Pron1Sg to the right or to the left
-
-* **1SgAgr** selects (Ind Sg1) if (Pron1Sg Nom) to the right or to the left
-
-* **2SgAgr** selects (Ind Sg2) if Pron2Sg to the right or to the left
-
-* **IndAfterInf** selects Ind if Inf to the left
-
-* **NotImpWhenInd**
-
-* **NotImpWhenWords1**
-
-* **NotImpWhenWords2**
-
-
-
-### Adjectives
-
-
-
-
-
-***RemAdjBeforeProp** removes A if Prop to the left
-
-***AdjBeforeMo** selects A if Interr to the right
-
-* **AdjBeforeAN** selects A if N or A to the right
-
-* **RemN** removes N if N to the right
-
-* **AdjAfterNbeforeEOS** selects A if N to the left and EOS to the right (predicative position)
-
-*_AdjBeforeConjAdj_ selects A if conjuction and A to the right ;
-
-* **AdjNotAdv** removes Adv if N to the right
-
-* **AdjNotPron** removes Pron Pers if N to the right
-
-***AdjNotN** removes N if Pron Pers anywhere to the left
-
-* **RemAdj1** removes A if no N or A follows
-
-***RemAdj2** removes A if no N or Pron in a clause
-
-
-
-### Nouns
-
-* **lym** nalash "to take a name" = "to be given a title"
-
-
-***RemNomIfPronLeft** removes Nom if Pron Nom anywhere to the left
-
-***RemNomIfPronRight** removes Nom if Pron Nom anywhere to the right
-
-***NomBeforeConjNom** selects N Nom if conjoined with N Nom
-
-***NafterDem** selects N if Dem to the left (demonstratives tend to be sole modifiers) 
-
-***NotANoun**
-
-***NafterAbeforeEOS**
-
-***RemNafterAdv** removes N if adverb to the left
-
-### Derivations
-
-
-* **RemDerMWN1** removes Der/MWN if N is an option
-
-* **RemDerMWN2** removes Der/MWN if N to the right
-
-* **Dersa** if noun follows
-
-* **SelDerMWN** select Der/MWN if no noun follows
-
-### Cases
-
-* **RemNomNif12left** removes Nom with N if there is a verb with 1st or 2nd agreement to the lef
-
-* **RemNomNif12right** removes Nom with N if there is a verb with 1st or 2nd agreement to the right
-
-
-* **AccNeedsVerb** prefers Nom (TODO: does this make sense? SASHA: it does but there was a typo, -1* instead of 1* in the third clause of the condition)
-
-
-
-
-### Proper nouns
-
-
-### Numerals
-
-* **IkNumN** ik is num before N Sg
-* **IkNumAN** ik is num before A N Sg
-
-* **KumNumAN** ik is num before A N Sg
-
-### Pronouns
-* **NotImp** in most тиде cases
-
-
-* **NotInterr** if Rel
-
-* **Dem** if noun follows
-
-* **уке**
-
-### Conjunctions
-
-
-
-### Postpositions
-
-
-
-
-
-
-
-* **PoNeedsGen** removes postposition if the word to the left is not Gen or Nom
-
-**ConjNotPcle** supposes we have found the particles earlier on, and now go for Conj.
-
-## Adverbs
-
-
-
-
-
-
-* **molan** awaiting rules for dative verbs subcategorising for mo Dat
-
-
-
-
-
-
-
-## Verbs
-
-### Finite verb or Gerundium
-
-***RemGer** removes Ger Gen if there is no verb to the right 
-
-* **FinNotGer** removes Ger if there is a Ind Prt2 Sg3 in the clause
-
-* **GerNotFin**  Ger if there is a Ind next
-
-* **GerNotFin**  Ger if there is a Ger da Ger VFin
-
-
-
-
-
-
-### First or third person
-
-* **Sg1NotSg3** removes Prt1 Sg3 when Pers Sg1 Nom in same clause
-
-* **Sg3NotSg1** removes Prt1 Sg1 when there is no Pers Sg1 Nom in same clause
-- This definitely is too strong, it precludes zero Sg1 subjects
-
-### ConNeg or not
-* **NoConNeg1** No ConNeg if no Neg to the left
-* **NoConNeg2** No ConNeg if another ConNeg to the left
-
-* **NoErrOrth**
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/cg3/disambiguator.cg3](http://github.com/giellalt/lang-mrj/blob/main/../src/cg3/disambiguator.cg3)</small>
-
-
-
 
 
 
@@ -974,7 +515,466 @@ Mari rules stop here
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-mrj/blob/main/../src/cg3/functions.cg3)</small># Morphophonological rules for Hill Mari 
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-mrj/blob/main/../src/cg3/functions.cg3)</small>
+
+
+
+This is the Hill Mari disambiguation file. It chooses
+the correct morphological analyses in any given sentence context.
+
+It was copied from the Eastern Mari cg3 file 18.11.21. tt.
+
+The file first defines sentence delimiters and tags and sets.
+Thereafter come the rules, each rule is listed below.
+
+
+# Sentence delimiters
+
+The delimiters are: "<.>" "<!>" "<?>" "<...>" "<¶>" sent
+
+
+
+
+The **Tags** section lists all the tags inherited from the fst, and defines them for
+use in the syntactic analysis.
+The tags are documented in the root.lexc file, and here only listed for reference.
+
+The next section, **Sets**, contains sets defined
+on the basis of the tags listed here, those set names are not visible in the output.
+
+
+
+
+
+## Tags
+
+
+
+### Beginning and end of sentence
+
+BOS
+EOS
+
+### Clause boundary
+
+
+### Parts of speech tags
+
+N
+V
+A
+Adv
+CC
+CC
+CS
+Interj
+Pron
+Num
+Pcle
+Clt
+Po
+
+WORD is the set of all POS
+
+### Verbal tense and mood tags
+Prs
+Prt1
+Prt2
+Fut
+Imprt
+Ind
+Cond
+Des
+
+### Other verbal tags
+Act
+ConNeg
+FutPrc
+Ger
+Inf
+Nec
+Neg
+NegPrc
+Pass
+Prc
+PrfPrc
+
+Verbal person-number tags
+Sg1
+Sg2
+Sg3
+Pl1
+Pl2
+Pl3
+
+### Numeral tags
+
+Sg
+Pl
+
+### Case tags
+
+Nom
+Gen
+Abl
+Dat
+Com
+Cns
+Acc
+Ins
+Ine
+Ill
+Cmpr (case)
+
+
+
+### Other nominal tags
+
+Pers
+Refl
+Rel
+Interr
+Recipr
+Dem
+ABBR
+
+### Adjective comparison tags
+
+Pos (?)
+Superl
+Comp
+
+### Possessive suffix tags
+
+PxSg1
+PxSg2
+PxSg3
+PxPl1
+PxPl2
+PxPl3
+
+### Numeral tags
+
+Card
+Coll
+Ord
+Temp (?)
+
+
+### Particles
+Qst
+Foc
+
+### Punctuation marks
+
+CLB
+PUCT
+LEFT
+RIGHT
+COMMA
+
+### Derivation tags
+Der/MWN
+Der/sa
+Der/Pur
+Der/Caus
+Der/Nom
+
+### Tags for internal testing
+CmpTest
+Err
+
+
+## Sets
+
+* **CASE** = all cases
+* **OBLCASE** = All cases except Nom
+* **VFIN** = All moods
+
+
+
+
+
+
+
+
+
+Der/Date
+Der/Year
+Der/Hum
+Der/Lang
+Der/Domain
+Der/Feat-phys
+Der/Clth
+Der/Body
+Der/Act
+
+Sem/Ani
+Sem/Fem
+Sem/Group
+Sem/Mal
+Sem/Measr
+Sem/Money
+Sem/Obj
+Sem/Obj-el
+Sem/Org
+Sem/Perc-emo
+Sem/Plc
+Sem/Sign
+Sem/State-sick
+Sem/Sur
+Sem/Time
+Sem/Txt
+
+
+
+
+# Rule section
+
+
+## Early, word-internal rules
+
+* **CmpTst** remove CmpTst if not 1 N
+* **CmpTst2** Select CmpTst in all other cases
+***NoFocPossNoun** remove Foc/Poss if PxSg3
+
+### CC or Pcle
+* **teveteve1** gives CC if two теве
+* **teveteve1** gives CC if two теве
+* **onlyteve** gives Pcle if two теве
+
+* **PcleNotCC** Lauseen alussa on Pcle
+
+* **CCnotInterj**
+
+* **Posna** деч посна
+
+* **ikNum** ик is never A
+
+
+## Specific words
+
+### да
+
+* **da1** Adv initially
+
+* **da2** CC elsewhere
+
+### и
+* **iNotAbbr**
+
+### Interjection
+
+* **NoExclNoInterj**
+
+### Predicative
+
+**AifVövny** selects A if вӧвны somewhere to the left
+
+### Conjunctions
+
+* **NotPcle**
+
+
+### Particles
+
+***InterrQ** if question mark anywhere to the right
+
+***Interr** removes Rel if question mark to the right somewhere
+
+
+
+
+
+
+
+
+
+### Verbs
+
+Existential ulo
+
+
+Infinitives
+
+
+
+* **Ind** selects Ind if no Ind to the right or to the left
+
+* **1SgAgr** selects (Ind Sg1) if Pron1Sg to the right or to the left
+
+* **1SgAgr** selects (Ind Sg1) if (Pron1Sg Nom) to the right or to the left
+
+* **2SgAgr** selects (Ind Sg2) if Pron2Sg to the right or to the left
+
+* **IndAfterInf** selects Ind if Inf to the left
+
+* **NotImpWhenInd**
+
+* **NotImpWhenWords1**
+
+* **NotImpWhenWords2**
+
+
+
+### Adjectives
+
+
+
+
+
+***RemAdjBeforeProp** removes A if Prop to the left
+
+***AdjBeforeMo** selects A if Interr to the right
+
+* **AdjBeforeAN** selects A if N or A to the right
+
+* **RemN** removes N if N to the right
+
+* **AdjAfterNbeforeEOS** selects A if N to the left and EOS to the right (predicative position)
+
+*_AdjBeforeConjAdj_ selects A if conjuction and A to the right ;
+
+* **AdjNotAdv** removes Adv if N to the right
+
+* **AdjNotPron** removes Pron Pers if N to the right
+
+***AdjNotN** removes N if Pron Pers anywhere to the left
+
+* **RemAdj1** removes A if no N or A follows
+
+***RemAdj2** removes A if no N or Pron in a clause
+
+
+
+### Nouns
+
+* **lym** nalash "to take a name" = "to be given a title"
+
+
+***RemNomIfPronLeft** removes Nom if Pron Nom anywhere to the left
+
+***RemNomIfPronRight** removes Nom if Pron Nom anywhere to the right
+
+***NomBeforeConjNom** selects N Nom if conjoined with N Nom
+
+***NafterDem** selects N if Dem to the left (demonstratives tend to be sole modifiers) 
+
+***NotANoun**
+
+***NafterAbeforeEOS**
+
+***RemNafterAdv** removes N if adverb to the left
+
+### Derivations
+
+
+* **RemDerMWN1** removes Der/MWN if N is an option
+
+* **RemDerMWN2** removes Der/MWN if N to the right
+
+* **Dersa** if noun follows
+
+* **SelDerMWN** select Der/MWN if no noun follows
+
+### Cases
+
+* **RemNomNif12left** removes Nom with N if there is a verb with 1st or 2nd agreement to the lef
+
+* **RemNomNif12right** removes Nom with N if there is a verb with 1st or 2nd agreement to the right
+
+
+* **AccNeedsVerb** prefers Nom (TODO: does this make sense? SASHA: it does but there was a typo, -1* instead of 1* in the third clause of the condition)
+
+
+
+
+### Proper nouns
+
+
+### Numerals
+
+* **IkNumN** ik is num before N Sg
+* **IkNumAN** ik is num before A N Sg
+
+* **KumNumAN** ik is num before A N Sg
+
+### Pronouns
+* **NotImp** in most тиде cases
+
+
+* **NotInterr** if Rel
+
+* **Dem** if noun follows
+
+* **уке**
+
+### Conjunctions
+
+
+
+### Postpositions
+
+
+
+
+
+
+
+* **PoNeedsGen** removes postposition if the word to the left is not Gen or Nom
+
+**ConjNotPcle** supposes we have found the particles earlier on, and now go for Conj.
+
+## Adverbs
+
+
+
+
+
+
+* **molan** awaiting rules for dative verbs subcategorising for mo Dat
+
+
+
+
+
+
+
+## Verbs
+
+### Finite verb or Gerundium
+
+***RemGer** removes Ger Gen if there is no verb to the right 
+
+* **FinNotGer** removes Ger if there is a Ind Prt2 Sg3 in the clause
+
+* **GerNotFin**  Ger if there is a Ind next
+
+* **GerNotFin**  Ger if there is a Ger da Ger VFin
+
+
+
+
+
+
+### First or third person
+
+* **Sg1NotSg3** removes Prt1 Sg3 when Pers Sg1 Nom in same clause
+
+* **Sg3NotSg1** removes Prt1 Sg1 when there is no Pers Sg1 Nom in same clause
+- This definitely is too strong, it precludes zero Sg1 subjects
+
+### ConNeg or not
+* **NoConNeg1** No ConNeg if no Neg to the left
+* **NoConNeg2** No ConNeg if another ConNeg to the left
+
+* **NoErrOrth**
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/cg3/disambiguator.cg3](http://github.com/giellalt/lang-mrj/blob/main/../src/cg3/disambiguator.cg3)</small># Morphophonological rules for Hill Mari 
 
 This file documents the [phonology.twolc file](http://github.com/giellalt/lang-mrj/blob/main/src/fst/phonology.twolc) 
 
@@ -1247,840 +1247,7 @@ LBH
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/phonology.twolc)</small>
-# Compounding
-
-Does Hill Mari have anything like LEXICON R and %- N ;
-
-
-## Interj lexica
-
- * LEXICON INTERJ_  
-
-
-## Postp lexica
-
-
-
- * LEXICON POSTP_  
-
- * LEXICON Ad-A_ 
-
-ADV_ 
-
-
-
-
-
-
-
-Temporal tags with cases
-
- * LEXICON ADV-TEMP_  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adverbs.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/adverbs.lexc)</small># Pronouns
-----
-
-Hill Mari (Western Mari) pronouns...
-
-PRON_
-
-PERS-SG1
-
-PERS-SG2
-
-PERS-SG3
-
-PERS-PL1
-
-PERS-PL2
-
-PERS-PL3 нӹнӹ:нӹнӹ
-
-REFL ӹшке:ӹшк
-
-
-
-
-
-
-
- LEXICON DEM-SG  тидӹ:ти
-
-
- LEXICON DEM-PL  нинӹ:ни
-Plural pronoun with additional plural marking
-
-
-DemTag
-What are these тӹдӹмӓт, тӹдӹлӓнӓт
-
-Dem-Cx
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/pronouns.lexc)</small># Hill Mari (Western Mari) verb inflection
-
-## Irregular lexica
-
-Also lexica for +Hom tags
-
- * **LEXICON VAux** = auxiliaries 
-
- * **LEXICON V_AM-HOM1** homonyms @hid=Hom1
-
- * **LEXICON V_EM-HOM2** homonyms @hid=Hom2
-
- * **LEXICON V_AM_SUB** substandard
-
- * **LEXICON V_EM_SUB** substandard
-
-## Regular verbs
-
-Both *-am* and *-em* verbs and their subgroups.
-
-### V_AM verbs
-
-
-LEXICON V_IAEM
-Approximately 619 2014-12-21
-Front Vowel harmony for V_AM verbs
-LEXICON V_IAEM-SG3
-Approximately 4 2014-12-21
-Front Vowel harmony for V_AM-SG3 verbs
-LEXICON V_IAEM-3
-Approximately 2 2014-12-21
-Front Vowel harmony for V_AM-3 verbs
-
-LEXICON V_MOAM
-Approximately 465 2014-12-21
-Back Vowel harmony for  V_AM	verbs
-LEXICON V_MOAM-SG3
-Approximately 2 2014-12-21
-Back Vowel harmony for  V_AM-SG3 verbs
-Approximately 1 2014-12-21
-Back Vowel harmony for  V_AM-3 verbs
-
-### STEM CHANGE
-LEXICON V_PYECHKAEM
-Approximately 12 2014-12-21
-Back Vowel harmony for  V_AM verbs
-LEXICON V_PYECHKAEM-SG3
-Approximately 0 2014-12-21
-Back Vowel harmony for  V_AM-SG3 verbs
-LEXICON V_PYECHKAEM-3
-Approximately 0 2014-12-21
-Back Vowel harmony for  V_AM-3 verbs
-
-LEXICON V_KACHKAM
-Approximately 11 2014-12-21
-Back Vowel harmony for  V_AM verbs
-LEXICON V_KACHKAM-SG3
-Approximately 0 2014-12-21
-Back Vowel harmony for  V_AM-SG3 verbs
-LEXICON V_KACHKAM-3
-Approximately 0 2014-12-21
-Back Vowel harmony for  V_AM-3 verbs
-
-### V_EM verbs
-
-LEXICON V_KACHKAM-3
-Approximately 1052 2014-12-21
-Front Vowel harmony for V_EM	verbs
-LEXICON V_KACHKAM-3
-Approximately 2 2014-12-21
-Front Vowel harmony for V_EM-SG3 verbs
-
-LEXICON V_KACHKAM-3
-Approximately 1315 2014-12-21
-Back	Vowel harmony for  V_EM verbs
-LEXICON V_KACHKAM-3
-Approximately 4 2014-12-21
-Back	Vowel harmony for  V_EM verbs
-LEXICON V_KACHKAM-3
-Approximately 1 2014-12-21
-Back	Vowel harmony for  V_EM verbs
-
-## Lexica pointing to suffix lexica
-
-### Intermediate AM lexica
-
- LEXICON V_AM  ӹштӓш:ӹшт
-
-
-
-
-
-
-
-
-
-пелӓш: онг пелеш
-What else is needed 2014-05-08
-
-### Intermediate EM lexcia
-
-
-
-хӹдӹртӓш: хӹдӹртӹ
-What else is needed 2014-05-08
-
-
- * **LEXICON V_EM** колташ:колты
-
-
-
-
-
-
-
-
-
-## Suffix lexica
-
-### NONPAST
-
-#### am verbs
-
-INDPRSSG1-am
-
-INDPRSSG2-am
-
-INDPRSSG3-am
-
-INDPRSPL1-am
-
-INDPRSPL2-am
-
-INDPRSPL3-am
-
-INDPRSCONNEG-am
-
-INDPRSPL3CONNEG-am
-
-#### em verbs
-
-INDPRSSG1-em
-
-INDPRSSG2-em
-
-INDPRSSG3-em
-
-
-
-INDPRSPL3-em
-
-
-
-
-
-### PRETERIT 1
-
-#### am
-
-INDPRT1SG1-am
-
-INDPRT1SG2-am
-
-INDPRT1SG3-am
-
-INDPRT1PL1-am
-
-INDPRT1PL2-am
-
-INDPRT1PL3-am
-
-INDPRT1CONNEG-am
-
-INDPRT1PL3CONNEG-am
-
-#### em
-
-INDPRT1SG1-em
-
-INDPRT1SG2-em
-
-INDPRT1SG3-em
-
-INDPRT1PL1-em
-
-INDPRT1PL2-em
-
-INDPRT1PL3-em
-
-INDPRT1CONNEG-em
-
-INDPRT1PL3CONNEG-em
-
-### PRETERIT 2
-
-#### am
-INDPRT2SG1-am
-
-INDPRT2SG2-am
-
-INDPRT2SG3-am
-
-INDPRT2PL1-am
-
-INDPRT2PL2-am
-
-INDPRT2PL3-am
-
-INDPRT2NEG-am
-INDPRT2NEG-am
-INDPRT2NEG-am
-INDPRT2NEG-am
-INDPRT2NEG-am
-INDPRT2NEG-am
-INDPRT2NEG-am
-
-#### em
-
-
-
-
-
-
-
-
-INDPRT2NEG-am
-INDPRT2NEG-am
-INDPRT2NEG-am
-INDPRT2NEG-am
-INDPRT2NEG-am
-INDPRT2NEG-am
-
-### IMPERATIVE
-
-
-IMPRTSG2-am
-
-IMPRTSG3-am
-
-IMPRTPL2-am
-
-IMPRTPL3-am
-
-IMPRTIISG2-am
-
-IMPRTIIPL2-am
-
-
-
-
-
-
-
-
-### DESIDERATIVE
-DES-am
-DESSG1-am
-DESSG2-am
-DESSG3-am
-DESPL1-am
-DESPL2-am
-DESPL3-am
-
-DES-em
-DESSG1-em
-DESSG2-em
-DESSG3-em
-DESPL1-em
-DESPL2-em
-DESPL3-em
-
-
-### INFINITIVE
-
-
-INF
-
-NEG-PRC
-
-PASS-PRC
-
-
-INF_BACK
-
-NEG-PRC_BACK
-
-PASS-PRC_BACK
-
-ACT-PRC_BACK
-
-INF_FRONT
-
-NEG-PRC_FRONT
-
-PASS-PRC_FRONT
-
-ACT-PRC_FRONT
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/verbs.lexc)</small># Proper noun inflection
-
-Hill Mari proper nouns inflect in the same cases as regular
-nouns
-
-PROP_
-
-
-
-PROP-PLC_
-
-PROP_KOL_PLC
-
-PROP_KOL_FEM
-
-PROP_OLMA_FEM
-
-PROP_OLMA_MAL
-
-PROP_OLMA_PLC
-
-PROP_KOL_MAL
-
- LEXICON PROP_KOL  кол:кол
-PROP_KOL
-
-PROP-PLC_MOER
-
-PROP_MOER
-
-
-
-
-PROP-PLC_TYERVYE
-
- * **LEXICON PROP_TYERVYE** тӹрвӹ:тӹрвӹ
-PROP_TYERVYE
-The stem vowel "е" is found with possessor indices and the lative
-
-PROP-PLC_OLMA
-
-
-
- LEXICON PROP_OLMA  кол:кол
-
- * **LEXICON PROP_KARTA** карта:карта
-а is specific to the +Sg+Nom, elsewhere ы or ӹ
-
-
-
-
-## Male given name for deriving patronyms
-
-
-
-
-
-
-
-Вили:Вил
-
-
-## Female Given names
-
-Prop-kal_fem
-
-Prop-lak_fem
-
-Prop-kit_fem
-
-... etc.
-
-
-
-
-
-
-
-Russian type Surnames
-Абдеев:Абдеев
-
-Багрий:Багр
-
-Аморский:Аморск
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/propernouns.lexc)</small>$ Quantifiers
-----
-
-Hill Mari (Western Mari) numerals...
-
-NUM_
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/quantifiers.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/quantifiers.lexc)</small># Noun inflection
-----
-
-## Ad hoc lexica
-
-
-
-
- * **LEXICON N_**
-
-## Substandard lexica
-
- * **LEXICON N_KOL_SUB**
-
- * **LEXICON N_TYERVYE_SUB**
-
-
-
-## Standard lexica 
-
- LEXICON N_KOL  кол:кол
-Back harmony
-
- LEXICON N_MOER  мӧр:мӧр
-Front harmony
-
- * **LEXICON N_MARY** мары:мары
-The stem vowel "е" is found with possessor indices and the lative
-Back harmony
-
- * **LEXICON N_TYERVYE** тӹрвӹ:тӹрвӹ
-The stem vowel "е" is found with possessor indices and the lative
-Front harmony
-
-N_KARTA_SUB
-
- * **LEXICON N_KARTA** карта:карта
-а is specific to the +Sg+Nom, elsewhere ы or ӹ
-Back harmony
-
- * **LEXICON N_BIRZHA** биржа:биржа
-а is specific to the +Sg+Nom, elsewhere  ӹ
-Front harmony
-
- * **LEXICON N_VAREN1E** варенье:варенье
-е is specific to the +Sg+Nom, elsewhere  ӹ
-Front harmony
-
- LEXICON N_POCHTA   почта:почта
-
- LEXICON N_OLMA   олма:олма
-Back harmony
-
- LEXICON N_AEZAE   ӓзӓ:ӓзӓ
-Front harmony
-
- LEXICON N_PECHEN1E   печенье:печенье
-Front harmony
-
- LEXICON NMN_KOL  кол:кол
-Back harmony
-
-
- LEXICON NMN_MOER  мӧр:мӧр
-Front harmony
-
-
- * **LEXICON NMN_MARY** мары:мары
-The stem vowel "е" is found with possessor indices and the lative
-Back harmony
-
-
- * **LEXICON NMN_TYERVYE** тӹрвӹ:тӹрвӹ
-The stem vowel "е" is found with possessor indices and the lative
-Front harmony
-
-
- * **LEXICON NMN_KARTA** карта:карта
-Back а/ы
-а is specific to the +Sg+Nom, elsewhere ы
-
-
- * **LEXICON NMN_BIRZHA** биржа:биржа
-Front а/ӹ
-а is specific to the +Sg+Nom, elsewhere ӹ
-
- * ** :%>ӹ NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ; ** %>влӓ
-
- * **LEXICON NMN_VAREN1E** варенье:варенье
-Front е/ӹ
-е is specific to the +Sg+Nom, elsewhere ӹ
-
- * ** :%>ӹ NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ; ** %>влӓ
-
- LEXICON NMN_OLMA   олма:олма
-Back harmony
-
-
-
- LEXICON NMN_AEZAE   ӓзӓ:ӓзӓ
-Front harmony
-
-
-
- LEXICON NMN_PECHEN1E   печенье:печенье
-Front harmony
-
-
- LEXICON N_AEVAE   ӓвӓ:ӓвӓ
-
-
-
-
-
-
-
-
-
-
-
-PxSg1+NB+CASE
-singular possessa
-
-
-
-PxSg1+NB+CASE
-singular possessa
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-PXSG3
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/nouns.lexc)</small># Clitics
-----
-
-Hill Mari (Western Mari) adverbial clitics are not bound by POS.
-
-K
-
-WORDEND
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/clitics.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/clitics.lexc)</small>
-# Symbol affixes
-
-Noun_symbols_possibly_inflected
-
-Noun_symbols_never_inflected
-
-SYMBOL_connector
-
-SYMBOL_NO_suff
-
-SYMBOL_suff
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/symbols.lexc)</small># Hill Mari adjective inflection
-
-
-This file contains a handful of lexica, each with 3 subentries. The two first ones give +Pos+Attr dn +Comp:рак, respectively, whereeas the third entry gives a *+Der/N* tag and redirects to the relevant noun lexica for case inflection
-
-
-## Temporary lexicon
- * **LEXICON A-ADN_**  = This adjective only occurs with a head word in an adnominal phrase
-
-
-
-## Ordinary lexica
-
- * **LEXICON A_** has *aä* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_OLMA. 
-This should be neutral 2013-05-11
-
- * **LEXICON A_OLMA** has  *back* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_OLMA.
-
- * **LEXICON A_AEZAE** has *front* trigger, gets +Pos, +Comp, or goes via Der/N to NMN_AAEZAE.
-
- * **LEXICON A_MARY** has *back* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_MARY.
-
- * **LEXICON A_TYERVYE** har *front* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_TYERVYE.
-
- * **LEXICON A_KOL** has *back* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_KOL.
- +Der+Der/N+N:%{back%} NMN_KOL ; The +N tag is given here to curtail over generation from derived nouns
-
- * **LEXICON A_MOER** has *front* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_MOER.
-  +Der+Der/N+N:%{front%} NMN_MOER ; The +N tag is given here to curtail over generation from derived nouns
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/adjectives.lexc)</small>This is where new words are added as lexc entries before they are 
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/phonology.twolc)</small>This is where new words are added as lexc entries before they are 
 added to the xml source files.
 йолтишкӓ+N+Prop:йолтишкӓ PROP_OLMA "(eng) /(fin) /(rus) " ;
 
@@ -2215,17 +1382,6 @@ Prefixes in the Western Mari language are bound to beginning of other words.
 * * *
 <small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/stems/prefixes.lexc)</small>This is where new words are added as lexc entries before they are 
 added to the xml source files.
-йолтишкӓ+N:йолтишкӓ A_OLMA "(eng) /(fin) /(rus) " ;
-
-
-ADD NOUNS BELOW
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns_newwords.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/stems/nouns_newwords.lexc)</small>This is where new words are added as lexc entries before they are 
-added to the xml source files.
 йолтишкӓ:йолтишкӓ A_OLMA "(eng) /(fin) /(rus) " ;
 
 
@@ -2245,7 +1401,18 @@ PROPER PATRONYMS
 
 PROPER PLACE NAMES
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/exceptions.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/stems/exceptions.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/stems/exceptions.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/stems/exceptions.lexc)</small>This is where new words are added as lexc entries before they are 
+added to the xml source files.
+йолтишкӓ+N:йолтишкӓ A_OLMA "(eng) /(fin) /(rus) " ;
+
+
+ADD NOUNS BELOW
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns_newwords.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/stems/nouns_newwords.lexc)</small>
 # Western Mari morphological analyser                      
 
 The file declares the numticharacter symbols of Western Mari, and gives the **Root** lexicon.
@@ -2690,6 +1857,839 @@ ENDLEX goes to # for now.
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/root.lexc)</small>
+# Symbol affixes
+
+Noun_symbols_possibly_inflected
+
+Noun_symbols_never_inflected
+
+SYMBOL_connector
+
+SYMBOL_NO_suff
+
+SYMBOL_suff
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/symbols.lexc)</small># Noun inflection
+----
+
+## Ad hoc lexica
+
+
+
+
+ * **LEXICON N_**
+
+## Substandard lexica
+
+ * **LEXICON N_KOL_SUB**
+
+ * **LEXICON N_TYERVYE_SUB**
+
+
+
+## Standard lexica 
+
+ LEXICON N_KOL  кол:кол
+Back harmony
+
+ LEXICON N_MOER  мӧр:мӧр
+Front harmony
+
+ * **LEXICON N_MARY** мары:мары
+The stem vowel "е" is found with possessor indices and the lative
+Back harmony
+
+ * **LEXICON N_TYERVYE** тӹрвӹ:тӹрвӹ
+The stem vowel "е" is found with possessor indices and the lative
+Front harmony
+
+N_KARTA_SUB
+
+ * **LEXICON N_KARTA** карта:карта
+а is specific to the +Sg+Nom, elsewhere ы or ӹ
+Back harmony
+
+ * **LEXICON N_BIRZHA** биржа:биржа
+а is specific to the +Sg+Nom, elsewhere  ӹ
+Front harmony
+
+ * **LEXICON N_VAREN1E** варенье:варенье
+е is specific to the +Sg+Nom, elsewhere  ӹ
+Front harmony
+
+ LEXICON N_POCHTA   почта:почта
+
+ LEXICON N_OLMA   олма:олма
+Back harmony
+
+ LEXICON N_AEZAE   ӓзӓ:ӓзӓ
+Front harmony
+
+ LEXICON N_PECHEN1E   печенье:печенье
+Front harmony
+
+ LEXICON NMN_KOL  кол:кол
+Back harmony
+
+
+ LEXICON NMN_MOER  мӧр:мӧр
+Front harmony
+
+
+ * **LEXICON NMN_MARY** мары:мары
+The stem vowel "е" is found with possessor indices and the lative
+Back harmony
+
+
+ * **LEXICON NMN_TYERVYE** тӹрвӹ:тӹрвӹ
+The stem vowel "е" is found with possessor indices and the lative
+Front harmony
+
+
+ * **LEXICON NMN_KARTA** карта:карта
+Back а/ы
+а is specific to the +Sg+Nom, elsewhere ы
+
+
+ * **LEXICON NMN_BIRZHA** биржа:биржа
+Front а/ӹ
+а is specific to the +Sg+Nom, elsewhere ӹ
+
+ * ** :%>ӹ NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ; ** %>влӓ
+
+ * **LEXICON NMN_VAREN1E** варенье:варенье
+Front е/ӹ
+е is specific to the +Sg+Nom, elsewhere ӹ
+
+ * ** :%>ӹ NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ; ** %>влӓ
+
+ LEXICON NMN_OLMA   олма:олма
+Back harmony
+
+
+
+ LEXICON NMN_AEZAE   ӓзӓ:ӓзӓ
+Front harmony
+
+
+
+ LEXICON NMN_PECHEN1E   печенье:печенье
+Front harmony
+
+
+ LEXICON N_AEVAE   ӓвӓ:ӓвӓ
+
+
+
+
+
+
+
+
+
+
+
+PxSg1+NB+CASE
+singular possessa
+
+
+
+PxSg1+NB+CASE
+singular possessa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PXSG3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/nouns.lexc)</small>
+# Compounding
+
+Does Hill Mari have anything like LEXICON R and %- N ;
+
+
+## Interj lexica
+
+ * LEXICON INTERJ_  
+
+
+## Postp lexica
+
+
+
+ * LEXICON POSTP_  
+
+ * LEXICON Ad-A_ 
+
+ADV_ 
+
+
+
+
+
+
+
+Temporal tags with cases
+
+ * LEXICON ADV-TEMP_  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adverbs.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/adverbs.lexc)</small># Hill Mari adjective inflection
+
+
+This file contains a handful of lexica, each with 3 subentries. The two first ones give +Pos+Attr dn +Comp:рак, respectively, whereeas the third entry gives a *+Der/N* tag and redirects to the relevant noun lexica for case inflection
+
+
+## Temporary lexicon
+ * **LEXICON A-ADN_**  = This adjective only occurs with a head word in an adnominal phrase
+
+
+
+## Ordinary lexica
+
+ * **LEXICON A_** has *aä* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_OLMA. 
+This should be neutral 2013-05-11
+
+ * **LEXICON A_OLMA** has  *back* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_OLMA.
+
+ * **LEXICON A_AEZAE** has *front* trigger, gets +Pos, +Comp, or goes via Der/N to NMN_AAEZAE.
+
+ * **LEXICON A_MARY** has *back* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_MARY.
+
+ * **LEXICON A_TYERVYE** har *front* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_TYERVYE.
+
+ * **LEXICON A_KOL** has *back* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_KOL.
+ +Der+Der/N+N:%{back%} NMN_KOL ; The +N tag is given here to curtail over generation from derived nouns
+
+ * **LEXICON A_MOER** has *front* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_MOER.
+  +Der+Der/N+N:%{front%} NMN_MOER ; The +N tag is given here to curtail over generation from derived nouns
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/adjectives.lexc)</small># Pronouns
+----
+
+Hill Mari (Western Mari) pronouns...
+
+PRON_
+
+PERS-SG1
+
+PERS-SG2
+
+PERS-SG3
+
+PERS-PL1
+
+PERS-PL2
+
+PERS-PL3 нӹнӹ:нӹнӹ
+
+REFL ӹшке:ӹшк
+
+
+
+
+
+
+
+ LEXICON DEM-SG  тидӹ:ти
+
+
+ LEXICON DEM-PL  нинӹ:ни
+Plural pronoun with additional plural marking
+
+
+DemTag
+What are these тӹдӹмӓт, тӹдӹлӓнӓт
+
+Dem-Cx
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/pronouns.lexc)</small># Clitics
+----
+
+Hill Mari (Western Mari) adverbial clitics are not bound by POS.
+
+K
+
+WORDEND
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/clitics.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/clitics.lexc)</small>$ Quantifiers
+----
+
+Hill Mari (Western Mari) numerals...
+
+NUM_
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/quantifiers.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/quantifiers.lexc)</small># Hill Mari (Western Mari) verb inflection
+
+## Irregular lexica
+
+Also lexica for +Hom tags
+
+ * **LEXICON VAux** = auxiliaries 
+
+ * **LEXICON V_AM-HOM1** homonyms @hid=Hom1
+
+ * **LEXICON V_EM-HOM2** homonyms @hid=Hom2
+
+ * **LEXICON V_AM_SUB** substandard
+
+ * **LEXICON V_EM_SUB** substandard
+
+## Regular verbs
+
+Both *-am* and *-em* verbs and their subgroups.
+
+### V_AM verbs
+
+
+LEXICON V_IAEM
+Approximately 619 2014-12-21
+Front Vowel harmony for V_AM verbs
+LEXICON V_IAEM-SG3
+Approximately 4 2014-12-21
+Front Vowel harmony for V_AM-SG3 verbs
+LEXICON V_IAEM-3
+Approximately 2 2014-12-21
+Front Vowel harmony for V_AM-3 verbs
+
+LEXICON V_MOAM
+Approximately 465 2014-12-21
+Back Vowel harmony for  V_AM	verbs
+LEXICON V_MOAM-SG3
+Approximately 2 2014-12-21
+Back Vowel harmony for  V_AM-SG3 verbs
+Approximately 1 2014-12-21
+Back Vowel harmony for  V_AM-3 verbs
+
+### STEM CHANGE
+LEXICON V_PYECHKAEM
+Approximately 12 2014-12-21
+Back Vowel harmony for  V_AM verbs
+LEXICON V_PYECHKAEM-SG3
+Approximately 0 2014-12-21
+Back Vowel harmony for  V_AM-SG3 verbs
+LEXICON V_PYECHKAEM-3
+Approximately 0 2014-12-21
+Back Vowel harmony for  V_AM-3 verbs
+
+LEXICON V_KACHKAM
+Approximately 11 2014-12-21
+Back Vowel harmony for  V_AM verbs
+LEXICON V_KACHKAM-SG3
+Approximately 0 2014-12-21
+Back Vowel harmony for  V_AM-SG3 verbs
+LEXICON V_KACHKAM-3
+Approximately 0 2014-12-21
+Back Vowel harmony for  V_AM-3 verbs
+
+### V_EM verbs
+
+LEXICON V_KACHKAM-3
+Approximately 1052 2014-12-21
+Front Vowel harmony for V_EM	verbs
+LEXICON V_KACHKAM-3
+Approximately 2 2014-12-21
+Front Vowel harmony for V_EM-SG3 verbs
+
+LEXICON V_KACHKAM-3
+Approximately 1315 2014-12-21
+Back	Vowel harmony for  V_EM verbs
+LEXICON V_KACHKAM-3
+Approximately 4 2014-12-21
+Back	Vowel harmony for  V_EM verbs
+LEXICON V_KACHKAM-3
+Approximately 1 2014-12-21
+Back	Vowel harmony for  V_EM verbs
+
+## Lexica pointing to suffix lexica
+
+### Intermediate AM lexica
+
+ LEXICON V_AM  ӹштӓш:ӹшт
+
+
+
+
+
+
+
+
+
+пелӓш: онг пелеш
+What else is needed 2014-05-08
+
+### Intermediate EM lexcia
+
+
+
+хӹдӹртӓш: хӹдӹртӹ
+What else is needed 2014-05-08
+
+
+ * **LEXICON V_EM** колташ:колты
+
+
+
+
+
+
+
+
+
+## Suffix lexica
+
+### NONPAST
+
+#### am verbs
+
+INDPRSSG1-am
+
+INDPRSSG2-am
+
+INDPRSSG3-am
+
+INDPRSPL1-am
+
+INDPRSPL2-am
+
+INDPRSPL3-am
+
+INDPRSCONNEG-am
+
+INDPRSPL3CONNEG-am
+
+#### em verbs
+
+INDPRSSG1-em
+
+INDPRSSG2-em
+
+INDPRSSG3-em
+
+
+
+INDPRSPL3-em
+
+
+
+
+
+### PRETERIT 1
+
+#### am
+
+INDPRT1SG1-am
+
+INDPRT1SG2-am
+
+INDPRT1SG3-am
+
+INDPRT1PL1-am
+
+INDPRT1PL2-am
+
+INDPRT1PL3-am
+
+INDPRT1CONNEG-am
+
+INDPRT1PL3CONNEG-am
+
+#### em
+
+INDPRT1SG1-em
+
+INDPRT1SG2-em
+
+INDPRT1SG3-em
+
+INDPRT1PL1-em
+
+INDPRT1PL2-em
+
+INDPRT1PL3-em
+
+INDPRT1CONNEG-em
+
+INDPRT1PL3CONNEG-em
+
+### PRETERIT 2
+
+#### am
+INDPRT2SG1-am
+
+INDPRT2SG2-am
+
+INDPRT2SG3-am
+
+INDPRT2PL1-am
+
+INDPRT2PL2-am
+
+INDPRT2PL3-am
+
+INDPRT2NEG-am
+INDPRT2NEG-am
+INDPRT2NEG-am
+INDPRT2NEG-am
+INDPRT2NEG-am
+INDPRT2NEG-am
+INDPRT2NEG-am
+
+#### em
+
+
+
+
+
+
+
+
+INDPRT2NEG-am
+INDPRT2NEG-am
+INDPRT2NEG-am
+INDPRT2NEG-am
+INDPRT2NEG-am
+INDPRT2NEG-am
+
+### IMPERATIVE
+
+
+IMPRTSG2-am
+
+IMPRTSG3-am
+
+IMPRTPL2-am
+
+IMPRTPL3-am
+
+IMPRTIISG2-am
+
+IMPRTIIPL2-am
+
+
+
+
+
+
+
+
+### DESIDERATIVE
+DES-am
+DESSG1-am
+DESSG2-am
+DESSG3-am
+DESPL1-am
+DESPL2-am
+DESPL3-am
+
+DES-em
+DESSG1-em
+DESSG2-em
+DESSG3-em
+DESPL1-em
+DESPL2-em
+DESPL3-em
+
+
+### INFINITIVE
+
+
+INF
+
+NEG-PRC
+
+PASS-PRC
+
+
+INF_BACK
+
+NEG-PRC_BACK
+
+PASS-PRC_BACK
+
+ACT-PRC_BACK
+
+INF_FRONT
+
+NEG-PRC_FRONT
+
+PASS-PRC_FRONT
+
+ACT-PRC_FRONT
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/verbs.lexc)</small># Proper noun inflection
+
+Hill Mari proper nouns inflect in the same cases as regular
+nouns
+
+PROP_
+
+
+
+PROP-PLC_
+
+PROP_KOL_PLC
+
+PROP_KOL_FEM
+
+PROP_OLMA_FEM
+
+PROP_OLMA_MAL
+
+PROP_OLMA_PLC
+
+PROP_KOL_MAL
+
+ LEXICON PROP_KOL  кол:кол
+PROP_KOL
+
+PROP-PLC_MOER
+
+PROP_MOER
+
+
+
+
+PROP-PLC_TYERVYE
+
+ * **LEXICON PROP_TYERVYE** тӹрвӹ:тӹрвӹ
+PROP_TYERVYE
+The stem vowel "е" is found with possessor indices and the lative
+
+PROP-PLC_OLMA
+
+
+
+ LEXICON PROP_OLMA  кол:кол
+
+ * **LEXICON PROP_KARTA** карта:карта
+а is specific to the +Sg+Nom, elsewhere ы or ӹ
+
+
+
+
+## Male given name for deriving patronyms
+
+
+
+
+
+
+
+Вили:Вил
+
+
+## Female Given names
+
+Prop-kal_fem
+
+Prop-lak_fem
+
+Prop-kit_fem
+
+... etc.
+
+
+
+
+
+
+
+Russian type Surnames
+Абдеев:Абдеев
+
+Багрий:Багр
+
+Аморский:Аморск
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/propernouns.lexc)</small>
 
 
 We describe here how abbreviations are in Western Mari are read out, e.g.
