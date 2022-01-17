@@ -6,13 +6,13 @@
 
 
 
- * **LEXICON N_**
+* **LEXICON N_**@CODE@****
 
 ## Substandard lexica
 
- * **LEXICON N_KOL_SUB**
+* **LEXICON N_KOL_SUB**@CODE@****
 
- * **LEXICON N_TYERVYE_SUB**
+* **LEXICON N_TYERVYE_SUB**@CODE@****
 
 
 
@@ -24,25 +24,25 @@ Back harmony
  LEXICON N_MOER  мӧр:мӧр
 Front harmony
 
- * **LEXICON N_MARY** мары:мары
+* **LEXICON N_MARYмары:мары** мары:мары
 The stem vowel "е" is found with possessor indices and the lative
 Back harmony
 
- * **LEXICON N_TYERVYE** тӹрвӹ:тӹрвӹ
+* **LEXICON N_TYERVYEтӹрвӹ:тӹрвӹ** тӹрвӹ:тӹрвӹ
 The stem vowel "е" is found with possessor indices and the lative
 Front harmony
 
 N_KARTA_SUB
 
- * **LEXICON N_KARTA** карта:карта
+* **LEXICON N_KARTAкарта:карта** карта:карта
 а is specific to the +Sg+Nom, elsewhere ы or ӹ
 Back harmony
 
- * **LEXICON N_BIRZHA** биржа:биржа
+* **LEXICON N_BIRZHAбиржа:биржа** биржа:биржа
 а is specific to the +Sg+Nom, elsewhere  ӹ
 Front harmony
 
- * **LEXICON N_VAREN1E** варенье:варенье
+* **LEXICON N_VAREN1Eваренье:варенье** варенье:варенье
 е is specific to the +Sg+Nom, elsewhere  ӹ
 Front harmony
 
@@ -65,28 +65,28 @@ Back harmony
 Front harmony
 
 
- * **LEXICON NMN_MARY** мары:мары
+* **LEXICON NMN_MARYмары:мары** мары:мары
 The stem vowel "е" is found with possessor indices and the lative
 Back harmony
 
 
- * **LEXICON NMN_TYERVYE** тӹрвӹ:тӹрвӹ
+* **LEXICON NMN_TYERVYEтӹрвӹ:тӹрвӹ** тӹрвӹ:тӹрвӹ
 The stem vowel "е" is found with possessor indices and the lative
 Front harmony
 
 
- * **LEXICON NMN_KARTA** карта:карта
+* **LEXICON NMN_KARTAкарта:карта** карта:карта
 Back а/ы
 а is specific to the +Sg+Nom, elsewhere ы
 
 
- * **LEXICON NMN_BIRZHA** биржа:биржа
+* **LEXICON NMN_BIRZHAбиржа:биржа** биржа:биржа
 Front а/ӹ
 а is specific to the +Sg+Nom, elsewhere ӹ
 
  * ** :%>ӹ NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ; ** %>влӓ
 
- * **LEXICON NMN_VAREN1E** варенье:варенье
+* **LEXICON NMN_VAREN1Eваренье:варенье** варенье:варенье
 Front е/ӹ
 е is specific to the +Sg+Nom, elsewhere ӹ
 
