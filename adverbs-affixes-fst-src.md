@@ -6,16 +6,16 @@ Does Hill Mari have anything like LEXICON R and %- N ;
 
 ## Interj lexica
 
- * LEXICON INTERJ_  
+* LEXICON INTERJ_  
 
 
 ## Postp lexica
 
 
 
- * LEXICON POSTP_  
+* LEXICON POSTP_  
 
- * LEXICON Ad-A_ 
+* LEXICON Ad-A_ 
 
 ADV_ 
 
@@ -27,7 +27,7 @@ ADV_
 
 Temporal tags with cases
 
- * LEXICON ADV-TEMP_  
+* LEXICON ADV-TEMP_  
 
 
 

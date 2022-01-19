@@ -25,10 +25,10 @@ REFL ӹшке:ӹшк
 
 
 
- LEXICON DEM-SG  тидӹ:ти
+LEXICON DEM-SG  тидӹ:ти
 
 
- LEXICON DEM-PL  нинӹ:ни
+LEXICON DEM-PL  нинӹ:ни
 Plural pronoun with additional plural marking
 
 

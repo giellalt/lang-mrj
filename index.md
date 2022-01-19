@@ -1,15 +1,28 @@
-# Western Mari documentation
+# Western (Hill) Mari documentation
 
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
 [![License](https://img.shields.io/github/license/giellalt/lang-mrj)](https://raw.githubusercontent.com/giellalt/lang-mrj/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-mrj)](https://github.com/giellalt/lang-mrj/issues)
 [![Build status](https://github.com/giellalt/lang-mrj/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-mrj/actions)
 
-This page documents the work on the [Western Mari language model](http://github.com/giellalt/lang-mrj). 
+This page documents the work on the [Western (Hill) Mari language model](http://github.com/giellalt/lang-mrj). 
+
+It is a full-size
+model of the grammar, containing 23000 stems and a 
+morphological and morphophonological component.
+
+The analyser is in use in an e-dictionary.
+
+In case of questions, contact Julia Kuprina or Jack Rueter.
 
 # Project documentation
 
 * Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.
+
+# Resources
+
+* Generation of [paradigms](http://giellatekno.uit.no/cgi/p-mrj.fi.html)
+* [Cyrillic keyboard](https://gtsvn.uit.no/langtech/trunk/techdoc/keyboards/download/KyrilliskQWERTY.zip)
 
 # In-source documentation
 

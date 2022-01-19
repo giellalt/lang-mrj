@@ -10,9 +10,9 @@ The morphological analyses of wordforms for the Western Mari
 language are presented in this system in terms of the following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
 
-* **+Ex/Ndisambiguation.** - This tag is not added in lexc. The POS tag before derivation is converted into this tag when compiling FST for disambiguation.
-* **+Ex/Adisambiguation.** - This tag is not added in lexc. The POS tag before derivation is converted into this tag when compiling FST for disambiguation.
-* **+Ex/Vdisambiguation.** - This tag is not added in lexc. The POS tag before derivation is converted into this tag when compiling FST for disambiguation.
+* **+Ex/N** - This tag is not added in lexc. The POS tag before derivation is converted into this tag when compiling FST for disambiguation.
+* **+Ex/A** - This tag is not added in lexc. The POS tag before derivation is converted into this tag when compiling FST for disambiguation.
+* **+Ex/V** - This tag is not added in lexc. The POS tag before derivation is converted into this tag when compiling FST for disambiguation.
 
 
 #### The parts-of-speech tags:
@@ -21,39 +21,39 @@ language are presented in this system in terms of the following symbols.
 * **+Prop** is a noun subtag  
 
 #### Subtags for pronouns
-* **+Demdemonstrative**:  demonstrative
-* **+Indefindefinite**:  indefinite
-* **+Depӹшке**:  dependent word requiring the presence of noun, e.g. ӹшке
-* **+Interrinterrogative**:  interrogative
-* **+Perspersonal**:  personal
-* **+Reciprreciprocal**:  reciprocal
-* **+Reflreflexive**:  reflexive
-* **+Relrelative**:  relative
+* **+Dem**:  demonstrative
+* **+Indef**:  indefinite
+* **+Dep**:  dependent word requiring the presence of noun, e.g. ӹшке
+* **+Interr**:  interrogative
+* **+Pers**:  personal
+* **+Recipr**:  reciprocal
+* **+Refl**:  reflexive
+* **+Rel**:  relative
 
 #### Tags for nominals  nominals 
 * **+Sg +Du +Pl** 
 * **+Ess +Nom +Gen +Acc +Ill +Loc +Com +Com/Sh +Cmpr** 
-* **+PxSg1 +PxSg2 +PxSg3 +PxDu1 +PxDu2 +PxDu3 +PxPl1 +PxPl2 +PxPl3suffixes** = Possessive suffixes
-* **+Pos +Comp +Superlcomparative** =  The comparative
+* **+PxSg1 +PxSg2 +PxSg3 +PxDu1 +PxDu2 +PxDu3 +PxPl1 +PxPl2 +PxPl3** = Possessive suffixes
+* **+Pos +Comp +Superl** =  The comparative
 * **+Attr +Ord** = 
 
 #### Tags for numerals 
 * **+Card** = 
 
 #### Tags for verbs
-* **+Auxauxiliary** auxiliary
-* **+Ind +Prs +Prt1 +Prt2 +Pot +Cond +Imprtmoods** =  Verb moods
-* **+Sg1 +Sg2 +Sg3 +Du1 +Du2 +Du3 +Pl1 +Pl2 +Pl3forms** = Verb personal forms
-* **+Infinfinitive** = infinitive
-* **+Gergerund** = gerund
+* **+Aux** auxiliary
+* **+Ind +Prs +Prt1 +Prt2 +Pot +Cond +Imprt** =  Verb moods
+* **+Sg1 +Sg2 +Sg3 +Du1 +Du2 +Du3 +Pl1 +Pl2 +Pl3** = Verb personal forms
+* **+Inf** = infinitive
+* **+Ger** = gerund
 * **+ConNeg +ConNegII +Neg** = 
-* **+ImprtIIыма** =  ыма
-* **+ActЫшЫ** =  Prc active participle ЫшЫ
-* **+Pass +PrcЫмЫ** =  passive participle ЫмЫ
-* **+NegPrcЫдЫмЫ** =  negative passive participle ЫдЫмЫ
+* **+ImprtII** =  ыма
+* **+Act** =  Prc active participle ЫшЫ
+* **+Pass +Prc** =  passive participle ЫмЫ
+* **+NegPrc** =  negative passive participle ЫдЫмЫ
 * **+Sup +VGen +VAbess** = 
 * **+FutPrc** = 
-* **+TV +IVtransitivity:** =  to transitivity:
+* **+TV +IV** =  to transitivity:
 
 
 #### Usage tags:
@@ -67,10 +67,10 @@ language are presented in this system in terms of the following symbols.
 
 #### Other tags words
 * **+ABBR +ACR** = 
-* **+Symbol©** = independent symbols in the text stream, like £, €, ©
+* **+Symbol** = independent symbols in the text stream, like £, €, ©
 * **+CLB +PUNCT +LEFT +RIGHT** = 
-* **+Multiunits** = !! multiword units
-* **+Guessuse** = Non-dictionary words (probably not in  use
+* **+Multi** = !! multiword units
+* **+Guess** = Non-dictionary words (probably not in  use
 
 #### Question and Focus particles:
 * **+Qst +Foc** = 
@@ -92,98 +92,98 @@ language are presented in this system in terms of the following symbols.
 
 ### Semantic tags
 
-* **+Sem/ActActivity** Activity
-* **+Sem/AmountAmount** Amount
-* **+Sem/AniAnimate** Animate
-* **+Sem/AniprodProduct** Animal Product
-* **+Sem/BodyBodypart** Bodypart
-* **+Sem/Body-abstrjierbmi** siellu, vuoig?a, jierbmi
-* **+Sem/BuildBuilding** Building
-* **+Sem/Build-partcloset** Part of Bulding, like the closet
-* **+Sem/CatCategory** Category
-* **+Sem/ClthClothes** Clothes
-* **+Sem/Clth-jewlJewelery** Jewelery
-* **+Sem/Clth-partsávdnji...** part of clothes, boallu, sávdnji...
-* **+Sem/CtainContainer** Container
-* **+Sem/Ctain-abstraccount** Abstract container like bank account
-* **+Sem/Ctain-clth**@CODE@****
-* **+Sem/CurrMoney** Currency like dollár, Not Money
-* **+Sem/DanceDance** Dance
-* **+Sem/DirGPS-kursa** Direction like GPS-kursa
-* **+Sem/Domainactions)** Domain like politics, reindeerherding (a system of actions)
-* **+Sem/DrinkDrink** Drink
-* **+Sem/DummytagDummytag** Dummytag
-* **+Sem/Eduevent** Educational event
-* **+Sem/EventEvent** Event
-* **+Sem/FeatÁrvu** Feature, like Árvu
-* **+Sem/Feat-physfárda** Physiological feature, ivdni, fárda
-* **+Sem/Feat-psychfeauture** Psychological feauture
-* **+Sem/Feat-measrfeauture** Psychological feauture
-* **+Sem/Femname** Female name
-* **+Sem/FoodFood** Food
-* **+Sem/Food-medMedicine** Medicine
-* **+Sem/FurnFurniture** Furniture
-* **+Sem/GameGame** Game
-* **+Sem/Geomobject** Geometrical object
-* **+Sem/GroupGroup** Animal or Human Group
-* **+Sem/HumHuman** Human
-* **+Sem/Hum-abstrabstract** Human abstract
-* **+Sem/IdeolIdeology** Ideology
-* **+Sem/LangLanguage** Language
-* **+Sem/Malname** Male name
-* **+Sem/Matthings** Material for producing things
-* **+Sem/MeasrMeasure** Measure
-* **+Sem/MoneyCurr(ency)** Has to do with money, like wages, not Curr(ency)
-* **+Sem/ObjObject** Object
-* **+Sem/Obj-cloCloth** Cloth
-* **+Sem/Obj-cognCloth** Cloth
-* **+Sem/Obj-elapparatus** (Electrical) machine or apparatus
-* **+Sem/Obj-lingit** Object with something written on it
-* **+Sem/Obj-ropeobject** flexible ropelike object
-* **+Sem/Obj-surfcobject** Surface object
-* **+Sem/OrgOrganisation** Organisation
-* **+Sem/Partbealli** Feature, oassi, bealli
-* **+Sem/Perc-cognperception** Cognative perception
-* **+Sem/Perc-emoperception** Emotional perception
-* **+Sem/Perc-physperception** Physical perception
-* **+Sem/Perc-psychperception** Physical perception
-* **+Sem/PlantPlant** Plant
-* **+Sem/Plant-partpart** Plant part
-* **+Sem/PlcPlace** Place
-* **+Sem/Plc-abstrplace** Abstract place
-* **+Sem/Plc-elevatePlace** Place
-* **+Sem/Plc-linePlace** Place
-* **+Sem/Plc-waterPlace** Place
-* **+Sem/Posjob)** Position (as in social position job)
-* **+Sem/ProcessProcess** Process
-* **+Sem/ProdProduct** Product
-* **+Sem/Prod-audioproduct** Audio product
-* **+Sem/Prod-cognproduct** Cognition product
-* **+Sem/Prod-lingproduct** Linguistic product
-* **+Sem/Prod-visproduct** Visual product
-* **+Sem/RelRelation** Relation
-* **+Sem/RouteRoute** Name of a Route
-* **+Sem/Ruleconvention** Rule or convention
-* **+Sem/Semconconcept** Semantic concept
+* **+Sem/Act** Activity
+* **+Sem/Amount** Amount
+* **+Sem/Ani** Animate
+* **+Sem/Aniprod** Animal Product
+* **+Sem/Body** Bodypart
+* **+Sem/Body-abstr** siellu, vuoig?a, jierbmi
+* **+Sem/Build** Building
+* **+Sem/Build-part** Part of Bulding, like the closet
+* **+Sem/Cat** Category
+* **+Sem/Clth** Clothes
+* **+Sem/Clth-jewl** Jewelery
+* **+Sem/Clth-part** part of clothes, boallu, sávdnji...
+* **+Sem/Ctain** Container
+* **+Sem/Ctain-abstr** Abstract container like bank account
+* **+Sem/Ctain-clth**
+* **+Sem/Curr** Currency like dollár, Not Money
+* **+Sem/Dance** Dance
+* **+Sem/Dir** Direction like GPS-kursa
+* **+Sem/Domain** Domain like politics, reindeerherding (a system of actions)
+* **+Sem/Drink** Drink
+* **+Sem/Dummytag** Dummytag
+* **+Sem/Edu** Educational event
+* **+Sem/Event** Event
+* **+Sem/Feat** Feature, like Árvu
+* **+Sem/Feat-phys** Physiological feature, ivdni, fárda
+* **+Sem/Feat-psych** Psychological feauture
+* **+Sem/Feat-measr** Psychological feauture
+* **+Sem/Fem** Female name
+* **+Sem/Food** Food
+* **+Sem/Food-med** Medicine
+* **+Sem/Furn** Furniture
+* **+Sem/Game** Game
+* **+Sem/Geom** Geometrical object
+* **+Sem/Group** Animal or Human Group
+* **+Sem/Hum** Human
+* **+Sem/Hum-abstr** Human abstract
+* **+Sem/Ideol** Ideology
+* **+Sem/Lang** Language
+* **+Sem/Mal** Male name
+* **+Sem/Mat** Material for producing things
+* **+Sem/Measr** Measure
+* **+Sem/Money** Has to do with money, like wages, not Curr(ency)
+* **+Sem/Obj** Object
+* **+Sem/Obj-clo** Cloth
+* **+Sem/Obj-cogn** Cloth
+* **+Sem/Obj-el** (Electrical) machine or apparatus
+* **+Sem/Obj-ling** Object with something written on it
+* **+Sem/Obj-rope** flexible ropelike object
+* **+Sem/Obj-surfc** Surface object
+* **+Sem/Org** Organisation
+* **+Sem/Part** Feature, oassi, bealli
+* **+Sem/Perc-cogn** Cognative perception
+* **+Sem/Perc-emo** Emotional perception
+* **+Sem/Perc-phys** Physical perception
+* **+Sem/Perc-psych** Physical perception
+* **+Sem/Plant** Plant
+* **+Sem/Plant-part** Plant part
+* **+Sem/Plc** Place
+* **+Sem/Plc-abstr** Abstract place
+* **+Sem/Plc-elevate** Place
+* **+Sem/Plc-line** Place
+* **+Sem/Plc-water** Place
+* **+Sem/Pos** Position (as in social position job)
+* **+Sem/Process** Process
+* **+Sem/Prod** Product
+* **+Sem/Prod-audio** Audio product
+* **+Sem/Prod-cogn** Cognition product
+* **+Sem/Prod-ling** Linguistic product
+* **+Sem/Prod-vis** Visual product
+* **+Sem/Rel** Relation
+* **+Sem/Route** Name of a Route
+* **+Sem/Rule** Rule or convention
+* **+Sem/Semcon** Semantic concept
 * **+Sem/Sign** Sign (e.g. numbers, punctuation) 
-* **+Sem/SportSport** Sport
+* **+Sem/Sport** Sport
 * **+Sem/State** 
-* **+Sem/State-sickIllness** Illness
-* **+Sem/SubstncWater** Substance, like Air and Water
-* **+Sem/SurSurname** Surname
-* **+Sem/SymbolSymbol** Symbol
-* **+Sem/TimeTime** Time
-* **+Sem/Toolthings** Prototypical tool for repairing things
-* **+Sem/Tool-catchfish)** Tool used for catching (e.g. fish)
-* **+Sem/Tool-cleancleaning** Tool used for cleaning
-* **+Sem/Tool-itIT** Tool used in IT
-* **+Sem/Tool-measrmeasuring** Tool used for measuring
-* **+Sem/Tool-musicinstrument** Music instrument
-* **+Sem/Tool-writetool** Writing tool
-* **+Sem/Txtlávlla...)** Text (girji, lávlla...)
-* **+Sem/VehVehicle** Vehicle
-* **+Sem/WpnWeapon** Weapon
-* **+Sem/Wthrground** The Weather or the state of ground
+* **+Sem/State-sick** Illness
+* **+Sem/Substnc** Substance, like Air and Water
+* **+Sem/Sur** Surname
+* **+Sem/Symbol** Symbol
+* **+Sem/Time** Time
+* **+Sem/Tool** Prototypical tool for repairing things
+* **+Sem/Tool-catch** Tool used for catching (e.g. fish)
+* **+Sem/Tool-clean** Tool used for cleaning
+* **+Sem/Tool-it** Tool used in IT
+* **+Sem/Tool-measr** Tool used for measuring
+* **+Sem/Tool-music** Music instrument
+* **+Sem/Tool-write** Writing tool
+* **+Sem/Txt** Text (girji, lávlla...)
+* **+Sem/Veh** Vehicle
+* **+Sem/Wpn** Weapon
+* **+Sem/Wthr** The Weather or the state of ground
 
 
 
@@ -324,14 +324,14 @@ source and target part-of-speech.
 * **+Der/шЫ** =          
 * **+Der/мЫ** =          
 * **+Der/дЫмЫ** =          
-* **+Der/Nderivation** =        !! Noun derivation
+* **+Der/N** =        !! Noun derivation
 * **+Foc/Ат** =          
-* **+Foc/окalso** = too, also
+* **+Foc/ок** = too, also
 
 
 * **+Ine** = 
 * **+Conj** = 
-* **+WORKError?** = Error?
+* **+WORK** = Error?
 * **+Abe** = 
 * **+Hom3** = 
 * **+Temp** = 
@@ -355,15 +355,15 @@ symbols in the lexicon files:
 * **+Err/Sub** used in noun affix onset ine, ill
 
 * **%{ыӹ%} %{аӓ%} А2 Е2 Е3** = 
-* **Ь2+Prt1+Sg1** =  V_АМ +Prt1+Sg1
+* **Ь2** =  V_АМ +Prt1+Sg1
 * **%{front%} %{back%}** = for front/back suffixes 
 
 ## Lexeme disambiguation tags
-* **+Hom1lexc** : Homonymy толам used in l element and lexc
-* **+Hom2lexc** : Homonymy колем used in l element and lexc
-* **%^ConsTransfts**  k loss in am-verbs, also z to ts
-* **%^KINмӱэмӹн**  with kin terms for ӓвӓмӹн not мӱэмӹн
-* **%^А2ЫӸвитринӹн**  with карта and картын витринӹн
+* **+Hom1** : Homonymy толам used in l element and lexc
+* **+Hom2** : Homonymy колем used in l element and lexc
+* **%^ConsTransf**  k loss in am-verbs, also z to ts
+* **%^KIN**  with kin terms for ӓвӓмӹн not мӱэмӹн
+* **%^А2ЫӸ**  with карта and картын витринӹн
 * **+Cmp** = 
 
 ## Flag diacritics
@@ -373,9 +373,9 @@ with verbs if the verb is further derived into a noun again:
 
 |   Flag | Comment
 | --- | --- 
-|  **@P.NeedNoun.ON@nominalised** | (Dis)allow compounds with verbs unless nominalised
-|  **@D.NeedNoun.ON@nominalised** | (Dis)allow compounds with verbs unless nominalised
-|  **@C.NeedNoun@nominalised** | (Dis)allow compounds with verbs unless nominalised
+|  **@P.NeedNoun.ON@** | (Dis)allow compounds with verbs unless nominalised
+|  **@D.NeedNoun.ON@** | (Dis)allow compounds with verbs unless nominalised
+|  **@C.NeedNoun@** | (Dis)allow compounds with verbs unless nominalised
 
 For languages that allow compounding, the following flag diacritics are needed
 to control position-based compounding restrictions for nominals. Their use is
@@ -384,14 +384,14 @@ do no harm.
 
 |   Flag | Comment
 | --- | --- 
-|  **@P.CmpFrst.FALSE@first** | Require that words tagged as such only appear first
-|  **@D.CmpPref.TRUE@ENDLEX** | Block such words from entering ENDLEX
-|  **@P.CmpPref.FALSE@compounds** | Block these words from making further compounds
-|  **@D.CmpLast.TRUE@R** | Block such words from entering R
-|  **@D.CmpNone.TRUE@compounding** | Combines with the next tag to prohibit compounding
-|  **@U.CmpNone.FALSE@compounding** | Combines with the prev tag to prohibit compounding
-|  **@P.CmpOnly.TRUE@R** | Sets a flag to indicate that the word has passed R
-|  **@D.CmpOnly.FALSE@root.** | Disallow words coming directly from root.
+|  **@P.CmpFrst.FALSE@** | Require that words tagged as such only appear first
+|  **@D.CmpPref.TRUE@** | Block such words from entering ENDLEX
+|  **@P.CmpPref.FALSE@** | Block these words from making further compounds
+|  **@D.CmpLast.TRUE@** | Block such words from entering R
+|  **@D.CmpNone.TRUE@** | Combines with the next tag to prohibit compounding
+|  **@U.CmpNone.FALSE@** | Combines with the prev tag to prohibit compounding
+|  **@P.CmpOnly.TRUE@** | Sets a flag to indicate that the word has passed R
+|  **@D.CmpOnly.FALSE@** | Disallow words coming directly from root.
 
 Use the following flag diacritics to control downcasing of derived proper
 nouns (e.g. Finnish Pariisi -> pariisilainen). See e.g. North Sámi for how to use
@@ -400,8 +400,8 @@ given the proper use of these flags.
 
 |   Flag | Comment
 | --- | --- 
-|  **@U.Cap.Obl@deatnulasj.** | Allowing downcasing of derived names: deatnulasj.
-|  **@U.Cap.Opt@deatnulasj.** | Allowing downcasing of derived names: deatnulasj.
+|  **@U.Cap.Obl@** | Allowing downcasing of derived names: deatnulasj.
+|  **@U.Cap.Opt@** | Allowing downcasing of derived names: deatnulasj.
 
 
 ## Root lexicon
@@ -431,7 +431,7 @@ the initial pos.lexc _LEXICON Pos_ entries
 * **N_NEWWORDS ;** 
 * **PROP_NEWWORDS ;** 
 * **Exceptions ;** 
-* **urj-Cyrl-ProperNouns ;template** This is the template
+* **urj-Cyrl-ProperNouns ;** This is the template
 * **LEXICON GER-en** 
 * **+V+Ger: K ;** 
 

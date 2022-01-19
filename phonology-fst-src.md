@@ -7,54 +7,54 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-m
 ### Alphabet 
 #### Letters of the alphabet 
 
- * **а б в г д е ё ж з и й к л м н ҥ о ӧ п р с т у ӱ ф х ц ч ш щ ъ ы ь э ю я ӓ ӹ ** 
- * **А Б В Г Д Е Ё Ж З И Й К Л М Н Ҥ О Ӧ П Р С Т У Ӱ Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я Ӓ Ӹ ** 
+* **а б в г д е ё ж з и й к л м н ҥ о ӧ п р с т у ӱ ф х ц ч ш щ ъ ы ь э ю я ӓ ӹ ** 
+* **А Б В Г Д Е Ё Ж З И Й К Л М Н Ҥ О Ӧ П Р С Т У Ӱ Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я Ӓ Ӹ ** 
 
 #### Archiphonemes for vowels 
- * ** %{аӓ%}:ӓ  ** a/ä alternation in vowel harmony 
- * ** Е3:е ** ӓвӓмвлӓ 
- * ** Е2:0 ** 
- * ** %{ыӹØ%}:0 ** 
+* ** %{аӓ%}:ӓ  ** a/ä alternation in vowel harmony 
+* ** Е3:е ** ӓвӓмвлӓ 
+* ** Е2:0 ** 
+* ** %{ыӹØ%}:0 ** 
 * ** %{ыӹØ%}:0 ** used in verb affix onset 
 * ** %{ыӹØ%}:0 ** used in noun affix onset ine, ill 
 * ** %{ыӹØ%}:0 ** used in verb affix onset 
- * ** %{ыӹ%}:0  ** 
- * ** А2:а ** 
- * ** Ь2:0 **  except with V АМ +Prt1+Sg1-3 
+* ** %{ыӹ%}:0  ** 
+* ** А2:а ** 
+* ** Ь2:0 **  except with V АМ +Prt1+Sg1-3 
 
 #### Triggers 
- * ** %{front%}:0 %{back%}:0 ** front-back vowel harmony 
- * **%^ConsTransf:0 ** 
- * **%^KIN:0        **  with ӓвӓ in +PxSg1+Sg+Gen etc. 
- * **%^А2ЫӸ:0       **  with карта and картын витринӹн 
+* ** %{front%}:0 %{back%}:0 ** front-back vowel harmony 
+* **%^ConsTransf:0 ** 
+* **%^KIN:0        **  with ӓвӓ in +PxSg1+Sg+Gen etc. 
+* **%^А2ЫӸ:0       **  with карта and картын витринӹн 
 
 #### Boundary symbols 
 
- * ** %> ** 
+* ** %> ** 
 * hash # 
- * ** %- ** 
+* ** %- ** 
 
 
 
 ### Sets 
 
- * **BackLabVow =   о у ё ю О У Ё Ю ; 				     ** 
- * **FrontLabVow =   ӧ ӱ Ӧ Ӱ; 						     ** 
- * **NonLabVow =   ӓ а е и э я Ӓ А Е И Э Я ; 		     ** 
- * **Vow =  BackLabVow FrontLabVow NonLabVow ы Ы  ӹ Ӹ ;   ** 
- * **BackVow = BackLabVow а А ы Ы ; 					     ** 
- * **FrontVow = FrontLabVow е и э ӓ ӹ Е И Э Ӓ Ӹ ; 	     ** 
- * **ArchiVow = %{ыӹØ%} %{ыӹ%} %{аӓ%} ; 				     ** 
- * **FullVow = BackLabVow FrontLabVow NonLabVow ;  	     ** 
- * **CnsNoLN =  б в г д ж з к м ҥ п р с т ф х ц ч ш 	     ** 
- * **           Б В Г Д Ж З К М Ҥ П Р С Т Ф Х Ц Ч Ш ;     ** 
- * **Cns =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш 	     ** 
- * **       Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш ;     ** 
- * **Cst =  к п т ф х ц ч ш с 						     ** 
- * **       К П Т Ф Х Ц Ч Ш Ц ;  					     ** 
- * **Ltrs = Vow Cns Й й  ъ ь Ъ Ь ; 					     ** 
- * **all =  Ltrs  %- ; 								     ** 
- * **HarmDummies = %{back%} %{front%} ; 				     ** 
+* **BackLabVow =   о у ё ю О У Ё Ю ; 				     ** 
+* **FrontLabVow =   ӧ ӱ Ӧ Ӱ; 						     ** 
+* **NonLabVow =   ӓ а е и э я Ӓ А Е И Э Я ; 		     ** 
+* **Vow =  BackLabVow FrontLabVow NonLabVow ы Ы  ӹ Ӹ ;   ** 
+* **BackVow = BackLabVow а А ы Ы ; 					     ** 
+* **FrontVow = FrontLabVow е и э ӓ ӹ Е И Э Ӓ Ӹ ; 	     ** 
+* **ArchiVow = %{ыӹØ%} %{ыӹ%} %{аӓ%} ; 				     ** 
+* **FullVow = BackLabVow FrontLabVow NonLabVow ;  	     ** 
+* **CnsNoLN =  б в г д ж з к м ҥ п р с т ф х ц ч ш 	     ** 
+* **           Б В Г Д Ж З К М Ҥ П Р С Т Ф Х Ц Ч Ш ;     ** 
+* **Cns =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш 	     ** 
+* **       Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш ;     ** 
+* **Cst =  к п т ф х ц ч ш с 						     ** 
+* **       К П Т Ф Х Ц Ч Ш Ц ;  					     ** 
+* **Ltrs = Vow Cns Й й  ъ ь Ъ Ь ; 					     ** 
+* **all =  Ltrs  %- ; 								     ** 
+* **HarmDummies = %{back%} %{front%} ; 				     ** 
 
 
 ### Definitions 

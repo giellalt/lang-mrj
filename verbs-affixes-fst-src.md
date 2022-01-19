@@ -6,13 +6,13 @@ Also lexica for +Hom tags
 
 * **LEXICON VAux** = auxiliaries 
 
-* **LEXICON V_AM-HOM1@hid=Hom1** homonyms @hid=Hom1
+* **LEXICON V_AM-HOM1** homonyms @hid=Hom1
 
-* **LEXICON V_EM-HOM2@hid=Hom2** homonyms @hid=Hom2
+* **LEXICON V_EM-HOM2** homonyms @hid=Hom2
 
-* **LEXICON V_AM_SUBsubstandard** substandard
+* **LEXICON V_AM_SUB** substandard
 
-* **LEXICON V_EM_SUBsubstandard** substandard
+* **LEXICON V_EM_SUB** substandard
 
 ## Regular verbs
 
@@ -84,7 +84,7 @@ Back	Vowel harmony for  V_EM verbs
 
 ### Intermediate AM lexica
 
- LEXICON V_AM  ӹштӓш:ӹшт
+LEXICON V_AM  ӹштӓш:ӹшт
 
 
 
@@ -105,7 +105,7 @@ What else is needed 2014-05-08
 What else is needed 2014-05-08
 
 
-* **LEXICON V_EMколташ:колты** колташ:колты
+* **LEXICON V_EM** колташ:колты
 
 
 

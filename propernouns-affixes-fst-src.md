@@ -21,7 +21,7 @@ PROP_OLMA_PLC
 
 PROP_KOL_MAL
 
- LEXICON PROP_KOL  кол:кол
+LEXICON PROP_KOL  кол:кол
 PROP_KOL
 
 PROP-PLC_MOER
@@ -33,7 +33,7 @@ PROP_MOER
 
 PROP-PLC_TYERVYE
 
-* **LEXICON PROP_TYERVYEтӹрвӹ:тӹрвӹ** тӹрвӹ:тӹрвӹ
+* **LEXICON PROP_TYERVYE** тӹрвӹ:тӹрвӹ
 PROP_TYERVYE
 The stem vowel "е" is found with possessor indices and the lative
 
@@ -41,9 +41,9 @@ PROP-PLC_OLMA
 
 
 
- LEXICON PROP_OLMA  кол:кол
+LEXICON PROP_OLMA  кол:кол
 
-* **LEXICON PROP_KARTAкарта:карта** карта:карта
+* **LEXICON PROP_KARTA** карта:карта
 а is specific to the +Sg+Nom, elsewhere ы or ӹ
 
 
