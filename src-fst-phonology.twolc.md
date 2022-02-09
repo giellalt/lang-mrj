@@ -34,8 +34,6 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-m
 * hash # 
 * ** %- ** 
 
-
-
 ### Sets 
 
 * **BackLabVow =   о у ё ю О У Ё Ю ; 				     ** 
@@ -56,22 +54,17 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-m
 * **all =  Ltrs  %- ; 								     ** 
 * **HarmDummies = %{back%} %{front%} ; 				     ** 
 
-
 ### Definitions 
-
 
 Back Harmony BHARM
 
 Front Harmony FHARM
 
-
 LFH
 
 LBH
 
-
 ## Rules 
-
 
 ### Palatalisation rules
 
@@ -85,7 +78,6 @@ LBH
 
 *ка00яш  examples:*
 
-
 **Ь2:ь Palatal mark for V АМ +Prt1+Sg1 rule**  
 
 толаш+V+Ind+Prt1+Sg1 
@@ -98,11 +90,8 @@ LBH
 
 **Ь2:ш Palatal mark for V ЕМ +Prt1+Sg1 rule**  
 
-
-
 ### Vowel rules 
 **Onset vowel in а rule** 
-
 
 **Onset vowel in ӓ rule** 
 
@@ -110,17 +99,11 @@ LBH
 
 **Onset vowel in е rule** 
 
-
-
 **Onset vowel loss in suffix ыӹ0 rule**  
 
-
-
 **Onset vowel loss in suffix Е3 rule**  
 
-
 **Onset vowel loss in suffix Е3 rule**  
-
 
 **Onset vowel Е2 realized in suffix :е rule** 
 
@@ -138,18 +121,15 @@ LBH
 * *янжы%{back%}>аш*
 * *янж00>аш*
 
-
 **Stem final ӹ loss before Е2 rule**  
 
 ##### Tests:
 * *бирка%{front%}%>ӹ%>ӹн*
 * *бирк00%>ӹ%>0н*
 
-
 ### Vowel harmony rules
 
 **Onset vowel ыӹ0 realized in suffix  %{ыӹØ%}:ы rule**  
-
 
 **Onset vowel %{ыӹØ%} realized in suffix  %{ыӹØ%}:ӹ rule** 
 
@@ -175,9 +155,7 @@ LBH
 
 *олма0эштем  examples:*
 
-
 **Affix mid or final front %{аӓ%}:ӓ rule** 
-
 
 ##### Tests:
 
@@ -201,7 +179,6 @@ LBH
 ##### Tests:
 * *тол%{back%}%>%{ыӹе%}н%{аӓ%}*
 * *тол0%>ына*
-
 
 ##### Tests:
 
@@ -227,10 +204,7 @@ LBH
 
 **Not SgNom а:ӹ rule** 
 
-
 **suffix-final vowel backed %{ыӹ%}ы rule**  
-
-
 
 **suffix-final vowel fronted %{ыӹ%}:ӹ rule**  
 
@@ -251,7 +225,6 @@ LBH
 
 **0:ӹ between ш _ ж rule** йиш:йишӹжӹ 
 
-
 ### Vowel loss rules
 
 **suffix-final vowel loss before subsequent suffix-initial vowel %{ыӹ%}:0 rule**  
@@ -267,8 +240,9 @@ LBH
 ## Devoicing 
 **Onset consonant devoicing rule**  
 
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/phonology.twolc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/phonology.twolc)</small>
+
+---
+

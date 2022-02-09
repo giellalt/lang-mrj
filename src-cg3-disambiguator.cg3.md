@@ -1,7 +1,5 @@
 
 
-
-
 This is the Hill Mari disambiguation file. It chooses
 the correct morphological analyses in any given sentence context.
 
@@ -10,13 +8,9 @@ It was copied from the Eastern Mari cg3 file 18.11.21. tt.
 The file first defines sentence delimiters and tags and sets.
 Thereafter come the rules, each rule is listed below.
 
-
 # Sentence delimiters
 
 The delimiters are: "<.>" "<!>" "<?>" "<...>" "<¶>" sent
-
-
-
 
 The **Tags** section lists all the tags inherited from the fst, and defines them for
 use in the syntactic analysis.
@@ -25,13 +19,7 @@ The tags are documented in the root.lexc file, and here only listed for referenc
 The next section, **Sets**, contains sets defined
 on the basis of the tags listed here, those set names are not visible in the output.
 
-
-
-
-
 ## Tags
-
-
 
 ### Beginning and end of sentence
 
@@ -39,7 +27,6 @@ BOS
 EOS
 
 ### Clause boundary
-
 
 ### Parts of speech tags
 
@@ -109,8 +96,6 @@ Ine
 Ill
 Cmpr (case)
 
-
-
 ### Other nominal tags
 
 Pers
@@ -143,7 +128,6 @@ Coll
 Ord
 Temp (?)
 
-
 ### Particles
 Qst
 Foc
@@ -167,20 +151,11 @@ Der/Nom
 CmpTest
 Err
 
-
 ## Sets
 
 * **CASE** = all cases
 * **OBLCASE** = All cases except Nom
 * **VFIN** = All moods
-
-
-
-
-
-
-
-
 
 Der/Date
 Der/Year
@@ -209,11 +184,7 @@ Sem/Sur
 Sem/Time
 Sem/Txt
 
-
-
-
 # Rule section
-
 
 ## Early, word-internal rules
 
@@ -233,7 +204,6 @@ Sem/Txt
 * **Posna** деч посна
 
 * **ikNum** ик is never A
-
 
 ## Specific words
 
@@ -258,29 +228,17 @@ Sem/Txt
 
 * **NotPcle**
 
-
 ### Particles
 
 ***InterrQ** if question mark anywhere to the right
 
 ***Interr** removes Rel if question mark to the right somewhere
 
-
-
-
-
-
-
-
-
 ### Verbs
 
 Existential ulo
 
-
 Infinitives
-
-
 
 * **Ind** selects Ind if no Ind to the right or to the left
 
@@ -298,13 +256,7 @@ Infinitives
 
 * **NotImpWhenWords2**
 
-
-
 ### Adjectives
-
-
-
-
 
 ***RemAdjBeforeProp** removes A if Prop to the left
 
@@ -328,12 +280,9 @@ Infinitives
 
 ***RemAdj2** removes A if no N or Pron in a clause
 
-
-
 ### Nouns
 
 * **lym** nalash "to take a name" = "to be given a title"
-
 
 ***RemNomIfPronLeft** removes Nom if Pron Nom anywhere to the left
 
@@ -351,7 +300,6 @@ Infinitives
 
 ### Derivations
 
-
 * **RemDerMWN1** removes Der/MWN if N is an option
 
 * **RemDerMWN2** removes Der/MWN if N to the right
@@ -366,14 +314,9 @@ Infinitives
 
 * **RemNomNif12right** removes Nom with N if there is a verb with 1st or 2nd agreement to the right
 
-
 * **AccNeedsVerb** prefers Nom (TODO: does this make sense? SASHA: it does but there was a typo, -1* instead of 1* in the third clause of the condition)
 
-
-
-
 ### Proper nouns
-
 
 ### Numerals
 
@@ -385,7 +328,6 @@ Infinitives
 ### Pronouns
 * **NotImp** in most тиде cases
 
-
 * **NotInterr** if Rel
 
 * **Dem** if noun follows
@@ -394,15 +336,7 @@ Infinitives
 
 ### Conjunctions
 
-
-
 ### Postpositions
-
-
-
-
-
-
 
 * **PoNeedsGen** removes postposition if the word to the left is not Gen or Nom
 
@@ -410,18 +344,7 @@ Infinitives
 
 ## Adverbs
 
-
-
-
-
-
 * **molan** awaiting rules for dative verbs subcategorising for mo Dat
-
-
-
-
-
-
 
 ## Verbs
 
@@ -434,11 +357,6 @@ Infinitives
 * **GerNotFin**  Ger if there is a Ind next
 
 * **GerNotFin**  Ger if there is a Ger da Ger VFin
-
-
-
-
-
 
 ### First or third person
 
@@ -453,8 +371,9 @@ Infinitives
 
 * **NoErrOrth**
 
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/disambiguator.cg3](http://github.com/giellalt/lang-mrj/blob/main/../src/cg3/disambiguator.cg3)</small>
+
+<small>This (part of) documentation was generated from [src/cg3/disambiguator.cg3](https://github.com/giellalt/lang-mrj/blob/main/src/cg3/disambiguator.cg3)</small>
+
+---
+

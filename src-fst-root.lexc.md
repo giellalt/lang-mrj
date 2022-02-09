@@ -3,8 +3,6 @@
 
 The file declares the numticharacter symbols of Western Mari, and gives the **Root** lexicon.
 
-
-
 Analysis symbols
 The morphological analyses of wordforms for the Western Mari
 language are presented in this system in terms of the following symbols.
@@ -13,7 +11,6 @@ language are presented in this system in terms of the following symbols.
 * **+Ex/N** - This tag is not added in lexc. The POS tag before derivation is converted into this tag when compiling FST for disambiguation.
 * **+Ex/A** - This tag is not added in lexc. The POS tag before derivation is converted into this tag when compiling FST for disambiguation.
 * **+Ex/V** - This tag is not added in lexc. The POS tag before derivation is converted into this tag when compiling FST for disambiguation.
-
 
 #### The parts-of-speech tags:
 * **+N +A +Adv +V** 
@@ -55,15 +52,12 @@ language are presented in this system in terms of the following symbols.
 * **+FutPrc** = 
 * **+TV +IV** =  to transitivity:
 
-
 #### Usage tags:
 * **+Err/Orth** 
 * **+Use/-Spell** 
 
 #### Tag from older orthographic norms
 * **+Orth/1933** 
-
-
 
 #### Other tags words
 * **+ABBR +ACR** = 
@@ -74,7 +68,6 @@ language are presented in this system in terms of the following symbols.
 
 #### Question and Focus particles:
 * **+Qst +Foc** = 
-
 
 #### Tags to be checked and harmonised.
 * **+AdA** = 
@@ -88,7 +81,6 @@ language are presented in this system in terms of the following symbols.
 * **+Spat** = 
 * **+Use/Circ** = 
 * **+Voc** = 
-
 
 ### Semantic tags
 
@@ -184,8 +176,6 @@ language are presented in this system in terms of the following symbols.
 * **+Sem/Veh** Vehicle
 * **+Sem/Wpn** Weapon
 * **+Sem/Wthr** The Weather or the state of ground
-
-
 
 ### Multiple Semantic tags:
 * **+Sem/Act_Group** = 
@@ -312,7 +302,6 @@ language are presented in this system in terms of the following symbols.
 * **+Sem/Substnc_Wthr** = 
 * **+Sem/Time_Wthr** = 
 
-
 Semantics are classified with
 
 ### Derivation
@@ -328,7 +317,6 @@ source and target part-of-speech.
 * **+Foc/Ат** =          
 * **+Foc/ок** = too, also
 
-
 * **+Ine** = 
 * **+Conj** = 
 * **+WORK** = Error?
@@ -342,7 +330,6 @@ source and target part-of-speech.
 * **** = 
 * **+Use/NG** = 
 * **+Err/Sub** = 
-
 
 ### Morphophonology
 
@@ -403,7 +390,6 @@ given the proper use of these flags.
 |  **@U.Cap.Obl@** | Allowing downcasing of derived names: deatnulasj.
 |  **@U.Cap.Opt@** | Allowing downcasing of derived names: deatnulasj.
 
-
 ## Root lexicon
 
 The word forms in Hill Mari start from the lexeme roots of basic
@@ -435,11 +421,11 @@ the initial pos.lexc _LEXICON Pos_ entries
 * **LEXICON GER-en** 
 * **+V+Ger: K ;** 
 
-
-
-
-
 ENDLEX goes to # for now.
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/root.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/root.lexc)</small>
+
+---
+

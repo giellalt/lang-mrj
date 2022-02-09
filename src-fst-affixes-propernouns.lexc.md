@@ -5,8 +5,6 @@ nouns
 
 PROP_
 
-
-
 PROP-PLC_
 
 PROP_KOL_PLC
@@ -28,9 +26,6 @@ PROP-PLC_MOER
 
 PROP_MOER
 
-
-
-
 PROP-PLC_TYERVYE
 
 * **LEXICON PROP_TYERVYE** тӹрвӹ:тӹрвӹ
@@ -39,26 +34,14 @@ The stem vowel "е" is found with possessor indices and the lative
 
 PROP-PLC_OLMA
 
-
-
 LEXICON PROP_OLMA  кол:кол
 
 * **LEXICON PROP_KARTA** карта:карта
 а is specific to the +Sg+Nom, elsewhere ы or ӹ
 
-
-
-
 ## Male given name for deriving patronyms
 
-
-
-
-
-
-
 Вили:Вил
-
 
 ## Female Given names
 
@@ -70,12 +53,6 @@ Prop-kit_fem
 
 ... etc.
 
-
-
-
-
-
-
 Russian type Surnames
 Абдеев:Абдеев
 
@@ -83,47 +60,9 @@ Russian type Surnames
 
 Аморский:Аморск
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/propernouns.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/affixes/propernouns.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/affixes/propernouns.lexc)</small>
+
+---
+

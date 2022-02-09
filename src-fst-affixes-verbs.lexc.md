@@ -20,7 +20,6 @@ Both *-am* and *-em* verbs and their subgroups.
 
 ### V_AM verbs
 
-
 LEXICON V_IAEM
 Approximately 619 2014-12-21
 Front Vowel harmony for V_AM verbs
@@ -86,34 +85,15 @@ Back	Vowel harmony for  V_EM verbs
 
 LEXICON V_AM  ӹштӓш:ӹшт
 
-
-
-
-
-
-
-
-
 пелӓш: онг пелеш
 What else is needed 2014-05-08
 
 ### Intermediate EM lexcia
 
-
-
 хӹдӹртӓш: хӹдӹртӹ
 What else is needed 2014-05-08
 
-
 * **LEXICON V_EM** колташ:колты
-
-
-
-
-
-
-
-
 
 ## Suffix lexica
 
@@ -145,13 +125,7 @@ INDPRSSG2-em
 
 INDPRSSG3-em
 
-
-
 INDPRSPL3-em
-
-
-
-
 
 ### PRETERIT 1
 
@@ -216,13 +190,6 @@ INDPRT2NEG-am
 
 #### em
 
-
-
-
-
-
-
-
 INDPRT2NEG-am
 INDPRT2NEG-am
 INDPRT2NEG-am
@@ -231,7 +198,6 @@ INDPRT2NEG-am
 INDPRT2NEG-am
 
 ### IMPERATIVE
-
 
 IMPRTSG2-am
 
@@ -244,13 +210,6 @@ IMPRTPL3-am
 IMPRTIISG2-am
 
 IMPRTIIPL2-am
-
-
-
-
-
-
-
 
 ### DESIDERATIVE
 DES-am
@@ -269,16 +228,13 @@ DESPL1-em
 DESPL2-em
 DESPL3-em
 
-
 ### INFINITIVE
-
 
 INF
 
 NEG-PRC
 
 PASS-PRC
-
 
 INF_BACK
 
@@ -296,6 +252,9 @@ PASS-PRC_FRONT
 
 ACT-PRC_FRONT
 
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/verbs.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/affixes/verbs.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/affixes/verbs.lexc)</small>
+
+---
+

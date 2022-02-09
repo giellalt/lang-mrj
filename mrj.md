@@ -1,4 +1,6 @@
+# Western Mari description 
 
+All documents in one file
 
 
 
@@ -10,13 +12,9 @@ It was copied from the Eastern Mari cg3 file 18.11.21. tt.
 The file first defines sentence delimiters and tags and sets.
 Thereafter come the rules, each rule is listed below.
 
-
 # Sentence delimiters
 
 The delimiters are: "<.>" "<!>" "<?>" "<...>" "<¶>" sent
-
-
-
 
 The **Tags** section lists all the tags inherited from the fst, and defines them for
 use in the syntactic analysis.
@@ -25,13 +23,7 @@ The tags are documented in the root.lexc file, and here only listed for referenc
 The next section, **Sets**, contains sets defined
 on the basis of the tags listed here, those set names are not visible in the output.
 
-
-
-
-
 ## Tags
-
-
 
 ### Beginning and end of sentence
 
@@ -39,7 +31,6 @@ BOS
 EOS
 
 ### Clause boundary
-
 
 ### Parts of speech tags
 
@@ -109,8 +100,6 @@ Ine
 Ill
 Cmpr (case)
 
-
-
 ### Other nominal tags
 
 Pers
@@ -143,7 +132,6 @@ Coll
 Ord
 Temp (?)
 
-
 ### Particles
 Qst
 Foc
@@ -167,20 +155,11 @@ Der/Nom
 CmpTest
 Err
 
-
 ## Sets
 
 * **CASE** = all cases
 * **OBLCASE** = All cases except Nom
 * **VFIN** = All moods
-
-
-
-
-
-
-
-
 
 Der/Date
 Der/Year
@@ -209,11 +188,7 @@ Sem/Sur
 Sem/Time
 Sem/Txt
 
-
-
-
 # Rule section
-
 
 ## Early, word-internal rules
 
@@ -233,7 +208,6 @@ Sem/Txt
 * **Posna** деч посна
 
 * **ikNum** ик is never A
-
 
 ## Specific words
 
@@ -258,29 +232,17 @@ Sem/Txt
 
 * **NotPcle**
 
-
 ### Particles
 
 ***InterrQ** if question mark anywhere to the right
 
 ***Interr** removes Rel if question mark to the right somewhere
 
-
-
-
-
-
-
-
-
 ### Verbs
 
 Existential ulo
 
-
 Infinitives
-
-
 
 * **Ind** selects Ind if no Ind to the right or to the left
 
@@ -298,13 +260,7 @@ Infinitives
 
 * **NotImpWhenWords2**
 
-
-
 ### Adjectives
-
-
-
-
 
 ***RemAdjBeforeProp** removes A if Prop to the left
 
@@ -328,12 +284,9 @@ Infinitives
 
 ***RemAdj2** removes A if no N or Pron in a clause
 
-
-
 ### Nouns
 
 * **lym** nalash "to take a name" = "to be given a title"
-
 
 ***RemNomIfPronLeft** removes Nom if Pron Nom anywhere to the left
 
@@ -351,7 +304,6 @@ Infinitives
 
 ### Derivations
 
-
 * **RemDerMWN1** removes Der/MWN if N is an option
 
 * **RemDerMWN2** removes Der/MWN if N to the right
@@ -366,14 +318,9 @@ Infinitives
 
 * **RemNomNif12right** removes Nom with N if there is a verb with 1st or 2nd agreement to the right
 
-
 * **AccNeedsVerb** prefers Nom (TODO: does this make sense? SASHA: it does but there was a typo, -1* instead of 1* in the third clause of the condition)
 
-
-
-
 ### Proper nouns
-
 
 ### Numerals
 
@@ -385,7 +332,6 @@ Infinitives
 ### Pronouns
 * **NotImp** in most тиде cases
 
-
 * **NotInterr** if Rel
 
 * **Dem** if noun follows
@@ -394,15 +340,7 @@ Infinitives
 
 ### Conjunctions
 
-
-
 ### Postpositions
-
-
-
-
-
-
 
 * **PoNeedsGen** removes postposition if the word to the left is not Gen or Nom
 
@@ -410,18 +348,7 @@ Infinitives
 
 ## Adverbs
 
-
-
-
-
-
 * **molan** awaiting rules for dative verbs subcategorising for mo Dat
-
-
-
-
-
-
 
 ## Verbs
 
@@ -434,11 +361,6 @@ Infinitives
 * **GerNotFin**  Ger if there is a Ind next
 
 * **GerNotFin**  Ger if there is a Ger da Ger VFin
-
-
-
-
-
 
 ### First or third person
 
@@ -453,40 +375,17 @@ Infinitives
 
 * **NoErrOrth**
 
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/disambiguator.cg3](http://github.com/giellalt/lang-mrj/blob/main/../src/cg3/disambiguator.cg3)</small>
 
+<small>This (part of) documentation was generated from [src/cg3/disambiguator.cg3](https://github.com/giellalt/lang-mrj/blob/main/src/cg3/disambiguator.cg3)</small>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 
 
 * Sets for POS sub-categories
 
-
-
-
-
 * Sets for Semantic tags
-
-
-
-
 
 * Sets for Morphosyntactic properties
 
@@ -502,190 +401,15 @@ Ine
 Ill
 Cmpr (case)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * Sets for verbs
-
 
 - V is all readings with a V tag in them, REAL-V should
 be the ones without an N tag following the V.  
 The REAL-V set thus awaits a fix to the preprocess V ... N bug.
 
-
-
 * The set COPULAS is for predicative constructions
 
-
-
-
-
-
-
 * NP sets defined according to their morphosyntactic features
-
-
-
-
-
-
 
 * The PRE-NP-HEAD family of sets
 
@@ -693,106 +417,39 @@ These sets model noun phrases (NPs). The idea is to first define whatever can
 occur in front of the head of the NP, and thereafter negate that with the
 expression **WORD - premodifiers**.
 
-
-
-
-
-
-
-
-
-
-
-
 The set **NOT-NPMOD** is used to find barriers between NPs.
 Typical usage: ... (*1 N BARRIER NPT-NPMOD) ...
 meaning: Scan to the first noun, ignoring anything that can be
 part of the noun phrase of that noun (i.e., "scan to the next NP head")
 
-
-
-
-
-
 * Miscellaneous sets
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * Border sets and their complements
-
-
-
-
-
-
-
-
-
-
 
 * **CASE** = all cases
 * **OBLCASE** = All cases except Nom
 
-
 * Syntactic sets
-
-
-
 
 These were the set types.
 
-
-
 * **CCasCNPCVP** Map (@CNP @CVP) to CC
-
-
-
-
-
 
 ## NP attributives
 
-
-
 ## Postposition
-
 
 ## HABITIVE MAPPING
 
-
 * **hab1** 
-
 
 * **hab2** 
 
 * **hab3** (<hab> @ADVL>) for hab-actor and hab-case; if leat to the right, and Nom to the right of leat. Lots of restrictions.
 
-
-
 * **habNomLeft** 
 
-
 * **hab4** 	
-
-
 
 * **hab6** 
 
@@ -801,113 +458,11 @@ These were the set types.
 * **hab8** This is not HAB
 * **hab5**  This is not HAB
 
-
-
-
-
-
-
-
 * **habGen** (<hab> @<ADVL) hab for Gen; if Gen is located in the end of the sentence and Nom is sentence initial
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Mari rules start here
 
-
-
-
-
-
 Mari rules stop here	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 * **subj>Sgnr1** (@SUBJ>) for Nom Sg, including Indef Nom if; VFIN + Sg3 or Pl3 to the right (VFIN not allowed to the left) 
 
@@ -915,66 +470,25 @@ Mari rules stop here
 
 * **subj>Pl** (@SUBJ>) for plural nominatives
 
-
 * **subj>Sgnr2** (@SUBJ>) for Nom Sg; if VFIN + Sg3 to the right.
 
 * **<subjSg** (@<SUBJ) for Nom Sg; if VFIN Sg3 or Du2 to the left (no HAB allowed to the left).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * **advlPoPr>** (@<ADVL) if mainverb to the right.
-
-
-
-
-
-
-
-
 
 ## SUBJ MAPPING - leftovers
 
 ## OBJ MAPPING - leftovers
 
-
 ## HNOUN MAPPING
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-mrj/blob/main/../src/cg3/functions.cg3)</small># Morphophonological rules for Hill Mari 
+
+<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-mrj/blob/main/src/cg3/functions.cg3)</small>
+
+---
+
+# Morphophonological rules for Hill Mari 
 
 This file documents the [phonology.twolc file](http://github.com/giellalt/lang-mrj/blob/main/src/fst/phonology.twolc) 
 
@@ -1010,8 +524,6 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-m
 * hash # 
 * ** %- ** 
 
-
-
 ### Sets 
 
 * **BackLabVow =   о у ё ю О У Ё Ю ; 				     ** 
@@ -1032,22 +544,17 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-m
 * **all =  Ltrs  %- ; 								     ** 
 * **HarmDummies = %{back%} %{front%} ; 				     ** 
 
-
 ### Definitions 
-
 
 Back Harmony BHARM
 
 Front Harmony FHARM
 
-
 LFH
 
 LBH
 
-
 ## Rules 
-
 
 ### Palatalisation rules
 
@@ -1061,7 +568,6 @@ LBH
 
 *ка00яш  examples:*
 
-
 **Ь2:ь Palatal mark for V АМ +Prt1+Sg1 rule**  
 
 толаш+V+Ind+Prt1+Sg1 
@@ -1074,11 +580,8 @@ LBH
 
 **Ь2:ш Palatal mark for V ЕМ +Prt1+Sg1 rule**  
 
-
-
 ### Vowel rules 
 **Onset vowel in а rule** 
-
 
 **Onset vowel in ӓ rule** 
 
@@ -1086,17 +589,11 @@ LBH
 
 **Onset vowel in е rule** 
 
-
-
 **Onset vowel loss in suffix ыӹ0 rule**  
 
-
-
 **Onset vowel loss in suffix Е3 rule**  
 
-
 **Onset vowel loss in suffix Е3 rule**  
-
 
 **Onset vowel Е2 realized in suffix :е rule** 
 
@@ -1114,18 +611,15 @@ LBH
 * *янжы%{back%}>аш*
 * *янж00>аш*
 
-
 **Stem final ӹ loss before Е2 rule**  
 
 ##### Tests:
 * *бирка%{front%}%>ӹ%>ӹн*
 * *бирк00%>ӹ%>0н*
 
-
 ### Vowel harmony rules
 
 **Onset vowel ыӹ0 realized in suffix  %{ыӹØ%}:ы rule**  
-
 
 **Onset vowel %{ыӹØ%} realized in suffix  %{ыӹØ%}:ӹ rule** 
 
@@ -1151,9 +645,7 @@ LBH
 
 *олма0эштем  examples:*
 
-
 **Affix mid or final front %{аӓ%}:ӓ rule** 
-
 
 ##### Tests:
 
@@ -1177,7 +669,6 @@ LBH
 ##### Tests:
 * *тол%{back%}%>%{ыӹе%}н%{аӓ%}*
 * *тол0%>ына*
-
 
 ##### Tests:
 
@@ -1203,10 +694,7 @@ LBH
 
 **Not SgNom а:ӹ rule** 
 
-
 **suffix-final vowel backed %{ыӹ%}ы rule**  
-
-
 
 **suffix-final vowel fronted %{ыӹ%}:ӹ rule**  
 
@@ -1227,7 +715,6 @@ LBH
 
 **0:ӹ between ш _ ж rule** йиш:йишӹжӹ 
 
-
 ### Vowel loss rules
 
 **suffix-final vowel loss before subsequent suffix-initial vowel %{ыӹ%}:0 rule**  
@@ -1243,22 +730,23 @@ LBH
 ## Devoicing 
 **Onset consonant devoicing rule**  
 
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/phonology.twolc)</small>This is where new words are added as lexc entries before they are 
+
+<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/phonology.twolc)</small>
+
+---
+
+This is where new words are added as lexc entries before they are 
 added to the xml source files.
 йолтишкӓ:йолтишкӓ A_OLMA "(eng) /(fin) /(rus) " ;
 
-
 ADD ADJECTIVES BELOW
 
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adjectives_newwords.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/stems/adjectives_newwords.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/stems/adjectives_newwords.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/stems/adjectives_newwords.lexc)</small>
+
+---
 
 
 
@@ -1267,33 +755,23 @@ PROPER GIVEN NAMES
 PROPER PATRONYMS
 
 PROPER PLACE NAMES
+
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/exceptions.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/stems/exceptions.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/stems/exceptions.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/stems/exceptions.lexc)</small>
+
+---
+
+
 # Meadow & Eastern Mari numerals 
-
-
-
-
 
 ## The initial lexica
 
 * **LEXICON Numeral**  initial lexica
 
-
-
-
-
 * **LEXICON ARABIC** arabic numerals
 
-
-
-
-
-
-
-
 * **LEXICON ARABICLOOP**
-
 
 * **LEXICON ARABICLOOPORD_Back** ordinals
 
@@ -1301,14 +779,11 @@ PROPER PLACE NAMES
 
 * **LEXICON ARABICLOOPORD_FrontRound** ordinals
 
-
 * **LEXICON ARABICDELIMITERORD_Back** ordinals
 
 * **LEXICON ARABICDELIMITERORD_Front** ordinals
 
 * **LEXICON ARABICDELIMITERORD_FrontRound** ordinals
-
-
 
 The Roman numerals !
 ------------------ !
@@ -1331,10 +806,7 @@ The Roman numerals !
 
 * **LEXICON ROM-ONE-TAG**
 
-
 * **LEXICON ROM-SPLIT**
-
-
 
 * **LEXICON 2ROMAN**
 
@@ -1356,69 +828,57 @@ The Roman numerals !
 
 * **LEXICON ROMNUMTAG**
 
-
 * **LEXICON ARABICCASEORD_Back** ordinals Is this then becoming +Ex/A?
 * **LEXICON ARABICCASEORD_Front** ordinals
 * **LEXICON ARABICCASEORD_FrontRound** ordinals
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/stems/numerals.lexc)</small>Prefixes
+
+<small>This (part of) documentation was generated from [src/fst/stems/numerals.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/stems/numerals.lexc)</small>
+
+---
+
+Prefixes
 Prefixes in the Western Mari language are bound to beginning of other words.
 
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/stems/prefixes.lexc)</small>This is where new words are added as lexc entries before they are 
+
+<small>This (part of) documentation was generated from [src/fst/stems/prefixes.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/stems/prefixes.lexc)</small>
+
+---
+
+This is where new words are added as lexc entries before they are 
 added to the xml source files.
 йолтишкӓ+N+Prop:йолтишкӓ PROP_OLMA "(eng) /(fin) /(rus) " ;
 
-
 ADD NOUNS BELOW
-
-
-
-
-
-
-
-
-
 
 MARI-LIKE NAMES
 
 PLACE NAMES
 
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/propernouns_newwords.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/stems/propernouns_newwords.lexc)</small>This is where new words are added as lexc entries before they are 
+
+<small>This (part of) documentation was generated from [src/fst/stems/propernouns_newwords.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/stems/propernouns_newwords.lexc)</small>
+
+---
+
+This is where new words are added as lexc entries before they are 
 added to the xml source files.
 йолтишкӓ+N:йолтишкӓ A_OLMA "(eng) /(fin) /(rus) " ;
 
-
 ADD NOUNS BELOW
 
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns_newwords.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/stems/nouns_newwords.lexc)</small># Noun inflection
+
+<small>This (part of) documentation was generated from [src/fst/stems/nouns_newwords.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/stems/nouns_newwords.lexc)</small>
+
+---
+
+# Noun inflection
 ----
 
 ## Ad hoc lexica
-
-
-
 
 * **LEXICON N_**
 
@@ -1427,8 +887,6 @@ ADD NOUNS BELOW
 * **LEXICON N_KOL_SUB**
 
 * **LEXICON N_TYERVYE_SUB**
-
-
 
 ## Standard lexica 
 
@@ -1474,25 +932,20 @@ Front harmony
 LEXICON NMN_KOL  кол:кол
 Back harmony
 
-
 LEXICON NMN_MOER  мӧр:мӧр
 Front harmony
-
 
 * **LEXICON NMN_MARY** мары:мары
 The stem vowel "е" is found with possessor indices and the lative
 Back harmony
 
-
 * **LEXICON NMN_TYERVYE** тӹрвӹ:тӹрвӹ
 The stem vowel "е" is found with possessor indices and the lative
 Front harmony
 
-
 * **LEXICON NMN_KARTA** карта:карта
 Back а/ы
 а is specific to the +Sg+Nom, elsewhere ы
-
 
 * **LEXICON NMN_BIRZHA** биржа:биржа
 Front а/ӹ
@@ -1509,160 +962,38 @@ Front е/ӹ
 LEXICON NMN_OLMA   олма:олма
 Back harmony
 
-
-
 LEXICON NMN_AEZAE   ӓзӓ:ӓзӓ
 Front harmony
-
-
 
 LEXICON NMN_PECHEN1E   печенье:печенье
 Front harmony
 
-
 LEXICON N_AEVAE   ӓвӓ:ӓвӓ
 
-
-
-
-
-
-
-
-
-
-
 PxSg1+NB+CASE
 singular possessa
 
-
-
 PxSg1+NB+CASE
 singular possessa
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 PXSG3
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/nouns.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/affixes/nouns.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/affixes/nouns.lexc)</small>
+
+---
+
+
 # Compounding
 
 Does Hill Mari have anything like LEXICON R and %- N ;
-
 
 ## Interj lexica
 
 * LEXICON INTERJ_  
 
-
 ## Postp lexica
-
-
 
 * LEXICON POSTP_  
 
@@ -1670,48 +1001,30 @@ Does Hill Mari have anything like LEXICON R and %- N ;
 
 ADV_ 
 
-
-
-
-
-
-
 Temporal tags with cases
 
 * LEXICON ADV-TEMP_  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adverbs.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/adverbs.lexc)</small>$ Quantifiers
+
+<small>This (part of) documentation was generated from [src/fst/affixes/adverbs.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/affixes/adverbs.lexc)</small>
+
+---
+
+$ Quantifiers
 ----
 
 Hill Mari (Western Mari) numerals...
 
 NUM_
 
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/quantifiers.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/quantifiers.lexc)</small># Pronouns
+
+<small>This (part of) documentation was generated from [src/fst/affixes/quantifiers.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/affixes/quantifiers.lexc)</small>
+
+---
+
+# Pronouns
 ----
 
 Hill Mari (Western Mari) pronouns...
@@ -1732,32 +1045,23 @@ PERS-PL3 нӹнӹ:нӹнӹ
 
 REFL ӹшке:ӹшк
 
-
-
-
-
-
-
 LEXICON DEM-SG  тидӹ:ти
-
 
 LEXICON DEM-PL  нинӹ:ни
 Plural pronoun with additional plural marking
-
 
 DemTag
 What are these тӹдӹмӓт, тӹдӹлӓнӓт
 
 Dem-Cx
 
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/pronouns.lexc)</small># Clitics
+
+<small>This (part of) documentation was generated from [src/fst/affixes/pronouns.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/affixes/pronouns.lexc)</small>
+
+---
+
+# Clitics
 ----
 
 Hill Mari (Western Mari) adverbial clitics are not bound by POS.
@@ -1766,17 +1070,18 @@ K
 
 WORDEND
 
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/clitics.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/clitics.lexc)</small># Proper noun inflection
+
+<small>This (part of) documentation was generated from [src/fst/affixes/clitics.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/affixes/clitics.lexc)</small>
+
+---
+
+# Proper noun inflection
 
 Hill Mari proper nouns inflect in the same cases as regular
 nouns
 
 PROP_
-
-
 
 PROP-PLC_
 
@@ -1799,9 +1104,6 @@ PROP-PLC_MOER
 
 PROP_MOER
 
-
-
-
 PROP-PLC_TYERVYE
 
 * **LEXICON PROP_TYERVYE** тӹрвӹ:тӹрвӹ
@@ -1810,26 +1112,14 @@ The stem vowel "е" is found with possessor indices and the lative
 
 PROP-PLC_OLMA
 
-
-
 LEXICON PROP_OLMA  кол:кол
 
 * **LEXICON PROP_KARTA** карта:карта
 а is specific to the +Sg+Nom, elsewhere ы or ӹ
 
-
-
-
 ## Male given name for deriving patronyms
 
-
-
-
-
-
-
 Вили:Вил
-
 
 ## Female Given names
 
@@ -1841,12 +1131,6 @@ Prop-kit_fem
 
 ... etc.
 
-
-
-
-
-
-
 Russian type Surnames
 Абдеев:Абдеев
 
@@ -1854,59 +1138,18 @@ Russian type Surnames
 
 Аморский:Аморск
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/propernouns.lexc)</small># Hill Mari adjective inflection
 
+<small>This (part of) documentation was generated from [src/fst/affixes/propernouns.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/affixes/propernouns.lexc)</small>
+
+---
+
+# Hill Mari adjective inflection
 
 This file contains a handful of lexica, each with 3 subentries. The two first ones give +Pos+Attr dn +Comp:рак, respectively, whereeas the third entry gives a *+Der/N* tag and redirects to the relevant noun lexica for case inflection
 
-
 ## Temporary lexicon
 * **LEXICON A-ADN_**  = This adjective only occurs with a head word in an adnominal phrase
-
-
 
 ## Ordinary lexica
 
@@ -1927,12 +1170,13 @@ This should be neutral 2013-05-11
 * **LEXICON A_MOER** has *front* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_MOER.
  +Der+Der/N+N:%{front%} NMN_MOER ; The +N tag is given here to curtail over generation from derived nouns
 
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/adjectives.lexc)</small># Hill Mari (Western Mari) verb inflection
+
+<small>This (part of) documentation was generated from [src/fst/affixes/adjectives.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/affixes/adjectives.lexc)</small>
+
+---
+
+# Hill Mari (Western Mari) verb inflection
 
 ## Irregular lexica
 
@@ -1953,7 +1197,6 @@ Also lexica for +Hom tags
 Both *-am* and *-em* verbs and their subgroups.
 
 ### V_AM verbs
-
 
 LEXICON V_IAEM
 Approximately 619 2014-12-21
@@ -2020,34 +1263,15 @@ Back	Vowel harmony for  V_EM verbs
 
 LEXICON V_AM  ӹштӓш:ӹшт
 
-
-
-
-
-
-
-
-
 пелӓш: онг пелеш
 What else is needed 2014-05-08
 
 ### Intermediate EM lexcia
 
-
-
 хӹдӹртӓш: хӹдӹртӹ
 What else is needed 2014-05-08
 
-
 * **LEXICON V_EM** колташ:колты
-
-
-
-
-
-
-
-
 
 ## Suffix lexica
 
@@ -2079,13 +1303,7 @@ INDPRSSG2-em
 
 INDPRSSG3-em
 
-
-
 INDPRSPL3-em
-
-
-
-
 
 ### PRETERIT 1
 
@@ -2150,13 +1368,6 @@ INDPRT2NEG-am
 
 #### em
 
-
-
-
-
-
-
-
 INDPRT2NEG-am
 INDPRT2NEG-am
 INDPRT2NEG-am
@@ -2165,7 +1376,6 @@ INDPRT2NEG-am
 INDPRT2NEG-am
 
 ### IMPERATIVE
-
 
 IMPRTSG2-am
 
@@ -2178,13 +1388,6 @@ IMPRTPL3-am
 IMPRTIISG2-am
 
 IMPRTIIPL2-am
-
-
-
-
-
-
-
 
 ### DESIDERATIVE
 DES-am
@@ -2203,16 +1406,13 @@ DESPL1-em
 DESPL2-em
 DESPL3-em
 
-
 ### INFINITIVE
-
 
 INF
 
 NEG-PRC
 
 PASS-PRC
-
 
 INF_BACK
 
@@ -2230,9 +1430,13 @@ PASS-PRC_FRONT
 
 ACT-PRC_FRONT
 
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/verbs.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/affixes/verbs.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/affixes/verbs.lexc)</small>
+
+---
+
+
 # Symbol affixes
 
 Noun_symbols_possibly_inflected
@@ -2244,13 +1448,17 @@ SYMBOL_connector
 SYMBOL_NO_suff
 
 SYMBOL_suff
+
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/affixes/symbols.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/affixes/symbols.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/affixes/symbols.lexc)</small>
+
+---
+
+
 # Western Mari morphological analyser                      
 
 The file declares the numticharacter symbols of Western Mari, and gives the **Root** lexicon.
-
-
 
 Analysis symbols
 The morphological analyses of wordforms for the Western Mari
@@ -2260,7 +1468,6 @@ language are presented in this system in terms of the following symbols.
 * **+Ex/N** - This tag is not added in lexc. The POS tag before derivation is converted into this tag when compiling FST for disambiguation.
 * **+Ex/A** - This tag is not added in lexc. The POS tag before derivation is converted into this tag when compiling FST for disambiguation.
 * **+Ex/V** - This tag is not added in lexc. The POS tag before derivation is converted into this tag when compiling FST for disambiguation.
-
 
 #### The parts-of-speech tags:
 * **+N +A +Adv +V** 
@@ -2302,15 +1509,12 @@ language are presented in this system in terms of the following symbols.
 * **+FutPrc** = 
 * **+TV +IV** =  to transitivity:
 
-
 #### Usage tags:
 * **+Err/Orth** 
 * **+Use/-Spell** 
 
 #### Tag from older orthographic norms
 * **+Orth/1933** 
-
-
 
 #### Other tags words
 * **+ABBR +ACR** = 
@@ -2321,7 +1525,6 @@ language are presented in this system in terms of the following symbols.
 
 #### Question and Focus particles:
 * **+Qst +Foc** = 
-
 
 #### Tags to be checked and harmonised.
 * **+AdA** = 
@@ -2335,7 +1538,6 @@ language are presented in this system in terms of the following symbols.
 * **+Spat** = 
 * **+Use/Circ** = 
 * **+Voc** = 
-
 
 ### Semantic tags
 
@@ -2431,8 +1633,6 @@ language are presented in this system in terms of the following symbols.
 * **+Sem/Veh** Vehicle
 * **+Sem/Wpn** Weapon
 * **+Sem/Wthr** The Weather or the state of ground
-
-
 
 ### Multiple Semantic tags:
 * **+Sem/Act_Group** = 
@@ -2559,7 +1759,6 @@ language are presented in this system in terms of the following symbols.
 * **+Sem/Substnc_Wthr** = 
 * **+Sem/Time_Wthr** = 
 
-
 Semantics are classified with
 
 ### Derivation
@@ -2575,7 +1774,6 @@ source and target part-of-speech.
 * **+Foc/Ат** =          
 * **+Foc/ок** = too, also
 
-
 * **+Ine** = 
 * **+Conj** = 
 * **+WORK** = Error?
@@ -2589,7 +1787,6 @@ source and target part-of-speech.
 * **** = 
 * **+Use/NG** = 
 * **+Err/Sub** = 
-
 
 ### Morphophonology
 
@@ -2650,7 +1847,6 @@ given the proper use of these flags.
 |  **@U.Cap.Obl@** | Allowing downcasing of derived names: deatnulasj.
 |  **@U.Cap.Opt@** | Allowing downcasing of derived names: deatnulasj.
 
-
 ## Root lexicon
 
 The word forms in Hill Mari start from the lexeme roots of basic
@@ -2682,77 +1878,13 @@ the initial pos.lexc _LEXICON Pos_ entries
 * **LEXICON GER-en** 
 * **+V+Ger: K ;** 
 
-
-
-
-
 ENDLEX goes to # for now.
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/fst/root.lexc)</small>
 
+<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/root.lexc)</small>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 
 
@@ -2914,8 +2046,13 @@ raised							_r
 lowered							_o 
 advanced tongue root				_A 
 retracted tongue root			_q
+
 * * *
-<small>This (part of) documentation was generated from [../src/phonetics/txt2ipa.xfscript](http://github.com/giellalt/lang-mrj/blob/main/../src/phonetics/txt2ipa.xfscript)</small>
+
+<small>This (part of) documentation was generated from [src/phonetics/txt2ipa.xfscript](https://github.com/giellalt/lang-mrj/blob/main/src/phonetics/txt2ipa.xfscript)</small>
+
+---
+
 
 
 We describe here how abbreviations are in Western Mari are read out, e.g.
@@ -2930,41 +2067,28 @@ For example:
 * esim.:esimerkki # ; 
 * esim.:esimerkiksi # ; 
 
-
 * * *
-<small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-abbrevs2text.lexc](http://github.com/giellalt/lang-mrj/blob/main/../src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/transcriptions/transcriptor-abbrevs2text.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
+
+---
+
+
 [ L A N G U A G E ]  G R A M M A R   C H E C K E R
-
-
-
-
-
-
-
-
 
 # DELIMITERS
 
-
 # TAGS AND SETS
 
-
-
 ## Tags
-
 
 This section lists all the tags inherited from the fst, and used as tags
 in the syntactic analysis. The next section, **Sets**, contains sets defined
 on the basis of the tags listed here, those set names are not visible in the output.
 
-
-
-
 ### Beginning and end of sentence
 BOS
 EOS
-
-
 
 ### Parts of speech tags
 
@@ -2994,8 +2118,6 @@ PUNCT
 COMMA
 ¶
 
-
-
 ### Tags for POS sub-categories
 
 Pers
@@ -3011,7 +2133,6 @@ Prop
 Allegro
 Arab
 Romertall
-
 
 ### Tags for morphosyntactic properties
 
@@ -3074,11 +2195,7 @@ Sup
 Actio
 VAbess
 
-
-
 Err/Orth
-
-
 
 ### Semantic tags
 
@@ -3111,14 +2228,10 @@ HUMAN
 HAB-ACTOR
 HAB-ACTOR-NOT-HUMAN
 
-
 PROP-ATTR
 PROP-SUR
 
-
-
 TIME-N-SET
-
 
 ###  Syntactic tags
 
@@ -3190,22 +2303,15 @@ OBJ>-OTHERS
 SYN-V
 @X
 
-
-
-
-
 ## Sets containing sets of lists and tags
 
 This part of the file lists a large number of sets based partly upon the tags defined above, and
 partly upon lexemes drawn from the lexicon.
 See the sourcefile itself to inspect the sets, what follows here is an overview of the set types.
 
-
-
 ### Sets for Single-word sets
 
 INITIAL
-
 
 ### Sets for word or not
 
@@ -3213,7 +2319,6 @@ WORD
 REAL-WORD
 REAL-WORD-NOT-ABBR
 NOT-COMMA
-
 
 ### Case sets
 
@@ -3228,7 +2333,6 @@ NOT-ACC
 
 ### Verb sets
 
-
 NOT-V
 
 ### Sets for finiteness and mood
@@ -3238,7 +2342,6 @@ REAL-NEG
 MOOD-V
 
 NOT-PRFPRC
-
 
 ### Sets for person
 
@@ -3252,49 +2355,15 @@ PL1-V
 PL2-V
 PL3-V
 
-
-
-
-
 ### Pronoun sets
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Adjectival sets and their complements
 
-
-
-
 ### Adverbial sets and their complements
-
-
-
 
 ### Sets of elements with common syntactic behaviour
 
-
 ### NP sets defined according to their morphosyntactic features
-
-
-
-
-
-
-
 
 ### The PRE-NP-HEAD family of sets
 
@@ -3302,49 +2371,17 @@ These sets model noun phrases (NPs). The idea is to first define whatever can
 occur in front of the head of the NP, and thereafter negate that with the
 expression **WORD - premodifiers**.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Border sets and their complements
-
-
-
-
-
-
-
-
-
-
 
 ### Grammarchecker sets
 
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../tools/grammarcheckers/grammarchecker.cg3](http://github.com/giellalt/lang-mrj/blob/main/../tools/grammarcheckers/grammarchecker.cg3)</small>Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
+
+<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-mrj/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small>
+
+---
+
+Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
 Then just:
 $ make
 $ echo "ja, ja" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
@@ -3377,16 +2414,6 @@ $ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-des
 
 Pmatch documentation:
 https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch
-
-
-
-
-
-
-
-
-
-
 
 Apart from what's in our morphology, there are
 1) unknown word-like forms, and
@@ -3394,20 +2421,21 @@ Apart from what's in our morphology, there are
 We want to give 1) a match, but let 2) be treated specially by hfst-tokenise -a
 TODO: Could use something like this, but built-in's don't include šžđčŋ:
 
-
 Simply give an empty reading when something is unknown:
 hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
 remove empty analyses from other readings. Empty readings are also
 legal in CG, they get a default baseform equal to the wordform, but
 no tag to check, so it's safer to let hfst-tokenise handle them.
 
-
 Needs hfst-tokenise to output things differently depending on the tag they get
 
-
-
 * * *
-<small>This (part of) documentation was generated from [../tools/tokenisers/tokeniser-disamb-gt-desc.1938.pmscript](http://github.com/giellalt/lang-mrj/blob/main/../tools/tokenisers/tokeniser-disamb-gt-desc.1938.pmscript)</small>Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
+
+<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-disamb-gt-desc.1938.pmscript](https://github.com/giellalt/lang-mrj/blob/main/tools/tokenisers/tokeniser-disamb-gt-desc.1938.pmscript)</small>
+
+---
+
+Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
 Then just:
 $ make
 $ echo "ja, ja" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
@@ -3440,16 +2468,6 @@ $ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-des
 
 Pmatch documentation:
 https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch
-
-
-
-
-
-
-
-
-
-
 
 Apart from what's in our morphology, there are
 1) unknown word-like forms, and
@@ -3457,57 +2475,38 @@ Apart from what's in our morphology, there are
 We want to give 1) a match, but let 2) be treated specially by hfst-tokenise -a
 TODO: Could use something like this, but built-in's don't include šžđčŋ:
 
-
 Simply give an empty reading when something is unknown:
 hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
 remove empty analyses from other readings. Empty readings are also
 legal in CG, they get a default baseform equal to the wordform, but
 no tag to check, so it's safer to let hfst-tokenise handle them.
 
-
 Needs hfst-tokenise to output things differently depending on the tag they get
 
-
-
 * * *
-<small>This (part of) documentation was generated from [../tools/tokenisers/tokeniser-disamb-gt-desc.eighties.pmscript](http://github.com/giellalt/lang-mrj/blob/main/../tools/tokenisers/tokeniser-disamb-gt-desc.eighties.pmscript)</small>Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
+
+<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-disamb-gt-desc.eighties.pmscript](https://github.com/giellalt/lang-mrj/blob/main/tools/tokenisers/tokeniser-disamb-gt-desc.eighties.pmscript)</small>
+
+---
+
+# Grammar checker tokenisation for mrj
+
+Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
 Then just:
+```
 $ make
 $ echo "ja, ja" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-
-Issues:
-- [X] Ambiguous input
-- Seems to work fine
-- [X] Ambiguous multiword expessions with ambiguous tokenisation
-- Seems to work – represented within lexc now; hfst-tokenise also
-supports forms on the analyses now
-- [X] Ambiguous multiword expessions need reorganising after CG
-- The module cg-mwesplit takes wordforms from readings and turns them into
-new cohorts
-- [X] Unknown words
-- The set-difference method only works for words without
-flag diacritics (even though we should be working only on the form-side?)
-and leads to binary blow-up: With only lower unknowns, we get 45M;
-lower+upper gives 67M, while no unknowns gives 27M
-- Fixed instead by treating empty analyses as unknown-tokens in
-hfst-tokenise, and outputting unmatched strings with a prefix
-- [ ] Treat input that's within superblanks as unmatched
-- probably requires a change in hfst-tokenise itself
-- [X] Try >1 space for ambiguous MWE's? – represented within lexc now
-- [ ] Try set-difference-unknowns method with regular hfst commands?
+```
 
 More usage examples:
+```
 $ echo "Juos gorreválggain lea (dárbbašlaš) deavdit gáibádusa boasttu olmmoš, man mielde lahtuid." | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
 $ echo "(gáfe) 'ja' ja 3. ja? ц jaja ukjend \"ukjend\"" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
 $ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+```
 
 Pmatch documentation:
-https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch
-
-
-
-
-
+<https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch>
 
 Characters which have analyses in the lexicon, but can appear without spaces
 before/after, that is, with no context conditions, and adjacent to words:
@@ -3522,9 +2521,6 @@ the List contains some unicode white space characters
 * Narrow No-Break Space U+202F
 * Medium Mathematical Space U+205F
 * Word joiner U+2060
-
-
-
 
 Apart from what's in our morphology, there are
 1) unknown word-like forms, and
@@ -3538,14 +2534,11 @@ so far:
 
 TODO: Could use something like this, but built-in's don't include šžđčŋ:
 
-
 Simply give an empty reading when something is unknown:
 hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
 remove empty analyses from other readings. Empty readings are also
 legal in CG, they get a default baseform equal to the wordform, but
 no tag to check, so it's safer to let hfst-tokenise handle them.
-
-
 
 Finally we mark as a token any sequence making up a:
 * known word in context
@@ -3554,7 +2547,12 @@ Finally we mark as a token any sequence making up a:
 * URL in context
 
 * * *
-<small>This (part of) documentation was generated from [../tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript](http://github.com/giellalt/lang-mrj/blob/main/../tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript)</small># Tokeniser for mrj
+
+<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript](https://github.com/giellalt/lang-mrj/blob/main/tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript)</small>
+
+---
+
+# Tokeniser for mrj
 
 Usage:
 ```
@@ -3566,12 +2564,7 @@ $ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-des
 ```
 
 Pmatch documentation:
-https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch
-
-
-
-
-
+<https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch>
 
 Characters which have analyses in the lexicon, but can appear without spaces
 before/after, that is, with no context conditions, and adjacent to words:
@@ -3586,9 +2579,6 @@ the List contains some unicode white space characters
 * Narrow No-Break Space U+202F
 * Medium Mathematical Space U+205F
 * Word joiner U+2060
-
-
-
 
 Apart from what's in our morphology, there are
 1. unknown word-like forms, and
@@ -3608,16 +2598,12 @@ ASCII digits
 so far:
 * U+F0B7 for "x in box"
 
-
-
 ## Unknown handling
 Unknowns are tagged ?? and treated specially with `hfst-tokenise`
 hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
 remove empty analyses from other readings. Empty readings are also
 legal in CG, they get a default baseform equal to the wordform, but
 no tag to check, so it's safer to let hfst-tokenise handle them.
-
-
 
 Finally we mark as a token any sequence making up a:
 * known word in context
@@ -3626,7 +2612,12 @@ Finally we mark as a token any sequence making up a:
 * URL in context
 
 * * *
-<small>This (part of) documentation was generated from [../tools/tokenisers/tokeniser-disamb-gt-desc.pmscript](http://github.com/giellalt/lang-mrj/blob/main/../tools/tokenisers/tokeniser-disamb-gt-desc.pmscript)</small>Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
+
+<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-disamb-gt-desc.pmscript](https://github.com/giellalt/lang-mrj/blob/main/tools/tokenisers/tokeniser-disamb-gt-desc.pmscript)</small>
+
+---
+
+Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
 Then just:
 $ make
 $ echo "ja, ja" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
@@ -3660,22 +2651,11 @@ $ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-des
 Pmatch documentation:
 https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch
 
-
-
-
-
-
-
-
-
-
-
 Apart from what's in our morphology, there are
 1) unknown word-like forms, and
 2) unmatched strings
 We want to give 1) a match, but let 2) be treated specially by hfst-tokenise -a
 TODO: Could use something like this, but built-in's don't include šžđčŋ:
-
 
 Simply give an empty reading when something is unknown:
 hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
@@ -3683,10 +2663,11 @@ remove empty analyses from other readings. Empty readings are also
 legal in CG, they get a default baseform equal to the wordform, but
 no tag to check, so it's safer to let hfst-tokenise handle them.
 
-
 Needs hfst-tokenise to output things differently depending on the tag they get
 
-
-
 * * *
-<small>This (part of) documentation was generated from [../tools/tokenisers/tokeniser-disamb-gt-desc.thirties.pmscript](http://github.com/giellalt/lang-mrj/blob/main/../tools/tokenisers/tokeniser-disamb-gt-desc.thirties.pmscript)</small>
+
+<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-disamb-gt-desc.thirties.pmscript](https://github.com/giellalt/lang-mrj/blob/main/tools/tokenisers/tokeniser-disamb-gt-desc.thirties.pmscript)</small>
+
+---
+
