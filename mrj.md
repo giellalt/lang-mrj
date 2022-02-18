@@ -270,8 +270,6 @@ Infinitives
 
 * **RemN** removes N if N to the right
 
-* **AdjAfterNbeforeEOS** selects A if N to the left and EOS to the right (predicative position)
-
 *_AdjBeforeConjAdj_ selects A if conjuction and A to the right ;
 
 * **AdjNotAdv** removes Adv if N to the right
@@ -376,12 +374,7 @@ Infinitives
 * **NoErrOrth**
 
 * * *
-
 <small>This (part of) documentation was generated from [src/cg3/disambiguator.cg3](https://github.com/giellalt/lang-mrj/blob/main/src/cg3/disambiguator.cg3)</small>
-
----
-
-
 
 * Sets for POS sub-categories
 
@@ -483,395 +476,77 @@ Mari rules stop here
 ## HNOUN MAPPING
 
 * * *
+<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-mrj/blob/main/src/cg3/functions.cg3)</small># Hill Mari adjective inflection
 
-<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-mrj/blob/main/src/cg3/functions.cg3)</small>
+This file contains a handful of lexica, each with 3 subentries. The two first ones give +Pos+Attr dn +Comp:рак, respectively, whereeas the third entry gives a *+Der/N* tag and redirects to the relevant noun lexica for case inflection
 
----
+## Temporary lexicon
+* **LEXICON A-ADN_**  = This adjective only occurs with a head word in an adnominal phrase
 
-# Morphophonological rules for Hill Mari 
+## Ordinary lexica
 
-This file documents the [phonology.twolc file](http://github.com/giellalt/lang-mrj/blob/main/src/fst/phonology.twolc) 
+* **LEXICON A_** has *aä* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_OLMA. 
+This should be neutral 2013-05-11
 
-## Alphabet, Sets and Definitions 
+* **LEXICON A_OLMA** has  *back* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_OLMA.
 
-### Alphabet 
-#### Letters of the alphabet 
+* **LEXICON A_AEZAE** has *front* trigger, gets +Pos, +Comp, or goes via Der/N to NMN_AAEZAE.
 
-* **а б в г д е ё ж з и й к л м н ҥ о ӧ п р с т у ӱ ф х ц ч ш щ ъ ы ь э ю я ӓ ӹ ** 
-* **А Б В Г Д Е Ё Ж З И Й К Л М Н Ҥ О Ӧ П Р С Т У Ӱ Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я Ӓ Ӹ ** 
+* **LEXICON A_MARY** has *back* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_MARY.
 
-#### Archiphonemes for vowels 
-* ** %{аӓ%}:ӓ  ** a/ä alternation in vowel harmony 
-* ** Е3:е ** ӓвӓмвлӓ 
-* ** Е2:0 ** 
-* ** %{ыӹØ%}:0 ** 
-* ** %{ыӹØ%}:0 ** used in verb affix onset 
-* ** %{ыӹØ%}:0 ** used in noun affix onset ine, ill 
-* ** %{ыӹØ%}:0 ** used in verb affix onset 
-* ** %{ыӹ%}:0  ** 
-* ** А2:а ** 
-* ** Ь2:0 **  except with V АМ +Prt1+Sg1-3 
+* **LEXICON A_TYERVYE** har *front* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_TYERVYE.
 
-#### Triggers 
-* ** %{front%}:0 %{back%}:0 ** front-back vowel harmony 
-* **%^ConsTransf:0 ** 
-* **%^KIN:0        **  with ӓвӓ in +PxSg1+Sg+Gen etc. 
-* **%^А2ЫӸ:0       **  with карта and картын витринӹн 
+* **LEXICON A_KOL** has *back* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_KOL.
++Der+Der/N+N:%{back%} NMN_KOL ; The +N tag is given here to curtail over generation from derived nouns
 
-#### Boundary symbols 
-
-* ** %> ** 
-* hash # 
-* ** %- ** 
-
-### Sets 
-
-* **BackLabVow =   о у ё ю О У Ё Ю ; 				     ** 
-* **FrontLabVow =   ӧ ӱ Ӧ Ӱ; 						     ** 
-* **NonLabVow =   ӓ а е и э я Ӓ А Е И Э Я ; 		     ** 
-* **Vow =  BackLabVow FrontLabVow NonLabVow ы Ы  ӹ Ӹ ;   ** 
-* **BackVow = BackLabVow а А ы Ы ; 					     ** 
-* **FrontVow = FrontLabVow е и э ӓ ӹ Е И Э Ӓ Ӹ ; 	     ** 
-* **ArchiVow = %{ыӹØ%} %{ыӹ%} %{аӓ%} ; 				     ** 
-* **FullVow = BackLabVow FrontLabVow NonLabVow ;  	     ** 
-* **CnsNoLN =  б в г д ж з к м ҥ п р с т ф х ц ч ш 	     ** 
-* **           Б В Г Д Ж З К М Ҥ П Р С Т Ф Х Ц Ч Ш ;     ** 
-* **Cns =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш 	     ** 
-* **       Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш ;     ** 
-* **Cst =  к п т ф х ц ч ш с 						     ** 
-* **       К П Т Ф Х Ц Ч Ш Ц ;  					     ** 
-* **Ltrs = Vow Cns Й й  ъ ь Ъ Ь ; 					     ** 
-* **all =  Ltrs  %- ; 								     ** 
-* **HarmDummies = %{back%} %{front%} ; 				     ** 
-
-### Definitions 
-
-Back Harmony BHARM
-
-Front Harmony FHARM
-
-LFH
-
-LBH
-
-## Rules 
-
-### Palatalisation rules
-
-**Palatal mark loss before vowel rule**  
-
-**й Deletion in front of я Suffix and others rule**  
-
-##### Tests:
-
-*кай%>%{аӓ%}ш  examples:*
-
-*ка00яш  examples:*
-
-**Ь2:ь Palatal mark for V АМ +Prt1+Sg1 rule**  
-
-толаш+V+Ind+Prt1+Sg1 
-
-##### Tests:
-* *тол%{back%}Ь2%>%{ыӹØ%}м*
-* *тол0ь%>ым*
-
-**Ь2:0 Palatal mark for V АМ +Prt1+Sg1 rule**  
-
-**Ь2:ш Palatal mark for V ЕМ +Prt1+Sg1 rule**  
-
-### Vowel rules 
-**Onset vowel in а rule** 
-
-**Onset vowel in ӓ rule** 
-
-**Onset vowel in я rule** 
-
-**Onset vowel in е rule** 
-
-**Onset vowel loss in suffix ыӹ0 rule**  
-
-**Onset vowel loss in suffix Е3 rule**  
-
-**Onset vowel loss in suffix Е3 rule**  
-
-**Onset vowel Е2 realized in suffix :е rule** 
-
-**Onset vowel Е2:э after retained vowel rule**  
-
-**Onset vowel Е3:э after retained vowel rule**  
-
-**Onset vowel е:э after retained vowel rule** 
-
-**Stem final ы loss before Е2 rule**  
-
-##### Tests:
-* *карта%>ы%>ын*
-* *карт0%>ы%>0н*
-* *янжы%{back%}>аш*
-* *янж00>аш*
-
-**Stem final ӹ loss before Е2 rule**  
-
-##### Tests:
-* *бирка%{front%}%>ӹ%>ӹн*
-* *бирк00%>ӹ%>0н*
-
-### Vowel harmony rules
-
-**Onset vowel ыӹ0 realized in suffix  %{ыӹØ%}:ы rule**  
-
-**Onset vowel %{ыӹØ%} realized in suffix  %{ыӹØ%}:ӹ rule** 
-
-**Onset vowel %{ыӹе%} realized in suffix  %{ыӹе%}:ӹ rule** 
-
-**Onset vowel %{ыӹе%} realized in suffix  %{ыӹе%}:ы rule** 
-
-**Onset vowel %{ыӹе%} realized in suffix  %{ыӹе%}:е rule** 
-
-**Onset vowel %{ыӹе%} realized in suffix  %{ыӹе%}:э rule** 
-
-**Onset vowel %{ыӹэ%} realized in Ine and Ill suffixes %{ыӹэ%}:0 rule** 
-
-*комбы%>%{ыӹэ%}штем  examples:*
-
-*комбы00штем  examples:*
-
-**Onset vowel %{ыӹэ%} realized in Ine and Ill suffixes %{ыӹэ%}:0 rule** 
-
-##### Tests:
-
-*олма%>%{ыӹэ%}штем  examples:*
-
-*олма0эштем  examples:*
-
-**Affix mid or final front %{аӓ%}:ӓ rule** 
-
-##### Tests:
-
-*комбы%>еш%>н%{аӓ%}  examples:*
-
-*комб00еш0нӓ  examples:*
-
-ӹштӓш+Hom2+V+Ind+Prs+Sg3: **do/tehdä** 
-* *ӹштӹ%{front%}%>%{аӓ%}*
-
-##### Tests:
-
-*библиотека%{front%}%^А2ЫӸ%>л%{аӓ%}н  examples:*
-
-*библиотекӹ00%>лӓн  examples:*
-
-**Affix mid or final back %{аӓ%}:а rule**  
-
-толаш+V+Ind+Prs+Pl1: **come/tulla** 
-
-##### Tests:
-* *тол%{back%}%>%{ыӹе%}н%{аӓ%}*
-* *тол0%>ына*
-
-##### Tests:
-
-*колт%>%{ыӹØ%}д%{аӓ%}  examples:*
-
-*колт0ыда  examples:*
-
-*яд%{back%}%>%{аӓ%}ш  examples:*
-
-*яд0%>аш  examples:*
-
-**Affix mid or final back %{аӓ%}:я rule**  
-
-##### Tests:
-
-*кай%>%{аӓ%}ш  examples:*
-
-*ка0%>яш  examples:*
-
-**Affix initial back а:я rule**  
-
-**Not SgNom а:ы rule** 
-
-**Not SgNom а:ӹ rule** 
-
-**suffix-final vowel backed %{ыӹ%}ы rule**  
-
-**suffix-final vowel fronted %{ыӹ%}:ӹ rule**  
-
-### Consonant loss or transformation rules
-
-**т:0 in am type verbs rule** лӓктӓш:лӓкнӓ 
-
-**к:0 in am type verbs rule** качкаш:качна 
-
-**з:ц in am type verbs rule** вазаш:вацна 
-
-**н:0 before з:ц in am type verbs rule** негӹнзӓш:негӹц 
-
-### Vowel addition rules 
-
-#### Vowel gain 
-**0:ы between ш _ ж rule** йиш:йишӹжӹ 
-
-**0:ӹ between ш _ ж rule** йиш:йишӹжӹ 
-
-### Vowel loss rules
-
-**suffix-final vowel loss before subsequent suffix-initial vowel %{ыӹ%}:0 rule**  
-
-**Not SgNom for lat а:0 rule** 
-
-**Not SgNom for lat е:0 rule** 
-
-##### Tests:
-* *варенье%>ӹ%>влӓ*
-* *варень0%>ӹ%>влӓ*
-
-## Devoicing 
-**Onset consonant devoicing rule**  
+* **LEXICON A_MOER** has *front* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_MOER.
+ +Der+Der/N+N:%{front%} NMN_MOER ; The +N tag is given here to curtail over generation from derived nouns
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/phonology.twolc)</small>
-
----
-
-This is where new words are added as lexc entries before they are 
-added to the xml source files.
-йолтишкӓ:йолтишкӓ A_OLMA "(eng) /(fin) /(rus) " ;
-
-ADD ADJECTIVES BELOW
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/adjectives_newwords.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/stems/adjectives_newwords.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/affixes/adjectives.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/affixes/adjectives.lexc)</small>
 
 ---
 
 
+# Compounding
 
-PROPER GIVEN NAMES
+Does Hill Mari have anything like LEXICON R and %- N ;
 
-PROPER PATRONYMS
+## Interj lexica
 
-PROPER PLACE NAMES
+* LEXICON INTERJ_  
+
+## Postp lexica
+
+* LEXICON POSTP_  
+
+* LEXICON Ad-A_ 
+
+ADV_ 
+
+Temporal tags with cases
+
+* LEXICON ADV-TEMP_  
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/exceptions.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/stems/exceptions.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/affixes/adverbs.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/affixes/adverbs.lexc)</small>
 
 ---
 
+# Clitics
+----
 
-# Meadow & Eastern Mari numerals 
+Hill Mari (Western Mari) adverbial clitics are not bound by POS.
 
-## The initial lexica
+K
 
-* **LEXICON Numeral**  initial lexica
-
-* **LEXICON ARABIC** arabic numerals
-
-* **LEXICON ARABICLOOP**
-
-* **LEXICON ARABICLOOPORD_Back** ordinals
-
-* **LEXICON ARABICLOOPORD_Front** ordinals
-
-* **LEXICON ARABICLOOPORD_FrontRound** ordinals
-
-* **LEXICON ARABICDELIMITERORD_Back** ordinals
-
-* **LEXICON ARABICDELIMITERORD_Front** ordinals
-
-* **LEXICON ARABICDELIMITERORD_FrontRound** ordinals
-
-The Roman numerals !
------------------- !
-
-* **LEXICON ROMAN**  roman numerals
-
-* **LEXICON ROM-THOUSAND**
-
-* **LEXICON ROM-THOUSAND-TAG**
-
-* **LEXICON ROM-HUNDRED**
-
-* **LEXICON ROM-HUNDRED-TAG**
-
-* **LEXICON ROM-TEN**
-
-* **LEXICON ROM-TEN-TAG**
-
-* **LEXICON ROM-ONE**
-
-* **LEXICON ROM-ONE-TAG**
-
-* **LEXICON ROM-SPLIT**
-
-* **LEXICON 2ROMAN**
-
-* **LEXICON 2ROM-THOUSAND**
-
-* **LEXICON 2ROM-THOUSAND-TAG**
-
-* **LEXICON 2ROM-HUNDRED**
-
-* **LEXICON 2ROM-HUNDRED-TAG**
-
-* **LEXICON 2ROM-TEN**
-
-* **LEXICON 2ROM-TEN-TAG**
-
-* **LEXICON 2ROM-ONE**
-
-* **LEXICON 2ROM-ONE-TAG**
-
-* **LEXICON ROMNUMTAG**
-
-* **LEXICON ARABICCASEORD_Back** ordinals Is this then becoming +Ex/A?
-* **LEXICON ARABICCASEORD_Front** ordinals
-* **LEXICON ARABICCASEORD_FrontRound** ordinals
+WORDEND
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/numerals.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/stems/numerals.lexc)</small>
-
----
-
-Prefixes
-Prefixes in the Western Mari language are bound to beginning of other words.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/prefixes.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/stems/prefixes.lexc)</small>
-
----
-
-This is where new words are added as lexc entries before they are 
-added to the xml source files.
-йолтишкӓ+N+Prop:йолтишкӓ PROP_OLMA "(eng) /(fin) /(rus) " ;
-
-ADD NOUNS BELOW
-
-MARI-LIKE NAMES
-
-PLACE NAMES
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/propernouns_newwords.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/stems/propernouns_newwords.lexc)</small>
-
----
-
-This is where new words are added as lexc entries before they are 
-added to the xml source files.
-йолтишкӓ+N:йолтишкӓ A_OLMA "(eng) /(fin) /(rus) " ;
-
-ADD NOUNS BELOW
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/nouns_newwords.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/stems/nouns_newwords.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/affixes/clitics.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/affixes/clitics.lexc)</small>
 
 ---
 
@@ -984,46 +659,6 @@ PXSG3
 
 ---
 
-
-# Compounding
-
-Does Hill Mari have anything like LEXICON R and %- N ;
-
-## Interj lexica
-
-* LEXICON INTERJ_  
-
-## Postp lexica
-
-* LEXICON POSTP_  
-
-* LEXICON Ad-A_ 
-
-ADV_ 
-
-Temporal tags with cases
-
-* LEXICON ADV-TEMP_  
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/adverbs.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/affixes/adverbs.lexc)</small>
-
----
-
-$ Quantifiers
-----
-
-Hill Mari (Western Mari) numerals...
-
-NUM_
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/quantifiers.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/affixes/quantifiers.lexc)</small>
-
----
-
 # Pronouns
 ----
 
@@ -1058,21 +693,6 @@ Dem-Cx
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/affixes/pronouns.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/affixes/pronouns.lexc)</small>
-
----
-
-# Clitics
-----
-
-Hill Mari (Western Mari) adverbial clitics are not bound by POS.
-
-K
-
-WORDEND
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/clitics.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/affixes/clitics.lexc)</small>
 
 ---
 
@@ -1144,35 +764,35 @@ Russian type Surnames
 
 ---
 
-# Hill Mari adjective inflection
+$ Quantifiers
+----
 
-This file contains a handful of lexica, each with 3 subentries. The two first ones give +Pos+Attr dn +Comp:рак, respectively, whereeas the third entry gives a *+Der/N* tag and redirects to the relevant noun lexica for case inflection
+Hill Mari (Western Mari) numerals...
 
-## Temporary lexicon
-* **LEXICON A-ADN_**  = This adjective only occurs with a head word in an adnominal phrase
-
-## Ordinary lexica
-
-* **LEXICON A_** has *aä* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_OLMA. 
-This should be neutral 2013-05-11
-
-* **LEXICON A_OLMA** has  *back* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_OLMA.
-
-* **LEXICON A_AEZAE** has *front* trigger, gets +Pos, +Comp, or goes via Der/N to NMN_AAEZAE.
-
-* **LEXICON A_MARY** has *back* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_MARY.
-
-* **LEXICON A_TYERVYE** har *front* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_TYERVYE.
-
-* **LEXICON A_KOL** has *back* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_KOL.
-+Der+Der/N+N:%{back%} NMN_KOL ; The +N tag is given here to curtail over generation from derived nouns
-
-* **LEXICON A_MOER** has *front* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_MOER.
- +Der+Der/N+N:%{front%} NMN_MOER ; The +N tag is given here to curtail over generation from derived nouns
+NUM_
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/adjectives.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/affixes/adjectives.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/affixes/quantifiers.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/affixes/quantifiers.lexc)</small>
+
+---
+
+
+# Symbol affixes
+
+Noun_symbols_possibly_inflected
+
+Noun_symbols_never_inflected
+
+SYMBOL_connector
+
+SYMBOL_NO_suff
+
+SYMBOL_suff
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/affixes/symbols.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/affixes/symbols.lexc)</small>
 
 ---
 
@@ -1436,22 +1056,251 @@ ACT-PRC_FRONT
 
 ---
 
+# Morphophonological rules for Hill Mari 
 
-# Symbol affixes
+This file documents the [phonology.twolc file](http://github.com/giellalt/lang-mrj/blob/main/src/fst/phonology.twolc) 
 
-Noun_symbols_possibly_inflected
+## Alphabet, Sets and Definitions 
 
-Noun_symbols_never_inflected
+### Alphabet 
+#### Letters of the alphabet 
 
-SYMBOL_connector
+* **а б в г д е ё ж з и й к л м н ҥ о ӧ п р с т у ӱ ф х ц ч ш щ ъ ы ь э ю я ӓ ӹ ** 
+* **А Б В Г Д Е Ё Ж З И Й К Л М Н Ҥ О Ӧ П Р С Т У Ӱ Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я Ӓ Ӹ ** 
 
-SYMBOL_NO_suff
+#### Archiphonemes for vowels 
+* ** %{аӓ%}:ӓ  ** a/ä alternation in vowel harmony 
+* ** Е3:е ** ӓвӓмвлӓ 
+* ** Е2:0 ** 
+* ** %{ыӹØ%}:0 ** 
+* ** %{ыӹØ%}:0 ** used in verb affix onset 
+* ** %{ыӹØ%}:0 ** used in noun affix onset ine, ill 
+* ** %{ыӹØ%}:0 ** used in verb affix onset 
+* ** %{ыӹ%}:0  ** 
+* ** А2:а ** 
+* ** Ь2:0 **  except with V АМ +Prt1+Sg1-3 
 
-SYMBOL_suff
+#### Triggers 
+* ** %{front%}:0 %{back%}:0 ** front-back vowel harmony 
+* **%^ConsTransf:0 ** 
+* **%^KIN:0        **  with ӓвӓ in +PxSg1+Sg+Gen etc. 
+* **%^А2ЫӸ:0       **  with карта and картын витринӹн 
+
+#### Boundary symbols 
+
+* ** %> ** 
+* hash # 
+* ** %- ** 
+
+### Sets 
+
+* **BackLabVow =   о у ё ю О У Ё Ю ; 				     ** 
+* **FrontLabVow =   ӧ ӱ Ӧ Ӱ; 						     ** 
+* **NonLabVow =   ӓ а е и э я Ӓ А Е И Э Я ; 		     ** 
+* **Vow =  BackLabVow FrontLabVow NonLabVow ы Ы  ӹ Ӹ ;   ** 
+* **BackVow = BackLabVow а А ы Ы ; 					     ** 
+* **FrontVow = FrontLabVow е и э ӓ ӹ Е И Э Ӓ Ӹ ; 	     ** 
+* **ArchiVow = %{ыӹØ%} %{ыӹ%} %{аӓ%} ; 				     ** 
+* **FullVow = BackLabVow FrontLabVow NonLabVow ;  	     ** 
+* **CnsNoLN =  б в г д ж з к м ҥ п р с т ф х ц ч ш 	     ** 
+* **           Б В Г Д Ж З К М Ҥ П Р С Т Ф Х Ц Ч Ш ;     ** 
+* **Cns =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш 	     ** 
+* **       Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш ;     ** 
+* **Cst =  к п т ф х ц ч ш с 						     ** 
+* **       К П Т Ф Х Ц Ч Ш Ц ;  					     ** 
+* **Ltrs = Vow Cns Й й  ъ ь Ъ Ь ; 					     ** 
+* **all =  Ltrs  %- ; 								     ** 
+* **HarmDummies = %{back%} %{front%} ; 				     ** 
+
+### Definitions 
+
+Back Harmony BHARM
+
+Front Harmony FHARM
+
+LFH
+
+LBH
+
+## Rules 
+
+### Palatalisation rules
+
+**Palatal mark loss before vowel rule**  
+
+**й Deletion in front of я Suffix and others rule**  
+
+##### Tests:
+
+*кай%>%{аӓ%}ш  examples:*
+
+*ка00яш  examples:*
+
+**Ь2:ь Palatal mark for V АМ +Prt1+Sg1 rule**  
+
+толаш+V+Ind+Prt1+Sg1 
+
+##### Tests:
+* *тол%{back%}Ь2%>%{ыӹØ%}м*
+* *тол0ь%>ым*
+
+**Ь2:0 Palatal mark for V АМ +Prt1+Sg1 rule**  
+
+**Ь2:ш Palatal mark for V ЕМ +Prt1+Sg1 rule**  
+
+### Vowel rules 
+**Onset vowel in а rule** 
+
+**Onset vowel in ӓ rule** 
+
+**Onset vowel in я rule** 
+
+**Onset vowel in е rule** 
+
+**Onset vowel loss in suffix ыӹ0 rule**  
+
+**Onset vowel loss in suffix Е3 rule**  
+
+**Onset vowel loss in suffix Е3 rule**  
+
+**Onset vowel Е2 realized in suffix :е rule** 
+
+**Onset vowel Е2:э after retained vowel rule**  
+
+**Onset vowel Е3:э after retained vowel rule**  
+
+**Onset vowel е:э after retained vowel rule** 
+
+**Stem final ы loss before Е2 rule**  
+
+##### Tests:
+* *карта%>ы%>ын*
+* *карт0%>ы%>0н*
+* *янжы%{back%}>аш*
+* *янж00>аш*
+
+**Stem final ӹ loss before Е2 rule**  
+
+##### Tests:
+* *бирка%{front%}%>ӹ%>ӹн*
+* *бирк00%>ӹ%>0н*
+
+### Vowel harmony rules
+
+**Onset vowel ыӹ0 realized in suffix  %{ыӹØ%}:ы rule**  
+
+**Onset vowel %{ыӹØ%} realized in suffix  %{ыӹØ%}:ӹ rule** 
+
+**Onset vowel %{ыӹе%} realized in suffix  %{ыӹе%}:ӹ rule** 
+
+**Onset vowel %{ыӹе%} realized in suffix  %{ыӹе%}:ы rule** 
+
+**Onset vowel %{ыӹе%} realized in suffix  %{ыӹе%}:е rule** 
+
+**Onset vowel %{ыӹе%} realized in suffix  %{ыӹе%}:э rule** 
+
+**Onset vowel %{ыӹэ%} realized in Ine and Ill suffixes %{ыӹэ%}:0 rule** 
+
+*комбы%>%{ыӹэ%}штем  examples:*
+
+*комбы00штем  examples:*
+
+**Onset vowel %{ыӹэ%} realized in Ine and Ill suffixes %{ыӹэ%}:0 rule** 
+
+##### Tests:
+
+*олма%>%{ыӹэ%}штем  examples:*
+
+*олма0эштем  examples:*
+
+**Affix mid or final front %{аӓ%}:ӓ rule** 
+
+##### Tests:
+
+*комбы%>еш%>н%{аӓ%}  examples:*
+
+*комб00еш0нӓ  examples:*
+
+ӹштӓш+Hom2+V+Ind+Prs+Sg3: **do/tehdä** 
+* *ӹштӹ%{front%}%>%{аӓ%}*
+
+##### Tests:
+
+*библиотека%{front%}%^А2ЫӸ%>л%{аӓ%}н  examples:*
+
+*библиотекӹ00%>лӓн  examples:*
+
+**Affix mid or final back %{аӓ%}:а rule**  
+
+толаш+V+Ind+Prs+Pl1: **come/tulla** 
+
+##### Tests:
+* *тол%{back%}%>%{ыӹе%}н%{аӓ%}*
+* *тол0%>ына*
+
+##### Tests:
+
+*колт%>%{ыӹØ%}д%{аӓ%}  examples:*
+
+*колт0ыда  examples:*
+
+*яд%{back%}%>%{аӓ%}ш  examples:*
+
+*яд0%>аш  examples:*
+
+**Affix mid or final back %{аӓ%}:я rule**  
+
+##### Tests:
+
+*кай%>%{аӓ%}ш  examples:*
+
+*ка0%>яш  examples:*
+
+**Affix initial back а:я rule**  
+
+**Not SgNom а:ы rule** 
+
+**Not SgNom а:ӹ rule** 
+
+**suffix-final vowel backed %{ыӹ%}ы rule**  
+
+**suffix-final vowel fronted %{ыӹ%}:ӹ rule**  
+
+### Consonant loss or transformation rules
+
+**т:0 in am type verbs rule** лӓктӓш:лӓкнӓ 
+
+**к:0 in am type verbs rule** качкаш:качна 
+
+**з:ц in am type verbs rule** вазаш:вацна 
+
+**н:0 before з:ц in am type verbs rule** негӹнзӓш:негӹц 
+
+### Vowel addition rules 
+
+#### Vowel gain 
+**0:ы between ш _ ж rule** йиш:йишӹжӹ 
+
+**0:ӹ between ш _ ж rule** йиш:йишӹжӹ 
+
+### Vowel loss rules
+
+**suffix-final vowel loss before subsequent suffix-initial vowel %{ыӹ%}:0 rule**  
+
+**Not SgNom for lat а:0 rule** 
+
+**Not SgNom for lat е:0 rule** 
+
+##### Tests:
+* *варенье%>ӹ%>влӓ*
+* *варень0%>ӹ%>влӓ*
+
+## Devoicing 
+**Onset consonant devoicing rule**  
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/symbols.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/affixes/symbols.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/phonology.twolc)</small>
 
 ---
 
@@ -1886,6 +1735,145 @@ ENDLEX goes to # for now.
 
 ---
 
+This is where new words are added as lexc entries before they are 
+added to the xml source files.
+йолтишкӓ:йолтишкӓ A_OLMA "(eng) /(fin) /(rus) " ;
+
+ADD ADJECTIVES BELOW
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/adjectives_newwords.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/stems/adjectives_newwords.lexc)</small>
+
+---
+
+
+
+PROPER GIVEN NAMES
+
+PROPER PATRONYMS
+
+PROPER PLACE NAMES
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/exceptions.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/stems/exceptions.lexc)</small>
+
+---
+
+This is where new words are added as lexc entries before they are 
+added to the xml source files.
+йолтишкӓ+N:йолтишкӓ A_OLMA "(eng) /(fin) /(rus) " ;
+
+ADD NOUNS BELOW
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/nouns_newwords.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/stems/nouns_newwords.lexc)</small>
+
+---
+
+
+# Meadow & Eastern Mari numerals 
+
+## The initial lexica
+
+* **LEXICON Numeral**  initial lexica
+
+* **LEXICON ARABIC** arabic numerals
+
+* **LEXICON ARABICLOOP**
+
+* **LEXICON ARABICLOOPORD_Back** ordinals
+
+* **LEXICON ARABICLOOPORD_Front** ordinals
+
+* **LEXICON ARABICLOOPORD_FrontRound** ordinals
+
+* **LEXICON ARABICDELIMITERORD_Back** ordinals
+
+* **LEXICON ARABICDELIMITERORD_Front** ordinals
+
+* **LEXICON ARABICDELIMITERORD_FrontRound** ordinals
+
+The Roman numerals !
+------------------ !
+
+* **LEXICON ROMAN**  roman numerals
+
+* **LEXICON ROM-THOUSAND**
+
+* **LEXICON ROM-THOUSAND-TAG**
+
+* **LEXICON ROM-HUNDRED**
+
+* **LEXICON ROM-HUNDRED-TAG**
+
+* **LEXICON ROM-TEN**
+
+* **LEXICON ROM-TEN-TAG**
+
+* **LEXICON ROM-ONE**
+
+* **LEXICON ROM-ONE-TAG**
+
+* **LEXICON ROM-SPLIT**
+
+* **LEXICON 2ROMAN**
+
+* **LEXICON 2ROM-THOUSAND**
+
+* **LEXICON 2ROM-THOUSAND-TAG**
+
+* **LEXICON 2ROM-HUNDRED**
+
+* **LEXICON 2ROM-HUNDRED-TAG**
+
+* **LEXICON 2ROM-TEN**
+
+* **LEXICON 2ROM-TEN-TAG**
+
+* **LEXICON 2ROM-ONE**
+
+* **LEXICON 2ROM-ONE-TAG**
+
+* **LEXICON ROMNUMTAG**
+
+* **LEXICON ARABICCASEORD_Back** ordinals Is this then becoming +Ex/A?
+* **LEXICON ARABICCASEORD_Front** ordinals
+* **LEXICON ARABICCASEORD_FrontRound** ordinals
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/numerals.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/stems/numerals.lexc)</small>
+
+---
+
+Prefixes
+Prefixes in the Western Mari language are bound to beginning of other words.
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/prefixes.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/stems/prefixes.lexc)</small>
+
+---
+
+This is where new words are added as lexc entries before they are 
+added to the xml source files.
+йолтишкӓ+N+Prop:йолтишкӓ PROP_OLMA "(eng) /(fin) /(rus) " ;
+
+ADD NOUNS BELOW
+
+MARI-LIKE NAMES
+
+PLACE NAMES
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/propernouns_newwords.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/stems/propernouns_newwords.lexc)</small>
+
+---
+
 
 
 retroflex plosive, voiceless			t`  ʈ	    0288, 648 (` = ASCII 096)
@@ -2111,7 +2099,6 @@ CLB
 LEFT
 RIGHT
 WEB
-QMARK
 PPUNCT
 PUNCT
 
@@ -2225,9 +2212,6 @@ Sem/Txt
 
 HUMAN
 
-HAB-ACTOR
-HAB-ACTOR-NOT-HUMAN
-
 PROP-ATTR
 PROP-SUR
 
@@ -2316,8 +2300,6 @@ INITIAL
 ### Sets for word or not
 
 WORD
-REAL-WORD
-REAL-WORD-NOT-ABBR
 NOT-COMMA
 
 ### Case sets
@@ -2376,12 +2358,7 @@ expression **WORD - premodifiers**.
 ### Grammarchecker sets
 
 * * *
-
-<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-mrj/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small>
-
----
-
-Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
+<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-mrj/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small>Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
 Then just:
 $ make
 $ echo "ja, ja" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
@@ -2489,69 +2466,6 @@ Needs hfst-tokenise to output things differently depending on the tag they get
 
 ---
 
-# Grammar checker tokenisation for mrj
-
-Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
-Then just:
-```
-$ make
-$ echo "ja, ja" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-```
-
-More usage examples:
-```
-$ echo "Juos gorreválggain lea (dárbbašlaš) deavdit gáibádusa boasttu olmmoš, man mielde lahtuid." | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-$ echo "(gáfe) 'ja' ja 3. ja? ц jaja ukjend \"ukjend\"" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-$ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-```
-
-Pmatch documentation:
-<https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch>
-
-Characters which have analyses in the lexicon, but can appear without spaces
-before/after, that is, with no context conditions, and adjacent to words:
-* Punct contains ASCII punctuation marks
-* The symbol after m-dash is soft-hyphen `U+00AD`
-* The symbol following {•} is byte-order-mark / zero-width no-break space
-`U+FEFF`.
-
-Whitespace contains ASCII white space and
-the List contains some unicode white space characters
-* En Quad U+2000 to Zero-Width Joiner U+200d'
-* Narrow No-Break Space U+202F
-* Medium Mathematical Space U+205F
-* Word joiner U+2060
-
-Apart from what's in our morphology, there are
-1) unknown word-like forms, and
-2) unmatched strings
-We want to give 1) a match, but let 2) be treated specially by hfst-tokenise -a
-* select extended latin symbols
-* select symbols
-* various symbols from Private area (probably Microsoft),
-so far:
-* U+F0B7 for "x in box"
-
-TODO: Could use something like this, but built-in's don't include šžđčŋ:
-
-Simply give an empty reading when something is unknown:
-hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
-remove empty analyses from other readings. Empty readings are also
-legal in CG, they get a default baseform equal to the wordform, but
-no tag to check, so it's safer to let hfst-tokenise handle them.
-
-Finally we mark as a token any sequence making up a:
-* known word in context
-* unknown (OOV) token in context
-* sequence of word and punctuation
-* URL in context
-
-* * *
-
-<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript](https://github.com/giellalt/lang-mrj/blob/main/tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript)</small>
-
----
-
 # Tokeniser for mrj
 
 Usage:
@@ -2564,7 +2478,7 @@ $ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-des
 ```
 
 Pmatch documentation:
-<https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch>
+<https://github.com/hfst/hfst/wiki/HfstPmatch>
 
 Characters which have analyses in the lexicon, but can appear without spaces
 before/after, that is, with no context conditions, and adjacent to words:
@@ -2668,6 +2582,69 @@ Needs hfst-tokenise to output things differently depending on the tag they get
 * * *
 
 <small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-disamb-gt-desc.thirties.pmscript](https://github.com/giellalt/lang-mrj/blob/main/tools/tokenisers/tokeniser-disamb-gt-desc.thirties.pmscript)</small>
+
+---
+
+# Grammar checker tokenisation for mrj
+
+Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
+Then just:
+```
+$ make
+$ echo "ja, ja" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+```
+
+More usage examples:
+```
+$ echo "Juos gorreválggain lea (dárbbašlaš) deavdit gáibádusa boasttu olmmoš, man mielde lahtuid." | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+$ echo "(gáfe) 'ja' ja 3. ja? ц jaja ukjend \"ukjend\"" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+$ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+```
+
+Pmatch documentation:
+<https://github.com/hfst/hfst/wiki/HfstPmatch>
+
+Characters which have analyses in the lexicon, but can appear without spaces
+before/after, that is, with no context conditions, and adjacent to words:
+* Punct contains ASCII punctuation marks
+* The symbol after m-dash is soft-hyphen `U+00AD`
+* The symbol following {•} is byte-order-mark / zero-width no-break space
+`U+FEFF`.
+
+Whitespace contains ASCII white space and
+the List contains some unicode white space characters
+* En Quad U+2000 to Zero-Width Joiner U+200d'
+* Narrow No-Break Space U+202F
+* Medium Mathematical Space U+205F
+* Word joiner U+2060
+
+Apart from what's in our morphology, there are
+1) unknown word-like forms, and
+2) unmatched strings
+We want to give 1) a match, but let 2) be treated specially by hfst-tokenise -a
+* select extended latin symbols
+* select symbols
+* various symbols from Private area (probably Microsoft),
+so far:
+* U+F0B7 for "x in box"
+
+TODO: Could use something like this, but built-in's don't include šžđčŋ:
+
+Simply give an empty reading when something is unknown:
+hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
+remove empty analyses from other readings. Empty readings are also
+legal in CG, they get a default baseform equal to the wordform, but
+no tag to check, so it's safer to let hfst-tokenise handle them.
+
+Finally we mark as a token any sequence making up a:
+* known word in context
+* unknown (OOV) token in context
+* sequence of word and punctuation
+* URL in context
+
+* * *
+
+<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript](https://github.com/giellalt/lang-mrj/blob/main/tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript)</small>
 
 ---
 
