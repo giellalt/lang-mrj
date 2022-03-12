@@ -2,7 +2,7 @@ The Hill Mari (Western Mari) morphology and tools
 ==========================================
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-mrj)](https://github.com/giellalt/lang-mrj/issues)
-[![Build Status](https://github.com/giellalt/lang-mrj/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-mrj/actions)
+[![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-mrj/main/badge.svg)](https://github.com/giellalt/lang-mrj/actions)
 [![License](https://img.shields.io/github/license/giellalt/lang-mrj)](https://github.com/giellalt/lang-mrj/blob/main/LICENSE)
 
 This repository contains finite state source files for the Western Mari language,
