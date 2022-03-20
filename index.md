@@ -3,7 +3,7 @@
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
 [![License](https://img.shields.io/github/license/giellalt/lang-mrj)](https://github.com/giellalt/lang-mrj/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-mrj)](https://github.com/giellalt/lang-mrj/issues)
-[![Build status](https://github.com/giellalt/lang-mrj/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-mrj/actions)
+[![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-mrj/main/badge.svg)](https://github.com/giellalt/lang-mrj/actions)
 
 This page documents the work on the [Western (Hill) Mari language model](http://github.com/giellalt/lang-mrj). 
 
