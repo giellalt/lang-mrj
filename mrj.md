@@ -1132,9 +1132,9 @@ LBH
 
 ##### Tests:
 
-*кай%>%{аӓ%}ш  examples:*
+* кай%>%{аӓ%}ш  examples:*
 
-*ка00яш  examples:*
+* ка00яш  examples:*
 
 **Ь2:ь Palatal mark for V АМ +Prt1+Sg1 rule**  
 
@@ -1201,34 +1201,34 @@ LBH
 
 **Onset vowel %{ыӹэ%} realized in Ine and Ill suffixes %{ыӹэ%}:0 rule** 
 
-*комбы%>%{ыӹэ%}штем  examples:*
+* комбы%>%{ыӹэ%}штем  examples:*
 
-*комбы00штем  examples:*
+* комбы00штем  examples:*
 
 **Onset vowel %{ыӹэ%} realized in Ine and Ill suffixes %{ыӹэ%}:0 rule** 
 
 ##### Tests:
 
-*олма%>%{ыӹэ%}штем  examples:*
+* олма%>%{ыӹэ%}штем  examples:*
 
-*олма0эштем  examples:*
+* олма0эштем  examples:*
 
 **Affix mid or final front %{аӓ%}:ӓ rule** 
 
 ##### Tests:
 
-*комбы%>еш%>н%{аӓ%}  examples:*
+* комбы%>еш%>н%{аӓ%}  examples:*
 
-*комб00еш0нӓ  examples:*
+* комб00еш0нӓ  examples:*
 
 ӹштӓш+Hom2+V+Ind+Prs+Sg3: **do/tehdä** 
 * *ӹштӹ%{front%}%>%{аӓ%}*
 
 ##### Tests:
 
-*библиотека%{front%}%^А2ЫӸ%>л%{аӓ%}н  examples:*
+* библиотека%{front%}%^А2ЫӸ%>л%{аӓ%}н  examples:*
 
-*библиотекӹ00%>лӓн  examples:*
+* библиотекӹ00%>лӓн  examples:*
 
 **Affix mid or final back %{аӓ%}:а rule**  
 
@@ -1240,21 +1240,21 @@ LBH
 
 ##### Tests:
 
-*колт%>%{ыӹØ%}д%{аӓ%}  examples:*
+* колт%>%{ыӹØ%}д%{аӓ%}  examples:*
 
-*колт0ыда  examples:*
+* колт0ыда  examples:*
 
-*яд%{back%}%>%{аӓ%}ш  examples:*
+* яд%{back%}%>%{аӓ%}ш  examples:*
 
-*яд0%>аш  examples:*
+* яд0%>аш  examples:*
 
 **Affix mid or final back %{аӓ%}:я rule**  
 
 ##### Tests:
 
-*кай%>%{аӓ%}ш  examples:*
+* кай%>%{аӓ%}ш  examples:*
 
-*ка0%>яш  examples:*
+* ка0%>яш  examples:*
 
 **Affix initial back а:я rule**  
 
