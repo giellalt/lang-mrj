@@ -38,142 +38,142 @@ Tests:
      карта+N+Pl+Abe: картывлӓде
 
 #Sg,PxSg1
-     карта+N+Sg+Nom+PxSg1: картем 
-     карта+N+Sg+PxSg1+Gen: картемӹн
-     карта+N+Sg+PxSg1+Acc: картемӹм
-     карта+N+Sg+PxSg1+Com: картемге
-     карта+N+Sg+PxSg1+Dat: картемлӓн
-     карта+N+Sg+Dat+PxSg1: картыланем
-     карта+N+Sg+Ine+PxSg1: картыштем
-     карта+N+Sg+Ill+PxSg1: картышкем
-     карта+N+Sg+Lat+PxSg1: картешем
-     карта+N+Sg+PxSg1+Cmpr: картемлӓ 
-     карта+N+Sg+Cmpr+PxSg1: картылаэм 
-     карта+N+Sg+PxSg1+Abe: картемде
+     карта+N+Sg+Nom+PxSg1+So/CP: картем 
+     карта+N+Sg+Gen+PxSg1+So/PC: картемӹн
+     карта+N+Sg+Acc+PxSg1+So/PC: картемӹм
+     карта+N+Sg+Com+PxSg1+So/PC: картемге
+     карта+N+Sg+Dat+PxSg1+So/PC: картемлӓн
+     карта+N+Sg+Dat+PxSg1+So/CP: картыланем
+     карта+N+Sg+Ine+PxSg1+So/CP: картыштем
+     карта+N+Sg+Ill+PxSg1+So/CP: картышкем
+     карта+N+Sg+Lat+PxSg1+So/CP: картешем
+     карта+N+Sg+Cmpr+PxSg1+So/PC: картемлӓ 
+     карта+N+Sg+Cmpr+PxSg1+So/CP: картылаэм 
+     карта+N+Sg+Abe+PxSg1+So/PC: картемде
 
 #Pl,PxSg1     
-     карта+N+Pl+Nom+PxSg1: картывлӓэм
+     карта+N+Pl+Nom+PxSg1+So/NCP: картывлӓэм
 #тенге манаш лиэш: кынам посессив анзылны, шамаквлӓ деминутив сӹрӓн лит.
 #мӹнлӹн ӹшке ӹштӹмӹ картем.
-#    карта+N+PxSg1+Pl+Nom: картемвлӓ
-     карта+N+Pl+PxSg1+Gen: картывлӓэмӹн
-#    карта+N+PxSg1+Pl+Gen: картемвлӓн
-     карта+N+Pl+PxSg1+Acc: картывлӓэмӹм
-#    карта+N+PxSg1+Pl+Acc: картемвлӓм
-     карта+N+Pl+PxSg1+Com: картывлӓэмге
-#    карта+N+PxSg1+Pl+Com: картемвлӓге
-     карта+N+Pl+PxSg1+Dat: картывлӓэмлӓн
-     карта+N+Pl+Dat+PxSg1: картывлӓлӓнем
-#    карта+N+PxSg1+Pl+Dat: картемвлӓлӓн
-     карта+N+Pl+Ine+PxSg1: картывлӓштем
-     карта+N+Pl+Ill+PxSg1: картывлӓшкем
-     карта+N+Pl+Lat+PxSg1: картывлӓэшем
-     карта+N+Pl+Cmpr+PxSg1: картывлӓлӓэм
-     карта+N+Pl+PxSg1+Cmpr: картывлӓэмлӓ          
-#    карта+N+PxSg1+Pl+Cmpr: картемвлӓлӓ
-     карта+N+Pl+PxSg1+Abe: картывлӓэмде
-#    карта+N+PxSg1+Pl+Abe: картемвлӓде
+#    карта+N+Pl+Nom+PxSg1+So/PNC: картемвлӓ
+     карта+N+Pl+Gen+PxSg1+So/NPC: картывлӓэмӹн
+#    карта+N+Pl+Gen+PxSg1+So/PNC: картемвлӓн
+     карта+N+Pl+Acc+PxSg1+So/NPC: картывлӓэмӹм
+#    карта+N+Pl+Acc+PxSg1+So/PNC: картемвлӓм
+     карта+N+Pl+Com+PxSg1+So/NPC: картывлӓэмге
+#    карта+N+Pl+Com+PxSg1+So/PNC: картемвлӓге
+     карта+N+Pl+Dat+PxSg1+So/NPC: картывлӓэмлӓн
+     карта+N+Pl+Dat+PxSg1+So/NCP: картывлӓлӓнем
+#    карта+N+Pl+Dat+PxSg1+So/PNC: картемвлӓлӓн
+     карта+N+Pl+Ine+PxSg1+So/NCP: картывлӓштем
+     карта+N+Pl+Ill+PxSg1+So/NCP: картывлӓшкем
+     карта+N+Pl+Lat+PxSg1+So/NCP: картывлӓэшем
+     карта+N+Pl+Cmpr+PxSg1+So/NCP: картывлӓлӓэм
+     карта+N+Pl+Cmpr+PxSg1+So/NPC: картывлӓэмлӓ          
+#    карта+N+Pl+Cmpr+PxSg1+So/PNC: картемвлӓлӓ
+     карта+N+Pl+Abe+PxSg1+So/NPC: картывлӓэмде
+#    карта+N+Pl+Abe+PxSg1+So/PNC: картемвлӓде
      
 #картет, картетшӹ, 
 #картыжы,
  
 #PxPl1
-     карта+N+Sg+Nom+PxPl1: картына 
-     карта+N+Sg+PxPl1+Gen: картынан
-     карта+N+Sg+PxPl1+Acc: картынам
-     карта+N+Sg+PxPl1+Com: картынаге
-     карта+N+Sg+Dat+PxPl1: картыланна     
-     карта+N+Sg+PxPl1+Dat: картыналан
-     карта+N+Sg+Ine+PxPl1: картыштына
-     карта+N+Sg+Ill+PxPl1: картышкына
-     карта+N+Sg+Lat+PxPl1: картешнӓ
-     карта+N+Sg+PxPl1+Cmpr: картынала 
-     карта+N+Sg+Cmpr+PxPl1: картылана 
-     карта+N+Sg+PxPl1+Abe: картынаде
+     карта+N+Sg+Nom+PxPl1+So/CP: картына 
+     карта+N+Sg+Gen+PxPl1+So/PC: картынан
+     карта+N+Sg+Acc+PxPl1+So/PC: картынам
+     карта+N+Sg+Com+PxPl1+So/PC: картынаге
+     карта+N+Sg+Dat+PxPl1+So/CP: картыланна     
+     карта+N+Sg+Dat+PxPl1+So/PC: картыналан
+     карта+N+Sg+Ine+PxPl1+So/CP: картыштына
+     карта+N+Sg+Ill+PxPl1+So/CP: картышкына
+     карта+N+Sg+Lat+PxPl1+So/CP: картешнӓ
+     карта+N+Sg+Cmpr+PxPl1+So/PC: картынала 
+     карта+N+Sg+Cmpr+PxPl1+So/CP: картылана 
+     карта+N+Sg+Abe+PxPl1+So/PC: картынаде
      
-     карта+N+Pl+Nom+PxPl1: картывлӓнӓ    
+     карта+N+Pl+Nom+PxPl1+So/NCP: картывлӓнӓ    
 #тенге манаш лиэш: кынам посессив анзылны, шамаквлӓ деминутив сӹрӓн лит.
 #попышывлӓ лошты пӓлӹмӹ опр. картывлӓ гишӓн шайыштмаш кеӓ.
-#    карта+N+PxPl1+Pl+Nom: картынавлӓ
-     карта+N+Pl+PxPl1+Gen: картывлӓнӓн
-#    карта+N+PxPl1+Pl+Gen: картынавлӓн
-     карта+N+Pl+PxPl1+Acc: картывлӓнӓм
-#    карта+N+PxPl1+Pl+Acc: картынавлӓм
-#    карта+N+PxPl1+Pl+Com: картынавлӓге
-     карта+N+Pl+PxPl1+Com: картывлӓнӓге
-     карта+N+Pl+Dat+PxPl1: картывлӓлӓннӓ
-#    карта+N+PxPl1+Pl+Dat: картынавлӓлӓн
-#    карта+N+Pl+PxPl1+Dat: картывлӓнӓлӓн
-     карта+N+Pl+Ine+PxPl1: картывлӓштӹнӓ
-     карта+N+Pl+Ill+PxPl1: картывлӓшкӹнӓ
-#    карта+N+PxPl1+Pl+Lat: картынавлӓэш
-     карта+N+Pl+Lat+PxPl1: картывлӓэшнӓ
-#    карта+N+PxPl1+Pl+Cmpr: картынавлӓлӓ
-#    карта+N+Pl+Cmpr+PxPl1: картывлӓлӓнӓ
-     карта+N+Pl+PxPl1+Cmpr: картывлӓнӓлӓ
-     карта+N+Pl+PxPl1+Abe: картывлӓнӓде
-#    карта+N+PxPl1+Pl+Abe: картынавлӓде
+#    карта+N+Pl+Nom+PxPl1+So/PNC: картынавлӓ
+     карта+N+Pl+Gen+PxPl1+So/NPC: картывлӓнӓн
+#    карта+N+Pl+Gen+PxPl1+So/PNC: картынавлӓн
+     карта+N+Pl+Acc+PxPl1+So/NPC: картывлӓнӓм
+#    карта+N+Pl+Acc+PxPl1+So/PNC: картынавлӓм
+#    карта+N+Pl+Com+PxPl1+So/PNC: картынавлӓге
+     карта+N+Pl+Com+PxPl1+So/NPC: картывлӓнӓге
+     карта+N+Pl+Dat+PxPl1+So/NCP: картывлӓлӓннӓ
+#    карта+N+Pl+Dat+PxPl1+So/PNC: картынавлӓлӓн
+#    карта+N+Pl+Dat+PxPl1+So/NPC: картывлӓнӓлӓн
+     карта+N+Pl+Ine+PxPl1+So/NCP: картывлӓштӹнӓ
+     карта+N+Pl+Ill+PxPl1+So/NCP: картывлӓшкӹнӓ
+#    карта+N+Pl+Lat+PxPl1+So/PNC: картынавлӓэш
+     карта+N+Pl+Lat+PxPl1+So/NCP: картывлӓэшнӓ
+#    карта+N+Pl+Cmpr+PxPl1+So/PNC: картынавлӓлӓ
+#    карта+N+Pl+Cmpr+PxPl1+So/NCP: картывлӓлӓнӓ
+     карта+N+Pl+Cmpr+PxPl1+So/NPC: картывлӓнӓлӓ
+     карта+N+Pl+Abe+PxPl1+So/NPC: картывлӓнӓде
+#    карта+N+Pl+Abe+PxPl1+So/PNC: картынавлӓде
 
 #PxPl2
-     карта+N+Sg+Nom+PxPl2: картыда 
-     карта+N+Sg+PxPl2+Gen: картыдан
-     карта+N+Sg+PxPl2+Acc: картыдам
-     карта+N+Sg+PxPl2+Com: картыдаге
-     карта+N+Sg+PxPl2+Dat: картыдалан
-     карта+N+Sg+Dat+PxPl2: картыланда
-     карта+N+Sg+Ine+PxPl2: картыштыда
-     карта+N+Sg+Ill+PxPl2: картышкыда
-     карта+N+Sg+Lat+PxPl2: картешдӓ
-     карта+N+Sg+PxPl2+Cmpr: картыдала
-     карта+N+Sg+Cmpr+PxPl2: картылада
-     карта+N+Sg+PxPl2+Abe: картыдаде
+     карта+N+Sg+Nom+PxPl2+So/CP: картыда 
+     карта+N+Sg+Gen+PxPl2+So/PC: картыдан
+     карта+N+Sg+Acc+PxPl2+So/PC: картыдам
+     карта+N+Sg+Com+PxPl2+So/PC: картыдаге
+     карта+N+Sg+Dat+PxPl2+So/PC: картыдалан
+     карта+N+Sg+Dat+PxPl2+So/CP: картыланда
+     карта+N+Sg+Ine+PxPl2+So/CP: картыштыда
+     карта+N+Sg+Ill+PxPl2+So/CP: картышкыда
+     карта+N+Sg+Lat+PxPl2+So/CP: картешдӓ
+     карта+N+Sg+Cmpr+PxPl2+So/PC: картыдала
+     карта+N+Sg+Cmpr+PxPl2+So/CP: картылада
+     карта+N+Sg+Abe+PxPl2+So/PC: картыдаде
      
-     карта+N+Pl+Nom+PxPl2: картывлӓдӓ
+     карта+N+Pl+Nom+PxPl2+So/NCP: картывлӓдӓ
 #мӹлӓм тенгелӓ чучеш, тенге манаш лиэш: кынам посессив анзылны, шамаквлӓ деминутив сӹрӓн лит.
-#    карта+N+PxPl2+Pl+Nom: картыдавлӓ
-     карта+N+Pl+PxPl2+Gen: картывлӓдӓн
-#    карта+N+PxPl2+Pl+Gen: картыдавлӓн
-     карта+N+Pl+PxPl2+Acc: картывлӓдӓм
-#    карта+N+PxPl2+Pl+Acc: картыдавлӓм
-#    карта+N+PxPl2+Pl+Com: картыдавлӓге
-     карта+N+Pl+PxPl2+Com: картывлӓдӓге
-     карта+N+Pl+Dat+PxPl2: картывлӓлӓндӓ
-#    карта+N+PxPl2+Pl+Dat: картыдавлӓлӓн
-#    карта+N+Pl+PxPl2+Dat: картывлӓдӓлӓн ! harvinainen
-     карта+N+Pl+Ine+PxPl2: картывлӓштӹдӓ
-     карта+N+Pl+Ill+PxPl2: картывлӓшкӹдӓ
-#    карта+N+PxPl2+Pl+Lat: картыдавлӓэш     
-     карта+N+Pl+Lat+PxPl2: картывлӓэшдӓ
-     карта+N+Pl+PxPl2+Cmpr: картывлӓдӓлӓ         
-#    карта+N+PxPl2+Pl+Cmpr: картыдавлӓлӓ
-#    карта+N+Pl+Cmpr+PxPl2: картывлӓлӓдӓ
-     карта+N+Pl+PxPl2+Abe: картывлӓдӓде
-#    карта+N+PxPl2+Pl+Abe: картыдавлӓде
+#    карта+N+Pl+Nom+PxPl2+So/PNC: картыдавлӓ
+     карта+N+Pl+Gen+PxPl2+So/NPC: картывлӓдӓн
+#    карта+N+Pl+Gen+PxPl2+So/PNC: картыдавлӓн
+     карта+N+Pl+Acc+PxPl2+So/NPC: картывлӓдӓм
+#    карта+N+Pl+Acc+PxPl2+So/PNC: картыдавлӓм
+#    карта+N+Pl+Com+PxPl2+So/PNC: картыдавлӓге
+     карта+N+Pl+Com+PxPl2+So/NPC: картывлӓдӓге
+     карта+N+Pl+Dat+PxPl2+So/NCP: картывлӓлӓндӓ
+#    карта+N+Pl+Dat+PxPl2+So/PNC: картыдавлӓлӓн
+#    карта+N+Pl+Dat+PxPl2+So/NPC: картывлӓдӓлӓн ! harvinainen
+     карта+N+Pl+Ine+PxPl2+So/NCP: картывлӓштӹдӓ
+     карта+N+Pl+Ill+PxPl2+So/NCP: картывлӓшкӹдӓ
+#    карта+N+Pl+Lat+PxPl2+So/PNC: картыдавлӓэш     
+     карта+N+Pl+Lat+PxPl2+So/NCP: картывлӓэшдӓ
+     карта+N+Pl+Cmpr+PxPl2+So/NPC: картывлӓдӓлӓ         
+#    карта+N+Pl+Cmpr+PxPl2+So/PNC: картыдавлӓлӓ
+#    карта+N+Pl+Cmpr+PxPl2+So/NCP: картывлӓлӓдӓ
+     карта+N+Pl+Abe+PxPl2+So/NPC: картывлӓдӓде
+#    карта+N+Pl+Abe+PxPl2+So/PNC: картыдавлӓде
      
 #PxPl3
-     карта+N+Sg+Nom+PxPl3: картышты 
-     карта+N+Sg+PxPl3+Gen: картыштын
-     карта+N+Sg+PxPl3+Acc: картыштым
-     карта+N+Sg+PxPl3+Com: картыштыге
-     карта+N+Sg+PxPl3+Dat: картыштылан
-     карта+N+Sg+Dat+PxPl3: картыланышты
-     карта+N+Sg+Ine+PxPl3: картыштышты
-     карта+N+Sg+Ill+PxPl3: картышкышты
-     карта+N+Sg+Lat+PxPl3: картешӹштӹ
-     карта+N+Sg+PxPl3+Cmpr: картыштыла
-#    карта+N+Sg+Cmpr+PxPl3: картылашты   
-     карта+N+Sg+PxPl3+Abe: картыштыде
+     карта+N+Sg+Nom+PxPl3+So/CP: картышты 
+     карта+N+Sg+Gen+PxPl3+So/PC: картыштын
+     карта+N+Sg+Acc+PxPl3+So/PC: картыштым
+     карта+N+Sg+Com+PxPl3+So/PC: картыштыге
+     карта+N+Sg+Dat+PxPl3+So/PC: картыштылан
+     карта+N+Sg+Dat+PxPl3+So/CP: картыланышты
+     карта+N+Sg+Ine+PxPl3+So/CP: картыштышты
+     карта+N+Sg+Ill+PxPl3+So/CP: картышкышты
+     карта+N+Sg+Lat+PxPl3+So/CP: картешӹштӹ
+     карта+N+Sg+Cmpr+PxPl3+So/PC: картыштыла
+#    карта+N+Sg+Cmpr+PxPl3+So/CP: картылашты   
+     карта+N+Sg+Abe+PxPl3+So/PC: картыштыде
      
-     карта+N+Pl+Nom+PxPl3: картывлӓштӹ
-     карта+N+Pl+PxPl3+Gen: картывлӓштӹн
-     карта+N+Pl+PxPl3+Acc: картывлӓштӹм
-     карта+N+Pl+PxPl3+Com: картывлӓштӹге
-     карта+N+Pl+PxPl3+Dat: картывлӓштӹлӓн     
-     карта+N+Pl+Dat+PxPl3: картывлӓлӓнӹштӹ
-     карта+N+Pl+Ine+PxPl3: картывлӓштӹштӹ
-     карта+N+Pl+Ill+PxPl3: картывлӓшкӹштӹ
-     карта+N+Pl+Lat+PxPl3: картывлӓэшӹштӹ
-     карта+N+Pl+PxPl3+Cmpr: картывлӓштӹлӓ
-     карта+N+Pl+Cmpr+PxPl3: картывлӓлӓштӹ
-     карта+N+Pl+PxPl3+Abe: картывлӓштӹде
+     карта+N+Pl+Nom+PxPl3+So/NCP: картывлӓштӹ
+     карта+N+Pl+Gen+PxPl3+So/NPC: картывлӓштӹн
+     карта+N+Pl+Acc+PxPl3+So/NPC: картывлӓштӹм
+     карта+N+Pl+Com+PxPl3+So/NPC: картывлӓштӹге
+     карта+N+Pl+Dat+PxPl3+So/NPC: картывлӓштӹлӓн     
+     карта+N+Pl+Dat+PxPl3+So/NCP: картывлӓлӓнӹштӹ
+     карта+N+Pl+Ine+PxPl3+So/NCP: картывлӓштӹштӹ
+     карта+N+Pl+Ill+PxPl3+So/NCP: картывлӓшкӹштӹ
+     карта+N+Pl+Lat+PxPl3+So/NCP: картывлӓэшӹштӹ
+     карта+N+Pl+Cmpr+PxPl3+So/NPC: картывлӓштӹлӓ
+     карта+N+Pl+Cmpr+PxPl3+So/NCP: картывлӓлӓштӹ
+     карта+N+Pl+Abe+PxPl3+So/NPC: картывлӓштӹде
 

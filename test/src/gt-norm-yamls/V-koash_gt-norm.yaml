@@ -91,39 +91,39 @@ Tests:
      коаш+V+Der/шЫ+Act+Prc+Pl+Cmpr: кошывлӓлӓ
      коаш+V+Der/шЫ+Act+Prc+Pl+Abe: кошывлӓде
      
-     коаш+V+Der/шЫ+Act+Prc+Sg+Nom+PxSg1: кошем 
-     коаш+V+Der/шЫ+Act+Prc+Sg+PxSg1+Gen: кошемӹн
-     коаш+V+Der/шЫ+Act+Prc+Sg+PxSg1+Acc: кошемӹм
-     коаш+V+Der/шЫ+Act+Prc+Sg+PxSg1+Com: кошемге
-     коаш+V+Der/шЫ+Act+Prc+Sg+PxSg1+Dat: кошемлӓн
-     коаш+V+Der/шЫ+Act+Prc+Sg+Ine+PxSg1: кошыштем
-     коаш+V+Der/шЫ+Act+Prc+Sg+Ill+PxSg1: кошышкем
-     коаш+V+Der/шЫ+Act+Prc+Sg+Lat+PxSg1: кошешем
-     коаш+V+Der/шЫ+Act+Prc+Sg+Cmpr+PxSg1: кошылаэм
-     коаш+V+Der/шЫ+Act+Prc+Sg+PxSg1+Cmpr: кошемлӓ #! esim -ok-liitepart.kanssa
-     коаш+V+Der/шЫ+Act+Prc+Sg+Abe+PxSg1: кошыдеэм 
-     коаш+V+Der/шЫ+Act+Prc+Sg+PxSg1+Abe: кошемде #! harvoin esm.liitepart.yhteyd.
+     коаш+V+Der/шЫ+Act+Prc+Sg+Nom+PxSg1+So/CP: кошем 
+     коаш+V+Der/шЫ+Act+Prc+Sg+Gen+PxSg1+So/PC: кошемӹн
+     коаш+V+Der/шЫ+Act+Prc+Sg+Acc+PxSg1+So/PC: кошемӹм
+     коаш+V+Der/шЫ+Act+Prc+Sg+Com+PxSg1+So/PC: кошемге
+     коаш+V+Der/шЫ+Act+Prc+Sg+Dat+PxSg1+So/PC: кошемлӓн
+     коаш+V+Der/шЫ+Act+Prc+Sg+Ine+PxSg1+So/CP: кошыштем
+     коаш+V+Der/шЫ+Act+Prc+Sg+Ill+PxSg1+So/CP: кошышкем
+     коаш+V+Der/шЫ+Act+Prc+Sg+Lat+PxSg1+So/CP: кошешем
+     коаш+V+Der/шЫ+Act+Prc+Sg+Cmpr+PxSg1+So/CP: кошылаэм
+     коаш+V+Der/шЫ+Act+Prc+Sg+Cmpr+PxSg1+So/PC: кошемлӓ #! esim -ok-liitepart.kanssa
+     коаш+V+Der/шЫ+Act+Prc+Sg+Abe+PxSg1+So/CP: кошыдеэм 
+     коаш+V+Der/шЫ+Act+Prc+Sg+Abe+PxSg1+So/PC: кошемде #! harvoin esm.liitepart.yhteyd.
      
-     коаш+V+Der/шЫ+Act+Prc+Pl+Nom+PxSg1: кошывлӓэм
-     коаш+V+Der/шЫ+Act+Prc+PxSg1+Pl+Nom: кошемвлӓ #! harvoin
-     коаш+V+Der/шЫ+Act+Prc+Pl+PxSg1+Gen: кошывлӓэмӹн
-     коаш+V+Der/шЫ+Act+Prc+PxSg1+Pl+Gen: кошемвлӓн #! harvoin
-     коаш+V+Der/шЫ+Act+Prc+Pl+PxSg1+Acc: кошывлӓэмӹм
-     коаш+V+Der/шЫ+Act+Prc+PxSg1+Pl+Acc: кошемвлӓм #! harvoin
-     коаш+V+Der/шЫ+Act+Prc+Pl+PxSg1+Com: кошывлӓэмге
-     коаш+V+Der/шЫ+Act+Prc+PxSg1+Pl+Com: кошемвлӓге #! harvoin
-     коаш+V+Der/шЫ+Act+Prc+Pl+Dat+PxSg1: кошывлӓлӓнем
-     коаш+V+Der/шЫ+Act+Prc+Pl+PxSg1+Dat: кошывлӓэмлӓн # harvemm_ku кошывлӓлӓнем
+     коаш+V+Der/шЫ+Act+Prc+Pl+Nom+PxSg1+So/NCP: кошывлӓэм
+     коаш+V+Der/шЫ+Act+Prc+Pl+Nom+PxSg1+So/PNC: кошемвлӓ #! harvoin
+     коаш+V+Der/шЫ+Act+Prc+Pl+Gen+PxSg1+So/NPC: кошывлӓэмӹн
+     коаш+V+Der/шЫ+Act+Prc+Pl+Gen+PxSg1+So/PNC: кошемвлӓн #! harvoin
+     коаш+V+Der/шЫ+Act+Prc+Pl+Acc+PxSg1+So/NPC: кошывлӓэмӹм
+     коаш+V+Der/шЫ+Act+Prc+Pl+Acc+PxSg1+So/PNC: кошемвлӓм #! harvoin
+     коаш+V+Der/шЫ+Act+Prc+Pl+Com+PxSg1+So/NPC: кошывлӓэмге
+     коаш+V+Der/шЫ+Act+Prc+Pl+Com+PxSg1+So/PNC: кошемвлӓге #! harvoin
+     коаш+V+Der/шЫ+Act+Prc+Pl+Dat+PxSg1+So/NCP: кошывлӓлӓнем
+     коаш+V+Der/шЫ+Act+Prc+Pl+Dat+PxSg1+So/NPC: кошывлӓэмлӓн # harvemm_ku кошывлӓлӓнем
      
-     коаш+V+Der/шЫ+Act+Prc+PxSg1+Pl+Dat: кошемвлӓлӓн 
-     коаш+V+Der/шЫ+Act+Prc+Pl+Ine+PxSg1: кошывлӓштем
-     коаш+V+Der/шЫ+Act+Prc+Pl+Ill+PxSg1: кошывлӓшкем
-     коаш+V+Der/шЫ+Act+Prc+Pl+Lat+PxSg1: кошывлӓэшем
-     коаш+V+Der/шЫ+Act+Prc+PxSg1+Pl+Cmpr: кошемвлӓлӓ #! harvoin
-     коаш+V+Der/шЫ+Act+Prc+Pl+Cmpr+PxSg1: кошывлӓлӓэм
-     коаш+V+Der/шЫ+Act+Prc+Pl+PxSg1+Cmpr: кошывлӓэмлӓ
-     коаш+V+Der/шЫ+Act+Prc+Pl+PxSg1+Abe: кошывлӓэмде
-     коаш+V+Der/шЫ+Act+Prc+PxSg1+Pl+Abe: кошемвлӓде #! harvoin
+     коаш+V+Der/шЫ+Act+Prc+Pl+Dat+PxSg1+So/PNC: кошемвлӓлӓн 
+     коаш+V+Der/шЫ+Act+Prc+Pl+Ine+PxSg1+So/NCP: кошывлӓштем
+     коаш+V+Der/шЫ+Act+Prc+Pl+Ill+PxSg1+So/NCP: кошывлӓшкем
+     коаш+V+Der/шЫ+Act+Prc+Pl+Lat+PxSg1+So/NCP: кошывлӓэшем
+     коаш+V+Der/шЫ+Act+Prc+Pl+Cmpr+PxSg1+So/PNC: кошемвлӓлӓ #! harvoin
+     коаш+V+Der/шЫ+Act+Prc+Pl+Cmpr+PxSg1+So/NCP: кошывлӓлӓэм
+     коаш+V+Der/шЫ+Act+Prc+Pl+Cmpr+PxSg1+So/NPC: кошывлӓэмлӓ
+     коаш+V+Der/шЫ+Act+Prc+Pl+Abe+PxSg1+So/NPC: кошывлӓэмде
+     коаш+V+Der/шЫ+Act+Prc+Pl+Abe+PxSg1+So/PNC: кошемвлӓде #! harvoin
 
 ##   
      коаш+V+Der/мЫ+Pass+Prc+Sg+Nom: комы
@@ -149,40 +149,40 @@ Tests:
      коаш+V+Der/мЫ+Pass+Prc+Pl+Abe: комывлӓде
 
 
-     коаш+V+Der/мЫ+Pass+Prc+Sg+Nom+PxSg1: комем 
-     коаш+V+Der/мЫ+Pass+Prc+Sg+PxSg1+Gen: комемӹн
-     коаш+V+Der/мЫ+Pass+Prc+Sg+PxSg1+Acc: комемӹм
-     коаш+V+Der/мЫ+Pass+Prc+Sg+PxSg1+Com: комемге
-     коаш+V+Der/мЫ+Pass+Prc+Sg+PxSg1+Dat: комемлӓн
-     коаш+V+Der/мЫ+Pass+Prc+Sg+Dat+PxSg1: комыланем
-     коаш+V+Der/мЫ+Pass+Prc+Sg+Ine+PxSg1: комыштем
-     коаш+V+Der/мЫ+Pass+Prc+Sg+Ill+PxSg1: комышкем
-     коаш+V+Der/мЫ+Pass+Prc+Sg+Lat+PxSg1: комешем
-     коаш+V+Der/мЫ+Pass+Prc+Sg+PxSg1+Cmpr: комемлӓ
-     коаш+V+Der/мЫ+Pass+Prc+Sg+Cmpr+PxSg1: комылаэм 
-     коаш+V+Der/мЫ+Pass+Prc+Sg+Abe+PxSg1: комыдеэм 
-     коаш+V+Der/мЫ+Pass+Prc+Sg+PxSg1+Abe: комемде #! harv:esim.liitep.yhteyd.
+     коаш+V+Der/мЫ+Pass+Prc+Sg+Nom+PxSg1+So/CP: комем 
+     коаш+V+Der/мЫ+Pass+Prc+Sg+Gen+PxSg1+So/PC: комемӹн
+     коаш+V+Der/мЫ+Pass+Prc+Sg+Acc+PxSg1+So/PC: комемӹм
+     коаш+V+Der/мЫ+Pass+Prc+Sg+Com+PxSg1+So/PC: комемге
+     коаш+V+Der/мЫ+Pass+Prc+Sg+Dat+PxSg1+So/PC: комемлӓн
+     коаш+V+Der/мЫ+Pass+Prc+Sg+Dat+PxSg1+So/CP: комыланем
+     коаш+V+Der/мЫ+Pass+Prc+Sg+Ine+PxSg1+So/CP: комыштем
+     коаш+V+Der/мЫ+Pass+Prc+Sg+Ill+PxSg1+So/CP: комышкем
+     коаш+V+Der/мЫ+Pass+Prc+Sg+Lat+PxSg1+So/CP: комешем
+     коаш+V+Der/мЫ+Pass+Prc+Sg+Cmpr+PxSg1+So/PC: комемлӓ
+     коаш+V+Der/мЫ+Pass+Prc+Sg+Cmpr+PxSg1+So/CP: комылаэм 
+     коаш+V+Der/мЫ+Pass+Prc+Sg+Abe+PxSg1+So/CP: комыдеэм 
+     коаш+V+Der/мЫ+Pass+Prc+Sg+Abe+PxSg1+So/PC: комемде #! harv:esim.liitep.yhteyd.
      
-     коаш+V+Der/мЫ+Pass+Prc+Pl+Nom+PxSg1: комывлӓэм
-     коаш+V+Der/мЫ+Pass+Prc+PxSg1+Pl+Nom: комемвлӓ #!
-     коаш+V+Der/мЫ+Pass+Prc+PxSg1+Pl+Gen: комемвлӓн
-     коаш+V+Der/мЫ+Pass+Prc+PxSg1+Pl+Acc: комемвлӓм
-     коаш+V+Der/мЫ+Pass+Prc+PxSg1+Pl+Com: комемвлӓге
-     коаш+V+Der/мЫ+Pass+Prc+Pl+PxSg1+Com: комывлӓэмге
-     коаш+V+Der/мЫ+Pass+Prc+Pl+Dat+PxSg1: комывлӓлӓнем
-     коаш+V+Der/мЫ+Pass+Prc+Pl+PxSg1+Dat: комывлӓэмлӓн # harvemmin
-     коаш+V+Der/мЫ+Pass+Prc+PxSg1+Pl+Dat: комемвлӓлӓн # JK_vaikuttaa_KOM+N+PxSg1+PL+Dat.
-     коаш+V+Der/мЫ+Pass+Prc+Pl+Ine+PxSg1: комывлӓштем
-#    коаш+V+Der/мЫ+Pass+Prc+PxSg1+Pl+Ine: комемвлӓштӹ
-     коаш+V+Der/мЫ+Pass+Prc+Pl+Ill+PxSg1: комывлӓшкем
-#    коаш+V+Der/мЫ+Pass+Prc+PxSg1+Pl+Ill: комемвлӓшкӹ
-     коаш+V+Der/мЫ+Pass+Prc+Pl+Lat+PxSg1: комывлӓэшем
-     коаш+V+Der/мЫ+Pass+Prc+PxSg1+Pl+Lat: комемвлӓэш
-     коаш+V+Der/мЫ+Pass+Prc+Pl+Cmpr+PxSg1: комывлӓлӓэм
-     коаш+V+Der/мЫ+Pass+Prc+Pl+PxSg1+Cmpr: комывлӓэмлӓ
-     коаш+V+Der/мЫ+Pass+Prc+PxSg1+Pl+Cmpr: комемвлӓлӓ # JK_harvemmin?
-     коаш+V+Der/мЫ+Pass+Prc+Pl+PxSg1+Abe: комывлӓэмде
-     коаш+V+Der/мЫ+Pass+Prc+PxSg1+Pl+Abe: комемвлӓде # JK_vaikut.N+PxSg1+PL+Abe
+     коаш+V+Der/мЫ+Pass+Prc+Pl+Nom+PxSg1+So/NCP: комывлӓэм
+     коаш+V+Der/мЫ+Pass+Prc+Pl+Nom+PxSg1+So/PNC: комемвлӓ #!
+     коаш+V+Der/мЫ+Pass+Prc+Pl+Gen+PxSg1+So/PNC: комемвлӓн
+     коаш+V+Der/мЫ+Pass+Prc+Pl+Acc+PxSg1+So/PNC: комемвлӓм
+     коаш+V+Der/мЫ+Pass+Prc+Pl+Com+PxSg1+So/PNC: комемвлӓге
+     коаш+V+Der/мЫ+Pass+Prc+Pl+Com+PxSg1+So/NPC: комывлӓэмге
+     коаш+V+Der/мЫ+Pass+Prc+Pl+Dat+PxSg1+So/NCP: комывлӓлӓнем
+     коаш+V+Der/мЫ+Pass+Prc+Pl+Dat+PxSg1+So/NPC: комывлӓэмлӓн # harvemmin
+     коаш+V+Der/мЫ+Pass+Prc+Pl+Dat+PxSg1+So/PNC: комемвлӓлӓн # JK_vaikuttaa_KOM+N+PxSg1+PL+Dat.
+     коаш+V+Der/мЫ+Pass+Prc+Pl+Ine+PxSg1+So/NCP: комывлӓштем
+#    коаш+V+Der/мЫ+Pass+Prc+Pl+Ine+PxSg1+So/PNC: комемвлӓштӹ
+     коаш+V+Der/мЫ+Pass+Prc+Pl+Ill+PxSg1+So/NCP: комывлӓшкем
+#    коаш+V+Der/мЫ+Pass+Prc+Pl+Ill+PxSg1+So/PNC: комемвлӓшкӹ
+     коаш+V+Der/мЫ+Pass+Prc+Pl+Lat+PxSg1+So/NCP: комывлӓэшем
+     коаш+V+Der/мЫ+Pass+Prc+Pl+Lat+PxSg1+So/PNC: комемвлӓэш
+     коаш+V+Der/мЫ+Pass+Prc+Pl+Cmpr+PxSg1+So/NCP: комывлӓлӓэм
+     коаш+V+Der/мЫ+Pass+Prc+Pl+Cmpr+PxSg1+So/NPC: комывлӓэмлӓ
+     коаш+V+Der/мЫ+Pass+Prc+Pl+Cmpr+PxSg1+So/PNC: комемвлӓлӓ # JK_harvemmin?
+     коаш+V+Der/мЫ+Pass+Prc+Pl+Abe+PxSg1+So/NPC: комывлӓэмде
+     коаш+V+Der/мЫ+Pass+Prc+Pl+Abe+PxSg1+So/PNC: комемвлӓде # JK_vaikut.N+PxSg1+PL+Abe
 
 ## 
      коаш+V+Der/дЫмЫ+NegPrc+Sg+Nom: кодымы
@@ -208,36 +208,36 @@ Tests:
      коаш+V+Der/дЫмЫ+NegPrc+Pl+Cmpr: кодымывлӓлӓ
      коаш+V+Der/дЫмЫ+NegPrc+Pl+Abe: кодымывлӓде
  
-     коаш+V+Der/дЫмЫ+NegPrc+Sg+Nom+PxSg1: кодымем 
-     коаш+V+Der/дЫмЫ+NegPrc+Sg+PxSg1+Gen: кодымемӹн
-     коаш+V+Der/дЫмЫ+NegPrc+Sg+PxSg1+Acc: кодымемӹм
-     коаш+V+Der/дЫмЫ+NegPrc+Sg+PxSg1+Com: кодымемге
-     коаш+V+Der/дЫмЫ+NegPrc+Sg+PxSg1+Dat: кодымемлӓн
-     коаш+V+Der/дЫмЫ+NegPrc+Sg+Dat+PxSg1: кодымыланем
-     коаш+V+Der/дЫмЫ+NegPrc+Sg+Ine+PxSg1: кодымыштем
-     коаш+V+Der/дЫмЫ+NegPrc+Sg+Ill+PxSg1: кодымышкем
-     коаш+V+Der/дЫмЫ+NegPrc+Sg+Lat+PxSg1: кодымешем
-     коаш+V+Der/дЫмЫ+NegPrc+Sg+PxSg1+Cmpr: кодымемлӓ 
-     коаш+V+Der/дЫмЫ+NegPrc+Sg+Cmpr+PxSg1: кодымылаэм 
-     коаш+V+Der/дЫмЫ+NegPrc+Sg+Abe+PxSg1: кодымыдеэм 
-     коаш+V+Der/дЫмЫ+NegPrc+Sg+PxSg1+Abe: кодымемде
-     коаш+V+Der/дЫмЫ+NegPrc+Pl+Nom+PxSg1: кодымывлӓэм
-     коаш+V+Der/дЫмЫ+NegPrc+PxSg1+Pl+Nom: кодымемвлӓ
-     коаш+V+Der/дЫмЫ+NegPrc+PxSg1+Pl+Gen: кодымемвлӓн
-     коаш+V+Der/дЫмЫ+NegPrc+PxSg1+Pl+Acc: кодымемвлӓм
-     коаш+V+Der/дЫмЫ+NegPrc+PxSg1+Pl+Com: кодымемвлӓге
-     коаш+V+Der/дЫмЫ+NegPrc+Pl+PxSg1+Com: кодымывлӓэмге
-     коаш+V+Der/дЫмЫ+NegPrc+Pl+Dat+PxSg1: кодымывлӓлӓнем
-     коаш+V+Der/дЫмЫ+NegPrc+Pl+PxSg1+Dat: кодымывлӓэмлӓн # JK_
-#    коаш+V+Der/дЫмЫ+NegPrc+PxSg1+Pl+Dat: кодымемвлӓлӓн # JK_tarkoittaa_ pikemminkin_N _jos olisi sellainen substantiivi_ kodym+N+PxSg1+PL+Dat. Mutta teoriassa mahd.verbimuoto, siksi generoitavaksi muttei muodost.
-     коаш+V+Der/дЫмЫ+NegPrc+Pl+Ine+PxSg1: кодымывлӓштем
-#    коаш+V+Der/дЫмЫ+NegPrc+PxSg1+Pl+Ine: кодымемвлӓштӹ
-     коаш+V+Der/дЫмЫ+NegPrc+Pl+Ill+PxSg1: кодымывлӓшкем     
-#    коаш+V+Der/дЫмЫ+NegPrc+PxSg1+Pl+Ill: [кодымемвлӓшкӹ, кодымемвлӓш] 
-     коаш+V+Der/дЫмЫ+NegPrc+Pl+Lat+PxSg1: кодымывлӓэшем
-     коаш+V+Der/дЫмЫ+NegPrc+PxSg1+Pl+Lat: кодымемвлӓэш
-     коаш+V+Der/дЫмЫ+NegPrc+Pl+Cmpr+PxSg1: кодымывлӓлӓэм
-     коаш+V+Der/дЫмЫ+NegPrc+PxSg1+Pl+Cmpr: кодымемвлӓлӓ
-     коаш+V+Der/дЫмЫ+NegPrc+Pl+PxSg1+Cmpr: кодымывлӓэмлӓ
-     коаш+V+Der/дЫмЫ+NegPrc+Pl+PxSg1+Abe: кодымывлӓэмде
-     коаш+V+Der/дЫмЫ+NegPrc+PxSg1+Pl+Abe: кодымемвлӓде
+     коаш+V+Der/дЫмЫ+NegPrc+Sg+Nom+PxSg1+So/CP: кодымем 
+     коаш+V+Der/дЫмЫ+NegPrc+Sg+Gen+PxSg1+So/PC: кодымемӹн
+     коаш+V+Der/дЫмЫ+NegPrc+Sg+Acc+PxSg1+So/PC: кодымемӹм
+     коаш+V+Der/дЫмЫ+NegPrc+Sg+Com+PxSg1+So/PC: кодымемге
+     коаш+V+Der/дЫмЫ+NegPrc+Sg+Dat+PxSg1+So/PC: кодымемлӓн
+     коаш+V+Der/дЫмЫ+NegPrc+Sg+Dat+PxSg1+So/CP: кодымыланем
+     коаш+V+Der/дЫмЫ+NegPrc+Sg+Ine+PxSg1+So/CP: кодымыштем
+     коаш+V+Der/дЫмЫ+NegPrc+Sg+Ill+PxSg1+So/CP: кодымышкем
+     коаш+V+Der/дЫмЫ+NegPrc+Sg+Lat+PxSg1+So/CP: кодымешем
+     коаш+V+Der/дЫмЫ+NegPrc+Sg+Cmpr+PxSg1+So/PC: кодымемлӓ 
+     коаш+V+Der/дЫмЫ+NegPrc+Sg+Cmpr+PxSg1+So/CP: кодымылаэм 
+     коаш+V+Der/дЫмЫ+NegPrc+Sg+Abe+PxSg1+So/CP: кодымыдеэм 
+     коаш+V+Der/дЫмЫ+NegPrc+Sg+Abe+PxSg1+So/PC: кодымемде
+     коаш+V+Der/дЫмЫ+NegPrc+Pl+Nom+PxSg1+So/NCP: кодымывлӓэм
+     коаш+V+Der/дЫмЫ+NegPrc+Pl+Nom+PxSg1+So/PNC: кодымемвлӓ
+     коаш+V+Der/дЫмЫ+NegPrc+Pl+Gen+PxSg1+So/PNC: кодымемвлӓн
+     коаш+V+Der/дЫмЫ+NegPrc+Pl+Acc+PxSg1+So/PNC: кодымемвлӓм
+     коаш+V+Der/дЫмЫ+NegPrc+Pl+Com+PxSg1+So/PNC: кодымемвлӓге
+     коаш+V+Der/дЫмЫ+NegPrc+Pl+Com+PxSg1+So/NPC: кодымывлӓэмге
+     коаш+V+Der/дЫмЫ+NegPrc+Pl+Dat+PxSg1+So/NCP: кодымывлӓлӓнем
+     коаш+V+Der/дЫмЫ+NegPrc+Pl+Dat+PxSg1+So/NPC: кодымывлӓэмлӓн # JK_
+#    коаш+V+Der/дЫмЫ+NegPrc+Pl+Dat+PxSg1+So/PNC: кодымемвлӓлӓн # JK_tarkoittaa_ pikemminkin_N _jos olisi sellainen substantiivi_ kodym+N+PxSg1+PL+Dat. Mutta teoriassa mahd.verbimuoto, siksi generoitavaksi muttei muodost.
+     коаш+V+Der/дЫмЫ+NegPrc+Pl+Ine+PxSg1+So/NCP: кодымывлӓштем
+#    коаш+V+Der/дЫмЫ+NegPrc+Pl+Ine+PxSg1+So/PNC: кодымемвлӓштӹ
+     коаш+V+Der/дЫмЫ+NegPrc+Pl+Ill+PxSg1+So/NCP: кодымывлӓшкем     
+#    коаш+V+Der/дЫмЫ+NegPrc+Pl+Ill+PxSg1+So/PNC: [кодымемвлӓшкӹ, кодымемвлӓш] 
+     коаш+V+Der/дЫмЫ+NegPrc+Pl+Lat+PxSg1+So/NCP: кодымывлӓэшем
+     коаш+V+Der/дЫмЫ+NegPrc+Pl+Lat+PxSg1+So/PNC: кодымемвлӓэш
+     коаш+V+Der/дЫмЫ+NegPrc+Pl+Cmpr+PxSg1+So/NCP: кодымывлӓлӓэм
+     коаш+V+Der/дЫмЫ+NegPrc+Pl+Cmpr+PxSg1+So/PNC: кодымемвлӓлӓ
+     коаш+V+Der/дЫмЫ+NegPrc+Pl+Cmpr+PxSg1+So/NPC: кодымывлӓэмлӓ
+     коаш+V+Der/дЫмЫ+NegPrc+Pl+Abe+PxSg1+So/NPC: кодымывлӓэмде
+     коаш+V+Der/дЫмЫ+NegPrc+Pl+Abe+PxSg1+So/PNC: кодымемвлӓде

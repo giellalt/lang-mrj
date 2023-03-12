@@ -39,65 +39,65 @@ Tests:
      мӧр+N+Pl+Abe: мӧрӹвлӓде
 
 #Sg,PxSg1
-     мӧр+N+Sg+Nom+PxSg1: мӧрем 
-     мӧр+N+Sg+PxSg1+Gen: мӧремӹн
-     мӧр+N+Sg+PxSg1+Acc: мӧремӹм
-     мӧр+N+Sg+PxSg1+Com: мӧремге
-     мӧр+N+Sg+PxSg1+Dat: мӧремлӓн
-     мӧр+N+Sg+Dat+PxSg1: мӧрӹлӓнем
-     мӧр+N+Sg+Ine+PxSg1: мӧрӹштем
-     мӧр+N+Sg+Ill+PxSg1: мӧрӹшкем
-     мӧр+N+Sg+Lat+PxSg1: мӧрешем
-     мӧр+N+Sg+PxSg1+Cmpr: мӧремлӓ 
-     мӧр+N+Sg+Cmpr+PxSg1: мӧрӹлӓэм 
-     мӧр+N+Sg+PxSg1+Abe: мӧремде
+     мӧр+N+Sg+Nom+PxSg1+So/CP: мӧрем 
+     мӧр+N+Sg+Gen+PxSg1+So/PC: мӧремӹн
+     мӧр+N+Sg+Acc+PxSg1+So/PC: мӧремӹм
+     мӧр+N+Sg+Com+PxSg1+So/PC: мӧремге
+     мӧр+N+Sg+Dat+PxSg1+So/PC: мӧремлӓн
+     мӧр+N+Sg+Dat+PxSg1+So/CP: мӧрӹлӓнем
+     мӧр+N+Sg+Ine+PxSg1+So/CP: мӧрӹштем
+     мӧр+N+Sg+Ill+PxSg1+So/CP: мӧрӹшкем
+     мӧр+N+Sg+Lat+PxSg1+So/CP: мӧрешем
+     мӧр+N+Sg+Cmpr+PxSg1+So/PC: мӧремлӓ 
+     мӧр+N+Sg+Cmpr+PxSg1+So/CP: мӧрӹлӓэм 
+     мӧр+N+Sg+Abe+PxSg1+So/PC: мӧремде
 
 #Pl,PxSg1     
-     мӧр+N+Pl+Nom+PxSg1: мӧрӹвлӓэм
+     мӧр+N+Pl+Nom+PxSg1+So/NCP: мӧрӹвлӓэм
 #тенге манаш лиэш теоретически: кынам Px анзылны 
 #шамак деминутивн.сӹрӓнрӓк лиэш (kӓtӧsillӓni tehtyjӓ)
-#    мӧр+N+PxSg1+Pl+Nom:  мӧремвлӓ
-     мӧр+N+Pl+PxSg1+Gen:  мӧрӹвлӓэмӹн
-#    мӧр+N+PxSg1+Pl+Gen:  мӧремвлӓн
-     мӧр+N+Pl+PxSg1+Acc:  мӧрӹвлӓэмӹм
-#    мӧр+N+PxSg1+Pl+Acc:  мӧремвлӓм
-     мӧр+N+Pl+PxSg1+Com:  мӧрӹвлӓэмге
-     мӧр+N+PxSg1+Pl+Com:  мӧремвлӓге
-     мӧр+N+Pl+PxSg1+Dat:  мӧрӹвлӓэмлӓн
-     мӧр+N+Pl+Dat+PxSg1:  мӧрӹвлӓлӓнем          
-#    мӧр+N+PxSg1+Pl+Dat:  мӧремвлӓлӓн
-     мӧр+N+Pl+Ine+PxSg1:  мӧрӹвлӓштем
-     мӧр+N+Pl+Ill+PxSg1:  мӧрӹвлӓшкем
-     мӧр+N+Pl+Lat+PxSg1:  мӧрӹвлӓэшем
-     мӧр+N+Pl+Cmpr+PxSg1: мӧрӹвлӓлӓэм
-#    мӧр+N+Pl+PxSg1+Cmpr: мӧрӹвлӓэмлӓ          
-#    мӧр+N+PxSg1+Pl+Cmpr: мӧремвлӓлӓ
-     мӧр+N+Pl+PxSg1+Abe:  мӧрӹвлӓэмде
-#    мӧр+N+PxSg1+Pl+Abe:  мӧремвлӓде
+#    мӧр+N+Pl+Nom+PxSg1+So/PNC:  мӧремвлӓ
+     мӧр+N+Pl+Gen+PxSg1+So/NPC:  мӧрӹвлӓэмӹн
+#    мӧр+N+Pl+Gen+PxSg1+So/PNC:  мӧремвлӓн
+     мӧр+N+Pl+Acc+PxSg1+So/NPC:  мӧрӹвлӓэмӹм
+#    мӧр+N+Pl+Acc+PxSg1+So/PNC:  мӧремвлӓм
+     мӧр+N+Pl+Com+PxSg1+So/NPC:  мӧрӹвлӓэмге
+     мӧр+N+Pl+Com+PxSg1+So/PNC:  мӧремвлӓге
+     мӧр+N+Pl+Dat+PxSg1+So/NPC:  мӧрӹвлӓэмлӓн
+     мӧр+N+Pl+Dat+PxSg1+So/NCP:  мӧрӹвлӓлӓнем          
+#    мӧр+N+Pl+Dat+PxSg1+So/PNC:  мӧремвлӓлӓн
+     мӧр+N+Pl+Ine+PxSg1+So/NCP:  мӧрӹвлӓштем
+     мӧр+N+Pl+Ill+PxSg1+So/NCP:  мӧрӹвлӓшкем
+     мӧр+N+Pl+Lat+PxSg1+So/NCP:  мӧрӹвлӓэшем
+     мӧр+N+Pl+Cmpr+PxSg1+So/NCP: мӧрӹвлӓлӓэм
+#    мӧр+N+Pl+Cmpr+PxSg1+So/NPC: мӧрӹвлӓэмлӓ          
+#    мӧр+N+Pl+Cmpr+PxSg1+So/PNC: мӧремвлӓлӓ
+     мӧр+N+Pl+Abe+PxSg1+So/NPC:  мӧрӹвлӓэмде
+#    мӧр+N+Pl+Abe+PxSg1+So/PNC:  мӧремвлӓде
 
 #Pl,PxSg2     
-     мӧр+N+Pl+Nom+PxSg2: мӧрӹвлӓэт
-     мӧр+N+PxSg2+Pl+Nom: печенетвлӓ   
+     мӧр+N+Pl+Nom+PxSg2+So/NCP: мӧрӹвлӓэт
+     мӧр+N+Pl+Nom+PxSg2+So/PNC: печенетвлӓ   
 #посессив мычашты - нейтральный верси ылеш 
 #(Px+PL) годым шамак деминутивн.сӹрӓнрӓк лиэш ӓль
 #печенетвлӓ детерминатив лин кердеш (muuten sinun tekemӓt keksit)
-     мӧр+N+Pl+PxSg2+Gen: мӧрӹвлӓэтӹн
-#    мӧр+N+PxSg2+Pl+Gen: мӧретвлӓн
-     мӧр+N+Pl+PxSg2+Acc: мӧрӹвлӓэтӹм
-#    мӧр+N+PxSg2+Pl+Acc: мӧретвлӓм
-     мӧр+N+Pl+PxSg2+Com: мӧрӹвлӓэтге
-#    мӧр+N+PxSg2+Pl+Com: мӧретвлӓге
-     мӧр+N+Pl+PxSg2+Dat: мӧрӹвлӓэтлӓн
-#    мӧр+N+PxSg2+Pl+Dat: мӧретвлӓлӓн
-     мӧр+N+Pl+Dat+PxSg2: мӧрӹвлӓлӓнет
-     мӧр+N+Pl+Ine+PxSg2: мӧрӹвлӓштет
-     мӧр+N+Pl+Ill+PxSg2: мӧрӹвлӓшкет
-     мӧр+N+Pl+Lat+PxSg2: мӧрӹвлӓэшет
+     мӧр+N+Pl+Gen+PxSg2+So/NPC: мӧрӹвлӓэтӹн
+#    мӧр+N+Pl+Gen+PxSg2+So/PNC: мӧретвлӓн
+     мӧр+N+Pl+Acc+PxSg2+So/NPC: мӧрӹвлӓэтӹм
+#    мӧр+N+Pl+Acc+PxSg2+So/PNC: мӧретвлӓм
+     мӧр+N+Pl+Com+PxSg2+So/NPC: мӧрӹвлӓэтге
+#    мӧр+N+Pl+Com+PxSg2+So/PNC: мӧретвлӓге
+     мӧр+N+Pl+Dat+PxSg2+So/NPC: мӧрӹвлӓэтлӓн
+#    мӧр+N+Pl+Dat+PxSg2+So/PNC: мӧретвлӓлӓн
+     мӧр+N+Pl+Dat+PxSg2+So/NCP: мӧрӹвлӓлӓнет
+     мӧр+N+Pl+Ine+PxSg2+So/NCP: мӧрӹвлӓштет
+     мӧр+N+Pl+Ill+PxSg2+So/NCP: мӧрӹвлӓшкет
+     мӧр+N+Pl+Lat+PxSg2+So/NCP: мӧрӹвлӓэшет
      мӧр+N+Pl+Cmpr+PxS2: мӧрӹвлӓлӓэт     
-#    мӧр+N+PxSg1+Pl+Cmpr: мӧрвлӓлӓ
-     мӧр+N+Pl+PxSg1+Cmpr: мӧрӹвлӓэтлӓ
-     мӧр+N+Pl+PxSg1+Abe: мӧрӹвлӓэтде
-#    мӧр+N+PxSg1+Pl+Abe: мӧретвлӓде
+#    мӧр+N+Pl+Cmpr+PxSg1+So/PNC: мӧрвлӓлӓ
+     мӧр+N+Pl+Cmpr+PxSg1+So/NPC: мӧрӹвлӓэтлӓ
+     мӧр+N+Pl+Abe+PxSg1+So/NPC: мӧрӹвлӓэтде
+#    мӧр+N+Pl+Abe+PxSg1+So/PNC: мӧретвлӓде
      
 #печенет, печенетшӹ - (комбет, комбетшӹ)
 #мӧрӹжӹ, - (комбыжы,)
@@ -107,107 +107,107 @@ Tests:
 #НБ!!!тишец тӹнгӓлӹн цилӓ вашталташ!
 
 #PxPl1
-     мӧр+N+Sg+Nom+PxPl1: мӧрӹнӓ 
-     мӧр+N+Sg+PxPl1+Gen: мӧрӹнӓн
-     мӧр+N+Sg+PxPl1+Acc: мӧрӹнӓм
-     мӧр+N+Sg+PxPl1+Com: мӧрӹнӓге
-     мӧр+N+Sg+Dat+PxPl1: мӧрӹлӓннӓ
-     мӧр+N+Sg+PxPl1+Dat: мӧрӹнӓлӓн
-     мӧр+N+Sg+Ine+PxPl1: мӧрӹштӹнӓ
-     мӧр+N+Sg+Ill+PxPl1: мӧрӹшкӹнӓ
-     мӧр+N+Sg+Lat+PxPl1: мӧрешнӓ
-     мӧр+N+Sg+PxPl1+Cmpr: мӧрӹнӓлӓ 
-     мӧр+N+Sg+Cmpr+PxPl1: мӧрӹлӓнӓ 
-     мӧр+N+Sg+PxPl1+Abe: мӧрӹнӓде
+     мӧр+N+Sg+Nom+PxPl1+So/CP: мӧрӹнӓ 
+     мӧр+N+Sg+Gen+PxPl1+So/PC: мӧрӹнӓн
+     мӧр+N+Sg+Acc+PxPl1+So/PC: мӧрӹнӓм
+     мӧр+N+Sg+Com+PxPl1+So/PC: мӧрӹнӓге
+     мӧр+N+Sg+Dat+PxPl1+So/CP: мӧрӹлӓннӓ
+     мӧр+N+Sg+Dat+PxPl1+So/PC: мӧрӹнӓлӓн
+     мӧр+N+Sg+Ine+PxPl1+So/CP: мӧрӹштӹнӓ
+     мӧр+N+Sg+Ill+PxPl1+So/CP: мӧрӹшкӹнӓ
+     мӧр+N+Sg+Lat+PxPl1+So/CP: мӧрешнӓ
+     мӧр+N+Sg+Cmpr+PxPl1+So/PC: мӧрӹнӓлӓ 
+     мӧр+N+Sg+Cmpr+PxPl1+So/CP: мӧрӹлӓнӓ 
+     мӧр+N+Sg+Abe+PxPl1+So/PC: мӧрӹнӓде
      
-     мӧр+N+Pl+Nom+PxPl1: мӧрӹвлӓнӓ
+     мӧр+N+Pl+Nom+PxPl1+So/NCP: мӧрӹвлӓнӓ
 #плюраль годым ассоциаци коллектив гишӓн, вара ижӹ посессив.         
 #тенге чучеш: кынам Px pl анзылны, шая опр.эдемвлӓ гишӓн б-ка колл-ив гӹц.
 #попышывлӓ лошты пӓлӹмӹ опр.эдемвлӓ гишӓн шайыштмаш кеӓ.
-#    мӧр+N+PxPl1+Pl+Nom: мӧрӹнӓвлӓ
-     мӧр+N+Pl+PxPl1+Gen: мӧрӹвлӓнӓн
-#    мӧр+N+PxPl1+Pl+Gen: мӧрӹнӓвлӓн
-     мӧр+N+Pl+PxPl1+Acc: мӧрӹвлӓнӓм
-#    мӧр+N+PxPl1+Pl+Acc: мӧрӹнӓвлӓм
-#    мӧр+N+PxPl1+Pl+Com: мӧрӹнӓвлӓге
-     мӧр+N+Pl+PxPl1+Com: мӧрӹвлӓнӓге
-     мӧр+N+Pl+Dat+PxPl1: мӧрӹвлӓлӓннӓ
-#    мӧр+N+PxPl1+Pl+Dat: мӧрӹнӓвлӓлӓн
-#    мӧр+N+Pl+PxPl1+Dat: мӧрӹвлӓнӓлӓн
-     мӧр+N+Pl+Ine+PxPl1: мӧрӹвлӓштӹнӓ
-     мӧр+N+Pl+Ill+PxPl1: мӧрӹвлӓшкӹнӓ
-#    мӧр+N+PxPl1+Pl+Lat: мӧрӹнӓвлӓэш
-     мӧр+N+Pl+Lat+PxPl1: мӧрӹвлӓэшнӓ
-     мӧр+N+Pl+PxPl1+Cmpr: мӧрӹвлӓнӓлӓ     
-#    мӧр+N+PxPl1+Pl+Cmpr: мӧрӹнӓвлӓлӓ
-#    мӧр+N+Pl+Cmpr+PxPl1: мӧрӹвлӓлӓнӓ
-     мӧр+N+Pl+PxPl1+Abe: мӧрӹвлӓнӓде
-#    мӧр+N+PxPl1+Pl+Abe: мӧрӹнӓвлӓде
+#    мӧр+N+Pl+Nom+PxPl1+So/PNC: мӧрӹнӓвлӓ
+     мӧр+N+Pl+Gen+PxPl1+So/NPC: мӧрӹвлӓнӓн
+#    мӧр+N+Pl+Gen+PxPl1+So/PNC: мӧрӹнӓвлӓн
+     мӧр+N+Pl+Acc+PxPl1+So/NPC: мӧрӹвлӓнӓм
+#    мӧр+N+Pl+Acc+PxPl1+So/PNC: мӧрӹнӓвлӓм
+#    мӧр+N+Pl+Com+PxPl1+So/PNC: мӧрӹнӓвлӓге
+     мӧр+N+Pl+Com+PxPl1+So/NPC: мӧрӹвлӓнӓге
+     мӧр+N+Pl+Dat+PxPl1+So/NCP: мӧрӹвлӓлӓннӓ
+#    мӧр+N+Pl+Dat+PxPl1+So/PNC: мӧрӹнӓвлӓлӓн
+#    мӧр+N+Pl+Dat+PxPl1+So/NPC: мӧрӹвлӓнӓлӓн
+     мӧр+N+Pl+Ine+PxPl1+So/NCP: мӧрӹвлӓштӹнӓ
+     мӧр+N+Pl+Ill+PxPl1+So/NCP: мӧрӹвлӓшкӹнӓ
+#    мӧр+N+Pl+Lat+PxPl1+So/PNC: мӧрӹнӓвлӓэш
+     мӧр+N+Pl+Lat+PxPl1+So/NCP: мӧрӹвлӓэшнӓ
+     мӧр+N+Pl+Cmpr+PxPl1+So/NPC: мӧрӹвлӓнӓлӓ     
+#    мӧр+N+Pl+Cmpr+PxPl1+So/PNC: мӧрӹнӓвлӓлӓ
+#    мӧр+N+Pl+Cmpr+PxPl1+So/NCP: мӧрӹвлӓлӓнӓ
+     мӧр+N+Pl+Abe+PxPl1+So/NPC: мӧрӹвлӓнӓде
+#    мӧр+N+Pl+Abe+PxPl1+So/PNC: мӧрӹнӓвлӓде
      
 #PxPl
-     мӧр+N+Sg+Nom+PxPl1: мӧрӹдӓ 
-     мӧр+N+Sg+PxPl1+Gen: мӧрӹдӓн
-     мӧр+N+Sg+PxPl1+Acc: мӧрӹдӓм
-     мӧр+N+Sg+PxPl1+Com: мӧрӹдӓге
-     мӧр+N+Sg+PxPl1+Dat: мӧрӹдӓлӓн
-     мӧр+N+Sg+Dat+PxPl1: мӧрӹлӓндӓ
-     мӧр+N+Sg+Ine+PxPl1: мӧрӹштӹдӓ
-     мӧр+N+Sg+Ill+PxPl1: мӧрӹшкӹдӓ
-     мӧр+N+Sg+Lat+PxPl1: мӧрешдӓ
-     мӧр+N+Sg+PxPl1+Cmpr: мӧрӹдӓлӓ 
-     мӧр+N+Sg+Cmpr+PxPl1: мӧрӹлӓдӓ 
-     мӧр+N+Sg+PxPl1+Abe: мӧрӹдӓде
+     мӧр+N+Sg+Nom+PxPl1+So/CP: мӧрӹдӓ 
+     мӧр+N+Sg+Gen+PxPl1+So/PC: мӧрӹдӓн
+     мӧр+N+Sg+Acc+PxPl1+So/PC: мӧрӹдӓм
+     мӧр+N+Sg+Com+PxPl1+So/PC: мӧрӹдӓге
+     мӧр+N+Sg+Dat+PxPl1+So/PC: мӧрӹдӓлӓн
+     мӧр+N+Sg+Dat+PxPl1+So/CP: мӧрӹлӓндӓ
+     мӧр+N+Sg+Ine+PxPl1+So/CP: мӧрӹштӹдӓ
+     мӧр+N+Sg+Ill+PxPl1+So/CP: мӧрӹшкӹдӓ
+     мӧр+N+Sg+Lat+PxPl1+So/CP: мӧрешдӓ
+     мӧр+N+Sg+Cmpr+PxPl1+So/PC: мӧрӹдӓлӓ 
+     мӧр+N+Sg+Cmpr+PxPl1+So/CP: мӧрӹлӓдӓ 
+     мӧр+N+Sg+Abe+PxPl1+So/PC: мӧрӹдӓде
    
-     мӧр+N+Pl+Nom+PxPl2: мӧрӹвлӓдӓ
+     мӧр+N+Pl+Nom+PxPl2+So/NCP: мӧрӹвлӓдӓ
 #плюраль годым ассоциаци коллектив гишӓн, вара ижӹ посессив.         
 #тенге чучеш: кынам Px pl анзылны, шая опр.эдемвлӓ гишӓн б-ка колл-ив гӹц.
 #попышывлӓ лошты пӓлӹмӹ опр.эдемвлӓ гишӓн шайыштмаш кеӓ.     
 #эче тенгелӓ чучеш: эдем гишӓн кынам Px плюраль анзылны, пейоратив сӹрӓн.
 #вольык годым Px pl анзылны, шамак деминутив сӹрӓнрӓк лиэш.
-#    мӧр+N+PxPl2+Pl+Nom: мӧрӹдӓвлӓ
-     мӧр+N+Pl+PxPl2+Gen: мӧрӹвлӓдӓн
-#    мӧр+N+PxPl2+Pl+Gen: мӧрӹдӓвлӓн
-     мӧр+N+Pl+PxPl2+Acc: мӧрӹвлӓдӓм
-#    мӧр+N+PxPl2+Pl+Acc: мӧрӹдӓвлӓм
-#    мӧр+N+PxPl2+Pl+Com: мӧрӹдӓвлӓге
-     мӧр+N+Pl+PxPl2+Com: мӧрӹвлӓдӓге
-     мӧр+N+Pl+Dat+PxPl2: мӧрӹвлӓлӓндӓ
-#    мӧр+N+PxPl2+Pl+Dat: мӧрӹдӓвлӓлӓн
-#    мӧр+N+Pl+PxPl2+Dat: мӧрӹвлӓдӓлӓн
-     мӧр+N+Pl+Ine+PxPl2: мӧрӹвлӓштӹдӓ
-     мӧр+N+Pl+Ill+PxPl2: мӧрӹвлӓшкӹдӓ
-#    мӧр+N+PxPl2+Pl+Lat: мӧрӹдӓвлӓэш     
-     мӧр+N+Pl+Lat+PxPl2: мӧрӹвлӓэшдӓ
-     мӧр+N+Pl+PxPl2+Cmpr: мӧрӹвлӓдӓлӓ    
-#    мӧр+N+PxPl2+Pl+Cmpr: мӧрӹдӓвлӓлӓ
-#    мӧр+N+Pl+Cmpr+PxPl2: мӧрӹвлӓлӓдӓ
-     мӧр+N+Pl+PxPl2+Abe: мӧрӹвлӓдӓде
-#    мӧр+N+PxPl2+Pl+Abe: мӧрӹдӓвлӓде
+#    мӧр+N+Pl+Nom+PxPl2+So/PNC: мӧрӹдӓвлӓ
+     мӧр+N+Pl+Gen+PxPl2+So/NPC: мӧрӹвлӓдӓн
+#    мӧр+N+Pl+Gen+PxPl2+So/PNC: мӧрӹдӓвлӓн
+     мӧр+N+Pl+Acc+PxPl2+So/NPC: мӧрӹвлӓдӓм
+#    мӧр+N+Pl+Acc+PxPl2+So/PNC: мӧрӹдӓвлӓм
+#    мӧр+N+Pl+Com+PxPl2+So/PNC: мӧрӹдӓвлӓге
+     мӧр+N+Pl+Com+PxPl2+So/NPC: мӧрӹвлӓдӓге
+     мӧр+N+Pl+Dat+PxPl2+So/NCP: мӧрӹвлӓлӓндӓ
+#    мӧр+N+Pl+Dat+PxPl2+So/PNC: мӧрӹдӓвлӓлӓн
+#    мӧр+N+Pl+Dat+PxPl2+So/NPC: мӧрӹвлӓдӓлӓн
+     мӧр+N+Pl+Ine+PxPl2+So/NCP: мӧрӹвлӓштӹдӓ
+     мӧр+N+Pl+Ill+PxPl2+So/NCP: мӧрӹвлӓшкӹдӓ
+#    мӧр+N+Pl+Lat+PxPl2+So/PNC: мӧрӹдӓвлӓэш     
+     мӧр+N+Pl+Lat+PxPl2+So/NCP: мӧрӹвлӓэшдӓ
+     мӧр+N+Pl+Cmpr+PxPl2+So/NPC: мӧрӹвлӓдӓлӓ    
+#    мӧр+N+Pl+Cmpr+PxPl2+So/PNC: мӧрӹдӓвлӓлӓ
+#    мӧр+N+Pl+Cmpr+PxPl2+So/NCP: мӧрӹвлӓлӓдӓ
+     мӧр+N+Pl+Abe+PxPl2+So/NPC: мӧрӹвлӓдӓде
+#    мӧр+N+Pl+Abe+PxPl2+So/PNC: мӧрӹдӓвлӓде
         
 #PxPl3
-     мӧр+N+Sg+Nom+PxPl1: мӧрӹштӹ 
-     мӧр+N+Sg+PxPl1+Gen: мӧрӹштӹн
-     мӧр+N+Sg+PxPl1+Acc: мӧрӹштӹм
-     мӧр+N+Sg+PxPl1+Com: мӧрӹштӹге
-     мӧр+N+Sg+PxPl1+Dat: мӧрӹштӹлӓн
-     мӧр+N+Sg+Dat+PxPl1: мӧрӹлӓнӹштӹ
-     мӧр+N+Sg+Ine+PxPl1: мӧрӹштӹштӹ
-     мӧр+N+Sg+Ill+PxPl1: мӧрӹшкӹштӹ
-     мӧр+N+Sg+Lat+PxPl1: мӧрешӹштӹ
-     мӧр+N+Sg+PxPl1+Cmpr: мӧрӹштӹлӓ 
-     мӧр+N+Sg+Cmpr+PxPl1: мӧрӹлӓштӹ
-     мӧр+N+Sg+PxPl1+Abe: мӧрӹштӹде  
+     мӧр+N+Sg+Nom+PxPl1+So/CP: мӧрӹштӹ 
+     мӧр+N+Sg+Gen+PxPl1+So/PC: мӧрӹштӹн
+     мӧр+N+Sg+Acc+PxPl1+So/PC: мӧрӹштӹм
+     мӧр+N+Sg+Com+PxPl1+So/PC: мӧрӹштӹге
+     мӧр+N+Sg+Dat+PxPl1+So/PC: мӧрӹштӹлӓн
+     мӧр+N+Sg+Dat+PxPl1+So/CP: мӧрӹлӓнӹштӹ
+     мӧр+N+Sg+Ine+PxPl1+So/CP: мӧрӹштӹштӹ
+     мӧр+N+Sg+Ill+PxPl1+So/CP: мӧрӹшкӹштӹ
+     мӧр+N+Sg+Lat+PxPl1+So/CP: мӧрешӹштӹ
+     мӧр+N+Sg+Cmpr+PxPl1+So/PC: мӧрӹштӹлӓ 
+     мӧр+N+Sg+Cmpr+PxPl1+So/CP: мӧрӹлӓштӹ
+     мӧр+N+Sg+Abe+PxPl1+So/PC: мӧрӹштӹде  
      
-     мӧр+N+Pl+Nom+PxPl3: мӧрӹвлӓштӹ
-     мӧр+N+Pl+PxPl3+Gen: мӧрӹвлӓштӹн
-     мӧр+N+Pl+PxPl3+Acc: мӧрӹвлӓштӹм
-     мӧр+N+Pl+PxPl3+Com: мӧрӹвлӓштӹге
-     мӧр+N+Pl+Dat+PxPl3: мӧрӹвлӓлӓнӹштӹ
-     мӧр+N+Pl+PxPl3+Dat: мӧрӹвлӓштӹлӓн
-     мӧр+N+Pl+Ine+PxPl3: мӧрӹвлӓштӹштӹ
-     мӧр+N+Pl+Ill+PxPl3: мӧрӹвлӓшкӹштӹ
-     мӧр+N+Pl+Lat+PxPl3: мӧрӹвлӓэшӹштӹ
-     мӧр+N+Pl+Cmpr+PxPl3: мӧрӹвлӓлӓштӹ
-     мӧр+N+Pl+PxPl3+Cmpr: мӧрӹвлӓштӹлӓ
-     мӧр+N+Pl+PxPl3+Abe: мӧрӹвлӓштӹде
+     мӧр+N+Pl+Nom+PxPl3+So/NCP: мӧрӹвлӓштӹ
+     мӧр+N+Pl+Gen+PxPl3+So/NPC: мӧрӹвлӓштӹн
+     мӧр+N+Pl+Acc+PxPl3+So/NPC: мӧрӹвлӓштӹм
+     мӧр+N+Pl+Com+PxPl3+So/NPC: мӧрӹвлӓштӹге
+     мӧр+N+Pl+Dat+PxPl3+So/NCP: мӧрӹвлӓлӓнӹштӹ
+     мӧр+N+Pl+Dat+PxPl3+So/NPC: мӧрӹвлӓштӹлӓн
+     мӧр+N+Pl+Ine+PxPl3+So/NCP: мӧрӹвлӓштӹштӹ
+     мӧр+N+Pl+Ill+PxPl3+So/NCP: мӧрӹвлӓшкӹштӹ
+     мӧр+N+Pl+Lat+PxPl3+So/NCP: мӧрӹвлӓэшӹштӹ
+     мӧр+N+Pl+Cmpr+PxPl3+So/NCP: мӧрӹвлӓлӓштӹ
+     мӧр+N+Pl+Cmpr+PxPl3+So/NPC: мӧрӹвлӓштӹлӓ
+     мӧр+N+Pl+Abe+PxPl3+So/NPC: мӧрӹвлӓштӹде
 

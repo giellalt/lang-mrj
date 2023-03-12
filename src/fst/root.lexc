@@ -50,8 +50,21 @@ Multichar_Symbols
 !! #### Tags for nominals  nominals 
  +Sg +Du +Pl  !!≈ * **@CODE@** 
  +Ess +Nom +Gen +Acc +Ill +Loc +Com +Com/Sh +Cmpr !!≈ * **@CODE@** 
- +PxSg1 +PxSg2 +PxSg3 +PxDu1 +PxDu2 +PxDu3 +PxPl1 +PxPl2 +PxPl3 !!≈ * **@CODE@** = Possessive suffixes
- +Pos +Comp +Superl !!≈ * **@CODE@** =  The comparative
+ +PxSg1 +PxSg2 +PxSg3 +PxDu1 +PxDu2 +PxDu3 +PxPl1 +PxPl2 +PxPl3 !
+!≈ * **@CODE@** = Possessive suffixes
+
+!! Suffix ordering tags:
++So/CP	  !!≈ * **@CODE@** = Suffix ordering: Case + Possessive Person marking
++So/PC	  !!≈ * **@CODE@** = Suffix ordering: Possessive Person + Case marking
++So/NCP	  !!≈ * **@CODE@** = Suffix ordering: Number + Case + Possessive Person marking
++So/NPC	  !!≈ * **@CODE@** = Suffix ordering: Number + Possessive Person + Case marking
++So/NP	  !!≈ * **@CODE@** = Suffix ordering: Number + Possessive Person marking
++So/PN	  !!≈ * **@CODE@** = Suffix ordering: Possessive Person + Number marking
++So/PNC	  !!≈ * **@CODE@** = Suffix ordering: Possessive Person + Number + Case marking
+
+
+
++Pos +Comp +Superl !!≈ * **@CODE@** =  The comparative
  +Attr  +Ord  !!≈ * **@CODE@** = 
  
 !! #### Tags for numerals 

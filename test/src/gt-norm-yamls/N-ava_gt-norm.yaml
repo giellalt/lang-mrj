@@ -36,73 +36,73 @@ Tests:
      ӓвӓ+N+Pl+Cmpr: ӓвӓвлӓлӓ
      ӓвӓ+N+Pl+Abe: ӓвӓвлӓде
 
-     ӓвӓ+N+Sg+Nom+PxSg1: [ӓвӓм, ӓвӓэм] # х2 ӓвӓэмжӹ
-     ӓвӓ+N+Sg+PxSg1+Gen: ӓвӓмӹн
-     ӓвӓ+N+Sg+PxSg1+Acc: ӓвӓмӹм
-     ӓвӓ+N+Sg+PxSg1+Com: ӓвӓмге
-     ӓвӓ+N+Sg+PxSg1+Dat: ӓвӓмлӓн
-     ӓвӓ+N+Sg+PxSg1+Ine: ӓвӓмӹштӹ
-     ӓвӓ+N+Sg+PxSg1+Ill: ӓвӓмӹшкӹ
-     ӓвӓ+N+Sg+PxSg1+Lat: ӓвӓмӹш
-     ӓвӓ+N+Sg+PxSg1+Cmpr: ӓвӓмлӓ
-     ӓвӓ+N+Sg+PxSg1+Abe: ӓвӓмде
-     ӓвӓ+N+PxSg1+Pl+Nom: [ӓвӓмвлӓ, ӓвӓэмвлӓ] # х3
-     ӓвӓ+N+Pl+Nom+PxSg1: ӓвӓвлӓэм
-     ӓвӓ+N+PxSg1+Pl+Gen: ӓвӓмвлӓн
-     ӓвӓ+N+PxSg1+Pl+Acc: ӓвӓмвлӓм
-     ӓвӓ+N+PxSg1+Pl+Com: ӓвӓмвлӓге
-     ӓвӓ+N+PxSg1+Pl+Dat: ӓвӓмвлӓлӓн
-     ӓвӓ+N+PxSg1+Pl+Ine: ӓвӓмвлӓштӹ
-     ӓвӓ+N+PxSg1+Pl+Ill: ӓвӓмвлӓшкӹ
-     ӓвӓ+N+PxSg1+Pl+Lat: ӓвӓмвлӓш
-     ӓвӓ+N+PxSg1+Pl+Cmpr: ӓвӓмвлӓлӓ
-     ӓвӓ+N+PxSg1+Pl+Abe: ӓвӓмвлӓде
+     ӓвӓ+N+Sg+Nom+PxSg1+So/CP: [ӓвӓм, ӓвӓэм] # х2 ӓвӓэмжӹ
+     ӓвӓ+N+Sg+Gen+PxSg1+So/PC: ӓвӓмӹн
+     ӓвӓ+N+Sg+Acc+PxSg1+So/PC: ӓвӓмӹм
+     ӓвӓ+N+Sg+Com+PxSg1+So/PC: ӓвӓмге
+     ӓвӓ+N+Sg+Dat+PxSg1+So/PC: ӓвӓмлӓн
+     ӓвӓ+N+Sg+Ine+PxSg1+So/PC: ӓвӓмӹштӹ
+     ӓвӓ+N+Sg+Ill+PxSg1+So/PC: ӓвӓмӹшкӹ
+     ӓвӓ+N+Sg+Lat+PxSg1+So/PC: ӓвӓмӹш
+     ӓвӓ+N+Sg+Cmpr+PxSg1+So/PC: ӓвӓмлӓ
+     ӓвӓ+N+Sg+Abe+PxSg1+So/PC: ӓвӓмде
+     ӓвӓ+N+Pl+Nom+PxSg1+So/PNC: [ӓвӓмвлӓ, ӓвӓэмвлӓ] # х3
+     ӓвӓ+N+Pl+Nom+PxSg1+So/NCP: ӓвӓвлӓэм
+     ӓвӓ+N+Pl+Gen+PxSg1+So/PNC: ӓвӓмвлӓн
+     ӓвӓ+N+Pl+Acc+PxSg1+So/PNC: ӓвӓмвлӓм
+     ӓвӓ+N+Pl+Com+PxSg1+So/PNC: ӓвӓмвлӓге
+     ӓвӓ+N+Pl+Dat+PxSg1+So/PNC: ӓвӓмвлӓлӓн
+     ӓвӓ+N+Pl+Ine+PxSg1+So/PNC: ӓвӓмвлӓштӹ
+     ӓвӓ+N+Pl+Ill+PxSg1+So/PNC: ӓвӓмвлӓшкӹ
+     ӓвӓ+N+Pl+Lat+PxSg1+So/PNC: ӓвӓмвлӓш
+     ӓвӓ+N+Pl+Cmpr+PxSg1+So/PNC: ӓвӓмвлӓлӓ
+     ӓвӓ+N+Pl+Abe+PxSg1+So/PNC: ӓвӓмвлӓде
 
-     ӓвӓ+N+PxSg2+Sg+Nom: [ӓвӓт, ӓвӓэт]
-     ӓвӓ+N+PxSg2+Sg+Gen: ӓвӓтӹн
-     ӓвӓ+N+PxSg2+Sg+Acc: ӓвӓтӹм
-     ӓвӓ+N+PxSg2+Sg+Com: ӓвӓтге
-     ӓвӓ+N+PxSg2+Sg+Dat: ӓвӓтлӓн
-     ӓвӓ+N+PxSg2+Sg+Ine: ӓвӓтӹштӹ
-     ӓвӓ+N+PxSg2+Sg+Ill: ӓвӓтӹшкӹ
-     ӓвӓ+N+PxSg2+Sg+Lat: ӓвӓтӹш
-     ӓвӓ+N+PxSg2+Sg+Cmpr: ӓвӓтлӓ
-     ӓвӓ+N+PxSg2+Sg+Abe: ӓвӓтде
-     ӓвӓ+N+PxSg2+Pl+Nom: [ӓвӓтвлӓ, ӓвӓэтвлӓ] 
-     ӓвӓ+N+Pl+Nom+PxSg2: ӓвӓвлӓэт
-     ӓвӓ+N+PxSg2+Pl+Gen: ӓвӓтвлӓн
-     ӓвӓ+N+PxSg2+Pl+Acc: ӓвӓтвлӓм
-     ӓвӓ+N+PxSg2+Pl+Com: ӓвӓтвлӓге
-     ӓвӓ+N+PxSg2+Pl+Dat: ӓвӓтвлӓлӓн
-     ӓвӓ+N+Pl+Dat+PxSg2: ӓвӓвлӓлӓнет
-     ӓвӓ+N+PxSg2+Pl+Ine: ӓвӓтвлӓштӹ
-     ӓвӓ+N+PxSg2+Pl+Ill: ӓвӓтвлӓшкӹ
-     ӓвӓ+N+PxSg2+Pl+Lat: ӓвӓтвлӓэш
-     ӓвӓ+N+PxSg2+Pl+Cmpr: ӓвӓтвлӓлӓ
-     ӓвӓ+N+PxSg2+Pl+Abe: ӓвӓтвлӓде
+     ӓвӓ+N+Sg+Nom+PxSg2+So/PC: [ӓвӓт, ӓвӓэт]
+     ӓвӓ+N+Sg+Gen+PxSg2+So/PC: ӓвӓтӹн
+     ӓвӓ+N+Sg+Acc+PxSg2+So/PC: ӓвӓтӹм
+     ӓвӓ+N+Sg+Com+PxSg2+So/PC: ӓвӓтге
+     ӓвӓ+N+Sg+Dat+PxSg2+So/PC: ӓвӓтлӓн
+     ӓвӓ+N+Sg+Ine+PxSg2+So/PC: ӓвӓтӹштӹ
+     ӓвӓ+N+Sg+Ill+PxSg2+So/PC: ӓвӓтӹшкӹ
+     ӓвӓ+N+Sg+Lat+PxSg2+So/PC: ӓвӓтӹш
+     ӓвӓ+N+Sg+Cmpr+PxSg2+So/PC: ӓвӓтлӓ
+     ӓвӓ+N+Sg+Abe+PxSg2+So/PC: ӓвӓтде
+     ӓвӓ+N+Pl+Nom+PxSg2+So/PNC: [ӓвӓтвлӓ, ӓвӓэтвлӓ] 
+     ӓвӓ+N+Pl+Nom+PxSg2+So/NCP: ӓвӓвлӓэт
+     ӓвӓ+N+Pl+Gen+PxSg2+So/PNC: ӓвӓтвлӓн
+     ӓвӓ+N+Pl+Acc+PxSg2+So/PNC: ӓвӓтвлӓм
+     ӓвӓ+N+Pl+Com+PxSg2+So/PNC: ӓвӓтвлӓге
+     ӓвӓ+N+Pl+Dat+PxSg2+So/PNC: ӓвӓтвлӓлӓн
+     ӓвӓ+N+Pl+Dat+PxSg2+So/NCP: ӓвӓвлӓлӓнет
+     ӓвӓ+N+Pl+Ine+PxSg2+So/PNC: ӓвӓтвлӓштӹ
+     ӓвӓ+N+Pl+Ill+PxSg2+So/PNC: ӓвӓтвлӓшкӹ
+     ӓвӓ+N+Pl+Lat+PxSg2+So/PNC: ӓвӓтвлӓэш
+     ӓвӓ+N+Pl+Cmpr+PxSg2+So/PNC: ӓвӓтвлӓлӓ
+     ӓвӓ+N+Pl+Abe+PxSg2+So/PNC: ӓвӓтвлӓде
 
-     ӓвӓ+N+PxSg3+Sg+Nom: ӓвӓжӹ
-     ӓвӓ+N+PxSg3+Sg+Gen: ӓвӓжӹн
-     ӓвӓ+N+PxSg3+Sg+Acc: ӓвӓжӹм
-     ӓвӓ+N+PxSg3+Sg+Com: ӓвӓжӹге 
-     ӓвӓ+N+PxSg3+Sg+Dat: ӓвӓжӹлӓн 
-     ӓвӓ+N+PxSg3+Sg+Ine: ӓвӓжӹштӹ #??
-     ӓвӓ+N+PxSg3+Sg+Ill: ӓвӓжӹшкӹ #??
-     ӓвӓ+N+Sg+Ill+PxSg3: ӓвӓшкӹжӹ
-     ӓвӓ+N+Sg+Lat+PxSg3: ӓвӓэшӹжӹ #
-     ӓвӓ+N+PxSg3+Sg+Cmpr: ӓвӓжӹлӓ
-     ӓвӓ+N+PxSg3+Sg+Abe: ӓвӓжӹде
-     ӓвӓ+N+PxSg3+Pl+Nom: ӓвӓжӹвлӓ
-     ӓвӓ+N+Pl+Nom+PxSg3: ӓвӓвлӓжӹ
-     ӓвӓ+N+PxSg3+Pl+Gen: ӓвӓжӹвлӓн
-     ӓвӓ+N+PxSg3+Pl+Acc: ӓвӓжӹвлӓм
-     ӓвӓ+N+PxSg3+Pl+Com: ӓвӓжӹвлӓге
-     ӓвӓ+N+PxSg3+Pl+Dat: ӓвӓжӹвлӓлӓн
-     ӓвӓ+N+PxSg3+Pl+Ine: ӓвӓжӹвлӓштӹ #??
-     ӓвӓ+N+PxSg3+Pl+Ill: ӓвӓжӹвлӓшкӹ #??
-     ӓвӓ+N+PxSg3+Pl+Lat: ӓвӓжӹвлӓш #??
-     ӓвӓ+N+PxSg3+Pl+Cmpr: ӓвӓжӹвлӓлӓ
-     ӓвӓ+N+PxSg3+Pl+Abe: ӓвӓжӹвлӓде
+     ӓвӓ+N+Sg+Nom+PxSg3+So/PC: ӓвӓжӹ
+     ӓвӓ+N+Sg+Gen+PxSg3+So/PC: ӓвӓжӹн
+     ӓвӓ+N+Sg+Acc+PxSg3+So/PC: ӓвӓжӹм
+     ӓвӓ+N+Sg+Com+PxSg3+So/PC: ӓвӓжӹге 
+     ӓвӓ+N+Sg+Dat+PxSg3+So/PC: ӓвӓжӹлӓн 
+     ӓвӓ+N+Sg+Ine+PxSg3+So/PC: ӓвӓжӹштӹ #??
+     ӓвӓ+N+Sg+Ill+PxSg3+So/PC: ӓвӓжӹшкӹ #??
+     ӓвӓ+N+Sg+Ill+PxSg3+So/CP: ӓвӓшкӹжӹ
+     ӓвӓ+N+Sg+Lat+PxSg3+So/CP: ӓвӓэшӹжӹ #
+     ӓвӓ+N+Sg+Cmpr+PxSg3+So/PC: ӓвӓжӹлӓ
+     ӓвӓ+N+Sg+Abe+PxSg3+So/PC: ӓвӓжӹде
+     ӓвӓ+N+Pl+Nom+PxSg3+So/PNC: ӓвӓжӹвлӓ
+     ӓвӓ+N+Pl+Nom+PxSg3+So/NCP: ӓвӓвлӓжӹ
+     ӓвӓ+N+Pl+Gen+PxSg3+So/PNC: ӓвӓжӹвлӓн
+     ӓвӓ+N+Pl+Acc+PxSg3+So/PNC: ӓвӓжӹвлӓм
+     ӓвӓ+N+Pl+Com+PxSg3+So/PNC: ӓвӓжӹвлӓге
+     ӓвӓ+N+Pl+Dat+PxSg3+So/PNC: ӓвӓжӹвлӓлӓн
+     ӓвӓ+N+Pl+Ine+PxSg3+So/PNC: ӓвӓжӹвлӓштӹ #??
+     ӓвӓ+N+Pl+Ill+PxSg3+So/PNC: ӓвӓжӹвлӓшкӹ #??
+     ӓвӓ+N+Pl+Lat+PxSg3+So/PNC: ӓвӓжӹвлӓш #??
+     ӓвӓ+N+Pl+Cmpr+PxSg3+So/PNC: ӓвӓжӹвлӓлӓ
+     ӓвӓ+N+Pl+Abe+PxSg3+So/PNC: ӓвӓжӹвлӓде
 
 
 #ӓвӓт, ӓвӓэт, ӓвӓэтшӹ, 
