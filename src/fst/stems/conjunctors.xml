@@ -9,22 +9,14 @@
       <l pos="CC">а</l>
 
       <stg>
-        <st Contlex="CONJ_">а</st>
+        <st Contlex="CC_">а</st>
       </stg>
 
       <stress>а</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative>противительный союз = kontrastiivinen konjunktio
         (ISO:1069)</defNative>
-      </m>
-
       <tg xml:lang="fin">
         <t pos="CC">mutta</t>
 
@@ -40,14 +32,11 @@
       <l pos="CC">ат</l>
 
       <stg>
-        <st Contlex="CONJ_">ат</st>
+        <st Contlex="CC_">ат</st>
       </stg>
 
       <stress>ат</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head/>
@@ -74,9 +63,6 @@
 
       <stress>ато•</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head/>
@@ -131,9 +117,6 @@
 
       <stress>ву•йта</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head/>
@@ -159,7 +142,7 @@
       <l pos="CS">вӹлец</l>
 
       <stg>
-        <st Contlex="CONJ_">вӹлец</st>
+        <st Contlex="CS_">вӹлец</st>
       </stg>
 
       <stress>вӹле•ц</stress>
@@ -193,14 +176,11 @@
       <l pos="CS">гӹнь</l>
 
       <stg>
-        <st Contlex="CONJ_">гӹнь</st>
+        <st Contlex="CS_">гӹнь</st>
       </stg>
 
       <stress>гӹнь</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head/>
@@ -237,14 +217,11 @@
       <l pos="CS">гӹнь</l>
 
       <stg>
-        <st Contlex="CONJ_">гӹнь</st>
+        <st Contlex="CS_">гӹнь</st>
       </stg>
 
       <stress>гӹнь</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head/>
@@ -281,14 +258,11 @@
       <l pos="CS">гӹньӹ</l>
 
       <stg>
-        <st Contlex="CONJ_">гӹньӹ</st>
+        <st Contlex="CS_">гӹньӹ</st>
       </stg>
 
       <stress>гӹньӹ</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head/>
@@ -313,14 +287,11 @@
       <l pos="CS">гӹнят</l>
 
       <stg>
-        <st Contlex="CONJ_">гӹнят</st>
+        <st Contlex="CS_">гӹнят</st>
       </stg>
 
       <stress>гӹня•т</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head/>
@@ -377,7 +348,7 @@
       <l_ref pos="CC">доно</l_ref>
 
       <stg>
-        <st Contlex="Cc">дон</st>
+        <st Contlex="CC_">дон</st>
       </stg>
 
       <stress>дон</stress>
@@ -405,7 +376,7 @@
       <l pos="CC">дон иктӹ</l>
 
       <stg>
-        <st Contlex="Cc">дон иктӹ</st>
+        <st Contlex="CC_">дон иктӹ</st>
       </stg>
 
       <stress>дон и•ктӹ</stress>
@@ -431,7 +402,7 @@
       <l pos="CC">доно</l>
 
       <stg>
-        <st Contlex="Cc">доно</st>
+        <st Contlex="CC_">доно</st>
       </stg>
 
       <stress>до•но</stress>
@@ -460,14 +431,11 @@
       <l pos="CS">дык</l>
 
       <stg>
-        <st Contlex="CONJ_">дык</st>
+        <st Contlex="CS_">дык</st>
       </stg>
 
       <stress>дык</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head/>
@@ -486,7 +454,7 @@
       <l pos="CC">дӓ</l>
 
       <stg>
-        <st Contlex="Cc">дӓ</st>
+        <st Contlex="CC_">дӓ</st>
       </stg>
 
       <stress>дӓ</stress>
@@ -514,14 +482,11 @@
       <l pos="CS">если</l>
 
       <stg>
-        <st Contlex="CONJ_">если</st>
+        <st Contlex="CS_">если</st>
       </stg>
 
       <stress>е•сли</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head/>
@@ -545,9 +510,6 @@
 
       <stress>зато•</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head/>
@@ -569,14 +531,11 @@
       <l pos="CS">керек</l>
 
       <stg>
-        <st Contlex="CONJ_">керек</st>
+        <st Contlex="CS_">керек</st>
       </stg>
 
       <stress>кере•к</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head>
@@ -617,14 +576,11 @@
       <l pos="CS">кынам</l>
 
       <stg>
-        <st Contlex="CONJ_">кынам</st>
+        <st Contlex="CS_">кынам</st>
       </stg>
 
       <stress>кына•м</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head/>
@@ -649,14 +605,11 @@
       <l pos="CC">льывы</l>
 
       <stg>
-        <st Contlex="CONJ_">льывы</st>
+        <st Contlex="CC_">льывы</st>
       </stg>
 
       <stress>льы•вы</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head/>
@@ -677,14 +630,11 @@
       <l pos="CS">манын</l>
 
       <stg>
-        <st Contlex="CONJ_">манын</st>
+        <st Contlex="CS_">манын</st>
       </stg>
 
       <stress>ма•нын</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head/>
@@ -706,14 +656,11 @@
       <l pos="CC">ни</l>
 
       <stg>
-        <st Contlex="CONJ_">ни</st>
+        <st Contlex="CC_">ни</st>
       </stg>
 
       <stress>ни</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head/>
@@ -732,14 +679,11 @@
       <l pos="CC">но</l>
 
       <stg>
-        <st Contlex="CONJ_">но</st>
+        <st Contlex="CC_">но</st>
       </stg>
 
       <stress>но</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head/>
@@ -758,14 +702,11 @@
       <l pos="CS">потомушто</l>
 
       <stg>
-        <st Contlex="CONJ_">потомушто</st>
+        <st Contlex="CS_">потомушто</st>
       </stg>
 
       <stress>потому•што</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head/>
@@ -786,14 +727,11 @@
       <l pos="CS">седӹндон</l>
 
       <stg>
-        <st Contlex="CONJ_">седӹндон</st>
+        <st Contlex="CS_">седӹндон</st>
       </stg>
 
       <stress>се•дӹндон</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head/>
@@ -816,14 +754,11 @@
       <l pos="CS">седӹндоно</l>
 
       <stg>
-        <st Contlex="CONJ_">седӹндоно</st>
+        <st Contlex="CS_">седӹндоно</st>
       </stg>
 
       <stress>се•дӹндоно</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head/>
@@ -846,14 +781,11 @@
       <l pos="CS">сендон</l>
 
       <stg>
-        <st Contlex="CONJ_">сендон</st>
+        <st Contlex="CS_">сендон</st>
       </stg>
 
       <stress>се•ндоно</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head/>
@@ -876,14 +808,11 @@
       <l pos="CC">только</l>
 
       <stg>
-        <st Contlex="CONJ_">только</st>
+        <st Contlex="CC_">только</st>
       </stg>
 
       <stress>то•лько</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head>
@@ -910,14 +839,11 @@
       <l pos="CC">толькы</l>
 
       <stg>
-        <st Contlex="CONJ_">толькы</st>
+        <st Contlex="CC_">толькы</st>
       </stg>
 
       <stress>то•лькы</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head>
@@ -944,14 +870,11 @@
       <l pos="CS">тоты</l>
 
       <stg>
-        <st Contlex="CONJ_">тоты</st>
+        <st Contlex="CS_">тоты</st>
       </stg>
 
       <stress>то•ты</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head/>
@@ -974,14 +897,11 @@
       <l pos="CC">тӓ</l>
 
       <stg>
-        <st Contlex="CONJ_">тӓ</st>
+        <st Contlex="CC_">тӓ</st>
       </stg>
 
       <stress>тӓ</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head/>
@@ -1006,16 +926,13 @@
       <l pos="CS">тӹндон</l>
 
       <stg>
-        <st Contlex="CONJ_">тӹндон</st>
+        <st Contlex="CS_">тӹндон</st>
 
-        <st Contlex="CONJ_">сендон</st>
+        <st Contlex="CS_">сендон</st>
       </stg>
 
       <stress>тӹ•ндон</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head/>
@@ -1038,14 +955,11 @@
       <l pos="CS">хоть</l>
 
       <stg>
-        <st Contlex="CONJ_">хоть</st>
+        <st Contlex="CS_">хоть</st>
       </stg>
 
       <stress>хоть</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head>
@@ -1086,7 +1000,7 @@
       <l pos="CS">хыть</l>
 
       <stg>
-        <st Contlex="Cs">хыть</st>
+        <st Contlex="CS_">хыть</st>
       </stg>
 
       <stress>хыть</stress>
@@ -1112,7 +1026,7 @@
       <l pos="CS">шамакеш</l>
 
       <stg>
-        <st Contlex="Cs">шамакеш</st>
+        <st Contlex="CS_">шамакеш</st>
       </stg>
 
       <stress>шама•кеш</stress>
@@ -1139,14 +1053,11 @@
       <l pos="CS">ылгецӹ</l>
 
       <stg>
-        <st Contlex="CONJ_">ылгецӹ</st>
+        <st Contlex="CS_">ылгецӹ</st>
       </stg>
 
       <stress>ылге•цӹ</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head>
@@ -1178,14 +1089,11 @@ ja konjunktio (jos; vaikka; jollei) - уступительные союзы-->
       <l_ref pos="CC">ӓль</l_ref>
 
       <stg>
-        <st Contlex="CONJ_">ӓли</st>
+        <st Contlex="CC_">ӓли</st>
       </stg>
 
       <stress>ӓ•ли</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head/>
@@ -1208,14 +1116,11 @@ ja konjunktio (jos; vaikka; jollei) - уступительные союзы-->
       <l_ref pos="CC">ӓли</l_ref>
 
       <stg>
-        <st Contlex="CONJ_">ӓль</st>
+        <st Contlex="CC_">ӓль</st>
       </stg>
 
       <stress>ӓль</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head/>
@@ -1246,14 +1151,11 @@ ja konjunktio (jos; vaikka; jollei) - уступительные союзы-->
       <l pos="CS">ӹшкӓлӓ</l>
 
       <stg>
-        <st Contlex="CONJ_">ӹшкӓлӓ</st>
+        <st Contlex="CS_">ӹшкӓлӓ</st>
       </stg>
 
       <stress>ӹшкӓ•лӓ</stress>
     </lg>
-
-    <pos>Conj</pos>
-
     <mg>
       <m>
         <head/>

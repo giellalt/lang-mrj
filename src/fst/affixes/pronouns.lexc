@@ -98,6 +98,11 @@ LEXICON REFL
   +Refl+Pl3+Acc:ӹмӹшт%>м   K ;
   +Refl+Pl3+Dat:ӹ%>лӓнӹштӹ K ;
 
+LEXICON PRON_MA !!= @CODE@ ма+Pron:ма
++Sg+Acc:%>м K ;
++Sg+Gen:%>н K ;
++Sg+Nom: K ;
+
 LEXICON DEM-SG !!= @CODE@ тидӹ:ти
      +Dem+Dep:             WORDEND ;
   +Dem+Sg+Nom:дӹ           K       ;

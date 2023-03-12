@@ -61,11 +61,11 @@ LEXICON ADV-TEMP_  !!= * @CODE@
 
 
 
-LEXICON Cc
- +CC: # ;
+LEXICON CC_
+: # ;
 
-LEXICON Cs
- +CS: # ;
+LEXICON CS_
+: # ;
 
 LEXICON CONJ_
   # ;
