@@ -6,7 +6,7 @@
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e>
     <lg>
-      <l pos="Conj">а</l>
+      <l pos="CC">а</l>
 
       <stg>
         <st Contlex="CONJ_">а</st>
@@ -26,7 +26,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Conj">mutta</t>
+        <t pos="CC">mutta</t>
 
         <t pos="Conj">entä</t>
 
@@ -37,7 +37,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">ат</l>
+      <l pos="CC">ат</l>
 
       <stg>
         <st Contlex="CONJ_">ат</st>
@@ -57,9 +57,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Conj">ja</t>
+        <t pos="CC">ja</t>
 
-        <t pos="Conj">sekä</t>
+        <t pos="CC">sekä</t>
       </tg>
     </mg>
   </e>
@@ -156,7 +156,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">вӹлец</l>
+      <l pos="CS">вӹлец</l>
 
       <stg>
         <st Contlex="CONJ_">вӹлец</st>
@@ -177,7 +177,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Conj">vaikka</t>
+        <t pos="CS">vaikka</t>
       </tg>
 
       <xg>
@@ -190,7 +190,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">гӹнь</l>
+      <l pos="CS">гӹнь</l>
 
       <stg>
         <st Contlex="CONJ_">гӹнь</st>
@@ -209,13 +209,13 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Conj">jos</t>
+        <t pos="CS">jos</t>
 
-        <t pos="Conj">mikäli</t>
+        <t pos="CS">mikäli</t>
 
-        <t pos="Conj">ellei</t>
+        <t pos="CS">ellei</t>
 
-        <t pos="Conj">jollei</t>
+        <t pos="CS">jollei</t>
       </tg>
 
       <xg>
@@ -234,7 +234,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">гӹнь</l>
+      <l pos="CS">гӹнь</l>
 
       <stg>
         <st Contlex="CONJ_">гӹнь</st>
@@ -255,11 +255,11 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Conj">suhteutettuna</t>
+        <t pos="CS">suhteutettuna</t>
 
-        <t pos="Conj">verrattuna</t>
+        <t pos="CS">verrattuna</t>
 
-        <t pos="Conj">jos</t>
+        <t pos="CS">jos</t>
       </tg>
 
       <xg>
@@ -278,7 +278,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">гӹньӹ</l>
+      <l pos="CS">гӹньӹ</l>
 
       <stg>
         <st Contlex="CONJ_">гӹньӹ</st>
@@ -297,20 +297,20 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Conj">jos</t>
+        <t pos="CS">jos</t>
 
-        <t pos="Conj">mikäli</t>
+        <t pos="CS">mikäli</t>
 
-        <t pos="Conj">ellei</t>
+        <t pos="CS">ellei</t>
 
-        <t pos="Conj">jollei</t>
+        <t pos="CS">jollei</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Conj">гӹнят</l>
+      <l pos="CS">гӹнят</l>
 
       <stg>
         <st Contlex="CONJ_">гӹнят</st>
@@ -329,13 +329,13 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Conj">vaikka</t>
+        <t pos="CS">vaikka</t>
 
-        <t pos="Conj">vaikkakin</t>
+        <t pos="CS">vaikkakin</t>
 
-        <t pos="Conj">vaikkei</t>
+        <t pos="CS">vaikkei</t>
 
-        <t pos="Conj">silti</t>
+        <t pos="CS">silti</t>
       </tg>
 
       <xg>
@@ -372,9 +372,9 @@
 
   <e>
     <lg>
-      <l pos="Conj">дон</l>
+      <l pos="CC">дон</l>
 
-      <l_ref pos="Conj">доно</l_ref>
+      <l_ref pos="CC">доно</l_ref>
 
       <stg>
         <st Contlex="Cc">дон</st>
@@ -402,7 +402,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">дон иктӹ</l>
+      <l pos="CC">дон иктӹ</l>
 
       <stg>
         <st Contlex="Cc">дон иктӹ</st>
@@ -428,7 +428,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">доно</l>
+      <l pos="CC">доно</l>
 
       <stg>
         <st Contlex="Cc">доно</st>
@@ -457,7 +457,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">дык</l>
+      <l pos="CS">дык</l>
 
       <stg>
         <st Contlex="CONJ_">дык</st>
@@ -476,14 +476,14 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Conj">jos</t>
+        <t pos="CS">jos</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Conj">дӓ</l>
+      <l pos="CC">дӓ</l>
 
       <stg>
         <st Contlex="Cc">дӓ</st>
@@ -511,7 +511,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">если</l>
+      <l pos="CS">если</l>
 
       <stg>
         <st Contlex="CONJ_">если</st>
@@ -530,7 +530,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Conj">jos</t>
+        <t pos="CS">jos</t>
       </tg>
     </mg>
   </e>
@@ -566,7 +566,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">керек</l>
+      <l pos="CS">керек</l>
 
       <stg>
         <st Contlex="CONJ_">керек</st>
@@ -587,15 +587,15 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Conj">vaikka</t>
+        <t pos="CS">vaikka</t>
 
-        <t pos="Conj">joskin</t>
+        <t pos="CS">joskin</t>
 
-        <tf pos="Conj">jos kohta</tf>
+        <tf pos="CS">jos kohta</tf>
 
-        <tf pos="Conj">vaikkakaan ei</tf>
+        <tf pos="CS">vaikkakaan ei</tf>
 
-        <tf pos="Conj">joskaan ei</tf>
+        <tf pos="CS">joskaan ei</tf>
       </tg>
 
       <xg>
@@ -614,7 +614,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">кынам</l>
+      <l pos="CS">кынам</l>
 
       <stg>
         <st Contlex="CONJ_">кынам</st>
@@ -633,7 +633,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Conj">kun</t>
+        <t pos="CS">kun</t>
       </tg>
 
       <xg>
@@ -646,7 +646,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">льывы</l>
+      <l pos="CC">льывы</l>
 
       <stg>
         <st Contlex="CONJ_">льывы</st>
@@ -674,7 +674,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">манын</l>
+      <l pos="CS">манын</l>
 
       <stg>
         <st Contlex="CONJ_">манын</st>
@@ -694,16 +694,16 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Conj">että</t>
+        <t pos="CS">että</t>
 
-        <t pos="Conj">jotta</t>
+        <t pos="CS">jotta</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Conj">ни</l>
+      <l pos="CC">ни</l>
 
       <stg>
         <st Contlex="CONJ_">ни</st>
@@ -729,7 +729,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">но</l>
+      <l pos="CC">но</l>
 
       <stg>
         <st Contlex="CONJ_">но</st>
@@ -755,7 +755,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">потомушто</l>
+      <l pos="CS">потомушто</l>
 
       <stg>
         <st Contlex="CONJ_">потомушто</st>
@@ -774,16 +774,16 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Conj">koska</t>
+        <t pos="CS">koska</t>
 
-        <tf pos="Conj">sen takia</tf>
+        <tf pos="CS">sen takia</tf>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Conj">седӹндон</l>
+      <l pos="CS">седӹндон</l>
 
       <stg>
         <st Contlex="CONJ_">седӹндон</st>
@@ -802,18 +802,18 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Conj">siksi</t>
+        <t pos="CS">siksi</t>
 
-        <tf pos="Conj">sen takia</tf>
+        <tf pos="CS">sen takia</tf>
 
-        <tf pos="Conj">sen vuoksi</tf>
+        <tf pos="CS">sen vuoksi</tf>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Conj">седӹндоно</l>
+      <l pos="CS">седӹндоно</l>
 
       <stg>
         <st Contlex="CONJ_">седӹндоно</st>
@@ -832,18 +832,18 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Conj">siksi</t>
+        <t pos="CS">siksi</t>
 
-        <tf pos="Conj">sen takia</tf>
+        <tf pos="CS">sen takia</tf>
 
-        <tf pos="Conj">sen vuoksi</tf>
+        <tf pos="CS">sen vuoksi</tf>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Conj">сендон</l>
+      <l pos="CS">сендон</l>
 
       <stg>
         <st Contlex="CONJ_">сендон</st>
@@ -862,18 +862,18 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Conj">siksi</t>
+        <t pos="CS">siksi</t>
 
-        <tf pos="Conj">sen takia</tf>
+        <tf pos="CS">sen takia</tf>
 
-        <tf pos="Conj">sen vuoksi</tf>
+        <tf pos="CS">sen vuoksi</tf>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Conj">только</l>
+      <l pos="CC">только</l>
 
       <stg>
         <st Contlex="CONJ_">только</st>
@@ -907,7 +907,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">толькы</l>
+      <l pos="CC">толькы</l>
 
       <stg>
         <st Contlex="CONJ_">толькы</st>
@@ -941,7 +941,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">тоты</l>
+      <l pos="CS">тоты</l>
 
       <stg>
         <st Contlex="CONJ_">тоты</st>
@@ -971,7 +971,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">тӓ</l>
+      <l pos="CC">тӓ</l>
 
       <stg>
         <st Contlex="CONJ_">тӓ</st>
@@ -1003,7 +1003,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">тӹндон</l>
+      <l pos="CS">тӹндон</l>
 
       <stg>
         <st Contlex="CONJ_">тӹндон</st>
@@ -1024,18 +1024,18 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Conj">siksi</t>
+        <t pos="CS">siksi</t>
 
-        <tf pos="Conj">sen takia</tf>
+        <tf pos="CS">sen takia</tf>
 
-        <tf pos="Conj">sen vuoksi</tf>
+        <tf pos="CS">sen vuoksi</tf>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Conj">хоть</l>
+      <l pos="CS">хоть</l>
 
       <stg>
         <st Contlex="CONJ_">хоть</st>
@@ -1083,7 +1083,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">хыть</l>
+      <l pos="CS">хыть</l>
 
       <stg>
         <st Contlex="Cs">хыть</st>
@@ -1109,7 +1109,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">шамакеш</l>
+      <l pos="CS">шамакеш</l>
 
       <stg>
         <st Contlex="Cs">шамакеш</st>
@@ -1136,7 +1136,7 @@
 
   <e>
     <lg>
-      <l pos="Conj">ылгецӹ</l>
+      <l pos="CS">ылгецӹ</l>
 
       <stg>
         <st Contlex="CONJ_">ылгецӹ</st>
@@ -1173,9 +1173,9 @@ ja konjunktio (jos; vaikka; jollei) - уступительные союзы-->
 
   <e>
     <lg>
-      <l pos="Conj">ӓли</l>
+      <l pos="CC">ӓли</l>
 
-      <l_ref pos="Conj">ӓль</l_ref>
+      <l_ref pos="CC">ӓль</l_ref>
 
       <stg>
         <st Contlex="CONJ_">ӓли</st>
@@ -1203,9 +1203,9 @@ ja konjunktio (jos; vaikka; jollei) - уступительные союзы-->
 
   <e>
     <lg>
-      <l pos="Conj">ӓль</l>
+      <l pos="CC">ӓль</l>
 
-      <l_ref pos="Conj">ӓли</l_ref>
+      <l_ref pos="CC">ӓли</l_ref>
 
       <stg>
         <st Contlex="CONJ_">ӓль</st>
@@ -1243,7 +1243,7 @@ ja konjunktio (jos; vaikka; jollei) - уступительные союзы-->
 
   <e>
     <lg>
-      <l pos="Conj">ӹшкӓлӓ</l>
+      <l pos="CS">ӹшкӓлӓ</l>
 
       <stg>
         <st Contlex="CONJ_">ӹшкӓлӓ</st>
