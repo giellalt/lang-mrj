@@ -30,7 +30,16 @@ language are presented in this system in terms of the following symbols.
 #### Tags for nominals  nominals 
 * **+Sg +Du +Pl** 
 * **+Ess +Nom +Gen +Acc +Ill +Loc +Com +Com/Sh +Cmpr** 
-* **+PxSg1 +PxSg2 +PxSg3 +PxDu1 +PxDu2 +PxDu3 +PxPl1 +PxPl2 +PxPl3** = Possessive suffixes
+
+Suffix ordering tags:
+* **+So/CP** = Suffix ordering: Case + Possessive Person marking
+* **+So/PC** = Suffix ordering: Possessive Person + Case marking
+* **+So/NCP** = Suffix ordering: Number + Case + Possessive Person marking
+* **+So/NPC** = Suffix ordering: Number + Possessive Person + Case marking
+* **+So/NP** = Suffix ordering: Number + Possessive Person marking
+* **+So/PN** = Suffix ordering: Possessive Person + Number marking
+* **+So/PNC** = Suffix ordering: Possessive Person + Number + Case marking
+
 * **+Pos +Comp +Superl** =  The comparative
 * **+Attr +Ord** = 
 
