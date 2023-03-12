@@ -19,6 +19,8 @@ PERS-PL3 нӹнӹ:нӹнӹ
 
 REFL ӹшке:ӹшк
 
+LEXICON PRON_MA  ма+Pron:ма
+
 LEXICON DEM-SG  тидӹ:ти
 
 LEXICON DEM-PL  нинӹ:ни
