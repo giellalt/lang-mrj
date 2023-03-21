@@ -413,6 +413,13 @@ Multichar_Symbols
 %^А2ЫӸ       !!≈ * **@CODE@**  with карта and картын витринӹн
 +Cmp   !!≈ * **@CODE@** = 
 
+! Literal quotes and angles must be escaped (cf morpheme boundaries further down):
+ »7     !! * »
+ «7     !! * «
+ %[%>%] !! * > (written with square brackets, see the root.lexc file)
+ %[%<%] !! * < (written with square brackets, see the root.lexc file)
+
+
 !! ## Flag diacritics
 !! We have manually optimised the structure of our lexicon using following
 !! flag diacritics to restrict morhpological combinatorics - only allow compounds

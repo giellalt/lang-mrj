@@ -37,12 +37,20 @@ Alphabet
 %^KIN:0        !!= * **@CODE@**  with ӓвӓ in +PxSg1+Sg+Gen etc. 
 %^А2ЫӸ:0       !!= * **@CODE@**  with карта and картын витринӹн 
  
+! Literal quotes and angles must be escaped (cf morpheme boundaries further down):
+ »7     ! »
+ «7     ! «
+ %[%>%] ! >
+ %[%<%] ! <
+
 !! #### Boundary symbols 
  
  %> !!= * **@CODE@** 
  #  !!  * hash # 
  %- !!= * **@CODE@** 
-  
+
+« »
+
  ; 
  
  
