@@ -362,6 +362,11 @@ symbols in the lexicon files:
 * **%^А2ЫӸ**  with карта and картын витринӹн
 * **+Cmp** = 
 
+* »
+* «
+* > (written with square brackets, see the root.lexc file)
+* < (written with square brackets, see the root.lexc file)
+
 ## Flag diacritics
 We have manually optimised the structure of our lexicon using following
 flag diacritics to restrict morhpological combinatorics - only allow compounds
