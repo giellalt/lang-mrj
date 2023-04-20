@@ -38,7 +38,7 @@ LEXICON N_KOL !!= @CODE@ кол:кол
 LEXICON N_KOL-SG
  :%{back%} NMN_KOL-SG ;
 LEXICON N_KOL-PL
- :%{back%} NMN_KOL-PL ;
+ :%{front%} NMN_KOL-PL ;
 
 LEXICON N_MOER !!= @CODE@ мӧр:мӧр
 !! Front harmony
@@ -57,7 +57,7 @@ LEXICON N_MARY !!≈ * **@CODE@** мары:мары
 LEXICON N_MARY-SG
  :%{back%} NMN_MARY-SG ;
 LEXICON N_MARY-PL
- :%{back%} NMN_MARY-PL ;
+ :%{front%} NMN_MARY-PL ;
 
 LEXICON N_TYERVYE !!≈ * **@CODE@** тӹрвӹ:тӹрвӹ
 !! The stem vowel "е" is found with possessor indices and the lative
@@ -81,7 +81,7 @@ LEXICON N_KARTA !!≈ * **@CODE@** карта:карта
 LEXICON N_KARTA-SG
  :%{back%} NMN_KARTA-SG ;
 LEXICON N_KARTA-PL
- :%{back%} NMN_KARTA-PL ;
+ :%{front%} NMN_KARTA-PL ;
 
 LEXICON N_BIRZHA !!≈ * **@CODE@** биржа:биржа
 !! а is specific to the +Sg+Nom, elsewhere  ӹ
@@ -105,9 +105,9 @@ LEXICON N_VAREN1E-PL
 
 LEXICON N_POCHTA !!= @CODE@  почта:почта
         :%{back%} NMN_OBLIQUE-INDEFINITE-SG_BACK   ;
-        :%{back%} NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ;
+        :%{front%} NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ;
         :%{back%} NMN_OBLIQUE-POSSESSA-SG_BACK     ; !!!!
-        :%{back%} NMN_OBLIQUE-POSSESSA-PL_BACK     ;
+        :%{front%} NMN_OBLIQUE-POSSESSA-PL_BACK     ;
  +Sg+Nom:%{back%} K                                ;
 
 LEXICON N_OLMA_SUB
@@ -119,7 +119,7 @@ LEXICON N_OLMA !!= @CODE@  олма:олма
 LEXICON N_OLMA-SG
  :%{back%} NMN_OLMA-SG ;
 LEXICON N_OLMA-PL
- :%{back%} NMN_OLMA-PL ;
+ :%{front%} NMN_OLMA-PL ;
 
 LEXICON N_AEZAE !!= @CODE@  ӓзӓ:ӓзӓ
 !! Front harmony

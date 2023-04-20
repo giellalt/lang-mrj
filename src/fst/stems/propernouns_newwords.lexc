@@ -7,6 +7,7 @@ LEXICON PROP_NEWWORDS
 test+N+Prop:test PROP_KOL "(eng) /(fin) /(rus) " ;
 !! ADD NOUNS BELOW
 !ӒЗӒ
+
 Атланти+N+Prop:Атланти PROP-PLC_AEZAE "" ;
 Балти+N+Prop:Балти  PROP-PLC_OLMA "" ;
 Боливи+N+Prop:Боливи PROP-PLC_OLMA/AEZAE "" ;
@@ -4486,3 +4487,25 @@ test+N+Prop:test PROP_KOL "(eng) /(fin) /(rus) " ;
 
 Марийская% правда+N+Prop:Марийская% правда PROP-PLC_ "" ;
 
+Симеон+N+Prop:Симеон PROP_KOL_MAL ;
+Туомас+N+Prop:Туомас PROP_KOL_MAL ;
+Хейсканен+N+Prop:Хейсканен PROP_MOER_MAL ;
+
+Алексис+N+Prop:Алексис PROP_MOER_MAL ;
+Юкола+N+Prop:Юкола PROP_OLMA ;
+Виертола+N+Prop:Виертола PROP_OLMA ;
+Импиваара+N+Prop:Импиваара PROP_OLMA ;
+Тоукола+N+Prop:Тоукола PROP_OLMA ;
+Венла+N+Prop:Венла PROP_OLMA_FEM ;
+Кайса+N+Prop:Кайса PROP_OLMA_FEM ;
+
+Мӓкелӓ+N+Prop:Мӓкелӓ PROP-PLC_AEZAE ;
+Микко+N+Prop:Микк%{оы%}  PROP_KOL_MAL ; 
+Юхо+v1+N+Prop:Юх%{оы%} PROP_KOL_MAL ;
+Юхо+v2+N+Prop:Юхо PROP_KOL_MAL ;
+Эро+v1+N+Prop:Эр%{оы%} PROP_KOL_MAL ;
+Эро+v2+N+Prop:Эро PROP_KOL_MAL ;
+Таула-Матти+N+Prop:Таула-Матти PROP_OLMA/AEZAE ;
+Матти+N+Prop:Матти PROP_OLMA/AEZAE ;
+Юсси+N+Prop:Юсси PROP_OLMA/AEZAE ;
+Лаури+N+Prop:Лаури PROP_OLMA/AEZAE ;
