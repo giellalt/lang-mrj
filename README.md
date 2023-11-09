@@ -105,6 +105,31 @@ Citing
 
 <!-- Add language specific citation stuff here and to the CITATION.cff -->
 
+
+Rueter, J. (2014).
+[The Livonian-Estonian-Latvian Dictionary as a threshold to the era of language technological applications](https://ojs.utlib.ee/index.php/jeful/article/view/jeful.2014.5.1.14). In: Journal of Estonian and Finno-Ugric Linguistics. 5, 1, p. 251–259 9 p.
+
+```bibtex
+   @article{2a8a012a1cc640db9ec0e4466f9d3e65,
+   title = "The Livonian-Estonian-Latvian Dictionary as a threshold to the era of language technological applications",
+   abstract = "This article outlines the multiple use of electronic source materials from the Livonian-Estonian-Latvian Dictionary of 2012 in a “Kone Foundation” funded project for developing finite-state morphological parsers. It provides an introduction to the project, the language-independent Giellatekno infrastructure at Troms{\o}, Norway, and the materials utilized in the electronic manuscript of the dictionary. The introduction is followed by an extensive description of what has been developed on the Giellatekno infrastructure with explicit indications of where parallel projects might be initiated.",
+   keywords = "6121 Languages, Livonian, Uralic Languages, Kone Language Programme, open-source, language-independent infrastructure, HFST, Giellatekno, morphological parser, spellcheckers, morphology-savvy web dictionary, intelligent computer-assisted language learning",
+   author = "Jack Rueter",
+   note = "ESUKA – JEFUL 2013, 5–1: 253–261 ",
+   year = "2014",
+   doi = "10.12697/jeful.2014.5.1.14",
+   language = "English",
+   volume = "5",
+   pages = "251–259",
+   journal = "Journal of Estonian and Finno-Ugric Linguistics",
+   issn = "1736-8987",
+   publisher = "University of Tartu",
+   number = "1",
+
+   }
+```
+
+
 If you use language data from more than one GiellaLT language, consider citing
 [our LREC 2022 article on whole
 infra](https://aclanthology.org/2022.lrec-1.125/):
