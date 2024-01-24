@@ -13,7 +13,6 @@ GT_ORTHOGRAPHIC_REGEX_SRCS=\
 		spellrelax-mobile-keyboard.regex \
 		spellrelax-tags.regex
 
-
 GT_ORTHOGRAPHIC_XFSCRIPT_SRCS=\
 		allcaps.xfscript      \
 		standard-to-thirties.xfscript \
