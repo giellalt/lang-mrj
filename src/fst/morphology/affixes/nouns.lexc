@@ -19,11 +19,11 @@ K ;
 
 !! ## Substandard lexica
 
-LEXICON N_KOL_SUB !!≈ * **@CODE@**
- +Err/Orth: N_KOL ;
+!LEXICON N_KOL_SUB !!≈ * **@CODE@**
+! +Err/Orth: N_KOL ;
 
-LEXICON N_TYERVYE_SUB !!≈ * **@CODE@**
- +Err/Orth: N_TYERVYE ;
+!LEXICON N_TYERVYE_SUB !!≈ * **@CODE@**
+! +Err/Orth: N_TYERVYE ;
 
 
 LEXICON N-continuation
@@ -69,9 +69,9 @@ LEXICON N_TYERVYE-SG
 LEXICON N_TYERVYE-PL
  :%{front%} NMN_TYERVYE-PL ;
 
-LEXICON N_KARTA_SUB
-!! @LEXNAME@
- +Err/Orth: N_KARTA ;
+!LEXICON N_KARTA_SUB
+!!! @LEXNAME@
+! +Err/Orth: N_KARTA ;
 
 LEXICON N_KARTA !!≈ * **@CODE@** карта:карта
 !! а is specific to the +Sg+Nom, elsewhere ы or ӹ
@@ -110,8 +110,8 @@ LEXICON N_POCHTA !!= @CODE@  почта:почта
         :%{front%} NMN_OBLIQUE-POSSESSA-PL_BACK     ;
  +Sg+Nom:%{back%} K                                ;
 
-LEXICON N_OLMA_SUB
- +Err/Orth: N_OLMA ;
+!LEXICON N_OLMA_SUB
+! +Err/Orth: N_OLMA ;
 LEXICON N_OLMA !!= @CODE@  олма:олма
 !! Back harmony
   N_OLMA-SG ;

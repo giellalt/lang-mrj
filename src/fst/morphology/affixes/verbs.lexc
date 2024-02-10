@@ -10,14 +10,14 @@ LEXICON VAux !!≈ * **@CODE@** = auxiliaries
 LEXICON V_AM-HOM1 !!≈ * **@CODE@** homonyms @hid=Hom1
  +Hom1: V_AM ;
 
-LEXICON V_EM-HOM2 !!≈ * **@CODE@** homonyms @hid=Hom2
- +Hom2: V_EM ;
+!LEXICON V_EM-HOM2 !!≈ * **@CODE@** homonyms @hid=Hom2
+! +Hom2: V_EM ;
 
-LEXICON V_AM_SUB !!≈ * **@CODE@** substandard
- +Err/Orth: V_AM ;
+!LEXICON V_AM_SUB !!≈ * **@CODE@** substandard
+! +Err/Orth: V_AM ;
 
-LEXICON V_EM_SUB !!≈ * **@CODE@** substandard
- +Err/Orth: V_EM ;
+!LEXICON V_EM_SUB !!≈ * **@CODE@** substandard
+! +Err/Orth: V_EM ;
 
 !! ## Regular verbs
 
@@ -81,19 +81,19 @@ LEXICON V_PYECHKAEM
  :%{front%} ACT-PRC_FRONT ;
  :%{front%} PASS-PRC_FRONT ;
  :%{front%} NEG-PRC_FRONT ;
-LEXICON V_PYECHKAEM-SG3
-!! LEXICON @LEXNAME@
-!! Approximately 0 2014-12-21
-!! Back Vowel harmony for  V_AM-SG3 verbs
-:%{front%}     V_AM-SG3      ;
- :%{front%} ACT-PRC_FRONT ;
- :%{front%} PASS-PRC_FRONT ;
- :%{front%} NEG-PRC_FRONT ;
-LEXICON V_PYECHKAEM-3
-!! LEXICON @LEXNAME@
-!! Approximately 0 2014-12-21
-!! Back Vowel harmony for  V_AM-3 verbs
-:%{front%}  V_AM-3 ;
+!LEXICON V_PYECHKAEM-SG3
+!!! LEXICON @LEXNAME@
+!!! Approximately 0 2014-12-21
+!!! Back Vowel harmony for  V_AM-SG3 verbs
+!:%{front%}     V_AM-SG3      ;
+! :%{front%} ACT-PRC_FRONT ;
+! :%{front%} PASS-PRC_FRONT ;
+! :%{front%} NEG-PRC_FRONT ;
+!LEXICON V_PYECHKAEM-3
+!!! LEXICON @LEXNAME@
+!!! Approximately 0 2014-12-21
+!!! Back Vowel harmony for  V_AM-3 verbs
+!:%{front%}  V_AM-3 ;
 
 LEXICON V_KACHKAM
 !! LEXICON @LEXNAME@
@@ -104,19 +104,19 @@ LEXICON V_KACHKAM
  :%{back%} ACT-PRC_BACK ;
  :%{back%} PASS-PRC_BACK ;
  :%{back%} NEG-PRC_BACK ;
-LEXICON V_KACHKAM-SG3
-!! LEXICON @LEXNAME@
-!! Approximately 0 2014-12-21
-!! Back Vowel harmony for  V_AM-SG3 verbs
-:%{back%}     V_AM-SG3     ;
- :%{back%} ACT-PRC_BACK ;
- :%{back%} PASS-PRC_BACK ;
- :%{back%} NEG-PRC_BACK ;
-LEXICON V_KACHKAM-3
-!! LEXICON @LEXNAME@
-!! Approximately 0 2014-12-21
-!! Back Vowel harmony for  V_AM-3 verbs
-:%{back%}     V_AM-3        ;
+!LEXICON V_KACHKAM-SG3
+!!! LEXICON @LEXNAME@
+!!! Approximately 0 2014-12-21
+!!! Back Vowel harmony for  V_AM-SG3 verbs
+!:%{back%}     V_AM-SG3     ;
+! :%{back%} ACT-PRC_BACK ;
+! :%{back%} PASS-PRC_BACK ;
+! :%{back%} NEG-PRC_BACK ;
+!LEXICON V_KACHKAM-3
+!!! LEXICON @LEXNAME@
+!!! Approximately 0 2014-12-21
+!!! Back Vowel harmony for  V_AM-3 verbs
+!:%{back%}     V_AM-3        ;
 
 !! ### V_EM verbs
 
