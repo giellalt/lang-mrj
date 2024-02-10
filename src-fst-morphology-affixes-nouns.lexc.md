@@ -7,10 +7,6 @@
 
 ## Substandard lexica
 
-* **LEXICON N_KOL_SUB**
-
-* **LEXICON N_TYERVYE_SUB**
-
 ## Standard lexica 
 
 LEXICON N_KOL  кол:кол
@@ -26,8 +22,6 @@ Back harmony
 * **LEXICON N_TYERVYE** тӹрвӹ:тӹрвӹ
 The stem vowel "е" is found with possessor indices and the lative
 Front harmony
-
-N_KARTA_SUB
 
 * **LEXICON N_KARTA** карта:карта
 а is specific to the +Sg+Nom, elsewhere ы or ӹ

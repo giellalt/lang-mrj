@@ -559,10 +559,6 @@ WORDEND
 
 ## Substandard lexica
 
-* **LEXICON N_KOL_SUB**
-
-* **LEXICON N_TYERVYE_SUB**
-
 ## Standard lexica 
 
 LEXICON N_KOL  кол:кол
@@ -578,8 +574,6 @@ Back harmony
 * **LEXICON N_TYERVYE** тӹрвӹ:тӹрвӹ
 The stem vowel "е" is found with possessor indices and the lative
 Front harmony
-
-N_KARTA_SUB
 
 * **LEXICON N_KARTA** карта:карта
 а is specific to the +Sg+Nom, elsewhere ы or ӹ
@@ -799,12 +793,6 @@ Also lexica for +Hom tags
 
 * **LEXICON V_AM-HOM1** homonyms @hid=Hom1
 
-* **LEXICON V_EM-HOM2** homonyms @hid=Hom2
-
-* **LEXICON V_AM_SUB** substandard
-
-* **LEXICON V_EM_SUB** substandard
-
 ## Regular verbs
 
 Both *-am* and *-em* verbs and their subgroups.
@@ -834,39 +822,27 @@ Back Vowel harmony for  V_AM-3 verbs
 LEXICON V_PYECHKAEM
 Approximately 12 2014-12-21
 Back Vowel harmony for  V_AM verbs
-LEXICON V_PYECHKAEM-SG3
-Approximately 0 2014-12-21
-Back Vowel harmony for  V_AM-SG3 verbs
-LEXICON V_PYECHKAEM-3
-Approximately 0 2014-12-21
-Back Vowel harmony for  V_AM-3 verbs
 
 LEXICON V_KACHKAM
 Approximately 11 2014-12-21
 Back Vowel harmony for  V_AM verbs
-LEXICON V_KACHKAM-SG3
-Approximately 0 2014-12-21
-Back Vowel harmony for  V_AM-SG3 verbs
-LEXICON V_KACHKAM-3
-Approximately 0 2014-12-21
-Back Vowel harmony for  V_AM-3 verbs
 
 ### V_EM verbs
 
-LEXICON V_KACHKAM-3
+LEXICON V_KACHKAM
 Approximately 1052 2014-12-21
 Front Vowel harmony for V_EM	verbs
-LEXICON V_KACHKAM-3
+LEXICON V_KACHKAM
 Approximately 2 2014-12-21
 Front Vowel harmony for V_EM-SG3 verbs
 
-LEXICON V_KACHKAM-3
+LEXICON V_KACHKAM
 Approximately 1315 2014-12-21
 Back	Vowel harmony for  V_EM verbs
-LEXICON V_KACHKAM-3
+LEXICON V_KACHKAM
 Approximately 4 2014-12-21
 Back	Vowel harmony for  V_EM verbs
-LEXICON V_KACHKAM-3
+LEXICON V_KACHKAM
 Approximately 1 2014-12-21
 Back	Vowel harmony for  V_EM verbs
 
