@@ -79,6 +79,54 @@ endif # CAN_FOMA
 #################################################
 #### Add language-specific build rules here: ####
 
+# ... as well as in the HFST analysers:
+.generated/analyser-gt-%.hfst: .generated/analyser-gt-%.tmp.hfst \
+				filters/rename-POS_before_Der-tags.hfst        
+	$(AM_V_HXFST)$(PRINTF) "read regex \
+		   @\"filters/rename-POS_before_Der-tags.hfst\"      \
+		.o. @\"$<\"                                           \
+		;\n\
+	invert net\n\
+	save stack $@\n\
+	quit\n" | $(HFST_XFST) -p $(MORE_VERBOSITY)
+
+# ... as well as in the HFST disambiguation analyser:
+.generated/analyser-disamb-gt-desc%hfst: .generated7analyser-disamb-gt-desc%tmp.hfst \
+				filters/rename-POS_before_Der-tags.hfst        
+	$(AM_V_HXFST)$(PRINTF) "read regex \
+		   @\"filters/rename-POS_before_Der-tags.hfst\"      \
+		.o. @\"$<\"                                           \
+		;\n\
+	invert net\n\
+	save stack $@\n\
+	quit\n" | $(HFST_XFST) -p $(MORE_VERBOSITY)
+
+.generated/analyser-pmatchdisamb-gt-desc%hfst: .generated/analyser-pmatchdisamb-gt-desc%tmp.hfst \
+				filters/rename-POS_before_Der-tags.hfst        
+	$(AM_V_HXFST)$(PRINTF) "read regex \
+		   @\"filters/rename-POS_before_Der-tags.hfst\"      \
+		.o. @\"$<\"                                           \
+		;\n\
+	invert net\n\
+	save stack $@\n\
+	quit\n" | $(HFST_XFST) -p $(MORE_VERBOSITY)
+
+
+# We need to add processing of language-specific tags in the generator:
+define giella_generators
+.generated/generator-gt-%.$(1): .generated/generator-gt-%.tmp.$(1) \
+					filters/rename-POS_before_Der-tags.$(1) 
+	$$(AM_V_XFST_TOOL)$$(PRINTF) "read regex \
+			   @\"filters/rename-POS_before_Der-tags.$(1)\" \
+			.o. @\"$$<\"                                        \
+			;\n\
+		$$(INVERT_XFST)$$(INVERT_FOMA)\
+		save stack $$@\n\
+		quit\n" | $$(XFST_TOOL)
+endef
+$(foreach fst,hfst xfst foma,$(eval $(call giella_generators,$(fst))))
+
+
 ##################################################################
 #### END: Add local processing instructions ABOVE this line ######
 ##################################################################
