@@ -81,10 +81,12 @@ HarmDummies = %{back%} %{front%} ; 				     !!= * **@CODE@**
 Definitions 
  
 !! Back Harmony BHARM
-BHARM = [ %{back%}: \[ # | %{front%}: ]* ] ; 
+BHARM = [ %{back%}: \[ # | %{front%}: |FrontVow:|:FrontVow]* ] ; 
+! [ %{back%}: \[ # | %{front%}: ]* ] ; 2024-03-28
  
 !! Front Harmony FHARM
-FHARM = [ %{front%}: \[ # | %{back%}: ]* ] ; 
+FHARM = [ %{front%}: \[ # | %{back%}: |BackVow: |:BackVow]* ] ; 
+! [ %{front%}: \[ # | %{back%}: ]* ] ; 2024-03-28
  
  
 !! LFH
