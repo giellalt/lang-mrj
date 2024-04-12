@@ -30,7 +30,6 @@
 * `tools/`
     * `grammarcheckers/`
         * [grammarchecker.cg3](tools-grammarcheckers-grammarchecker.cg3.html) ([src](https://github.com/giellalt/lang-mrj/blob/main/tools/grammarcheckers/grammarchecker.cg3))
-            * `/`
     * `tokenisers/`
         * [tokeniser-disamb-gt-desc.1938.pmscript](tools-tokenisers-tokeniser-disamb-gt-desc.1938.pmscript.html) ([src](https://github.com/giellalt/lang-mrj/blob/main/tools/tokenisers/tokeniser-disamb-gt-desc.1938.pmscript))
         * [tokeniser-disamb-gt-desc.eighties.pmscript](tools-tokenisers-tokeniser-disamb-gt-desc.eighties.pmscript.html) ([src](https://github.com/giellalt/lang-mrj/blob/main/tools/tokenisers/tokeniser-disamb-gt-desc.eighties.pmscript))

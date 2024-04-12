@@ -22,6 +22,3 @@ Temporal tags with cases
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/adverbs.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/morphology/affixes/adverbs.lexc)</small>
-
----
-
