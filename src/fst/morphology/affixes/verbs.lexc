@@ -205,7 +205,7 @@ LEXICON V_AM !!= @CODE@ ӹштӓш:ӹшт
 
 !                         INF                 ;
 !        +Act+Prc:%>ш%{ыӹØ%} K                   ; !! Contlex needed
-! +Act+Prc+Der+Der/шЫ:%>ш%{ыӹØ%} NMN_TYERVYE           ;
+! +Act+Prc+Der+Der/шЫ+A:%>ш%{ыӹØ%} NMN_TYERVYE           ;
 !                         PASS-PRC             ;
 !                         NEG-PRC             ;
 
@@ -230,7 +230,7 @@ LEXICON V_AM-SG3 !! пелӓш: онг пелеш
 !! What else is needed 2014-05-08
 !                                INF                 ;
 !          +Act+Prc:%>ш%{ыӹØ%}      K                   ; !! Contlex needed
-!   +Act+Prc+Der+Der/шЫ:%>ш%{ыӹØ%}      NMN_TYERVYE           ;
+!   +Act+Prc+Der+Der/шЫ+A:%>ш%{ыӹØ%}      NMN_TYERVYE           ;
 !                                PASS-PRC             ;
 !                                NEG-PRC             ;
 
@@ -276,9 +276,9 @@ LEXICON V_AM-SG3 !! пелӓш: онг пелеш
 !
 !                                INF                 ;
 !+Act+Prc:%>%{ыӹØ%}ш%{ыӹØ%} K  ;  Contlex needed
-!   +Act+Prc+Der+Der/шЫ:%>%{ыӹØ%}ш%{ыӹ%}    NMN_TYERVYE           ;
-!   +Pass+Prc+Der+Der/мЫ:%>%{ыӹØ%}м%{ыӹ%}    NMN_TYERVYE           ;
-! +NegPrc+Der+Der/дЫмЫ:%>%{ыӹØ%}д%{ыӹ%}м%{ыӹ%} NMN_TYERVYE           ;
+!   +Act+Prc+Der+Der/шЫ+A:%>%{ыӹØ%}ш%{ыӹ%}    NMN_TYERVYE           ;
+!   +Pass+Prc+Der+Der/мЫ+A:%>%{ыӹØ%}м%{ыӹ%}    NMN_TYERVYE           ;
+! +NegPrc+Der+Der/дЫмЫ+A:%>%{ыӹØ%}д%{ыӹ%}м%{ыӹ%} NMN_TYERVYE           ;
 
 LEXICON V_EM-3
      V_EM-SG3            ;
@@ -301,7 +301,7 @@ LEXICON V_EM-SG3 !! хӹдӹртӓш: хӹдӹртӹ
 !! What else is needed 2014-05-08
 !                         INF              ;
 !        +Act+Prc:%>ш%{ыӹØ%} K                ; !! Contlex needed
-! +Act+Prc+Der+Der/шЫ:%>ш%{ыӹØ%} NMN_TYERVYE        ;
+! +Act+Prc+Der+Der/шЫ+A:%>ш%{ыӹØ%} NMN_TYERVYE        ;
 !                         PASS-PRC          ;
 !                         NEG-PRC          ;
 
@@ -346,8 +346,8 @@ LEXICON V_EM  !!≈ * **@CODE@** колташ:колты
                           DES-am              ;
 
 !                         INF                 ;
-! +Der+Der/шЫ+Act+Prc:%>ш%{ыӹØ%} K                   ; !! Contlex needed
-! +Der+Der/шЫ+Act+Prc:%>ш%{ыӹØ%} NMN_TYERVYE           ;
+! +Der+Der/шЫ+Act+Prc+A:%>ш%{ыӹØ%} K                   ; !! Contlex needed
+! +Der+Der/шЫ+Act+Prc+A:%>ш%{ыӹØ%} NMN_TYERVYE           ;
 !                         PASS-PRC             ;
 !                         NEG-PRC             ;
 
@@ -704,13 +704,13 @@ LEXICON INF
 
 LEXICON NEG-PRC
 !! @LEXNAME@
-        +Der+Der/дЫмЫ+NegPrc:%>д%{ыӹ%}м%{ыӹØ%}                 NMN_TYERVYE ;
- +Der+Der/дЫмЫ+NegPrc+Sg+Lat:%>д%{ыӹ%}м%{ыӹØ%}%>м%{ыӹØ%}%>ешкӹ K         ;
+        +Der+Der/дЫмЫ+NegPrc+A:%>д%{ыӹ%}м%{ыӹØ%}                 NMN_TYERVYE ;
+ +Der+Der/дЫмЫ+NegPrc+A+Sg+Lat:%>д%{ыӹ%}м%{ыӹØ%}%>м%{ыӹØ%}%>ешкӹ K         ;
 
 LEXICON PASS-PRC
 !! @LEXNAME@
-        +Der+Der/мЫ+Pass+Prc:%>м%{ыӹØ%}       NMN_TYERVYE ;
- +Der+Der/мЫ+Pass+Prc+Sg+Lat:%>м%{ыӹØ%}%>ешкӹ K         ; ! ()
+        +Der+Der/мЫ+Pass+Prc+A:%>м%{ыӹØ%}       NMN_TYERVYE ;
+ +Der+Der/мЫ+Pass+Prc+A+Sg+Lat:%>м%{ыӹØ%}%>ешкӹ K         ; ! ()
 
 
 LEXICON INF_BACK
@@ -719,18 +719,18 @@ LEXICON INF_BACK
 
 LEXICON NEG-PRC_BACK
 !! @LEXNAME@
-        +Der+Der/дЫмЫ+NegPrc:%>дымы       NMN_MARY ;
- +Der+Der/дЫмЫ+NegPrc+Sg+Lat:%>дымы%>ешкӹ K        ;
+        +Der+Der/дЫмЫ+NegPrc+A:%>дымы       NMN_MARY ;
+ +Der+Der/дЫмЫ+NegPrc+A+Sg+Lat:%>дымы%>ешкӹ K        ;
 
 LEXICON PASS-PRC_BACK
 !! @LEXNAME@
-        +Der+Der/мЫ+Pass+Prc:%>мы       NMN_MARY ;
- +Der+Der/мЫ+Pass+Prc+Sg+Lat:%>мы%>ешкӹ K        ; ! ()
+        +Der+Der/мЫ+Pass+Prc+A:%>мы       NMN_MARY ;
+ +Der+Der/мЫ+Pass+Prc+A+Sg+Lat:%>мы%>ешкӹ K        ; ! ()
 
 LEXICON ACT-PRC_BACK
 !! @LEXNAME@
- +Der+Der/шЫ+Act+Prc:%>шы K        ; !!
- +Der+Der/шЫ+Act+Prc:%>шы NMN_MARY ;
+ +Der+Der/шЫ+Act+Prc+A:%>шы K        ; !!
+ +Der+Der/шЫ+Act+Prc+A:%>шы NMN_MARY ;
 
 LEXICON INF_FRONT
 !! @LEXNAME@
@@ -738,18 +738,18 @@ LEXICON INF_FRONT
 
 LEXICON NEG-PRC_FRONT
 !! @LEXNAME@
-        +Der+Der/дЫмЫ+NegPrc:%>дӹмӹ           NMN_TYERVYE ;
- +Der+Der/дЫмЫ+NegPrc+Sg+Lat:%>дӹмӹ%>мӹ%>ешкӹ K         ;
+        +Der+Der/дЫмЫ+NegPrc+A:%>дӹмӹ           NMN_TYERVYE ;
+ +Der+Der/дЫмЫ+NegPrc+A+Sg+Lat:%>дӹмӹ%>мӹ%>ешкӹ K         ;
 
 LEXICON PASS-PRC_FRONT
 !! @LEXNAME@
-        +Der+Der/мЫ+Pass+Prc:%>мӹ       NMN_TYERVYE ;
- +Der+Der/мЫ+Pass+Prc+Sg+Lat:%>мӹ%>ешкӹ K         ; ! ()
+        +Der+Der/мЫ+Pass+Prc+A:%>мӹ       NMN_TYERVYE ;
+ +Der+Der/мЫ+Pass+Prc+A+Sg+Lat:%>мӹ%>ешкӹ K         ; ! ()
 
 LEXICON ACT-PRC_FRONT
 !! @LEXNAME@
  +Der+Der/шЫ+Act+Prc:%>шӹ K         ; !!
- +Der+Der/шЫ+Act+Prc:%>шӹ NMN_TYERVYE ;
+ +Der+Der/шЫ+Act+Prc+A:%>шӹ NMN_TYERVYE ;
 
 	! vim: set ft=xfst-lexc:
 
