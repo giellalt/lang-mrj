@@ -8,10 +8,6 @@ The morphological analyses of wordforms for the Western Mari
 language are presented in this system in terms of the following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
 
-* **+Ex/N** - This tag is not added in lexc. The POS tag before derivation is converted into this tag when compiling FST for disambiguation.
-* **+Ex/A** - This tag is not added in lexc. The POS tag before derivation is converted into this tag when compiling FST for disambiguation.
-* **+Ex/V** - This tag is not added in lexc. The POS tag before derivation is converted into this tag when compiling FST for disambiguation.
-
 #### The parts-of-speech tags:
 * **+N +A +Adv +V** 
 * **+Pron +CS +CC +Adp +Po +Pr +Interj +Pcle +Num +Descr** 
@@ -319,9 +315,9 @@ Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
 * **+V→N +V→V +V→A** =          
 * **+Der** =          
-* **+Der/шЫ** =          
-* **+Der/мЫ** =          
-* **+Der/дЫмЫ** =          
+* **+Der/шЫ** =          Act Prc
+* **+Der/мЫ** =          Pass Prc
+* **+Der/дЫмЫ** =        NegPrc
 * **+Der/N** =        !! Noun derivation
 * **+Foc/Ат** =          
 * **+Foc/ок** = too, also
