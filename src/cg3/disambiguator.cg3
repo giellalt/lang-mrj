@@ -162,6 +162,14 @@ LIST PxPl1 = PxPl1 ; #!! PxPl1
 LIST PxPl2 = PxPl2 ; #!! PxPl2
 LIST PxPl3 = PxPl3 ; #!! PxPl3
 
+#!! ### Suffix ordering
+LIST So/CP = So/CP ;
+LIST So/PC = So/PC ;
+LIST So/NCP = So/NCP ;
+LIST So/NPC = So/NPC ;
+LIST So/NP = So/NP ;
+LIST So/PN = So/PN ;
+LIST So/PNC = So/PNC ;
 #!! ### Numeral tags
 
 LIST Card = Card ; #!! Card

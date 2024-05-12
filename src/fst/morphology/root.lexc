@@ -27,10 +27,6 @@ Multichar_Symbols
 !! language are presented in this system in terms of the following symbols.
 !! (It is highly suggested to follow existing standards when adding new tags).
 
-+Ex/N   !!≈ * **@CODE@** - This tag is not added in lexc. The POS tag before derivation is converted into this tag when compiling FST for disambiguation.
-+Ex/A   !!≈ * **@CODE@** - This tag is not added in lexc. The POS tag before derivation is converted into this tag when compiling FST for disambiguation.
-+Ex/V   !!≈ * **@CODE@** - This tag is not added in lexc. The POS tag before derivation is converted into this tag when compiling FST for disambiguation.
-
 
 !! #### The parts-of-speech tags:
  +N +A +Adv +V                                  !!≈ * **@CODE@** 
@@ -366,9 +362,9 @@ Multichar_Symbols
 !! source and target part-of-speech.
  +V→N +V→V +V→A   !!≈ * **@CODE@** =          
  +Der            !!≈ * **@CODE@** =          
- +Der/шЫ         !!≈ * **@CODE@** =          
- +Der/мЫ         !!≈ * **@CODE@** =          
- +Der/дЫмЫ         !!≈ * **@CODE@** =          
+ +Der/шЫ         !!≈ * **@CODE@** =          Act Prc
+ +Der/мЫ         !!≈ * **@CODE@** =          Pass Prc
+ +Der/дЫмЫ         !!≈ * **@CODE@** =        NegPrc
  +Der/N           !!≈ * **@CODE@** =        !! Noun derivation
  +Foc/Ат         !!≈ * **@CODE@** =          
  +Foc/ок           !!≈ * **@CODE@** = too, also
