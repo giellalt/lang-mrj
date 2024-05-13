@@ -106,12 +106,6 @@ Multichar_Symbols
 !! #### Question and Focus particles:
  +Qst +Foc !!≈ * **@CODE@** = 
 
-!! These three tags are not added in lexc. The POS tag before derivation is converted into this tag when compiling FST for disambiguation.
-+Ex/N	!!≈ * **@CODE@** 
-+Ex/A	!!≈ * **@CODE@** 
-+Ex/V	!!≈ * **@CODE@** 
-
-
 
 !! #### Tags to be checked and harmonised.
 +AdA          !!≈ * **@CODE@** = 
