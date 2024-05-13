@@ -74,11 +74,6 @@ Suffix ordering tags:
 #### Question and Focus particles:
 * **+Qst +Foc** = 
 
-These three tags are not added in lexc. The POS tag before derivation is converted into this tag when compiling FST for disambiguation.
-* **+Ex/N** 
-* **+Ex/A** 
-* **+Ex/V** 
-
 #### Tags to be checked and harmonised.
 * **+AdA** = 
 * **+Adn** = 
