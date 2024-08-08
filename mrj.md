@@ -641,15 +641,7 @@ Front harmony
 Back а/ы
 а is specific to the +Sg+Nom, elsewhere ы
 
-* **LEXICON NMN_BIRZHA** биржа:биржа
-Front а/ӹ
-а is specific to the +Sg+Nom, elsewhere ӹ
-
 * ** :%>ӹ NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ; ** %>влӓ
-
-* **LEXICON NMN_VAREN1E** варенье:варенье
-Front е/ӹ
-е is specific to the +Sg+Nom, elsewhere ӹ
 
 * ** :%>ӹ NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ; ** %>влӓ
 
@@ -657,9 +649,6 @@ LEXICON NMN_OLMA   олма:олма
 Back harmony
 
 LEXICON NMN_AEZAE   ӓзӓ:ӓзӓ
-Front harmony
-
-LEXICON NMN_PECHEN1E   печенье:печенье
 Front harmony
 
 LEXICON N_AEVAE   ӓвӓ:ӓвӓ
@@ -728,6 +717,18 @@ nouns
 
 PROP_
 
+PROP_KAL
+
+PROP_KAL_PLC
+
+PROP_KUDO
+
+PROP_KUDO_PLC
+
+PROP_OSH
+
+PROP_OSH_PLC
+
 PROP-PLC_
 
 PROP_KOL_PLC
@@ -758,12 +759,6 @@ LEXICON PROP_OLMA  кол:кол
 Вили:Вил
 
 ## Female Given names
-
-Prop-kal_fem
-
-Prop-lak_fem
-
-Prop-kit_fem
 
 ... etc.
 

@@ -5,6 +5,18 @@ nouns
 
 PROP_
 
+PROP_KAL
+
+PROP_KAL_PLC
+
+PROP_KUDO
+
+PROP_KUDO_PLC
+
+PROP_OSH
+
+PROP_OSH_PLC
+
 PROP-PLC_
 
 PROP_KOL_PLC
@@ -35,12 +47,6 @@ LEXICON PROP_OLMA  кол:кол
 Вили:Вил
 
 ## Female Given names
-
-Prop-kal_fem
-
-Prop-lak_fem
-
-Prop-kit_fem
 
 ... etc.
 

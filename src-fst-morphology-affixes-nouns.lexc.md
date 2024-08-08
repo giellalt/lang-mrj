@@ -64,15 +64,7 @@ Front harmony
 Back а/ы
 а is specific to the +Sg+Nom, elsewhere ы
 
-* **LEXICON NMN_BIRZHA** биржа:биржа
-Front а/ӹ
-а is specific to the +Sg+Nom, elsewhere ӹ
-
 * ** :%>ӹ NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ; ** %>влӓ
-
-* **LEXICON NMN_VAREN1E** варенье:варенье
-Front е/ӹ
-е is specific to the +Sg+Nom, elsewhere ӹ
 
 * ** :%>ӹ NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ; ** %>влӓ
 
@@ -80,9 +72,6 @@ LEXICON NMN_OLMA   олма:олма
 Back harmony
 
 LEXICON NMN_AEZAE   ӓзӓ:ӓзӓ
-Front harmony
-
-LEXICON NMN_PECHEN1E   печенье:печенье
 Front harmony
 
 LEXICON N_AEVAE   ӓвӓ:ӓвӓ
