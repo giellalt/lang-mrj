@@ -19,6 +19,12 @@ while(<>) {
 	s/ PROP-PLC_KEL1/ N_01/g ;
 	s/ PROP-PLC_VELE/ N_01/g ;
 	s/ PROP_VELE/ N_01/g ;
+	s/ PROP_KAL/ N_01/g ;
+	s/ PROP_KAL_PLC/ N_01/g ;
+	s/ PROP_KUDO/ N_01/g ;
+	s/ PROP_KUDO_PLC/ N_01/g ;
+	s/ PROP_OSH/ N_01/g ;
+	s/ PROP_OSH_PLC/ N_01/g ;
 
 	
 # loanwords with compound border over identical vowels
