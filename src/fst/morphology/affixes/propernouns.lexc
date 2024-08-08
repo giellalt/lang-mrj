@@ -9,7 +9,29 @@ LEXICON PROP_
  +Sg+Nom: K ;
   N_01 ;
 
+LEXICON PROP_KAL
+!! @LEXNAME@
+PROP_ ;
 
+LEXICON PROP_KAL_PLC
+!! @LEXNAME@
+PROP_ ;
+
+LEXICON PROP_KUDO
+!! @LEXNAME@
+PROP_ ;
+
+LEXICON PROP_KUDO_PLC
+!! @LEXNAME@
+PROP_ ;
+
+LEXICON PROP_OSH
+!! @LEXNAME@
+PROP_ ;
+
+LEXICON PROP_OSH_PLC
+!! @LEXNAME@
+PROP_ ;
 
 LEXICON PROP-PLC_
 !! @LEXNAME@
@@ -145,39 +167,39 @@ LEXICON PropNameMaleDer-Ovich
 
 !! ## Female Given names
 
-LEXICON Prop-kal_fem
-!! @LEXNAME@
- +Sem/Fem: N_01 ;
- +Sem/Fem+N+Sg: N_01 ;
+!LEXICON Prop-kal_fem
+!!! @LEXNAME@
+! +Sem/Fem: N_01 ;
+! +Sem/Fem+N+Sg: N_01 ;
 
-LEXICON Prop-lak_fem
-!! @LEXNAME@
- +Sem/Fem: N_01 ;
- +Sem/Fem+N+Sg: N_01 ;
+!LEXICON Prop-lak_fem
+!!! @LEXNAME@
+! +Sem/Fem: N_01 ;
+! +Sem/Fem+N+Sg: N_01 ;
 
-LEXICON Prop-kit_fem
-!! @LEXNAME@
- +Sem/Fem: N_01 ;
- +Sem/Fem+N+Sg: N_01 ;
+!LEXICON Prop-kit_fem
+!!! @LEXNAME@
+! +Sem/Fem: N_01 ;
+! +Sem/Fem+N+Sg: N_01 ;
 
 !! ... etc.
-LEXICON Prop-osh_fem
- +Sem/Fem: N_01 ;
- +Sem/Fem+N+Sg: N_01 ;
+!LEXICON Prop-osh_fem
+! +Sem/Fem: N_01 ;
+! +Sem/Fem+N+Sg: N_01 ;
 
-LEXICON Prop-teshte_fem
-  Prop-pango_fem ;
+!LEXICON Prop-teshte_fem
+!  Prop-pango_fem ;
 
-LEXICON Prop-tinge_fem
-  Prop-pango_fem ;
+!LEXICON Prop-tinge_fem
+!  Prop-pango_fem ;
 
-LEXICON Prop-pango_fem
- +Sem/Fem: N_01 ;
- +Sem/Fem+N+Sg: N_01 ;
+!LEXICON Prop-pango_fem
+! +Sem/Fem: N_01 ;
+! +Sem/Fem+N+Sg: N_01 ;
 
-LEXICON Prop-kudo_fem
- +Sem/Fem: N_01 ;
- +Sem/Fem+N+Sg: N_01 ;
+!LEXICON Prop-kudo_fem
+! +Sem/Fem: N_01 ;
+! +Sem/Fem+N+Sg: N_01 ;
 
 
 
@@ -311,29 +333,29 @@ LEXICON PROP_OSH_SUR
 !! PLACE NAMES FROM TEMPLATES !!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PROP-PLC_KAL
- +Sem/Plc: N_01 ;
- +Sem/Plc+N+Sg: N_01 ;
+!LEXICON PROP-PLC_KAL
+! +Sem/Plc: N_01 ;
+! +Sem/Plc+N+Sg: N_01 ;
 
-LEXICON PROP-PLC_KEL1
- +Sem/Plc: N_01 ;
- +Sem/Plc+N+Sg: N_01 ;
+!LEXICON PROP-PLC_KEL1
+! +Sem/Plc: N_01 ;
+! +Sem/Plc+N+Sg: N_01 ;
 
-LEXICON PROP-PLC_KIT
- +Sem/Plc: N_01 ;
- +Sem/Plc+N+Sg: N_01 ;
+!LEXICON PROP-PLC_KIT
+! +Sem/Plc: N_01 ;
+! +Sem/Plc+N+Sg: N_01 ;
 
 !LEXICON PROP-PLC_OSH
 ! +Sem/Plc: N_01 ;
 ! +Sem/Plc+N+Sg: N_01 ;
 
-LEXICON PROP-PLC_KUDO
- +Sem/Plc: N_01 ;
- +Sem/Plc+N+Sg: N_01 ;
+!LEXICON PROP-PLC_KUDO
+! +Sem/Plc: N_01 ;
+! +Sem/Plc+N+Sg: N_01 ;
 
-LEXICON PROP-PLC_VELE
- +Sem/Plc: N_01 ;
- +Sem/Plc+N+Sg: N_01 ;
+!LEXICON PROP-PLC_VELE
+! +Sem/Plc: N_01 ;
+! +Sem/Plc+N+Sg: N_01 ;
 
 
 

@@ -210,11 +210,11 @@ LEXICON NMN_KARTA-PL
  :%>ы NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ;
  :%>ы NMN_OBLIQUE-POSSESSA-PL_BACK     ;
 
-LEXICON NMN_BIRZHA	 !!≈ * **@CODE@** биржа:биржа
-!! Front а/ӹ
-!! а is specific to the +Sg+Nom, elsewhere ӹ
-  NMN_BIRZHA-SG ;
-  NMN_BIRZHA-PL ;
+!LEXICON NMN_BIRZHA	 !!≈ * **@CODE@** биржа:биржа
+!!! Front а/ӹ
+!!! а is specific to the +Sg+Nom, elsewhere ӹ
+!  NMN_BIRZHA-SG ;
+!  NMN_BIRZHA-PL ;
 LEXICON NMN_BIRZHA-SG
   +Sg+Nom:       K                               ;
          :%>ӹ    NMN_OBLIQUE-INDEFINITE-SG_FRONT ;
@@ -226,11 +226,11 @@ LEXICON NMN_BIRZHA-PL
  :%>ӹ NMN_OBLIQUE-INDEFINITE-PL_MUTUAL ; !!= * **@CODE@** %>влӓ
  :%>ӹ NMN_OBLIQUE-POSSESSA-PL_FRONT    ;
 
-LEXICON NMN_VAREN1E	 !!≈ * **@CODE@** варенье:варенье
-!! Front е/ӹ
-!! е is specific to the +Sg+Nom, elsewhere ӹ
-  NMN_VAREN1E-SG ;
-  NMN_VAREN1E-PL ;
+!LEXICON NMN_VAREN1E	 !!≈ * **@CODE@** варенье:варенье
+!!! Front е/ӹ
+!!! е is specific to the +Sg+Nom, elsewhere ӹ
+!  NMN_VAREN1E-SG ;
+!  NMN_VAREN1E-PL ;
 LEXICON NMN_VAREN1E-SG
   +Sg+Nom:       K                               ;
          :%>ӹ    NMN_OBLIQUE-INDEFINITE-SG_FRONT ;
@@ -288,10 +288,10 @@ LEXICON NMN_AEZAE-PL
 ! +Pl+Nom+PxSg2+So/PNC:твлӓ  K                                ;
 ! +Pl+Nom+PxSg2+So/NCP:влӓэт K                                ;
 
-LEXICON NMN_PECHEN1E !!= @CODE@  печенье:печенье
-!! Front harmony
-  NMN_PECHEN1E-SG ;
-  NMN_PECHEN1E-PL ;
+!LEXICON NMN_PECHEN1E !!= @CODE@  печенье:печенье
+!!! Front harmony
+!  NMN_PECHEN1E-SG ;
+!  NMN_PECHEN1E-PL ;
 LEXICON NMN_PECHEN1E-SG
  +Sg+Nom: K                               ;
           NMN_OBLIQUE-INDEFINITE-SG_FRONT ;
