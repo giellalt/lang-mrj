@@ -17,7 +17,10 @@ LEXICON N_  !!≈ * **@CODE@**
 ! +WORK: K ; ! comment out WORK tag for Korp
 K ;
 
-!! ## Substandard lexica
+!! ## Substandard and other lexica, i.e., hunspell
+
+LEXICON N_KOL_rus100
+: N_KOL ;
 
 !LEXICON N_KOL_SUB !!≈ * **@CODE@**
 ! +Err/Orth: N_KOL ;
