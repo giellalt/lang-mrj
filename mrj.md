@@ -582,7 +582,7 @@ WORDEND
 
 * **LEXICON N_**
 
-## Substandard lexica
+## Substandard and other lexica, i.e., hunspell
 
 ## Standard lexica 
 
