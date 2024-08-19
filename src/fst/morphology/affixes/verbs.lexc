@@ -7,8 +7,8 @@
 LEXICON VAux !!≈ * **@CODE@** = auxiliaries 
  +Aux: # ;
 
-LEXICON V_AM-HOM1 !!≈ * **@CODE@** homonyms @hid=Hom1
- +Hom1: V_AM ;
+!LEXICON V_AM-HOM1 !!≈ * **@CODE@** homonyms @hid=Hom1
+! +Hom1: V_AM ;
 
 !LEXICON V_EM-HOM2 !!≈ * **@CODE@** homonyms @hid=Hom2
 ! +Hom2: V_EM ;
@@ -392,13 +392,13 @@ LEXICON INDPRSPL3CONNEG-am
 
 !! #### em verbs
 
-LEXICON INDPRSSG1-em
-!! @LEXNAME@
- +Ind+Prs+Sg1:%>ем K ;
+!LEXICON INDPRSSG1-em
+!!! @LEXNAME@
+! +Ind+Prs+Sg1:%>ем K ;
 
-LEXICON INDPRSSG2-em
-!! @LEXNAME@
- +Ind+Prs+Sg2:%>ет K ;
+!LEXICON INDPRSSG2-em
+!!! @LEXNAME@
+! +Ind+Prs+Sg2:%>ет K ;
 
 LEXICON INDPRSSG3-em
 !! @LEXNAME@
@@ -480,17 +480,17 @@ LEXICON INDPRT1PL2-em
 !! @LEXNAME@
  +Ind+Prt1+Pl2:%>шд%{аӓ%} K ; !
 
-LEXICON INDPRT1PL3-em
-!! @LEXNAME@
- +Ind+Prt1+Pl3:%>Е2вӹ K ; !
+!LEXICON INDPRT1PL3-em
+!!! @LEXNAME@
+! +Ind+Prt1+Pl3:%>Е2вӹ K ; !
 
-LEXICON INDPRT1CONNEG-em
-!! @LEXNAME@
- +Ind+Prt1+ConNeg:%>%{ыӹØ%} K ;
+!LEXICON INDPRT1CONNEG-em
+!!! @LEXNAME@
+! +Ind+Prt1+ConNeg:%>%{ыӹØ%} K ;
 
-LEXICON INDPRT1PL3CONNEG-em
-!! @LEXNAME@
- +Ind+Prt1+Pl3+ConNeg:%>Е2п K ;
+!LEXICON INDPRT1PL3CONNEG-em
+!!! @LEXNAME@
+! +Ind+Prt1+Pl3+ConNeg:%>Е2п K ;
 
 !! ### PRETERIT 2
 
@@ -574,24 +574,24 @@ LEXICON	INDPRT2NEGPL3-am
 !                                  INDPRT2NEGPL2-em ;
 !                                  INDPRT2NEGPL3-em ;
 
-LEXICON	INDPRT2NEGSG1-em
-!! @LEXNAME@
- +Ind+Prt2+Neg+Sg1:%>%{ыӹØ%}делам K                ;
-LEXICON	INDPRT2NEGSG2-em
-!! @LEXNAME@
- +Ind+Prt2+Neg+Sg2:%>%{ыӹØ%}делат K                ;
-LEXICON	INDPRT2NEGSG3-em
-!! @LEXNAME@
- +Ind+Prt2+Neg+Sg3:%>%{ыӹØ%}де    K                ;
-LEXICON	INDPRT2NEGPL1-em
-!! @LEXNAME@
- +Ind+Prt2+Neg+Pl1:%>%{ыӹØ%}делна K                ;
-LEXICON	INDPRT2NEGPL2-em
-!! @LEXNAME@
- +Ind+Prt2+Neg+Pl2:%>%{ыӹØ%}делда K                ;
-LEXICON	INDPRT2NEGPL3-em
-!! @LEXNAME@
- +Ind+Prt2+Neg+Pl3:%>%{ыӹØ%}делыт K                ;
+!LEXICON	INDPRT2NEGSG1-em
+!!! @LEXNAME@
+! +Ind+Prt2+Neg+Sg1:%>%{ыӹØ%}делам K                ;
+!LEXICON	INDPRT2NEGSG2-em
+!!! @LEXNAME@
+! +Ind+Prt2+Neg+Sg2:%>%{ыӹØ%}делат K                ;
+!LEXICON	INDPRT2NEGSG3-em
+!!! @LEXNAME@
+! +Ind+Prt2+Neg+Sg3:%>%{ыӹØ%}де    K                ;
+!LEXICON	INDPRT2NEGPL1-em
+!!! @LEXNAME@
+! +Ind+Prt2+Neg+Pl1:%>%{ыӹØ%}делна K                ;
+!LEXICON	INDPRT2NEGPL2-em
+!!! @LEXNAME@
+! +Ind+Prt2+Neg+Pl2:%>%{ыӹØ%}делда K                ;
+!LEXICON	INDPRT2NEGPL3-em
+!!! @LEXNAME@
+! +Ind+Prt2+Neg+Pl3:%>%{ыӹØ%}делыт K                ;
 
 !! ### IMPERATIVE
 
@@ -698,19 +698,19 @@ LEXICON DESPL3-em
 !! ### INFINITIVE
 
 
-LEXICON INF
-!! @LEXNAME@
- +Inf:%>%{аӓ%}ш K ;
+!LEXICON INF
+!!! @LEXNAME@
+! +Inf:%>%{аӓ%}ш K ;
 
-LEXICON NEG-PRC
-!! @LEXNAME@
-        +Der+Der/дЫмЫ+NegPrc+A:%>д%{ыӹ%}м%{ыӹØ%}                 NMN_TYERVYE ;
- +Der+Der/дЫмЫ+NegPrc+A+Sg+Lat:%>д%{ыӹ%}м%{ыӹØ%}%>м%{ыӹØ%}%>ешкӹ K         ;
+!LEXICON NEG-PRC
+!!! @LEXNAME@
+!        +Der+Der/дЫмЫ+NegPrc+A:%>д%{ыӹ%}м%{ыӹØ%}                 NMN_TYERVYE ;
+! +Der+Der/дЫмЫ+NegPrc+A+Sg+Lat:%>д%{ыӹ%}м%{ыӹØ%}%>м%{ыӹØ%}%>ешкӹ K         ;
 
-LEXICON PASS-PRC
-!! @LEXNAME@
-        +Der+Der/мЫ+Pass+Prc+A:%>м%{ыӹØ%}       NMN_TYERVYE ;
- +Der+Der/мЫ+Pass+Prc+A+Sg+Lat:%>м%{ыӹØ%}%>ешкӹ K         ; ! ()
+!LEXICON PASS-PRC
+!!! @LEXNAME@
+!        +Der+Der/мЫ+Pass+Prc+A:%>м%{ыӹØ%}       NMN_TYERVYE ;
+! +Der+Der/мЫ+Pass+Prc+A+Sg+Lat:%>м%{ыӹØ%}%>ешкӹ K         ; ! ()
 
 
 LEXICON INF_BACK
