@@ -6,8 +6,6 @@ Also lexica for +Hom tags
 
 * **LEXICON VAux** = auxiliaries 
 
-* **LEXICON V_AM-HOM1** homonyms @hid=Hom1
-
 ## Regular verbs
 
 Both *-am* and *-em* verbs and their subgroups.
@@ -101,10 +99,6 @@ INDPRSPL3CONNEG-am
 
 #### em verbs
 
-INDPRSSG1-em
-
-INDPRSSG2-em
-
 INDPRSSG3-em
 
 INDPRSPL3-em
@@ -141,12 +135,6 @@ INDPRT1PL1-em
 
 INDPRT1PL2-em
 
-INDPRT1PL3-em
-
-INDPRT1CONNEG-em
-
-INDPRT1PL3CONNEG-em
-
 ### PRETERIT 2
 
 #### am
@@ -171,13 +159,6 @@ INDPRT2NEG-am
 INDPRT2NEG-am
 
 #### em
-
-INDPRT2NEG-am
-INDPRT2NEG-am
-INDPRT2NEG-am
-INDPRT2NEG-am
-INDPRT2NEG-am
-INDPRT2NEG-am
 
 ### IMPERATIVE
 
@@ -211,12 +192,6 @@ DESPL2-em
 DESPL3-em
 
 ### INFINITIVE
-
-INF
-
-NEG-PRC
-
-PASS-PRC
 
 INF_BACK
 

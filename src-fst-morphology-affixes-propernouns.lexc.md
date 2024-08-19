@@ -5,6 +5,8 @@ nouns
 
 PROP_
 
+PROP_KENKSH
+
 PROP-PLC_
 
 PROP_KOL_PLC
