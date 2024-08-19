@@ -6,6 +6,8 @@
 
 LEXICON VAux !!≈ * **@CODE@** = auxiliaries 
  +Aux: # ;
+LEXICON VAUX_NEG !!≈ * **@CODE@** = auxiliaries negative
+ +Aux+Neg: # ;
 
 !LEXICON V_AM-HOM1 !!≈ * **@CODE@** homonyms @hid=Hom1
 ! +Hom1: V_AM ;
