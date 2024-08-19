@@ -255,6 +255,8 @@ Infinitives
 
 * **NotImpWhenWords1**
 
+* **NotImpWhenConneg**
+
 * **NotImpWhenWords2**
 
 ### Adjectives

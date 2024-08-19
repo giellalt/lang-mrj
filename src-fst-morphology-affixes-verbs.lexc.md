@@ -5,6 +5,7 @@
 Also lexica for +Hom tags
 
 * **LEXICON VAux** = auxiliaries 
+* **LEXICON VAUX_NEG** = auxiliaries negative
 
 ## Regular verbs
 
