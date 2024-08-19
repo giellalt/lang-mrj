@@ -387,6 +387,10 @@ REMOVE:NotImpWhenInd Imprt IF (*-1C Ind BARRIER COMMA); #JEREMY AND SASHA MODIFI
 #!! * **NotImpWhenWords1**
 REMOVE:NotImpWhenWords1 Imprt IF (-1 N)(0 N);
 
+#!! * **NotImpWhenConneg**
+REMOVE:NotImpWhenConneg Imprt IF (-1 ("ак")) (0 ConNeg);
+# «Аздарымаш толде ак керд, но кӱ гач толеш, тӹдӹлӓн ойхы! ак керд
+
 #!! * **NotImpWhenWords2**
 #REMOVE:NotImpWhenWords2 Imprt IF (-1C WORD LINK *-1 BOS BARRIER Imprt);
 #THIS seems too strong 2024-08-19
