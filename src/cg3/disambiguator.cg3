@@ -388,8 +388,9 @@ REMOVE:NotImpWhenInd Imprt IF (*-1C Ind BARRIER COMMA); #JEREMY AND SASHA MODIFI
 REMOVE:NotImpWhenWords1 Imprt IF (-1 N)(0 N);
 
 #!! * **NotImpWhenWords2**
-REMOVE:NotImpWhenWords2 Imprt IF (-1 WORD LINK *-1 BOS BARRIER Imprt);
-
+#REMOVE:NotImpWhenWords2 Imprt IF (-1C WORD LINK *-1 BOS BARRIER Imprt);
+#THIS seems too strong 2024-08-19
+# Тыр доно ке дӓ шу ли». кеӓш
 
 REMOVE:noninfl N + Sg + Nom IF (0 N-ATTR)(1 N-INFL OR ("."));
 REMOVE:ninfl N-ATTR IF (NOT 1 A OR N + Nom OR ("улаш"));
