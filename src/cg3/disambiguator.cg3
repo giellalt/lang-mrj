@@ -370,7 +370,8 @@ SELECT:Inf Inf IF (1 V + Ind);	# XXX get back to this.
  	
 #!! * **Ind** selects Ind if no Ind to the right or to the left
 
-SELECT:Ind Ind IF (0 Ind)(*-1 DELIMITERS BARRIER Ind)(*1 DELIMITERS BARRIER Ind) ; #!! * **1SgAgr** selects (Ind Sg1) if Pron1Sg to the right or to the left
+SELECT:Ind Ind IF (0 Ind LINK NOT 0 ConNeg)(*-1 DELIMITERS BARRIER Ind)(*1 DELIMITERS BARRIER Ind) ; #!! * **1SgAgr** selects (Ind Sg1) if Pron1Sg to the right or to the left
+#манеш Господь, Тӹдӹ, Кӱ улы, Кӱ ылын дӓ Кӱ толеш, Цилӓ Кычышы. «, Кӱ улы,»
 
 #!! * **1SgAgr** selects (Ind Sg1) if (Pron1Sg Nom) to the right or to the left
 SELECT:1SgAgr (Ind Sg1) IF (0 Ind)(*-1 Pron1Sg + Nom BARRIER DELIMITERS)(*1 Pron1Sg + Nom BARRIER DELIMITERS) ; #SASHA ADDED 3-07-2017 
