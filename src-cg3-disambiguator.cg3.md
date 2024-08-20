@@ -140,9 +140,10 @@ PUCT
 LEFT
 RIGHT
 COMMA
+COLON
 
 ### Derivation tags
-Der/MWN
+Der/MWN modifier without [head] noun
 Der/sa
 Der/Pur
 Der/Caus
