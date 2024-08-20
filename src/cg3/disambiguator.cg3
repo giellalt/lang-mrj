@@ -191,9 +191,10 @@ LIST PUNCT = PUNCT ;  #!! PUCT
 LIST LEFT = LEFT ; 	  #!! LEFT
 LIST RIGHT = RIGHT ;  #!! RIGHT
 LIST COMMA = "," ;	  #!! COMMA
+LIST COLON = ":" ;	  #!! COLON
 
 #!! ### Derivation tags
-LIST Der/MWN = Der/MWN ;   #!! Der/MWN
+LIST Der/MWN = Der/MWN ;   #!! Der/MWN modifier without [head] noun
 LIST Der/са = Der/са ;	   #!! Der/sa
 LIST Der/Pur = Der/Pur ;   #!! Der/Pur
 LIST Der/Caus = Der/Caus ; #!! Der/Caus
@@ -383,7 +384,10 @@ SELECT:2SgAgr (Ind Sg2) IF (0 Ind)(*-1 Pron2Sg + Nom BARRIER DELIMITERS)(*1 Pron
 SELECT:IndAfterInf (Ind) IF (0 Ind)(-1 (Inf)) ; #SASHA ADDED 3-07-2017
 
 #!! * **NotImpWhenInd**
-REMOVE:NotImpWhenInd Imprt IF (*-1C Ind BARRIER COMMA); #JEREMY AND SASHA MODIFIED 28-06-2017
+#REMOVE:NotImpWhenInd Imprt IF (*-1C Ind BARRIER COMMA); #JEREMY AND SASHA MODIFIED 28-06-2017
+REMOVE:NotImpWhenInd Imprt IF (*-1C Ind BARRIER COMMA OR COLON); #Jaska 2024-08-20
+# азынам, а тӹдӹ мӹлӓм келесен: «Анжы, тенге ит ӹштӹ! Мӹнь тӹнь донет дӓ Иисусын пӓлдӹртен попымыжым
+# «Анжы,
 
 #!! * **NotImpWhenWords1**
 REMOVE:NotImpWhenWords1 Imprt IF (-1 N)(0 N);
