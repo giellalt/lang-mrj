@@ -243,6 +243,11 @@ SET N-NOT-DER-V = N - DER-V-N ;
 SET N-INFL = (N Sg) OR (N Pl) ;
 SET N-ATTR = N - N-INFL ;
 
+LIST Ex/A = Ex/A ;#former adjective
+LIST Ex/N = Ex/N ;#former noun
+LIST Ex/V = Ex/V ;#former verb
+
+
 LIST Sem/Date = Sem/Date ;           #!! Der/Date
 LIST Sem/Year = Sem/Year ;           #!! Der/Year
 LIST Sem/Hum = Sem/Hum ;             #!! Der/Hum
@@ -456,7 +461,9 @@ SELECT:lym ("лӱм") IF ( 0 ("лӱм"))(1 ("налаш"));
 
 	
 #!! ***RemNomIfPronLeft** removes Nom if Pron Nom anywhere to the left
-REMOVE:RemNifPronLeft (Nom) IF (0 N)(*-1 Pron + Nom BARRIER DELIMITERS) ; #SASHA ADDED 03-07-2017
+#REMOVE:RemNifPronLeft (Nom) IF (0 N)(*-1 Pron + Nom BARRIER DELIMITERS) ; #SASHA ADDED 03-07-2017
+REMOVE:RemNifPronLeft (Nom) IF (0 N LINK (NOT 1 Po))(*-1 Pron + Nom BARRIER DELIMITERS) ; #Jaska ADDED 2024-08-20
+# Тӓ попедӓ: ”Кӱ Йымын пӧрт доно цуратла, цуратлымыжы нимат ак шалгы, «пӧрт доно»
 
 #!! ***RemNomIfPronRight** removes Nom if Pron Nom anywhere to the right
 REMOVE:RemNifPronRight (Nom) IF (0 N)(*1 Pron + Nom BARRIER DELIMITERS) ; #SASHA ADDED 03-07-2017
