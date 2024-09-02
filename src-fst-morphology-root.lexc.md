@@ -415,7 +415,8 @@ the initial pos.lexc _LEXICON Pos_ entries
 * **nouns ;** 
 * **particles ;** 
 * **pronouns ;** 
-* **propernouns ;** 
+* **propernouns ;**
+* **mrj-propernouns ;**
 * **propernouns-toponyms ;** 
 * **quantifiers ;** 
 * **verbs ;** 

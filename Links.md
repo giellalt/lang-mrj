@@ -19,6 +19,7 @@
             * `stems/`
                 * [adjectives_newwords.lexc](src-fst-morphology-stems-adjectives_newwords.lexc.html) ([src](https://github.com/giellalt/lang-mrj/blob/main/src/fst/morphology/stems/adjectives_newwords.lexc))
                 * [exceptions.lexc](src-fst-morphology-stems-exceptions.lexc.html) ([src](https://github.com/giellalt/lang-mrj/blob/main/src/fst/morphology/stems/exceptions.lexc))
+                * [mrj-propernouns.lexc](src-fst-morphology-stems-mrj-propernouns.lexc.html) ([src](https://github.com/giellalt/lang-mrj/blob/main/src/fst/morphology/stems/mrj-propernouns.lexc))
                 * [nouns_newwords.lexc](src-fst-morphology-stems-nouns_newwords.lexc.html) ([src](https://github.com/giellalt/lang-mrj/blob/main/src/fst/morphology/stems/nouns_newwords.lexc))
                 * [numerals.lexc](src-fst-morphology-stems-numerals.lexc.html) ([src](https://github.com/giellalt/lang-mrj/blob/main/src/fst/morphology/stems/numerals.lexc))
                 * [prefixes.lexc](src-fst-morphology-stems-prefixes.lexc.html) ([src](https://github.com/giellalt/lang-mrj/blob/main/src/fst/morphology/stems/prefixes.lexc))
