@@ -231,7 +231,7 @@ Rules
 "Onset vowel ыӹ0 realized in suffix  %{ыӹØ%}:ы rule"
 !! **@RULENAME@**  
   %{ыӹØ%}:ы <=> 
-  [BHARM  Cns  | Cns %{back%}: (Ь2:) %> ]  _ [ ( %> ) [ Cns ] | # ] ; 
+  [BHARM  Cns  | Cns %{back%}: (Ь2:) %> | BackVow Cns+ %>]  _ [ ( %> ) [ Cns ] | # ] ; 
 !  [ BHARM  Cns   (HarmDummies:) (( (ы) Ь2:) %> )| BHARM ( н | л ) (HarmDummies:) (ы) Ь2: %> | BackVow й: (HarmDummies:)( (ы) Ь2:0 ) %> | :BackVow Cns* (HarmDummies:) | [ :BackVow | BHARM ] [ Cns+ | Cns* й ] [ %{ыӹØ%}:0 | ы:0 ] %> ] _ [ ( %> ) [ Cns ] | # ] ; 
                  
 ! [[ Cns | й ]+ %> | %> [ %> | BackVow | е | ArchiVow: | Cns ]* [ Cns | й ] ( %> ) ] _ [ ( %> ) Cns | # ] ; 
@@ -239,7 +239,7 @@ Rules
 "Onset vowel %{ыӹØ%} realized in suffix  %{ыӹØ%}:ӹ rule"
 !! **@RULENAME@** 
   %{ыӹØ%}:ӹ <=> 
-[FHARM  Cns  | Cns %{front%}: (Ь2:) %> ]  _ [ ( %> ) [ Cns ] | # ] ; 
+[FHARM  Cns  | Cns %{front%}: (Ь2:) %> | FrontVow [Cns+|й] %>]  _ [ ( %> ) [ Cns ] | # ] ; 
 ![ FHARM [ Cns  | й ]  ( (ӹ) Ь2: ) | :FrontVow Cns+ | [ :FrontVow | FHARM ] [ Cns+ | Cns* й ] [ %{ыӹØ%}:0 | ӹ:0 ] ( (ӹ) Ь2:) ] (%{front%}:) %> _ [ ( %> ) [ Cns  ] | # ] ; 
       FHARM  н _ т ; 
 ![ :FrontVow :0* ]  н _ т ; 
