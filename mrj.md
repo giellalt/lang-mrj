@@ -670,6 +670,17 @@ PXSG3
 
 ---
 
+# src-fst-morphology-affixes-prefixes.lexc.md 
+
+Prefixes
+Prefixes in the Western Mari language are bound to beginning of other words.
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/prefixes.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/morphology/affixes/prefixes.lexc)</small>
+
+---
+
 # src-fst-morphology-affixes-pronouns.lexc.md 
 
 # Pronouns
@@ -1850,17 +1861,6 @@ The Roman numerals !
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/numerals.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/morphology/stems/numerals.lexc)</small>
-
----
-
-# src-fst-morphology-stems-prefixes.lexc.md 
-
-Prefixes
-Prefixes in the Western Mari language are bound to beginning of other words.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/morphology/stems/prefixes.lexc](https://github.com/giellalt/lang-mrj/blob/main/src/fst/morphology/stems/prefixes.lexc)</small>
 
 ---
 
