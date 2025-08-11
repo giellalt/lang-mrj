@@ -99,7 +99,7 @@ Multichar_Symbols
 !! #### Other tags words
 +ABBR +ACR  !!≈ * **@CODE@** = 
 +Symbol  !!≈ * **@CODE@** = independent symbols in the text stream, like £, €, ©
-+CLB +PUNCT +LEFT +RIGHT  !!≈ * **@CODE@** = 
++CLB +PUNCT +LEFT +RIGHT +MIDDLE  !!≈ * **@CODE@** = 
  +Multi !!≈ * **@CODE@** = !! multiword units
  +Guess !!≈ * **@CODE@** = Non-dictionary words (probably not in  use
 
