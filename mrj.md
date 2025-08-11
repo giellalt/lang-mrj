@@ -1356,7 +1356,7 @@ Suffix ordering tags:
 #### Other tags words
 * **+ABBR +ACR** = 
 * **+Symbol** = independent symbols in the text stream, like £, €, ©
-* **+CLB +PUNCT +LEFT +RIGHT** = 
+* **+CLB +PUNCT +LEFT +RIGHT +MIDDLE** = 
 * **+Multi** = !! multiword units
 * **+Guess** = Non-dictionary words (probably not in  use
 
