@@ -4,7 +4,7 @@ All doc-comment documentation in one large file.
 
 ---
 
-# src-cg3-disambiguator.cg3.md 
+## src-cg3-disambiguator.cg3.md 
 
 
 
@@ -16,7 +16,7 @@ It was copied from the Eastern Mari cg3 file 18.11.21. tt.
 The file first defines sentence delimiters and tags and sets.
 Thereafter come the rules, each rule is listed below.
 
-# Sentence delimiters
+## Sentence delimiters
 
 The delimiters are: "<.>" "<!>" "<?>" "<...>" "<¶>" sent
 
@@ -27,16 +27,16 @@ The tags are documented in the root.lexc file, and here only listed for referenc
 The next section, **Sets**, contains sets defined
 on the basis of the tags listed here, those set names are not visible in the output.
 
-## Tags
+### Tags
 
-### Beginning and end of sentence
+#### Beginning and end of sentence
 
 BOS
 EOS
 
-### Clause boundary
+#### Clause boundary
 
-### Parts of speech tags
+#### Parts of speech tags
 
 N
 V
@@ -54,7 +54,7 @@ Po
 
 WORD is the set of all POS
 
-### Verbal tense and mood tags
+#### Verbal tense and mood tags
 Prs
 Prt1
 Prt2
@@ -64,7 +64,7 @@ Ind
 Cond
 Des
 
-### Other verbal tags
+#### Other verbal tags
 Act
 ConNeg
 FutPrc
@@ -85,12 +85,12 @@ Pl1
 Pl2
 Pl3
 
-### Numeral tags
+#### Numeral tags
 
 Sg
 Pl
 
-### Case tags
+#### Case tags
 
 Nom
 Gen
@@ -104,7 +104,7 @@ Ine
 Ill
 Cmpr (case)
 
-### Other nominal tags
+#### Other nominal tags
 
 Pers
 Refl
@@ -114,13 +114,13 @@ Recipr
 Dem
 ABBR
 
-### Adjective comparison tags
+#### Adjective comparison tags
 
 Pos (?)
 Superl
 Comp
 
-### Possessive suffix tags
+#### Possessive suffix tags
 
 PxSg1
 PxSg2
@@ -129,19 +129,19 @@ PxPl1
 PxPl2
 PxPl3
 
-### Suffix ordering
-### Numeral tags
+#### Suffix ordering
+#### Numeral tags
 
 Card
 Coll
 Ord
 Temp (?)
 
-### Particles
+#### Particles
 Qst
 Foc
 
-### Punctuation marks
+#### Punctuation marks
 
 CLB
 PUCT
@@ -150,18 +150,18 @@ RIGHT
 COMMA
 COLON
 
-### Derivation tags
+#### Derivation tags
 Der/MWN modifier without [head] noun
 Der/sa
 Der/Pur
 Der/Caus
 Der/Nom
 
-### Tags for internal testing
+#### Tags for internal testing
 CmpTest
 Err
 
-## Sets
+### Sets
 
 * **CASE** = all cases
 * **OBLCASE** = All cases except Nom
@@ -194,15 +194,15 @@ Sem/Sur
 Sem/Time
 Sem/Txt
 
-# Rule section
+## Rule section
 
-## Early, word-internal rules
+### Early, word-internal rules
 
 * **CmpTst** remove CmpTst if not 1 N
 * **CmpTst2** Select CmpTst in all other cases
 ***NoFocPossNoun** remove Foc/Poss if PxSg3
 
-### CC or Pcle
+#### CC or Pcle
 * **teveteve1** gives CC if two теве
 * **teveteve1** gives CC if two теве
 * **onlyteve** gives Pcle if two теве
@@ -215,36 +215,36 @@ Sem/Txt
 
 * **ikNum** ик is never A
 
-## Specific words
+### Specific words
 
-### да
+#### да
 
 * **da1** Adv initially
 
 * **da2** CC elsewhere
 
-### и
+#### и
 * **iNotAbbr**
 
-### Interjection
+#### Interjection
 
 * **NoExclNoInterj**
 
-### Predicative
+#### Predicative
 
 **AifVövny** selects A if вӧвны somewhere to the left
 
-### Conjunctions
+#### Conjunctions
 
 * **NotPcle**
 
-### Particles
+#### Particles
 
 ***InterrQ** if question mark anywhere to the right
 
 ***Interr** removes Rel if question mark to the right somewhere
 
-### Verbs
+#### Verbs
 
 Existential ulo
 
@@ -268,7 +268,7 @@ Infinitives
 
 * **NotImpWhenWords2**
 
-### Adjectives
+#### Adjectives
 
 ***RemAdjBeforeProp** removes A if Prop to the left
 
@@ -290,7 +290,7 @@ Infinitives
 
 ***RemAdj2** removes A if no N or Pron in a clause
 
-### Nouns
+#### Nouns
 
 * **lym** nalash "to take a name" = "to be given a title"
 
@@ -308,7 +308,7 @@ Infinitives
 
 ***RemNafterAdv** removes N if adverb to the left
 
-### Derivations
+#### Derivations
 
 * **RemDerMWN1** removes Der/MWN if N is an option
 
@@ -318,7 +318,7 @@ Infinitives
 
 * **SelDerMWN** select Der/MWN if no noun follows
 
-### Cases
+#### Cases
 
 * **RemNomNif12left** removes Nom with N if there is a verb with 1st or 2nd agreement to the lef
 
@@ -326,16 +326,16 @@ Infinitives
 
 * **AccNeedsVerb** prefers Nom (TODO: does this make sense? SASHA: it does but there was a typo, -1* instead of 1* in the third clause of the condition)
 
-### Proper nouns
+#### Proper nouns
 
-### Numerals
+#### Numerals
 
 * **IkNumN** ik is num before N Sg
 * **IkNumAN** ik is num before A N Sg
 
 * **KumNumAN** ik is num before A N Sg
 
-### Pronouns
+#### Pronouns
 * **NotImp** in most тиде cases
 
 * **NotInterr** if Rel
@@ -344,21 +344,21 @@ Infinitives
 
 * **уке**
 
-### Conjunctions
+#### Conjunctions
 
-### Postpositions
+#### Postpositions
 
 * **PoNeedsGen** removes postposition if the word to the left is not Gen or Nom
 
 **ConjNotPcle** supposes we have found the particles earlier on, and now go for Conj.
 
-## Adverbs
+### Adverbs
 
 * **molan** awaiting rules for dative verbs subcategorising for mo Dat
 
-## Verbs
+### Verbs
 
-### Finite verb or Gerundium
+#### Finite verb or Gerundium
 
 ***RemGer** removes Ger Gen if there is no verb to the right 
 
@@ -368,14 +368,14 @@ Infinitives
 
 * **GerNotFin**  Ger if there is a Ger da Ger VFin
 
-### First or third person
+#### First or third person
 
 * **Sg1NotSg3** removes Prt1 Sg3 when Pers Sg1 Nom in same clause
 
 * **Sg3NotSg1** removes Prt1 Sg1 when there is no Pers Sg1 Nom in same clause
 - This definitely is too strong, it precludes zero Sg1 subjects
 
-### ConNeg or not
+#### ConNeg or not
 * **NoConNeg1** No ConNeg if no Neg to the left
 * **NoConNeg2** No ConNeg if another ConNeg to the left
 
@@ -387,7 +387,7 @@ Infinitives
 
 ---
 
-# src-cg3-functions.cg3.md 
+## src-cg3-functions.cg3.md 
 
 
 
@@ -443,11 +443,11 @@ These were the set types.
 
 * **CCasCNPCVP** Map (@CNP @CVP) to CC
 
-## NP attributives
+### NP attributives
 
-## Postposition
+### Postposition
 
-## HABITIVE MAPPING
+### HABITIVE MAPPING
 
 * **hab1** 
 
@@ -484,11 +484,11 @@ Mari rules stop here
 
 * **advlPoPr>** (@<ADVL) if mainverb to the right.
 
-## SUBJ MAPPING - leftovers
+### SUBJ MAPPING - leftovers
 
-## OBJ MAPPING - leftovers
+### OBJ MAPPING - leftovers
 
-## HNOUN MAPPING
+### HNOUN MAPPING
 
 * * *
 
@@ -496,16 +496,16 @@ Mari rules stop here
 
 ---
 
-# src-fst-morphology-affixes-adjectives.lexc.md 
+## src-fst-morphology-affixes-adjectives.lexc.md 
 
-# Hill Mari adjective inflection
+## Hill Mari adjective inflection
 
 This file contains a handful of lexica, each with 3 subentries. The two first ones give +Pos+Attr dn +Comp:рак, respectively, whereeas the third entry gives a *+Der/N* tag and redirects to the relevant noun lexica for case inflection
 
-## Temporary lexicon
+### Temporary lexicon
 * **LEXICON A-ADN_**  = This adjective only occurs with a head word in an adnominal phrase
 
-## Ordinary lexica
+### Ordinary lexica
 
 * **LEXICON A_** has *aä* trigger, gets +Pos, +Comp, or goes via Der/N to NMN\_OLMA. 
 This should be neutral 2013-05-11
@@ -530,18 +530,18 @@ This should be neutral 2013-05-11
 
 ---
 
-# src-fst-morphology-affixes-adverbs.lexc.md 
+## src-fst-morphology-affixes-adverbs.lexc.md 
 
 
-# Compounding
+## Compounding
 
 Does Hill Mari have anything like LEXICON R and %- N ;
 
-## Interj lexica
+### Interj lexica
 
 * LEXICON INTERJ_  
 
-## Postp lexica
+### Postp lexica
 
 * LEXICON POSTP_  
 
@@ -559,9 +559,9 @@ Temporal tags with cases
 
 ---
 
-# src-fst-morphology-affixes-clitics.lexc.md 
+## src-fst-morphology-affixes-clitics.lexc.md 
 
-# Clitics
+## Clitics
 ----
 
 Hill Mari (Western Mari) adverbial clitics are not bound by POS.
@@ -576,18 +576,18 @@ WORDEND
 
 ---
 
-# src-fst-morphology-affixes-nouns.lexc.md 
+## src-fst-morphology-affixes-nouns.lexc.md 
 
-# Noun inflection
+## Noun inflection
 ----
 
-## Ad hoc lexica
+### Ad hoc lexica
 
 * **LEXICON N_**
 
-## Substandard and other lexica, i.e., hunspell
+### Substandard and other lexica, i.e., hunspell
 
-## Standard lexica 
+### Standard lexica 
 
 LEXICON N_KOL  кол:кол
 Back harmony
@@ -670,7 +670,7 @@ PXSG3
 
 ---
 
-# src-fst-morphology-affixes-prefixes.lexc.md 
+## src-fst-morphology-affixes-prefixes.lexc.md 
 
 Prefixes
 Prefixes in the Western Mari language are bound to beginning of other words.
@@ -681,9 +681,9 @@ Prefixes in the Western Mari language are bound to beginning of other words.
 
 ---
 
-# src-fst-morphology-affixes-pronouns.lexc.md 
+## src-fst-morphology-affixes-pronouns.lexc.md 
 
-# Pronouns
+## Pronouns
 ----
 
 Hill Mari (Western Mari) pronouns...
@@ -722,9 +722,9 @@ Dem-Cx
 
 ---
 
-# src-fst-morphology-affixes-propernouns.lexc.md 
+## src-fst-morphology-affixes-propernouns.lexc.md 
 
-# Proper noun inflection
+## Proper noun inflection
 
 Hill Mari proper nouns inflect in the same cases as regular
 nouns
@@ -758,11 +758,11 @@ PROP-PLC_OLMA
 
 LEXICON PROP_OLMA  кол:кол
 
-## Male given name for deriving patronyms
+### Male given name for deriving patronyms
 
 Вили:Вил
 
-## Female Given names
+### Female Given names
 
 ... etc.
 
@@ -779,7 +779,7 @@ Russian type Surnames
 
 ---
 
-# src-fst-morphology-affixes-quantifiers.lexc.md 
+## src-fst-morphology-affixes-quantifiers.lexc.md 
 
 $ Quantifiers
 ----
@@ -794,10 +794,10 @@ NUM_
 
 ---
 
-# src-fst-morphology-affixes-symbols.lexc.md 
+## src-fst-morphology-affixes-symbols.lexc.md 
 
 
-# Symbol affixes
+## Symbol affixes
 
 Noun_symbols_possibly_inflected
 
@@ -815,22 +815,22 @@ SYMBOL_suff
 
 ---
 
-# src-fst-morphology-affixes-verbs.lexc.md 
+## src-fst-morphology-affixes-verbs.lexc.md 
 
-# Hill Mari (Western Mari) verb inflection
+## Hill Mari (Western Mari) verb inflection
 
-## Irregular lexica
+### Irregular lexica
 
 Also lexica for +Hom tags
 
 * **LEXICON VAux** = auxiliaries 
 * **LEXICON VAUX_NEG** = auxiliaries negative
 
-## Regular verbs
+### Regular verbs
 
 Both *-am* and *-em* verbs and their subgroups.
 
-### V_AM verbs
+#### V_AM verbs
 
 LEXICON V_IAEM
 Approximately 619 2014-12-21
@@ -851,7 +851,7 @@ Back Vowel harmony for  V_AM-SG3 verbs
 Approximately 1 2014-12-21
 Back Vowel harmony for  V_AM-3 verbs
 
-### STEM CHANGE
+#### STEM CHANGE
 LEXICON V_PYECHKAEM
 Approximately 12 2014-12-21
 Back Vowel harmony for  V_AM verbs
@@ -860,7 +860,7 @@ LEXICON V_KACHKAM
 Approximately 11 2014-12-21
 Back Vowel harmony for  V_AM verbs
 
-### V_EM verbs
+#### V_EM verbs
 
 LEXICON V_KACHKAM
 Approximately 1052 2014-12-21
@@ -879,27 +879,27 @@ LEXICON V_KACHKAM
 Approximately 1 2014-12-21
 Back	Vowel harmony for  V_EM verbs
 
-## Lexica pointing to suffix lexica
+### Lexica pointing to suffix lexica
 
-### Intermediate AM lexica
+#### Intermediate AM lexica
 
 LEXICON V_AM  ӹштӓш:ӹшт
 
 пелӓш: онг пелеш
 What else is needed 2014-05-08
 
-### Intermediate EM lexcia
+#### Intermediate EM lexcia
 
 хӹдӹртӓш: хӹдӹртӹ
 What else is needed 2014-05-08
 
 * **LEXICON V_EM** колташ:колты
 
-## Suffix lexica
+### Suffix lexica
 
-### NONPAST
+#### NONPAST
 
-#### am verbs
+##### am verbs
 
 INDPRSSG1-am
 
@@ -917,15 +917,15 @@ INDPRSCONNEG-am
 
 INDPRSPL3CONNEG-am
 
-#### em verbs
+##### em verbs
 
 INDPRSSG3-em
 
 INDPRSPL3-em
 
-### PRETERIT 1
+#### PRETERIT 1
 
-#### am
+##### am
 
 INDPRT1SG1-am
 
@@ -943,7 +943,7 @@ INDPRT1CONNEG-am
 
 INDPRT1PL3CONNEG-am
 
-#### em
+##### em
 
 INDPRT1SG1-em
 
@@ -955,9 +955,9 @@ INDPRT1PL1-em
 
 INDPRT1PL2-em
 
-### PRETERIT 2
+#### PRETERIT 2
 
-#### am
+##### am
 INDPRT2SG1-am
 
 INDPRT2SG2-am
@@ -978,9 +978,9 @@ INDPRT2NEG-am
 INDPRT2NEG-am
 INDPRT2NEG-am
 
-#### em
+##### em
 
-### IMPERATIVE
+#### IMPERATIVE
 
 IMPRTSG2-am
 
@@ -994,7 +994,7 @@ IMPRTIISG2-am
 
 IMPRTIIPL2-am
 
-### DESIDERATIVE
+#### DESIDERATIVE
 DES-am
 DESSG1-am
 DESSG2-am
@@ -1011,7 +1011,7 @@ DESPL1-em
 DESPL2-em
 DESPL3-em
 
-### INFINITIVE
+#### INFINITIVE
 
 INF_BACK
 
@@ -1035,21 +1035,21 @@ ACT-PRC_FRONT
 
 ---
 
-# src-fst-morphology-phonology.twolc.md 
+## src-fst-morphology-phonology.twolc.md 
 
-# Morphophonological rules for Hill Mari 
+## Morphophonological rules for Hill Mari 
 
 This file documents the [phonology.twolc file](http://github.com/giellalt/lang-mrj/blob/main/src/fst/phonology.twolc) 
 
-## Alphabet, Sets and Definitions 
+### Alphabet, Sets and Definitions 
 
-### Alphabet 
-#### Letters of the alphabet 
+#### Alphabet 
+##### Letters of the alphabet 
 
 * **а б в г д е ё ж з и й к л м н ҥ о ӧ п р с т у ӱ ф х ц ч ш щ ъ ы ь э ю я ӓ ӹ ** 
 * **А Б В Г Д Е Ё Ж З И Й К Л М Н Ҥ О Ӧ П Р С Т У Ӱ Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я Ӓ Ӹ ** 
 
-#### Archiphonemes for vowels 
+##### Archiphonemes for vowels 
 * ** %{аӓ%}:ӓ  ** a/ä alternation in vowel harmony 
 * ** Е3:е ** ӓвӓмвлӓ 
 * ** Е2:0 ** 
@@ -1061,19 +1061,19 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-m
 * ** А2:а ** 
 * ** Ь2:0 **  except with V АМ +Prt1+Sg1-3 
 
-#### Triggers 
+##### Triggers 
 * ** %{front%}:0 %{back%}:0 ** front-back vowel harmony 
 * **%^ConsTransf:0 ** 
 * **%^KIN:0        **  with ӓвӓ in +PxSg1+Sg+Gen etc. 
 * **%^А2ЫӸ:0       **  with карта and картын витринӹн 
 
-#### Boundary symbols 
+##### Boundary symbols 
 
 * ** %> ** 
 * hash # 
 * ** %- ** 
 
-### Sets 
+#### Sets 
 
 * **BackLabVow =   о у ё ю О У Ё Ю ; 				     ** 
 * **FrontLabVow =   ӧ ӱ Ӧ Ӱ; 						     ** 
@@ -1093,7 +1093,7 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-m
 * **all =  Ltrs  %- ; 								     ** 
 * **HarmDummies = %{back%} %{front%} ; 				     ** 
 
-### Definitions 
+#### Definitions 
 
 Back Harmony BHARM
 
@@ -1103,15 +1103,15 @@ LFH
 
 LBH
 
-## Rules 
+### Rules 
 
-### Palatalisation rules
+#### Palatalisation rules
 
 **Palatal mark loss before vowel rule**  
 
 **й Deletion in front of я Suffix and others rule**  
 
-##### Tests:
+###### Tests:
 
 * кай%>%{аӓ%}ш  examples:*
 
@@ -1121,7 +1121,7 @@ LBH
 
 толаш+V+Ind+Prt1+Sg1 
 
-##### Tests:
+###### Tests:
 * *тол%{back%}Ь2%>%{ыӹØ%}м*
 * *тол0ь%>ым*
 
@@ -1129,7 +1129,7 @@ LBH
 
 **Ь2:ш Palatal mark for V ЕМ +Prt1+Sg1 rule**  
 
-### Vowel rules 
+#### Vowel rules 
 **Onset vowel in а rule** 
 
 **Onset vowel in ӓ rule** 
@@ -1154,7 +1154,7 @@ LBH
 
 **Stem final ы loss before Е2 rule**  
 
-##### Tests:
+###### Tests:
 * *карта%>ы%>ын*
 * *карт0%>ы%>0н*
 * *янжы%{back%}>аш*
@@ -1162,11 +1162,11 @@ LBH
 
 **Stem final ӹ loss before Е2 rule**  
 
-##### Tests:
+###### Tests:
 * *бирка%{front%}%>ӹ%>ӹн*
 * *бирк00%>ӹ%>0н*
 
-### Vowel harmony rules
+#### Vowel harmony rules
 
 **Onset vowel ыӹ0 realized in suffix  %{ыӹØ%}:ы rule**  
 
@@ -1188,7 +1188,7 @@ LBH
 
 **Onset vowel %{ыӹэ%} realized in Ine and Ill suffixes %{ыӹэ%}:0 rule** 
 
-##### Tests:
+###### Tests:
 
 * олма%>%{ыӹэ%}штем  examples:*
 
@@ -1196,7 +1196,7 @@ LBH
 
 **Affix mid or final front %{аӓ%}:ӓ rule** 
 
-##### Tests:
+###### Tests:
 
 * комбы%>еш%>н%{аӓ%}  examples:*
 
@@ -1205,7 +1205,7 @@ LBH
 ӹштӓш+Hom2+V+Ind+Prs+Sg3: **do/tehdä** 
 * *ӹштӹ%{front%}%>%{аӓ%}*
 
-##### Tests:
+###### Tests:
 
 * библиотека%{front%}%^А2ЫӸ%>л%{аӓ%}н  examples:*
 
@@ -1215,11 +1215,11 @@ LBH
 
 толаш+V+Ind+Prs+Pl1: **come/tulla** 
 
-##### Tests:
+###### Tests:
 * *тол%{back%}%>%{ыӹе%}н%{аӓ%}*
 * *тол0%>ына*
 
-##### Tests:
+###### Tests:
 
 * колт%>%{ыӹØ%}д%{аӓ%}  examples:*
 
@@ -1231,7 +1231,7 @@ LBH
 
 **Affix mid or final back %{аӓ%}:я rule**  
 
-##### Tests:
+###### Tests:
 
 * кай%>%{аӓ%}ш  examples:*
 
@@ -1247,7 +1247,7 @@ LBH
 
 **suffix-final vowel fronted %{ыӹ%}:ӹ rule**  
 
-### Consonant loss or transformation rules
+#### Consonant loss or transformation rules
 
 **т:0 in am type verbs rule** лӓктӓш:лӓкнӓ 
 
@@ -1257,14 +1257,14 @@ LBH
 
 **н:0 before з:ц in am type verbs rule** негӹнзӓш:негӹц 
 
-### Vowel addition rules 
+#### Vowel addition rules 
 
-#### Vowel gain 
+##### Vowel gain 
 **0:ы between ш _ ж rule** йиш:йишӹжӹ 
 
 **0:ӹ between ш _ ж rule** йиш:йишӹжӹ 
 
-### Vowel loss rules
+#### Vowel loss rules
 
 **suffix-final vowel loss before subsequent suffix-initial vowel %{ыӹ%}:0 rule**  
 
@@ -1272,11 +1272,11 @@ LBH
 
 **Not SgNom for lat е:0 rule** 
 
-##### Tests:
+###### Tests:
 * *варенье%>ӹ%>влӓ*
 * *варень0%>ӹ%>влӓ*
 
-## Devoicing 
+### Devoicing 
 **Onset consonant devoicing rule**  
 
 * * *
@@ -1285,10 +1285,10 @@ LBH
 
 ---
 
-# src-fst-morphology-root.lexc.md 
+## src-fst-morphology-root.lexc.md 
 
 
-# Western Mari morphological analyser                      
+## Western Mari morphological analyser                      
 
 The file declares the numticharacter symbols of Western Mari, and gives the **Root** lexicon.
 
@@ -1297,12 +1297,12 @@ The morphological analyses of wordforms for the Western Mari
 language are presented in this system in terms of the following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
 
-#### The parts-of-speech tags:
+##### The parts-of-speech tags:
 * **+N +A +Adv +V** 
 * **+Pron +CS +CC +Adp +Po +Pr +Interj +Pcle +Num +Descr** 
 * **+Prop** is a noun subtag  
 
-#### Subtags for pronouns
+##### Subtags for pronouns
 * **+Dem**:  demonstrative
 * **+Indef**:  indefinite
 * **+Dep**:  dependent word requiring the presence of noun, e.g. ӹшке
@@ -1312,7 +1312,7 @@ language are presented in this system in terms of the following symbols.
 * **+Refl**:  reflexive
 * **+Rel**:  relative
 
-#### Tags for nominals  nominals 
+##### Tags for nominals  nominals 
 * **+Sg +Du +Pl** 
 * **+Ess +Nom +Gen +Acc +Ill +Loc +Com +Com/Sh +Cmpr** 
 
@@ -1328,10 +1328,10 @@ Suffix ordering tags:
 * **+Pos +Comp +Superl** =  The comparative
 * **+Attr +Ord** = 
 
-#### Tags for numerals 
+##### Tags for numerals 
 * **+Card** = 
 
-#### Tags for verbs
+##### Tags for verbs
 * **+Aux** auxiliary
 * **+Ind +Prs +Prt1 +Prt2 +Pot +Cond +Imprt** =  Verb moods
 * **+Sg1 +Sg2 +Sg3 +Du1 +Du2 +Du3 +Pl1 +Pl2 +Pl3** = Verb personal forms
@@ -1346,24 +1346,24 @@ Suffix ordering tags:
 * **+FutPrc** = 
 * **+TV +IV** =  to transitivity:
 
-#### Usage tags:
+##### Usage tags:
 * **+Err/Orth** 
 * **+Use/-Spell** 
 
-#### Tag from older orthographic norms
+##### Tag from older orthographic norms
 * **+Orth/1933** 
 
-#### Other tags words
+##### Other tags words
 * **+ABBR +ACR** = 
 * **+Symbol** = independent symbols in the text stream, like £, €, ©
 * **+CLB +PUNCT +LEFT +RIGHT +MIDDLE** = 
 * **+Multi** = !! multiword units
 * **+Guess** = Non-dictionary words (probably not in  use
 
-#### Question and Focus particles:
+##### Question and Focus particles:
 * **+Qst +Foc** = 
 
-#### Tags to be checked and harmonised.
+##### Tags to be checked and harmonised.
 * **+AdA** = 
 * **+Adn** = 
 * **+Arab** = 
@@ -1376,7 +1376,7 @@ Suffix ordering tags:
 * **+Use/Circ** = 
 * **+Voc** = 
 
-### Semantic tags
+#### Semantic tags
 
 * **+Sem/Act** Activity
 * **+Sem/Amount** Amount
@@ -1471,7 +1471,7 @@ Suffix ordering tags:
 * **+Sem/Wpn** Weapon
 * **+Sem/Wthr** The Weather or the state of ground
 
-### Multiple Semantic tags:
+#### Multiple Semantic tags:
 * **+Sem/Act_Group** = 
 * **+Sem/Act_Plc** = 
 * **+Sem/Act_Route** = 
@@ -1598,11 +1598,11 @@ Suffix ordering tags:
 
 Semantics are classified with
 
-### Derivation
+#### Derivation
 
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
-* **+V→N +V→V +V→A** =          
+* **+V→N +V→V +V→A** =
 * **+Der** =          
 * **+Der/шЫ** =          Act Prc
 * **+Der/мЫ** =          Pass Prc
@@ -1625,7 +1625,7 @@ source and target part-of-speech.
 * **+Use/NG** = 
 * **+Err/Sub** = 
 
-### Morphophonology
+#### Morphophonology
 
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
@@ -1639,7 +1639,7 @@ symbols in the lexicon files:
 * **Ь2** =  V_АМ +Prt1+Sg1
 * **%{front%} %{back%}** = for front/back suffixes 
 
-## Lexeme disambiguation tags
+### Lexeme disambiguation tags
 * **+Hom1** : Homonymy толам used in l element and lexc
 * **+Hom2** : Homonymy колем used in l element and lexc
 * **%^ConsTransf**  k loss in am-verbs, also z to ts
@@ -1652,7 +1652,7 @@ symbols in the lexicon files:
 * > (written with square brackets, see the root.lexc file)
 * < (written with square brackets, see the root.lexc file)
 
-## Flag diacritics
+### Flag diacritics
 We have manually optimised the structure of our lexicon using following
 flag diacritics to restrict morhpological combinatorics - only allow compounds
 with verbs if the verb is further derived into a noun again:
@@ -1689,7 +1689,7 @@ given the proper use of these flags.
 |  **@U.Cap.Obl@** | Allowing downcasing of derived names: deatnulasj.
 |  **@U.Cap.Opt@** | Allowing downcasing of derived names: deatnulasj.
 
-## Root lexicon
+### Root lexicon
 
 The word forms in Hill Mari start from the lexeme roots of basic
 word classes, or optionally from prefixes:
@@ -1729,7 +1729,7 @@ ENDLEX goes to # for now.
 
 ---
 
-# src-fst-morphology-stems-adjectives_newwords.lexc.md 
+## src-fst-morphology-stems-adjectives_newwords.lexc.md 
 
 This is where new words are added as lexc entries before they are 
 added to the xml source files.
@@ -1743,7 +1743,7 @@ ADD ADJECTIVES BELOW
 
 ---
 
-# src-fst-morphology-stems-exceptions.lexc.md 
+## src-fst-morphology-stems-exceptions.lexc.md 
 
 
 
@@ -1759,7 +1759,7 @@ PROPER PLACE NAMES
 
 ---
 
-# src-fst-morphology-stems-mrj-propernouns.lexc.md 
+## src-fst-morphology-stems-mrj-propernouns.lexc.md 
 
 This may contain Meadow & Eastern Mari (mhr) place names.
 the letter ‹ҥ› is only used in (mhr)
@@ -1772,7 +1772,7 @@ the letter ‹ҥ› is only used in (mhr)
 
 ---
 
-# src-fst-morphology-stems-nouns_newwords.lexc.md 
+## src-fst-morphology-stems-nouns_newwords.lexc.md 
 
 This is where new words are added as lexc entries before they are 
 added to the xml source files.
@@ -1786,12 +1786,12 @@ ADD NOUNS BELOW
 
 ---
 
-# src-fst-morphology-stems-numerals.lexc.md 
+## src-fst-morphology-stems-numerals.lexc.md 
 
 
-# Meadow & Eastern Mari numerals 
+## Meadow & Eastern Mari numerals 
 
-## The initial lexica
+### The initial lexica
 
 * **LEXICON Numeral**  initial lexica
 
@@ -1864,7 +1864,7 @@ The Roman numerals !
 
 ---
 
-# src-fst-morphology-stems-propernouns_newwords.lexc.md 
+## src-fst-morphology-stems-propernouns_newwords.lexc.md 
 
 This is where new words are added as lexc entries before they are 
 added to the xml source files.
@@ -1882,7 +1882,7 @@ PLACE NAMES
 
 ---
 
-# src-fst-phonetics-txt2ipa.xfscript.md 
+## src-fst-phonetics-txt2ipa.xfscript.md 
 
 
 
@@ -2051,7 +2051,7 @@ retracted tongue root			_q
 
 ---
 
-# src-fst-transcriptions-transcriptor-abbrevs2text.lexc.md 
+## src-fst-transcriptions-transcriptor-abbrevs2text.lexc.md 
 
 
 
@@ -2073,26 +2073,26 @@ For example:
 
 ---
 
-# tools-grammarcheckers-grammarchecker.cg3.md 
+## tools-grammarcheckers-grammarchecker.cg3.md 
 
 
 [ L A N G U A G E ]  G R A M M A R   C H E C K E R
 
-# DELIMITERS
+## DELIMITERS
 
-# TAGS AND SETS
+## TAGS AND SETS
 
-## Tags
+### Tags
 
 This section lists all the tags inherited from the fst, and used as tags
 in the syntactic analysis. The next section, **Sets**, contains sets defined
 on the basis of the tags listed here, those set names are not visible in the output.
 
-### Beginning and end of sentence
+#### Beginning and end of sentence
 BOS
 EOS
 
-### Parts of speech tags
+#### Parts of speech tags
 
 N
 A
@@ -2119,7 +2119,7 @@ PUNCT
 COMMA
 ¶
 
-### Tags for POS sub-categories
+#### Tags for POS sub-categories
 
 Pers
 Dem
@@ -2135,7 +2135,7 @@ Allegro
 Arab
 Romertall
 
-### Tags for morphosyntactic properties
+#### Tags for morphosyntactic properties
 
 Nom
 Acc
@@ -2198,7 +2198,7 @@ VAbess
 
 Err/Orth
 
-### Semantic tags
+#### Semantic tags
 
 Sem/Act
 Sem/Ani
@@ -2231,7 +2231,7 @@ PROP-SUR
 
 TIME-N-SET
 
-###  Syntactic tags
+####  Syntactic tags
 
 @+FAUXV
 @+FMAINV
@@ -2301,22 +2301,22 @@ OBJ>-OTHERS
 SYN-V
 @X
 
-## Sets containing sets of lists and tags
+### Sets containing sets of lists and tags
 
 This part of the file lists a large number of sets based partly upon the tags defined above, and
 partly upon lexemes drawn from the lexicon.
 See the sourcefile itself to inspect the sets, what follows here is an overview of the set types.
 
-### Sets for Single-word sets
+#### Sets for Single-word sets
 
 INITIAL
 
-### Sets for word or not
+#### Sets for word or not
 
 WORD
 NOT-COMMA
 
-### Case sets
+#### Case sets
 
 ADLVCASE
 
@@ -2327,11 +2327,11 @@ NOT-NOM
 NOT-GEN
 NOT-ACC
 
-### Verb sets
+#### Verb sets
 
 NOT-V
 
-### Sets for finiteness and mood
+#### Sets for finiteness and mood
 
 REAL-NEG
 
@@ -2339,7 +2339,7 @@ MOOD-V
 
 NOT-PRFPRC
 
-### Sets for person
+#### Sets for person
 
 SG1-V
 SG2-V
@@ -2351,25 +2351,25 @@ PL1-V
 PL2-V
 PL3-V
 
-### Pronoun sets
+#### Pronoun sets
 
-### Adjectival sets and their complements
+#### Adjectival sets and their complements
 
-### Adverbial sets and their complements
+#### Adverbial sets and their complements
 
-### Sets of elements with common syntactic behaviour
+#### Sets of elements with common syntactic behaviour
 
-### NP sets defined according to their morphosyntactic features
+#### NP sets defined according to their morphosyntactic features
 
-### The PRE-NP-HEAD family of sets
+#### The PRE-NP-HEAD family of sets
 
 These sets model noun phrases (NPs). The idea is to first define whatever can
 occur in front of the head of the NP, and thereafter negate that with the
 expression **WORD - premodifiers**.
 
-### Border sets and their complements
+#### Border sets and their complements
 
-### Grammarchecker sets
+#### Grammarchecker sets
 
 * * *
 
@@ -2377,7 +2377,7 @@ expression **WORD - premodifiers**.
 
 ---
 
-# tools-tokenisers-tokeniser-disamb-gt-desc.1938.pmscript.md 
+## tools-tokenisers-tokeniser-disamb-gt-desc.1938.pmscript.md 
 
 Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
 Then just:
@@ -2433,7 +2433,7 @@ Needs hfst-tokenise to output things differently depending on the tag they get
 
 ---
 
-# tools-tokenisers-tokeniser-disamb-gt-desc.eighties.pmscript.md 
+## tools-tokenisers-tokeniser-disamb-gt-desc.eighties.pmscript.md 
 
 Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
 Then just:
@@ -2489,9 +2489,9 @@ Needs hfst-tokenise to output things differently depending on the tag they get
 
 ---
 
-# tools-tokenisers-tokeniser-disamb-gt-desc.pmscript.md 
+## tools-tokenisers-tokeniser-disamb-gt-desc.pmscript.md 
 
-# Tokeniser for mrj
+## Tokeniser for mrj
 
 Usage:
 ```
@@ -2537,7 +2537,7 @@ ASCII digits
 so far:
 * U+F0B7 for "x in box"
 
-## Unknown handling
+### Unknown handling
 Unknowns are tagged ?? and treated specially with `hfst-tokenise`
 hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
 remove empty analyses from other readings. Empty readings are also
@@ -2556,7 +2556,7 @@ Finally we mark as a token any sequence making up a:
 
 ---
 
-# tools-tokenisers-tokeniser-disamb-gt-desc.thirties.pmscript.md 
+## tools-tokenisers-tokeniser-disamb-gt-desc.thirties.pmscript.md 
 
 Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
 Then just:
@@ -2612,9 +2612,9 @@ Needs hfst-tokenise to output things differently depending on the tag they get
 
 ---
 
-# tools-tokenisers-tokeniser-gramcheck-gt-desc.pmscript.md 
+## tools-tokenisers-tokeniser-gramcheck-gt-desc.pmscript.md 
 
-# Grammar checker tokenisation for mrj
+## Grammar checker tokenisation for mrj
 
 Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
 Then just:
@@ -2677,9 +2677,9 @@ Finally we mark as a token any sequence making up a:
 
 ---
 
-# tools-tokenisers-tokeniser-tts-cggt-desc.pmscript.md 
+## tools-tokenisers-tokeniser-tts-cggt-desc.pmscript.md 
 
-# TTS tokenisation for smj
+## TTS tokenisation for smj
 
 Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
 Then just:

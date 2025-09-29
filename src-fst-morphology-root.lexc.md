@@ -313,7 +313,7 @@ Semantics are classified with
 
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
-* **+V→N +V→V +V→A** =          
+* **+V→N +V→V +V→A** =
 * **+Der** =          
 * **+Der/шЫ** =          Act Prc
 * **+Der/мЫ** =          Pass Prc
