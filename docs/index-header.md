@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-mrj)](https://github.com/giellalt/lang-mrj/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-mrj)](https://github.com/giellalt/lang-mrj/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-mrj?label=CI)](https://builds.giellalt.org/pipelines/lang-mrj/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/west2392)
 
 This page documents the work on the [Western (Hill) Mari language model](http://github.com/giellalt/lang-mrj). 
 
