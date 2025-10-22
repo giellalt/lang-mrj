@@ -4,7 +4,7 @@
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-mrj%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-mrj)](https://github.com/giellalt/lang-mrj/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-mrj)](https://github.com/giellalt/lang-mrj/issues)
-[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-mrj/main/badge.svg)](https://github.com/giellalt/lang-mrj/actions)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-mrj?label=CI)](https://builds.giellalt.org/pipelines/lang-mrj/builds/latest)
 
 This page documents the work on the [Western (Hill) Mari language model](http://github.com/giellalt/lang-mrj). 
 
