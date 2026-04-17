@@ -1,12 +1,12 @@
 The Hill Mari (Western Mari) morphology and tools
 ==========================================
 
-[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-mrj%2Fgh-pages%2Fbadgedata%2Ffst-maturity.json)](https://giellalt.github.io/MaturityClassification.html)
-![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-mrj%2Fgh-pages%2Fbadgedata%2Ffst-lemmacount.json)
+[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-mrj%2Fmain%2Fdocs%2Fbadgedata%2Ffst-maturity.json)](https://giellalt.github.io/MaturityClassification.html)
+![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-mrj%2Fmain%2Fdocs%2Fbadgedata%2Ffst-lemmacount.json)
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-mrj)](https://github.com/giellalt/lang-mrj/issues)
 [![License](https://img.shields.io/github/license/giellalt/lang-mrj)](https://github.com/giellalt/lang-mrj/blob/main/LICENSE)
-[![Doc Build Status](https://github.com/giellalt/lang-mrj/workflows/Docs/badge.svg)](https://github.com/giellalt/lang-mrj/actions)
-[![CI/CD Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-mrj/main/badge.svg)](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-mrj/main/latest)
+[![Doc build](https://img.shields.io/github/actions/workflow/status/giellalt/lang-mrj/docs.yml?logo=github&label=DocCI)](https://github.com/giellalt/lang-mrj/actions/workflows/docs.yml)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-mrj?logo=buildkite&label=CoreCI)](https://builds.giellalt.org/pipelines/lang-mrj/builds/latest)
 
 Download nightly / CI/CD installation packages for testing (contains the core zhfst file(s)):
 
